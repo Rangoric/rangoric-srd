@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Clockwork Leviathan
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]] (Clockwork)
-  - **Hit Dice**: 16d10+40 (128 hp)
-  - **Initiative**: +8
-  - **Speed**: 30 ft. (6 squares), swim 60 ft.
-  - **Armor Class**: 28 (+4 Dex, +2 dodge, +14 natural, –2 size), touch 14, flat-footed 22
-  - **Base Attack**: +16; **CMB**: +29 (+33 grapple); **CMD**: 45 (can't be tripped)
-  - **Attack**: Bite +25 melee (2d6+11 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or slam +25 melee (1d8+11 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +25 melee (2d6+11 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 slam +25 melee (1d8+11 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (60-ft. line, 12d8 fire damage, DC 18 for half, usable every 1d4 rounds, 3/day), [[rangoric-srd/monsters/abilities/Grind (Clockwork Leviathan)|grind]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (2d8+16 slashing damage plus 2d6 fire damage, AC 17, 12 hp)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], swift reactions, winding, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], vulnerable to electricity
-  - **Saves**: Fort +5, Ref +11, Will +5
-  - **Abilities**: Str 33, Dex 18, Con —, Int —, Wis 11, Cha 1
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +8 (+12 in water)
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
-  - **Environment**: Any
-  - **Organization**: Solitary or pod (2–4)
-  - **Challenge Rating**: 12
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]] (Clockwork)
+- **Hit Dice**: 16d10+40 (128 hp)
+- **Initiative**: +8
+- **Speed**: 30 ft. (6 squares), swim 60 ft.
+- **Armor Class**: 28 (+4 Dex, +2 dodge, +14 natural, –2 size), touch 14, flat-footed 22
+- **Base Attack**: +16; **CMB**: +29 (+33 grapple); **CMD**: 45 (can't be tripped)
+- **Attack**: Bite +25 melee (2d6+11 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or slam +25 melee (1d8+11 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +25 melee (2d6+11 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 slam +25 melee (1d8+11 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (60-ft. line, 12d8 fire damage, DC 18 for half, usable every 1d4 rounds, 3/day), [[rangoric-srd/monsters/abilities/Grind (Clockwork Leviathan)|grind]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (2d8+16 slashing damage plus 2d6 fire damage, AC 17, 12 hp)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], swift reactions, winding, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], vulnerable to electricity
+- **Saves**: Fort +5, Ref +11, Will +5
+- **Abilities**: Str 33, Dex 18, Con —, Int —, Wis 11, Cha 1
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +8 (+12 in water)
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
+- **Environment**: Any
+- **Organization**: Solitary or pod (2–4)
+- **Challenge Rating**: 12
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Clockwork leviathans are equally capable of functioning on land and in water. Sailors who are haunted by the memories of these treacherous machines need not exaggerate their yarns, for the reality of an aquatic construct such as this holds enough terror in its story for even the hardiest of seafarers.
 
@@ -79,4 +79,4 @@ Clockwork leviathans are 25 feet long and weigh just over 3 tons.
 
 ### Construction
 
-CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]*, *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, *[[rangoric-srd/spells/Heat Metal|heat metal]]*, and *[[rangoric-srd/spells/Limited Wish|limited wish]]*, creator must be at least caster level 12th; Skill [[rangoric-srd/skills/Craft|Craft]] (clockwork) DC 20; Price 130,000 gp; Cost 70,000 gp.
+CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Heat Metal|heat metal]]_, and _[[rangoric-srd/spells/Limited Wish|limited wish]]_, creator must be at least caster level 12th; Skill [[rangoric-srd/skills/Craft|Craft]] (clockwork) DC 20; Price 130,000 gp; Cost 70,000 gp.

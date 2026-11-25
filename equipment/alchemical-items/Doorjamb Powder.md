@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Doorjamb Powder
 
-*Powder; Special*
+_Powder; Special_
 
 Doorjamb powder, or just “doorjam” after the sticky substance that it creates, is a small wedge-shaped leather pouch totally sewn shut and filled with an herbal powder and a small glass vial of alchemical aqua. As long as this item is not struck sharply, it is safe to carry. To use it, the doorjamb is placed in the gap between the floor and the underside of the door. The pouch is kicked sharply so the vial within breaks, turning the powder into a rapidly-setting cement that jams the door tightly against its own frame from the bottom up. This renders the portal a “stuck” door, requiring a Strength DC of 20 (simple doors) or 25 (good or better doors) to force it open or break it down. This item can also be left within the door’s opening arc, so the act of opening the door activates the doorjamb instead of alerting foes to one’s presence with a kick.
 

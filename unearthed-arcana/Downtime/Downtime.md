@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/rules]
 
 In many campaigns, returning to town after an adventure is a lull in your character's activity. You sell loot, stock up on potions, and perhaps wait around for the wizard to scribe some scrolls. However, there is much more you can do in town in between adventures—your character might want to practice with a military school, start a guild, build a temple, train a new pet, and so on. Normally you and the other PCs would have to compete for the GM's attention so you can explain what your characters want to do and haggle over how much time that should take. With the rules presented here, what you can do with a day of downtime is clearly spelled out, allowing you to get on with your plans.
 
-Even if you don't want to use the rules to earn extra gold or throw your weight around in town as a business owner, there are campaign and roleplaying benefits for using the downtime system. For example, if you build or buy a house, you have a comfortable, private place to rest between adventures. By adding a few more rooms, you can easily convert a house into a base of operations for your adventuring party; it would count as "very familiar" for the purpose of your *[[rangoric-srd/spells/Teleport|teleport]]* spells, and if it includes an altar to your deity, you can use it as the destination for a *[[rangoric-srd/spells/Word of Recall|word of recall]]*.
+Even if you don't want to use the rules to earn extra gold or throw your weight around in town as a business owner, there are campaign and roleplaying benefits for using the downtime system. For example, if you build or buy a house, you have a comfortable, private place to rest between adventures. By adding a few more rooms, you can easily convert a house into a base of operations for your adventuring party; it would count as "very familiar" for the purpose of your _[[rangoric-srd/spells/Teleport|teleport]]_ spells, and if it includes an altar to your deity, you can use it as the destination for a _[[rangoric-srd/spells/Word of Recall|word of recall]]_.
 
 Additionally, if you have a business, the GM can insert campaign events and story awards tied to it. You might earn XP as a story award when your business earns its first 1,000 gp or first 100 points of Goods. If you own a restaurant, the king might hear about your famous soup recipe and arrange a visit to sample it. If you have a tavern, it could become a hangout for young adventurers hoping your luck and success rub off on them. In either case, the GM may award you Influence instead of XP for these events.
 
@@ -67,7 +67,7 @@ This section explains the basic game terms for the downtime system. It uses exis
 
 Goods, Influence, Labor, and Magic are the backbone of the downtime system. These types of capital are necessary for completing many downtime activities. You can gain such capital in one of two ways: by purchasing it or by earning it.
 
-**Purchasing Capital**: The easiest way to gain capital is to purchase it by buying materials, bribing people, paying administrative fees, hiring workers, and so on. Goods, Influence, Labor, and Magic each have a specific gp value for this method, listed in the Purchased Cost column of the table below. If you need one of these types of capital, you can spend gp to get it, just like buying a *+1 sword* or hiring a spellcaster to cast *[[rangoric-srd/spells/Remove Curse|remove curse]]* costs you gp. For example, Goods have a Purchased Cost of 20 gp each; if you need to spend 5 points of Goods to repair your tavern, you can spend 100 gp (5 × 20 gp) to purchase the necessary Goods. Purchasing capital is fast, but expensive.
+**Purchasing Capital**: The easiest way to gain capital is to purchase it by buying materials, bribing people, paying administrative fees, hiring workers, and so on. Goods, Influence, Labor, and Magic each have a specific gp value for this method, listed in the Purchased Cost column of the table below. If you need one of these types of capital, you can spend gp to get it, just like buying a _+1 sword_ or hiring a spellcaster to cast _[[rangoric-srd/spells/Remove Curse|remove curse]]_ costs you gp. For example, Goods have a Purchased Cost of 20 gp each; if you need to spend 5 points of Goods to repair your tavern, you can spend 100 gp (5 × 20 gp) to purchase the necessary Goods. Purchasing capital is fast, but expensive.
 
 ### Earning Capital
 
@@ -75,12 +75,12 @@ Many downtime activities, such as doing mundane work with a [[rangoric-srd/skill
 
 **Table: Capital Values**
 
-| Capital | Purchased Cost | Earned Cost |
-| --- | --- | --- |
-| Goods | 20 gp | 10 gp |
-| Influence | 30 gp | 15 gp |
-| Labor | 20 gp | 10 gp |
-| Magic | 100 gp | 50 gp |
+| Capital   | Purchased Cost | Earned Cost |
+| --------- | -------------- | ----------- |
+| Goods     | 20 gp          | 10 gp       |
+| Influence | 30 gp          | 15 gp       |
+| Labor     | 20 gp          | 10 gp       |
+| Magic     | 100 gp         | 50 gp       |
 
 This section assumes you are using the downtime system to earn capital rather than purchasing it, and all gp values in this chapter are based on the Earned Cost. If you aren't using the downtime system to earn capital (and are instead awarded capital as a treasure reward, for example), or you want to purchase something quickly by spending gold pieces, remember to double the listed gp value to find the Purchased Cost of the item or service.
 
@@ -108,13 +108,13 @@ If you chose Goods, Influence, Labor, or Magic, consult the following table to s
 
 #### Skill Check Result
 
-| Skill Check Result | Capital Earned\*(Goods, Influence, Labor, or Magic) |
-| --- | --- |
-| 10 | 1 |
-| 20 | 2 |
-| 30 | 3 |
-| 40 | 4 |
-| \* For every 10 points of your check result after 40, you earn an additional capital. |  |
+| Skill Check Result                                                                    | Capital Earned\*(Goods, Influence, Labor, or Magic) |
+| ------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| 10                                                                                    | 1                                                   |
+| 20                                                                                    | 2                                                   |
+| 30                                                                                    | 3                                                   |
+| 40                                                                                    | 4                                                   |
+| \* For every 10 points of your check result after 40, you earn an additional capital. |                                                     |
 
 If you are using this option to earn Goods, Influence, Labor, or Magic, the skill you're using must be suitable for earning the chosen type of capital; if the GM deems it is not, using that skill reduces the amount generated by half (minimum 1). For example, [[rangoric-srd/skills/Performance|Performance]] might earn you Influence as a musician, but it's not as useful for earning Labor. The GM should inform you of this before you attempt the skill check. In general, the appropriate skills for each type of capital are as follows.
 
@@ -157,15 +157,15 @@ The population of a settlement limits how much help you can get on a given day. 
 #### Settlement
 
 | Settlement | Spending Limit Per Day(Goods, Influence, or Labor) |
-| --- | --- |
-| Thorp | 2 |
-| Hamlet | 4 |
-| Village | 10 |
-| Small town | 15 |
-| Large town | 25 |
-| Small city | 35 |
-| Large city | 50 |
-| Metropolis | 65 |
+| ---------- | -------------------------------------------------- |
+| Thorp      | 2                                                  |
+| Hamlet     | 4                                                  |
+| Village    | 10                                                 |
+| Small town | 15                                                 |
+| Large town | 25                                                 |
+| Small city | 35                                                 |
+| Large city | 50                                                 |
+| Metropolis | 65                                                 |
 
 ### Using Followers
 
@@ -211,7 +211,7 @@ During the Upkeep phase, adjust your capital or other game statistics based on w
 
 **Step 4-Determine Business Attrition**: Business attrition is loss caused by poor morale among employees due to your absence. If a building doesn't generate capital (and therefore isn't a business), skip Step 4. Without any employees to speculate about your absence, there is no chance of mutiny. However, the GM may decide that opportunistic thieves, squatters, monsters, animals, or vermin may move into an abandoned building if you are gone for a long time, requiring you to clear them out if you want to use it again.
 
-Because adventuring is dangerous work, if you're away from a settlement for 30 days or more, you risk losing control of your businesses there as employees begin to wonder whether you're dead. Upon your return, you must attempt a leadership check (1d20 + your Leadership score) against a DC equal to the number of days since you last had contact with that businesses — 10 (so if you've been gone for 30 days, the DC is 20). Having contact with the business requires visiting it personally, sending a qualified representative on your behalf (such as a cohort or manager; see [[rangoric-srd/unearthed-arcana/Downtime/Managers|Managers]]), or sending a formal letter or magical communication (such as *[[rangoric-srd/spells/Dream|dream]]*, *[[rangoric-srd/spells/Sending|sending]]*, or *[[rangoric-srd/spells/Whispering Wind|whispering wind]]*); doing so resets your number of days away to 0.
+Because adventuring is dangerous work, if you're away from a settlement for 30 days or more, you risk losing control of your businesses there as employees begin to wonder whether you're dead. Upon your return, you must attempt a leadership check (1d20 + your Leadership score) against a DC equal to the number of days since you last had contact with that businesses — 10 (so if you've been gone for 30 days, the DC is 20). Having contact with the business requires visiting it personally, sending a qualified representative on your behalf (such as a cohort or manager; see [[rangoric-srd/unearthed-arcana/Downtime/Managers|Managers]]), or sending a formal letter or magical communication (such as _[[rangoric-srd/spells/Dream|dream]]_, _[[rangoric-srd/spells/Sending|sending]]_, or _[[rangoric-srd/spells/Whispering Wind|whispering wind]]_); doing so resets your number of days away to 0.
 
 If this leadership check succeeds, the business remains under your control. For each business you've been away from for at least 30 days, you must continue to attempt this leadership check each day until you make contact again.
 
@@ -231,7 +231,7 @@ During the Activity phase, you declare new downtime activities or continue exist
 
 **Step 3-Begin New Downtime Activity**: If you aren't continuing an earlier downtime activity, or are continuing one that doesn't restrict you from starting a new activity, you can begin a new downtime activity.
 
-**Example**: A character has been crafting a *wand of fireball*, but had to interrupt the process just short of completion to have a short adventure that didn't give him any time to work on the item. When he returns to town and begins a downtime session, he sells some loot in Step 1 (which doesn't use any downtime days), then proceeds to Step 2. In Step 2, he decides to spend downtime finishing the work on the wand, which takes him 1 day of downtime. The next day, he has no ongoing downtime activities, so he proceeds to Step 3 and starts spending Influence to recruit an Apprentice wizard.
+**Example**: A character has been crafting a _wand of fireball_, but had to interrupt the process just short of completion to have a short adventure that didn't give him any time to work on the item. When he returns to town and begins a downtime session, he sells some loot in Step 1 (which doesn't use any downtime days), then proceeds to Step 2. In Step 2, he decides to spend downtime finishing the work on the wand, which takes him 1 day of downtime. The next day, he has no ongoing downtime activities, so he proceeds to Step 3 and starts spending Influence to recruit an Apprentice wizard.
 
 ### Income Phase
 

@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Desert Domain
 
-*A druid domain, which a [[rangoric-srd/classes/Druid|druid]] can take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]; clerics can’t take it.*
+_A druid domain, which a [[rangoric-srd/classes/Druid|druid]] can take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]; clerics can’t take it._
 
 ## Granted Powers
 
@@ -26,14 +26,14 @@ The spirits and secrets of the endless wastes are yours to command.
 
 ## Domain Spells
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Cloak of Shade\|Cloak of Shade]] (M) | Reduces effects of intense sun exposure and environmental heat. |
-| 2nd | [[rangoric-srd/spells/Shifting Sand\|Shifting Sand]] (M) | Creates difficult terrain and erases tracks, can carry along some creatures and objects. |
-| 3rd | [[rangoric-srd/spells/Cup of Dust\|Cup of Dust]] (M) | Causes a creature to become dehydrated. |
-| 4th | [[rangoric-srd/spells/Hallucinatory Terrain\|Hallucinatory Terrain]] (M) | Makes one type of terrain appear like another (field into forest, or the like). |
-| 5th | [[rangoric-srd/spells/Transmute Rock to Mud\|Transmute Rock to Mud]] (creates loose sand instead of mud) | Transforms two 10-ft. cubes per level. |
-| 6th | [[rangoric-srd/spells/Sirocco\|Sirocco]] (M) | Hot wind does 4d6 damage, fatigues those damaged, and knocks creatures prone. |
-| 7th | [[rangoric-srd/spells/Sunbeam\|Sunbeam]] | Beam blinds and deals 4d6 damage. |
-| 8th | [[rangoric-srd/spells/Sunburst\|Sunburst]] | Blinds all within 10 ft., deals 6d6 damage. |
-| 9th | [[rangoric-srd/spells/Horrid Wilting\|Horrid Wilting]] | Deals 1d6/level damage within 30 ft. |
+| Level | Spell                                                                                                    | Brief Description                                                                        |
+| ----- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Cloak of Shade\|Cloak of Shade]] (M)                                               | Reduces effects of intense sun exposure and environmental heat.                          |
+| 2nd   | [[rangoric-srd/spells/Shifting Sand\|Shifting Sand]] (M)                                                 | Creates difficult terrain and erases tracks, can carry along some creatures and objects. |
+| 3rd   | [[rangoric-srd/spells/Cup of Dust\|Cup of Dust]] (M)                                                     | Causes a creature to become dehydrated.                                                  |
+| 4th   | [[rangoric-srd/spells/Hallucinatory Terrain\|Hallucinatory Terrain]] (M)                                 | Makes one type of terrain appear like another (field into forest, or the like).          |
+| 5th   | [[rangoric-srd/spells/Transmute Rock to Mud\|Transmute Rock to Mud]] (creates loose sand instead of mud) | Transforms two 10-ft. cubes per level.                                                   |
+| 6th   | [[rangoric-srd/spells/Sirocco\|Sirocco]] (M)                                                             | Hot wind does 4d6 damage, fatigues those damaged, and knocks creatures prone.            |
+| 7th   | [[rangoric-srd/spells/Sunbeam\|Sunbeam]]                                                                 | Beam blinds and deals 4d6 damage.                                                        |
+| 8th   | [[rangoric-srd/spells/Sunburst\|Sunburst]]                                                               | Blinds all within 10 ft., deals 6d6 damage.                                              |
+| 9th   | [[rangoric-srd/spells/Horrid Wilting\|Horrid Wilting]]                                                   | Deals 1d6/level damage within 30 ft.                                                     |

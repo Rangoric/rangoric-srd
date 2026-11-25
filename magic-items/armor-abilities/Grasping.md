@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Grasping
 
-Wrapped in ensorcelled chains, *grasping* armor gives its wearer a greatly improved ability to grapple opponents. As soon as you are engaged in a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]], the chains begin to entangle the opponent, granting a +10 circumstance bonus on your checks made to maintain the grapple or to pin the opponent. The armor provides no bonus on checks made to escape a grapple or to damage the opponent. The chains cannot be removed from the armor without destroying it.
+Wrapped in ensorcelled chains, _grasping_ armor gives its wearer a greatly improved ability to grapple opponents. As soon as you are engaged in a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]], the chains begin to entangle the opponent, granting a +10 circumstance bonus on your checks made to maintain the grapple or to pin the opponent. The armor provides no bonus on checks made to escape a grapple or to damage the opponent. The chains cannot be removed from the armor without destroying it.
 
-Moderate transmutation; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Animate Rope|animate rope]]*; Price +2 bonus.
+Moderate transmutation; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Animate Rope|animate rope]]_; Price +2 bonus.

@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Giant Dragonfly
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
-  - **Hit Dice**: 7d8+14 (45 hp)
-  - **Initiative**: +2
-  - **Speed**: 20 ft. (4 squares), fly 80 ft. (perfect)
-  - **Armor Class**: 17 (+2 Dex, +5 natural), touch 12, flat-footed 15
-  - **Base Attack**: +5; **CMB**: +9 (+13 grappling, or +17 grappling on a charge); **CMD**: 21 (29 vs. trip)
-  - **Attack**: Bite +9 melee (2d8+6 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +9 melee (2d8+6 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Darting Charge|Darting charge]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-  - **Saves**: Fort +7, Ref +4, Will +3
-  - **Abilities**: Str 19, Dex 15, Con 14, Int —, Wis 12, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10
-  - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]]
-  - **Environment**: Temperate or warm land
-  - **Organization**: Solitary or flight (2–5)
-  - **Challenge Rating**: 4
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
+- **Hit Dice**: 7d8+14 (45 hp)
+- **Initiative**: +2
+- **Speed**: 20 ft. (4 squares), fly 80 ft. (perfect)
+- **Armor Class**: 17 (+2 Dex, +5 natural), touch 12, flat-footed 15
+- **Base Attack**: +5; **CMB**: +9 (+13 grappling, or +17 grappling on a charge); **CMD**: 21 (29 vs. trip)
+- **Attack**: Bite +9 melee (2d8+6 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +9 melee (2d8+6 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Darting Charge|Darting charge]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
+- **Saves**: Fort +7, Ref +4, Will +3
+- **Abilities**: Str 19, Dex 15, Con 14, Int —, Wis 12, Cha 9
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10
+- **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]]
+- **Environment**: Temperate or warm land
+- **Organization**: Solitary or flight (2–5)
+- **Challenge Rating**: 4
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Giant dragonflies are rare compared to other varieties of giant insects, and fortunately so, since they are voracious hunters of warm-blooded prey, including humanoids.
 

@@ -30,16 +30,16 @@ tags: [rangoric, rangoric/spell]
 
 # Desecrate
 
-*Evocation \[Evil\]*
+_Evocation \[Evil\]_
 
-  - **Level**: Apl 2, Clr 2, Evil 2, Inq 2
-  - **Components**: V, S, M, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Area**: 20-ft.-radius emanation
-  - **Duration**: 2 hours/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Apl 2, Clr 2, Evil 2, Inq 2
+- **Components**: V, S, M, DF
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Area**: 20-ft.-radius emanation
+- **Duration**: 2 hours/level
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 This spell imbues an area with negative energy. Each Charisma check made to [[rangoric-srd/combat/Combat Special Attacks#Turn or Rebuke Undead|turn undead]] within this area takes a –3 profane penalty, and every undead creature entering a desecrated area gains a +1 profane bonus on attack rolls, damage rolls, and saving throws. An undead creature created within or summoned into such an area gains +1 hit points per HD.
 
@@ -51,4 +51,4 @@ If the area contains an altar, shrine, or other permanent fixture of a deity, pa
 
 Desecrate counters and dispels consecrate.
 
-*Material Component*: A vial of unholy water and 25 gp worth (5 pounds) of silver dust, all of which must be sprinkled around the area.
+_Material Component_: A vial of unholy water and 25 gp worth (5 pounds) of silver dust, all of which must be sprinkled around the area.

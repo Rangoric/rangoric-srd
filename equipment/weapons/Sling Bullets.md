@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/weapon]
 
 # Sling Bullets
 
-*Ammunition (10).* Cost 1 sp; Weight 5 lb. ^stats
+_Ammunition (10)._ Cost 1 sp; Weight 5 lb. ^stats
 
 Bullets come in a leather pouch that holds 10 bullets. A bullet that hits its target is destroyed; one that misses has a 50% chance of being destroyed or lost.

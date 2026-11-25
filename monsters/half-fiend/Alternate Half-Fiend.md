@@ -44,28 +44,28 @@ tags: [rangoric, rangoric/monster]
 
 # Alternate Half-Fiend
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Native)
-  - **Hit Dice**: 6d10+24 (57 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares), fly 60 ft. (average)
-  - **Armor Class**: 17 (+2 Dex, +6 natural, –1 size), touch 11, flat-footed 15
-  - **Base Attack**: +6; **CMB**: +13; **CMD**: 25
-  - **Attack**: [[rangoric-srd/equipment/weapons/Greataxe|Greataxe]] +11 melee (3d6+9/×3) or bite +11 melee (1d8+3) or gore +11 melee (1d6+3)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Greataxe|Greataxe]] +11/+6 melee (3d6+9/×3) and bite +6 melee (1d8+3) and gore +6 melee (1d6+3)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Smite Good (Template)|Smite good]] 1/day, [[rangoric-srd/monsters/abilities/Powerful Charge|powerful charge]] (gore +13, 2d6+9), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., natural cunning\*, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10, electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17
-  - **Saves**: Fort +8, Ref +7, Will +6
-  - **Abilities**: Str 23, Dex 14, Con 19, Int 9, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +0, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, Knowl. (religion) +5, Percep. +14, [[rangoric-srd/skills/Stealth|Stealth]] +7
-  - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Temperate ruins or underground
-  - **Organization**: Solitary, pair, or gang (3–4)
-  - **Challenge Rating**: 6
-  - **Treasure**: Standard (greataxe, other treasure)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Native)
+- **Hit Dice**: 6d10+24 (57 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares), fly 60 ft. (average)
+- **Armor Class**: 17 (+2 Dex, +6 natural, –1 size), touch 11, flat-footed 15
+- **Base Attack**: +6; **CMB**: +13; **CMD**: 25
+- **Attack**: [[rangoric-srd/equipment/weapons/Greataxe|Greataxe]] +11 melee (3d6+9/×3) or bite +11 melee (1d8+3) or gore +11 melee (1d6+3)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Greataxe|Greataxe]] +11/+6 melee (3d6+9/×3) and bite +6 melee (1d8+3) and gore +6 melee (1d6+3)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Smite Good (Template)|Smite good]] 1/day, [[rangoric-srd/monsters/abilities/Powerful Charge|powerful charge]] (gore +13, 2d6+9), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., natural cunning\*, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10, electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17
+- **Saves**: Fort +8, Ref +7, Will +6
+- **Abilities**: Str 23, Dex 14, Con 19, Int 9, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +0, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, Knowl. (religion) +5, Percep. +14, [[rangoric-srd/skills/Stealth|Stealth]] +7
+- **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Temperate ruins or underground
+- **Organization**: Solitary, pair, or gang (3–4)
+- **Challenge Rating**: 6
+- **Treasure**: Standard (greataxe, other treasure)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The half-fiend above is a half-fiend [[rangoric-srd/monsters/Minotaur|minotaur]].
 
@@ -102,17 +102,17 @@ This is the second version of the half-fiend template; the first is [[rangoric-s
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]**: A half-fiend with an Int or Wis score of 8 or higher has a cumulative number of spell-like abilities set by its HD. Unless otherwise noted, an ability is usable 1/day. CL equals the creature's HD (or the CL of the base creature's spell-like abilities, whichever is higher).
 
 | HD    | Abilities                                                                                              |
-|-------|--------------------------------------------------------------------------------------------------------|
-| 1–2   | *[[rangoric-srd/spells/Darkness\|Darkness]]* 3/day                                                     |
-| 3–4   | *[[rangoric-srd/spells/Desecrate\|Desecrate]]*                                                         |
-| 5–6   | *[[rangoric-srd/spells/Unholy Blight\|Unholy blight]]*                                                 |
-| 7–8   | *[[rangoric-srd/spells/Poison\|Poison]]* 3/day                                                         |
-| 9–10  | *[[rangoric-srd/spells/Contagion\|Contagion]]*                                                         |
-| 11–12 | *[[rangoric-srd/spells/Blasphemy\|Blasphemy]]*                                                         |
-| 13–14 | *[[rangoric-srd/spells/Unholy Aura\|Unholy aura]]* 3/day, *[[rangoric-srd/spells/Unhallow\|unhallow]]* |
-| 15–16 | *[[rangoric-srd/spells/Horrid Wilting\|Horrid wilting]]*                                               |
-| 17–18 | *[[rangoric-srd/spells/Summon Monster IX\|Summon monster IX]]* (fiends only)                           |
-| 19–20 | *[[rangoric-srd/spells/Destruction\|Destruction]]*                                                     |
+| ----- | ------------------------------------------------------------------------------------------------------ |
+| 1–2   | _[[rangoric-srd/spells/Darkness\|Darkness]]_ 3/day                                                     |
+| 3–4   | _[[rangoric-srd/spells/Desecrate\|Desecrate]]_                                                         |
+| 5–6   | _[[rangoric-srd/spells/Unholy Blight\|Unholy blight]]_                                                 |
+| 7–8   | _[[rangoric-srd/spells/Poison\|Poison]]_ 3/day                                                         |
+| 9–10  | _[[rangoric-srd/spells/Contagion\|Contagion]]_                                                         |
+| 11–12 | _[[rangoric-srd/spells/Blasphemy\|Blasphemy]]_                                                         |
+| 13–14 | _[[rangoric-srd/spells/Unholy Aura\|Unholy aura]]_ 3/day, _[[rangoric-srd/spells/Unhallow\|unhallow]]_ |
+| 15–16 | _[[rangoric-srd/spells/Horrid Wilting\|Horrid wilting]]_                                               |
+| 17–18 | _[[rangoric-srd/spells/Summon Monster IX\|Summon monster IX]]_ (fiends only)                           |
+| 19–20 | _[[rangoric-srd/spells/Destruction\|Destruction]]_                                                     |
 
 **Abilities**: A half-fiend gains a +4 bonus on three ability scores of its choice and a +2 bonus on the other three.
 
@@ -120,4 +120,4 @@ This is the second version of the half-fiend template; the first is [[rangoric-s
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th): 3/day—*[[rangoric-srd/spells/Darkness|darkness]]*; 1/day-*[[rangoric-srd/spells/Desecrate|desecrate]], [[rangoric-srd/spells/Unholy Blight|unholy blight]]* (DC 14).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th): 3/day—_[[rangoric-srd/spells/Darkness|darkness]]_; 1/day-_[[rangoric-srd/spells/Desecrate|desecrate]], [[rangoric-srd/spells/Unholy Blight|unholy blight]]_ (DC 14).

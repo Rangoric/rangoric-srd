@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Path of Glory
 
-*Conjuration (Healing)*
+_Conjuration (Healing)_
 
-  - **Level**: Brd 2, Clr 2, Skd 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch (see text)
-  - **Area**: Four 5-ft. squares/level (see text)
-  - **Duration**: 1 round/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Brd 2, Clr 2, Skd 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch (see text)
+- **Area**: Four 5-ft. squares/level (see text)
+- **Duration**: 1 round/level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You cause four 5-foot squares (one of which must be your space) to glow with dim illumination. Starting on your next turn, as a swift action you can extend the glowing area by an additional four 5-foot squares; each new square must be adjacent to a square that was previously glowing. Allies that end their turns on a glowing square (including one who falls unconscious in the square) are healed of 1 point of damage.

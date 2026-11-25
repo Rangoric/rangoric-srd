@@ -24,7 +24,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Flying Blade
 
-*A [[rangoric-srd/classes/Swashbuckler#^swashbuckler-archetypes|swashbuckler]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Swashbuckler#^swashbuckler-archetypes|swashbuckler]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 While most swashbucklers prefer their battles up close, others prefer dealing death from a distance.
 

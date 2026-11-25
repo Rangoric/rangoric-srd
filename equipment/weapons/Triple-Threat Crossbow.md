@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/crossbows]
 
 # Triple-Threat Crossbow
 
-*Exotic ranged weapon.* Cost 80 gp; Dmg 1d8 (S), 1d10 (M); Critical 19-20/x2; Range Increment 100 ft.; Weight 15 lb.; Type Piercing. ^stats
+_Exotic ranged weapon._ Cost 80 gp; Dmg 1d8 (S), 1d10 (M); Critical 19-20/x2; Range Increment 100 ft.; Weight 15 lb.; Type Piercing. ^stats
 
 This is a rare heavy crossbow with an extra wide stock. Three heavy bolt grooves run down the length of the stock with an especially wide string release at its base. This allows for up to three bolts to be fired at once. The wielder must make three separate attack rolls—one for each bolt—and all bolts must be fired simultaneously at the same target.
 

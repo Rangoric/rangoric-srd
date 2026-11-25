@@ -31,7 +31,7 @@ Manifesting Time: 1 standard action
 Range: Medium (100 ft. + 10 ft./ level)  
 Target: One willing creature  
 Duration: 10 min./level or instantaneous; see text  
-Power Points: 11  
+Power Points: 11
 
 You can use this power in one of two ways: to disguise the subject’s aura (alignment) and level, or to remove a compulsion or charm effect from the subject.
 

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Scent
 
-*A [[rangoric-srd/prestige-classes/Master Chymist#^master-chymist-advanced-mutagen|master chymist’s advanced mutagen]] (Ex).*
+_A [[rangoric-srd/prestige-classes/Master Chymist#^master-chymist-advanced-mutagen|master chymist’s advanced mutagen]] (Ex)._
 
 The master chymist gains the [[rangoric-srd/rules/Special Abilities and Conditions#Scent|scent]] ability in her mutagenic form.

@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Shriezyx
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 7d8+7 (38 hp)
-  - **Initiative**: +7
-  - **Speed**: 30 ft. (6 squares), climb 30 ft.
-  - **Armor Class**: 17 (+3 Dex, +4 natural), touch 13, flat-footed 14
-  - **Base Attack**: +5; **CMB**: +6; **CMD**: 19 (31 vs. trip)
-  - **Attack**: Bite +8 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or claw +8 melee (1d4+1)
-  - **Full Attack**: Bite +8 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and 4 claws +8 melee (1d4+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Slowing Toxin|Slowing toxin]], [[rangoric-srd/monsters/abilities/Web|web]] (+8 ranged, DC 14, 7 hp), [[rangoric-srd/monsters/abilities/Poison|poison]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 3 (fire), [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects, [[rangoric-srd/monsters/abilities/Fear of Fire|fear of fire]], vulnerable to fire
-  - **Saves**: Fort +5, Ref +5, Will +6
-  - **Abilities**: Str 13, Dex 17, Con 12, Int 3, Wis 12, Cha 2
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Perception|Perception]] +12
-  - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, or hive (3–12)
-  - **Challenge Rating**: 4
-  - **Treasure**: Incidental
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 7d8+7 (38 hp)
+- **Initiative**: +7
+- **Speed**: 30 ft. (6 squares), climb 30 ft.
+- **Armor Class**: 17 (+3 Dex, +4 natural), touch 13, flat-footed 14
+- **Base Attack**: +5; **CMB**: +6; **CMD**: 19 (31 vs. trip)
+- **Attack**: Bite +8 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or claw +8 melee (1d4+1)
+- **Full Attack**: Bite +8 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and 4 claws +8 melee (1d4+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Slowing Toxin|Slowing toxin]], [[rangoric-srd/monsters/abilities/Web|web]] (+8 ranged, DC 14, 7 hp), [[rangoric-srd/monsters/abilities/Poison|poison]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 3 (fire), [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects, [[rangoric-srd/monsters/abilities/Fear of Fire|fear of fire]], vulnerable to fire
+- **Saves**: Fort +5, Ref +5, Will +6
+- **Abilities**: Str 13, Dex 17, Con 12, Int 3, Wis 12, Cha 2
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Perception|Perception]] +12
+- **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any
+- **Organization**: Solitary, pair, or hive (3–12)
+- **Challenge Rating**: 4
+- **Treasure**: Incidental
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Devised by a cabal of ancient [[rangoric-srd/classes/Wizard|wizards]] to serve as guardians for monuments and laboratories, shriezyx are horrific spiderlike aberrations created in arcane vats out of the flesh of many different creatures. Having outlived their creators, they continue to lurk in ruins, caves, and the deep places of the world, spreading far beyond the original city where they were created.
 

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Quill Defense
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “quill defense”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “quill defense”, on the Special Qualities line.
 
 Any creature that strikes the creature with a non-reach melee weapon, unarmed strike, or natural weapon takes 1d10 points of piercing damage from the creature's quills and suffers from the creature's pain attack. The [[rangoric-srd/monsters/Bandersnatch|bandersnatch]] has it.

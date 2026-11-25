@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Touch of Flame
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Flame Mystery|flame]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Flame Mystery|flame]] mystery._
 
-As a standard action, you can perform a melee touch attack that deals 1d6 points of fire damage +1 point for every two oracle levels you possess. You can use this ability a number of times per day equal to 3 + your Charisma modifier. At 11th level, any weapon that you wield is treated as a *[[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]* weapon.
+As a standard action, you can perform a melee touch attack that deals 1d6 points of fire damage +1 point for every two oracle levels you possess. You can use this ability a number of times per day equal to 3 + your Charisma modifier. At 11th level, any weapon that you wield is treated as a _[[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]_ weapon.

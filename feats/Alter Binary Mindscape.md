@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/feat]
 
 You can shift and change a binary mindscape to your advantage during a [[rangoric-srd/rules/Psychic Duels|psychic duel]].
 
-**Prerequisites**: Int 13, ability to cast *[[rangoric-srd/spells/Instigate Psychic Duel|instigate psychic duel]]*.
+**Prerequisites**: Int 13, ability to cast _[[rangoric-srd/spells/Instigate Psychic Duel|instigate psychic duel]]_.
 
-**Benefit**: When you cast *instigate psychic duel* and create a [[rangoric-srd/rules/Mindscapes#Binary Mindscapes|binary mindscape]], the arena you create puts your enemy at a disadvantage: your opponent must spend 1 more [[rangoric-srd/rules/Psychic Duels#Generating Manifestation Points|manifestation point]] than normal to create any [[rangoric-srd/rules/Psychic Duels#Defensive Manifestations|defensive manifestation]].
+**Benefit**: When you cast _instigate psychic duel_ and create a [[rangoric-srd/rules/Mindscapes#Binary Mindscapes|binary mindscape]], the arena you create puts your enemy at a disadvantage: your opponent must spend 1 more [[rangoric-srd/rules/Psychic Duels#Generating Manifestation Points|manifestation point]] than normal to create any [[rangoric-srd/rules/Psychic Duels#Defensive Manifestations|defensive manifestation]].

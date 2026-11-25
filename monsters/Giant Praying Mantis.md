@@ -36,30 +36,31 @@ change: modified
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---
+
 # Giant Praying Mantis
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
-  - **Hit Dice**: 4d8+12 (30 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares), climb 30 ft., fly 40 ft. (poor)
-  - **Armor Class**: 15 (+1 Dex, +5 natural, –1 size), touch 10, flat-footed 14
-  - **Base Attack**: +3; **CMB**: +7 (+11 grapple); **CMD**: 18 (22 vs. trip)
-  - **Attack**: Claw +5 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: 2 claws +5 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: Lunge, mandibles, sudden strike
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-  - **Saves**: Fort +7, Ref +2, Will +3
-  - **Abilities**: Str 16, Dex 13, Con 16, Int —, Wis 14, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –5, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +1 (+13 in forests)
-  - **Feats**: —
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary
-  - **Challenge Rating**: 3
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 5–8 HD (Large); 9–12 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
+- **Hit Dice**: 4d8+12 (30 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares), climb 30 ft., fly 40 ft. (poor)
+- **Armor Class**: 15 (+1 Dex, +5 natural, –1 size), touch 10, flat-footed 14
+- **Base Attack**: +3; **CMB**: +7 (+11 grapple); **CMD**: 18 (22 vs. trip)
+- **Attack**: Claw +5 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: 2 claws +5 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: Lunge, mandibles, sudden strike
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
+- **Saves**: Fort +7, Ref +2, Will +3
+- **Abilities**: Str 16, Dex 13, Con 16, Int —, Wis 14, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –5, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +1 (+13 in forests)
+- **Feats**: —
+- **Environment**: Temperate forests
+- **Organization**: Solitary
+- **Challenge Rating**: 3
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 5–8 HD (Large); 9–12 HD (Huge)
+- **Level Adjustment**: —
 
 Known to many as the giant praying mantis for the way the creature's deadly front limbs fold under its head as it lies in wait for food, this creature is well feared along caravan tracks that pass through dense woodlands. The giant mantis, a master of hiding in dense undergrowth, is almost unnaturally patient as it lies in wait, striking with unsettling speed as unsuspecting meals wander by.
 

@@ -35,16 +35,16 @@ tags: [rangoric, rangoric/spell]
 
 # Calm Emotions
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Brd 2, Clr 2, Inq 2, Law 2, Mes 2, Occ 2, Psy 2, Sha 2, Skd 2
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Area**: Creatures in a 20-ft.-radius spread
-  - **Duration**: Concentration, up to 1 round/level (D)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 2, Clr 2, Inq 2, Law 2, Mes 2, Occ 2, Psy 2, Sha 2, Skd 2
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Area**: Creatures in a 20-ft.-radius spread
+- **Duration**: Concentration, up to 1 round/level (D)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 This spell calms agitated creatures. You have no control over the affected creatures, but calm emotions can stop raging creatures from fighting or joyous ones from reveling. Creatures so affected cannot take violent actions (although they can defend themselves) or do anything destructive. Any aggressive action against or damage dealt to a calmed creature immediately breaks the spell on all calmed creatures.
 

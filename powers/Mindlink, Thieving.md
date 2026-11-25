@@ -25,7 +25,7 @@ Telepathy \[Mind-Affecting\]
 **Duration:** 10 min./level (D)  
 **Saving Throw:** Will negates  
 **Power Resistance:** Yes  
-**Power Points:** 7  
+**Power Points:** 7
 
 As [[rangoric-srd/powers/Mindlink (Power)|mindlink]], except that if the target is a psionic character or creature that knows powers, you can temporarily borrow a power of your choice (you are aware of what powers the subject knows, up to the highest level of power you can manifest).
 

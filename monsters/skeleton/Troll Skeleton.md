@@ -38,25 +38,25 @@ tags: [rangoric, rangoric/monster]
 
 # Troll Skeleton
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
-  - **Hit Dice**: 6d12 (39 hp)
-  - **Initiative**: +7
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 14 (+3 Dex, –1 size, +2 natural), touch 12, flat-footed 11
-  - **Base Attack**: +3; **CMB**: +10; **CMD**: 23
-  - **Attack**: Claw +8 melee (1d6+6)
-  - **Full Attack**: 2 claws +8 melee (1d6+6) and bite +3 melee (1d6+3)
-  - **Space/Reach**: 10 ft./10 ft
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/bludgeoning, darkvision 60 ft., immunity to cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
-  - **Saves**: Fort +2, Ref +5, Will +5
-  - **Abilities**: Str 23, Dex 16, Con —, Int —, Wis 10, Cha 1
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
-  - **Environment**: Cold mountains
-  - **Organization**: Any
-  - **Challenge Rating**: 3
-  - **Treasure**: None
-  - **Alignment**: Always neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
+- **Hit Dice**: 6d12 (39 hp)
+- **Initiative**: +7
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 14 (+3 Dex, –1 size, +2 natural), touch 12, flat-footed 11
+- **Base Attack**: +3; **CMB**: +10; **CMD**: 23
+- **Attack**: Claw +8 melee (1d6+6)
+- **Full Attack**: 2 claws +8 melee (1d6+6) and bite +3 melee (1d6+3)
+- **Space/Reach**: 10 ft./10 ft
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/bludgeoning, darkvision 60 ft., immunity to cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
+- **Saves**: Fort +2, Ref +5, Will +5
+- **Abilities**: Str 23, Dex 16, Con —, Int —, Wis 10, Cha 1
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
+- **Environment**: Cold mountains
+- **Organization**: Any
+- **Challenge Rating**: 3
+- **Treasure**: None
+- **Alignment**: Always neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —

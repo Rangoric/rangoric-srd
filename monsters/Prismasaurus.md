@@ -59,7 +59,7 @@ Organization: Solitary or pair    
 Challenge Rating: 28      
 Treasure: None      
 Alignment: Always neutral      
-Advancement: 61-90 HD (Huge); 91-150 HD (Gargantuan)     
+Advancement: 61-90 HD (Huge); 91-150 HD (Gargantuan)   
 
 #### Combat
 

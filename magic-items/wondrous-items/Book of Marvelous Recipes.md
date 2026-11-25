@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/magic-item]
 
 The pages of this thick and travel-worn leather book visibly rewrite themselves as a reader flips through them, creating a number of delicious recipes that seem to anticipate the current craving or culinary desires of the reader. The recipes can aid the reader in creating such dishes, allowing him to use the [[rangoric-srd/skills/Profession|Profession]] (cook) skill untrained, or granting a +4 competence bonus on such checks if the reader is trained in that skill.
 
-Furthermore, once per day, this book can be used to enhance a meal the reader is cooking. When used in this way, it grants the meal being cooked the effects of a *[[rangoric-srd/spells/Heroes’ Feast|heroes' feast]]* spell (caster level 11th).
+Furthermore, once per day, this book can be used to enhance a meal the reader is cooking. When used in this way, it grants the meal being cooked the effects of a _[[rangoric-srd/spells/Heroes’ Feast|heroes' feast]]_ spell (caster level 11th).
 
-Moderate conjuration; CL 11th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Heroes’ Feast|heroes' feast]]*, the creator must have at least 4 ranks in [[rangoric-srd/skills/Profession|Profession]] (cook); Price 28,800 gp; Cost 14,400 gp; Weight 3 lbs.
+Moderate conjuration; CL 11th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Heroes’ Feast|heroes' feast]]_, the creator must have at least 4 ranks in [[rangoric-srd/skills/Profession|Profession]] (cook); Price 28,800 gp; Cost 14,400 gp; Weight 3 lbs.

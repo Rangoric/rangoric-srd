@@ -36,13 +36,13 @@ When a character is wearing at least one armor piece of a type with which he is 
 
 **Table: Half-Plate Suit Pieces**
 
-| Armor Piece | Cost | Armor Bonus | Maximum Dex Bonus | Armor Check Penalty | Arcane Spell Failure Chance | Speed (30 ft.) | Speed (20 ft.) | Weight |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [[rangoric-srd/equipment/armor/Half-Plate\|Half-plate]] | 600 gp | +8 | +0 | –7 | 40% | 20 ft. | 15 ft. | 50 lbs. |
-| (plate arm armor piece) | 375 gp | +1 | +0 | –7 | 35% | 30 ft. | 20 ft. | 10 lbs. |
-| (chain leg armor piece) | 25 gp | +0 | +2 | –2 | 15% | 30 ft. | 20 ft. | 10 lbs. |
-| (plate torso armor piece) | 200 gp | +6 | +3 | –4 | 35% | 20 ft. | 15 ft. | 30 lbs. |
-| (suit) | — | +1 | — | — | +5% | — | — | — |
+| Armor Piece                                             | Cost   | Armor Bonus | Maximum Dex Bonus | Armor Check Penalty | Arcane Spell Failure Chance | Speed (30 ft.) | Speed (20 ft.) | Weight  |
+| ------------------------------------------------------- | ------ | ----------- | ----------------- | ------------------- | --------------------------- | -------------- | -------------- | ------- |
+| [[rangoric-srd/equipment/armor/Half-Plate\|Half-plate]] | 600 gp | +8          | +0                | –7                  | 40%                         | 20 ft.         | 15 ft.         | 50 lbs. |
+| (plate arm armor piece)                                 | 375 gp | +1          | +0                | –7                  | 35%                         | 30 ft.         | 20 ft.         | 10 lbs. |
+| (chain leg armor piece)                                 | 25 gp  | +0          | +2                | –2                  | 15%                         | 30 ft.         | 20 ft.         | 10 lbs. |
+| (plate torso armor piece)                               | 200 gp | +6          | +3                | –4                  | 35%                         | 20 ft.         | 15 ft.         | 30 lbs. |
+| (suit)                                                  | —      | +1          | —                 | —                   | +5%                         | —              | —              | —       |
 
 ## Masterwork, Special Material, and Magic Armor
 
@@ -52,7 +52,7 @@ The most efficient way to create masterwork armor or to enchant magical armor is
 
 If a character is wearing pieces of separately created or enchanted armor, the armor only takes the benefits provided by the masterwork quality and the magic of the most protective piece—typically the torso armor piece. If a character does not wear a torso armor piece, the most protective piece is the leg armor piece (the second most protective category of armor pieces), followed by the arm armor piece (the third most protective category).
 
-For instance, if a character does not wear a torso or leg armor piece, but wears a *+1 chain arm armor piece*, she gains the benefit of wearing magic armor (the piece acts as masterwork and has a +1 enhancement bonus due to the enchantment). If that character then puts on a normal chain torso armor piece, she loses the +1 bonus due to magic and the reduction of armor check penalties for being masterwork, as the most protective armor piece no longer has either of these qualities.
+For instance, if a character does not wear a torso or leg armor piece, but wears a _+1 chain arm armor piece_, she gains the benefit of wearing magic armor (the piece acts as masterwork and has a +1 enhancement bonus due to the enchantment). If that character then puts on a normal chain torso armor piece, she loses the +1 bonus due to magic and the reduction of armor check penalties for being masterwork, as the most protective armor piece no longer has either of these qualities.
 
 In order for the armor to gain the benefits of a special material, all armor pieces worn must be made of the same special material. Because of this, armor pieces constructed of special materials can be constructed at a decreased cost based on which pieces are made of the special material. Constructing a whole suit of armor with the same special materials uses the standard costs.
 
@@ -65,7 +65,7 @@ Armor pieces made of adamantine grant their wearers damage reduction of 1/— if
 **Table: Adamantine Item Costs**
 
 | Type of Adamantine Item  | Cost Modifier |
-|--------------------------|---------------|
+| ------------------------ | ------------- |
 | Medium arm armor piece   | 2,500 gp      |
 | Medium leg armor piece   | 2,500 gp      |
 | Medium torso armor piece | 5,000 gp      |
@@ -86,7 +86,7 @@ An item made of mithral weighs half as much as the same item made from other met
 **Table: Mithral Item Costs**
 
 | Type of Mithral Item     | Item Cost Modifier |
-|--------------------------|--------------------|
+| ------------------------ | ------------------ |
 | Medium arm armor piece   | 1,500 gp           |
 | Medium leg armor piece   | 1,500 gp           |
 | Medium torso armor piece | 1,000 gp           |
@@ -106,21 +106,21 @@ The time required to don an armor piece is based on its type and the area it pro
 
 **Table: Donning Armor Pieces**
 
-| Armor Piece Type and Protective Area | Don | Don Hastily | Remove |
-| --- | --- | --- | --- |
-| Light arm armor piece | 2 rounds | 1 round | 2 rounds (1) |
-| Light leg armor piece | 3 rounds | 2 rounds | 2 rounds (1) |
-| Light torso armor piece | 5 rounds | 2 rounds | 5 rounds (1) |
-| Medium arm armor piece | 1 minute (1) | 2 rounds | 2 rounds (1) |
-| Medium leg armor piece | 1 minute (1) | 3 rounds | 2 rounds (1) |
-| Medium torso armor piece | 1 minute (1) | 5 rounds | 3 rounds (1) |
-| Heavy arm armor piece | 1 minute (2) | 1 minute (1) | 1 minute (1) |
-| Heavy leg armor piece | 1 minute (2) | 1 minute (1) | 1 minute (1) |
-| Heavy torso armor piece | 2 minutes (2) | 1 minute (1) | 2 minutes (1) |
+| Armor Piece Type and Protective Area | Don           | Don Hastily  | Remove        |
+| ------------------------------------ | ------------- | ------------ | ------------- |
+| Light arm armor piece                | 2 rounds      | 1 round      | 2 rounds (1)  |
+| Light leg armor piece                | 3 rounds      | 2 rounds     | 2 rounds (1)  |
+| Light torso armor piece              | 5 rounds      | 2 rounds     | 5 rounds (1)  |
+| Medium arm armor piece               | 1 minute (1)  | 2 rounds     | 2 rounds (1)  |
+| Medium leg armor piece               | 1 minute (1)  | 3 rounds     | 2 rounds (1)  |
+| Medium torso armor piece             | 1 minute (1)  | 5 rounds     | 3 rounds (1)  |
+| Heavy arm armor piece                | 1 minute (2)  | 1 minute (1) | 1 minute (1)  |
+| Heavy leg armor piece                | 1 minute (2)  | 1 minute (1) | 1 minute (1)  |
+| Heavy torso armor piece              | 2 minutes (2) | 1 minute (1) | 2 minutes (1) |
 
-1 *If the character has some help, this time is halved. A single character doing nothing else can help one or two adjacent creatures. Two characters can't help each other don or remove armor pieces at the same time.*
+1 _If the character has some help, this time is halved. A single character doing nothing else can help one or two adjacent creatures. Two characters can't help each other don or remove armor pieces at the same time._
 
-2 *The wearer must have help to don this armor piece. Without help, it can only be donned hastily.*
+2 _The wearer must have help to don this armor piece. Without help, it can only be donned hastily._
 
 **Armor Pieces for Unusual Creatures**: Armor pieces for unusually big creatures, unusually little creatures, and non-humanoid creatures (such as horses) have different costs and weights from those given in the Arm Armor, Leg Armor and Torso Armor tables. Refer to the appropriate line in the [[rangoric-srd/equipment/Equipment Armor#Armor for Unusual Creatures|Armor for Unusual Creatures]] table and apply the multipliers to cost and weight. For animals with four or more legs, the armor for half of the legs counts as the leg armor piece, and the armor for the other half counts as the arm armor piece.
 
@@ -134,34 +134,34 @@ The following pieces of armor make up the piecemeal armor system, and are split 
 
 **Table: Arm Armor Pieces**
 
-| Armor Piece | Cost | Armor Bonus | Maximum Dex Bonus | Armor Check Penalty | Arcane Spell Failure Chance | Speed (30 ft.) | Speed (20 ft.) | Weight (1) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| *Light armor* | | | | | | | | |
-| [[rangoric-srd/equipment/armor/Lamellar, Leather\|Lamellar, leather]] | 15 gp | +0 | +3 | –1 | 20% | 30 ft. | 20 ft. | 5 lbs. |
-| [[rangoric-srd/equipment/armor/Leather Armor\|Leather]] | 2 gp | +0 | +6 | 0 | 10% | 30 ft. | 20 ft. | 2 lbs. |
-| [[rangoric-srd/equipment/armor/Padded Armor\|Padded]] | 1 gp | +0 | +8 | 0 | 5% | 30 ft. | 20 ft. | 2 lbs. |
-| [[rangoric-srd/equipment/armor/Quilted Cloth Armor\|Quilted cloth]] | 25 gp | +0 | +8 | 0 | 10% | 30 ft. | 20 ft. | 2 lbs. |
-| [[rangoric-srd/equipment/armor/Studded Leather\|Studded leather]] | 5 gp | +0 | +5 | 0 | 15% | 30 ft. | 20 ft. | 2 lbs. |
-| [[rangoric-srd/equipment/armor/Wooden Armor\|Wooden]] | 5 gp | +0 | +3 | –1 | 15% | 30 ft. | 20 ft. | 3 lbs. |
-| *Medium armor* | | | | | | | | |
-| [[rangoric-srd/equipment/armor/Hide Armor\|Hide]] | 2 gp | +0 | +4 | –2 | 20% | 30 ft. | 20 ft. | 3 lbs. |
-| [[rangoric-srd/equipment/armor/Kikko Armor\|Kikko]] | 5 gp | +0 | +5 | –1 | 20% | 30 ft. | 20 ft. | 5 lbs. |
-| [[rangoric-srd/equipment/armor/Chainmail\|Chain]] | 25 gp | +1 | +2 | –3 | 30% | 30 ft. | 20 ft. | 5 lbs. |
-| [[rangoric-srd/equipment/armor/Lamellar, Horn\|Lamellar, horn]] | 25 gp | +1 | +5 | –2 | 25% | 30 ft. | 20 ft. | 5 lbs. |
-| [[rangoric-srd/equipment/armor/Lamellar, Steel\|Lamellar, steel]] | 25 gp | +1 | +3 | –2 | 25% | 30 ft. | 20 ft. | 5 lbs. |
-| [[rangoric-srd/equipment/armor/Mountain Pattern Armor\|Mountain pattern]] | 50 gp | +1 | +3 | –2 | 30% | 30 ft. | 20 ft. | 10 lbs. |
-| [[rangoric-srd/equipment/armor/Scale Mail\|Scale]] | 10 gp | +1 | +3 | –2 | 25% | 30 ft. | 20 ft. | 5 lbs. |
-| *Heavy armor* | | | | | | | | |
-| [[rangoric-srd/equipment/armor/Agile Half-Plate\|Agile plate]] | 425 gp | +1 | +0 | –7 | 40% | 30 ft. | 20 ft. | 5 lbs. |
-| [[rangoric-srd/equipment/armor/Banded Mail\|Banded]] | 50 gp | +1 | +1 | –3 | 35% | 30 ft. | 20 ft. | 5 lbs. |
-| [[rangoric-srd/equipment/armor/Kusari Gusoku\|Kusari gusoku]] | 50 gp | +1 | +1 | –3 | 35% | 30 ft. | 20 ft. | 5 lbs. |
-| [[rangoric-srd/equipment/armor/Lamellar, Iron\|Lamellar, iron]] | 50 gp | +1 | +0 | –4 | 40% | 30 ft. | 20 ft. | 10 lbs. |
-| [[rangoric-srd/equipment/armor/O-Yoroi\|O-yoroi]] | 250 gp | +1 | +2 | –5 | 35% | 30 ft. | 20 ft. | 5 lbs. |
-| [[rangoric-srd/equipment/armor/Full Plate\|Plate]] | 375 gp | +1 | +1 | –7 | 35% | 30 ft. | 20 ft. | 10 lbs. |
-| [[rangoric-srd/equipment/armor/Splint Mail\|Splint]] | 50 gp | +1 | +0 | –4 | 40% | 30 ft. | 20 ft. | 5 lbs. |
-| [[rangoric-srd/equipment/armor/Tatami-Do\|Tatami-do]] | 100 gp | +1 | +3 | –5 | 35% | 30 ft. | 20 ft. | 5 lbs. |
+| Armor Piece                                                               | Cost   | Armor Bonus | Maximum Dex Bonus | Armor Check Penalty | Arcane Spell Failure Chance | Speed (30 ft.) | Speed (20 ft.) | Weight (1) |
+| ------------------------------------------------------------------------- | ------ | ----------- | ----------------- | ------------------- | --------------------------- | -------------- | -------------- | ---------- |
+| _Light armor_                                                             |        |             |                   |                     |                             |                |                |            |
+| [[rangoric-srd/equipment/armor/Lamellar, Leather\|Lamellar, leather]]     | 15 gp  | +0          | +3                | –1                  | 20%                         | 30 ft.         | 20 ft.         | 5 lbs.     |
+| [[rangoric-srd/equipment/armor/Leather Armor\|Leather]]                   | 2 gp   | +0          | +6                | 0                   | 10%                         | 30 ft.         | 20 ft.         | 2 lbs.     |
+| [[rangoric-srd/equipment/armor/Padded Armor\|Padded]]                     | 1 gp   | +0          | +8                | 0                   | 5%                          | 30 ft.         | 20 ft.         | 2 lbs.     |
+| [[rangoric-srd/equipment/armor/Quilted Cloth Armor\|Quilted cloth]]       | 25 gp  | +0          | +8                | 0                   | 10%                         | 30 ft.         | 20 ft.         | 2 lbs.     |
+| [[rangoric-srd/equipment/armor/Studded Leather\|Studded leather]]         | 5 gp   | +0          | +5                | 0                   | 15%                         | 30 ft.         | 20 ft.         | 2 lbs.     |
+| [[rangoric-srd/equipment/armor/Wooden Armor\|Wooden]]                     | 5 gp   | +0          | +3                | –1                  | 15%                         | 30 ft.         | 20 ft.         | 3 lbs.     |
+| _Medium armor_                                                            |        |             |                   |                     |                             |                |                |            |
+| [[rangoric-srd/equipment/armor/Hide Armor\|Hide]]                         | 2 gp   | +0          | +4                | –2                  | 20%                         | 30 ft.         | 20 ft.         | 3 lbs.     |
+| [[rangoric-srd/equipment/armor/Kikko Armor\|Kikko]]                       | 5 gp   | +0          | +5                | –1                  | 20%                         | 30 ft.         | 20 ft.         | 5 lbs.     |
+| [[rangoric-srd/equipment/armor/Chainmail\|Chain]]                         | 25 gp  | +1          | +2                | –3                  | 30%                         | 30 ft.         | 20 ft.         | 5 lbs.     |
+| [[rangoric-srd/equipment/armor/Lamellar, Horn\|Lamellar, horn]]           | 25 gp  | +1          | +5                | –2                  | 25%                         | 30 ft.         | 20 ft.         | 5 lbs.     |
+| [[rangoric-srd/equipment/armor/Lamellar, Steel\|Lamellar, steel]]         | 25 gp  | +1          | +3                | –2                  | 25%                         | 30 ft.         | 20 ft.         | 5 lbs.     |
+| [[rangoric-srd/equipment/armor/Mountain Pattern Armor\|Mountain pattern]] | 50 gp  | +1          | +3                | –2                  | 30%                         | 30 ft.         | 20 ft.         | 10 lbs.    |
+| [[rangoric-srd/equipment/armor/Scale Mail\|Scale]]                        | 10 gp  | +1          | +3                | –2                  | 25%                         | 30 ft.         | 20 ft.         | 5 lbs.     |
+| _Heavy armor_                                                             |        |             |                   |                     |                             |                |                |            |
+| [[rangoric-srd/equipment/armor/Agile Half-Plate\|Agile plate]]            | 425 gp | +1          | +0                | –7                  | 40%                         | 30 ft.         | 20 ft.         | 5 lbs.     |
+| [[rangoric-srd/equipment/armor/Banded Mail\|Banded]]                      | 50 gp  | +1          | +1                | –3                  | 35%                         | 30 ft.         | 20 ft.         | 5 lbs.     |
+| [[rangoric-srd/equipment/armor/Kusari Gusoku\|Kusari gusoku]]             | 50 gp  | +1          | +1                | –3                  | 35%                         | 30 ft.         | 20 ft.         | 5 lbs.     |
+| [[rangoric-srd/equipment/armor/Lamellar, Iron\|Lamellar, iron]]           | 50 gp  | +1          | +0                | –4                  | 40%                         | 30 ft.         | 20 ft.         | 10 lbs.    |
+| [[rangoric-srd/equipment/armor/O-Yoroi\|O-yoroi]]                         | 250 gp | +1          | +2                | –5                  | 35%                         | 30 ft.         | 20 ft.         | 5 lbs.     |
+| [[rangoric-srd/equipment/armor/Full Plate\|Plate]]                        | 375 gp | +1          | +1                | –7                  | 35%                         | 30 ft.         | 20 ft.         | 10 lbs.    |
+| [[rangoric-srd/equipment/armor/Splint Mail\|Splint]]                      | 50 gp  | +1          | +0                | –4                  | 40%                         | 30 ft.         | 20 ft.         | 5 lbs.     |
+| [[rangoric-srd/equipment/armor/Tatami-Do\|Tatami-do]]                     | 100 gp | +1          | +3                | –5                  | 35%                         | 30 ft.         | 20 ft.         | 5 lbs.     |
 
-1 *Weight figures are for armor pieces sized to fit Medium characters. Armor pieces fitted for Small characters weigh half as much, and armor pieces fitted for Large characters weigh twice as much.*
+1 _Weight figures are for armor pieces sized to fit Medium characters. Armor pieces fitted for Small characters weigh half as much, and armor pieces fitted for Large characters weigh twice as much._
 
 With the smallest area to protect, arm armor pieces tend to have the lowest armor value of all the piecemeal armor types, with light armor pieces offering little to no protection unless they are part of a complete suit. Because arm armor pieces tend to interfere with hand movements needed for somatic components, they offer the highest spell failure chance.
 
@@ -211,35 +211,35 @@ With the smallest area to protect, arm armor pieces tend to have the lowest armo
 
 **Table: Leg Armor Pieces**
 
-| Armor Piece | Cost | Armor Bonus | Maximum Dex Bonus | Armor Check Penalty | Arcane Spell Failure Chance | Speed (30 ft.) | Speed (20 ft.) | Weight (1) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| *Light armor* | | | | | | | | |
-| [[rangoric-srd/equipment/armor/Leather Armor\|Leather]] | 3 gp | +0 | +6 | 0 | 0% | 30 ft. | 20 ft. | 3 lbs. |
-| [[rangoric-srd/equipment/armor/Padded Armor\|Padded]] | 1 gp | +0 | +8 | 0 | 0% | 30 ft. | 20 ft. | 3 lbs. |
-| [[rangoric-srd/equipment/armor/Quilted Cloth Armor\|Quilted cloth]] | 25 gp | +0 | +8 | 0 | 5% | 30 ft. | 20 ft. | 3 lbs. |
-| [[rangoric-srd/equipment/armor/Lamellar, Leather\|Lamellar, leather]] | 15 gp | +1 | +2 | –1 | 10% | 30 ft. | 20 ft. | 10 lbs. |
-| [[rangoric-srd/equipment/armor/Studded Leather\|Studded leather]] | 5 gp | +1 | +5 | 0 | 10% | 30 ft. | 20 ft. | 3 lbs. |
-| [[rangoric-srd/equipment/armor/Wooden Armor\|Wooden]] | 5 gp | +1 | +3 | –1 | 5% | 30 ft. | 20 ft. | 7 lbs. |
-| *Medium armor* | | | | | | | | |
-| [[rangoric-srd/equipment/armor/Chainmail\|Chain]] | 25 gp | +0 | +2 | –2 | 15% | 30 ft. | 20 ft. | 10 lbs. |
-| [[rangoric-srd/equipment/armor/Hide Armor\|Hide]] | 3 gp | +1 | +4 | –2 | 10% | 30 ft. | 20 ft. | 7 lbs. |
-| [[rangoric-srd/equipment/armor/Kikko Armor\|Kikko]] | 10 gp | +1 | +3 | –1 | 10% | 20 ft. | 15 ft. | 5 lbs. |
-| [[rangoric-srd/equipment/armor/Lamellar, Horn\|Lamellar, horn]] | 25 gp | +1 | +3 | –2 | 10% | 20 ft. | 15 ft. | 5 lbs. |
-| [[rangoric-srd/equipment/armor/Lamellar, Steel\|Lamellar, steel]] | 25 gp | +1 | +3 | –2 | 15% | 30 ft. | 20 ft. | 5 lbs. |
-| [[rangoric-srd/equipment/armor/Mountain Pattern Armor\|Mountain pattern]] | 50 gp | +1 | +3 | –2 | 15% | 20 ft. | 15 ft. | 10 lbs. |
-| [[rangoric-srd/equipment/armor/Scale Mail\|Scale]] | 10 gp | +1 | +3 | –2 | 15% | 30 ft. | 20 ft. | 10 lbs. |
-| *Heavy armor* | | | | | | | | |
-| [[rangoric-srd/equipment/armor/Banded Mail\|Banded]] | 50 gp | +1 | +1 | –3 | 15% | 20 ft. (2) | 15 ft. (2) | 10 lbs. |
-| [[rangoric-srd/equipment/armor/Kusari Gusoku\|Kusari gusoku]] | 100 gp | +1 | +1 | –3 | 20% | 20 ft. (2) | 15 ft. (2) | 10 lbs. |
-| [[rangoric-srd/equipment/armor/Lamellar, Iron\|Lamellar, iron]] | 50 gp | +1 | +1 | –4 | 20% | 20 ft. (2) | 15 ft. (2) | 10 lbs. |
-| [[rangoric-srd/equipment/armor/Full Plate\|Plate]] | 925 gp | +1 | +1 | –3 | 20% | 20 ft. (2) | 15 ft. (2) | 10 lbs. |
-| [[rangoric-srd/equipment/armor/Splint Mail\|Splint]] | 50 gp | +1 | +0 | –4 | 20% | 20 ft. (2) | 15 ft. (2) | 15 lbs. |
-| [[rangoric-srd/equipment/armor/Tatami-Do\|Tatami-do]] | 150 gp | +1 | +3 | –3 | 15% | 20 ft. (2) | 15 ft. (2) | 5 lbs. |
-| [[rangoric-srd/equipment/armor/O-Yoroi\|O-yoroi]] | 300 gp | +2 | +2 | –3 | 20% | 20 ft. (2) | 15 ft. (2) | 5 lbs. |
+| Armor Piece                                                               | Cost   | Armor Bonus | Maximum Dex Bonus | Armor Check Penalty | Arcane Spell Failure Chance | Speed (30 ft.) | Speed (20 ft.) | Weight (1) |
+| ------------------------------------------------------------------------- | ------ | ----------- | ----------------- | ------------------- | --------------------------- | -------------- | -------------- | ---------- |
+| _Light armor_                                                             |        |             |                   |                     |                             |                |                |            |
+| [[rangoric-srd/equipment/armor/Leather Armor\|Leather]]                   | 3 gp   | +0          | +6                | 0                   | 0%                          | 30 ft.         | 20 ft.         | 3 lbs.     |
+| [[rangoric-srd/equipment/armor/Padded Armor\|Padded]]                     | 1 gp   | +0          | +8                | 0                   | 0%                          | 30 ft.         | 20 ft.         | 3 lbs.     |
+| [[rangoric-srd/equipment/armor/Quilted Cloth Armor\|Quilted cloth]]       | 25 gp  | +0          | +8                | 0                   | 5%                          | 30 ft.         | 20 ft.         | 3 lbs.     |
+| [[rangoric-srd/equipment/armor/Lamellar, Leather\|Lamellar, leather]]     | 15 gp  | +1          | +2                | –1                  | 10%                         | 30 ft.         | 20 ft.         | 10 lbs.    |
+| [[rangoric-srd/equipment/armor/Studded Leather\|Studded leather]]         | 5 gp   | +1          | +5                | 0                   | 10%                         | 30 ft.         | 20 ft.         | 3 lbs.     |
+| [[rangoric-srd/equipment/armor/Wooden Armor\|Wooden]]                     | 5 gp   | +1          | +3                | –1                  | 5%                          | 30 ft.         | 20 ft.         | 7 lbs.     |
+| _Medium armor_                                                            |        |             |                   |                     |                             |                |                |            |
+| [[rangoric-srd/equipment/armor/Chainmail\|Chain]]                         | 25 gp  | +0          | +2                | –2                  | 15%                         | 30 ft.         | 20 ft.         | 10 lbs.    |
+| [[rangoric-srd/equipment/armor/Hide Armor\|Hide]]                         | 3 gp   | +1          | +4                | –2                  | 10%                         | 30 ft.         | 20 ft.         | 7 lbs.     |
+| [[rangoric-srd/equipment/armor/Kikko Armor\|Kikko]]                       | 10 gp  | +1          | +3                | –1                  | 10%                         | 20 ft.         | 15 ft.         | 5 lbs.     |
+| [[rangoric-srd/equipment/armor/Lamellar, Horn\|Lamellar, horn]]           | 25 gp  | +1          | +3                | –2                  | 10%                         | 20 ft.         | 15 ft.         | 5 lbs.     |
+| [[rangoric-srd/equipment/armor/Lamellar, Steel\|Lamellar, steel]]         | 25 gp  | +1          | +3                | –2                  | 15%                         | 30 ft.         | 20 ft.         | 5 lbs.     |
+| [[rangoric-srd/equipment/armor/Mountain Pattern Armor\|Mountain pattern]] | 50 gp  | +1          | +3                | –2                  | 15%                         | 20 ft.         | 15 ft.         | 10 lbs.    |
+| [[rangoric-srd/equipment/armor/Scale Mail\|Scale]]                        | 10 gp  | +1          | +3                | –2                  | 15%                         | 30 ft.         | 20 ft.         | 10 lbs.    |
+| _Heavy armor_                                                             |        |             |                   |                     |                             |                |                |            |
+| [[rangoric-srd/equipment/armor/Banded Mail\|Banded]]                      | 50 gp  | +1          | +1                | –3                  | 15%                         | 20 ft. (2)     | 15 ft. (2)     | 10 lbs.    |
+| [[rangoric-srd/equipment/armor/Kusari Gusoku\|Kusari gusoku]]             | 100 gp | +1          | +1                | –3                  | 20%                         | 20 ft. (2)     | 15 ft. (2)     | 10 lbs.    |
+| [[rangoric-srd/equipment/armor/Lamellar, Iron\|Lamellar, iron]]           | 50 gp  | +1          | +1                | –4                  | 20%                         | 20 ft. (2)     | 15 ft. (2)     | 10 lbs.    |
+| [[rangoric-srd/equipment/armor/Full Plate\|Plate]]                        | 925 gp | +1          | +1                | –3                  | 20%                         | 20 ft. (2)     | 15 ft. (2)     | 10 lbs.    |
+| [[rangoric-srd/equipment/armor/Splint Mail\|Splint]]                      | 50 gp  | +1          | +0                | –4                  | 20%                         | 20 ft. (2)     | 15 ft. (2)     | 15 lbs.    |
+| [[rangoric-srd/equipment/armor/Tatami-Do\|Tatami-do]]                     | 150 gp | +1          | +3                | –3                  | 15%                         | 20 ft. (2)     | 15 ft. (2)     | 5 lbs.     |
+| [[rangoric-srd/equipment/armor/O-Yoroi\|O-yoroi]]                         | 300 gp | +2          | +2                | –3                  | 20%                         | 20 ft. (2)     | 15 ft. (2)     | 5 lbs.     |
 
-1 *Weight figures are for armor pieces sized to fit Medium characters. Armor pieces fitted for Small characters weigh half as much, and armor pieces fitted for Large characters weigh twice as much.*
+1 _Weight figures are for armor pieces sized to fit Medium characters. Armor pieces fitted for Small characters weigh half as much, and armor pieces fitted for Large characters weigh twice as much._
 
-2 *When running while wearing this armor piece, you move at only triple your speed, not quadruple.*
+2 _When running while wearing this armor piece, you move at only triple your speed, not quadruple._
 
 Heavier leg armor pieces slow down their wearers and provide higher armor check penalties, but are less restrictive to spellcasters than heavier arm armor pieces.
 
@@ -287,45 +287,45 @@ Heavier leg armor pieces slow down their wearers and provide higher armor check 
 
 **Table: Torso Armor Pieces**
 
-| Armor Piece | Cost | Armor Bonus | Maximum Dex Bonus | Armor Check Penalty | Arcane Spell Failure Chance | Speed (30 ft.) | Speed (20 ft.) | Weight (1) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| *Light armor* | | | | | | | | |
-| [[rangoric-srd/equipment/armor/Padded Armor\|Padded]] | 3 gp | +0 | +8 | 0 | 5% | 30 ft. | 20 ft. | 5 lbs. |
-| [[rangoric-srd/equipment/armor/Quilted Cloth Armor\|Quilted cloth]] | 50 gp | +0 | +8 | 0 | 10% | 30 ft. | 20 ft. | 10 lbs. |
-| [[rangoric-srd/equipment/armor/Haramaki\|Haramaki]] | 3 gp | +1 | +10 | 0 | 0% | 30 ft. | 20 ft. | 1 lb. |
-| [[rangoric-srd/equipment/armor/Leather Armor\|Leather]] | 5 gp | +1 | +6 | 0 | 10% | 30 ft. | 20 ft. | 10 lbs. |
-| [[rangoric-srd/equipment/armor/Silken Ceremonial Armor\|Silken ceremonial armor]] | 30 gp | +1 | +10 | 0 | 0% | 30 ft. | 20 ft. | 4 lbs. |
-| [[rangoric-srd/equipment/armor/Studded Leather\|Studded leather]] | 15 gp | +1 | +5 | 0 | 15% | 30 ft. | 20 ft. | 15 lbs. |
-| [[rangoric-srd/equipment/armor/Wooden Armor\|Wooden]] | 10 gp | +1 | +3 | –1 | 15% | 30 ft. | 20 ft. | 15 lbs. |
-| [[rangoric-srd/equipment/armor/Lamellar Cuirass\|Lamellar cuirass]] | 15 gp | +2 | +4 | 0 | 5% | 30 ft. | 20 ft. | 8 lbs. |
-| [[rangoric-srd/equipment/armor/Lamellar, Leather\|Lamellar, leather]] | 30 gp | +2 | +3 | –2 | 20% | 30 ft. | 20 ft. | 10 lbs. |
-| *Medium armor* | | | | | | | | |
-| [[rangoric-srd/equipment/armor/Lamellar, Steel\|Lamellar, steel]] | 100 gp | +1 | +3 | –5 | 25% | 20 ft. | 15 ft. | 25 lbs. |
-| [[rangoric-srd/equipment/armor/Hide Armor\|Hide]] | 10 gp | +2 | +4 | –2 | 20% | 30 ft. | 20 ft. | 15 lbs. |
-| [[rangoric-srd/equipment/armor/Kikko Armor\|Kikko]] | 15 gp | +2 | +4 | –3 | 20% | 20 ft. | 15 ft. | 15 lbs. |
-| [[rangoric-srd/equipment/armor/Lamellar, Horn\|Lamellar, horn]] | 50 gp | +2 | +3 | –4 | 25% | 20 ft. | 15 ft. | 20 lbs. |
-| [[rangoric-srd/equipment/armor/Scale Mail\|Scale]] | 30 gp | +2 | +3 | –2 | 25% | 30 ft. | 20 ft. | 15 lbs. |
-| [[rangoric-srd/equipment/armor/Mountain Pattern Armor\|Mountain pattern]] | 150 gp | +3 | +3 | –4 | 30% | 20 ft. | 15 ft. | 20 lbs. |
-| [[rangoric-srd/equipment/armor/Armored Coat\|Armored coat]] | 50 gp | +4 | +3 | –2 | 20% | 20 ft. | 15 ft. | 20 lbs. |
-| [[rangoric-srd/equipment/armor/Chainmail\|Chain]] (3) | 100 gp | +4 | +4 | –2 | 30% | 30 ft. | 20 ft. | 25 lbs. |
-| [[rangoric-srd/equipment/armor/Do-Maru\|Do-maru]] | 200 gp | +5 | +4 | –4 | 25% | 20 ft. | 15 ft. | 30 lbs. |
-| [[rangoric-srd/equipment/armor/Four-Mirror Armor\|Four-mirror armor]] | 20 gp | +5 | +4 | –5 | 30% | 20 ft. | 15 ft. | 40 lbs. |
-| *Heavy armor* | | | | | | | | |
-| [[rangoric-srd/equipment/armor/Banded Mail\|Banded]] | 150 gp | +4 | +1 | –2 | 35% | 20 ft. (2) | 15 ft. (2) | 20 lbs. |
-| [[rangoric-srd/equipment/armor/Kusari Gusoku\|Kusari gusoku]] | 200 gp | +4 | +1 | –7 | 35% | 20 ft. (2) | 15 ft. (2) | 20 lbs. |
-| [[rangoric-srd/equipment/armor/Lamellar, Iron\|Lamellar, iron]] | 100 gp | +4 | 0 | –7 | 40% | 20 ft. (2) | 15 ft. (2) | 15 lbs. |
-| [[rangoric-srd/equipment/armor/Splint Mail\|Splint]] | 100 gp | +4 | +0 | –3 | 40% | 20 ft. (2) | 15 ft. (2) | 25 lbs. |
-| [[rangoric-srd/equipment/armor/Tatami-Do\|Tatami-do]] | 500 gp | +4 | +4 | –6 | 35% | 20 ft. (2) | 15 ft. (2) | 30 lbs. |
-| [[rangoric-srd/equipment/armor/O-Yoroi\|O-yoroi]] | 750 gp | +5 | +2 | –6 | 35% | 20 ft. (2) | 15 ft. (2) | 30 lbs. |
-| [[rangoric-srd/equipment/armor/Agile Half-Plate\|Agile plate]] (3) | 400 gp | +6 | +3 | –4 | 25% | 20 ft. | 15 ft. | 25 lbs. |
-| [[rangoric-srd/equipment/armor/Full Plate\|Plate]] (3) | 200 gp | +6 | +3 | –4 | 35% | 20 ft. (2) | 15 ft. (2) | 30 lbs. |
-| [[rangoric-srd/equipment/armor/Stone Coat\|Stone coat]] | 500 gp | +8 | 0 | –7 | 40% | 20 ft. (2) | 15 ft. (2) | 45 lbs. |
+| Armor Piece                                                                       | Cost   | Armor Bonus | Maximum Dex Bonus | Armor Check Penalty | Arcane Spell Failure Chance | Speed (30 ft.) | Speed (20 ft.) | Weight (1) |
+| --------------------------------------------------------------------------------- | ------ | ----------- | ----------------- | ------------------- | --------------------------- | -------------- | -------------- | ---------- |
+| _Light armor_                                                                     |        |             |                   |                     |                             |                |                |            |
+| [[rangoric-srd/equipment/armor/Padded Armor\|Padded]]                             | 3 gp   | +0          | +8                | 0                   | 5%                          | 30 ft.         | 20 ft.         | 5 lbs.     |
+| [[rangoric-srd/equipment/armor/Quilted Cloth Armor\|Quilted cloth]]               | 50 gp  | +0          | +8                | 0                   | 10%                         | 30 ft.         | 20 ft.         | 10 lbs.    |
+| [[rangoric-srd/equipment/armor/Haramaki\|Haramaki]]                               | 3 gp   | +1          | +10               | 0                   | 0%                          | 30 ft.         | 20 ft.         | 1 lb.      |
+| [[rangoric-srd/equipment/armor/Leather Armor\|Leather]]                           | 5 gp   | +1          | +6                | 0                   | 10%                         | 30 ft.         | 20 ft.         | 10 lbs.    |
+| [[rangoric-srd/equipment/armor/Silken Ceremonial Armor\|Silken ceremonial armor]] | 30 gp  | +1          | +10               | 0                   | 0%                          | 30 ft.         | 20 ft.         | 4 lbs.     |
+| [[rangoric-srd/equipment/armor/Studded Leather\|Studded leather]]                 | 15 gp  | +1          | +5                | 0                   | 15%                         | 30 ft.         | 20 ft.         | 15 lbs.    |
+| [[rangoric-srd/equipment/armor/Wooden Armor\|Wooden]]                             | 10 gp  | +1          | +3                | –1                  | 15%                         | 30 ft.         | 20 ft.         | 15 lbs.    |
+| [[rangoric-srd/equipment/armor/Lamellar Cuirass\|Lamellar cuirass]]               | 15 gp  | +2          | +4                | 0                   | 5%                          | 30 ft.         | 20 ft.         | 8 lbs.     |
+| [[rangoric-srd/equipment/armor/Lamellar, Leather\|Lamellar, leather]]             | 30 gp  | +2          | +3                | –2                  | 20%                         | 30 ft.         | 20 ft.         | 10 lbs.    |
+| _Medium armor_                                                                    |        |             |                   |                     |                             |                |                |            |
+| [[rangoric-srd/equipment/armor/Lamellar, Steel\|Lamellar, steel]]                 | 100 gp | +1          | +3                | –5                  | 25%                         | 20 ft.         | 15 ft.         | 25 lbs.    |
+| [[rangoric-srd/equipment/armor/Hide Armor\|Hide]]                                 | 10 gp  | +2          | +4                | –2                  | 20%                         | 30 ft.         | 20 ft.         | 15 lbs.    |
+| [[rangoric-srd/equipment/armor/Kikko Armor\|Kikko]]                               | 15 gp  | +2          | +4                | –3                  | 20%                         | 20 ft.         | 15 ft.         | 15 lbs.    |
+| [[rangoric-srd/equipment/armor/Lamellar, Horn\|Lamellar, horn]]                   | 50 gp  | +2          | +3                | –4                  | 25%                         | 20 ft.         | 15 ft.         | 20 lbs.    |
+| [[rangoric-srd/equipment/armor/Scale Mail\|Scale]]                                | 30 gp  | +2          | +3                | –2                  | 25%                         | 30 ft.         | 20 ft.         | 15 lbs.    |
+| [[rangoric-srd/equipment/armor/Mountain Pattern Armor\|Mountain pattern]]         | 150 gp | +3          | +3                | –4                  | 30%                         | 20 ft.         | 15 ft.         | 20 lbs.    |
+| [[rangoric-srd/equipment/armor/Armored Coat\|Armored coat]]                       | 50 gp  | +4          | +3                | –2                  | 20%                         | 20 ft.         | 15 ft.         | 20 lbs.    |
+| [[rangoric-srd/equipment/armor/Chainmail\|Chain]] (3)                             | 100 gp | +4          | +4                | –2                  | 30%                         | 30 ft.         | 20 ft.         | 25 lbs.    |
+| [[rangoric-srd/equipment/armor/Do-Maru\|Do-maru]]                                 | 200 gp | +5          | +4                | –4                  | 25%                         | 20 ft.         | 15 ft.         | 30 lbs.    |
+| [[rangoric-srd/equipment/armor/Four-Mirror Armor\|Four-mirror armor]]             | 20 gp  | +5          | +4                | –5                  | 30%                         | 20 ft.         | 15 ft.         | 40 lbs.    |
+| _Heavy armor_                                                                     |        |             |                   |                     |                             |                |                |            |
+| [[rangoric-srd/equipment/armor/Banded Mail\|Banded]]                              | 150 gp | +4          | +1                | –2                  | 35%                         | 20 ft. (2)     | 15 ft. (2)     | 20 lbs.    |
+| [[rangoric-srd/equipment/armor/Kusari Gusoku\|Kusari gusoku]]                     | 200 gp | +4          | +1                | –7                  | 35%                         | 20 ft. (2)     | 15 ft. (2)     | 20 lbs.    |
+| [[rangoric-srd/equipment/armor/Lamellar, Iron\|Lamellar, iron]]                   | 100 gp | +4          | 0                 | –7                  | 40%                         | 20 ft. (2)     | 15 ft. (2)     | 15 lbs.    |
+| [[rangoric-srd/equipment/armor/Splint Mail\|Splint]]                              | 100 gp | +4          | +0                | –3                  | 40%                         | 20 ft. (2)     | 15 ft. (2)     | 25 lbs.    |
+| [[rangoric-srd/equipment/armor/Tatami-Do\|Tatami-do]]                             | 500 gp | +4          | +4                | –6                  | 35%                         | 20 ft. (2)     | 15 ft. (2)     | 30 lbs.    |
+| [[rangoric-srd/equipment/armor/O-Yoroi\|O-yoroi]]                                 | 750 gp | +5          | +2                | –6                  | 35%                         | 20 ft. (2)     | 15 ft. (2)     | 30 lbs.    |
+| [[rangoric-srd/equipment/armor/Agile Half-Plate\|Agile plate]] (3)                | 400 gp | +6          | +3                | –4                  | 25%                         | 20 ft.         | 15 ft.         | 25 lbs.    |
+| [[rangoric-srd/equipment/armor/Full Plate\|Plate]] (3)                            | 200 gp | +6          | +3                | –4                  | 35%                         | 20 ft. (2)     | 15 ft. (2)     | 30 lbs.    |
+| [[rangoric-srd/equipment/armor/Stone Coat\|Stone coat]]                           | 500 gp | +8          | 0                 | –7                  | 40%                         | 20 ft. (2)     | 15 ft. (2)     | 45 lbs.    |
 
-1 *Weight figures are for armor pieces sized to fit Medium characters. Armor pieces fitted for Small characters weigh half as much, and armor pieces fitted for Large characters weigh twice as much.*
+1 _Weight figures are for armor pieces sized to fit Medium characters. Armor pieces fitted for Small characters weigh half as much, and armor pieces fitted for Large characters weigh twice as much._
 
-2 *When running while wearing this armor piece, you move only triple your speed, not quadruple.*
+2 _When running while wearing this armor piece, you move only triple your speed, not quadruple._
 
-3 *These armor pieces are considered to be one weight category lower when worn with no other armor pieces. A chain torso armor piece worn alone is a chain shirt (light armor), and a plate or agile plate torso armor piece is a breastplate (medium armor).*
+3 _These armor pieces are considered to be one weight category lower when worn with no other armor pieces. A chain torso armor piece worn alone is a chain shirt (light armor), and a plate or agile plate torso armor piece is a breastplate (medium armor)._
 
 The torso armor piece provides the most protection, but also usually provides the most hindrances to the wearer.
 

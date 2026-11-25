@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/crossbows]
 
 # Repeating Hand Crossbow
 
-*Exotic ranged weapon.* Cost 350 gp; Dmg 1d4 (S), 1d4 (M); Critical 19-20/x2; Range Increment 30 ft.; Weight 4 lb.; Type Piercing. ^stats
+_Exotic ranged weapon._ Cost 350 gp; Dmg 1d4 (S), 1d4 (M); Critical 19-20/x2; Range Increment 30 ft.; Weight 4 lb.; Type Piercing. ^stats
 
 A repeating hand crossbow looks like a miniature version of its repeating cousin. As long as it holds bolts, the wielder can fire a repeating hand crossbow up to his normal number of attacks without reloading. Loading a repeating hand crossbow with a new clip is a full-round action that provokes an attack of opportunity.

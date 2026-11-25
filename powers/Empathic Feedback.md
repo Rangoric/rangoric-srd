@@ -30,7 +30,7 @@ Manifesting Time: 1 standard action
 Range: Personal  
 Target: You  
 Duration: 10 min./level  
-Power Points: Psion/wilder 7, psychic warrior 5  
+Power Points: Psion/wilder 7, psychic warrior 5
 
 You empathically share your pain and suffering with your attacker. Each time a creature strikes you in melee, it takes damage equal to the amount it dealt to you or 5 points, whichever is less. This damage is empathic in nature, so powers and abilities the attacker may have such as [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|damage reduction]] and [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] do not lessen or change this damage. The damage from empathic feedback has no type, so even if you took fire damage from a creature that has immunity to fire, empathic feedback will damage your attacker.
 

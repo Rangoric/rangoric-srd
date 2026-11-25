@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Snapping Turtle Aspect
 
-*A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). Long-lived and resilient, turtles embody wisdom and endurance in many cultures. Those who take this aspect gain profound insight as well as remarkable resilience.*
+_A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). Long-lived and resilient, turtles embody wisdom and endurance in many cultures. Those who take this aspect gain profound insight as well as remarkable resilience._
 
 **Minor Form**: You gain a +2 enhancement bonus to Wisdom.
 

@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Fachen
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 7d8+14 (45 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 18 (+1 Dex, +3 dodge, +4 natural), touch 14, flat-footed 14
-  - **Base Attack**: +5; **CMB**: +10; **CMD**: 24 (28 vs. trip)
-  - **Attack**: [[rangoric-srd/equipment/weapons/Battleaxe|Battleaxe]] +10 melee (1d8+5/×3) or bite +10 melee (1d6+2)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Battleaxe|Battleaxe]] +10 melee (1d8+5/×3) and bite +5 melee (1d6+2)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fear|fear]] (30 ft., DC 15), [[rangoric-srd/monsters/abilities/Incredible Balance|incredible balance]]
-  - **Saves**: Fort +4, Ref +3, Will +8
-  - **Abilities**: Str 20, Dex 13, Con 15, Int 6, Wis 12, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +6
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics)
-  - **Environment**: Temperate hills or plains
-  - **Organization**: Solitary
-  - **Challenge Rating**: 5
-  - **Treasure**: Standard (battle axe, other treasure)
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 7d8+14 (45 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 18 (+1 Dex, +3 dodge, +4 natural), touch 14, flat-footed 14
+- **Base Attack**: +5; **CMB**: +10; **CMD**: 24 (28 vs. trip)
+- **Attack**: [[rangoric-srd/equipment/weapons/Battleaxe|Battleaxe]] +10 melee (1d8+5/×3) or bite +10 melee (1d6+2)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Battleaxe|Battleaxe]] +10 melee (1d8+5/×3) and bite +5 melee (1d6+2)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fear|fear]] (30 ft., DC 15), [[rangoric-srd/monsters/abilities/Incredible Balance|incredible balance]]
+- **Saves**: Fort +4, Ref +3, Will +8
+- **Abilities**: Str 20, Dex 13, Con 15, Int 6, Wis 12, Cha 15
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +6
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics)
+- **Environment**: Temperate hills or plains
+- **Organization**: Solitary
+- **Challenge Rating**: 5
+- **Treasure**: Standard (battle axe, other treasure)
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The fearsome fachen's terrifying visage paralyzes all but the most intrepid that happen across its hopping path. Reports disagree on just what it is about the fachen that turns one's blood to ice—the single leg and foot that somehow don't impair the being's balance or speed, the seemingly too-strong arm jutting from the center of the creature's torso, or the lone, bulbous eye leering maliciously at its would-be prey. Most likely it's a combination of all of these things mixed with the unrelenting rage and savagery that seems to ooze from its every pore.
 

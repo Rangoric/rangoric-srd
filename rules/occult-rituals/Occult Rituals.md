@@ -79,40 +79,40 @@ The spell a ritual is based on usually guides its range, targets, area, effect, 
 
 **Table: Modifying Occult Rituals** ^table-modifying-occult-rituals
 
-| Change | Check DC modifier or modification |
-| --- | --- |
-| **Casting time** | |
-| Casting time is restricted (such as "only during a full moon") | –4 |
-| Casting time is severely restricted (such as "only during a lunar eclipse") | –8 |
-| **Focus and material components** | |
-| Expensive material component (500 gp) | –1 |
-| Expensive material component (5,000 gp) | –2 |
-| Expensive material component (25,000 gp) | –4 |
-| Expensive focus (5,000 gp) | –1 |
-| Expensive focus (25,000 gp) | –2 |
-| **Range** | |
-| Greater range than normal | +1 to +6 |
-| Shorter range than normal | –1 to –4 |
-| **Area** | |
-| Larger area than normal | +1 to +6 |
-| Smaller area than normal | –1 to –4 |
-| **Target** | |
-| Unwilling target must be helpless | –2 |
-| Limited targets (by HD, creature type, and so on) | –3 |
-| Single target to multiple targets | +4 |
-| **Duration** | |
-| Greater duration than normal | +1 to +6 |
-| Shorter duration than normal | –1 to –4 |
-| One year or more | Casting time in increments of 1 hour/level instead of 10 minutes/level |
-| **Backlash** | |
-| Per 2d6 points of damage | –1 |
-| Caster is exhausted | –2 |
-| Per temporary negative level caster gains | –2 |
-| Per permanent negative level caster gains | –4 |
-| Caster reduced to –1 hp | –3 |
-| Caster infected with disease | –4 |
-| Caster suffers curse effects | –4 |
-| Backlash affects secondary casters too | –1 |
+| Change                                                                      | Check DC modifier or modification                                      |
+| --------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| **Casting time**                                                            |                                                                        |
+| Casting time is restricted (such as "only during a full moon")              | –4                                                                     |
+| Casting time is severely restricted (such as "only during a lunar eclipse") | –8                                                                     |
+| **Focus and material components**                                           |                                                                        |
+| Expensive material component (500 gp)                                       | –1                                                                     |
+| Expensive material component (5,000 gp)                                     | –2                                                                     |
+| Expensive material component (25,000 gp)                                    | –4                                                                     |
+| Expensive focus (5,000 gp)                                                  | –1                                                                     |
+| Expensive focus (25,000 gp)                                                 | –2                                                                     |
+| **Range**                                                                   |                                                                        |
+| Greater range than normal                                                   | +1 to +6                                                               |
+| Shorter range than normal                                                   | –1 to –4                                                               |
+| **Area**                                                                    |                                                                        |
+| Larger area than normal                                                     | +1 to +6                                                               |
+| Smaller area than normal                                                    | –1 to –4                                                               |
+| **Target**                                                                  |                                                                        |
+| Unwilling target must be helpless                                           | –2                                                                     |
+| Limited targets (by HD, creature type, and so on)                           | –3                                                                     |
+| Single target to multiple targets                                           | +4                                                                     |
+| **Duration**                                                                |                                                                        |
+| Greater duration than normal                                                | +1 to +6                                                               |
+| Shorter duration than normal                                                | –1 to –4                                                               |
+| One year or more                                                            | Casting time in increments of 1 hour/level instead of 10 minutes/level |
+| **Backlash**                                                                |                                                                        |
+| Per 2d6 points of damage                                                    | –1                                                                     |
+| Caster is exhausted                                                         | –2                                                                     |
+| Per temporary negative level caster gains                                   | –2                                                                     |
+| Per permanent negative level caster gains                                   | –4                                                                     |
+| Caster reduced to –1 hp                                                     | –3                                                                     |
+| Caster infected with disease                                                | –4                                                                     |
+| Caster suffers curse effects                                                | –4                                                                     |
+| Backlash affects secondary casters too                                      | –1                                                                     |
 
 **Occult Ritual Benchmarks by School** ^ritual-benchmarks
 

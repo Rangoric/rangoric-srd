@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Toxitician
 
-*A [[rangoric-srd/classes/Mesmerist#^mesmerist-archetypes|mesmerist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Mesmerist#^mesmerist-archetypes|mesmerist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A toxitician gives up the mesmerist's stare to craft psychically charged injections that torment foes and bolster allies.
 
@@ -42,17 +42,17 @@ This ability replaces [[rangoric-srd/classes/Mesmerist#^mesmerist-hypnotic-stare
 
 **Injection Improvement (Su)**: At 3rd level and every 4 levels thereafter, a toxitician can select one improvement to add to his injections. The toxitician can't choose the same improvement more than once. The toxitician doesn't have to select the improvements when he prepares his injections at the start of the day; the choice is made as part of the swift action to activate the injection. The target can attempt a Fortitude saving throw to resist an injection with an improvement added to it. The DC is 10 + 1/2 the toxitician's class level + the toxitician's Charisma modifier. On a successful save, the target still takes the penalty on its Will saving throws, but not the effects of the improvement. A toxitician can, as a free action, sacrifice one use of his injections to increase the DC of another injection by 2.
 
-*Ability Decrease*: The target takes a –2 penalty to one ability score of the toxitician's choosing. At 11th level, the penalty becomes –4.
+_Ability Decrease_: The target takes a –2 penalty to one ability score of the toxitician's choosing. At 11th level, the penalty becomes –4.
 
-*Excruciating*: The extra damage from painful injection increases by an amount equal to 2 points + 1 point per 3 mesmerist levels the toxitician possesses.
+_Excruciating_: The extra damage from painful injection increases by an amount equal to 2 points + 1 point per 3 mesmerist levels the toxitician possesses.
 
-*Fortitude Decrease*: The target's immune system weakens, imposing a –2 penalty on Fortitude saving throws. At 11th level, the penalty becomes –4.
+_Fortitude Decrease_: The target's immune system weakens, imposing a –2 penalty on Fortitude saving throws. At 11th level, the penalty becomes –4.
 
-*Natural Armor Decrease*: The target's skin becomes looser, decreasing its natural armor (if any) by 2. At 11th level, its natural armor bonus instead decreases by 4.
+_Natural Armor Decrease_: The target's skin becomes looser, decreasing its natural armor (if any) by 2. At 11th level, its natural armor bonus instead decreases by 4.
 
-*Reflex Decrease*: The target's body becomes stiffer, imposing a –2 penalty on the target's Reflex saving throws. At 11th level, the penalty becomes –4.
+_Reflex Decrease_: The target's body becomes stiffer, imposing a –2 penalty on the target's Reflex saving throws. At 11th level, the penalty becomes –4.
 
-*Slow*: The target's actions become sluggish, reducing its base movement by 10 feet and imposing a –1 penalty on attack rolls. At 11th level, the penalty on attack rolls becomes –2.
+_Slow_: The target's actions become sluggish, reducing its base movement by 10 feet and imposing a –1 penalty on attack rolls. At 11th level, the penalty on attack rolls becomes –2.
 
 This ability replaces [[rangoric-srd/classes/Mesmerist#^mesmerist-bold-stare|bold stare]].
 

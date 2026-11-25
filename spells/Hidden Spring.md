@@ -30,14 +30,14 @@ tags: [rangoric, rangoric/spell]
 
 # Hidden Spring
 
-*Transmutation \[Water\]*
+_Transmutation \[Water\]_
 
-  - **Level**: Clr 1, Drd 1, Hun 1, Rgr 1, Wit 1
-  - **Components**: V, S, F
-  - **Casting Time**: 1 hour
-  - **Range**: Touch
-  - **Effect**: A spring of fresh water
-  - **Duration**: Caster level hour(s)
-  - **Spell Resistance**: No
+- **Level**: Clr 1, Drd 1, Hun 1, Rgr 1, Wit 1
+- **Components**: V, S, F
+- **Casting Time**: 1 hour
+- **Range**: Touch
+- **Effect**: A spring of fresh water
+- **Duration**: Caster level hour(s)
+- **Spell Resistance**: No
 
-You spend 1 hour in quiet meditation, holding the focus component in both hands and walking around a natural area. You are simultaneously drawn to areas of natural moisture while drawing that moisture closer. As the spell's casting time concludes, you thrust the focus component into the ground. From that point, a fresh, clean water trickles forth at a rate of 1 gallon every 10 minutes. You cannot cast this spell inside a building or in an area of worked stone, but you can cast it underground. You cannot cast this spell within 1 mile of an existing *hidden spring*.
+You spend 1 hour in quiet meditation, holding the focus component in both hands and walking around a natural area. You are simultaneously drawn to areas of natural moisture while drawing that moisture closer. As the spell's casting time concludes, you thrust the focus component into the ground. From that point, a fresh, clean water trickles forth at a rate of 1 gallon every 10 minutes. You cannot cast this spell inside a building or in an area of worked stone, but you can cast it underground. You cannot cast this spell within 1 mile of an existing _hidden spring_.

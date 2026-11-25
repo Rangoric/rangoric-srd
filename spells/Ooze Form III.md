@@ -25,15 +25,15 @@ tags: [rangoric, rangoric/spell]
 
 # Ooze Form III
 
-*Transmutation (Polymorph)*
+_Transmutation (Polymorph)_
 
-  - **Level**: Sor/Wiz 7
-  - **Components**: V, S, M (a bit of the creature whose form you plan to assume)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: Caster level minute(s)
-  - **Spell Resistance**: No
+- **Level**: Sor/Wiz 7
+- **Components**: V, S, M (a bit of the creature whose form you plan to assume)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: Caster level minute(s)
+- **Spell Resistance**: No
 
 This spell functions as [[rangoric-srd/spells/Ooze Form II|ooze form II]] except you can also assume the form of a Huge ooze. You gain blindsight 60 feet and a +8 resistance bonus on saving throws against mind-affecting effects and poison as well.
 

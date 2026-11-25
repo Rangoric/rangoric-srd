@@ -41,26 +41,26 @@ tags: [rangoric, rangoric/monster]
 
 # Elder Xorn
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^earth|Earth]])
-  - **Hit Dice**: 15d8+63 (130 hp)
-  - **Initiative**: +0
-  - **Speed**: 20 ft. (4 squares), burrow 20 ft.
-  - **Armor Class**: 25 (–1 size, +16 natural), touch 9, flat-footed 25
-  - **Base Attack**: +15; **CMB**: +23 (+25 bull rush); **CMD**: 33 (35 vs. bull rush and trip)
-  - **Attack**: Bite +21 melee (4d8+7)
-  - **Full Attack**: Bite +21 melee (4d8+7) and 3 claws +19 melee (1d6+3)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: All-around vision, earth glide, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, darkvision 60 ft., immunity to cold and fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|resistance to electricity]] 10, [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft.
-  - **Saves**: Fort +13, Ref +9, Will +9
-  - **Abilities**: Str 25, Dex 10, Con 19, Int 10, Wis 11, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +18, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +18 (+20 following tracks or underground), [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Investigation|Investigation]] +22, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +14
-  - **Unspent Skill Points**: 30
-  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Cleave|Cleave (B)]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Elemental Plane of Earth
-  - **Organization**: Solitary, pair, or party (6–11)
-  - **Challenge Rating**: 8
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 16–21 HD (Large); 22–45 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^earth|Earth]])
+- **Hit Dice**: 15d8+63 (130 hp)
+- **Initiative**: +0
+- **Speed**: 20 ft. (4 squares), burrow 20 ft.
+- **Armor Class**: 25 (–1 size, +16 natural), touch 9, flat-footed 25
+- **Base Attack**: +15; **CMB**: +23 (+25 bull rush); **CMD**: 33 (35 vs. bull rush and trip)
+- **Attack**: Bite +21 melee (4d8+7)
+- **Full Attack**: Bite +21 melee (4d8+7) and 3 claws +19 melee (1d6+3)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: —
+- **Special Qualities**: All-around vision, earth glide, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, darkvision 60 ft., immunity to cold and fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|resistance to electricity]] 10, [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft.
+- **Saves**: Fort +13, Ref +9, Will +9
+- **Abilities**: Str 25, Dex 10, Con 19, Int 10, Wis 11, Cha 10
+- **Skills**: [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +18, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +18 (+20 following tracks or underground), [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Investigation|Investigation]] +22, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +14
+- **Unspent Skill Points**: 30
+- **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Cleave|Cleave (B)]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Elemental Plane of Earth
+- **Organization**: Solitary, pair, or party (6–11)
+- **Challenge Rating**: 8
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 16–21 HD (Large); 22–45 HD (Huge)
+- **Level Adjustment**: —

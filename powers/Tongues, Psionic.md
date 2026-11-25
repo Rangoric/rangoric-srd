@@ -29,6 +29,6 @@ Telepathy \[Mind-Affecting\]
 **Range:** Personal  
 **Target:** You  
 **Duration:** 10 min./level  
-**Power Points:** 3  
+**Power Points:** 3
 
 As the [[rangoric-srd/spells/Tongues|tongues]] spell, except as noted here. This power does not enable you to speak with creatures immune to mind-affecting powers.

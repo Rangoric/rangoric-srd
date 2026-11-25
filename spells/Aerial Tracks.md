@@ -28,14 +28,14 @@ tags: [rangoric, rangoric/spell]
 
 # Aerial Tracks
 
-*Divination \[Air\]*
+_Divination \[Air\]_
 
-  - **Level**: Drd 4, Hun 3, Inq 4, Rgr 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Area**: Circle centered on you, with a radius of 100 feet + 10 feet per level
-  - **Duration**: Caster level hour(s)
-  - **Spell Resistance**: No
+- **Level**: Drd 4, Hun 3, Inq 4, Rgr 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Area**: Circle centered on you, with a radius of 100 feet + 10 feet per level
+- **Duration**: Caster level hour(s)
+- **Spell Resistance**: No
 
 You cause the air in the area to ripple where creatures have flown through it up to 1 day ago per caster level. These aerial ripples are tinged by glowing wisps, providing enough illumination to follow the tracks without penalties due to poor lighting. The area moves with you, allowing you to follow the tracks through the air over long distances provided you can fly or follow the route along the ground within range to read the aerial tracks. Other creatures can also follow the trail as long as they move with you. The base DC of Fieldcraft checks to track creatures through the air with this spell is the same as tracking creatures across soft ground.

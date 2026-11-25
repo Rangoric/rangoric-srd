@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Kip-Up
 
-*A [[rangoric-srd/classes/Swashbuckler#^swashbuckler-deeds|swashbuckler deed]] (Ex), 3rd level.*
+_A [[rangoric-srd/classes/Swashbuckler#^swashbuckler-deeds|swashbuckler deed]] (Ex), 3rd level._
 
 At 3rd level, while the swashbuckler has at least 1 panache point, she can kip-up from prone as a move action without provoking an attack of opportunity. She can kip-up as a swift action instead by spending 1 panache point.

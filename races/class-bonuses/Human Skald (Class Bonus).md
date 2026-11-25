@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Human Skald
 
-*A [[rangoric-srd/races/Human|human]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Skald#^skald-class-bonuses|skald]] level.*
+_A [[rangoric-srd/races/Human|human]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Skald#^skald-class-bonuses|skald]] level._
 
 Add one spell from the skald's [[rangoric-srd/spells/Bard Spell List|spell list]] to the skald's [[rangoric-srd/classes/Skald#^skald-spells|known spells]]. This spell must be at least 1 spell level below the highest level the skald can cast.

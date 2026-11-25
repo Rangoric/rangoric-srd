@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Dwarf Cavalier
 
-*A [[rangoric-srd/races/Dwarf|dwarf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Cavalier#^cavalier-class-bonuses|cavalier]] level.*
+_A [[rangoric-srd/races/Dwarf|dwarf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Cavalier#^cavalier-class-bonuses|cavalier]] level._
 
 Add +1/2 to the cavalier's bonus to damage against targets of his [[rangoric-srd/classes/Cavalier#^cavalier-challenge|challenge]].

@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Incutilis
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Aquatic)
-  - **Hit Dice**: 4d8 (18 hp)
-  - **Initiative**: +6
-  - **Speed**: 5 ft. (1 square), climb 5 ft., swim 60 ft.
-  - **Armor Class**: 17 (+2 Dex, +3 natural, +2 size), touch 14, flat-footed 15
-  - **Base Attack**: +3; **CMB**: +3 (+7 grapple); **CMD**: 15 (can't be tripped)
-  - **Attack**: Tentacle +2 melee (1d4+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: 2 tentacles +2 melee (1d4+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Puppetmaster|Puppetmaster]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 30 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
-  - **Saves**: Fort +1, Ref +3, Will +5
-  - **Abilities**: Str 15, Dex 15, Con 11, Int 12, Wis 13, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Deception|Deception]] +3, [[rangoric-srd/skills/Imitation|Imitation]] +3, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +17
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Step Up|Step Up]]
-  - **Environment**: Any oceans
-  - **Organization**: Solitary, pair, or colony (3–12 plus enslaved puppets)
-  - **Challenge Rating**: 2
-  - **Treasure**: Standard
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Aquatic)
+- **Hit Dice**: 4d8 (18 hp)
+- **Initiative**: +6
+- **Speed**: 5 ft. (1 square), climb 5 ft., swim 60 ft.
+- **Armor Class**: 17 (+2 Dex, +3 natural, +2 size), touch 14, flat-footed 15
+- **Base Attack**: +3; **CMB**: +3 (+7 grapple); **CMD**: 15 (can't be tripped)
+- **Attack**: Tentacle +2 melee (1d4+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: 2 tentacles +2 melee (1d4+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Puppetmaster|Puppetmaster]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 30 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
+- **Saves**: Fort +1, Ref +3, Will +5
+- **Abilities**: Str 15, Dex 15, Con 11, Int 12, Wis 13, Cha 8
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Deception|Deception]] +3, [[rangoric-srd/skills/Imitation|Imitation]] +3, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +17
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Step Up|Step Up]]
+- **Environment**: Any oceans
+- **Organization**: Solitary, pair, or colony (3–12 plus enslaved puppets)
+- **Challenge Rating**: 2
+- **Treasure**: Standard
+- **Alignment**: Usually lawful evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A strange sort of sea creature that appears to be an oversized cephalopod, an incutilis hides a significant intelligence behind its unassuming appearance. Though most incutilises live their entire lives within the deepest trenches of the darkest seas, some venture to the border between water and land, taking terrible control over land-dwelling flesh with an alien disregard for sentient life. Because of their aquatic physiologies, their ability to cross this border and travel on land is limited. These aberrations overcome this hurdle with a lethal solution, slaying land dwellers and commandeering their flesh to bear the incutilis on shore.
 

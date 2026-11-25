@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Jumper
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “jumper”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “jumper”, on the Special Qualities line.
 
 A kasatha is always considered to have a running start when attempting Athletics checks to jump. The [[rangoric-srd/monsters/Kasatha|kasatha]] has it.

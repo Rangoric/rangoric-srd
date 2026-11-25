@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Beast Totem, Lesser
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su)._
 
 While raging, the barbarian gains two claw attacks. These attacks are considered primary attacks and are made at the barbarian’s full base attack bonus. The claws deal 1d6 points of slashing damage (1d4 if Small) plus the barbarian’s Strength modifier.

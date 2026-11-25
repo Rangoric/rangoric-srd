@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Mimic
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Shapechanger)
-  - **Hit Dice**: 7d8+21 (52 hp)
-  - **Initiative**: +5
-  - **Speed**: 10 ft. (2 squares)
-  - **Armor Class**: 16 (+1 Dex, +5 natural), touch 11, flat-footed 15
-  - **Base Attack**: +5; **CMB**: +9; **CMD**: 20 (can't be tripped)
-  - **Attack**: Slam +10 melee (1d8+6 plus adhesive)
-  - **Full Attack**: Slam +10 melee (1d8+6 plus adhesive)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (slam, 1d8+6)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., mimic object, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid
-  - **Saves**: Fort +5, Ref +5, Will +6
-  - **Abilities**: Str 19, Dex 12, Con 17, Int 10, Wis 13, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +10, [[rangoric-srd/skills/Imitation|Imitation]] +10 (+30 when mimicking objects), [[rangoric-srd/skills/Perception|Perception]] +14
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 4
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: 8–10 HD (Large); 11–21 HD (Huge)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Shapechanger)
+- **Hit Dice**: 7d8+21 (52 hp)
+- **Initiative**: +5
+- **Speed**: 10 ft. (2 squares)
+- **Armor Class**: 16 (+1 Dex, +5 natural), touch 11, flat-footed 15
+- **Base Attack**: +5; **CMB**: +9; **CMD**: 20 (can't be tripped)
+- **Attack**: Slam +10 melee (1d8+6 plus adhesive)
+- **Full Attack**: Slam +10 melee (1d8+6 plus adhesive)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (slam, 1d8+6)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., mimic object, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid
+- **Saves**: Fort +5, Ref +5, Will +6
+- **Abilities**: Str 19, Dex 12, Con 17, Int 10, Wis 13, Cha 10
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +10, [[rangoric-srd/skills/Imitation|Imitation]] +10 (+30 when mimicking objects), [[rangoric-srd/skills/Perception|Perception]] +14
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 4
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: 8–10 HD (Large); 11–21 HD (Huge)
+- **Level Adjustment**: —
 
 Mimics are thought to be the result of an [[rangoric-srd/classes/Alchemist|alchemist]]'s attempt to grant life to an inanimate object through the application of an eldritch reagent, the recipe for which is long lost. Over time, these strange but clever creatures have learned the ability to transform themselves into simulacra of man-made objects, particularly in locations that have infrequent traffic by small numbers of creatures, thus increasing their odds of successfully attacking their victims.
 

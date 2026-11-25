@@ -26,7 +26,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Feral Child
 
-*A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Human|humans]].*
+_A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Human|humans]]._
 
 Some youths, abandoned in the wilderness and then raised by animals, are so connected with their adoptive home and family that they become feral. Suspicious of civilized society, these foundlings often choose allegiance to the wild over their human forebears. A feral child has the following class features.
 
@@ -38,7 +38,7 @@ Some youths, abandoned in the wilderness and then raised by animals, are so conn
 
 **Improved Unarmed Strike**: At 1st level, a feral child gains [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]] as a bonus feat.
 
-**Beast Family (Ex)**: At 1st level, a feral child may choose one specific type of animal as the type that raised her. She gains a +2 circumstance bonus on [[rangoric-srd/skills/Animal Handling|Animal Handling]] and [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] checks with animals of that type, and she can communicate with them as if using a continual *[[rangoric-srd/spells/Speak with Animals|speak with animals]]* spell-like ability, but this ability is nonmagical.
+**Beast Family (Ex)**: At 1st level, a feral child may choose one specific type of animal as the type that raised her. She gains a +2 circumstance bonus on [[rangoric-srd/skills/Animal Handling|Animal Handling]] and [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] checks with animals of that type, and she can communicate with them as if using a continual _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_ spell-like ability, but this ability is nonmagical.
 
 **Nature Bond (Ex)**: At 1st level, a feral child must select an [[rangoric-srd/classes/Druid#^druid-animal-companion|animal companion]] as her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]].
 
@@ -48,8 +48,8 @@ Some youths, abandoned in the wilderness and then raised by animals, are so conn
 
 **Native Fortitude (Ex)**: At 4th level, a feral child gains a +1 bonus on saving throws against [[rangoric-srd/rules/Special Abilities and Conditions#Disease|disease]], [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhaustion]], [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigue]], [[rangoric-srd/rules/Special Abilities and Conditions#Fear|fear]], and [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poison]]. When she is in her favored terrain, she instead applies her favored terrain bonus on such saving throws. She also recovers from [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]], exhaustion, and fatigue at twice the normal rate. This ability replaces [[rangoric-srd/classes/Druid#^druid-resist-natures-lure|resist nature's lure]].
 
-**Native Call (Su)**: At 9th level, when in her favored terrain, for any *[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature's ally]]* spells a feral child uses to summon animals that are native to that terrain, she treats the duration of the spell as if she were 2 levels higher.
+**Native Call (Su)**: At 9th level, when in her favored terrain, for any _[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature's ally]]_ spells a feral child uses to summon animals that are native to that terrain, she treats the duration of the spell as if she were 2 levels higher.
 
-At 17th level, when the feral child uses *summon nature's ally* spells to summon such animals, those animals gain a +2 bonus to both their Strength and Constitution ability scores. This stacks with the effects of the [[rangoric-srd/feats/Augment Summoning|Augmented Summoning]] feat.
+At 17th level, when the feral child uses _summon nature's ally_ spells to summon such animals, those animals gain a +2 bonus to both their Strength and Constitution ability scores. This stacks with the effects of the [[rangoric-srd/feats/Augment Summoning|Augmented Summoning]] feat.
 
 This ability replaces [[rangoric-srd/classes/Druid#^druid-venom-immunity|venom immunity]] and [[rangoric-srd/classes/Druid#^druid-timeless-body|timeless body]].

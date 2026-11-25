@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Tiefling Alchemist
 
-*A [[rangoric-srd/races/Tiefling|tiefling]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Alchemist#^alchemist-class-bonuses|alchemist]] level.*
+_A [[rangoric-srd/races/Tiefling|tiefling]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Alchemist#^alchemist-class-bonuses|alchemist]] level._
 
 Add +1/2 to the alchemist's [[rangoric-srd/classes/Alchemist#^alchemist-bomb|bomb]] damage.

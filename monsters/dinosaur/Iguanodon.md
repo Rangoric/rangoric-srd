@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Iguanodon
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 9d8+36 (76 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 19 (+2 Dex, +9 natural, –2 size), touch 10, flat-footed 17
-  - **Base Attack**: +6; **CMB**: +16; **CMD**: 28 (32 vs. trip)
-  - **Attack**: Claw +13 melee (1d8+8/×3)
-  - **Full Attack**: 2 claws +13 melee (1d8+8/×3)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: Thumb spikes
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +10, Ref +8, Will +4
-  - **Abilities**: Str 27, Dex 14, Con 19, Int 2, Wis 12, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +4
-  - **Feats**: [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
-  - **Environment**: Warm forests or swamps
-  - **Organization**: Solitary, pair, or pack (3–6)
-  - **Challenge Rating**: 6
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 9d8+36 (76 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 19 (+2 Dex, +9 natural, –2 size), touch 10, flat-footed 17
+- **Base Attack**: +6; **CMB**: +16; **CMD**: 28 (32 vs. trip)
+- **Attack**: Claw +13 melee (1d8+8/×3)
+- **Full Attack**: 2 claws +13 melee (1d8+8/×3)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: Thumb spikes
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +10, Ref +8, Will +4
+- **Abilities**: Str 27, Dex 14, Con 19, Int 2, Wis 12, Cha 7
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +4
+- **Feats**: [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
+- **Environment**: Warm forests or swamps
+- **Organization**: Solitary, pair, or pack (3–6)
+- **Challenge Rating**: 6
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Iguanodons are large, herbivorous dinosaurs that inhabit swamps and forests where they can take advantage of abundant vegetation. The iguanodon is capable of moving on two feet or on four, quickly switching from one stance to the other, depending on whether it needs to move through dense foliage or to reach delectable morsels hanging up in the canopy.
 

@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/monster]
 
 # Cryohydra
 
-  - Huge Magical Beast (Cold)
+- Huge Magical Beast (Cold)
 
 A variant of the [[rangoric-srd/monsters/hydra/Hydra|hydra]] with any number of heads (+2 CR). The cryohydra lives in cold marshes or on glaciers, and gains the Cold subtype. These purplish hydras have a [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]] in each head (15-ft. cone, 3d6 cold damage, Reflex half), usable every 1d4 rounds. The save DC is 10 + 1/2 the hydra’s HD + the hydra’s Con modifier.
 

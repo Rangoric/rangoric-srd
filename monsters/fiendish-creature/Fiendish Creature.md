@@ -27,13 +27,13 @@ Smite Good (Su): Once per day the creature can make a normal melee attack to dea
 
 **Special Qualities**: A fiendish creature retains all the special qualities of the base creature and also gains the following.
 
-  - Darkvision out to 60 feet.
+- Darkvision out to 60 feet.
 
-  - [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] (see the table below).
+- [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] (see the table below).
 
-  - [[rangoric-srd/monsters/abilities/Resistance|Resistance to cold]] and fire (see the table below).
+- [[rangoric-srd/monsters/abilities/Resistance|Resistance to cold]] and fire (see the table below).
 
-  - [[rangoric-srd/monsters/abilities/Spell Resistance|Spell resistance]] equal to the creature’s HD + 5 (maximum 25).
+- [[rangoric-srd/monsters/abilities/Spell Resistance|Spell resistance]] equal to the creature’s HD + 5 (maximum 25).
 
 If the base creature already has one or more of these special qualities, use the better value.
 

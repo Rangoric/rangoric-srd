@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Totem Warrior
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-archetypes|barbarian]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-archetypes|barbarian]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A barbarian often has a special totem that is the patron of her tribe. While individual totems vary, those in the tribe that call upon a totem receive similar abilities. Totem warrior barbarians can select from the following rage powers.
 

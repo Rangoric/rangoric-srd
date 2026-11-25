@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Getaway Boots
 
-These rather nondescript boots can, once per day, be attuned to a location their wearer is standing upon. Once the boots are attuned to a location, once per day as a full-round action, the wearer, along with anything she is wearing or carrying, teleports back to the attuned location as the *[[rangoric-srd/spells/Getaway|getaway]]* spell, except that no allies are teleported when the boots are activated even if they were in the area when the boots were attuned to their location. Once the boots are attuned to a location, they continue to be attuned to the same location until they are attuned to a new location.
+These rather nondescript boots can, once per day, be attuned to a location their wearer is standing upon. Once the boots are attuned to a location, once per day as a full-round action, the wearer, along with anything she is wearing or carrying, teleports back to the attuned location as the _[[rangoric-srd/spells/Getaway|getaway]]_ spell, except that no allies are teleported when the boots are activated even if they were in the area when the boots were attuned to their location. Once the boots are attuned to a location, they continue to be attuned to the same location until they are attuned to a new location.
 
-Moderate conjuration; CL 11th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Getaway|getaway]]*; Price 30,000 gp; Cost 15,000 gp; Weight 1 lb.
+Moderate conjuration; CL 11th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Getaway|getaway]]_; Price 30,000 gp; Cost 15,000 gp; Weight 1 lb.

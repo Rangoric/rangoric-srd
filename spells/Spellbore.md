@@ -20,12 +20,12 @@ tags: [rangoric, rangoric/spell]
 
 # Spellbore
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Sor/Wiz 8
-  - **Components**: V
-  - **Casting Time**: See text
-  - **Range**: Personal
-  - **Duration**: See text
+- **Level**: Sor/Wiz 8
+- **Components**: V
+- **Casting Time**: See text
+- **Range**: Personal
+- **Duration**: See text
 
-Casting this spell is a free action, like casting a *[[rangoric-srd/feats/Quicken Spell|quickened]]* spell, and it counts toward the normal limit of one *[[rangoric-srd/feats/Quicken Spell|quickened]]* spell per round. If the caster casts another spell in the same round, and that spell creates a ray or energy missile, that effect can travel through antimagic effects without being suppressed or dispelled. The maximum distance that can be traveled is one foot per caster level.
+Casting this spell is a free action, like casting a _[[rangoric-srd/feats/Quicken Spell|quickened]]_ spell, and it counts toward the normal limit of one _[[rangoric-srd/feats/Quicken Spell|quickened]]_ spell per round. If the caster casts another spell in the same round, and that spell creates a ray or energy missile, that effect can travel through antimagic effects without being suppressed or dispelled. The maximum distance that can be traveled is one foot per caster level.

@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This soft cap helps the wearer free herself from outside influences. Once per day when the wearer fails a saving throw against a mind-affecting effect, she can reroll the save and take the second result.
 
-Moderate abjuration; CL 10th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Mind Blank|mind blank]]*; Price 12,000 gp; Cost 6,000 gp.
+Moderate abjuration; CL 10th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Mind Blank|mind blank]]_; Price 12,000 gp; Cost 6,000 gp.

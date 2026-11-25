@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # D'ziriak
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Extraplanar)
-  - **Hit Dice**: 4d10+4 (26 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 16 (+2 Dex, +4 natural), touch 12, flat-footed 14
-  - **Base Attack**: +4; **CMB**: +5 (+9 grapple); **CMD**: 17
-  - **Attack**: Claw +6 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: 2 claws +6 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Dazzling Burst|Dazzling burst]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Glow|glow]]
-  - **Saves**: Fort +2, Ref +6, Will +6
-  - **Abilities**: Str 13, Dex 15, Con 12, Int 13, Wis 14, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Emulation|Emulation]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +9, [[rangoric-srd/skills/Theology|Theology]] +8
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
-  - **Environment**: Any land (Plane of Shadow)
-  - **Organization**: Solitary, pair, swarm (3–20), or hive (21–100)
-  - **Challenge Rating**: 3
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Extraplanar)
+- **Hit Dice**: 4d10+4 (26 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 16 (+2 Dex, +4 natural), touch 12, flat-footed 14
+- **Base Attack**: +4; **CMB**: +5 (+9 grapple); **CMD**: 17
+- **Attack**: Claw +6 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: 2 claws +6 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Dazzling Burst|Dazzling burst]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Glow|glow]]
+- **Saves**: Fort +2, Ref +6, Will +6
+- **Abilities**: Str 13, Dex 15, Con 12, Int 13, Wis 14, Cha 16
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Emulation|Emulation]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +9, [[rangoric-srd/skills/Theology|Theology]] +8
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
+- **Environment**: Any land (Plane of Shadow)
+- **Organization**: Solitary, pair, swarm (3–20), or hive (21–100)
+- **Challenge Rating**: 3
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Natives of the Plane of Shadow, d'ziriaks are a mysterious race of human-sized insectoids. From their partially buried hive cities rise spires and steeples adorned with alchemical fire and illusory flame, dim beacons of sanctuary in the foreboding twilight. The d'ziriaks remain staunchly neutral in most affairs, and are typically happy to converse with travelers via their eerie telepathy (their own language of buzzes and chitters is an obscure one known by few outside their race), but their unknown, obscure goals lead most others to regard this race with caution.
 
@@ -72,7 +72,7 @@ D'ziriaks speak D'ziriak.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +6): 1/day—*[[rangoric-srd/spells/Plane Shift|plane shift]]* (self only, to Plane of Shadow only).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +6): 1/day—_[[rangoric-srd/spells/Plane Shift|plane shift]]_ (self only, to Plane of Shadow only).
 
 **[[rangoric-srd/monsters/abilities/Dazzling Burst|Dazzling Burst]] (Su)**: Once per day, a d'ziriak can cause its body to flare with intense, colorful light as a swift action. Non-d'ziriaks within a 20-foot radius must make a DC 13 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] for 1 minute. After using this ability, the d'ziriak's brilliant glow is extinguished for 24 hours. This ability is a light effect, and creatures that cannot see are immune to it. The save DC is Constitution-based.
 

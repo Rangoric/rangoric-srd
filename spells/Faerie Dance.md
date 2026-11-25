@@ -25,17 +25,17 @@ tags: [rangoric, rangoric/spell]
 
 # Faerie Dance
 
-*Enchantment (Compulsion)*
+_Enchantment (Compulsion)_
 
-  - **Level**: Sor/Wiz 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Living creature touched
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Sor/Wiz 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Living creature touched
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
-Often cast on unsuspecting victims prior to a *[[rangoric-srd/spells/Lesser Ring Dance|lesser ring dance]]*, *faerie dance* compels a target creature to join the caster in a joyous dance. The target creature is allowed a Will saving throw. If the save fails, the victim is drawn into the circular prancing dance. The victim can be pulled out by another person not in the dance, but that person risks joining the dance as well (+4 bonus to their Will save).
+Often cast on unsuspecting victims prior to a _[[rangoric-srd/spells/Lesser Ring Dance|lesser ring dance]]_, _faerie dance_ compels a target creature to join the caster in a joyous dance. The target creature is allowed a Will saving throw. If the save fails, the victim is drawn into the circular prancing dance. The victim can be pulled out by another person not in the dance, but that person risks joining the dance as well (+4 bonus to their Will save).
 
 Those in the dance retain their AC (including shield use), are able to attack (at a –4 penalty), and can use skills and feats that do not require the victim to remain still. If the victim is injured or damaged during the dance, the enchantment is broken.

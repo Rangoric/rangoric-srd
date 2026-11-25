@@ -31,7 +31,7 @@ Area: 20-ft.-radius emanation, centered on you
 Duration: 1 round/level (D)  
 Saving Throw: Fortitude negates (potentially harmless)  
 Power Resistance: Yes  
-Power Points: 17  
+Power Points: 17
 
 You create an affinity feedback loop with all creatures within the area. While the duration lasts, affected creatures take all damage (including [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]]) as you do and heal all wounds as you do. Hit points gained or lost persist after this power ends.
 

@@ -18,13 +18,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Earth Blast
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#^simple-blasts|simple blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#^simple-blasts|simple blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Earth Element|earth]]
-  - **Type**: simple blast (Sp)
-  - **Level**: —
-  - **Burn**: 0
-  - **Blast Type**: physical
-  - **Damage**: bludgeoning, piercing, or slashing
+- **Element**: [[rangoric-srd/class-options/elements/Earth Element|earth]]
+- **Type**: simple blast (Sp)
+- **Level**: —
+- **Burn**: 0
+- **Blast Type**: physical
+- **Damage**: bludgeoning, piercing, or slashing
 
 You shape earth into clumps or shards and send them flying at a foe.

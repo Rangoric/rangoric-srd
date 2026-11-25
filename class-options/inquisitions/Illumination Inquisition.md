@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Illumination Inquisition
 
-*An [[rangoric-srd/class-options/inquisitions/Inquisitions|inquisition]], which an [[rangoric-srd/classes/Inquisitor (Class)|inquisitor]] can choose in place of a domain with her [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-domain|Domain]] feature.*
+_An [[rangoric-srd/class-options/inquisitions/Inquisitions|inquisition]], which an [[rangoric-srd/classes/Inquisitor (Class)|inquisitor]] can choose in place of a domain with her [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-domain|Domain]] feature._
 
 ## Granted Powers
 

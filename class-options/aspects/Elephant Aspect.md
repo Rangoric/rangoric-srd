@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Elephant Aspect
 
-*A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The elephant is a symbol of both power and wisdom in many lands. Shifters who take this aspect learn the value of applying their strength with precision.*
+_A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The elephant is a symbol of both power and wisdom in many lands. Shifters who take this aspect learn the value of applying their strength with precision._
 
 **Minor Form**: You gain a +4 enhancement bonus on bull rush and overrun combat maneuver checks.
 

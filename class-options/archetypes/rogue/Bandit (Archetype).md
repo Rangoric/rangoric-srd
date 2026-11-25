@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Bandit
 
-*A [[rangoric-srd/classes/Rogue#^rogue-archetypes|rogue]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Rogue#^rogue-archetypes|rogue]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Bandits, brigands, and highwaymen hone their craft along the roadsides and byways of the world, where they leap from the shadows to plunder the spoils of passing travelers. Bandits tend to have a variety of skills; sometimes these skills are similar to a ranger's, but a bandit's tactics always deal with surprise followed by intimidation, with the clear threat of naked force if intimidation does not do the trick. But not all bandits are ruthless thugs. There are those who become outlaws in opposition to tyrants or similar oppressors. These bandits target the status quo and distribute their spoils back into the needy hands of the peasantry.
 

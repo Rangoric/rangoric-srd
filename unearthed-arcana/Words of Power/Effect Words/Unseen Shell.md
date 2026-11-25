@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/word-of-power]
 
 # Unseen Shell
 
-*One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Concealing Words|Concealing group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]].*
+_One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Concealing Words|Concealing group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]]._
 
 **School** illusion (glamer)
 

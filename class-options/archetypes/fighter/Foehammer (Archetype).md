@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Foehammer
 
-*A [[rangoric-srd/classes/Fighter#^fighter-archetypes|fighter]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Dwarf|dwarves]].*
+_A [[rangoric-srd/classes/Fighter#^fighter-archetypes|fighter]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Dwarf|dwarves]]._
 
 While the axe is the most famous dwarven weapon, the hammer is at the heart of dwarves' heritage as forgemasters and warriors alike.
 

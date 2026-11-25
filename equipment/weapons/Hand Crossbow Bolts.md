@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/weapon]
 
 # Hand Crossbow Bolts
 
-*Ammunition (10).* Cost 1 gp; Weight 1 lb. ^stats
+_Ammunition (10)._ Cost 1 gp; Weight 1 lb. ^stats
 
 A crossbow bolt used as a melee weapon is treated as a light improvised weapon (–4 penalty on attack rolls) and deals damage as a dagger of its size (crit x2). Bolts come in a wooden case that holds 10 bolts (or 5, for a repeating crossbow). A bolt that hits its target is destroyed; one that misses has a 50% chance of being destroyed or lost.

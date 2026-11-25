@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/overview]
 
 ### War Mind
 
-Hit Die: d10.  
+Hit Die: d10.
 
 **[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
 
@@ -25,7 +25,7 @@ Hit Die: d10.
 
 ###### Requirements
 
-To qualify to become a war mind, a character must fulfill all the following criteria.  
+To qualify to become a war mind, a character must fulfill all the following criteria.
 
 Alignment: Any nonchaotic.
 
@@ -39,11 +39,11 @@ Special: Must have had some instruction by another war mind.
 
 ###### Class Skills
 
-The war mind’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Meditation|Meditation]](Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Psionics (Skill)|Psionics]] (Int), [[rangoric-srd/skills/Society|Society]] (Int), and [[rangoric-srd/skills/Tactics|Tactics]] (Int).  
+The war mind’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Meditation|Meditation]](Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Psionics (Skill)|Psionics]] (Int), [[rangoric-srd/skills/Society|Society]] (Int), and [[rangoric-srd/skills/Tactics|Tactics]] (Int).
 
 Skill Points at Each Level: 2 + Int modifier.
 
-Table: The War Mind     
+Table: The War Mind   
 
 |       |                                  |            |              |                           |
 | ----- | -------------------------------- | ---------- | ------------ | ------------------------- |
@@ -51,7 +51,7 @@ Table: The War Mind   
 | 1st   | Chain of personal superiority +2 | 2          | 1            | 1st                       |
 | 2nd   | Chain of defensive posture +2    | 5          | 2            | 1st                       |
 | 3rd   | Enduring body (DR 1/-)           | 9          | 2            | 1st                       |
-| 4th   | -                               | 14         | 3            | 2nd                       |
+| 4th   | -                                | 14         | 3            | 2nd                       |
 | 5th   | Sweeping strike                  | 20         | 3            | 2nd                       |
 | 6th   | Enduring body (DR 2/-)           | 28         | 4            | 3rd                       |
 | 7th   | Chain of personal superiority +4 | 37         | 4            | 3rd                       |
@@ -61,7 +61,7 @@ Table: The War Mind   
 
 ###### Class Features
 
-All the following are class features of the war mind prestige class.  
+All the following are class features of the war mind prestige class.
 
 Weapon and Armor Proficiency: War minds gain no proficiency with any weapon or armor.
 

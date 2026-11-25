@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Loci Sentry
 
-*A focus power of [[rangoric-srd/class-options/implement-schools/Abjuration Implements|abjuration implements]], for the [[rangoric-srd/classes/Occultist|occultist]] (Sp).*
+_A focus power of [[rangoric-srd/class-options/implement-schools/Abjuration Implements|abjuration implements]], for the [[rangoric-srd/classes/Occultist|occultist]] (Sp)._
 
 As a standard action, you can expend 1 point of mental focus to set a ward about an area. This area has a maximum radius of 10 feet + 5 feet per occultist level you possess. Whenever a creature enters the area, a sentry manifested by your psyche appears and strikes out at the intruder. The affected creature must succeed at a Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 1 round. You are immediately aware of the sentry’s activation. The sentry lasts for up to 1 hour per occultist level you possess, or until triggered. When you set the sentry, you can set any number of specific creatures to be immune to the sentry and thus avoid triggering it.

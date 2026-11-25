@@ -39,7 +39,7 @@ tags: [rangoric, rangoric/monster]
 
 # Temporal Filcher
 
-Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Psionic)      
+Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Psionic)     
 **Hit Dice:** 8d8+16 (52 hp)     
 **Initiative:** +7     
 **Speed:** 40 ft. (8 squares)     
@@ -60,7 +60,7 @@ Full **Attack:** 4 claws +6 melee (1d6+1) and bite +1 melee (1d8) and horn +1 me
 Treasure: Standard     
 **Alignment:** Usually Evil (any)     
 **Advancement:** 9-15 HD (Large)     
-**Level Adjustment:** -     
+**Level Adjustment:** -   
 
 Temporal filchers do not speak.
 

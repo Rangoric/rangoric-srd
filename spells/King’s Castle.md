@@ -26,15 +26,15 @@ tags: [rangoric, rangoric/spell]
 
 # King’s Castle
 
-*Conjuration (Teleportation)*
+_Conjuration (Teleportation)_
 
-  - **Level**: Pal 4
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Pal 4
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 This spell allows you to switch places with an ally. When you cast this spell, choose a single ally within range. You teleport to your ally's space while your ally teleports to your former space.

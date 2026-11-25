@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 This 6-inch-wide, 1-inch-high perforated golden vessel resembles a thurible found in a place of worship. If it is filled with incense and lit, summoning words spoken over it summon forth a Large air elemental. The summoning words require 1 full round to speak. In all ways the censer functions as the summon monster VI spell. If incense of meditation is burned within the censer, the air elemental is an elder air elemental instead (as if summon monster IX had just been cast). Only one elemental can be summoned at a time. A new elemental requires a new piece of incense, which cannot be lit until after the first elemental disappears (is dispelled, dismissed, or slain).
 
-The *[[rangoric-srd/magic-items/wondrous-items/Censer of Conjuring Air Elementals|censer of conjuring air elementals]]* is a lesser version of this item, calling its elementals as weaker summoning spells for a lower price.
+The _[[rangoric-srd/magic-items/wondrous-items/Censer of Conjuring Air Elementals|censer of conjuring air elementals]]_ is a lesser version of this item, calling its elementals as weaker summoning spells for a lower price.
 
 Strong conjuration; CL 17th; Craft Wondrous Item, summon monster VI, summon monster IX; Price 100,000 gp; Weight 1 lb.

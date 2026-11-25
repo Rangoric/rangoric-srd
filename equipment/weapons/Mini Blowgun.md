@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/thrown]
 
 # Mini Blowgun
 
-*Exotic ranged weapon.* Cost 5 sp; Range Increment 10 ft.; Weight 0.3 lb.; Type Piercing. ^stats
+_Exotic ranged weapon._ Cost 5 sp; Range Increment 10 ft.; Weight 0.3 lb.; Type Piercing. ^stats
 
 The mini-blowgun is a thin tube approximately 12” to 16” in length. Although this weapon has a very limited range (increment 10ft.) it is highly concealable. The weapon is used one-handed but can be fired using only the mouth, but the attack roll suffers a –4 circumstance penalty to hit.

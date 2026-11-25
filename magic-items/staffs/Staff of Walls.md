@@ -17,10 +17,10 @@ tags: [rangoric, rangoric/magic-item, epic]
 
 # Staff of Walls
 
-This staff allows use of the following spells.  
+This staff allows use of the following spells.
 
-  - Wall of iron (1 charge)
-  - Wall of stone (1 charge)
-  - Wall of force (1 charge)  
+- Wall of iron (1 charge)
+- Wall of stone (1 charge)
+- Wall of force (1 charge)
 
 Caster Level: 30th; Prerequisites: Craft Staff, Craft Epic Staff, Extend Spell, extended wall of force, wall of iron, wall of stone; Market Price: 275,625 gp.

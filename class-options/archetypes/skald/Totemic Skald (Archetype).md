@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Totemic Skald
 
-*A [[rangoric-srd/classes/Skald#^skald-archetypes|skald]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Skald#^skald-archetypes|skald]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 The totemic skald forms a close connection to an animal totem. Through the power of this mystical ally, the skald can change shapes, assuming its form as his own. Additionally, the totem animal grants the skald a measure of its spiritual power that he can share with his allies.
 
@@ -29,7 +29,7 @@ The totemic skald forms a close connection to an animal totem. Through the power
 
 **Totem Empathy (Ex)**: At 4th level, the totemic skald can improve the attitude of animals of the same type as his totem. This ability functions just like a [[rangoric-srd/skills/Persuasion|Persuasion]] check to improve the attitude of a person. The skald rolls 1d20 and adds his skald level and his Charisma modifier to determine the totem empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
 
-In addition, at 4th level, the totemic skald can cast *[[rangoric-srd/spells/Charm Animal|charm animal]]* once per day as a spell-like ability, using his skald level as his caster level and his Charisma modifier to determine the DC. This only functions against animals that are of the same type as his totem animal (subject to GM discretion). At 8th level, and every 4 levels thereafter, he can use this ability one additional time per day.
+In addition, at 4th level, the totemic skald can cast _[[rangoric-srd/spells/Charm Animal|charm animal]]_ once per day as a spell-like ability, using his skald level as his caster level and his Charisma modifier to determine the DC. This only functions against animals that are of the same type as his totem animal (subject to GM discretion). At 8th level, and every 4 levels thereafter, he can use this ability one additional time per day.
 
 This ability replaces [[rangoric-srd/classes/Skald#^skald-uncanny-dodge|uncanny dodge]] and [[rangoric-srd/classes/Skald#^skald-improved-uncanny-dodge|improved uncanny dodge]].
 

@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Incendiary Charge
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]].*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]]._
 
 An incendiary charge is a bomb specifically designed to overcome the effects of any nonmagical object’s hardness. As a full-round action, the alchemist can place an incendiary charge that burns and eats away at an object, dealing normal bomb damage to it. (The damage is not halved against an object with hardness, unlike most energy damage.) Furthermore, the incendiary charge ignores the first 5 points of hardness of the material being damaged.
 

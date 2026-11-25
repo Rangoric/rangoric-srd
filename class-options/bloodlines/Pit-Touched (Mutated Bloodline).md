@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Pit-Touched
 
-*A [[rangoric-srd/class-options/bloodlines/Bloodlines#Mutated Bloodlines|mutated bloodline]] of the [[rangoric-srd/class-options/bloodlines/Infernal Bloodline|infernal bloodline]], for a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] [[rangoric-srd/classes/Sorcerer|sorcerer]].*
+_A [[rangoric-srd/class-options/bloodlines/Bloodlines#Mutated Bloodlines|mutated bloodline]] of the [[rangoric-srd/class-options/bloodlines/Infernal Bloodline|infernal bloodline]], for a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] [[rangoric-srd/classes/Sorcerer|sorcerer]]._
 
 Your diabolic corruption is from a source in the deepest parts of Hell.
 

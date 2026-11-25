@@ -39,7 +39,7 @@ tags: [rangoric, rangoric/monster]
 
 # Puppeteer
 
-Fine [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Psionic)      
+Fine [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Psionic)     
 **Hit Dice:** 1/4 d10 (1 hp)     
 **Initiative:** +2     
 **Speed:** 5 ft. (1 square)     
@@ -61,7 +61,7 @@ Full **Attack:** Bite +4 melee (1d2-5)   
 Treasure: None     
 **Alignment:** Usually lawful Evil     
 **Advancement:** -     
-**Level Adjustment:** -     
+**Level Adjustment:** -   
 
 Puppeteers do not speak, though they can speak indirectly using a host body’s vocal cords, in whatever language the host knows (usually Common).
 

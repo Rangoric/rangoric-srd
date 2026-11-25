@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Freezing Spells
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Waves Mystery|waves]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Waves Mystery|waves]] mystery._
 
-Whenever a creature fails a saving throw and takes cold damage from one of your spells, it is slowed (as the *[[rangoric-srd/spells/Slow|slow]]* spell) for 1 round. Spells that do not allow a save do not slow creatures. At 11th level, the duration increases to 1d4 rounds.
+Whenever a creature fails a saving throw and takes cold damage from one of your spells, it is slowed (as the _[[rangoric-srd/spells/Slow|slow]]_ spell) for 1 round. Spells that do not allow a save do not slow creatures. At 11th level, the duration increases to 1d4 rounds.

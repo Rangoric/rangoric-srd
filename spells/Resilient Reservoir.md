@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Resilient Reservoir
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Mag 3, Mes 3, Pal 3, Psy 4, Sor/Wiz 4, Wit 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Area**: Special, see text
-  - **Duration**: 1 round/ level
-  - **Saving Throw**: None (see below)
-  - **Spell Resistance**: Yes
+- **Level**: Mag 3, Mes 3, Pal 3, Psy 4, Sor/Wiz 4, Wit 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Area**: Special, see text
+- **Duration**: 1 round/ level
+- **Saving Throw**: None (see below)
+- **Spell Resistance**: Yes
 
 This spell creates a magical well of retribution that a caster can unleash with blinding speed.
 

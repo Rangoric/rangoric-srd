@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Shove Aside, Greater
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
 This functions as shove aside, but it applies to any number of allies, so long as they are not adjacent to the target of the charge. A barbarian must have the [[rangoric-srd/class-options/rage-powers/Shove Aside (Rage Power)|shove aside]] rage power and be at least 8th level to select this rage power.

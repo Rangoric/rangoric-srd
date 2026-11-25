@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Aqua Clarissima
 
-*Chymical; Special*
+_Chymical; Special_
 
 Aqua clarissima is a chymical in the alchemist’s laboratory, used as the base for potions and substances with a curative effect. On its own, a flask can be imbibed to enhance active healing—if a character drinks this prior to (but in the same round as) any magical healing, aqua clarissima adds a +1 to each die of magical healing.
 

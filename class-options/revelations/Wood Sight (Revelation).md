@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Wood Sight
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Wood Mystery|wood]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Wood Mystery|wood]] mystery._
 
 As a move action, you can alter your vision to see through underbrush and plant growth that would normally grant concealment, up to a range of 60 feet (though darkness and other obstacles still may block your sight). At 7th level, you can use this ability to see through wood or other plant material as easily as if it were transparent glass, penetrating a number of feet of wood equal to your oracle level. You can use this ability a number of rounds per day equal to your oracle level, but these rounds do not need to be consecutive.

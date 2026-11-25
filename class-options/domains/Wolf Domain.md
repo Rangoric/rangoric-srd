@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Wolf Domain
 
-*A druid domain, which a [[rangoric-srd/classes/Druid|druid]] can take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]; clerics can’t take it.*
+_A druid domain, which a [[rangoric-srd/classes/Druid|druid]] can take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]; clerics can’t take it._
 
 ## Granted Powers
 
@@ -26,14 +26,14 @@ You run with the pack and are the master of the cold hunt of your spirit totem.
 
 ## Domain Spells
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Hunter’s Howl\|Hunter’s Howl]] | Treat enemies as favored for 1 round/level. |
-| 2nd | [[rangoric-srd/spells/Bloodhound\|Bloodhound]] (M) | Gives caster the scent special ability. |
-| 3rd | [[rangoric-srd/spells/Aspect of the Wolf\|Aspect of the Wolf]] | Subject gains +4 Str and Dex, and +2 bonus on trip attacks. |
-| 4th | [[rangoric-srd/spells/Strong Jaw\|Strong Jaw]] | Natural attacks damage as two sizes bigger. |
-| 5th | [[rangoric-srd/spells/Tireless Pursuers\|Tireless Pursuers]] (M) | As tireless pursuit, but affects many targets rather than one. |
-| 6th | [[rangoric-srd/spells/Find the Path\|Find the Path]] (F) | Shows most direct way to a location. |
-| 7th | [[rangoric-srd/spells/Animal Shapes\|Animal Shapes]] (canines only) | One ally/level polymorphs into chosen animal. |
-| 8th | [[rangoric-srd/spells/Phantasmal Revenge\|Phantasmal Revenge]] | Ghost from corpse hunts killer. |
-| 9th | [[rangoric-srd/spells/Freedom\|Freedom]] | Releases creature from imprisonment. |
+| Level | Spell                                                               | Brief Description                                              |
+| ----- | ------------------------------------------------------------------- | -------------------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Hunter’s Howl\|Hunter’s Howl]]                | Treat enemies as favored for 1 round/level.                    |
+| 2nd   | [[rangoric-srd/spells/Bloodhound\|Bloodhound]] (M)                  | Gives caster the scent special ability.                        |
+| 3rd   | [[rangoric-srd/spells/Aspect of the Wolf\|Aspect of the Wolf]]      | Subject gains +4 Str and Dex, and +2 bonus on trip attacks.    |
+| 4th   | [[rangoric-srd/spells/Strong Jaw\|Strong Jaw]]                      | Natural attacks damage as two sizes bigger.                    |
+| 5th   | [[rangoric-srd/spells/Tireless Pursuers\|Tireless Pursuers]] (M)    | As tireless pursuit, but affects many targets rather than one. |
+| 6th   | [[rangoric-srd/spells/Find the Path\|Find the Path]] (F)            | Shows most direct way to a location.                           |
+| 7th   | [[rangoric-srd/spells/Animal Shapes\|Animal Shapes]] (canines only) | One ally/level polymorphs into chosen animal.                  |
+| 8th   | [[rangoric-srd/spells/Phantasmal Revenge\|Phantasmal Revenge]]      | Ghost from corpse hunts killer.                                |
+| 9th   | [[rangoric-srd/spells/Freedom\|Freedom]]                            | Releases creature from imprisonment.                           |

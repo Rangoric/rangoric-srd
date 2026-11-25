@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Distracting Attack
 
-*A [[rangoric-srd/class-options/hunters-tricks/Hunter's Tricks|hunter’s trick]] (Ex), which a [[rangoric-srd/class-options/archetypes/ranger/Skirmisher (Archetype)|skirmisher]] ranger learns.*
+_A [[rangoric-srd/class-options/hunters-tricks/Hunter's Tricks|hunter’s trick]] (Ex), which a [[rangoric-srd/class-options/archetypes/ranger/Skirmisher (Archetype)|skirmisher]] ranger learns._
 
 The ranger can use this trick as a free action before he makes an attack. If the attack hits, the target takes a –2 penalty on all attack rolls for 1 round.

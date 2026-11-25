@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Elven Warcaster’s Chain
 
-This finely crafted suit of *+3* [[rangoric-srd/magic-items/armor/Elven Chain|elven chain]] is imbued with the *[[rangoric-srd/magic-items/armor-abilities/Weightless (Armor Special Ability)|weightless]]* and *[[rangoric-srd/magic-items/armor-abilities/Spellcasting|spellcasting]]* properties, negating any chance for spell failure. It’s a favored armor for elf spellcasting units, some of whom further add energy resistance or *[[rangoric-srd/magic-items/armor-abilities/Hardened|hardening]]* to the armor for even more protection.
+This finely crafted suit of _+3_ [[rangoric-srd/magic-items/armor/Elven Chain|elven chain]] is imbued with the _[[rangoric-srd/magic-items/armor-abilities/Weightless (Armor Special Ability)|weightless]]_ and _[[rangoric-srd/magic-items/armor-abilities/Spellcasting|spellcasting]]_ properties, negating any chance for spell failure. It’s a favored armor for elf spellcasting units, some of whom further add energy resistance or _[[rangoric-srd/magic-items/armor-abilities/Hardened|hardening]]_ to the armor for even more protection.
 
-Moderate enchantment; CL 12th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], 9 ranks in [[rangoric-srd/skills/Craft|Craft]] (armorsmithing), *[[rangoric-srd/spells/Imbue with Spell Ability|imbue with spell ability]]*, *[[rangoric-srd/spells/Levitate|levitate]]*; Price 29,150 gp.
+Moderate enchantment; CL 12th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], 9 ranks in [[rangoric-srd/skills/Craft|Craft]] (armorsmithing), _[[rangoric-srd/spells/Imbue with Spell Ability|imbue with spell ability]]_, _[[rangoric-srd/spells/Levitate|levitate]]_; Price 29,150 gp.

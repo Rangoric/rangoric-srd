@@ -19,6 +19,6 @@ Your ability to command fire and bardic music has created a strange blend of bot
 
 **Benefit**: When you cast a bard spell that deals damage, you can change its damage to fire damage, or make half of it fire damage and half its normal type.
 
-If you cast a *summon monster* spell as a bard spell, you can give the summoned creature a fiery look: fire resistance 5, +1 fire damage on all its natural attacks, and dim light in a 5-foot radius. This part has no effect on a creature that already has the fire subtype.
+If you cast a _summon monster_ spell as a bard spell, you can give the summoned creature a fiery look: fire resistance 5, +1 fire damage on all its natural attacks, and dim light in a 5-foot radius. This part has no effect on a creature that already has the fire subtype.
 
 When you use this feat, the spell gains the fire descriptor.

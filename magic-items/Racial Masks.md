@@ -16,13 +16,13 @@ In ages lost, it was customary for gladiatorial combatants to enter the arena ma
 Racial masks do not bestow armor bonuses or penalties if used with conventional armor, they simply replace the helmets provided with the armor. If used without other armor, racial masks have the following properties in addition to those detailed:
 
 | Armor Bonus | Maximum Dex Bonus | Armor Check Penalty | Arcane Spell Failure | Speed (30 ft.) | Speed (20 ft.) | Weight |
-|---|---|---|---|---|---|---|
-| +1 | — | 0 | 10% | 30 ft. | 20 ft. | 5 lb. |
+| ----------- | ----------------- | ------------------- | -------------------- | -------------- | -------------- | ------ |
+| +1          | —                 | 0                   | 10%                  | 30 ft.         | 20 ft.         | 5 lb.  |
 
 ## The Racial Masks
 
-- *[[rangoric-srd/magic-items/wondrous-items/Mask of the Dwarves|mask of the dwarves]]*
-- *[[rangoric-srd/magic-items/wondrous-items/Mask of the Elves|mask of the elves]]*
-- *[[rangoric-srd/magic-items/wondrous-items/Mask of the Gnomes|mask of the gnomes]]*
-- *[[rangoric-srd/magic-items/wondrous-items/Mask of Humanity|mask of humanity]]*
-- *[[rangoric-srd/magic-items/wondrous-items/Mask of the Orcs|mask of the orcs]]*
+- _[[rangoric-srd/magic-items/wondrous-items/Mask of the Dwarves|mask of the dwarves]]_
+- _[[rangoric-srd/magic-items/wondrous-items/Mask of the Elves|mask of the elves]]_
+- _[[rangoric-srd/magic-items/wondrous-items/Mask of the Gnomes|mask of the gnomes]]_
+- _[[rangoric-srd/magic-items/wondrous-items/Mask of Humanity|mask of humanity]]_
+- _[[rangoric-srd/magic-items/wondrous-items/Mask of the Orcs|mask of the orcs]]_

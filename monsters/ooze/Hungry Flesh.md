@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Hungry Flesh
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]]
-  - **Hit Dice**: 5d8+25 (47 hp)
-  - **Initiative**: –3
-  - **Speed**: 20 ft. (4 squares), swim 20 ft.
-  - **Armor Class**: 8 (–3 Dex, +2 natural, –1 size), touch 6, flat-footed 8
-  - **Base Attack**: +3; **CMB**: +7 (+11 grapple); **CMD**: 14 (can't be tripped)
-  - **Attack**: Slam +5 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Slam +5 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d6+4 plus disease)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or fire), [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Monstrous Growth|monstrous growth]], [[rangoric-srd/monsters/abilities/Reactive Regeneration|reactive regeneration]], [[rangoric-srd/monsters/abilities/Slime Trail|slime trail]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]]
-  - **Saves**: Fort +6, Ref –2, Will –4
-  - **Abilities**: Str 16, Dex 5, Con 20, Int —, Wis 1, Cha 1
-  - **Skills**: —
-  - **Feats**: —
-  - **Environment**: Any land or underground
-  - **Organization**: Solitary or cluster (2–5)
-  - **Challenge Rating**: 3
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]]
+- **Hit Dice**: 5d8+25 (47 hp)
+- **Initiative**: –3
+- **Speed**: 20 ft. (4 squares), swim 20 ft.
+- **Armor Class**: 8 (–3 Dex, +2 natural, –1 size), touch 6, flat-footed 8
+- **Base Attack**: +3; **CMB**: +7 (+11 grapple); **CMD**: 14 (can't be tripped)
+- **Attack**: Slam +5 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Slam +5 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d6+4 plus disease)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or fire), [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Monstrous Growth|monstrous growth]], [[rangoric-srd/monsters/abilities/Reactive Regeneration|reactive regeneration]], [[rangoric-srd/monsters/abilities/Slime Trail|slime trail]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]]
+- **Saves**: Fort +6, Ref –2, Will –4
+- **Abilities**: Str 16, Dex 5, Con 20, Int —, Wis 1, Cha 1
+- **Skills**: —
+- **Feats**: —
+- **Environment**: Any land or underground
+- **Organization**: Solitary or cluster (2–5)
+- **Challenge Rating**: 3
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Created in a laboratory by an [[rangoric-srd/classes/Alchemist|alchemist]] researching methods of regenerating human flesh, a hungry flesh is a freakish creature made of aggressive, malignant tissue. It lives only to feed and grow, and must consume large amounts of plant and animal matter to sustain itself. Each day, a hungry flesh must consume its own weight in food. A hungry flesh resists attempts to cut or pierce it, quickly repairing the damage and creating new fleshy growths. With the right food and attacks to catalyze its growth, a hungry flesh can balloon to twice its normal size in minutes. A hungry flesh can grow to Gargantuan size.
 

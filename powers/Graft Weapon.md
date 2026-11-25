@@ -27,7 +27,7 @@ Psychometabolism
 **Range:** Personal  
 **Target:** You  
 **Duration:** 24 hours (D)  
-**Power Points:** 5  
+**Power Points:** 5
 
 You attach any melee weapon you can use in one hand - mundane, psionic, or magical - onto the end of one of your arms. The weapon becomes a natural extension of your arm, and that hand blends seamlessly into the shaft, hilt, or head of the weapon. Now that the weapon and you are one, you gain a +1 competence bonus on all attack and damage rolls while using the weapon.
 

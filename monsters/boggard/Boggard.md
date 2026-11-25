@@ -41,38 +41,38 @@ tags: [rangoric, rangoric/monster]
 
 # Boggard
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^boggard|Boggard]])
-  - **Hit Dice**: 3d8+9 (22 hp)
-  - **Initiative**: –1
-  - **Speed**: 20 ft. (4 squares), swim 30 ft.
-  - **Armor Class**: 14 (+2 armor, –1 Dex, +3 natural), touch 9, flat-footed 14
-  - **Base Attack**: +2; **CMB**: +4; **CMD**: 13
-  - **Attack**: [[rangoric-srd/equipment/weapons/Morningstar|Morningstar]] +5 melee (1d8+3) or tongue +4 melee touch (sticky tongue)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Morningstar|Morningstar]] +5 melee (1d8+3) and tongue –1 melee touch (sticky tongue)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Terrifying croak
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], swamp stride
-  - **Saves**: Fort +5, Ref +0, Will +1
-  - **Abilities**: Str 15, Dex 9, Con 14, Int 8, Wis 11, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+22 jumping), [[rangoric-srd/skills/Stealth|Stealth]] –1 (+7 in swamps)
-  - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (morningstar)
-  - **Environment**: Temperate marshes
-  - **Organization**: Solitary, pair, or army (3–12)
-  - **Challenge Rating**: 2
-  - **Treasure**: NPC gear (leather armor, morningstar, other treasure)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^boggard|Boggard]])
+- **Hit Dice**: 3d8+9 (22 hp)
+- **Initiative**: –1
+- **Speed**: 20 ft. (4 squares), swim 30 ft.
+- **Armor Class**: 14 (+2 armor, –1 Dex, +3 natural), touch 9, flat-footed 14
+- **Base Attack**: +2; **CMB**: +4; **CMD**: 13
+- **Attack**: [[rangoric-srd/equipment/weapons/Morningstar|Morningstar]] +5 melee (1d8+3) or tongue +4 melee touch (sticky tongue)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Morningstar|Morningstar]] +5 melee (1d8+3) and tongue –1 melee touch (sticky tongue)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Terrifying croak
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], swamp stride
+- **Saves**: Fort +5, Ref +0, Will +1
+- **Abilities**: Str 15, Dex 9, Con 14, Int 8, Wis 11, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+22 jumping), [[rangoric-srd/skills/Stealth|Stealth]] –1 (+7 in swamps)
+- **Feats**: [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (morningstar)
+- **Environment**: Temperate marshes
+- **Organization**: Solitary, pair, or army (3–12)
+- **Challenge Rating**: 2
+- **Treasure**: NPC gear (leather armor, morningstar, other treasure)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 **Also in this entry:**
 
-  - Boggard Fighters: [[rangoric-srd/monsters/boggard/Boggard Brute|Boggard Brute]] (CR 3), [[rangoric-srd/monsters/boggard/Boggard Champion|Boggard Champion]] (CR 7)
-  - Boggard Oddities: [[rangoric-srd/monsters/boggard/Boggard Farcroaker|Boggard Farcroaker]] (CR 3), [[rangoric-srd/monsters/boggard/Boggard Abyssal Warrior|Boggard Abyssal Warrior]] (CR 8)
-  - Boggard Barbarians: [[rangoric-srd/monsters/boggard/Boggard Savage|Boggard Savage]] (CR 4), [[rangoric-srd/monsters/boggard/Boggard Scarred One|Boggard Scarred One]] (CR 6)
-  - Boggard Mystics: [[rangoric-srd/monsters/boggard/Boggard Swampseer|Boggard Swampseer]] (CR 4), [[rangoric-srd/monsters/boggard/Boggard Prophet|Boggard Prophet]] (CR 5)
-  - Boggard Rangers: [[rangoric-srd/monsters/boggard/Boggard Hunter|Boggard Hunter]] (CR 5), [[rangoric-srd/monsters/boggard/Boggard Stalker|Boggard Stalker]] (CR 9)
-  - Boggard Priest-King: [[rangoric-srd/monsters/boggard/Boggard Priest-King|Boggard Priest-King]] (CR 11)
-  - [[rangoric-srd/monsters/boggard/Bogwiggle|Bogwiggle]] (CR 1)
+- Boggard Fighters: [[rangoric-srd/monsters/boggard/Boggard Brute|Boggard Brute]] (CR 3), [[rangoric-srd/monsters/boggard/Boggard Champion|Boggard Champion]] (CR 7)
+- Boggard Oddities: [[rangoric-srd/monsters/boggard/Boggard Farcroaker|Boggard Farcroaker]] (CR 3), [[rangoric-srd/monsters/boggard/Boggard Abyssal Warrior|Boggard Abyssal Warrior]] (CR 8)
+- Boggard Barbarians: [[rangoric-srd/monsters/boggard/Boggard Savage|Boggard Savage]] (CR 4), [[rangoric-srd/monsters/boggard/Boggard Scarred One|Boggard Scarred One]] (CR 6)
+- Boggard Mystics: [[rangoric-srd/monsters/boggard/Boggard Swampseer|Boggard Swampseer]] (CR 4), [[rangoric-srd/monsters/boggard/Boggard Prophet|Boggard Prophet]] (CR 5)
+- Boggard Rangers: [[rangoric-srd/monsters/boggard/Boggard Hunter|Boggard Hunter]] (CR 5), [[rangoric-srd/monsters/boggard/Boggard Stalker|Boggard Stalker]] (CR 9)
+- Boggard Priest-King: [[rangoric-srd/monsters/boggard/Boggard Priest-King|Boggard Priest-King]] (CR 11)
+- [[rangoric-srd/monsters/boggard/Bogwiggle|Bogwiggle]] (CR 1)
 
 Boggards resemble anthropomorphic frogs or toads, complete with webbed hands and feet, large eyes, and overly wide mouths. These creatures make their homes near large rivers or deep in marshes. There they make small villages composed of mud mounds on the banks. Boggards start out life as tadpoles in breeding ponds, eventually growing to a length of 3 feet before sprouting arms and legs and becoming capable of terrestrial living. Acceptance into the clan then depends on the young boggard's successful hunt to kill a sentient humanoid. Those who fail are exiled from the clan. As boggards age, they continue to grow and lose their coloration. Exceptionally old boggards bear completely white skin covering massive corpulent bodies. Some of these boggards rank among the caste of priest-kings and enjoy a life of grotesque pleasures ruling their clans.
 
@@ -102,7 +102,7 @@ Two beliefs are central to boggards' religious and spiritual experience. First, 
 
 Metamorphosis fascinates boggards, from the development of their young to the transformation of priest-kings. Those who parley with boggards can sometimes awe the creatures with transformative magic.
 
-**Priest-kings**: Boggards raised on a diet of blue dragonfly pulp sometimes develop into priest-kings. These boggards have only a +2 natural armor bonus but don't take the common boggard's –2 racial penalty to Dexterity and Intelligence. In addition, priest-kings receive a +4 racial bonus to Wisdom and gain the following spell-like abilities: 1/day—*[[rangoric-srd/spells/Fog Cloud|fog cloud]]*, *[[rangoric-srd/spells/Jump (Spell)|jump]]*, *[[rangoric-srd/spells/Summon Swarm|summon swarm]]*. The caster level for these effects is equal to the boggard's Hit Dice. This doesn't replace any of a boggard's other features, but it's extremely rare and available only at the GM's discretion. ^priest-kings
+**Priest-kings**: Boggards raised on a diet of blue dragonfly pulp sometimes develop into priest-kings. These boggards have only a +2 natural armor bonus but don't take the common boggard's –2 racial penalty to Dexterity and Intelligence. In addition, priest-kings receive a +4 racial bonus to Wisdom and gain the following spell-like abilities: 1/day—_[[rangoric-srd/spells/Fog Cloud|fog cloud]]_, _[[rangoric-srd/spells/Jump (Spell)|jump]]_, _[[rangoric-srd/spells/Summon Swarm|summon swarm]]_. The caster level for these effects is equal to the boggard's Hit Dice. This doesn't replace any of a boggard's other features, but it's extremely rare and available only at the GM's discretion. ^priest-kings
 
 The following racial traits may be selected instead of existing boggard racial traits.
 

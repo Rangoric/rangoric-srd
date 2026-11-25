@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Fearmonger
 
-*An [[rangoric-srd/classes/Antipaladin#^antipaladin-archetypes|antipaladin]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_An [[rangoric-srd/classes/Antipaladin#^antipaladin-archetypes|antipaladin]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 The fearmonger wants to do more than cause pain, misery, and confusion. He wishes to spread fear among his foes and infect entire populations with it. The fearmonger archetype is available only to the [[rangoric-srd/classes/Antipaladin|antipaladin]] alternate class. The fearmonger is common among [[rangoric-srd/monsters/bugbear/Bugbear|bugbears]].
 

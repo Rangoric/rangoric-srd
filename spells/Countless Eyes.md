@@ -30,15 +30,15 @@ tags: [rangoric, rangoric/spell]
 
 # Countless Eyes
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 3, Blr 3, Inq 3, Occ 3, Psy 3, Sor/Wiz 3, Wit 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 hour/level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Alc 3, Blr 3, Inq 3, Occ 3, Psy 3, Sor/Wiz 3, Wit 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 hour/level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 The target sprouts extra eyes all over its body, including on the back of its head. It gains all-around vision and cannot be flanked.

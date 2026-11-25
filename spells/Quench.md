@@ -24,12 +24,12 @@ tags: [rangoric, rangoric/spell]
 
 # Quench
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Drd 3, Hun 3
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
+- **Level**: Drd 3, Hun 3
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
 
 Area or Target: One 20-ft. cube/level (S) or one fire-based magic item  
 Duration: Instantaneous  

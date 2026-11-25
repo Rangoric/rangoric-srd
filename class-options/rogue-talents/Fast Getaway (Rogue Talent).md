@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Fast Getaway
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex).*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex)._
 
 After successfully making a sneak attack or [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] check, a character with this talent can spend a move action to take the withdraw action. She can move no more than her speed during this movement.

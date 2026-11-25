@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Dwarf Rogue
 
-*A [[rangoric-srd/races/Dwarf|dwarf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Rogue#^rogue-class-bonuses|rogue]] level.*
+_A [[rangoric-srd/races/Dwarf|dwarf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Rogue#^rogue-class-bonuses|rogue]] level._
 
 Add a +1/2 bonus on [[rangoric-srd/skills/Engineering|Engineering]] checks regarding stone traps and a +1/2 bonus to [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] regarding stone traps.

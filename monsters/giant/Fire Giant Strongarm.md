@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Fire Giant Strongarm
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Fire, Giant)
-  - **Hit Dice**: 15d8+3d10+75 (158 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 31 (+9 armor, +1 deflection, +1 Dex, +8 natural, +3 shield, –1 size), touch 11, flat-footed 30
-  - **Base Attack**: +14; **CMB**: +27 (+29 overrun, +29 sunder); **CMD**: 39 (41 vs. overrun, 41 vs. sunder)
-  - **Attack**: +1 flaming warhammer +27 melee (2d6+13/×3) or rock +15 ranged (1d8+18 plus 1d6 fire)
-  - **Full Attack**: +1 flaming warhammer +27/+22/+17 melee (2d6+13/×3); or rock +15/+10/+5 ranged (1d8+18 plus 1d6 fire)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/giant/Fire Giant|Heated rock]], [[rangoric-srd/monsters/abilities/Rock Throwing|rock throwing]] (120 ft.)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, vulnerability to cold
-  - **Saves**: Fort +16, Ref +7, Will +11 (+1 vs. fear)
-  - **Abilities**: Str 35, Dex 13, Con 19, Int 12, Wis 16, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +22, [[rangoric-srd/skills/Craft|Craft]] (weapons) +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +21, [[rangoric-srd/skills/Perception|Perception]] +24
-  - **Feats**: [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Impact Critical Shot|Impact Critical Shot]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Smoking Boulder|Smoking Boulder]], [[rangoric-srd/feats/Target of Opportunity|Target of Opportunity]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (warhammer)
-  - **Environment**: Warm mountains
-  - **Organization**: Solitary, or with other fire giants (see [[rangoric-srd/monsters/giant/Fire Giant|Fire Giant]])
-  - **Challenge Rating**: 13
-  - **Treasure**: NPC gear (combat gear: potions of cure serious wounds (2), fuse grenades (3); other gear: +1 steaming half-plate, +1 arrow catching heavy steel shield, +1 flaming warhammer, ring of protection +1, 98 gp)
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Fire, Giant)
+- **Hit Dice**: 15d8+3d10+75 (158 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 31 (+9 armor, +1 deflection, +1 Dex, +8 natural, +3 shield, –1 size), touch 11, flat-footed 30
+- **Base Attack**: +14; **CMB**: +27 (+29 overrun, +29 sunder); **CMD**: 39 (41 vs. overrun, 41 vs. sunder)
+- **Attack**: +1 flaming warhammer +27 melee (2d6+13/×3) or rock +15 ranged (1d8+18 plus 1d6 fire)
+- **Full Attack**: +1 flaming warhammer +27/+22/+17 melee (2d6+13/×3); or rock +15/+10/+5 ranged (1d8+18 plus 1d6 fire)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/giant/Fire Giant|Heated rock]], [[rangoric-srd/monsters/abilities/Rock Throwing|rock throwing]] (120 ft.)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, vulnerability to cold
+- **Saves**: Fort +16, Ref +7, Will +11 (+1 vs. fear)
+- **Abilities**: Str 35, Dex 13, Con 19, Int 12, Wis 16, Cha 10
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +22, [[rangoric-srd/skills/Craft|Craft]] (weapons) +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +21, [[rangoric-srd/skills/Perception|Perception]] +24
+- **Feats**: [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Impact Critical Shot|Impact Critical Shot]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Smoking Boulder|Smoking Boulder]], [[rangoric-srd/feats/Target of Opportunity|Target of Opportunity]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (warhammer)
+- **Environment**: Warm mountains
+- **Organization**: Solitary, or with other fire giants (see [[rangoric-srd/monsters/giant/Fire Giant|Fire Giant]])
+- **Challenge Rating**: 13
+- **Treasure**: NPC gear (combat gear: potions of cure serious wounds (2), fuse grenades (3); other gear: +1 steaming half-plate, +1 arrow catching heavy steel shield, +1 flaming warhammer, ring of protection +1, 98 gp)
+- **Alignment**: Usually lawful evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A fire giant strongarm is a [[rangoric-srd/monsters/giant/Fire Giant|fire giant]] with 3 levels of [[rangoric-srd/classes/Fighter|fighter]], part of the fire giant vanguard. When the fire giants unleash their savagery, the glaives and the strongarms are often in the lead.
 

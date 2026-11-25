@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/armor]
 
 # Scale Mail
 
-*Medium armor.* Cost 50 gp; Armor Bonus +4; Maximum Dex Bonus +3; Armor Check Penalty –4; Arcane Spell Failure 25%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 30 lb. ^stats
+_Medium armor._ Cost 50 gp; Armor Bonus +4; Maximum Dex Bonus +3; Armor Check Penalty –4; Arcane Spell Failure 25%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 30 lb. ^stats
 
 The suit includes gauntlets.

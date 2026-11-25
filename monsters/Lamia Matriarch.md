@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Lamia Matriarch
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Shapechanger)
-  - **Hit Dice**: 12d10+36 (102 hp)
-  - **Initiative**: +4
-  - **Speed**: 40 ft. (8 squares), climb 40 ft., swim 40 ft.
-  - **Armor Class**: 21 (+4 Dex, +8 natural, –1 size), touch 13, flat-footed 17
-  - **Base Attack**: +12; **CMB**: +18; **CMD**: 32 (can't be tripped)
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Scimitar|scimitars]] +14 melee (1d6+6/15–20 plus 1 Wisdom drain on first hit each round) or touch +16 melee (1d4 Wisdom drain)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Scimitar|scimitars]] +14/+14/+9/+9/+4 melee (1d6+6/15–20 plus 1 Wisdom drain on first hit each round); or touch +16 melee (1d4 Wisdom drain)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Wisdom Drain|Wisdom drain]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (fixed Medium humanoid form, alter self), [[rangoric-srd/monsters/abilities/Undersized Weapons|undersized weapons]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
-  - **Saves**: Fort +7, Ref +12, Will +11
-  - **Abilities**: Str 20, Dex 19, Con 17, Int 16, Wis 16, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Arcana|Arcana]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +13 (+17 jumping), [[rangoric-srd/skills/Deception|Deception]] +21, [[rangoric-srd/skills/Emulation|Emulation]] +21, [[rangoric-srd/skills/Imitation|Imitation]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Knowledge|Knowledge]] +15, [[rangoric-srd/skills/Mysticism|Mysticism]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +11
-  - **Feats**: [[rangoric-srd/feats/Double Slice|Double Slice]], [[rangoric-srd/feats/Extend Spell|Extend Spell]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (scimitar), [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (scimitar)
-  - **Environment**: Any land
-  - **Organization**: Solitary, pair, or cult (3–6)
-  - **Challenge Rating**: 8
-  - **Treasure**: Double (two +1 scimitars, other treasure)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Shapechanger)
+- **Hit Dice**: 12d10+36 (102 hp)
+- **Initiative**: +4
+- **Speed**: 40 ft. (8 squares), climb 40 ft., swim 40 ft.
+- **Armor Class**: 21 (+4 Dex, +8 natural, –1 size), touch 13, flat-footed 17
+- **Base Attack**: +12; **CMB**: +18; **CMD**: 32 (can't be tripped)
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Scimitar|scimitars]] +14 melee (1d6+6/15–20 plus 1 Wisdom drain on first hit each round) or touch +16 melee (1d4 Wisdom drain)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Scimitar|scimitars]] +14/+14/+9/+9/+4 melee (1d6+6/15–20 plus 1 Wisdom drain on first hit each round); or touch +16 melee (1d4 Wisdom drain)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Wisdom Drain|Wisdom drain]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (fixed Medium humanoid form, alter self), [[rangoric-srd/monsters/abilities/Undersized Weapons|undersized weapons]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
+- **Saves**: Fort +7, Ref +12, Will +11
+- **Abilities**: Str 20, Dex 19, Con 17, Int 16, Wis 16, Cha 21
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Arcana|Arcana]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +13 (+17 jumping), [[rangoric-srd/skills/Deception|Deception]] +21, [[rangoric-srd/skills/Emulation|Emulation]] +21, [[rangoric-srd/skills/Imitation|Imitation]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Knowledge|Knowledge]] +15, [[rangoric-srd/skills/Mysticism|Mysticism]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +11
+- **Feats**: [[rangoric-srd/feats/Double Slice|Double Slice]], [[rangoric-srd/feats/Extend Spell|Extend Spell]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (scimitar), [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (scimitar)
+- **Environment**: Any land
+- **Organization**: Solitary, pair, or cult (3–6)
+- **Challenge Rating**: 8
+- **Treasure**: Double (two +1 scimitars, other treasure)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The queens of a race consumed by bitterness and predatory instinct, lamia matriarchs mastermind all manner of foul plots in hopes of breaking the bestial curse that afflicts their race. They move with shocking ease from silken-tongued temptresses to dervishes, striking with all the deadly precision of vipers. Quick to covet, enslave, and overindulge, lamia matriarchs luxuriate in gory feasts, violent trysts, and bloody entertainments, reveling until their playthings are broken or until they tire and move on.
 
@@ -68,9 +68,9 @@ Lamia matriarchs speak Abyssal, Common and Draconic.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +17): At will—*[[rangoric-srd/spells/Charm Monster|charm monster]]* (DC 19), *[[rangoric-srd/spells/Ventriloquism|ventriloquism]]* (DC 16); 3/day—*[[rangoric-srd/spells/Deep Slumber|deep slumber]]* (DC 18), *[[rangoric-srd/spells/Dream|dream]]*, *[[rangoric-srd/spells/Major Image|major image]]* (DC 18), *[[rangoric-srd/spells/Mirror Image|mirror image]]*, *[[rangoric-srd/spells/Suggestion|suggestion]]* (DC 18).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +17): At will—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 19), _[[rangoric-srd/spells/Ventriloquism|ventriloquism]]_ (DC 16); 3/day—_[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (DC 18), _[[rangoric-srd/spells/Dream|dream]]_, _[[rangoric-srd/spells/Major Image|major image]]_ (DC 18), _[[rangoric-srd/spells/Mirror Image|mirror image]]_, _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 18).
 
-**Spells known** (CL 6th; concentration +11): 3rd (4/day)—*[[rangoric-srd/spells/Haste|haste]]*; 2nd (6/day)—*[[rangoric-srd/spells/Death Knell|death knell]]* (DC 17), *[[rangoric-srd/spells/Invisibility|invisibility]]*; 1st (8/day)—*[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]*, *[[rangoric-srd/spells/Divine Favor|divine favor]]*, *[[rangoric-srd/spells/Mage Armor|mage armor]]*, *[[rangoric-srd/spells/Magic Missile|magic missile]]*; 0 (at will)—*[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Daze|daze]]* (DC 15), *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Ghost Sound|ghost sound]]* (DC 15), *[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Mending|mending]]*, *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]*.
+**Spells known** (CL 6th; concentration +11): 3rd (4/day)—_[[rangoric-srd/spells/Haste|haste]]_; 2nd (6/day)—_[[rangoric-srd/spells/Death Knell|death knell]]_ (DC 17), _[[rangoric-srd/spells/Invisibility|invisibility]]_; 1st (8/day)—_[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Divine Favor|divine favor]]_, _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Magic Missile|magic missile]]_; 0 (at will)—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Daze|daze]]_ (DC 15), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 15), _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Mending|mending]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_.
 
 **Spells**: A lamia matriarch casts spells as a 6th-level [[rangoric-srd/classes/Sorcerer|sorcerer]], and can cast spells from the [[rangoric-srd/classes/Cleric|cleric]] list as well as those normally available to a sorcerer. Cleric spells are considered arcane spells for a lamia matriarch.
 

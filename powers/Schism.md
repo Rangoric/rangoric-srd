@@ -29,7 +29,7 @@ Telepathy \[Mind-Affecting\]
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 round/level (D)  
-**Power Points:** 7  
+**Power Points:** 7
 
 Your mind splits into two independent parts. Each part functions in complete autonomy, like two characters in one body. Your new “second mind” does not control your body physically but is free to take one standard action in each round if the action is purely mental (such as manifesting a power) in the same round you take your normal actions.
 

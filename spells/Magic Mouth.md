@@ -33,16 +33,16 @@ tags: [rangoric, rangoric/spell]
 
 # Magic Mouth
 
-*Illusion (Glamer)*
+_Illusion (Glamer)_
 
-  - **Level**: Brd 1, Med 2, Mes 1, Occ 2, Psy 2, Skd 1, Sor/Wiz 2, Sum 1, SumU 1
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature or object
-  - **Duration**: Permanent until discharged
-  - **Saving Throw**: Will negates (object)
-  - **Spell Resistance**: Yes (object)
+- **Level**: Brd 1, Med 2, Mes 1, Occ 2, Psy 2, Skd 1, Sor/Wiz 2, Sum 1, SumU 1
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature or object
+- **Duration**: Permanent until discharged
+- **Saving Throw**: Will negates (object)
+- **Spell Resistance**: Yes (object)
 
 This spell imbues the chosen object or creature with an enchanted mouth that suddenly appears and speaks its message the next time a specified event occurs. The message, which must be twenty-five or fewer words long, can be in any language known by you and can be delivered over a period of 10 minutes. The mouth cannot utter verbal components, use command words, or activate magical effects. It does, however, move according to the words articulated; if it were placed upon a statue, the mouth of the statue would move and appear to speak. Of course, magic mouth can be placed upon a tree, rock, or any other object or creature.
 
@@ -52,4 +52,4 @@ The range limit of a trigger is 15 feet per caster level, so a 6th-level caster 
 
 Magic mouth can be made permanent with a permanency spell.
 
-*Material Component*: A small bit of honeycomb and jade dust worth 10 gp.
+_Material Component_: A small bit of honeycomb and jade dust worth 10 gp.

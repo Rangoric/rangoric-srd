@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Armored Hulk
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-archetypes|barbarian]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-archetypes|barbarian]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Some barbarians disdain the hides and leather used as armor by most of their kin. Instead they master the heaviest of armors, even those created by more civilized people, to gain greater protection and stability in battle.
 

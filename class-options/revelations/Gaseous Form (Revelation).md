@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Gaseous Form
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Wind Mystery|wind]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Wind Mystery|wind]] mystery._
 
-As a standard action, you can assume *[[rangoric-srd/spells/Gaseous Form|gaseous form]]* (as the spell). You can remain gaseous for 1 minute per day per oracle level. This duration does not need to be consecutive, but it must be spent in 1-minute increments. You must be at least 7th level to select this revelation. You can bring other creatures with you in gaseous form, but each passenger costs an additional minute per minute of travel.
+As a standard action, you can assume _[[rangoric-srd/spells/Gaseous Form|gaseous form]]_ (as the spell). You can remain gaseous for 1 minute per day per oracle level. This duration does not need to be consecutive, but it must be spent in 1-minute increments. You must be at least 7th level to select this revelation. You can bring other creatures with you in gaseous form, but each passenger costs an additional minute per minute of travel.

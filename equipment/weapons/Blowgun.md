@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/thrown]
 
 # Blowgun
 
-*Simple ranged weapon.* Cost 2 gp; Dmg 1 (S), 1d2 (M); Critical x2; Range Increment 20 ft.; Weight 1 lb.; Type Piercing. ^stats
+_Simple ranged weapon._ Cost 2 gp; Dmg 1 (S), 1d2 (M); Critical x2; Range Increment 20 ft.; Weight 1 lb.; Type Piercing. ^stats
 
 Blowguns are generally used to deliver debilitating (but rarely fatal) [[rangoric-srd/rules/Afflictions#Poison|poisons]] from a distance. They are nearly silent when fired.
 

@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Maneuver Master
 
-*A [[rangoric-srd/classes/Monk#^monk-archetypes|monk]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Monk#^monk-archetypes|monk]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 The maneuver master specializes in more complicated moves than simple damage-dealing strikes.
 
@@ -31,7 +31,7 @@ The maneuver master specializes in more complicated moves than simple damage-dea
 
 **Maneuver Defense (Ex)**: At 3rd level, if a maneuver master has an Improved combat maneuver feat, any creature attempting that maneuver against the maneuver master provokes an [[rangoric-srd/combat/Combat Initiative and Attacks of Opportunity#Attacks of Opportunity|attack of opportunity]], even if it would not normally do so. This ability replaces [[rangoric-srd/classes/Monk#^monk-still-mind|still mind]].
 
-**Reliable Maneuver (Ex)**: At 4th level, as a swift action, a maneuver master may spend 1 point from his *ki* pool before attempting a combat maneuver. He can roll his combat maneuver check for that maneuver twice and use the better result. This ability replaces [[rangoric-srd/classes/Monk#^monk-slow-fall|slow fall]].
+**Reliable Maneuver (Ex)**: At 4th level, as a swift action, a maneuver master may spend 1 point from his _ki_ pool before attempting a combat maneuver. He can roll his combat maneuver check for that maneuver twice and use the better result. This ability replaces [[rangoric-srd/classes/Monk#^monk-slow-fall|slow fall]].
 
 **Meditative Maneuver (Ex)**: At 5th level, as a swift action, a maneuver master can add his Wisdom modifier on any combat maneuver check he makes before the beginning of his next turn. He must choose which combat maneuver check to grant the bonus to before making the combat maneuver check. This ability replaces [[rangoric-srd/classes/Monk#^monk-purity-of-body|purity of body]].
 

@@ -35,19 +35,19 @@ tags: [rangoric, rangoric/spell]
 
 # Water Breathing
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 3, Blr 3, Clr 3, Drd 3, Hun 3, Mag 3, Psy 3, Sha 3, Sor/Wiz 3, Sum 3, SumU 3, Water 3
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Living creatures touched
-  - **Duration**: 2 hours/level; see text
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Alc 3, Blr 3, Clr 3, Drd 3, Hun 3, Mag 3, Psy 3, Sha 3, Sor/Wiz 3, Sum 3, SumU 3, Water 3
+- **Components**: V, S, M/DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Living creatures touched
+- **Duration**: 2 hours/level; see text
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 The transmuted creatures can breathe water freely. Divide the duration evenly among all the creatures you touch.
 
 The spell does not make creatures unable to breathe air.
 
-*Arcane Material Component*: A short reed or piece of straw.
+_Arcane Material Component_: A short reed or piece of straw.

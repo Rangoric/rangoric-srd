@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Charda
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Aquatic)
-  - **Hit Dice**: 9d10+36 (85 hp)
-  - **Initiative**: +2
-  - **Speed**: 20 ft. (4 squares), swim 60 ft.
-  - **Armor Class**: 20 (+2 Dex, +7 natural, +1 size), touch 13, flat-footed 18
-  - **Base Attack**: +9; **CMB**: +11 (+19 bull rush and trip); **CMD**: 23
-  - **Attack**: Bite +13 melee (1d6+3 plus 1d6 cold) or claw +14 melee (1d4+3)
-  - **Full Attack**: Bite +13 melee (1d6+3 plus 1d6 cold) and 4 claws +14 melee (1d4+3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Black Bile|Black bile]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Cold Vigor|cold vigor]], [[rangoric-srd/monsters/abilities/Overwhelming|overwhelming]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and poison
-  - **Saves**: Fort +7, Ref +10, Will +7
-  - **Abilities**: Str 16, Dex 15, Con 19, Int 11, Wis 12, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +18, [[rangoric-srd/skills/Theology|Theology]] +4
-  - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
-  - **Environment**: Cold aquatic or underground
-  - **Organization**: Solitary, pair, gang (3–5), or tribe (6–14)
-  - **Challenge Rating**: 7
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Aquatic)
+- **Hit Dice**: 9d10+36 (85 hp)
+- **Initiative**: +2
+- **Speed**: 20 ft. (4 squares), swim 60 ft.
+- **Armor Class**: 20 (+2 Dex, +7 natural, +1 size), touch 13, flat-footed 18
+- **Base Attack**: +9; **CMB**: +11 (+19 bull rush and trip); **CMD**: 23
+- **Attack**: Bite +13 melee (1d6+3 plus 1d6 cold) or claw +14 melee (1d4+3)
+- **Full Attack**: Bite +13 melee (1d6+3 plus 1d6 cold) and 4 claws +14 melee (1d4+3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Black Bile|Black bile]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Cold Vigor|cold vigor]], [[rangoric-srd/monsters/abilities/Overwhelming|overwhelming]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and poison
+- **Saves**: Fort +7, Ref +10, Will +7
+- **Abilities**: Str 16, Dex 15, Con 19, Int 11, Wis 12, Cha 8
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +18, [[rangoric-srd/skills/Theology|Theology]] +4
+- **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
+- **Environment**: Cold aquatic or underground
+- **Organization**: Solitary, pair, gang (3–5), or tribe (6–14)
+- **Challenge Rating**: 7
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 In the darkest depths of the earth, in strange frozen rivers and subterranean lakes of frigid black water dwell the mysterious and ferocious chardas. These xenophobic humanoids rarely venture far from their domains, settling in small tribes and building rocky huts underwater or muddy domes along the subterranean shore.
 

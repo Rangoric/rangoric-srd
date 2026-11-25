@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Oceans Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Water Domain|Water]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Water Domain|Water]] domain._
 
 ## Replacement Power
 
@@ -27,8 +27,8 @@ This power replaces the [[rangoric-srd/class-options/domains/Water Domain#Grante
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 2nd | [[rangoric-srd/spells/Slipstream\|Slipstream]] (M) | Wave boosts creature's speed. |
-| 3rd | [[rangoric-srd/spells/Water Walk\|Water Walk]] | Subject treads on water as if solid. |
-| 9th | [[rangoric-srd/spells/Tsunami\|Tsunami]] | Huge wave damages and sweeps up all in its path. |
+| Level | Spell                                              | Brief Description                                |
+| ----- | -------------------------------------------------- | ------------------------------------------------ |
+| 2nd   | [[rangoric-srd/spells/Slipstream\|Slipstream]] (M) | Wave boosts creature's speed.                    |
+| 3rd   | [[rangoric-srd/spells/Water Walk\|Water Walk]]     | Subject treads on water as if solid.             |
+| 9th   | [[rangoric-srd/spells/Tsunami\|Tsunami]]           | Huge wave damages and sweeps up all in its path. |

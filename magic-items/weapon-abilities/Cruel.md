@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Cruel
 
-When the wielder strikes a creature that is [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]], [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]], or [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] with a *cruel* weapon, that creature becomes [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1 round. When the wielder uses the weapon to knock [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] or kill a creature, he gains 5 temporary hit points that last for 10 minutes.
+When the wielder strikes a creature that is [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]], [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]], or [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] with a _cruel_ weapon, that creature becomes [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1 round. When the wielder uses the weapon to knock [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] or kill a creature, he gains 5 temporary hit points that last for 10 minutes.
 
-Faint necromancy; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Cause Fear|cause fear]]*, *[[rangoric-srd/spells/Death Knell|death knell]]*; Price +1 bonus.
+Faint necromancy; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Cause Fear|cause fear]]_, _[[rangoric-srd/spells/Death Knell|death knell]]_; Price +1 bonus.

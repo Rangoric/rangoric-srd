@@ -26,19 +26,19 @@ tags: [rangoric, rangoric/spell]
 
 # Reverse Gravity
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Drd 8, Psy 7, Sor/Wiz 7
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Area**: Up to one 10-ft. cube per two levels (S)
-  - **Duration**: 1 round/level (D)
-  - **Saving Throw**: None; see text
-  - **Spell Resistance**: No
+- **Level**: Drd 8, Psy 7, Sor/Wiz 7
+- **Components**: V, S, M/DF
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Area**: Up to one 10-ft. cube per two levels (S)
+- **Duration**: 1 round/level (D)
+- **Saving Throw**: None; see text
+- **Spell Resistance**: No
 
 This spell reverses gravity in an area, causing all unattached objects and creatures within that area to fall upward and reach the top of the area in 1 round. If some solid object (such as a ceiling) is encountered in this fall, falling objects and creatures strike it in the same manner as they would during a normal downward fall. If an object or creature reaches the top of the area without striking anything, it remains there, oscillating slightly, until the spell ends. At the end of the spell duration, affected objects and creatures fall downward.
 
 Provided it has something to hold onto, a creature caught in the area can attempt a Reflex save to secure itself when the spell strikes. Creatures who can fly or levitate can keep themselves from falling.
 
-*Arcane Material Component*: A lodestone and iron filings.
+_Arcane Material Component_: A lodestone and iron filings.

@@ -20,11 +20,11 @@ tags: [rangoric, rangoric/magic-item]
 
 Usually carved from the heartwood of an ancient oak or other large tree, this staff allows use of the following spells:
 
-  - [[rangoric-srd/spells/Shield|Shield]] (1 charge)
-  - [[rangoric-srd/spells/Resist Energy|Resist energy]] (1 charge)
-  - [[rangoric-srd/spells/Dispel Magic|Dispel magic]] (1 charge)
-  - [[rangoric-srd/spells/Spells H to L|Lesser globe of invulnerability]] (2 charges)
-  - [[rangoric-srd/spells/Dismissal|Dismissal]] (2 charges)
-  - [[rangoric-srd/spells/Repulsion|Repulsion]] (3 charges)
+- [[rangoric-srd/spells/Shield|Shield]] (1 charge)
+- [[rangoric-srd/spells/Resist Energy|Resist energy]] (1 charge)
+- [[rangoric-srd/spells/Dispel Magic|Dispel magic]] (1 charge)
+- [[rangoric-srd/spells/Spells H to L|Lesser globe of invulnerability]] (2 charges)
+- [[rangoric-srd/spells/Dismissal|Dismissal]] (2 charges)
+- [[rangoric-srd/spells/Repulsion|Repulsion]] (3 charges)
 
 Strong abjuration; CL 13th; Craft Staff, dismissal, dispel magic, lesser globe of invulnerability, resist energy, repulsion, shield; Price 65,000 gp.

@@ -33,7 +33,7 @@ Telepathy \[Mind-Affecting\]
 **Duration:** Instantaneous  
 **Saving Throw:** Will half  
 **Power Resistance:** Yes  
-**Power Points:** 13  
+**Power Points:** 13
 
 You “grumble” psychically (which both psionic and nonpsionic creatures can detect), then release a horrid shriek from your subconscious that disrupts the brains of all enemies in the power’s area, dealing 13d6 points of damage to each enemy.
 

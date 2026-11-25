@@ -68,12 +68,12 @@ At least one 5-foot-by-5-foot square on each vehicle must be designated as its d
 
 **Table: Vehicle Size by Squares**
 
-| Vehicle Squares | Vehicle Size |
-| --- | --- |
-| 2–6 squares | Large vehicle |
-| 7–12 squares | Huge vehicle |
-| 13–20 squares | Gargantuan vehicle |
-| 21+ | Colossal vehicle |
+| Vehicle Squares | Vehicle Size       |
+| --------------- | ------------------ |
+| 2–6 squares     | Large vehicle      |
+| 7–12 squares    | Huge vehicle       |
+| 13–20 squares   | Gargantuan vehicle |
+| 21+             | Colossal vehicle   |
 
 ## Vehicle Facing and Movement
 
@@ -139,7 +139,7 @@ Jumping on a vehicle is a normal jump of its distance assuming the vehicle has a
 
 For example, jumping onto a vehicle with a current speed of 90 feet increases the DC by 15 if the jumper is not also on a moving vehicle. If the jumper is on a moving vehicle, and that vehicle is moving at the same current speed as the vehicle the jumper wants to jump to, there is no increase to the DC. If the difference between their speeds is less than 30 feet, the DC of the [[rangoric-srd/skills/Acrobatics|Acrobatics]] check increases by 5. If it's between 30 and 60, it increases by 10, and so on.
 
-Jumping off a vehicle onto the ground is considered a fall, and treated as if the fall were an additional 10 feet farther for every 30 feet of the vehicle's movement for the purposes of determining damage. [[rangoric-srd/skills/Acrobatics|Acrobatics]] can be used to soften this fall, and magic abilities such as *[[rangoric-srd/spells/Feather Fall|feather fall]]* can be used to negate the effects of jumping off a vehicle.
+Jumping off a vehicle onto the ground is considered a fall, and treated as if the fall were an additional 10 feet farther for every 30 feet of the vehicle's movement for the purposes of determining damage. [[rangoric-srd/skills/Acrobatics|Acrobatics]] can be used to soften this fall, and magic abilities such as _[[rangoric-srd/spells/Feather Fall|feather fall]]_ can be used to negate the effects of jumping off a vehicle.
 
 ### Taking Control of a Vehicle
 
@@ -183,12 +183,12 @@ Any time any part of a vehicle (including any creatures used as propulsion) ente
 
 **Table: Ramming Damage by Size**
 
-| Vehicle Size | Damage |
-| --- | --- |
-| Large vehicle | 1d8 |
-| Huge vehicle | 2d8 |
-| Gargantuan vehicle | 4d8 |
-| Colossal vehicle | 8d8 |
+| Vehicle Size       | Damage |
+| ------------------ | ------ |
+| Large vehicle      | 1d8    |
+| Huge vehicle       | 2d8    |
+| Gargantuan vehicle | 4d8    |
+| Colossal vehicle   | 8d8    |
 
 ### Damaging a Vehicle
 
@@ -198,13 +198,13 @@ A vehicle has a total number of hit points equal to its base material hit point 
 
 **Table: Vehicle Hit Points by Material**
 
-| Material | Hit Points per Square | Hardness |
-| --- | --- | --- |
-| Leather | 10 | 0 |
-| Wood | 15 | 5 |
-| Stone | 20 | 8 |
-| Metal | 20 | 10 |
-| Magically treated | ×2 | ×2 |
+| Material          | Hit Points per Square | Hardness |
+| ----------------- | --------------------- | -------- |
+| Leather           | 10                    | 0        |
+| Wood              | 15                    | 5        |
+| Stone             | 20                    | 8        |
+| Metal             | 20                    | 10       |
+| Magically treated | ×2                    | ×2       |
 
 **Broken Condition**: Vehicles, and sometimes their methods of propulsion, are objects, and like any other object, when they take damage in excess of half their hit points, they gain the broken condition. When a vehicle gains the broken condition, it takes a –2 penalty to AC, on saving throws, and on combat maneuver checks, and the DC to drive the vehicle increases by 2. If a vehicle or its means of propulsion becomes broken, both the maximum speed and the acceleration of the vehicle are halved until repaired. If the vehicle is in motion, and is traveling faster than its new maximum speed, it automatically decelerates to its new maximum speed.
 
@@ -220,4 +220,4 @@ When a vehicle comes to a sudden stop—its movement is reduced to 0 in some way
 
 For instance, if a vehicle with a movement of 60 feet makes a sudden stop due to hitting a brick wall, its driver is thrown 30 feet toward the brick wall. If the brick wall was only 5 feet away from the driver at the point of impact, the driver moves forward 5 feet, hits the wall, and takes 5d6 points of damage. She then takes the original 1d6 points of damage, after which she makes a Reflex saving throw to see if she falls prone for the sudden stop.
 
-**Repairing a Vehicle**: The fastest and easiest way to repair a vehicle is with the *[[rangoric-srd/spells/Mending|mending]]* and *[[rangoric-srd/spells/Make Whole|make whole]]* spells, but more mundane methods can also be used. [[rangoric-srd/skills/Craft|Craft]] (carpentry) can be used to repair most vehicles made of wood; because of their specialized construction, water vehicles require [[rangoric-srd/skills/Craft|Craft]] (ships) to repair. Depending on the nature of the damage, such skills like [[rangoric-srd/skills/Craft|Craft]] (cloth), [[rangoric-srd/skills/Craft|Craft]] (alchemy), [[rangoric-srd/skills/Engineering|Engineering]], and even various professions can be used to repair vehicles, if the GM approves. In general, a day's worth of work by a single person using the appropriate skill to repair a vehicle requires 10 gp of raw material and a DC 10 skill check, and repairs 10 points of damage on a success, or 5 hit points on a failure.
+**Repairing a Vehicle**: The fastest and easiest way to repair a vehicle is with the _[[rangoric-srd/spells/Mending|mending]]_ and _[[rangoric-srd/spells/Make Whole|make whole]]_ spells, but more mundane methods can also be used. [[rangoric-srd/skills/Craft|Craft]] (carpentry) can be used to repair most vehicles made of wood; because of their specialized construction, water vehicles require [[rangoric-srd/skills/Craft|Craft]] (ships) to repair. Depending on the nature of the damage, such skills like [[rangoric-srd/skills/Craft|Craft]] (cloth), [[rangoric-srd/skills/Craft|Craft]] (alchemy), [[rangoric-srd/skills/Engineering|Engineering]], and even various professions can be used to repair vehicles, if the GM approves. In general, a day's worth of work by a single person using the appropriate skill to repair a vehicle requires 10 gp of raw material and a DC 10 skill check, and repairs 10 points of damage on a success, or 5 hit points on a failure.

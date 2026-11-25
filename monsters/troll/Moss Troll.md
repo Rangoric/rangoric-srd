@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Moss Troll
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant, Shapechanger)
-  - **Hit Dice**: 4d8+12 (30 hp)
-  - **Initiative**: +4
-  - **Speed**: 30 ft. (6 squares), climb 10 ft.
-  - **Armor Class**: 15 (+4 Dex, +2 natural, –1 size), touch 13, flat-footed 11
-  - **Base Attack**: +3; **CMB**: +7; **CMD**: 21
-  - **Attack**: Bite +5 melee (1d4+3) or claw +5 melee (1d4+3)
-  - **Full Attack**: Bite +5 melee (1d4+3) and 2 claws +5 melee (1d4+3)
-  - **Space/Reach**: 10 ft./10 ft. (15 ft. with claws)
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (fire), [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (mossy tree; tree shape), [[rangoric-srd/monsters/abilities/Tree Climber|tree climber]], [[rangoric-srd/monsters/abilities/Fear of Fire|fear of fire]], vulnerable to fire
-  - **Saves**: Fort +7, Ref +5, Will +4
-  - **Abilities**: Str 16, Dex 19, Con 16, Int 9, Wis 12, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +5 (+9 in vegetation)
-  - **Feats**: [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Iron Will|Iron Will]]
-  - **Environment**: Cold or temperate forests
-  - **Organization**: Solitary, gang (2–3), or troop (4–8)
-  - **Challenge Rating**: 3
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant, Shapechanger)
+- **Hit Dice**: 4d8+12 (30 hp)
+- **Initiative**: +4
+- **Speed**: 30 ft. (6 squares), climb 10 ft.
+- **Armor Class**: 15 (+4 Dex, +2 natural, –1 size), touch 13, flat-footed 11
+- **Base Attack**: +3; **CMB**: +7; **CMD**: 21
+- **Attack**: Bite +5 melee (1d4+3) or claw +5 melee (1d4+3)
+- **Full Attack**: Bite +5 melee (1d4+3) and 2 claws +5 melee (1d4+3)
+- **Space/Reach**: 10 ft./10 ft. (15 ft. with claws)
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (fire), [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (mossy tree; tree shape), [[rangoric-srd/monsters/abilities/Tree Climber|tree climber]], [[rangoric-srd/monsters/abilities/Fear of Fire|fear of fire]], vulnerable to fire
+- **Saves**: Fort +7, Ref +5, Will +4
+- **Abilities**: Str 16, Dex 19, Con 16, Int 9, Wis 12, Cha 7
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +5 (+9 in vegetation)
+- **Feats**: [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Iron Will|Iron Will]]
+- **Environment**: Cold or temperate forests
+- **Organization**: Solitary, gang (2–3), or troop (4–8)
+- **Challenge Rating**: 3
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Moss trolls are bent and gangly creatures. They are smaller and thinner than normal trolls, yet their arms are unusually long and spindly for the creatures' size. Their flesh supports the growth of moss and mold as surely as tree bark.
 

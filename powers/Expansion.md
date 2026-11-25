@@ -27,7 +27,7 @@ Psychometabolism
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 round./level (D)  
-**Power Points:** 1  
+**Power Points:** 1
 
 This power causes instant growth, doubling your height, length, and width and multiplying your weight by 8. This increase changes your size category to the next larger one. You gain a +2 size bonus to Strength, a -2 size penalty to Dexterity (to a minimum effective Dexterity score of 1), a -1 size penalty on attack rolls, and a -1 size penalty to Armor Class due to your increased size.
 

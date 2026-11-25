@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Breath Weapon
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “breath weapon (60-ft. cone, 8d6 fire damage, Reflex DC 20 for half, usable every 1d4 rounds)”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “breath weapon (60-ft. cone, 8d6 fire damage, Reflex DC 20 for half, usable every 1d4 rounds)”, on the Special Attacks line.
 
 A breath weapon attack usually deals damage and is often based on some type of energy.
 

@@ -39,7 +39,7 @@ tags: [rangoric, rangoric/monster]
 
 # Neothelid, Psionic
 
-Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Psionic)      
+Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Psionic)     
 **Hit Dice:** 25d8+200 (312 hp)     
 **Initiative:** +2     
 **Speed:** 20 ft. (4 squares)     
@@ -61,7 +61,7 @@ Full **Attack:** 4 tentacle rakes +24 melee (2d6+10/19-20)   
 Treasure: Standard     
 **Alignment:** Always lawful Evil     
 **Advancement:**    26-45 HD (Colossal)     
-**Level Adjustment:**    -     
+**Level Adjustment:**    -   
 
 A mature neothelid is a gigantic worm scores of feet long and weighing tens of thousands of pounds. Although they understand Undercommon, they rarely communicate in a meaningful way.
 

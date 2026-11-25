@@ -26,17 +26,17 @@ tags: [rangoric, rangoric/spell]
 
 # Glyph of Warding
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Clr 3, Inq 3, Wit 3
-  - **Components**: V, S, M
-  - **Casting Time**: 10 minutes
-  - **Range**: Touch
+- **Level**: Clr 3, Inq 3, Wit 3
+- **Components**: V, S, M
+- **Casting Time**: 10 minutes
+- **Range**: Touch
 
 **Target or Area**: Object touched or up to 5 sq. ft./level  
 **Duration**: Permanent until discharged (D)  
 **Saving Throw**: See text  
-**Spell Resistance**: No (object) and Yes; see text  
+**Spell Resistance**: No (object) and Yes; see text
 
 This powerful inscription harms those who enter, pass, or open the warded area or object. A glyph of warding can guard a bridge or passage, ward a portal, trap a chest or box, and so on.
 
@@ -46,12 +46,12 @@ When casting the spell, you weave a tracery of faintly glowing lines around the 
 
 Glyphs cannot be affected or bypassed by such means as physical or magical probing, though they can be dispelled. Mislead, polymorph, and nondetection (and similar magical effects) can fool a glyph, though nonmagical disguises and the like can’t. Read magic allows you to identify a glyph of warding with a DC 13 [[rangoric-srd/skills/Mysticism|Mysticism]] check. Identifying the glyph does not discharge it and allows you to know the basic nature of the glyph (version, type of damage caused, what spell is stored).
 
-*Note*: Magic traps such as glyph of warding are hard to detect and disable. A rogue (only) can use the [[rangoric-srd/skills/Investigation|Investigation]] skill to find the glyph and [[rangoric-srd/skills/Engineering|Engineering]] to thwart it. The DC in each case is 25 + spell level, or 28 for glyph of warding.
+_Note_: Magic traps such as glyph of warding are hard to detect and disable. A rogue (only) can use the [[rangoric-srd/skills/Investigation|Investigation]] skill to find the glyph and [[rangoric-srd/skills/Engineering|Engineering]] to thwart it. The DC in each case is 25 + spell level, or 28 for glyph of warding.
 
 Depending on the version selected, a glyph either blasts the intruder or activates a spell.
 
-*Blast Glyph*: A blast glyph deals 1d8 points of damage per two caster levels (maximum 5d8) to the intruder and to all within 5 feet of him or her. This damage is acid, cold, fire, electricity, or sonic (caster’s choice, made at time of casting). Each creature affected can attempt a Reflex save to take half damage. Spell resistance applies against this effect.
+_Blast Glyph_: A blast glyph deals 1d8 points of damage per two caster levels (maximum 5d8) to the intruder and to all within 5 feet of him or her. This damage is acid, cold, fire, electricity, or sonic (caster’s choice, made at time of casting). Each creature affected can attempt a Reflex save to take half damage. Spell resistance applies against this effect.
 
-*Spell Glyph*: You can store any harmful spell of 3rd level or lower that you know. All level-dependent features of the spell are based on your caster level at the time of casting the glyph. If the spell has a target, it targets the intruder. If the spell has an area or an amorphous effect the area or effect is centered on the intruder. If the spell summons creatures, they appear as close as possible to the intruder and attack. Saving throws and spell resistance operate as normal, except that the DC is based on the level of the spell stored in the glyph.
+_Spell Glyph_: You can store any harmful spell of 3rd level or lower that you know. All level-dependent features of the spell are based on your caster level at the time of casting the glyph. If the spell has a target, it targets the intruder. If the spell has an area or an amorphous effect the area or effect is centered on the intruder. If the spell summons creatures, they appear as close as possible to the intruder and attack. Saving throws and spell resistance operate as normal, except that the DC is based on the level of the spell stored in the glyph.
 
-*Material Component*: You trace the glyph with incense, which must first be sprinkled with powdered diamond worth at least 200 gp.
+_Material Component_: You trace the glyph with incense, which must first be sprinkled with powdered diamond worth at least 200 gp.

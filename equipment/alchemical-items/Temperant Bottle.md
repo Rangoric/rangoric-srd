@@ -24,11 +24,11 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Temperant Bottle
 
-*Alchana/Wondrous Item; Magical*
+_Alchana/Wondrous Item; Magical_
 
-The *temperant bottle* is one of the few magical items among the alchana. This item can produce one temperant paste every 48 hours (one ounce every 24 hours, so 2 days for a full dose) or it can produce a minor or lesser temperant bath once a month (see [[rangoric-srd/equipment/alchemical-items/Temperant Pastes|Temperant Pastes]] and [[rangoric-srd/equipment/alchemical-items/Temperant Bath, Lesser|Temperant Baths]]). At most, the bottle produces one gallon of temperant liquid per day, so producing a temperant bath usually requires it to be left to its creation in a vat or bathtub large enough to hold the fluids and keep them from draining away. See the rules under [[rangoric-srd/equipment/alchemical-items/Temperant Bath, Lesser|Temperant Baths]] for the amounts needed to temper various and sundry items.
+The _temperant bottle_ is one of the few magical items among the alchana. This item can produce one temperant paste every 48 hours (one ounce every 24 hours, so 2 days for a full dose) or it can produce a minor or lesser temperant bath once a month (see [[rangoric-srd/equipment/alchemical-items/Temperant Pastes|Temperant Pastes]] and [[rangoric-srd/equipment/alchemical-items/Temperant Bath, Lesser|Temperant Baths]]). At most, the bottle produces one gallon of temperant liquid per day, so producing a temperant bath usually requires it to be left to its creation in a vat or bathtub large enough to hold the fluids and keep them from draining away. See the rules under [[rangoric-srd/equipment/alchemical-items/Temperant Bath, Lesser|Temperant Baths]] for the amounts needed to temper various and sundry items.
 
-The *temperant bottle* looks like a small triangular bottle with wide rounded edges and a flat bottom. While the bottle is of variable colors, the neck of the bottle always has black, red, and white rings (in that order) running from the top to the base and symbolizing the schools of alchemy. Also, while still of hard glass, the bottom of the bottle seems flexible and allows the user to help push or pour the contents out of the *temperant bottle* more easily.
+The _temperant bottle_ looks like a small triangular bottle with wide rounded edges and a flat bottom. While the bottle is of variable colors, the neck of the bottle always has black, red, and white rings (in that order) running from the top to the base and symbolizing the schools of alchemy. Also, while still of hard glass, the bottom of the bottle seems flexible and allows the user to help push or pour the contents out of the _temperant bottle_ more easily.
 
 **Construction**: No aura; CL 14th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Create Alchana|Create Alchana]], [[rangoric-srd/feats/Perfect Materials|Perfect Materials]]; DC: —; Price: 28,000 gp.
 

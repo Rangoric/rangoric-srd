@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Spellbreaker
 
-*An [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-archetypes|inquisitor]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_An [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-archetypes|inquisitor]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 The world is full of dangerous magic, and many recoil in the face of such power. The spellbreaker, by contrast, learns to recognize and resist certain types of magic, wading through waves of magic to reach her foes.
 

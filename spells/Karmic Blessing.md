@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Karmic Blessing
 
-*Divination \[Good\]*
+_Divination \[Good\]_
 
-  - **Level**: Clr 1, Wit 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Clr 1, Wit 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 The target treats one skill of your choice as a class skill.

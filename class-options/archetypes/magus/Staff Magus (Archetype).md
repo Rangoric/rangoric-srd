@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Staff Magus
 
-*A [[rangoric-srd/classes/Magus#^magus-archetypes|magus]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Magus#^magus-archetypes|magus]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 While most magi use a one-handed weapon as their melee implement of choice, one group of magi uses the quarterstaff instead. These lightly armored magi use staves for both defense and inflicting their spells upon enemies. Skilled in manipulating these weapons with one hand or two, they eventually learn how to use arcane staves as well, and are just as formidable in combat as their sword-swinging brethren.
 

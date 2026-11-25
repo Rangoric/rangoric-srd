@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, item-creation]
 
 # Craft Dorje
 
-You can create slender crystal wands called dorjes than manifest powers when charges are expended.  
+You can create slender crystal wands called dorjes than manifest powers when charges are expended.
 
 Prerequisite: Manifester level 5th.
 

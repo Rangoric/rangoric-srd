@@ -38,30 +38,30 @@ tags: [rangoric, rangoric/monster]
 
 # Atomie
 
-  - Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
-  - **Hit Dice**: 2d6+2 (9 hp)
-  - **Initiative**: +7
-  - **Speed**: 20 ft. (4 squares), fly 50 ft. (good)
-  - **Armor Class**: 17 (+3 Dex, +4 size), touch 17, flat-footed 14
-  - **Base Attack**: +1; **CMB**: +0; **CMD**: 8
-  - **Attack**: [[rangoric-srd/equipment/weapons/Rapier|Rapier]] +8 melee (1d2–2/18–20)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Rapier|Rapier]] +8 melee (1d2–2/18–20)
-  - **Space/Reach**: 1 ft./0 ft.
-  - **Special Attacks**: Sneak attack +1d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 2/cold iron
-  - **Saves**: Fort +1, Ref +6, Will +5
-  - **Abilities**: Str 6, Dex 17, Con 13, Int 11, Wis 14, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Athletics|Athletics]] –2 (–16 jumping), [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +20
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any temperate
-  - **Organization**: Solitary, pair, gang (3–6), or band (7–14)
-  - **Challenge Rating**: 1
-  - **Treasure**: Standard (rapier, other treasure)
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
+- **Hit Dice**: 2d6+2 (9 hp)
+- **Initiative**: +7
+- **Speed**: 20 ft. (4 squares), fly 50 ft. (good)
+- **Armor Class**: 17 (+3 Dex, +4 size), touch 17, flat-footed 14
+- **Base Attack**: +1; **CMB**: +0; **CMD**: 8
+- **Attack**: [[rangoric-srd/equipment/weapons/Rapier|Rapier]] +8 melee (1d2–2/18–20)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Rapier|Rapier]] +8 melee (1d2–2/18–20)
+- **Space/Reach**: 1 ft./0 ft.
+- **Special Attacks**: Sneak attack +1d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 2/cold iron
+- **Saves**: Fort +1, Ref +6, Will +5
+- **Abilities**: Str 6, Dex 17, Con 13, Int 11, Wis 14, Cha 18
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Athletics|Athletics]] –2 (–16 jumping), [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +20
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any temperate
+- **Organization**: Solitary, pair, gang (3–6), or band (7–14)
+- **Challenge Rating**: 1
+- **Treasure**: Standard (rapier, other treasure)
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
-Atomies perceive themselves as larger than they actually are. Like pups standing up to a full-grown cur, atomies never back down from aggression, and take tremendous pride in defeating and humiliating foes larger than themselves. Atomies find great pleasure in shoring up the odds in a fight against larger foes. They make use of their *[[rangoric-srd/spells/Reduce Person|reduce person]]* spell-like ability as an offensive measure, hoping to shock and humiliate humanoid opponents, giving them a chance to make a killing jab. Atomies employ their *[[rangoric-srd/spells/Invisibility|invisibility]]* spell-like ability to get in close and make sneak attacks before darting back out of reach.
+Atomies perceive themselves as larger than they actually are. Like pups standing up to a full-grown cur, atomies never back down from aggression, and take tremendous pride in defeating and humiliating foes larger than themselves. Atomies find great pleasure in shoring up the odds in a fight against larger foes. They make use of their _[[rangoric-srd/spells/Reduce Person|reduce person]]_ spell-like ability as an offensive measure, hoping to shock and humiliate humanoid opponents, giving them a chance to make a killing jab. Atomies employ their _[[rangoric-srd/spells/Invisibility|invisibility]]_ spell-like ability to get in close and make sneak attacks before darting back out of reach.
 
 In lands thick with fey, atomies often serve as border sentries or bodyguards to nymphs, dryads, or other more powerful fey creatures. While atomies prove only passable in their ability to defend such creatures, other fey accept their fealty out of respect and perhaps with a bit of mirth as well. Atomies enjoy their time as honor guards, but often grow bored and leave their posts in search of adventure.
 
@@ -73,4 +73,4 @@ Atomies speak Common and Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +10): Constant—*[[rangoric-srd/spells/Speak with Animals|speak with animals]]*; At will—*[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Reduce Person|reduce person]]* (DC 15); 3/day—*[[rangoric-srd/spells/Invisibility|invisibility]]* (self only); 1/day—*[[rangoric-srd/spells/Shrink Item|shrink item]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +10): Constant—_[[rangoric-srd/spells/Speak with Animals|speak with animals]]_; At will—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Reduce Person|reduce person]]_ (DC 15); 3/day—_[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only); 1/day—_[[rangoric-srd/spells/Shrink Item|shrink item]]_.

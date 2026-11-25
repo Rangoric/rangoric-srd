@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Bleeding Blow
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
 While in the powerful stance, the barbarian can make an attack that causes her enemies to bleed profusely. Once per round, she can have one of her attacks deal an amount of bleed damage equal to 1/2 her bonus damage from powerful stance. This bleed damage bypasses damage reduction. This bleed damage doesn't stack with itself. A barbarian must have the [[rangoric-srd/class-options/rage-powers/Powerful Stance (Rage Power)|powerful stance]] rage power and be at least 8th level to select this rage power.

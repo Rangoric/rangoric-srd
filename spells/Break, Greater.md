@@ -27,14 +27,14 @@ tags: [rangoric, rangoric/spell]
 
 # Break, Greater
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Blr 4, Occ 6, Psy 6, Sor/Wiz 6
-  - **Components**: V, S, M (an unbroken platinum tuning fork worth 100 gp)
-  - **Casting Time**: 1 round
-  - **Range**: 30 ft.
-  - **Target**: All Medium or smaller objects in a 30-ft. burst centered on you
-  - **Duration**: Instantaneous
-  - **Spell Resistance**: Yes
+- **Level**: Blr 4, Occ 6, Psy 6, Sor/Wiz 6
+- **Components**: V, S, M (an unbroken platinum tuning fork worth 100 gp)
+- **Casting Time**: 1 round
+- **Range**: 30 ft.
+- **Target**: All Medium or smaller objects in a 30-ft. burst centered on you
+- **Duration**: Instantaneous
+- **Spell Resistance**: Yes
 
 You release a burst of destructive energy. Each Medium or smaller object in the area gains the [[rangoric-srd/rules/conditions/Broken (Condition)|broken]] condition unless it succeeds at a Fortitude saving throw. If a broken object fails this save, it is instead destroyed. Magic items can be broken by this spell, but not destroyed. Objects in your possession are not immune.

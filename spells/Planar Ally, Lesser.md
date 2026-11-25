@@ -31,16 +31,16 @@ tags: [rangoric, rangoric/spell]
 
 # Planar Ally, Lesser
 
-*Conjuration (Calling) \[see text\]*
+_Conjuration (Calling) \[see text\]_
 
-  - **Level**: Clr 4, Med 3, Psy 4, Sha 4
-  - **Components**: V, S, DF, XP
-  - **Casting Time**: 10 minutes
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: One called elemental or outsider of 6 HD or less
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Clr 4, Med 3, Psy 4, Sha 4
+- **Components**: V, S, DF, XP
+- **Casting Time**: 10 minutes
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: One called elemental or outsider of 6 HD or less
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 By casting this spell, you request your deity to send you an elemental or outsider (of 6 HD or less) of the deity’s choice. If you serve no particular deity, the spell is a general plea answered by a creature sharing your philosophical alignment. If you know an individual creature’s name, you may request that individual by speaking the name during the spell (though you might get a different creature anyway).
 
@@ -54,6 +54,6 @@ A nonhazardous task requires only half the indicated payment, while an especiall
 
 At the end of its task, or when the duration bargained for expires, the creature returns to its home plane (after reporting back to you, if appropriate and possible).
 
-*Note*: When you use a calling spell that calls an air, chaotic, earth, evil, fire, good, lawful, or water creature, it is a spell of that type.
+_Note_: When you use a calling spell that calls an air, chaotic, earth, evil, fire, good, lawful, or water creature, it is a spell of that type.
 
-*XP Cost*: 100 XP.
+_XP Cost_: 100 XP.

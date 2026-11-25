@@ -35,15 +35,15 @@ tags: [rangoric, rangoric/spell]
 
 # Control Summoned Creature
 
-*Enchantment (Compulsion) \[Mind-affecting\]*
+_Enchantment (Compulsion) \[Mind-affecting\]_
 
-  - **Level**: Brd 3, Clr 4, Mes 3, Occ 3, Psy 4, Skd 3, Sor/Wiz 4, Sum 3, SumU 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One summoned creature
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 3, Clr 4, Mes 3, Occ 3, Psy 4, Skd 3, Sor/Wiz 4, Sum 3, SumU 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One summoned creature
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 You seize control of a summoned creature by disrupting the bond between it and the caster who summoned it. If the creature fails its save, you may command it as if you had summoned it. The original caster can attempt to regain control of the creature as a standard action by making an opposed Arcana check against you. When your spell ends, control reverts to the original summoner. If the summoning spell ends before this spell ends, the remaining duration of this spell is lost.

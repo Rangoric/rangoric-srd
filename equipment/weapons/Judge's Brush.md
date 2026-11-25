@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/light-blades, weapon-gro
 
 # Judge's Brush
 
-*Exotic light melee weapon.* Cost 2 gp; Dmg 1d3 (S), 1d3 (M); Critical x2; Range Increment 10 ft.; Weight 1/2 lb.; Type Piercing. ^stats
+_Exotic light melee weapon._ Cost 2 gp; Dmg 1d3 (S), 1d3 (M); Critical x2; Range Increment 10 ft.; Weight 1/2 lb.; Type Piercing. ^stats
 
-(*Pan Guan Bi*): The judge’s brush is an all-metal, brush-shaped thrusting weapon that is normally used in pairs. The Weapon Finesse feat can be used to apply Dexterity modifiers instead of Strength to attack rolls.
+(_Pan Guan Bi_): The judge’s brush is an all-metal, brush-shaped thrusting weapon that is normally used in pairs. The Weapon Finesse feat can be used to apply Dexterity modifiers instead of Strength to attack rolls.

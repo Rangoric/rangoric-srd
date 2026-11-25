@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Fluid Magic
 
-*A [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]] (Su) of the [[rangoric-srd/class-options/spirits/Waves Spirit|waves spirit]].*
+_A [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]] (Su) of the [[rangoric-srd/class-options/spirits/Waves Spirit|waves spirit]]._
 
 The shaman's magic is not constrained by the reservoirs of magic that hold others back. She is able to prepare her spirit magic spells in her regular spell slots. If the shaman changes her wandering spirit, any prepared spirit magic spell belonging to that spirit becomes an open spell slot.

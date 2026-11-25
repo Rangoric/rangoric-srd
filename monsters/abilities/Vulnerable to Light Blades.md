@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Vulnerable to Light Blades
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “vulnerable to light blades”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “vulnerable to light blades”, on the Special Qualities line.
 
 Light blades (such as daggers, kamas, kukris, rapiers, short swords, sickles, and starknives) deal double the weapon's base damage on a successful hit against a manananggal. The [[rangoric-srd/monsters/Manananggal|manananggal]] has it.

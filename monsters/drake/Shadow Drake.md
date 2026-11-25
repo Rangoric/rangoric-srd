@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Shadow Drake
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Cold)
-  - **Hit Dice**: 3d12+3 (22 hp)
-  - **Initiative**: +5
-  - **Speed**: 20 ft. (4 squares), fly 90 ft. (perfect)
-  - **Armor Class**: 18 (+5 Dex, +1 natural, +2 size), touch 17, flat-footed 13
-  - **Base Attack**: +3; **CMB**: +6; **CMD**: 15
-  - **Attack**: Bite +10 melee (1d3–1) or tail slap +10 melee (1d3–1)
-  - **Full Attack**: Bite +10 melee (1d3–1) and tail slap +5 melee (1d3–1)
-  - **Space/Reach**: 2-1/2 ft./0 ft. (5 ft. with tail)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Stygian Breath|Stygian breath]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Shadow Blend|shadow blend]], [[rangoric-srd/monsters/abilities/Speed Surge|speed surge]], immunity to cold, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]], vulnerable to fire
-  - **Saves**: Fort +4, Ref +8, Will +4
-  - **Abilities**: Str 9, Dex 20, Con 12, Int 11, Wis 12, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +23, [[rangoric-srd/skills/Athletics|Athletics]] –1 (–20 jumping), [[rangoric-srd/skills/Engineering|Engineering]] +8, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +19
-  - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, or rampage (3–5)
-  - **Challenge Rating**: 2
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Cold)
+- **Hit Dice**: 3d12+3 (22 hp)
+- **Initiative**: +5
+- **Speed**: 20 ft. (4 squares), fly 90 ft. (perfect)
+- **Armor Class**: 18 (+5 Dex, +1 natural, +2 size), touch 17, flat-footed 13
+- **Base Attack**: +3; **CMB**: +6; **CMD**: 15
+- **Attack**: Bite +10 melee (1d3–1) or tail slap +10 melee (1d3–1)
+- **Full Attack**: Bite +10 melee (1d3–1) and tail slap +5 melee (1d3–1)
+- **Space/Reach**: 2-1/2 ft./0 ft. (5 ft. with tail)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Stygian Breath|Stygian breath]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Shadow Blend|shadow blend]], [[rangoric-srd/monsters/abilities/Speed Surge|speed surge]], immunity to cold, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]], vulnerable to fire
+- **Saves**: Fort +4, Ref +8, Will +4
+- **Abilities**: Str 9, Dex 20, Con 12, Int 11, Wis 12, Cha 16
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +23, [[rangoric-srd/skills/Athletics|Athletics]] –1 (–20 jumping), [[rangoric-srd/skills/Engineering|Engineering]] +8, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +19
+- **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any
+- **Organization**: Solitary, pair, or rampage (3–5)
+- **Challenge Rating**: 2
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Shadow drakes are mischievous and greedy. They often use their whiplike tails as third limbs, grasping small objects or even using their tails to work locks or swipe small objects they desire. Because they are so small and fast, they are master thieves and pickpockets. Unlike most drakes and dragonkin, shadow drakes like to haunt the fringes of civilization, often making lairs in abandoned buildings, forgotten attics, or unused bell towers, and stashing their tiny treasure hoards there.
 

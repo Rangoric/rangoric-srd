@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Boar
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 2d8+9 (18 hp)
-  - **Initiative**: +0
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 14 (+4 natural), touch 10, flat-footed 14
-  - **Base Attack**: +1; **CMB**: +4; **CMD**: 14
-  - **Attack**: Gore +4 melee (1d8+4)
-  - **Full Attack**: Gore +4 melee (1d8+4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Ferocity|ferocity]]
-  - **Saves**: Fort +6, Ref +3, Will +1
-  - **Abilities**: Str 17, Dex 10, Con 17, Int 2, Wis 13, Cha 4
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +6
-  - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Temperate or tropical forests
-  - **Organization**: Solitary, pair, group (3–8), or herd (5–8)
-  - **Challenge Rating**: 2
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 4–5 HD (Medium)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 2d8+9 (18 hp)
+- **Initiative**: +0
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 14 (+4 natural), touch 10, flat-footed 14
+- **Base Attack**: +1; **CMB**: +4; **CMD**: 14
+- **Attack**: Gore +4 melee (1d8+4)
+- **Full Attack**: Gore +4 melee (1d8+4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Ferocity|ferocity]]
+- **Saves**: Fort +6, Ref +3, Will +1
+- **Abilities**: Str 17, Dex 10, Con 17, Int 2, Wis 13, Cha 4
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +6
+- **Feats**: [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Temperate or tropical forests
+- **Organization**: Solitary, pair, group (3–8), or herd (5–8)
+- **Challenge Rating**: 2
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 4–5 HD (Medium)
+- **Level Adjustment**: —
 
 Much more ill-tempered and dangerous than their domesticated kin, boars are omnivorous creatures common to temperate forests, although they are not unknown in tropical climes. Other variants exist as well, such as the particularly ugly warthogs that dwell in tropical plains and savannahs. Boars are often hunted for their flesh, which is considered delicious by most humanoids. Those who hunt boars often do so with a special spear fitted with a cross beam to prevent an impaled boar from pushing forward along the spear shaft to gore its tormentor.
 

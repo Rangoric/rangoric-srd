@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/spears]
 
 # Boar Spear
 
-*Simple two-handed melee weapon (brace).* Cost 5 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Weight 8 lb.; Type Piercing. ^stats
+_Simple two-handed melee weapon (brace)._ Cost 5 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Weight 8 lb.; Type Piercing. ^stats
 
 This spear with a spiraling blade has a metal crossbar approximately halfway down its length. If you ready a boar spear against a charge and your attack hits, you get a +2 shield bonus to your AC against that creature until your next turn.
 

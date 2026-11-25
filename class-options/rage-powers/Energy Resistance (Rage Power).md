@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Energy Resistance
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
 The barbarian gains resistance to one energy type (acid, cold, electricity, fire, or sonic) equal to 1/2 her barbarian level (minimum 1). At 8th level, she gains limited immunity to the same type of energy, as [[rangoric-srd/spells/Protection from Energy|protection from energy]]. She can absorb 2 points of damage per level, and she applies her energy resistance first. The energy type is chosen when this rage power is selected, and it can't be changed. This rage power can be selected more than once; each time, it applies to a different energy type.

@@ -25,11 +25,11 @@ tags: [rangoric, rangoric/spell]
 
 # Heroic Fortune, Mass
 
-*Evocation*
+_Evocation_
 
-  - **Level**: Brd 4, Clr 5, Skd 4
-  - **Components**: V, S, DF, M (diamond dust worth 1,000 gp)
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Targets**: One or more creatures, no two of which can be more than 30 ft. apart
+- **Level**: Brd 4, Clr 5, Skd 4
+- **Components**: V, S, DF, M (diamond dust worth 1,000 gp)
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Targets**: One or more creatures, no two of which can be more than 30 ft. apart
 
-This spell functions like *[[rangoric-srd/spells/Heroic Fortune|heroic fortune]]*, except as noted above.
+This spell functions like _[[rangoric-srd/spells/Heroic Fortune|heroic fortune]]_, except as noted above.

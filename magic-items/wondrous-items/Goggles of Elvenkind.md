@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/magic-item]
 
 These simple goggles, made of two emeralds attached to a twin frame, grant the wearer [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]] and a +5 competence bonus on [[rangoric-srd/skills/Mysticism|Mysticism]] checks to identify magic auras and items. If the wearer already has low-light vision, it grants the wearer double the normal range for low-light vision.
 
-Faint divination; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Beast Shape II|beast shape II]]*, *[[rangoric-srd/spells/Guidance|guidance]]*; Price 8,500 gp; Cost 4,250 gp.
+Faint divination; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Beast Shape II|beast shape II]]_, _[[rangoric-srd/spells/Guidance|guidance]]_; Price 8,500 gp; Cost 4,250 gp.

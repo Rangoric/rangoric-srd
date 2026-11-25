@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Dual-Cursed Oracle
 
-*An [[rangoric-srd/classes/Oracle#^oracle-archetypes|oracle]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_An [[rangoric-srd/classes/Oracle#^oracle-archetypes|oracle]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 All oracles are cursed to some degree, but some oracles bear an even heavier burden. Though doubly afflicted with supernatural or physical hindrances, a dual-cursed oracle can manipulate fortune and gains greater insights into her mystery.
 
@@ -28,7 +28,7 @@ All oracles are cursed to some degree, but some oracles bear an even heavier bur
 
 **Class Skills**: A dual-cursed oracle gains no additional class skills from her [[rangoric-srd/classes/Oracle#^oracle-mystery|mystery]].
 
-**Bonus Spells**: *[[rangoric-srd/spells/Ill Omen|ill omen]]* (2nd), *[[rangoric-srd/spells/Oracle’s Burden|oracle's burden]]* (4th), *[[rangoric-srd/spells/Bestow Curse|bestow curse]]* (6th). These bonus spells replace the oracle's [[rangoric-srd/classes/Oracle#^oracle-mystery|mystery]] bonus spells at these levels.
+**Bonus Spells**: _[[rangoric-srd/spells/Ill Omen|ill omen]]_ (2nd), _[[rangoric-srd/spells/Oracle’s Burden|oracle's burden]]_ (4th), _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (6th). These bonus spells replace the oracle's [[rangoric-srd/classes/Oracle#^oracle-mystery|mystery]] bonus spells at these levels.
 
 **Revelations**: A dual-cursed oracle gains a new [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] at 5th level and 13th level. These are in addition to the normal revelations she receives at 3rd level, 7th level, and so on. In addition, the cursed oracle may select the following revelations in place of a mystery revelation.
 

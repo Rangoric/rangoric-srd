@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Siyokoy
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Aquatic)
-  - **Hit Dice**: 13d8+78 (136 hp)
-  - **Initiative**: +5
-  - **Speed**: 30 ft. (6 squares), swim 60 ft.
-  - **Armor Class**: 26 (+5 Dex, +1 dodge, +10 natural), touch 16, flat-footed 20
-  - **Base Attack**: +9; **CMB**: +18 (+24 grapple); **CMD**: 34 (36 vs. grapple)
-  - **Attack**: Bite +18 melee (1d6+9/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +18 melee (1d6+9) or tail slap +19 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Stunning Shock|stunning shock]])
-  - **Full Attack**: Bite +18 melee (1d6+9/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +18 melee (1d6+9) and tail slap +14 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Stunning Shock|stunning shock]])
-  - **Space/Reach**: 5 ft./5 ft. (10 ft. with tail slap)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d6+4), [[rangoric-srd/monsters/abilities/Stunning Shock|stunning shock]], [[rangoric-srd/monsters/abilities/Swim-By Attack|swim-by attack]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, electricity and poison, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-  - **Saves**: Fort +10, Ref +9, Will +10
-  - **Abilities**: Str 28, Dex 21, Con 22, Int 12, Wis 15, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +25, [[rangoric-srd/skills/Engineering|Engineering]] +16, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +2, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +27
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Grapple|Improved Grapple]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tail slap), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Stealth)
-  - **Environment**: Any ocean
-  - **Organization**: Solitary, pair, or bed (3–12)
-  - **Challenge Rating**: 10
-  - **Treasure**: Double
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Aquatic)
+- **Hit Dice**: 13d8+78 (136 hp)
+- **Initiative**: +5
+- **Speed**: 30 ft. (6 squares), swim 60 ft.
+- **Armor Class**: 26 (+5 Dex, +1 dodge, +10 natural), touch 16, flat-footed 20
+- **Base Attack**: +9; **CMB**: +18 (+24 grapple); **CMD**: 34 (36 vs. grapple)
+- **Attack**: Bite +18 melee (1d6+9/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +18 melee (1d6+9) or tail slap +19 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Stunning Shock|stunning shock]])
+- **Full Attack**: Bite +18 melee (1d6+9/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +18 melee (1d6+9) and tail slap +14 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Stunning Shock|stunning shock]])
+- **Space/Reach**: 5 ft./5 ft. (10 ft. with tail slap)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d6+4), [[rangoric-srd/monsters/abilities/Stunning Shock|stunning shock]], [[rangoric-srd/monsters/abilities/Swim-By Attack|swim-by attack]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, electricity and poison, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
+- **Saves**: Fort +10, Ref +9, Will +10
+- **Abilities**: Str 28, Dex 21, Con 22, Int 12, Wis 15, Cha 11
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +25, [[rangoric-srd/skills/Engineering|Engineering]] +16, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +2, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +27
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Grapple|Improved Grapple]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tail slap), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Stealth)
+- **Environment**: Any ocean
+- **Organization**: Solitary, pair, or bed (3–12)
+- **Challenge Rating**: 10
+- **Treasure**: Double
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Siyokoys are eel-like aquatic creatures often mistaken for merfolk by sailors. On closer inspection, however, siyokoys' appearance might make one question the vision of said sailors, for apart from their humanoid arms, siyokoys are very much creatures of the sea.
 

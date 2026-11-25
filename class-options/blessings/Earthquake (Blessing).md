@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Earthquake Blessing
 
-*A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]]. The fury of the quaking earth infuses your faith.*
+_A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]]. The fury of the quaking earth infuses your faith._
 
 **Deities**: Evil deities that offer the [[rangoric-srd/class-options/blessings/Earth (Blessing)|Earth blessing]] or nonevil deities with disasters in their portfolios.
 

@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # See Alignment
 
-*Divination*
+_Divination_
 
-  - **Level**: Alc 1, Brd 1, Psy 1, Skd 1, Sor/Wiz 1
-  - **Components**: V, S, M (eye of newt)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1/round per level
+- **Level**: Alc 1, Brd 1, Psy 1, Skd 1, Sor/Wiz 1
+- **Components**: V, S, M (eye of newt)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1/round per level
 
 When you cast this spell, select a single alignment (such as lawful good or chaotic evil). Creatures of that alignment glow with a ghostly radiance while they are within your vision. Though you can see this radiance, other creatures cannot.
 
-Spells and effects that obscure alignment, like *[[rangoric-srd/spells/Undetectable Alignment|undetectable alignment]]*, also obscure the effects of this spell.
+Spells and effects that obscure alignment, like _[[rangoric-srd/spells/Undetectable Alignment|undetectable alignment]]_, also obscure the effects of this spell.

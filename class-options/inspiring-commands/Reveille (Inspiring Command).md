@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Reveille
 
-*A [[rangoric-srd/prestige-classes/Battle Herald#^battle-herald-inspiring-command|battle herald inspiring command]] (Ex).*
+_A [[rangoric-srd/prestige-classes/Battle Herald#^battle-herald-inspiring-command|battle herald inspiring command]] (Ex)._
 
 Allies affected by [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhaustion]], [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigue]], or sleep effects may attempt a new saving throw against each such effect; this new save has a bonus equal to the battle herald's inspiring command bonus. Allies who are sleeping normally automatically awaken when this ability is used.

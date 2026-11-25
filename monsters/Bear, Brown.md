@@ -35,26 +35,26 @@ tags: [rangoric, rangoric/monster]
 
 # Bear, Brown
 
-  - Large Animal
-  - **Hit Dice**: 6d8+24 (51 hp)
-  - **Initiative**: +1
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 15 (–1 size, +1 Dex, +5 natural), touch 10, flat-footed 14
-  - **Base Attack**: +4; **CMB**: +13 (+17 grapple); **CMD**: 24 (28 vs. trip)
-  - **Attack**: Claw +11 melee (1d8+8)
-  - **Full Attack**: 2 claws +11 melee (1d8+8) and bite +6 melee (2d6+4)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: Improved grab
-  - **Special Qualities**: Low-light vision, scent
-  - **Saves**: Fort +9, Ref +6, Will +3
-  - **Abilities**: Str 27, Dex 13, Con 19, Int 2, Wis 12, Cha 6
-  - **Skills**: Athletics +12, Perception +10
-  - **Feats**: Endurance, Run, Track
-  - **Environment**: Cold forests
-  - **Organization**: Solitary or pair
-  - **Challenge Rating**: 4
-  - **Advancement**: 7–10 HD (Large)
-  - **Level Adjustment**: —
+- Large Animal
+- **Hit Dice**: 6d8+24 (51 hp)
+- **Initiative**: +1
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 15 (–1 size, +1 Dex, +5 natural), touch 10, flat-footed 14
+- **Base Attack**: +4; **CMB**: +13 (+17 grapple); **CMD**: 24 (28 vs. trip)
+- **Attack**: Claw +11 melee (1d8+8)
+- **Full Attack**: 2 claws +11 melee (1d8+8) and bite +6 melee (2d6+4)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: Improved grab
+- **Special Qualities**: Low-light vision, scent
+- **Saves**: Fort +9, Ref +6, Will +3
+- **Abilities**: Str 27, Dex 13, Con 19, Int 2, Wis 12, Cha 6
+- **Skills**: Athletics +12, Perception +10
+- **Feats**: Endurance, Run, Track
+- **Environment**: Cold forests
+- **Organization**: Solitary or pair
+- **Challenge Rating**: 4
+- **Advancement**: 7–10 HD (Large)
+- **Level Adjustment**: —
 
 These massive carnivores weigh more than 1,800 pounds and stand nearly 9 feet tall when they rear up on their hind legs. They are bad-tempered and territorial. The brown bear’s statistics can be used for almost any big bear, including the grizzly.
 

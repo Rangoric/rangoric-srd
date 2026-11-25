@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Master of Many Styles
 
-*A [[rangoric-srd/classes/Monk#^monk-archetypes|monk]] and [[rangoric-srd/classes/Unchained Monk#^unchained-monk-archetypes|unchained monk]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Monk#^monk-archetypes|monk]] and [[rangoric-srd/classes/Unchained Monk#^unchained-monk-archetypes|unchained monk]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 The master of many styles is a collector. For every move, he seeks a counter. For every style, he has a riposte. Ultimately, he seeks perfection through the fusion of styles.
 
@@ -28,7 +28,7 @@ The master of many styles is a collector. For every move, he seeks a counter. Fo
 
 At 8th level, the master of many styles can fuse three styles at once. He can have the stances of three style feats active at the same time. He gains a bonus on attack rolls equal to the number of styles whose stances he currently has active. Furthermore, he can enter up to three stances as a swift action.
 
-At 15th level, the master of many styles can fuse four styles at once. He can have the stances of four style feats active at the same time. Furthermore, he can enter up to four stances as a free action by spending 1 point from his *ki* pool.
+At 15th level, the master of many styles can fuse four styles at once. He can have the stances of four style feats active at the same time. Furthermore, he can enter up to four stances as a free action by spending 1 point from his _ki_ pool.
 
 This ability replaces [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|flurry of blows]].
 

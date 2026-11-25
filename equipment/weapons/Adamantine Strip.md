@@ -14,4 +14,4 @@ tags: [rangoric, rangoric/weapon]
 
 # Adamantine Strip
 
-*Accessory.* Cost 500 gp; Weight —. ^stats
+_Accessory._ Cost 500 gp; Weight —. ^stats

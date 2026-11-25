@@ -30,17 +30,17 @@ tags: [rangoric, rangoric/spell]
 
 # Gate Seal
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Brd 6, Clr 6, Drd 6, Hun 6, Skd 6, Sor/Wiz 6
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One *doorway*, *gate*, or *portal*
-  - **Duration**: Permanent
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Brd 6, Clr 6, Drd 6, Hun 6, Skd 6, Sor/Wiz 6
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One _doorway_, _gate_, or _portal_
+- **Duration**: Permanent
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-You permanently seal one *[[rangoric-srd/rules/Fey Roads and Doorways#Doorways|doorway]]* of any type, *[[rangoric-srd/spells/Gate|gate]]*, or portal, so that nothing can pass through it. The seal can be dispelled, and *[[rangoric-srd/spells/Open Doorway|open doorway]]* negates it for a short time.
+You permanently seal one _[[rangoric-srd/rules/Fey Roads and Doorways#Doorways|doorway]]_ of any type, _[[rangoric-srd/spells/Gate|gate]]_, or portal, so that nothing can pass through it. The seal can be dispelled, and _[[rangoric-srd/spells/Open Doorway|open doorway]]_ negates it for a short time.
 
-*Material Component*: A silver bar worth 50 gp.
+_Material Component_: A silver bar worth 50 gp.

@@ -26,15 +26,15 @@ tags: [rangoric, rangoric/spell]
 
 # Create Food and Water
 
-*Conjuration (Creation)*
+_Conjuration (Creation)_
 
-  - **Level**: Clr 3, Occ 3, Sha 3
-  - **Components**: V, S
-  - **Casting Time**: 10 minutes
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: Food and water to sustain three humans or one horse/level for 24 hours
-  - **Duration**: 24 hours; see text
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Clr 3, Occ 3, Sha 3
+- **Components**: V, S
+- **Casting Time**: 10 minutes
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: Food and water to sustain three humans or one horse/level for 24 hours
+- **Duration**: 24 hours; see text
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 The food that this spell creates is simple fare of your choice—highly nourishing, if rather bland. Food so created decays and becomes inedible within 24 hours, although it can be kept fresh for another 24 hours by casting a purify food and water spell on it. The water created by this spell is just like clean rain water, and it doesn’t go bad as the food does.

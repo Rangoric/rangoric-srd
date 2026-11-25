@@ -21,12 +21,12 @@ Few people expect to see a small hovel under the surface of FaerieLand; fewer st
 
 **Personalities:** [[rangoric-srd/flavor/the-fey-realm/personalities/Durbin Bristle|Durbin Bristle]]
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* Lacking most skills for hunting, Durbin finds meat exceptionally hard to come by. Thus, he willingly trades information, homemade wares, or pipeweed for any meat.
+_Common:_ Lacking most skills for hunting, Durbin finds meat exceptionally hard to come by. Thus, he willingly trades information, homemade wares, or pipeweed for any meat.
 
-*Uncommon:* Despite being underground for so long, Durbin has developed a magnificent pipeweed he is more than willing to share and trade with visitors.
+_Uncommon:_ Despite being underground for so long, Durbin has developed a magnificent pipeweed he is more than willing to share and trade with visitors.
 
-*Rare:* Durbin is sometimes under the effects of one ingested fungus or another, which he is convinced provides him with divinations and oracular information. Most often, visitors leave with totally incomprehensible pronouncements from the slightly addled halfling.
+_Rare:_ Durbin is sometimes under the effects of one ingested fungus or another, which he is convinced provides him with divinations and oracular information. Most often, visitors leave with totally incomprehensible pronouncements from the slightly addled halfling.
 
-*Obscure:* -
+_Obscure:_ -

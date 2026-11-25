@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # Quintessence
 
-*Illusion (Glamer)*
+_Illusion (Glamer)_
 
-  - **Level**: Brd 1, Med 1, Mes 1, Occ 1, Psy 1, Skd 1, Sor/Wiz 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature or object touched
-  - **Duration**: 10 \* caster level minute(s)
-  - **Saving Throw**: Will negates and Will disbelief; see text
-  - **Spell Resistance**: No
+- **Level**: Brd 1, Med 1, Mes 1, Occ 1, Psy 1, Skd 1, Sor/Wiz 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature or object touched
+- **Duration**: 10 \* caster level minute(s)
+- **Saving Throw**: Will negates and Will disbelief; see text
+- **Spell Resistance**: No
 
-You draw forth the idealized image of the target creature or object, masking any flaws or damage. An injured or ill creature appears healthy, and a damaged object or one with the [[rangoric-srd/rules/conditions/Broken (Condition)|broken]] condition appears intact. However, a corpse masked by *quintessence* remains obviously dead, and a completely destroyed object can't be made to seem whole. This illusion has visual and tactile components. Careful examination of or handling the target grants a saving throw to disbelieve, but casual observation does not. Using a broken object for its intended purpose automatically reveals the deception. Appraise checks to assess the value of an object affected by *quintessence* estimate the value as an item of its type in perfect condition, unless the appraiser disbelieves the illusion. Unwilling targets can negate the spell's effect on them with successful Will saves or with spell resistance. Those who interact with the target can attempt Will saves to see through the glamer, but spell resistance doesn't apply. *Quintessence* counters and dispels *[[rangoric-srd/spells/Decrepit Disguise|decrepit disguise]]*.
+You draw forth the idealized image of the target creature or object, masking any flaws or damage. An injured or ill creature appears healthy, and a damaged object or one with the [[rangoric-srd/rules/conditions/Broken (Condition)|broken]] condition appears intact. However, a corpse masked by _quintessence_ remains obviously dead, and a completely destroyed object can't be made to seem whole. This illusion has visual and tactile components. Careful examination of or handling the target grants a saving throw to disbelieve, but casual observation does not. Using a broken object for its intended purpose automatically reveals the deception. Appraise checks to assess the value of an object affected by _quintessence_ estimate the value as an item of its type in perfect condition, unless the appraiser disbelieves the illusion. Unwilling targets can negate the spell's effect on them with successful Will saves or with spell resistance. Those who interact with the target can attempt Will saves to see through the glamer, but spell resistance doesn't apply. _Quintessence_ counters and dispels _[[rangoric-srd/spells/Decrepit Disguise|decrepit disguise]]_.

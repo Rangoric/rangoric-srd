@@ -28,14 +28,14 @@ tags: [rangoric, rangoric/spell]
 
 # Telekinetic Maneuver
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Mag 4, Psy 3, Sor/Wiz 4, Spi 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: Concentration (up to 1 round/level)
-  - **Spell Resistance**: Yes
+- **Level**: Mag 4, Psy 3, Sor/Wiz 4, Spi 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: Concentration (up to 1 round/level)
+- **Spell Resistance**: Yes
 
 This spell functions as [[rangoric-srd/spells/Telekinesis|telekinesis]], but it can be used only to perform a bull rush, disarm, drag, grapple (including pin), reposition, steal, or trip combat maneuver.

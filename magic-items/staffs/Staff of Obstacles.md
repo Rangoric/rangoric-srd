@@ -23,11 +23,11 @@ tags: [rangoric, rangoric/magic-item]
 
 Dark and solid, this worn staff appears to be carved of rough stone, yet feels and weighs like light wood. It allows use of the following spells:
 
-- *[[rangoric-srd/spells/Arcane Lock|arcane lock]]* (1 charge)
-- *[[rangoric-srd/spells/Grease|grease]]* (1 charge)
-- *[[rangoric-srd/spells/Wind Wall|wind wall]]* (1 charge)
-- *[[rangoric-srd/spells/Wall of Fire|wall of fire]]* (2 charges)
-- *[[rangoric-srd/spells/Wall of Ice|wall of ice]]* (2 charges)
-- *[[rangoric-srd/spells/Wall of Stone|wall of stone]]* (3 charges)
+- _[[rangoric-srd/spells/Arcane Lock|arcane lock]]_ (1 charge)
+- _[[rangoric-srd/spells/Grease|grease]]_ (1 charge)
+- _[[rangoric-srd/spells/Wind Wall|wind wall]]_ (1 charge)
+- _[[rangoric-srd/spells/Wall of Fire|wall of fire]]_ (2 charges)
+- _[[rangoric-srd/spells/Wall of Ice|wall of ice]]_ (2 charges)
+- _[[rangoric-srd/spells/Wall of Stone|wall of stone]]_ (3 charges)
 
-Moderate varied; CL 9th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Arcane Lock|arcane lock]]*, *[[rangoric-srd/spells/Grease|grease]]*, *[[rangoric-srd/spells/Wall of Fire|wall of fire]]*, *[[rangoric-srd/spells/Wall of Ice|wall of ice]]*, *[[rangoric-srd/spells/Wall of Stone|wall of stone]]*, *[[rangoric-srd/spells/Wind Wall|wind wall]]*; Price 52,850 gp; Cost 26,425 gp; Weight 5 lbs.
+Moderate varied; CL 9th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Arcane Lock|arcane lock]]_, _[[rangoric-srd/spells/Grease|grease]]_, _[[rangoric-srd/spells/Wall of Fire|wall of fire]]_, _[[rangoric-srd/spells/Wall of Ice|wall of ice]]_, _[[rangoric-srd/spells/Wall of Stone|wall of stone]]_, _[[rangoric-srd/spells/Wind Wall|wind wall]]_; Price 52,850 gp; Cost 26,425 gp; Weight 5 lbs.

@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Concussive Bomb
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]]\*.*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]]\*._
 
 When the alchemist creates a bomb, he can choose to have it inflict sonic damage. Concussive bombs deal 1d4 points of sonic damage, plus 1d4 points of sonic damage for every odd-numbered level, instead of 1d6. Creatures that take a direct hit from a concussive bomb are [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafened]] for 1 minute unless they succeed at a Fortitude save. An alchemist must be at least 6th level before selecting this discovery.

@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Moth
 
-*A [[rangoric-srd/class-options/archetypes/hunter/Verminous Hunter (Archetype)|vermin focus]] (Su), which a verminous hunter takes in place of the [[rangoric-srd/classes/Hunter#^hunter-animal-focus|animal focus]].*
+_A [[rangoric-srd/class-options/archetypes/hunter/Verminous Hunter (Archetype)|vermin focus]] (Su), which a verminous hunter takes in place of the [[rangoric-srd/classes/Hunter#^hunter-animal-focus|animal focus]]._
 
 The creature gains [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] to a range of 60 feet. At 8th level, the range increases by 30 feet. At 15th level, the creature gains [[rangoric-srd/rules/Special Abilities and Conditions#^blindsense|blindsense]] to a range of 10 feet.

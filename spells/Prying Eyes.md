@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Prying Eyes
 
-*Divination*
+_Divination_
 
-  - **Level**: Mes 5, Occ 5, Psy 5, Sor/Wiz 5, Spi 5, Wit 5
-  - **Components**: V, S, M
-  - **Casting Time**: 1 minute
-  - **Range**: One mile
-  - **Effect**: Ten or more levitating eyes
-  - **Duration**: 1 hour/level; see text (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Mes 5, Occ 5, Psy 5, Sor/Wiz 5, Spi 5, Wit 5
+- **Components**: V, S, M
+- **Casting Time**: 1 minute
+- **Range**: One mile
+- **Effect**: Ten or more levitating eyes
+- **Duration**: 1 hour/level; see text (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You create a number of semitangible, visible magical orbs (called “eyes”) equal to 1d4 + your caster level. These eyes move out, scout around, and return as you direct them when casting the spell. Each eye can see 120 feet (normal vision only) in all directions.
 
@@ -52,4 +52,4 @@ If an eye ever gets more than 1 mile away from you, it instantly ceases to exist
 
 The eyes exist for up to 1 hour per caster level or until they return to you. Dispel magic can destroy eyes. Roll separately for each eye caught in an area dispel. Of course, if an eye is sent into darkness, it could hit a wall or similar obstacle and destroy itself.
 
-*Material Component*: A handful of crystal marbles.
+_Material Component_: A handful of crystal marbles.

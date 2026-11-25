@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Black Pudding
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]]
-  - **Hit Dice**: 10d8+60 (105 hp)
-  - **Initiative**: –5
-  - **Speed**: 20 ft. (4 squares), climb 20 ft.
-  - **Armor Class**: 3 (–2 size, –5 Dex), touch 3, flat-footed 3
-  - **Base Attack**: +7; **CMB**: +12 (+16 grapple); **CMD**: 17 (27 vs. bull rush, can't be tripped)
-  - **Attack**: Slam +8 melee (2d6+4 plus 2d6 acid plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Slam +8 melee (2d6+4 plus 2d6 acid plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d6+4 plus 2d6 acid), corrosion
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Split|split]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], suction
-  - **Saves**: Fort +9, Ref –2, Will –2
-  - **Abilities**: Str 16, Dex 1, Con 22, Int —, Wis 1, Cha 1
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11
-  - **Feats**: —
-  - **Environment**: Any underground
-  - **Organization**: Solitary
-  - **Challenge Rating**: 7
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: 11–15 HD (Huge); 16–30 HD (Gargantuan)
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]]
+- **Hit Dice**: 10d8+60 (105 hp)
+- **Initiative**: –5
+- **Speed**: 20 ft. (4 squares), climb 20 ft.
+- **Armor Class**: 3 (–2 size, –5 Dex), touch 3, flat-footed 3
+- **Base Attack**: +7; **CMB**: +12 (+16 grapple); **CMD**: 17 (27 vs. bull rush, can't be tripped)
+- **Attack**: Slam +8 melee (2d6+4 plus 2d6 acid plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Slam +8 melee (2d6+4 plus 2d6 acid plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 15 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d6+4 plus 2d6 acid), corrosion
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Split|split]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], suction
+- **Saves**: Fort +9, Ref –2, Will –2
+- **Abilities**: Str 16, Dex 1, Con 22, Int —, Wis 1, Cha 1
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11
+- **Feats**: —
+- **Environment**: Any underground
+- **Organization**: Solitary
+- **Challenge Rating**: 7
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: 11–15 HD (Huge); 16–30 HD (Gargantuan)
+- **Level Adjustment**: —
 
 Black puddings are the scavengers of the underworld, constantly on the lookout for a meal. They can sense organic or metallic objects within 60 feet and mindlessly attack such items or beings until they are dissolved or the ooze is killed. A black pudding reproduces by breaking off a piece of its body and forming a new, smaller black pudding, which grows to full size in 1 month's time. Some of the more intelligent creatures in the underworld use black puddings as natural garbage disposals, creating stone pits to house the pudding and throwing organic refuse or foes in as needed.
 

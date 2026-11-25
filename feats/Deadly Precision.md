@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat]
 
 # Deadly Precision
 
-You empty your mind of all distracting emotion, becoming an instrument of deadly precision.  
+You empty your mind of all distracting emotion, becoming an instrument of deadly precision.
 
 Prerequisite: Dex 15, base attack bonus +5.
 

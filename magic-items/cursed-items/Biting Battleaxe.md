@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Biting Battleaxe
 
-This vicious-looking *+2 battleaxe* grants its wielder the [[rangoric-srd/feats/Great Cleave|Great Cleave]] feat. But when using this feat, the wielder makes an additional attack against a random adjacent creature instead of choosing which creature to attack. When determining which creature is attacked, the wielder always counts himself as a possible target, even if he is not adjacent to the target. The wielder of a *biting battleaxe* must always use it as his primary weapon and must use Great Cleave at every opportunity until subject to a *[[rangoric-srd/spells/Remove Curse|remove curse]]* spell or similar effect.
+This vicious-looking _+2 battleaxe_ grants its wielder the [[rangoric-srd/feats/Great Cleave|Great Cleave]] feat. But when using this feat, the wielder makes an additional attack against a random adjacent creature instead of choosing which creature to attack. When determining which creature is attacked, the wielder always counts himself as a possible target, even if he is not adjacent to the target. The wielder of a _biting battleaxe_ must always use it as his primary weapon and must use Great Cleave at every opportunity until subject to a _[[rangoric-srd/spells/Remove Curse|remove curse]]_ spell or similar effect.
 
 Moderate evocation; CL 8th; Intended magic item: +2 [[rangoric-srd/equipment/weapons/Battleaxe|battleaxe]].

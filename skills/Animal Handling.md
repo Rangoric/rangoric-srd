@@ -21,28 +21,28 @@ Animal Handling covers training, caring for and riding animals. It joins Handle 
 
 **Check**: The DC depends on what you are trying to do.
 
-| Task                                  | Animal Handling DC  |
-| ------------------------------------- | ----------------- |
-| Handle an animal                      | 10                |
-| “Push” an animal                      | 25                |
-| Teach an animal a trick               | 15 or 20 (1)      |
-| Train an animal for a general purpose | 15 or 20 (1)      |
-| Rear a wild animal                    | 15 + HD of animal |
+| Task                                  | Animal Handling DC |
+| ------------------------------------- | ------------------ |
+| Handle an animal                      | 10                 |
+| “Push” an animal                      | 25                 |
+| Teach an animal a trick               | 15 or 20 (1)       |
+| Train an animal for a general purpose | 15 or 20 (1)       |
+| Rear a wild animal                    | 15 + HD of animal  |
 
-1 *See the specific trick or purpose below.*
+1 _See the specific trick or purpose below._
 
-| General Purpose | DC | General Purpose | DC |
-| --------------- | -- | --------------- | -- |
-| Combat riding   | 20 | Hunting         | 20 |
-| Fighting        | 20 | Performance     | 15 |
-| Guarding        | 20 | Riding          | 15 |
-| Heavy labor     | 15 |                 |    |
+| General Purpose | DC  | General Purpose | DC  |
+| --------------- | --- | --------------- | --- |
+| Combat riding   | 20  | Hunting         | 20  |
+| Fighting        | 20  | Performance     | 15  |
+| Guarding        | 20  | Riding          | 15  |
+| Heavy labor     | 15  |                 |     |
 
-*Handle an Animal*: This task involves commanding an animal to perform a task or trick that it knows. If the animal is wounded or has taken any nonlethal damage or ability score damage, the DC increases by 2. If your check succeeds, the animal performs the task or trick on its next action.
+_Handle an Animal_: This task involves commanding an animal to perform a task or trick that it knows. If the animal is wounded or has taken any nonlethal damage or ability score damage, the DC increases by 2. If your check succeeds, the animal performs the task or trick on its next action.
 
-*“Push” an Animal*: To push an animal means to get it to perform a task or trick that it doesn’t know but is physically capable of performing. This category also covers making an animal perform a forced march or forcing it to hustle for more than 1 hour between sleep cycles. If the animal is wounded or has taken any nonlethal damage or ability score damage, the DC increases by 2. If your check succeeds, the animal performs the task or trick on its next action.
+_“Push” an Animal_: To push an animal means to get it to perform a task or trick that it doesn’t know but is physically capable of performing. This category also covers making an animal perform a forced march or forcing it to hustle for more than 1 hour between sleep cycles. If the animal is wounded or has taken any nonlethal damage or ability score damage, the DC increases by 2. If your check succeeds, the animal performs the task or trick on its next action.
 
-*Teach an Animal a Trick*: You can teach an animal a specific trick with one week of work and a successful Animal Handling check against the indicated DC. An animal with an Intelligence score of 1 can learn a maximum of three tricks, while an animal with an Intelligence score of 2 can learn a maximum of six tricks. Possible tricks (and their associated DCs) include, but are not necessarily limited to, the following.
+_Teach an Animal a Trick_: You can teach an animal a specific trick with one week of work and a successful Animal Handling check against the indicated DC. An animal with an Intelligence score of 1 can learn a maximum of three tricks, while an animal with an Intelligence score of 2 can learn a maximum of six tricks. Possible tricks (and their associated DCs) include, but are not necessarily limited to, the following.
 
 Attack (DC 20): The animal attacks apparent enemies. You may point to a particular creature that you wish the animal to attack, and it will comply if able. Normally, an animal will attack only humanoids, monstrous humanoids, giants, or other animals. Teaching an animal to attack all creatures (including such unnatural creatures as undead and aberrations) counts as two tricks.
 
@@ -70,7 +70,7 @@ Track (DC 20): The animal tracks the scent presented to it. (This requires the a
 
 Work (DC 15): The animal pulls or pushes a medium or heavy load.
 
-*Train an Animal for a Purpose*: Rather than teaching an animal individual tricks, you can simply train it for a general purpose. Essentially, an animal’s purpose represents a preselected set of known tricks that fit into a common scheme, such as guarding or heavy labor. The animal must meet all the normal prerequisites for all tricks included in the training package. If the package includes more than three tricks, the animal must have an Intelligence score of 2.
+_Train an Animal for a Purpose_: Rather than teaching an animal individual tricks, you can simply train it for a general purpose. Essentially, an animal’s purpose represents a preselected set of known tricks that fit into a common scheme, such as guarding or heavy labor. The animal must meet all the normal prerequisites for all tricks included in the training package. If the package includes more than three tricks, the animal must have an Intelligence score of 2.
 
 An animal can be trained for only one general purpose, though if the creature is capable of learning additional tricks (above and beyond those included in its general purpose), it may do so. Training an animal for a purpose requires fewer checks than teaching individual tricks does, but no less time.
 
@@ -88,7 +88,7 @@ Performance (DC 15): An animal trained for performance knows the tricks come, fe
 
 Riding (DC 15): An animal trained to bear a rider knows the tricks come, heel, and stay. Training an animal for riding takes three weeks.
 
-*Rear a Wild Animal*: To rear an animal means to raise a wild creature from infancy so that it becomes domesticated. A handler can rear as many as three creatures of the same kind at once. A successfully domesticated animal can be taught tricks at the same time it’s being raised, or it can be taught as a domesticated animal later.
+_Rear a Wild Animal_: To rear an animal means to raise a wild creature from infancy so that it becomes domesticated. A handler can rear as many as three creatures of the same kind at once. A successfully domesticated animal can be taught tricks at the same time it’s being raised, or it can be taught as a domesticated animal later.
 
 **Action**: Varies. Handling an animal is a move action, while pushing an animal is a full-round action. (A druid or ranger handles and pushes her animal companion faster; see the druid’s [[rangoric-srd/classes/Druid#^animal-companion-link|link]] with her animal companion.) For tasks with specific time frames noted above, you must spend half this time (at the rate of 3 hours per day per animal being handled) working toward completion of the task before you attempt the Animal Handling check. If the check fails, your attempt to teach, rear, or train the animal fails and you need not complete the teaching, rearing, or training time. If the check succeeds, you must invest the remainder of the time to complete the teaching, rearing, or training. If the time is interrupted or the task is not followed through to completion, the attempt to teach, rear, or train the animal automatically fails.
 
@@ -102,7 +102,7 @@ A druid’s or ranger’s animal companion is easier to handle and knows bonus t
 
 ### Advanced Uses
 
-The character can handle creatures other than animals, and can teach or train in much less time than normally required.  
+The character can handle creatures other than animals, and can teach or train in much less time than normally required.
 
 |                      |          |                          |
 | -------------------- | -------- | ------------------------ |
@@ -116,12 +116,12 @@ The character can handle creatures other than animals, and can teach or train in
 
 | Reduce Teaching/Training to . . . | DC Modifier |
 | --------------------------------- | ----------- |
-| 1 month                           | +25        |
-| 1 day                             | +50        |
-| 1 hour                            | +75        |
-| 1 minute                          | +100       |
+| 1 month                           | +25         |
+| 1 day                             | +50         |
+| 1 hour                            | +75         |
+| 1 minute                          | +100        |
 
-*Reduce Teaching/Training*: Normally, teaching or training a creature requires two months of time. A character can accelerate the process of teaching or training a creature, reducing the time required to the listed time, by adding the DC modifier to the base DC for teaching or training the creature. A character can’t reduce the required time to less than 1 minute.
+_Reduce Teaching/Training_: Normally, teaching or training a creature requires two months of time. A character can accelerate the process of teaching or training a creature, reducing the time required to the listed time, by adding the DC modifier to the base DC for teaching or training the creature. A character can’t reduce the required time to less than 1 minute.
 
 ## Riding
 
@@ -134,34 +134,34 @@ If you attempt to ride a creature that is ill suited as a mount, you take a –5
 The following tasks do require checks.
 
 | Task                | Animal Handling DC | Task                    | Animal Handling DC |
-| ------------------- | ------- | ----------------------- | ------- |
-| Guide with knees    | 5       | Leap                    | 15      |
-| Stay in saddle      | 5       | Spur mount              | 15      |
-| Fight with warhorse | 10      | Control mount in battle | 20      |
-| Cover               | 15      | Fast mount or dismount  | 20 (1)  |
-| Soft fall           | 15      |                         |         |
-| Stand on mount | 40 | Attack from cover | 60 |
-| Unconscious control | 50 |  |  |
+| ------------------- | ------------------ | ----------------------- | ------------------ |
+| Guide with knees    | 5                  | Leap                    | 15                 |
+| Stay in saddle      | 5                  | Spur mount              | 15                 |
+| Fight with warhorse | 10                 | Control mount in battle | 20                 |
+| Cover               | 15                 | Fast mount or dismount  | 20 (1)             |
+| Soft fall           | 15                 |                         |                    |
+| Stand on mount      | 40                 | Attack from cover       | 60                 |
+| Unconscious control | 50                 |                         |                    |
 
-1 *Armor check penalty applies.*
+1 _Armor check penalty applies._
 
-*Guide with Knees*: You can react instantly to guide your mount with your knees so that you can use both hands in combat. Make your Animal Handling check at the start of your turn. If you fail, you can use only one hand this round because you need to use the other to control your mount.
+_Guide with Knees_: You can react instantly to guide your mount with your knees so that you can use both hands in combat. Make your Animal Handling check at the start of your turn. If you fail, you can use only one hand this round because you need to use the other to control your mount.
 
-*Stay in Saddle*: You can react instantly to try to avoid falling when your mount rears or bolts unexpectedly or when you take damage. This usage does not take an action.
+_Stay in Saddle_: You can react instantly to try to avoid falling when your mount rears or bolts unexpectedly or when you take damage. This usage does not take an action.
 
-*Fight with Warhorse*: If you direct your war-trained mount to attack in battle, you can still make your own attack or attacks normally. This usage is a free action.
+_Fight with Warhorse_: If you direct your war-trained mount to attack in battle, you can still make your own attack or attacks normally. This usage is a free action.
 
-*Cover*: You can react instantly to drop down and hang alongside your mount, using it as cover. You can’t attack or cast spells while using your mount as cover. If you fail your Animal Handling check, you don’t get the cover benefit. This usage does not take an action.
+_Cover_: You can react instantly to drop down and hang alongside your mount, using it as cover. You can’t attack or cast spells while using your mount as cover. If you fail your Animal Handling check, you don’t get the cover benefit. This usage does not take an action.
 
-*Soft Fall*: You can react instantly to try to take no damage when you fall off a mount—when it is killed or when it falls, for example. If you fail your Animal Handling check, you take 1d6 points of falling damage. This usage does not take an action.
+_Soft Fall_: You can react instantly to try to take no damage when you fall off a mount—when it is killed or when it falls, for example. If you fail your Animal Handling check, you take 1d6 points of falling damage. This usage does not take an action.
 
-*Leap*: You can get your mount to leap obstacles as part of its movement. Use your Animal Handling modifier or the mount’s [[rangoric-srd/skills/Athletics|Athletics]] modifier, whichever is lower, to see how far the creature can jump. If you fail your Animal Handling check, you fall off the mount when it leaps and take the appropriate falling damage (at least 1d6 points). This usage does not take an action, but is part of the mount’s movement.
+_Leap_: You can get your mount to leap obstacles as part of its movement. Use your Animal Handling modifier or the mount’s [[rangoric-srd/skills/Athletics|Athletics]] modifier, whichever is lower, to see how far the creature can jump. If you fail your Animal Handling check, you fall off the mount when it leaps and take the appropriate falling damage (at least 1d6 points). This usage does not take an action, but is part of the mount’s movement.
 
-*Spur Mount*: You can spur your mount to greater speed with a move action. A successful Animal Handling check increases the mount’s speed by 10 feet for 1 round but deals 1 point of damage to the creature. You can use this ability every round, but each consecutive round of additional speed deals twice as much damage to the mount as the previous round (2 points, 4 points, 8 points, and so on).
+_Spur Mount_: You can spur your mount to greater speed with a move action. A successful Animal Handling check increases the mount’s speed by 10 feet for 1 round but deals 1 point of damage to the creature. You can use this ability every round, but each consecutive round of additional speed deals twice as much damage to the mount as the previous round (2 points, 4 points, 8 points, and so on).
 
-*Control Mount in Battle*: As a move action, you can attempt to control a light horse, pony, heavy horse, or other mount not trained for combat riding while in battle. If you fail the Animal Handling check, you can do nothing else in that round. You do not need to roll for warhorses or warponies.
+_Control Mount in Battle_: As a move action, you can attempt to control a light horse, pony, heavy horse, or other mount not trained for combat riding while in battle. If you fail the Animal Handling check, you can do nothing else in that round. You do not need to roll for warhorses or warponies.
 
-*Fast Mount or Dismount*: You can attempt to mount or dismount from a mount of up to one size category larger than yourself as a free action, provided that you still have a move action available that round. If you fail the Animal Handling check, mounting or dismounting is a move action. You can’t use fast mount or dismount on a mount more than one size category larger than yourself.
+_Fast Mount or Dismount_: You can attempt to mount or dismount from a mount of up to one size category larger than yourself as a free action, provided that you still have a move action available that round. If you fail the Animal Handling check, mounting or dismounting is a move action. You can’t use fast mount or dismount on a mount more than one size category larger than yourself.
 
 **Action**: Varies. Mounting or dismounting normally is a move action. Other checks are a move action, a free action, or no action at all, as noted above.
 
@@ -173,13 +173,13 @@ The Animal Handling skill is a prerequisite for the feats [[rangoric-srd/feats/M
 
 ### Advanced Uses
 
-The character can stand upon his or her mount in combat.  
+The character can stand upon his or her mount in combat.
 
-*Stand on Mount*: This allows the character to stand on his or her mount’s back even during movement or combat. The character takes no penalties to actions while doing so.
+_Stand on Mount_: This allows the character to stand on his or her mount’s back even during movement or combat. The character takes no penalties to actions while doing so.
 
-*Unconscious Control*: As a free action, the character can attempt to control a light horse, pony, or heavy horse while in combat. If the character fails, he or she controls the mount as a move-equivalent action. A character does not need to roll for warhorses or warponies.
+_Unconscious Control_: As a free action, the character can attempt to control a light horse, pony, or heavy horse while in combat. If the character fails, he or she controls the mount as a move-equivalent action. A character does not need to roll for warhorses or warponies.
 
-*Attack from Cover*: The character can react instantly to drop down and hang alongside his or her mount, using it as one-half cover. The character can attack and cast spells while using his or her mount as cover without penalty. If the character fails, he or she doesn’t get the cover benefit.
+_Attack from Cover_: The character can react instantly to drop down and hang alongside his or her mount, using it as one-half cover. The character can attack and cast spells while using his or her mount as cover without penalty. If the character fails, he or she doesn’t get the cover benefit.
 
 ## Unlocks
 

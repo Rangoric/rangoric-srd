@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Kobold Alchemist
 
-*A [[rangoric-srd/races/Kobold|kobold]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Alchemist#^alchemist-class-bonuses|alchemist]] level.*
+_A [[rangoric-srd/races/Kobold|kobold]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Alchemist#^alchemist-class-bonuses|alchemist]] level._
 
 Add +1/2 to the number of [[rangoric-srd/classes/Alchemist#^alchemist-bomb|bombs]] per day the alchemist can create.

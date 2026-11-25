@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Drow Fighter
 
-*A [[rangoric-srd/races/Drow|drow]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Fighter#^fighter-class-bonuses|fighter]] level.*
+_A [[rangoric-srd/races/Drow|drow]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Fighter#^fighter-class-bonuses|fighter]] level._
 
 Choose the [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]] or [[rangoric-srd/combat/Combat Maneuvers#Reposition|reposition]] combat maneuver. Add +1/3 to the fighter's [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Bonus|CMB]] when attempting this maneuver (maximum bonus of +4).

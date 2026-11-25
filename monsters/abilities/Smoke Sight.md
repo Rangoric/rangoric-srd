@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Smoke Sight
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “smoke sight”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “smoke sight”, on the Special Qualities line.
 
 A peri can see through fire, fog, and smoke without penalty. The [[rangoric-srd/monsters/Peri|peri]] has it.

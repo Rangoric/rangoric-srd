@@ -32,17 +32,17 @@ tags: [rangoric, rangoric/spell]
 
 # Obscure Object
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Brd 1, Clr 3, Inq 3, Mes 1, Occ 2, Psy 2, Skd 1, Sor/Wiz 2, Spi 3
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: One object touched of up to 100 lb./level
-  - **Duration**: 8 hours (D)
-  - **Saving Throw**: Will negates (object)
-  - **Spell Resistance**: Yes (object)
+- **Level**: Brd 1, Clr 3, Inq 3, Mes 1, Occ 2, Psy 2, Skd 1, Sor/Wiz 2, Spi 3
+- **Components**: V, S, M/DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: One object touched of up to 100 lb./level
+- **Duration**: 8 hours (D)
+- **Saving Throw**: Will negates (object)
+- **Spell Resistance**: Yes (object)
 
 This spell hides an object from location by divination (scrying) effects, such as the scrying spell or a crystal ball. Such an attempt automatically fails (if the divination is targeted on the object) or fails to perceive the object (if the divination is targeted on a nearby location, object, or person).
 
-*Arcane Material Component*: A piece of chameleon skin.
+_Arcane Material Component_: A piece of chameleon skin.

@@ -20,6 +20,6 @@ You whirl your foe around and then let go.
 
 **Benefit**: On a successful unarmed [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] combat maneuver against an opponent your size or smaller, you can spend a swift action to attempt a [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]] combat maneuver against that opponent. If your bull rush succeeds, you can move that opponent to any unoccupied square you threaten, then push that opponent the number of 5-foot increments your successful bull rush allows. The target is then knocked [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]]. If the bull rush fails, you can use the [[rangoric-srd/feats/Ki Throw|*Ki* Throw]] feat as normal.
 
-If you also have the [[rangoric-srd/feats/Improved Ki Throw|Improved *Ki* Throw]] feat, a successful bull rush allows you to push the opponent into a space secondary targets occupy. You resolve this effect as if you used the Improved *Ki* Throw feat to throw the opponent into that space.
+If you also have the [[rangoric-srd/feats/Improved Ki Throw|Improved *Ki* Throw]] feat, a successful bull rush allows you to push the opponent into a space secondary targets occupy. You resolve this effect as if you used the Improved _Ki_ Throw feat to throw the opponent into that space.
 
 **Special**: As the [[rangoric-srd/feats/Ki Throw|*Ki* Throw]] feat says, a [[rangoric-srd/classes/Monk|monk]] with this feat can affect creatures larger than his own size by spending [[rangoric-srd/classes/Monk#^monk-ki-pool|*ki*]] points.

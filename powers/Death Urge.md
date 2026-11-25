@@ -34,7 +34,7 @@ Target: One living creature
 Duration: 1 round  
 Saving Throw: Will negates  
 Power Resistance: Yes  
-Power Points: 7  
+Power Points: 7
 
 You plant a hidden death-urge impulse in the subject’s unconscious. On the subject’s next turn, it looks for the quickest method to end its life and attempts to do so. The subject takes no other action on its turn except attempting to harm itself.
 

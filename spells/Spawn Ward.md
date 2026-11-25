@@ -25,16 +25,16 @@ tags: [rangoric, rangoric/spell]
 
 # Spawn Ward
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Clr 5, Inq 5
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 10 minutes/level
-  - **Saving Throw**: Fortitude negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Clr 5, Inq 5
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 10 minutes/level
+- **Saving Throw**: Fortitude negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 The target becomes resistant to the effects of energy drain and blood drain attacks made by undead creatures, and cannot be made into undead spawn if killed while the spell is in effect.
 

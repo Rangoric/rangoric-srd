@@ -13,8 +13,8 @@ tags: [rangoric, rangoric/overview]
 
 ## With Armor Check Penalty
 
-  - [[rangoric-srd/skills/Acrobatics|Acrobatics]]
-  - [[rangoric-srd/skills/Athletics|Athletics]]
-  - [[rangoric-srd/skills/Escape Artist|Escape Artist]]
-  - [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]]
-  - [[rangoric-srd/skills/Stealth|Stealth]]
+- [[rangoric-srd/skills/Acrobatics|Acrobatics]]
+- [[rangoric-srd/skills/Athletics|Athletics]]
+- [[rangoric-srd/skills/Escape Artist|Escape Artist]]
+- [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]]
+- [[rangoric-srd/skills/Stealth|Stealth]]

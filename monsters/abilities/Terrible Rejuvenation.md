@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Terrible Rejuvenation
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “terrible rejuvenation”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “terrible rejuvenation”, on the Special Qualities line.
 
 A bogeyman gains fast healing 5 while any creature within its deepest fear aura is suffering from a fear effect, including any fear effect created by the aura itself. The [[rangoric-srd/monsters/Bogeyman|bogeyman]] has it.

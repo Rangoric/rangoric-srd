@@ -27,7 +27,7 @@ Psychometabolism
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 min./level (D) for a creature; 1 hour/level (D) for an object  
-**Power Points:** 17, XP  
+**Power Points:** 17, XP
 
 As [[rangoric-srd/powers/Metamorphosis|metamorphosis]], except that this power enables you to assume the form of any single nonunique object or creature (of any type) from Fine to Colossal size. The assumed form cannot have more Hit Dice than your manifester level (to a maximum of 25 HD). Unlike metamorphosis, this power allows [[rangoric-srd/rules/Special Abilities and Conditions#^incorporeal|incorporeal]], ectoplasmic, or gaseous forms to be assumed.
 

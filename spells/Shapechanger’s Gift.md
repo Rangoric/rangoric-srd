@@ -28,15 +28,15 @@ tags: [rangoric, rangoric/spell]
 
 # Shapechanger’s Gift
 
-*Transmutation (Polymorph)*
+_Transmutation (Polymorph)_
 
-  - **Level**: Alc 5, Mag 5, Sor/Wiz 5
-  - **Components**: V, S, M (a piece of the creature whose form you plan to grant)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Willing living creature touched
-  - **Duration**: 10 \* caster level minute(s)
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Alc 5, Mag 5, Sor/Wiz 5
+- **Components**: V, S, M (a piece of the creature whose form you plan to grant)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Willing living creature touched
+- **Duration**: 10 \* caster level minute(s)
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
-You change the target into an animal (as per *beast shape* I), humanoid (as per *alter* self), or monstrous humanoid (as per *monstrous physique* IUM). The chosen form can't have a fly speed. The subject's statistics change as per the appropriate spell except the creature's ability scores and natural armor do not change. The creature can change between its natural form and the chosen form at will as a standard action.
+You change the target into an animal (as per _beast shape_ I), humanoid (as per _alter_ self), or monstrous humanoid (as per _monstrous physique_ IUM). The chosen form can't have a fly speed. The subject's statistics change as per the appropriate spell except the creature's ability scores and natural armor do not change. The creature can change between its natural form and the chosen form at will as a standard action.

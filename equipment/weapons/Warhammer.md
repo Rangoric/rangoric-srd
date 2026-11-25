@@ -21,4 +21,4 @@ tags: [rangoric, rangoric/weapon, weapon-group/hammers]
 
 # Warhammer
 
-*Martial one-handed melee weapon.* Cost 12 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 5 lb.; Type Bludgeoning. ^stats
+_Martial one-handed melee weapon._ Cost 12 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 5 lb.; Type Bludgeoning. ^stats

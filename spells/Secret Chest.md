@@ -30,16 +30,16 @@ tags: [rangoric, rangoric/spell]
 
 # Secret Chest
 
-*Conjuration (Summoning)*
+_Conjuration (Summoning)_
 
-  - **Level**: Mes 5, Occ 5, Psy 5, Sor/Wiz 5, Spi 5, Wit 5
-  - **Components**: V, S, F
-  - **Casting Time**: 10 minutes
-  - **Range**: See text
-  - **Target**: One chest and up to 1 cu. ft. of goods/caster level
-  - **Duration**: Sixty days or until discharged
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Mes 5, Occ 5, Psy 5, Sor/Wiz 5, Spi 5, Wit 5
+- **Components**: V, S, F
+- **Casting Time**: 10 minutes
+- **Range**: See text
+- **Target**: One chest and up to 1 cu. ft. of goods/caster level
+- **Duration**: Sixty days or until discharged
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You hide a chest on the Ethereal Plane for as long as sixty days and can retrieve it at will. The chest can contain up to 1 cubic foot of material per caster level (regardless of the chest’s actual size, which is about 3 feet by 2 feet by 2 feet). If any living creatures are in the chest, there is a 75% chance that the spell simply fails. Once the chest is hidden, you can retrieve it by concentrating (a standard action), and it appears next to you.
 
@@ -49,4 +49,4 @@ To hide the chest, you cast the spell while touching both the chest and the repl
 
 Living things in the chest eat, sleep, and age normally, and they die if they run out of food, air, water, or whatever they need to survive.
 
-*Focus*: The chest and its replica.
+_Focus_: The chest and its replica.

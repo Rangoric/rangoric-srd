@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Favored Maneuver
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
 The vigilante selects one type of [[rangoric-srd/combat/Combat Maneuvers|combat maneuver]] to be a favored maneuver. He gains the Improved feat corresponding to that combat maneuver (if one exists). He gains a +2 circumstance bonus on combat maneuver checks with that combat maneuver against a foe that is unaware of the vigilante’s presence at the start of his combat maneuver.
 

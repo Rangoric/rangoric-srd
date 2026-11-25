@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Dopple, Greater
 
-*Greater dopple* items are similar to *dopple* items, excepting that they grant the wearer the ability to cast *[[rangoric-srd/spells/Polymorph|polymorph]]*, as a move action, up to three times per day.
+_Greater dopple_ items are similar to _dopple_ items, excepting that they grant the wearer the ability to cast _[[rangoric-srd/spells/Polymorph|polymorph]]_, as a move action, up to three times per day.
 
-Strong transmutation; CL 17th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Polymorph Any Object|polymorph any object]]*, *[[rangoric-srd/spells/Polymorph|polymorph]]*; Price +3 bonus.
+Strong transmutation; CL 17th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Polymorph Any Object|polymorph any object]]_, _[[rangoric-srd/spells/Polymorph|polymorph]]_; Price +3 bonus.

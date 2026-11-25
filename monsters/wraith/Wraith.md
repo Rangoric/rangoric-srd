@@ -40,32 +40,32 @@ tags: [rangoric, rangoric/monster]
 
 # Wraith
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Incorporeal)
-  - **Hit Dice**: 5d8+25 (47 hp)
-  - **Initiative**: +7
-  - **Speed**: fly 60 ft. (good)
-  - **Armor Class**: 18 (+5 deflection, +3 Dex), touch 18, flat-footed 15
-  - **Base Attack**: +3; **CMB**: +6; **CMD**: 21
-  - **Attack**: Incorporeal touch +6 melee (1d6 negative energy plus 1d6 Con drain)
-  - **Full Attack**: Incorporeal touch +6 melee (1d6 negative energy plus 1d6 Con drain)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Create spawn
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Lifesense|lifesense]], [[rangoric-srd/monsters/abilities/Unnatural Aura|unnatural aura]] (30 ft.), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Sunlight Powerlessness|sunlight powerlessness]]
-  - **Saves**: Fort +6, Ref +4, Will +6
-  - **Abilities**: Str —, Dex 16, Con —, Int 14, Wis 14, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +11, [[rangoric-srd/skills/Theology|Theology]] +7
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, gang (3–6), or pack (7–12)
-  - **Challenge Rating**: 5
-  - **Treasure**: None
-  - **Alignment**: Always lawful evil
-  - **Advancement**: 6–10 HD (Medium)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Incorporeal)
+- **Hit Dice**: 5d8+25 (47 hp)
+- **Initiative**: +7
+- **Speed**: fly 60 ft. (good)
+- **Armor Class**: 18 (+5 deflection, +3 Dex), touch 18, flat-footed 15
+- **Base Attack**: +3; **CMB**: +6; **CMD**: 21
+- **Attack**: Incorporeal touch +6 melee (1d6 negative energy plus 1d6 Con drain)
+- **Full Attack**: Incorporeal touch +6 melee (1d6 negative energy plus 1d6 Con drain)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Create spawn
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Lifesense|lifesense]], [[rangoric-srd/monsters/abilities/Unnatural Aura|unnatural aura]] (30 ft.), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Sunlight Powerlessness|sunlight powerlessness]]
+- **Saves**: Fort +6, Ref +4, Will +6
+- **Abilities**: Str —, Dex 16, Con —, Int 14, Wis 14, Cha 21
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +11, [[rangoric-srd/skills/Theology|Theology]] +7
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
+- **Environment**: Any
+- **Organization**: Solitary, pair, gang (3–6), or pack (7–12)
+- **Challenge Rating**: 5
+- **Treasure**: None
+- **Alignment**: Always lawful evil
+- **Advancement**: 6–10 HD (Medium)
+- **Level Adjustment**: —
 
 **Also in this entry:**
 
-  - [[rangoric-srd/monsters/wraith/Dread Wraith|Dread Wraith]]
+- [[rangoric-srd/monsters/wraith/Dread Wraith|Dread Wraith]]
 
 Wraiths are undead creatures born of evil and darkness. They hate light and living things, as they have lost much of their connection to their former lives.
 

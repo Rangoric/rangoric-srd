@@ -18,11 +18,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Tidal Wave
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Water Element|water]]
-  - **Type**: utility (Sp)
-  - **Level**: 9
-  - **Burn**: 1
+- **Element**: [[rangoric-srd/class-options/elements/Water Element|water]]
+- **Type**: utility (Sp)
+- **Level**: 9
+- **Burn**: 1
 
-You call forth a powerful tidal wave, as *[[rangoric-srd/spells/Tsunami|tsunami]]*.
+You call forth a powerful tidal wave, as _[[rangoric-srd/spells/Tsunami|tsunami]]_.

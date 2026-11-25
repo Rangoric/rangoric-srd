@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Accomplished Angler
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Halfling)
-  - **Hit Dice**: 4d6–4 (10 hp)
-  - **Initiative**: +3
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 14 (+3 Dex, +1 size), touch 14, flat-footed 11
-  - **Base Attack**: +2; **CMB**: –1; **CMD**: 12
-  - **Attack**: Fishing pole –3 melee (1d4–2) or [[rangoric-srd/equipment/weapons/Sling|sling]] +7 ranged (1d3–2)
-  - **Full Attack**: Fishing pole –3 melee (1d4–2); or [[rangoric-srd/equipment/weapons/Sling|sling]] +7 ranged (1d3–2)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: —
-  - **Saves**: Fort +1, Ref +5, Will +3 (+2 vs. fear)
-  - **Abilities**: Str 6, Dex 16, Con 9, Int 10, Wis 12, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +2 (–2 jumping), [[rangoric-srd/skills/Craft|Craft]] (cook) +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +2, [[rangoric-srd/skills/Nature|Nature]] +2, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Profession|Profession]] (fisherman) +6, [[rangoric-srd/skills/Society|Society]] +2
-  - **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Warm plains
-  - **Organization**: Solitary, or with other halflings (see [[rangoric-srd/monsters/halfling/Halfling|Halfling]])
-  - **Challenge Rating**: 2
-  - **Treasure**: NPC gear (combat gear: potion of cure light wounds; other gear: sling with 10 bullets, fishing net, everburning torch, masterwork artisan's tools (fishing), 1,480 gp)
-  - **Alignment**: Chaotic neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Halfling)
+- **Hit Dice**: 4d6–4 (10 hp)
+- **Initiative**: +3
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 14 (+3 Dex, +1 size), touch 14, flat-footed 11
+- **Base Attack**: +2; **CMB**: –1; **CMD**: 12
+- **Attack**: Fishing pole –3 melee (1d4–2) or [[rangoric-srd/equipment/weapons/Sling|sling]] +7 ranged (1d3–2)
+- **Full Attack**: Fishing pole –3 melee (1d4–2); or [[rangoric-srd/equipment/weapons/Sling|sling]] +7 ranged (1d3–2)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: —
+- **Saves**: Fort +1, Ref +5, Will +3 (+2 vs. fear)
+- **Abilities**: Str 6, Dex 16, Con 9, Int 10, Wis 12, Cha 13
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +2 (–2 jumping), [[rangoric-srd/skills/Craft|Craft]] (cook) +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +2, [[rangoric-srd/skills/Nature|Nature]] +2, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Profession|Profession]] (fisherman) +6, [[rangoric-srd/skills/Society|Society]] +2
+- **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Warm plains
+- **Organization**: Solitary, or with other halflings (see [[rangoric-srd/monsters/halfling/Halfling|Halfling]])
+- **Challenge Rating**: 2
+- **Treasure**: NPC gear (combat gear: potion of cure light wounds; other gear: sling with 10 bullets, fishing net, everburning torch, masterwork artisan's tools (fishing), 1,480 gp)
+- **Alignment**: Chaotic neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 An accomplished angler is a [[rangoric-srd/monsters/halfling/Halfling|halfling]] with 4 levels of [[rangoric-srd/classes/Commoner|commoner]]. An accomplished angler prides herself on handling life's trials with aplomb.
 

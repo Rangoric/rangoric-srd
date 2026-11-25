@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Rift Drake
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Earth)
-  - **Hit Dice**: 11d12+55 (126 hp)
-  - **Initiative**: +7
-  - **Speed**: 30 ft. (6 squares), climb 20 ft., fly 60 ft. (average)
-  - **Armor Class**: 23 (+3 Dex, +11 natural, –1 size), touch 12, flat-footed 20
-  - **Base Attack**: +11; **CMB**: +19; **CMD**: 32
-  - **Attack**: Bite +18 melee (2d8+10/19–20 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]]) or tail slap +17 melee (1d10+3 plus [[rangoric-srd/monsters/abilities/Trip|trip]])
-  - **Full Attack**: Bite +18 melee (2d8+10/19–20 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]]) and tail slap +12 melee (1d10+3 plus [[rangoric-srd/monsters/abilities/Trip|trip]])
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d6), [[rangoric-srd/monsters/abilities/Clinging Corrosion|clinging corrosion]], [[rangoric-srd/monsters/abilities/Pounce|pounce]], [[rangoric-srd/monsters/abilities/Savage Bite (Drake)|savage bite]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Speed Surge|speed surge]], immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 30
-  - **Saves**: Fort +12, Ref +10, Will +8
-  - **Abilities**: Str 25, Dex 17, Con 20, Int 8, Wis 12, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +12
-  - **Feats**: [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
-  - **Environment**: Warm hills or mountains
-  - **Organization**: Solitary, pair, or rampage (3–12)
-  - **Challenge Rating**: 9
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Earth)
+- **Hit Dice**: 11d12+55 (126 hp)
+- **Initiative**: +7
+- **Speed**: 30 ft. (6 squares), climb 20 ft., fly 60 ft. (average)
+- **Armor Class**: 23 (+3 Dex, +11 natural, –1 size), touch 12, flat-footed 20
+- **Base Attack**: +11; **CMB**: +19; **CMD**: 32
+- **Attack**: Bite +18 melee (2d8+10/19–20 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]]) or tail slap +17 melee (1d10+3 plus [[rangoric-srd/monsters/abilities/Trip|trip]])
+- **Full Attack**: Bite +18 melee (2d8+10/19–20 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]]) and tail slap +12 melee (1d10+3 plus [[rangoric-srd/monsters/abilities/Trip|trip]])
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d6), [[rangoric-srd/monsters/abilities/Clinging Corrosion|clinging corrosion]], [[rangoric-srd/monsters/abilities/Pounce|pounce]], [[rangoric-srd/monsters/abilities/Savage Bite (Drake)|savage bite]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Speed Surge|speed surge]], immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 30
+- **Saves**: Fort +12, Ref +10, Will +8
+- **Abilities**: Str 25, Dex 17, Con 20, Int 8, Wis 12, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +12
+- **Feats**: [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
+- **Environment**: Warm hills or mountains
+- **Organization**: Solitary, pair, or rampage (3–12)
+- **Challenge Rating**: 9
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Creatures of the badlands and regions scarred by the gods, rift drakes are as savage and brutal as the lands they hunt. Their strength and savagery often make them seem like mere deadly beasts, but rift drakes simply delight in battle more than most drakes, frequently clashing even with other members of their own kind. They rarely deign to talk with other creatures, often doing so only as a cruel game in which they make more and more outrageous demands until their victims realize the drakes are toying with them or the manipulative drakes grow bored.
 

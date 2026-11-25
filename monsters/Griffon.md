@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Griffon
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 5d10+15 (42 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares), fly 80 ft. (average)
-  - **Armor Class**: 17 (+2 Dex, +6 natural, –1 size), touch 11, flat-footed 15
-  - **Base Attack**: +5; **CMB**: +9; **CMD**: 21 (25 vs. trip)
-  - **Attack**: Bite +8 melee (1d6+3) or talon +7 melee (1d6+3)
-  - **Full Attack**: Bite +8 melee (1d6+3) and 2 talons +7 melee (1d6+3)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +7, 1d4+3)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +7, Ref +6, Will +4
-  - **Abilities**: Str 16, Dex 15, Con 16, Int 5, Wis 13, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Perception|Perception]] +12
-  - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
-  - **Environment**: Temperate hills
-  - **Organization**: Solitary, pair, or pride (6–10)
-  - **Challenge Rating**: 4
-  - **Treasure**: Incidental
-  - **Alignment**: Always neutral
-  - **Advancement**: 8–10 HD (Large); 11–21 HD (Huge)
-  - **Level Adjustment**: +3 (cohort)
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 5d10+15 (42 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares), fly 80 ft. (average)
+- **Armor Class**: 17 (+2 Dex, +6 natural, –1 size), touch 11, flat-footed 15
+- **Base Attack**: +5; **CMB**: +9; **CMD**: 21 (25 vs. trip)
+- **Attack**: Bite +8 melee (1d6+3) or talon +7 melee (1d6+3)
+- **Full Attack**: Bite +8 melee (1d6+3) and 2 talons +7 melee (1d6+3)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +7, 1d4+3)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +7, Ref +6, Will +4
+- **Abilities**: Str 16, Dex 15, Con 16, Int 5, Wis 13, Cha 8
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Perception|Perception]] +12
+- **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
+- **Environment**: Temperate hills
+- **Organization**: Solitary, pair, or pride (6–10)
+- **Challenge Rating**: 4
+- **Treasure**: Incidental
+- **Alignment**: Always neutral
+- **Advancement**: 8–10 HD (Large); 11–21 HD (Huge)
+- **Level Adjustment**: +3 (cohort)
 
 Griffons are powerful aerial predators, swooping down from their high aeries to take their prey with beak and talon. Aggressive and territorial, they are no mere beasts, but rather calculating combatants and loyal companions to those who earn their respect, fighting to the death to protect their friends and kin.
 

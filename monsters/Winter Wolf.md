@@ -37,30 +37,31 @@ change: modified
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---
+
 # Winter Wolf
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Cold)
-  - **Hit Dice**: 6d10+24 (57 hp)
-  - **Initiative**: +5
-  - **Speed**: 50 ft. (10 squares)
-  - **Armor Class**: 17 (+1 Dex, +7 natural, –1 size), touch 10, flat-footed 16
-  - **Base Attack**: +6; **CMB**: +12; **CMD**: 23 (27 vs. trip)
-  - **Attack**: Bite +10 melee (1d8+7 plus 1d6 cold and [[rangoric-srd/monsters/abilities/Trip|trip]])
-  - **Full Attack**: Bite +10 melee (1d8+7 plus 1d6 cold and [[rangoric-srd/monsters/abilities/Trip|trip]])
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (every 1d4 rounds, 15-ft. cone, 6d6 cold damage, Reflex half DC 17)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, vulnerability to fire
-  - **Saves**: Fort +9, Ref +6, Will +3
-  - **Abilities**: Str 20, Dex 13, Con 18, Int 9, Wis 13, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +4 (+10 in snow)
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Cold forests and plains
-  - **Organization**: Solitary, pair, or pack (6–11)
-  - **Challenge Rating**: 5
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: 7–9 HD (Large); 10–18 HD (Huge)
-  - **Level Adjustment**: +3 (cohort)
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Cold)
+- **Hit Dice**: 6d10+24 (57 hp)
+- **Initiative**: +5
+- **Speed**: 50 ft. (10 squares)
+- **Armor Class**: 17 (+1 Dex, +7 natural, –1 size), touch 10, flat-footed 16
+- **Base Attack**: +6; **CMB**: +12; **CMD**: 23 (27 vs. trip)
+- **Attack**: Bite +10 melee (1d8+7 plus 1d6 cold and [[rangoric-srd/monsters/abilities/Trip|trip]])
+- **Full Attack**: Bite +10 melee (1d8+7 plus 1d6 cold and [[rangoric-srd/monsters/abilities/Trip|trip]])
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (every 1d4 rounds, 15-ft. cone, 6d6 cold damage, Reflex half DC 17)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, vulnerability to fire
+- **Saves**: Fort +9, Ref +6, Will +3
+- **Abilities**: Str 20, Dex 13, Con 18, Int 9, Wis 13, Cha 10
+- **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +4 (+10 in snow)
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Cold forests and plains
+- **Organization**: Solitary, pair, or pack (6–11)
+- **Challenge Rating**: 5
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: 7–9 HD (Large); 10–18 HD (Huge)
+- **Level Adjustment**: +3 (cohort)
 
 Winter wolves are larger, smarter, more ferocious variants of worgs with white fur and a deadly breath weapon.
 

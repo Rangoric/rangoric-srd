@@ -24,4 +24,4 @@ A talisman works as described under [[rangoric-srd/magic-items/Magic Item Basics
 
 The first time the wearer would become [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] or [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]], he becomes [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] instead.
 
-Faint abjuration; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Remove Fear|remove fear]]*; Price 450 gp; Cost 225 gp; Weight 1 lb.
+Faint abjuration; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Remove Fear|remove fear]]_; Price 450 gp; Cost 225 gp; Weight 1 lb.

@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Strangler
 
-*A [[rangoric-srd/classes/Brawler#^brawler-archetypes|brawler]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Brawler#^brawler-archetypes|brawler]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A strangler is trained to choke the life out of her victims with her vise-like grip. Some stranglers are self-taught and are little more than brutish murderers, unhinged sociopaths, or opportunistic alley-bashers. Others are members of murder cults or specialized schools of assassination, trained since the cradle to kill with their bare hands.
 

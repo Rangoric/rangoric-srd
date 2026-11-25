@@ -38,27 +38,27 @@ tags: [rangoric, rangoric/monster]
 
 # Dodo
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 1d8+2 (6 hp)
-  - **Initiative**: +0
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 11 (+1 size), touch 11, flat-footed 11
-  - **Base Attack**: +0; **CMB**: –5; **CMD**: 5
-  - **Attack**: Bite +1 melee (1d3–4)
-  - **Full Attack**: Bite +1 melee (1d3–4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
-  - **Saves**: Fort +4, Ref +2, Will –1
-  - **Abilities**: Str 3, Dex 11, Con 14, Int 2, Wis 9, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +3
-  - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Temperate or warm islands
-  - **Organization**: Solitary, pair, or huddle (3–6)
-  - **Challenge Rating**: 1/4
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 1d8+2 (6 hp)
+- **Initiative**: +0
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 11 (+1 size), touch 11, flat-footed 11
+- **Base Attack**: +0; **CMB**: –5; **CMD**: 5
+- **Attack**: Bite +1 melee (1d3–4)
+- **Full Attack**: Bite +1 melee (1d3–4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
+- **Saves**: Fort +4, Ref +2, Will –1
+- **Abilities**: Str 3, Dex 11, Con 14, Int 2, Wis 9, Cha 6
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +3
+- **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Temperate or warm islands
+- **Organization**: Solitary, pair, or huddle (3–6)
+- **Challenge Rating**: 1/4
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Dodos are flightless birds that typically inhabit isolated tropical islands devoid of predators. Their boldness leads them to bumble into situations where they're easy prey.

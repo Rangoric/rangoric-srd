@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Heretic
 
-*An [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-archetypes|inquisitor]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_An [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-archetypes|inquisitor]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 While all inquisitors hunt the enemies of the faith, sometimes, either through political maneuvering by her enemies or an unyielding tenacity that breaks her faith's basic tenets, an inquisitor can find herself a heretic. Still unyielding in her cause, these heretics are accustomed to using guile and deception to hide themselves and their activities while they continue to hunt their enemies.
 

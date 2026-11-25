@@ -18,19 +18,19 @@ tags: [rangoric, rangoric/occult-ritual]
 
 # Sever Spirit
 
-*Abjuration \[Curse, Evil\]; [[rangoric-srd/rules/occult-rituals/Occult Rituals|occult ritual]] level 6*
+_Abjuration \[Curse, Evil\]; [[rangoric-srd/rules/occult-rituals/Occult Rituals|occult ritual]] level 6_
 
-  - **Level**: 6
-  - **Casting Time**: 60 minutes
-  - **Components**: V, S, M (salt mixed with the cremated remains of a family member or former friend), F (a set of 43 holy symbols of at least 10 different deities), SC (up to 8)
-  - **Skill Checks**: [[rangoric-srd/skills/Intimidation|Intimidation]] DC 34, 2 successes; [[rangoric-srd/skills/Society|Society]] DC 34, 3 successes; [[rangoric-srd/skills/Sense Motive|Sense Motive]] DC 34, 1 success
-  - **Range**: close (25 ft. + 5 ft./character level of the primary caster)
-  - **Target**: one [[rangoric-srd/classes/Druid#^druid-animal-companion|animal companion]], [[rangoric-srd/classes/Summoner#^summoner-eidolon|eidolon]], kami ward or [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-phantom|phantom]] (see text)
-  - **Duration**: permanent
-  - **Saving Throw**: Will negates; see text
-  - **Spell Resistance**: no
-  - **Backlash**: All casters take 3d6 points of damage and are [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1 hour.
-  - **Failure**: For 1 year, the primary caster needs twice as much food and water as a normal creature of its kind (this is a [[rangoric-srd/rules/Special Abilities and Conditions#Curses|curse effect]], and can be removed with *[[rangoric-srd/spells/Remove Curse|remove curse]]* and similar effects).
+- **Level**: 6
+- **Casting Time**: 60 minutes
+- **Components**: V, S, M (salt mixed with the cremated remains of a family member or former friend), F (a set of 43 holy symbols of at least 10 different deities), SC (up to 8)
+- **Skill Checks**: [[rangoric-srd/skills/Intimidation|Intimidation]] DC 34, 2 successes; [[rangoric-srd/skills/Society|Society]] DC 34, 3 successes; [[rangoric-srd/skills/Sense Motive|Sense Motive]] DC 34, 1 success
+- **Range**: close (25 ft. + 5 ft./character level of the primary caster)
+- **Target**: one [[rangoric-srd/classes/Druid#^druid-animal-companion|animal companion]], [[rangoric-srd/classes/Summoner#^summoner-eidolon|eidolon]], kami ward or [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-phantom|phantom]] (see text)
+- **Duration**: permanent
+- **Saving Throw**: Will negates; see text
+- **Spell Resistance**: no
+- **Backlash**: All casters take 3d6 points of damage and are [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1 hour.
+- **Failure**: For 1 year, the primary caster needs twice as much food and water as a normal creature of its kind (this is a [[rangoric-srd/rules/Special Abilities and Conditions#Curses|curse effect]], and can be removed with _[[rangoric-srd/spells/Remove Curse|remove curse]]_ and similar effects).
 
 The primary caster recites false litanies of the deities whose holy symbols are the focus. The ritual has no visible effect, but makes a rending cut in the world of spirits. When it succeeds, the caster achieves one of two goals:
 

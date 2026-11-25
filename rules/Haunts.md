@@ -22,15 +22,15 @@ Haunts work much like [[rangoric-srd/rules/Traps|traps]] and [[rangoric-srd/rule
 
 ## Haunt Rules
 
-Although haunts function like traps, they are difficult to detect since they cannot be easily observed until the round in which they manifest. *[[rangoric-srd/spells/Detect Undead|Detect undead]]* or spells that detect an alignment of the appropriate type allow an observer a chance to notice a haunt even before it manifests (allowing that character the appropriate check to notice the haunt, but at a –4 penalty).
+Although haunts function like traps, they are difficult to detect since they cannot be easily observed until the round in which they manifest. _[[rangoric-srd/spells/Detect Undead|Detect undead]]_ or spells that detect an alignment of the appropriate type allow an observer a chance to notice a haunt even before it manifests (allowing that character the appropriate check to notice the haunt, but at a –4 penalty).
 
 A haunt can infuse a maximum area with a 5-foot radius per point of CR possessed by the haunt, but the actual area is usually limited by the size of the room in which the haunt is located.
 
-When a haunt is triggered, its effects manifest at initiative rank 10 in a surprise round. All characters in the haunt's proximity can attempt to notice the haunt at the start of this surprise round by making a notice check. All haunts detect life sources and trigger as a result of the approach of or contact with living creatures, but some haunts can be tricked by effects like *[[rangoric-srd/spells/Hide from Undead|hide from undead]]* or *[[rangoric-srd/spells/Invisibility|invisibility]]*.
+When a haunt is triggered, its effects manifest at initiative rank 10 in a surprise round. All characters in the haunt's proximity can attempt to notice the haunt at the start of this surprise round by making a notice check. All haunts detect life sources and trigger as a result of the approach of or contact with living creatures, but some haunts can be tricked by effects like _[[rangoric-srd/spells/Hide from Undead|hide from undead]]_ or _[[rangoric-srd/spells/Invisibility|invisibility]]_.
 
 On the surprise round in which a haunt manifests, positive energy applied to the haunt (via channeled energy, cure spells, and the like) can damage the haunt's hit points (a haunt never gains a Will save to lessen the damage done by such effects, and attacks that require a successful attack roll to work must strike AC 10 in order to affect the haunt and not merely the physical structure it inhabits). Unless the haunt has an unusual weakness, no other form of attack can reduce its hit points. If the haunt is reduced to 0 hit points by positive energy, it is neutralized—if this occurs before the haunt takes its action at initiative rank 10, its effect does not occur.
 
-A haunt can have virtually any effect identical to an existing spell effect, but often with different—and distinctly more frightening or unnerving—sensory or physical features than that spell effect normally has. (A haunt that has an effect not identical to an existing spell is certainly possible, but this requires designing a new spell effect.) A haunt might cause a room to explode into flames (duplicating *[[rangoric-srd/spells/Fireball|fireball]]* or *[[rangoric-srd/spells/Fire Storm|fire storm]]*), infuse a chamber with fear (duplicating *[[rangoric-srd/spells/Cause Fear|cause fear]]*, *[[rangoric-srd/spells/Scare|scare]]*, or *[[rangoric-srd/spells/Fear|fear]]*), or try to frighten a target to death (duplicating *[[rangoric-srd/spells/Phantasmal Killer|phantasmal killer]]* or *[[rangoric-srd/spells/Slay Living|slay living]]*). How the haunt's effects manifest are left to you to determine.
+A haunt can have virtually any effect identical to an existing spell effect, but often with different—and distinctly more frightening or unnerving—sensory or physical features than that spell effect normally has. (A haunt that has an effect not identical to an existing spell is certainly possible, but this requires designing a new spell effect.) A haunt might cause a room to explode into flames (duplicating _[[rangoric-srd/spells/Fireball|fireball]]_ or _[[rangoric-srd/spells/Fire Storm|fire storm]]_), infuse a chamber with fear (duplicating _[[rangoric-srd/spells/Cause Fear|cause fear]]_, _[[rangoric-srd/spells/Scare|scare]]_, or _[[rangoric-srd/spells/Fear|fear]]_), or try to frighten a target to death (duplicating _[[rangoric-srd/spells/Phantasmal Killer|phantasmal killer]]_ or _[[rangoric-srd/spells/Slay Living|slay living]]_). How the haunt's effects manifest are left to you to determine.
 
 A neutralized haunt is not destroyed, and can manifest again after a period of time—to destroy a haunt, a specific action must be taken in the region to end the effect forever (such as burning a haunted house to the ground or burying the bones of the slaves who died on the site to create the haunt). This specific act is different for every haunt (although a number of nearby haunts often share the same destruction act).
 
@@ -42,28 +42,28 @@ All primary effects created by a haunt are mind-affecting fear effects, even tho
 
 **Table: CR Modifiers for Haunts**
 
-| Feature Type                                                                                           | CR Modifier                 |
-|--------------------------------------------------------------------------------------------------------|-----------------------------|
-| Persistent                                                                                             | +2                          |
-| *Notice DC*                                                                                            |                             |
-| 15 or lower                                                                                            | –1                          |
-| 16–20                                                                                                  | —                           |
-| 21–25                                                                                                  | +1                          |
-| 26–29                                                                                                  | +2                          |
-| 30 or higher                                                                                           | +3                          |
-| *Reset Time*                                                                                           |                             |
-| 1 minute                                                                                               | +2                          |
-| 1 hour                                                                                                 | +1                          |
-| 1 day                                                                                                  | +0                          |
-| 1 week                                                                                                 | –1                          |
-| *Example Weaknesses*                                                                                   |                             |
-| Slow (manifests at Initiative rank 0)                                                                  | –2                          |
+| Feature Type                                                                                           | CR Modifier            |
+| ------------------------------------------------------------------------------------------------------ | ---------------------- |
+| Persistent                                                                                             | +2                     |
+| _Notice DC_                                                                                            |                        |
+| 15 or lower                                                                                            | –1                     |
+| 16–20                                                                                                  | —                      |
+| 21–25                                                                                                  | +1                     |
+| 26–29                                                                                                  | +2                     |
+| 30 or higher                                                                                           | +3                     |
+| _Reset Time_                                                                                           |                        |
+| 1 minute                                                                                               | +2                     |
+| 1 hour                                                                                                 | +1                     |
+| 1 day                                                                                                  | +0                     |
+| 1 week                                                                                                 | –1                     |
+| _Example Weaknesses_                                                                                   |                        |
+| Slow (manifests at Initiative rank 0)                                                                  | –2                     |
 | Susceptible to an additional type of damage                                                            | –1 per additional type |
-| Tricked by *[[rangoric-srd/spells/Hide from Undead\|hide from undead]]*                                | –2                          |
-| Tricked by *[[rangoric-srd/spells/Invisibility\|invisibility]]*                                        | –1                          |
-| Tricked by Stealth\*                                                                                   | –3                          |
-| Triggered by touch                                                                                     | –2                          |
-| \* The haunt makes a caster level check instead of a Perception check to notice someone using Stealth. |                             |
+| Tricked by _[[rangoric-srd/spells/Hide from Undead\|hide from undead]]_                                | –2                     |
+| Tricked by _[[rangoric-srd/spells/Invisibility\|invisibility]]_                                        | –1                     |
+| Tricked by Stealth\*                                                                                   | –3                     |
+| Triggered by touch                                                                                     | –2                     |
+| \* The haunt makes a caster level check instead of a Perception check to notice someone using Stealth. |                        |
 
 Haunts are presented in the following format.
 
@@ -73,13 +73,13 @@ Haunts are presented in the following format.
 
 **Alignment and Area**: This line gives the haunt's alignment and the dimensions of the area it infuses (up to 5 feet per CR). If a haunt is persistent, this is noted here as well.
 
-**Caster Level**: This is the haunt's effective caster level for the purposes of dispelling any ongoing effects with *[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, and for determining the results of spell effects it creates.
+**Caster Level**: This is the haunt's effective caster level for the purposes of dispelling any ongoing effects with _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, and for determining the results of spell effects it creates.
 
 **Notice**: This indicates the skill check (usually [[rangoric-srd/skills/Perception|Perception]]) and DC required to notice the haunt in the surprise round before it manifests. The sensory input for what a successful check notices—such as a faint ghostly wailing, a smell of burning flesh, or fresh blood oozing from the walls—is listed in parentheses after the DC.
 
 **hp**: This lists the haunt's effective hit points for the purposes of resolving positive energy damage. A haunt's hit points are equal to twice its CR, except in the case of a persistent haunt, in which case its hit points are equal to its CR × 4.5 (round fractions down).
 
-**Weakness**: Any weaknesses the haunt might have, such as for haunts that can be tricked by effects like *[[rangoric-srd/spells/Hide from Undead|hide from undead]]* or can be damaged by effects other than positive energy, are listed here.
+**Weakness**: Any weaknesses the haunt might have, such as for haunts that can be tricked by effects like _[[rangoric-srd/spells/Hide from Undead|hide from undead]]_ or can be damaged by effects other than positive energy, are listed here.
 
 **Trigger**: The conditions that can cause the haunt to manifest are given here. Proximity-triggered haunts occur as soon as a creature enters the haunt's area. A haunt triggered by touch does not activate until a living creature touches a specific object or location in its area, but it can sense (and thus target with its effects) any creature in its area.
 
@@ -114,5 +114,5 @@ To make a haunt like the example below (Bleeding Walls), follow these steps.
 - **hp**: 10
 - **Trigger**: proximity
 - **Reset**: 1 day
-- **Effect**: When this haunt is triggered, thick rivulets of blood course down the walls accompanied by the shrill shriek of a woman’s scream. All creatures in the hallway are targeted by a *[[rangoric-srd/spells/Fear|fear]]* spell (save DC 16).
+- **Effect**: When this haunt is triggered, thick rivulets of blood course down the walls accompanied by the shrill shriek of a woman’s scream. All creatures in the hallway are targeted by a _[[rangoric-srd/spells/Fear|fear]]_ spell (save DC 16).
 - **Destruction**: The body of the maid entombed behind the walls must be extracted and given a proper burial.

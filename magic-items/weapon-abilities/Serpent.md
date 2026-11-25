@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Serpent
 
-When this weapon is cast upon the ground, it transforms into a viper the same size category as the weapon, with maximum hit points. At the wielder’s command, when the serpent is slain, or when one minute per point of the weapon’s enhancement bonus has expired, the snake transforms back into the weapon. After spending time in serpent form and returning to weapon form, the *serpent* weapon cannot be changed into a viper again until an equal amount of time is spent in weapon form as was spent in serpent form.
+When this weapon is cast upon the ground, it transforms into a viper the same size category as the weapon, with maximum hit points. At the wielder’s command, when the serpent is slain, or when one minute per point of the weapon’s enhancement bonus has expired, the snake transforms back into the weapon. After spending time in serpent form and returning to weapon form, the _serpent_ weapon cannot be changed into a viper again until an equal amount of time is spent in weapon form as was spent in serpent form.
 
-Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Baleful Polymorph|baleful polymorph]]*; Price +2 bonus.
+Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Baleful Polymorph|baleful polymorph]]_; Price +2 bonus.

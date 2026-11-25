@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # New Day Tea
 
-*Ingestible/Herbal Restorative; Special*
+_Ingestible/Herbal Restorative; Special_
 
 New day tea, while an herbal restorative meant for tired guards and watchmen, has been hailed by many as the greatest hangover cure across a dozen worlds. This tea wakes up its drinkers, clears their heads, and sets them on their way. Drinking four ounces of this brewed tea, hot or cold, removes 1d4 points of nonlethal damage immediately, removes all lingering side effects of minor toxins (such as alcohol) from the body, and removes the need for sleep for 2d8 hours. The only drawback is the tea’s scent—it smells like rotten oranges and overripe apples and another underlying scent close to freshly tanned leather.
 

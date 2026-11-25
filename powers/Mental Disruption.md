@@ -33,7 +33,7 @@ Telepathy \[Mind-Affecting\]
 **Duration:** Instantaneous  
 **Saving Throw:** Will negates  
 **Power Resistance:** Yes  
-**Power Points:** 3  
+**Power Points:** 3
 
 You generate a mental wave of confusion that instantly sweeps out from your location. All creatures you designate in the affected area (you can choose certain creatures to be unaffected) must make a Will save or become [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 1 round.
 

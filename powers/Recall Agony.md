@@ -33,7 +33,7 @@ Clairsentience \[Mind-Affecting\]
 **Duration:** Instantaneous  
 **Saving Throw:** Will half  
 **Power Resistance:** Yes  
-**Power Points:** 3  
+**Power Points:** 3
 
 The fabric of time parts to your will, revealing wounds your foe has received in the past (or has yet to receive). That foe takes 2d6 points of damage as the past (or future) impinges briefly on the present.
 

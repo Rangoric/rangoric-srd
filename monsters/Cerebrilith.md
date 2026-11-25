@@ -68,7 +68,7 @@ Treasure: Standard   
 
 #### Combat
 
-Cerebriliths favor telepathic attacks, usually beginning a battle by launching a furious barrage of ego whip and id insinuation attacks. In melee, cerebriliths often meditate to gain psionic focus, so that they can use Psionic Fist or Unavoidable Strike (the latter in conjunction with Power Attack).  
+Cerebriliths favor telepathic attacks, usually beginning a battle by launching a furious barrage of ego whip and id insinuation attacks. In melee, cerebriliths often meditate to gain psionic focus, so that they can use Psionic Fist or Unavoidable Strike (the latter in conjunction with Power Attack).
 
 A cerebrilith’s natural weapons, as well as any weapons it wields, are treated as Chaotic-aligned and Evil-aligned for the purpose of overcoming damage reduction.
 

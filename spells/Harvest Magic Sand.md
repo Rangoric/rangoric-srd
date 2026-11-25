@@ -23,13 +23,13 @@ tags: [rangoric, rangoric/spell]
 
 # Harvest Magic Sand
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Sor/Wiz 1
-  - **Components**: V, S, XP
-  - **Casting Time**: 10 minutes/level
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: See text
-  - **Duration**: Instantaneous
+- **Level**: Sor/Wiz 1
+- **Components**: V, S, XP
+- **Casting Time**: 10 minutes/level
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: See text
+- **Duration**: Instantaneous
 
-This spell allows the caster to harvest 1d10 ounces of [[rangoric-srd/rules/Faercana#^magic-sand|magic sand]] per caster level (i.e. 5th level caster harvests 5d10 ounces). This spell must be cast on the sandy ground of the fey realm’s desert of magic sand to yield any, and the process of refining the raw sand consumes 10 XP per ounce of *magic sand* created in the process of casting the spell. See [[rangoric-srd/rules/Faercana#^magic-sand|magic sand]] for its further uses, and [[rangoric-srd/magic-items/dusts/Fey Dusts|fey dusts]] for the dusts made from it.
+This spell allows the caster to harvest 1d10 ounces of [[rangoric-srd/rules/Faercana#^magic-sand|magic sand]] per caster level (i.e. 5th level caster harvests 5d10 ounces). This spell must be cast on the sandy ground of the fey realm’s desert of magic sand to yield any, and the process of refining the raw sand consumes 10 XP per ounce of _magic sand_ created in the process of casting the spell. See [[rangoric-srd/rules/Faercana#^magic-sand|magic sand]] for its further uses, and [[rangoric-srd/magic-items/dusts/Fey Dusts|fey dusts]] for the dusts made from it.

@@ -30,7 +30,7 @@ Target or **Targets:** One or more objects or creatures with a total weight of 2
 **Duration:** Instantaneous  
 **Saving Throw:** Will negates or Will negates (object); see text  
 **Power Resistance:** Yes or Yes (object); see text  
-**Power Points:** 5  
+**Power Points:** 5
 
 You can affect one or more objects or creatures by concentrating your mind upon, sending them in a deadly hail at your foes - or simply by hurling your foe\! You can hurl one object or creature per manifester level (maximum fifteen separate targets), as long as all are within the power’s range and each is no more than 10 feet away from another one. Each object or creature can be hurled a maximum distance of 10 feet per level.
 

@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Phalanx Soldier
 
-*A [[rangoric-srd/classes/Fighter#^fighter-archetypes|fighter]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Fighter#^fighter-archetypes|fighter]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 The phalanx soldier specializes in defensive tactics, using his shield to guard himself and his allies and forming a shield wall like an unbreakable anvil against which his enemies break.
 

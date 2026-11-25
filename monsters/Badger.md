@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Badger
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 1d8+5 (9 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares), burrow 10 ft.
-  - **Armor Class**: 13 (+1 Dex, +1 natural, +1 size), touch 12, flat-footed 12
-  - **Base Attack**: +0; **CMB**: –1; **CMD**: 10 (14 vs. trip)
-  - **Attack**: Bite +1 melee (1d3) or claw +1 melee (1d2)
-  - **Full Attack**: Bite +1 melee (1d3) and 2 claws +1 melee (1d2)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Rage|Blood rage]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +4, Ref +3, Will +1
-  - **Abilities**: Str 10, Dex 13, Con 15, Int 2, Wis 12, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Perception|Perception]] +5
-  - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary, pair, clan (3–6), or cete (3–5)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: 2 HD (Small)
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 1d8+5 (9 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares), burrow 10 ft.
+- **Armor Class**: 13 (+1 Dex, +1 natural, +1 size), touch 12, flat-footed 12
+- **Base Attack**: +0; **CMB**: –1; **CMD**: 10 (14 vs. trip)
+- **Attack**: Bite +1 melee (1d3) or claw +1 melee (1d2)
+- **Full Attack**: Bite +1 melee (1d3) and 2 claws +1 melee (1d2)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Rage|Blood rage]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +4, Ref +3, Will +1
+- **Abilities**: Str 10, Dex 13, Con 15, Int 2, Wis 12, Cha 6
+- **Skills**: [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Perception|Perception]] +5
+- **Feats**: [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Temperate forests
+- **Organization**: Solitary, pair, clan (3–6), or cete (3–5)
+- **Challenge Rating**: 1/2
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: 2 HD (Small)
+- **Level Adjustment**: —
 
 The squat, burrowing badger is plentiful in most temperate forests. Most species are carnivorous, though some eat a variety of meat, insects, and vegetables. The badger possesses a fierceness and natural tenacity, while its stubby legs and wide, seemingly portly stature belie the creature's actual strength and speed.
 

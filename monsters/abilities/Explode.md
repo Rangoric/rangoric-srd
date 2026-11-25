@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Explode
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “explode”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “explode”, on the Special Attacks line.
 
 One round after a jack-o'-lantern is reduced to 0 or fewer hit points, it explodes in a burst of flaming spores. Creatures within 10 feet of an exploding jack-o'-lantern must succeed at a DC 12 Reflex save or take 2d6 points of fire damage and be [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1 round. A successful save halves the damage and negates the stun. The save DC is Constitution-based. The [[rangoric-srd/monsters/Jack-o’-Lantern|jack-o’-lantern]] has it.

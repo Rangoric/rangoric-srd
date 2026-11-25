@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Knowledge Blessing
 
-*A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Knowledge Domain|Knowledge domain]].*
+_A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Knowledge Domain|Knowledge domain]]._
 
 **Lore Keeper (minor)**: At 1st level, you can touch a creature to learn about its abilities and weaknesses. With a successful touch attack, you gain information as if your result on the appropriate [[rangoric-srd/skills/Identifying Creatures|Knowledge skill check]] were equal to 15 + your warpriest level + your Wisdom modifier.
 

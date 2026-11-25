@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Nauseating Trail
 
-*Conjuration (Creation) \[Poison\]*
+_Conjuration (Creation) \[Poison\]_
 
-  - **Level**: Alc 3, Mag 3, Sha 3, Sor/Wiz 3, Wit 3
-  - **Components**: V, S, M (a rotten egg or cabbage leaves)
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Target**: One willing creature
-  - **Duration**: 1 round/level
-  - **Saving Throw**: None and Fortitude negates (see text)
-  - **Spell Resistance**: No
+- **Level**: Alc 3, Mag 3, Sha 3, Sor/Wiz 3, Wit 3
+- **Components**: V, S, M (a rotten egg or cabbage leaves)
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Target**: One willing creature
+- **Duration**: 1 round/level
+- **Saving Throw**: None and Fortitude negates (see text)
+- **Spell Resistance**: No
 
-The target exudes stinking vapors that fill its space. The vapors do not obscure sight, but it nauseates creatures as *[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]*. The target is immune to these vapors. These vapors persist as the creature moves, filling every square it passes through until it has filled a number of squares equal to 4 × your caster level—if you move through more squares than that, the squares over that amount at not filled with the vapors. Each creature that enters or ends its turn in the area filled with these vapors must succeed at a Fortitude save or become nauseated as long as it remains in the square and for 1d4+1 rounds after it leaves.
+The target exudes stinking vapors that fill its space. The vapors do not obscure sight, but it nauseates creatures as _[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]_. The target is immune to these vapors. These vapors persist as the creature moves, filling every square it passes through until it has filled a number of squares equal to 4 × your caster level—if you move through more squares than that, the squares over that amount at not filled with the vapors. Each creature that enters or ends its turn in the area filled with these vapors must succeed at a Fortitude save or become nauseated as long as it remains in the square and for 1d4+1 rounds after it leaves.

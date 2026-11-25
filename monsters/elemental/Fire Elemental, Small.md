@@ -41,25 +41,25 @@ tags: [rangoric, rangoric/monster]
 
 # Fire Elemental, Small
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Elemental, Extraplanar, Fire)
-  - **Hit Dice**: 2d10 (11 hp)
-  - **Initiative**: +5
-  - **Speed**: 50 ft. (10 squares)
-  - **Armor Class**: 16 (+1 Dex, +1 dodge, +3 natural, +1 size), touch 13, flat-footed 14
-  - **Base Attack**: +2; **CMB**: +1; **CMD**: 13
-  - **Attack**: Slam +4 melee (1d4 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
-  - **Full Attack**: Slam +4 melee (1d4 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (1d4, DC 11)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability]] to cold
-  - **Saves**: Fort +3, Ref +4, Will +0
-  - **Abilities**: Str 10, Dex 13, Con 10, Int 4, Wis 11, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +4, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Theology|Theology]] +1
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any (Elemental Plane of Fire)
-  - **Organization**: Solitary, pair, or gang (3–8)
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 3 HD (Small)
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Elemental, Extraplanar, Fire)
+- **Hit Dice**: 2d10 (11 hp)
+- **Initiative**: +5
+- **Speed**: 50 ft. (10 squares)
+- **Armor Class**: 16 (+1 Dex, +1 dodge, +3 natural, +1 size), touch 13, flat-footed 14
+- **Base Attack**: +2; **CMB**: +1; **CMD**: 13
+- **Attack**: Slam +4 melee (1d4 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
+- **Full Attack**: Slam +4 melee (1d4 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (1d4, DC 11)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability]] to cold
+- **Saves**: Fort +3, Ref +4, Will +0
+- **Abilities**: Str 10, Dex 13, Con 10, Int 4, Wis 11, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +4, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Theology|Theology]] +1
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any (Elemental Plane of Fire)
+- **Organization**: Solitary, pair, or gang (3–8)
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 3 HD (Small)
+- **Level Adjustment**: —

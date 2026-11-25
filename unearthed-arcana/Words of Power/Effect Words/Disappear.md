@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/word-of-power]
 
 # Disappear
 
-*One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Concealing Words|Concealing group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]].*
+_One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Concealing Words|Concealing group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]]._
 
 **School** illusion (glamer)
 
@@ -29,6 +29,6 @@ tags: [rangoric, rangoric/word-of-power]
 
 **Target Restrictions** selected
 
-This effect word functions as *[[rangoric-srd/unearthed-arcana/Words of Power/Effect Words/Fade|fade]]*, but with a longer duration.
+This effect word functions as _[[rangoric-srd/unearthed-arcana/Words of Power/Effect Words/Fade|fade]]_, but with a longer duration.
 
 **Boost**: The target does not become visible if it attacks or takes an offensive action. Boosting this effect word increases its level by 2.

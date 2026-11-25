@@ -28,17 +28,17 @@ tags: [rangoric, rangoric/spell]
 
 # Iron Shower
 
-*Conjuration (Creation) \[Cold Iron\]*
+_Conjuration (Creation) \[Cold Iron\]_
 
-  - **Level**: Sor/Wiz 6
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Effect**: Cylinder (20 ft. radius, 20 ft. tall)
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Reflex half
-  - **Spell Resistance**: Yes
+- **Level**: Sor/Wiz 6
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Effect**: Cylinder (20 ft. radius, 20 ft. tall)
+- **Duration**: Instantaneous
+- **Saving Throw**: Reflex half
+- **Spell Resistance**: Yes
 
 You cause iron splinters to rain downward. The shards deal 1d4 points of piercing damage per caster level (maximum 15d4). Fey within the target area suffer 1d6 points of damage per caster level (maximum of 15d6). The damage counts as [[rangoric-srd/spells/Magic Overview#^cold-iron-descriptor|cold iron]].
 
-*Material Component*: An iron nail or an ounce of iron filings.
+_Material Component_: An iron nail or an ounce of iron filings.

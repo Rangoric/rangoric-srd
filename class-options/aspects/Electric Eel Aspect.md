@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Electric Eel Aspect
 
-*A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The aspect of the electric eel imparts the ability to charge attacks with electricity and to slip effortlessly out of danger.*
+_A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The aspect of the electric eel imparts the ability to charge attacks with electricity and to slip effortlessly out of danger._
 
 **Minor Form**: Your attacks deal 1 point of electricity damage in addition to their normal damage.
 

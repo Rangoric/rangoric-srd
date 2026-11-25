@@ -27,7 +27,7 @@ Clairsentience
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 hour/level  
-**Power Points:** 11  
+**Power Points:** 11
 
 As [[rangoric-srd/powers/Precognition|precognition]], except as noted here.
 

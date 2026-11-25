@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Ghorazagh
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 15d8+120 (187 hp)
-  - **Initiative**: +3
-  - **Speed**: 40 ft. (8 squares), climb 40 ft., fly 40 ft. (perfect)
-  - **Armor Class**: 26 (+3 Dex, +14 natural, –1 size), touch 12, flat-footed 23
-  - **Base Attack**: +11; **CMB**: +18; **CMD**: 31
-  - **Attack**: Bite +16 melee (2d6+6) or claw +16 melee (1d8+6) or tentacle +19 melee (1d6+3 and grab)
-  - **Full Attack**: Bite +16 melee (2d6+6) and 2 claws +16 melee (1d8+6) and 4 tentacles +14 melee (1d6+3 and grab)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1d4 Con), [[rangoric-srd/monsters/abilities/Bloodspray|bloodspray]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Bloodsense|Bloodsense]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 30 ft., vulnerable to sonic
-  - **Saves**: Fort +15, Ref +10, Will +12
-  - **Abilities**: Str 22, Dex 17, Con 26, Int 15, Wis 17, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +27, [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Deception|Deception]] +18, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +17, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +21, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Stealth|Stealth]] +17
-  - **Feats**: [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Any underground
-  - **Organization**: Solitary, pair, colony (3–9), or hive (10–40, including 6 brood guards of 17 HD and 1 hive lord of 21 HD)
-  - **Challenge Rating**: 13
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 15d8+120 (187 hp)
+- **Initiative**: +3
+- **Speed**: 40 ft. (8 squares), climb 40 ft., fly 40 ft. (perfect)
+- **Armor Class**: 26 (+3 Dex, +14 natural, –1 size), touch 12, flat-footed 23
+- **Base Attack**: +11; **CMB**: +18; **CMD**: 31
+- **Attack**: Bite +16 melee (2d6+6) or claw +16 melee (1d8+6) or tentacle +19 melee (1d6+3 and grab)
+- **Full Attack**: Bite +16 melee (2d6+6) and 2 claws +16 melee (1d8+6) and 4 tentacles +14 melee (1d6+3 and grab)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1d4 Con), [[rangoric-srd/monsters/abilities/Bloodspray|bloodspray]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Bloodsense|Bloodsense]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 30 ft., vulnerable to sonic
+- **Saves**: Fort +15, Ref +10, Will +12
+- **Abilities**: Str 22, Dex 17, Con 26, Int 15, Wis 17, Cha 16
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +27, [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Deception|Deception]] +18, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +17, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +21, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Stealth|Stealth]] +17
+- **Feats**: [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Any underground
+- **Organization**: Solitary, pair, colony (3–9), or hive (10–40, including 6 brood guards of 17 HD and 1 hive lord of 21 HD)
+- **Challenge Rating**: 13
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Ghorazaghs—or gore weavers—float like tumorous specters through the deepest, most alien cavities of the lightless underground, preying upon the wretched vermin of those horrid places. Cunning, with minds and drives unknowable and obscene to those of lands above, the gore weavers only recently became aware of the fertility and bounty of the surface world and are now slowly turning their ebon eyes upward.
 

@@ -36,29 +36,30 @@ change: modified
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---
+
 # Toad
 
-  - Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 1d8–2 (2 hp)
-  - **Initiative**: +1
-  - **Speed**: 5 ft. (1 square)
-  - **Armor Class**: 15 (+1 Dex, +4 size), touch 15, flat-footed 14
-  - **Base Attack**: +0; **CMB**: –3; **CMD**: 2 (6 vs. trip)
-  - **Attack**: —
-  - **Full Attack**: —
-  - **Space/Reach**: 1 ft./0 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +0, Ref +3, Will +2
-  - **Abilities**: Str 1, Dex 12, Con 6, Int 1, Wis 15, Cha 4
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +21
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Temperate and warm forests; temperate marshes
-  - **Organization**: Solitary, pair, knot (3–100), or swarm (10–100)
-  - **Challenge Rating**: 1/8
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 1d8–2 (2 hp)
+- **Initiative**: +1
+- **Speed**: 5 ft. (1 square)
+- **Armor Class**: 15 (+1 Dex, +4 size), touch 15, flat-footed 14
+- **Base Attack**: +0; **CMB**: –3; **CMD**: 2 (6 vs. trip)
+- **Attack**: —
+- **Full Attack**: —
+- **Space/Reach**: 1 ft./0 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +0, Ref +3, Will +2
+- **Abilities**: Str 1, Dex 12, Con 6, Int 1, Wis 15, Cha 4
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +21
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Temperate and warm forests; temperate marshes
+- **Organization**: Solitary, pair, knot (3–100), or swarm (10–100)
+- **Challenge Rating**: 1/8
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Toads are harmless, rough-skinned amphibians.

@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Sea Cat
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 6d10+12 (45 hp)
-  - **Initiative**: +1
-  - **Speed**: 10 ft. (2 squares), swim 40 ft.
-  - **Armor Class**: 18 (+1 Dex, +8 natural, –1 size), touch 10, flat-footed 17
-  - **Base Attack**: +6; **CMB**: +10; **CMD**: 21 (can't be tripped)
-  - **Attack**: Bite +8 melee (1d8+3) or claw +9 melee (1d4+3)
-  - **Full Attack**: Bite +8 melee (1d8+3) and 2 claws +9 melee (1d4+3)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws, 1d4+4)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]]
-  - **Saves**: Fort +7, Ref +6, Will +5
-  - **Abilities**: Str 19, Dex 12, Con 15, Int 2, Wis 13, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Perception|Perception]] +10
-  - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
-  - **Environment**: Warm coastlines; temperate aquatic
-  - **Organization**: Solitary, pair, or pride (3–15)
-  - **Challenge Rating**: 4
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: 7–9 HD (Large); 10–18 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 6d10+12 (45 hp)
+- **Initiative**: +1
+- **Speed**: 10 ft. (2 squares), swim 40 ft.
+- **Armor Class**: 18 (+1 Dex, +8 natural, –1 size), touch 10, flat-footed 17
+- **Base Attack**: +6; **CMB**: +10; **CMD**: 21 (can't be tripped)
+- **Attack**: Bite +8 melee (1d8+3) or claw +9 melee (1d4+3)
+- **Full Attack**: Bite +8 melee (1d8+3) and 2 claws +9 melee (1d4+3)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws, 1d4+4)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]]
+- **Saves**: Fort +7, Ref +6, Will +5
+- **Abilities**: Str 19, Dex 12, Con 15, Int 2, Wis 13, Cha 10
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Perception|Perception]] +10
+- **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
+- **Environment**: Warm coastlines; temperate aquatic
+- **Organization**: Solitary, pair, or pride (3–15)
+- **Challenge Rating**: 4
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: 7–9 HD (Large); 10–18 HD (Huge)
+- **Level Adjustment**: —
 
 The feral sea cat (sometimes referred to as the sea lion, sea tiger, or sea leopard) is among the most vicious and ubiquitous of coastal predators in tropical oceans. The upper body of a sea cat is that of a typical great cat—a lion, tiger, leopard, or cheetah—complete with a pair of clawed paws capable of rending the flesh from its prey. In place of back legs, however, the sea cat has a sleek and powerful tail that allows it to move quickly and silently through the water.
 

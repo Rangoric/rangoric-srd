@@ -18,10 +18,10 @@ Linnorms speak Aklo, Draconic, and Sylvan.
 
 Sorcerers can carry a [[rangoric-srd/class-options/bloodlines/Linnorm (Mutated Bloodline)|linnorm bloodline]], and barbarians and skalds can channel a linnorm through its death curse rage power: [[rangoric-srd/class-options/rage-powers/Linnorm Death Curse, Cairn (Rage Power)|linnorm death curse, cairn]], [[rangoric-srd/class-options/rage-powers/Linnorm Death Curse, Crag (Rage Power)|linnorm death curse, crag]], [[rangoric-srd/class-options/rage-powers/Linnorm Death Curse, Fjord (Rage Power)|linnorm death curse, fjord]], [[rangoric-srd/class-options/rage-powers/Linnorm Death Curse, Ice (Rage Power)|linnorm death curse, ice]], [[rangoric-srd/class-options/rage-powers/Linnorm Death Curse, Taiga (Rage Power)|linnorm death curse, taiga]], [[rangoric-srd/class-options/rage-powers/Linnorm Death Curse, Tarn (Rage Power)|linnorm death curse, tarn]], [[rangoric-srd/class-options/rage-powers/Linnorm Death Curse, Tor (Rage Power)|linnorm death curse, tor]].
 
-  - [[rangoric-srd/monsters/linnorm/Cairn Linnorm|Cairn Linnorm]]
-  - [[rangoric-srd/monsters/linnorm/Crag Linnorm|Crag Linnorm]]
-  - [[rangoric-srd/monsters/linnorm/Fjord Linnorm|Fjord Linnorm]]
-  - [[rangoric-srd/monsters/linnorm/Ice Linnorm|Ice Linnorm]]
-  - [[rangoric-srd/monsters/linnorm/Taiga Linnorm|Taiga Linnorm]]
-  - [[rangoric-srd/monsters/linnorm/Tarn Linnorm|Tarn Linnorm]]
-  - [[rangoric-srd/monsters/linnorm/Tor Linnorm|Tor Linnorm]]
+- [[rangoric-srd/monsters/linnorm/Cairn Linnorm|Cairn Linnorm]]
+- [[rangoric-srd/monsters/linnorm/Crag Linnorm|Crag Linnorm]]
+- [[rangoric-srd/monsters/linnorm/Fjord Linnorm|Fjord Linnorm]]
+- [[rangoric-srd/monsters/linnorm/Ice Linnorm|Ice Linnorm]]
+- [[rangoric-srd/monsters/linnorm/Taiga Linnorm|Taiga Linnorm]]
+- [[rangoric-srd/monsters/linnorm/Tarn Linnorm|Tarn Linnorm]]
+- [[rangoric-srd/monsters/linnorm/Tor Linnorm|Tor Linnorm]]

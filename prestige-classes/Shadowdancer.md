@@ -50,16 +50,16 @@ The shadowdancer’s class skills (and the key ability for each skill) are [[ran
 
 **Table: The Shadowdancer**
 
-| Level | Special                                |
-| ----- | -------------------------------------- |
-| 1st   | Hide in plain sight                    |
-| 2nd   | Evasion, darkvision, uncanny dodge     |
+| Level | Special                                              |
+| ----- | ---------------------------------------------------- |
+| 1st   | Hide in plain sight                                  |
+| 2nd   | Evasion, darkvision, uncanny dodge                   |
 | 3rd   | Rogue talent, shadow illusion, summon shadow         |
-| 4th   | Shadow call, shadow jump 40 ft. |
-| 5th   | Defensive roll, improved uncanny dodge |
-| 6th   | Rogue talent, shadow jump 80 ft., summon shadow |
-| 7th   | Slippery mind                          |
-| 8th   | Shadow jump 160 ft., shadow power |
+| 4th   | Shadow call, shadow jump 40 ft.                      |
+| 5th   | Defensive roll, improved uncanny dodge               |
+| 6th   | Rogue talent, shadow jump 80 ft., summon shadow      |
+| 7th   | Slippery mind                                        |
+| 8th   | Shadow jump 160 ft., shadow power                    |
 | 9th   | Rogue talent, summon shadow                          |
 | 10th  | Shadow jump 320 ft., improved evasion, shadow master |
 

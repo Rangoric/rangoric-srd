@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Steel Hound
 
-*An [[rangoric-srd/classes/Investigator#^investigator-archetypes|investigator]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_An [[rangoric-srd/classes/Investigator#^investigator-archetypes|investigator]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Black powder and firearms are a natural extension of the alchemical experimentation that investigators use on a regular basis. Steel hounds are investigators who have taken to using firearms in place of the more mundane weapons their counterparts favor.
 

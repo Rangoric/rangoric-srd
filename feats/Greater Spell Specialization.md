@@ -17,4 +17,4 @@ You can sacrifice a prepared spell in order to spontaneously cast your specializ
 
 **Prerequisites**: Int 13, [[rangoric-srd/feats/Spell Focus|Spell Focus]], [[rangoric-srd/feats/Spell Specialization|Spell Specialization]], able to prepare 5th-level spells.
 
-**Benefit**: By giving up a prepared spell of the same level as your specialized spell or higher, you can spontaneously cast your specialized spell. It counts as its normal level, whatever slot you use. You can add a metamagic feat to it by using a higher slot and a longer casting time, as a cleric does when spontaneously casting a *cure* or *inflict* spell with a metamagic feat.
+**Benefit**: By giving up a prepared spell of the same level as your specialized spell or higher, you can spontaneously cast your specialized spell. It counts as its normal level, whatever slot you use. You can add a metamagic feat to it by using a higher slot and a longer casting time, as a cleric does when spontaneously casting a _cure_ or _inflict_ spell with a metamagic feat.

@@ -23,12 +23,12 @@ Within the harder to find chambers of the cavern complex is a grotto of fragile 
 
 **Personalities:** The Crystal-keeper
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* If a person so wishes, a visitor may research any subject here. With a nearly infinite amount of information available on each topic, exhaustive research can take years if not decades.
+_Common:_ If a person so wishes, a visitor may research any subject here. With a nearly infinite amount of information available on each topic, exhaustive research can take years if not decades.
 
-*Uncommon:* If you perform a task for the Crystal-keeper, she may grant the boon of ‘hasted learning’, which shortens the time needed to research.
+_Uncommon:_ If you perform a task for the Crystal-keeper, she may grant the boon of ‘hasted learning’, which shortens the time needed to research.
 
-*Rare:* Due to the detail and completeness of information stored in the crystals, a person can learn skills and abilities traditionally requiring life experience to attain if given enough time.
+_Rare:_ Due to the detail and completeness of information stored in the crystals, a person can learn skills and abilities traditionally requiring life experience to attain if given enough time.
 
-*Obscure:* The Crystal-keeper has developed a way to create crystalline spellbooks. She sometimes gifts these to especially helpful adventurers. With a successful [[rangoric-srd/skills/Mysticism|Mysticism]] check (DC 25), the owner can “read” or “write” a spell into the crystal using the normal duration for such tasks; once a caster learns how to use a crystal spellbook, no additional skill checks are needed to study its spells.
+_Obscure:_ The Crystal-keeper has developed a way to create crystalline spellbooks. She sometimes gifts these to especially helpful adventurers. With a successful [[rangoric-srd/skills/Mysticism|Mysticism]] check (DC 25), the owner can “read” or “write” a spell into the crystal using the normal duration for such tasks; once a caster learns how to use a crystal spellbook, no additional skill checks are needed to study its spells.

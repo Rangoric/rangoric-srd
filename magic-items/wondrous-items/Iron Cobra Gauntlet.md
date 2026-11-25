@@ -27,4 +27,4 @@ If the snake is within hearing range of the master and commanded to revert to ga
 
 If slain in cobra form, the snake reverts to gauntlet form and cannot be used again for 24 hours. If destroyed in gauntlet form, the item is destroyed. The wearer can refill the iron cobra's poison reservoir in snake form or gauntlet form.
 
-Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Animate Objects|animate objects]]*, *[[rangoric-srd/spells/Discern Location|discern location]]*, *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*; Price 8,000 gp; Cost 4,000 gp; Weight 1 lb.
+Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Animate Objects|animate objects]]_, _[[rangoric-srd/spells/Discern Location|discern location]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_; Price 8,000 gp; Cost 4,000 gp; Weight 1 lb.

@@ -28,15 +28,15 @@ tags: [rangoric, rangoric/spell]
 
 # Mental Block
 
-*Divination \[MindAffecting\]*
+_Divination \[MindAffecting\]_
 
-  - **Level**: Brd 2, Mes 1, Psy 2, Skd 2
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: Caster level round(s)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 2, Mes 1, Psy 2, Skd 2
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: Caster level round(s)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 You lock access to the target's procedural memories, preventing it from drawing upon its experience and expertise. The target loses all skill ranks, spells known, spells prepared, and activated feats, as well as its extraordinary, supernatural, and spell-like abilities. Each round at the end of the target's turn, the target can attempt another Will save to end this effect.

@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/axes]
 
 # Mattock
 
-*Martial two-handed melee weapon.* Cost 12 gp; Dmg 1d6 (S), 2d4 (M); Critical x4; Weight 12 lb.; Type Piercing. ^stats
+_Martial two-handed melee weapon._ Cost 12 gp; Dmg 1d6 (S), 2d4 (M); Critical x4; Weight 12 lb.; Type Piercing. ^stats
 
 Derived from the digging tool of the same name, a mattock resembles a two-handed pick, but with a chisel-like blade instead of a point.
 

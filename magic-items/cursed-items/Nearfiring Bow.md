@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Nearfiring Bow
 
-This bow appears to be a *+2 distance shortbow*, but its curse is that it suffers a –4 cumulative penalty for each range increment beyond the first. Furthermore, it takes an additional –4 penalty on critical confirmation rolls when firing beyond the first range increment. This bow must be used as its wielder's primary ranged weapon and can only be discarded after the owner is subject to a *[[rangoric-srd/spells/Remove Curse|remove curse]]* spell or similar effect.
+This bow appears to be a _+2 distance shortbow_, but its curse is that it suffers a –4 cumulative penalty for each range increment beyond the first. Furthermore, it takes an additional –4 penalty on critical confirmation rolls when firing beyond the first range increment. This bow must be used as its wielder's primary ranged weapon and can only be discarded after the owner is subject to a _[[rangoric-srd/spells/Remove Curse|remove curse]]_ spell or similar effect.
 
-Moderate divination; CL 6th; Intended magic item: +2 *[[rangoric-srd/magic-items/weapon-abilities/Distance|distance]]* [[rangoric-srd/equipment/weapons/Shortbow|shortbow]].
+Moderate divination; CL 6th; Intended magic item: +2 _[[rangoric-srd/magic-items/weapon-abilities/Distance|distance]]_ [[rangoric-srd/equipment/weapons/Shortbow|shortbow]].

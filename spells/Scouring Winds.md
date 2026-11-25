@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Scouring Winds
 
-*Evocation \[Air, Earth\]*
+_Evocation \[Air, Earth\]_
 
-  - **Level**: Drd 7, Sor/Wiz 7, Wit 7
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Effect**: Sandstorm in 20-ft. radius, 20 ft. high
-  - **Duration**: 1 round/level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes (see text)
+- **Level**: Drd 7, Sor/Wiz 7, Wit 7
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Effect**: Sandstorm in 20-ft. radius, 20 ft. high
+- **Duration**: 1 round/level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: Yes (see text)
 
 This spell brings forth a windstorm of stinging sand that blocks all vision. You can move the storm up to 30 feet each round as a move action.
 

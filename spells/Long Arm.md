@@ -30,13 +30,13 @@ tags: [rangoric, rangoric/spell]
 
 # Long Arm
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 1, Blr 1, Mag 1, Med 1, Psy 1, Sor/Wiz 1, Sum 1, SumU 1, Wit 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 minute/level (D)
+- **Level**: Alc 1, Blr 1, Mag 1, Med 1, Psy 1, Sor/Wiz 1, Sum 1, SumU 1, Wit 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 minute/level (D)
 
 Your arms temporarily grow in length, increasing your reach with those limbs by 5 feet.

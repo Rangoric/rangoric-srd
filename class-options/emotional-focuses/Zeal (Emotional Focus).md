@@ -14,13 +14,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Zeal
 
-*An [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-emotional-focus|emotional focus]] for the [[rangoric-srd/classes/Spiritualist (Class)|spiritualist]]’s [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-phantom|phantom]].*
+_An [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-emotional-focus|emotional focus]] for the [[rangoric-srd/classes/Spiritualist (Class)|spiritualist]]’s [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-phantom|phantom]]._
 
 A phantom with this emotional focus fixates on every task given as if it were the phantom’s last. The most basic commands are treated as life-and-death situations, and the truly dangerous ones are faced with a resolve and tenacity that sometimes defies common sense. Zeal phantoms take the form of steadfast protectors or daring and manic creatures looking for the next challenge or opportunity to prove itself to either its master or itself. Often very prideful creatures, these phantoms display an orange aura upon completing their tasks. They are prone to boast about their accomplishments and chastise those around them for not accomplishing more.
 
-*Skills*: The phantom gains a number of ranks in [[rangoric-srd/skills/Acrobatics|Acrobatics]] and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] equal to its number of Hit Dice. While confined in the spiritualist’s consciousness, the phantom grants the spiritualist [[rangoric-srd/feats/Skill Focus|Skill Focus]] in each of these skills.
+_Skills_: The phantom gains a number of ranks in [[rangoric-srd/skills/Acrobatics|Acrobatics]] and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] equal to its number of Hit Dice. While confined in the spiritualist’s consciousness, the phantom grants the spiritualist [[rangoric-srd/feats/Skill Focus|Skill Focus]] in each of these skills.
 
-*Good Saves*: Fortitude and Reflex.
+_Good Saves_: Fortitude and Reflex.
 
 **Tracking**: The phantom adds half its number of Hit Dice (minimum 1) to [[rangoric-srd/skills/Fieldcraft#Survival|Fieldcraft]] checks to follow tracks.
 

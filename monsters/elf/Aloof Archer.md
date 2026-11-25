@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Aloof Archer
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf)
-  - **Hit Dice**: 8d10+8 (52 hp)
-  - **Initiative**: +2
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 20 (+9 armor, +1 Dex), touch 11, flat-footed 19
-  - **Base Attack**: +8; **CMB**: +10; **CMD**: 22
-  - **Attack**: [[rangoric-srd/equipment/weapons/Elven Curve Blade|Elven curve blade]] +10 melee (1d10+3/18–20) or +1 [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +12 ranged (1d8+3/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Elven Curve Blade|Elven curve blade]] +10/+5 melee (1d10+3/18–20); or +1 [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +12/+7 ranged (1d8+3/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
-  - **Saves**: Fort +6, Ref +4, Will +2 (+2 vs. enchantments)
-  - **Abilities**: Str 14, Dex 14, Con 10, Int 10, Wis 10, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +5
-  - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (composite longbow)
-  - **Environment**: Temperate forest
-  - **Organization**: Solitary, or with other elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])
-  - **Challenge Rating**: 6
-  - **Treasure**: NPC gear (combat gear: elixir of hiding, +1 flaming arrows (6), potion of cure moderate wounds, potion of divine favor; other gear: masterwork full plate, +1 composite longbow (+2 Str) with 40 arrows, elven curve blade, 72 gp)
-  - **Alignment**: Chaotic neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf)
+- **Hit Dice**: 8d10+8 (52 hp)
+- **Initiative**: +2
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 20 (+9 armor, +1 Dex), touch 11, flat-footed 19
+- **Base Attack**: +8; **CMB**: +10; **CMD**: 22
+- **Attack**: [[rangoric-srd/equipment/weapons/Elven Curve Blade|Elven curve blade]] +10 melee (1d10+3/18–20) or +1 [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +12 ranged (1d8+3/×3)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Elven Curve Blade|Elven curve blade]] +10/+5 melee (1d10+3/18–20); or +1 [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +12/+7 ranged (1d8+3/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
+- **Saves**: Fort +6, Ref +4, Will +2 (+2 vs. enchantments)
+- **Abilities**: Str 14, Dex 14, Con 10, Int 10, Wis 10, Cha 9
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +5
+- **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (composite longbow)
+- **Environment**: Temperate forest
+- **Organization**: Solitary, or with other elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])
+- **Challenge Rating**: 6
+- **Treasure**: NPC gear (combat gear: elixir of hiding, +1 flaming arrows (6), potion of cure moderate wounds, potion of divine favor; other gear: masterwork full plate, +1 composite longbow (+2 Str) with 40 arrows, elven curve blade, 72 gp)
+- **Alignment**: Chaotic neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 An aloof archer is an [[rangoric-srd/monsters/elf/Elf|elf]] with 8 levels of [[rangoric-srd/classes/Warrior|warrior]]. An aloof archer is disdainful of the archery skill of non-elves. Despite their heavy armor, aloof archers are remarkably stealthy. Unlike the elven scouts who move through the brush and harass invaders, these archers make up the ranged support of elven armies, firing over their comrades' heads into the thick of enemy forces, creating a hail of deadly arrows.
 

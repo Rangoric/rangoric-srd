@@ -39,16 +39,16 @@ tags: [rangoric, rangoric/spell]
 
 # Endure Elements
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Alc 1, Blr 1, Clr 1, Drd 1, Fhn 1, Hun 1, Msl 1, Pal 1, Psy 1, Rgr 1, Sha 1, Sor/Wiz 1, Spi 1, Sum 1, SumU 1, Sun 1, Tot 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 24 hours
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Alc 1, Blr 1, Clr 1, Drd 1, Fhn 1, Hun 1, Msl 1, Pal 1, Psy 1, Rgr 1, Sha 1, Sor/Wiz 1, Spi 1, Sum 1, SumU 1, Sun 1, Tot 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 24 hours
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 A creature protected by endure elements suffers no harm from being in a hot or cold environment. It can exist comfortably in conditions between –50 and 140 degrees Fahrenheit without having to make Fortitude saves). The creature’s equipment is likewise protected.
 

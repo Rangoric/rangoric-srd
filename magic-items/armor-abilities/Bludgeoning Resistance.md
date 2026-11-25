@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/magic-item]
 
 Armor with this type of enchantment is endowed with [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|damage reduction]] 5/magic, although only against bludgeoning attacks.
 
-This quality was also printed as *impact resistance* (caster level 7th).
+This quality was also printed as _impact resistance_ (caster level 7th).
 
-Moderate abjuration; CL 8th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Stoneskin|stoneskin]]*; Price +1 bonus.
+Moderate abjuration; CL 8th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Stoneskin|stoneskin]]_; Price +1 bonus.

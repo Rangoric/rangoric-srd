@@ -21,12 +21,12 @@ Dream is an enormous and equally fantastic structure that lies half buried in th
 
 **Personalities:** [[rangoric-srd/flavor/the-fey-realm/personalities/Sand Man|The Sand Man]]
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* Do not wander around in the corridors of Dream unless you are willing and able to fight the creatures of nightmares, for they are stored here along with many fantastic manifestations of dreams.
+_Common:_ Do not wander around in the corridors of Dream unless you are willing and able to fight the creatures of nightmares, for they are stored here along with many fantastic manifestations of dreams.
 
-*Uncommon:* The Citadel of Dream was once the City of Dreams, but the sands have consumed the rest of the city.
+_Uncommon:_ The Citadel of Dream was once the City of Dreams, but the sands have consumed the rest of the city.
 
-*Rare:* Delving beneath the sands and into the City of Dreams can be a highly profitable endeavor if the horrors it contains can be survived.
+_Rare:_ Delving beneath the sands and into the City of Dreams can be a highly profitable endeavor if the horrors it contains can be survived.
 
-*Obscure:* The Sand Man has a darker, more twisted reflection of himself injecting nightmares into deserving individuals. The two of them are never encountered in Dream at the same time.
+_Obscure:_ The Sand Man has a darker, more twisted reflection of himself injecting nightmares into deserving individuals. The two of them are never encountered in Dream at the same time.

@@ -28,15 +28,15 @@ tags: [rangoric, rangoric/spell]
 
 # Sacred Bond
 
-*Conjuration (Healing)*
+_Conjuration (Healing)_
 
-  - **Level**: Clr 3, Inq 2, Pal 2
-  - **Components**: V, S, F (a pair of golden bracelets worth 100 gp each worn by both you and the target)
-  - **Casting Time**: 1 round
-  - **Range**: Touch; see text
-  - **Target**: Creature touched
-  - **Duration**: 10 minutes/level (D)
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Clr 3, Inq 2, Pal 2
+- **Components**: V, S, F (a pair of golden bracelets worth 100 gp each worn by both you and the target)
+- **Casting Time**: 1 round
+- **Range**: Touch; see text
+- **Target**: Creature touched
+- **Duration**: 10 minutes/level (D)
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 To use this spell, you first touch the intended recipient, creating a sympathetic field of healing energies between you. Once the spell has been cast, you and the target may cast conjuration (healing) spells with a range of touch upon each other so long as you are within close range (25 ft. + 5 ft./2 levels). Should either you or the target remove your bracelet, the spell immediately ends.

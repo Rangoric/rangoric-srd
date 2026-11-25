@@ -25,4 +25,4 @@ When fastened about the waist, this stout length of rope grants a +2 enhancement
 
 Any effect which would cause the wearer to become [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] deals an additional 1d6 points of nonlethal damage instead. Any effect that would cause [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhaustion]] likewise causes 1d6 points of nonlethal damage, and leaves the wearer fatigued instead of [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]].
 
-Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Bear’s Endurance|bear's endurance]]*, *[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]*; Price 15,000 gp; Cost 7,500 gp; Weight 1 lb.
+Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Bear’s Endurance|bear's endurance]]_, _[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]_; Price 15,000 gp; Cost 7,500 gp; Weight 1 lb.

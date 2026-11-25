@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/trap, rangoric/gear]
 
 # Bear Trap
 
-*Tools and skill kits.* Price 2 gp; Weight 10 lb. ^stats
+_Tools and skill kits._ Price 2 gp; Weight 10 lb. ^stats
 
 Although intended for trapping large animals, bear traps work as well for trapping humanoids or monsters. The hinged jaws of the trap are attached to a chain, which in turn is secured to a spike driven into the ground to ensure that the victim cannot simply crawl away. Prying open the jaws or pulling the spike from the ground requires a DC 20 Strength check.
 

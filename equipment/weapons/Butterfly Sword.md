@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades, weapon-group/monk, 
 
 # Butterfly Sword
 
-*Martial light melee weapon (monk).* Cost 20 gp; Dmg 1d3 (S), 1d4 (M); Critical 19–20/x2; Weight 1 lb.; Type Slashing. ^stats
+_Martial light melee weapon (monk)._ Cost 20 gp; Dmg 1d3 (S), 1d4 (M); Critical 19–20/x2; Weight 1 lb.; Type Slashing. ^stats
 
 These short matching swords come in pairs, cleverly nested together to appear as a single blade. Both weapons can be drawn at the same time, and they can be separated as a free action and wielded in both hands to make wickedly effective chops and slashes. Their thin, broad blades extend just 1 foot in length. A butterfly sword has a hardwood grip covered with braided cord, and a metal D-shaped guard to protect the wielder's hand.
 

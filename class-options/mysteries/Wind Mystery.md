@@ -16,11 +16,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Wind Mystery
 
-*An [[rangoric-srd/classes/Oracle#^oracle-mystery|oracle mystery]].* The shaman’s [[rangoric-srd/class-options/spirits/Wind Spirit|wind spirit]] shares its name; a character with both must choose matching ones (see the shaman’s [[rangoric-srd/classes/Shaman#^shaman-spirit|spirit]]).
+_An [[rangoric-srd/classes/Oracle#^oracle-mystery|oracle mystery]]._ The shaman’s [[rangoric-srd/class-options/spirits/Wind Spirit|wind spirit]] shares its name; a character with both must choose matching ones (see the shaman’s [[rangoric-srd/classes/Shaman#^shaman-spirit|spirit]]).
 
 **Class Skills**: An oracle with the wind mystery adds [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Escape Artist|Escape Artist]], and [[rangoric-srd/skills/Stealth|Stealth]] to her list of class skills.
 
-**Bonus Spells**: *[[rangoric-srd/spells/Alter Winds|alter winds]]* (2nd), *[[rangoric-srd/spells/Gust of Wind|gust of wind]]* (4th), *[[rangoric-srd/spells/Cloak of Winds|cloak of winds]]* (6th), *[[rangoric-srd/spells/River of Wind|river of wind]]* (8th), *[[rangoric-srd/spells/Control Winds|control winds]]* (10th), *[[rangoric-srd/spells/Sirocco|sirocco]]* (12th), *[[rangoric-srd/spells/Control Weather|control weather]]* (14th), *[[rangoric-srd/spells/Whirlwind|whirlwind]]* (16th), *[[rangoric-srd/spells/Winds of Vengeance|winds of vengeance]]* (18th).
+**Bonus Spells**: _[[rangoric-srd/spells/Alter Winds|alter winds]]_ (2nd), _[[rangoric-srd/spells/Gust of Wind|gust of wind]]_ (4th), _[[rangoric-srd/spells/Cloak of Winds|cloak of winds]]_ (6th), _[[rangoric-srd/spells/River of Wind|river of wind]]_ (8th), _[[rangoric-srd/spells/Control Winds|control winds]]_ (10th), _[[rangoric-srd/spells/Sirocco|sirocco]]_ (12th), _[[rangoric-srd/spells/Control Weather|control weather]]_ (14th), _[[rangoric-srd/spells/Whirlwind|whirlwind]]_ (16th), _[[rangoric-srd/spells/Winds of Vengeance|winds of vengeance]]_ (18th).
 
 ## Revelations
 

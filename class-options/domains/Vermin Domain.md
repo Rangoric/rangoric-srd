@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Vermin Domain
 
-*A druid domain, which a [[rangoric-srd/classes/Druid|druid]] can take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]; clerics can’t take it.*
+_A druid domain, which a [[rangoric-srd/classes/Druid|druid]] can take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]; clerics can’t take it._
 
 ## Granted Powers
 
@@ -26,14 +26,14 @@ You see the perfection of nature in the spindly limbs and strange forms of all v
 
 ## Domain Spells
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Ant Haul\|Ant Haul]] (M) | Triples carrying capacity of a creature. |
-| 2nd | [[rangoric-srd/spells/Summon Swarm\|Summon Swarm]] | Summons swarm of bats, rats, or spiders. |
-| 3rd | [[rangoric-srd/spells/Vermin Shape I\|Vermin Shape I]] (M) | Take the form and some of the powers of a Small or Medium vermin. |
-| 4th | [[rangoric-srd/spells/Vermin Shape II\|Vermin Shape II]] (M) | As vermin shape, but Tiny or Large. |
-| 5th | [[rangoric-srd/spells/Insect Plague\|Insect Plague]] | Locust swarms attack creatures. |
-| 6th | [[rangoric-srd/spells/Swarm Skin\|Swarm Skin]] (M) | Turns your body into a swarm of vermin. |
-| 7th | [[rangoric-srd/spells/Creeping Doom\|Creeping Doom]] | Swarms of centipedes attack at your command. |
-| 8th | Verminous Transformation | Partially transform into a swarm. |
-| 9th | [[rangoric-srd/spells/Summon Nature’s Ally IX\|Summon Nature’s Ally IX]] (1d3 purple worms only) | Calls creature to fight. |
+| Level | Spell                                                                                            | Brief Description                                                 |
+| ----- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Ant Haul\|Ant Haul]] (M)                                                   | Triples carrying capacity of a creature.                          |
+| 2nd   | [[rangoric-srd/spells/Summon Swarm\|Summon Swarm]]                                               | Summons swarm of bats, rats, or spiders.                          |
+| 3rd   | [[rangoric-srd/spells/Vermin Shape I\|Vermin Shape I]] (M)                                       | Take the form and some of the powers of a Small or Medium vermin. |
+| 4th   | [[rangoric-srd/spells/Vermin Shape II\|Vermin Shape II]] (M)                                     | As vermin shape, but Tiny or Large.                               |
+| 5th   | [[rangoric-srd/spells/Insect Plague\|Insect Plague]]                                             | Locust swarms attack creatures.                                   |
+| 6th   | [[rangoric-srd/spells/Swarm Skin\|Swarm Skin]] (M)                                               | Turns your body into a swarm of vermin.                           |
+| 7th   | [[rangoric-srd/spells/Creeping Doom\|Creeping Doom]]                                             | Swarms of centipedes attack at your command.                      |
+| 8th   | Verminous Transformation                                                                         | Partially transform into a swarm.                                 |
+| 9th   | [[rangoric-srd/spells/Summon Nature’s Ally IX\|Summon Nature’s Ally IX]] (1d3 purple worms only) | Calls creature to fight.                                          |

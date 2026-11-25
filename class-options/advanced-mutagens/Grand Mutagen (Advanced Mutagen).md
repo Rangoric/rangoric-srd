@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Grand Mutagen
 
-*A [[rangoric-srd/prestige-classes/Master Chymist#^master-chymist-advanced-mutagen|master chymist’s advanced mutagen]] (Ex).*
+_A [[rangoric-srd/prestige-classes/Master Chymist#^master-chymist-advanced-mutagen|master chymist’s advanced mutagen]] (Ex)._
 
 This mutagen is identical to the [[rangoric-srd/class-options/discoveries/Grand Mutagen (Discovery)|grand mutagen]] alchemist discovery and counts as that discovery for the purpose of qualifying for other discoveries or advanced mutagens. The character must have an effective alchemist level (alchemist level plus master chymist levels) of at least 16 and must have the [[rangoric-srd/class-options/discoveries/Feral Mutagen (Discovery)|feral mutagen]] discovery or [[rangoric-srd/class-options/advanced-mutagens/Feral Mutagen (Advanced Mutagen)|feral mutagen]] advanced mutagen to select this ability.

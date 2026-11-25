@@ -21,4 +21,4 @@ tags: [rangoric, rangoric/weapon, weapon-group/axes]
 
 # Battleaxe
 
-*Martial one-handed melee weapon.* Cost 10 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 6 lb.; Type Slashing. ^stats
+_Martial one-handed melee weapon._ Cost 10 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 6 lb.; Type Slashing. ^stats

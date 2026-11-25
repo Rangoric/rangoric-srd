@@ -32,7 +32,7 @@ Area: Cone -shaped emanation centered on you
 Duration: Concentration, up to 1 min./level (D)  
 Saving Throw: None  
 Power Resistance: No  
-Power Points: 1  
+Power Points: 1
 
 You detect psionic auras. A psionic aura is given off by any active or permanent power, or during the use of any psionic feat. Characters who have levels in a psionic class, creatures with the psionic subtype, and creatures with the [[rangoric-srd/feats/Wild Talent|Wild Talent]] feat possess psionic auras. The amount of information revealed by the manifestation of this power depends on how long you study a particular area or subject.
 
@@ -44,7 +44,7 @@ You detect psionic auras. A psionic aura is given off by any active or permanent
 
 Psionically charged locations, multiple disciplines, or strong local psionic emanations may confuse or conceal weaker auras.
 
-Aura Strength: A psionic aura’s strength depends on a functioning power’s level or an item’s manifester level. If an aura falls into more than one category, detect psionics indicates the stronger of the two. Detection of an overwhelming aura (see the accompanying table) dazes you for 1 round and the power ends.  
+Aura Strength: A psionic aura’s strength depends on a functioning power’s level or an item’s manifester level. If an aura falls into more than one category, detect psionics indicates the stronger of the two. Detection of an overwhelming aura (see the accompanying table) dazes you for 1 round and the power ends.
 
 | Power or Item                    | ————————— Aura Power —————————: Faint | ————————— Aura Power —————————: Moderate | ————————— Aura Power —————————: Strong | ————————— Aura Power —————————: Overwhelming |
 | -------------------------------- | ------------------------------------- | ---------------------------------------- | -------------------------------------- | -------------------------------------------- |

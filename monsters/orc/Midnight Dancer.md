@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Midnight Dancer
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human, Orc)
-  - **Hit Dice**: 9d8+4d8+9 (71 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 20 (+5 armor, +1 deflection, +2 Dex, +1 dodge, +1 natural), touch 14, flat-footed 17
-  - **Base Attack**: +9; **CMB**: +11; **CMD**: 25
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Dagger|dagger]] +12 melee (1d4+3/19–20) or +1 [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +12 ranged (1d8+1/19–20)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Dagger|dagger]] +12/+7 melee (1d4+3/19–20); or +1 [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +12 ranged (1d8+1/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Bard#^bardic-music|Bardic performance]] 24 rounds/day (move action; countersong, dirge of doom, distraction, fascinate, inspire competence +3, inspire courage +2, inspire greatness, suggestion)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 90 ft., *[[rangoric-srd/spells/See Invisibility|see invisibility]]*, [[rangoric-srd/prestige-classes/Shadowdancer|evasion]], [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/prestige-classes/Shadowdancer|uncanny dodge]], [[rangoric-srd/classes/Bard|bardic knowledge]] +4, [[rangoric-srd/prestige-classes/Shadowdancer|hide in plain sight]], [[rangoric-srd/classes/Bard#^bard-lore-master|lore master]] 1/day, [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/prestige-classes/Shadowdancer|rogue talent]] ([[rangoric-srd/class-options/rogue-talents/Fast Stealth (Rogue Talent)|fast stealth]]), [[rangoric-srd/prestige-classes/Shadowdancer|shadow jump]] (40 feet/day), [[rangoric-srd/prestige-classes/Shadowdancer|summon shadow]], [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (act, dance), [[rangoric-srd/races/Half-Orc|weapon familiarity]]
-  - **Saves**: Fort +4, Ref +14, Will +8 (+4 vs. bardic performance, language-dependent, and sonic)
-  - **Abilities**: Str 14, Dex 14, Con 10, Int 15, Wis 8, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +19, [[rangoric-srd/skills/Emulation|Emulation]] +17, [[rangoric-srd/skills/Engineering|Engineering]] +12, [[rangoric-srd/skills/Imitation|Imitation]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Perception|Perception]] +15, Perform (act) +15, Perform (dance) +14, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +10, [[rangoric-srd/skills/Society|Society]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +23
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment)
-  - **Environment**: Temperate hills, mountains, or underground
-  - **Organization**: Solitary, or with other half-orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])
-  - **Challenge Rating**: 12
-  - **Treasure**: NPC gear (combat gear: +1 human-bane bolts (5), +1 undead-bane bolts (5); other gear: +3 leather armor, +1 dagger, +1 light crossbow with 20 bolts, dagger, amulet of natural armor +1, cloak of elvenkind, headband of alluring charisma +2, ring of protection +1, 1,038 gp)
-  - **Alignment**: Neutral evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human, Orc)
+- **Hit Dice**: 9d8+4d8+9 (71 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 20 (+5 armor, +1 deflection, +2 Dex, +1 dodge, +1 natural), touch 14, flat-footed 17
+- **Base Attack**: +9; **CMB**: +11; **CMD**: 25
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Dagger|dagger]] +12 melee (1d4+3/19–20) or +1 [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +12 ranged (1d8+1/19–20)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Dagger|dagger]] +12/+7 melee (1d4+3/19–20); or +1 [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +12 ranged (1d8+1/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Bard#^bardic-music|Bardic performance]] 24 rounds/day (move action; countersong, dirge of doom, distraction, fascinate, inspire competence +3, inspire courage +2, inspire greatness, suggestion)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 90 ft., _[[rangoric-srd/spells/See Invisibility|see invisibility]]_, [[rangoric-srd/prestige-classes/Shadowdancer|evasion]], [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/prestige-classes/Shadowdancer|uncanny dodge]], [[rangoric-srd/classes/Bard|bardic knowledge]] +4, [[rangoric-srd/prestige-classes/Shadowdancer|hide in plain sight]], [[rangoric-srd/classes/Bard#^bard-lore-master|lore master]] 1/day, [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/prestige-classes/Shadowdancer|rogue talent]] ([[rangoric-srd/class-options/rogue-talents/Fast Stealth (Rogue Talent)|fast stealth]]), [[rangoric-srd/prestige-classes/Shadowdancer|shadow jump]] (40 feet/day), [[rangoric-srd/prestige-classes/Shadowdancer|summon shadow]], [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (act, dance), [[rangoric-srd/races/Half-Orc|weapon familiarity]]
+- **Saves**: Fort +4, Ref +14, Will +8 (+4 vs. bardic performance, language-dependent, and sonic)
+- **Abilities**: Str 14, Dex 14, Con 10, Int 15, Wis 8, Cha 18
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +19, [[rangoric-srd/skills/Emulation|Emulation]] +17, [[rangoric-srd/skills/Engineering|Engineering]] +12, [[rangoric-srd/skills/Imitation|Imitation]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Perception|Perception]] +15, Perform (act) +15, Perform (dance) +14, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +10, [[rangoric-srd/skills/Society|Society]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +23
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment)
+- **Environment**: Temperate hills, mountains, or underground
+- **Organization**: Solitary, or with other half-orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])
+- **Challenge Rating**: 12
+- **Treasure**: NPC gear (combat gear: +1 human-bane bolts (5), +1 undead-bane bolts (5); other gear: +3 leather armor, +1 dagger, +1 light crossbow with 20 bolts, dagger, amulet of natural armor +1, cloak of elvenkind, headband of alluring charisma +2, ring of protection +1, 1,038 gp)
+- **Alignment**: Neutral evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A midnight dancer is a [[rangoric-srd/monsters/orc/Orc#Half-Orcs|half-orc]] with 9 levels of [[rangoric-srd/classes/Bard|bard]] and 4 levels of [[rangoric-srd/prestige-classes/Shadowdancer|shadowdancer]]. These bards grant support though a subtle dance of shadows.
 
@@ -77,4 +77,4 @@ A midnight dancer speaks Common, Goblin, and Orc.
 
 **Shadowdancer Spell-Like Abilities** (CL 4th; concentration +8): 2/day—[[rangoric-srd/prestige-classes/Shadowdancer|shadow illusion]] (DC 15); 1/day—[[rangoric-srd/prestige-classes/Shadowdancer|shadow call]] (DC 18).
 
-**Bard spells known** (CL 9th; concentration +13): 3rd (4/day)—*[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]*, *[[rangoric-srd/spells/Deep Slumber|deep slumber]]* (DC 18), *[[rangoric-srd/spells/Gaseous Form|gaseous form]]*, *[[rangoric-srd/spells/See Invisibility|see invisibility]]*; 2nd (5/day)—*[[rangoric-srd/spells/Darkness|darkness]]*, *[[rangoric-srd/spells/Invisibility|invisibility]]*, *[[rangoric-srd/spells/Silence|silence]]* (DC 16), *[[rangoric-srd/spells/Suggestion|suggestion]]* (DC 17); 1st (6/day)—*[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]*, *[[rangoric-srd/spells/Confusion, Lesser|lesser confusion]]* (DC 16), *[[rangoric-srd/spells/Remove Fear|remove fear]]*, *[[rangoric-srd/spells/Silent Image|silent image]]* (DC 15), *[[rangoric-srd/spells/Sleep|sleep]]* (DC 16); 0 (at will)—*[[rangoric-srd/spells/Daze|daze]]* (DC 15), *[[rangoric-srd/spells/Ghost Sound|ghost sound]]* (DC 14), *[[rangoric-srd/spells/Lullaby|lullaby]]* (DC 15), *[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Message|message]]*, *[[rangoric-srd/spells/Open-Close|open/close]]*.
+**Bard spells known** (CL 9th; concentration +13): 3rd (4/day)—_[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]_, _[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (DC 18), _[[rangoric-srd/spells/Gaseous Form|gaseous form]]_, _[[rangoric-srd/spells/See Invisibility|see invisibility]]_; 2nd (5/day)—_[[rangoric-srd/spells/Darkness|darkness]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Silence|silence]]_ (DC 16), _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 17); 1st (6/day)—_[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Confusion, Lesser|lesser confusion]]_ (DC 16), _[[rangoric-srd/spells/Remove Fear|remove fear]]_, _[[rangoric-srd/spells/Silent Image|silent image]]_ (DC 15), _[[rangoric-srd/spells/Sleep|sleep]]_ (DC 16); 0 (at will)—_[[rangoric-srd/spells/Daze|daze]]_ (DC 15), _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 14), _[[rangoric-srd/spells/Lullaby|lullaby]]_ (DC 15), _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Message|message]]_, _[[rangoric-srd/spells/Open-Close|open/close]]_.

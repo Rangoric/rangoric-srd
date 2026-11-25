@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # No Sleep
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “no sleep”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “no sleep”, on the Special Qualities line.
 
 A rokurokubi does not need to sleep and is immune to all sleep effects. The [[rangoric-srd/monsters/Rokurokubi|rokurokubi]] has it.

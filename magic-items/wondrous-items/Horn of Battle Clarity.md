@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/magic-item]
 
 The call of this hollowed-out animal horn rallies nearby creatures to battle. When the horn is blown, all creatures within 60 feet who have not yet acted in combat are no longer considered [[rangoric-srd/rules/Special Abilities and Conditions#^flat-footed|flat-footed]]. The horn has no effect on other conditions or abilities that treat a creature as flat-footed.
 
-A [[rangoric-srd/classes/Barbarian|barbarian]] who sounds a *horn of battle clarity* may spend 2 rounds of [[rangoric-srd/classes/Barbarian#^barbarian-rage|rage]] to act as if she had the [[rangoric-srd/class-options/rage-powers/Superstition (Rage Power)|superstition]] [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] for the remainder of that battle.
+A [[rangoric-srd/classes/Barbarian|barbarian]] who sounds a _horn of battle clarity_ may spend 2 rounds of [[rangoric-srd/classes/Barbarian#^barbarian-rage|rage]] to act as if she had the [[rangoric-srd/class-options/rage-powers/Superstition (Rage Power)|superstition]] [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] for the remainder of that battle.
 
-Faint enchantment; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Rage|rage]]*; Price 6,000 gp; Cost 3,000 gp; Weight 2 lbs.
+Faint enchantment; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Rage|rage]]_; Price 6,000 gp; Cost 3,000 gp; Weight 2 lbs.

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Thunderbolt (Tempest Behemoth)
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “thunderbolt”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “thunderbolt”, on the Special Attacks line.
 
 As a swift action once every 1d4 rounds, the creature can shoot a bolt of lightning that deals 15d6 points of electricity damage and 15d6 points of sonic damage, and that causes permanent deafness in a 200-foot line (DC 34 Reflex save halves damage and negates deafness). The save DC is Constitution-based. The [[rangoric-srd/monsters/behemoth/Tempest Behemoth|tempest behemoth]] has it.

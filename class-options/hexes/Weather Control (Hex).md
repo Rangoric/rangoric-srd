@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Weather Control
 
-*A [[rangoric-srd/classes/Witch#^witch-major-hex|major hex]] (Su).*
+_A [[rangoric-srd/classes/Witch#^witch-major-hex|major hex]] (Su)._
 
-A witch with this hex can use *[[rangoric-srd/spells/Control Weather|control weather]]* once per day, but creating the weather takes 1 full hour of chanting, dancing, and communing with her familiar.
+A witch with this hex can use _[[rangoric-srd/spells/Control Weather|control weather]]_ once per day, but creating the weather takes 1 full hour of chanting, dancing, and communing with her familiar.

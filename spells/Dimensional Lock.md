@@ -26,16 +26,16 @@ tags: [rangoric, rangoric/spell]
 
 # Dimensional Lock
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Clr 8, Psy 8, Sor/Wiz 8, Sum 6
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Area**: 20-ft.-radius emanation centered on a point in space
-  - **Duration**: One day/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Clr 8, Psy 8, Sor/Wiz 8, Sum 6
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Area**: 20-ft.-radius emanation centered on a point in space
+- **Duration**: One day/level
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 You create a shimmering emerald barrier that completely blocks extradimensional travel. Forms of movement barred include astral projection, blink, dimension door, ethereal jaunt, etherealness, gate, maze, plane shift, shadow walk, teleport, and similar spell-like or psionic abilities. Once dimensional lock is in place, extradimensional travel into or out of the area is not possible.
 

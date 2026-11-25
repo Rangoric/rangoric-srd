@@ -28,7 +28,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Battle Host
 
-*An [[rangoric-srd/classes/Occultist#^occultist-archetypes|occultist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_An [[rangoric-srd/classes/Occultist#^occultist-archetypes|occultist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A battle host bonds with a weapon, suit of armor or shield, and channels psychic energy through it.
 
@@ -44,6 +44,6 @@ A battle host bonds with a weapon, suit of armor or shield, and channels psychic
 
 **Bonus Feats**: At 4th, 8th, 12th, and 16th levels, a battle host gains a bonus feat in addition to those gained from normal advancement. These bonus feats must be selected from those listed as combat feats. The battle host must meet the prerequisites of these bonus feats. This ability replaces [[rangoric-srd/classes/Occultist#^occultist-shift-focus|shift focus]], [[rangoric-srd/classes/Occultist#^occultist-magic-circles|magic circles]], [[rangoric-srd/classes/Occultist#^occultist-binding-circles|binding circles]], and [[rangoric-srd/classes/Occultist#^occultist-fast-circles|fast circles]].
 
-**Spirit Warrior (Sp)**: At 5th level, a battle host can call forth the spirit of a dead warrior who once owned his bonded item. Calling the spirit is a standard action, and unlike the use of most spell-like abilities, it doesn't provoke an attack of opportunity. This ability functions as *[[rangoric-srd/spells/Spiritual Ally|spiritual ally]]*, using the battle host's occultist level as his caster level and his Intelligence modifier instead of his Wisdom modifier to determine the spell's effects. The battle host can summon a spirit warrior once per day at 5th level, plus one additional time per day for every 4 occultist levels he possesses beyond 5th. This ability replaces [[rangoric-srd/classes/Occultist#^occultist-aura-sight|aura sight]].
+**Spirit Warrior (Sp)**: At 5th level, a battle host can call forth the spirit of a dead warrior who once owned his bonded item. Calling the spirit is a standard action, and unlike the use of most spell-like abilities, it doesn't provoke an attack of opportunity. This ability functions as _[[rangoric-srd/spells/Spiritual Ally|spiritual ally]]_, using the battle host's occultist level as his caster level and his Intelligence modifier instead of his Wisdom modifier to determine the spell's effects. The battle host can summon a spirit warrior once per day at 5th level, plus one additional time per day for every 4 occultist levels he possesses beyond 5th. This ability replaces [[rangoric-srd/classes/Occultist#^occultist-aura-sight|aura sight]].
 
 **Heroic Splendor (Su)**: At 6th level, a battle host can draw power from his bonded item to imbue himself with superhuman strength, agility, or resilience. As a swift action, a battle host can grant himself a +4 insight bonus to Strength, Dexterity, or Constitution for 1 minute. The battle host can use this ability once per day at 6th level, plus one additional time per day for every 4 occultist levels he possesses beyond 6th. If he activates heroic splendor again before the duration expires, the new use of heroic splendor replaces the old use. This ability replaces [[rangoric-srd/classes/Occultist#^occultist-outside-contact|outside contact]].

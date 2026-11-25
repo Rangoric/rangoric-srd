@@ -36,15 +36,15 @@ tags: [rangoric, rangoric/spell]
 
 # Rain of Frogs
 
-*Conjuration (Summoning)*
+_Conjuration (Summoning)_
 
-  - **Level**: Brd 3, Drd 3, Hun 3, Psy 3, Sha 4, Skd 3, Sor/Wiz 3, Sum 3, SumU 3, Wit 3
-  - **Components**: V, S, M/DF (a square of red cloth)
-  - **Casting Time**: 1 round
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: One swarm of poisonous frogs
-  - **Duration**: Concentration + 2 rounds
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Brd 3, Drd 3, Hun 3, Psy 3, Sha 4, Skd 3, Sor/Wiz 3, Sum 3, SumU 3, Wit 3
+- **Components**: V, S, M/DF (a square of red cloth)
+- **Casting Time**: 1 round
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: One swarm of poisonous frogs
+- **Duration**: Concentration + 2 rounds
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-This spell functions as *[[rangoric-srd/spells/Summon Swarm|summon swarm]]*, except you summon a swarm of poisonous frogs. This swarm has the statistics of a centipede swarm, except it has the animal type and its poison deals Constitution damage instead of Dexterity damage.
+This spell functions as _[[rangoric-srd/spells/Summon Swarm|summon swarm]]_, except you summon a swarm of poisonous frogs. This swarm has the statistics of a centipede swarm, except it has the animal type and its poison deals Constitution damage instead of Dexterity damage.

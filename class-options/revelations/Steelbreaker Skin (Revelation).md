@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Steelbreaker Skin
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Stone Mystery|stone]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Stone Mystery|stone]] mystery._
 
 As a standard action, you can harden your flesh so that weapons that strike you are damaged or destroyed. Anytime a melee or ranged weapon strikes you, the weapon takes an amount of damage equal to your oracle level. This ability does not prevent the weapon from harming you unless the damage destroys the weapon attacking you. You can use this ability once per day, but the duration is 1 minute/level. You must be at least 7th level to select this revelation. At 15th level, the damage from this ability ignores up to 10 points of hardness.

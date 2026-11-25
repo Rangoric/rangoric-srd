@@ -20,8 +20,8 @@ tags: [rangoric, rangoric/magic-item]
 
 # Seer's Tea
 
-This rich tea can be made from any number of herbs. When the tea is brewed without a filter and imbibed, the drinker can read the patterns in the leaves remaining at the bottom of her cup, gaining the benefits of an *[[rangoric-srd/spells/Augury|augury]]* spell.
+This rich tea can be made from any number of herbs. When the tea is brewed without a filter and imbibed, the drinker can read the patterns in the leaves remaining at the bottom of her cup, gaining the benefits of an _[[rangoric-srd/spells/Augury|augury]]_ spell.
 
-Additionally, the unbrewed tea can be used as an extra material component when casting *[[rangoric-srd/spells/Augury|augury]]*, removing the need for a focus. In this case, the caster instead reveals information as if she had cast *[[rangoric-srd/spells/Divination|divination]]* instead.
+Additionally, the unbrewed tea can be used as an extra material component when casting _[[rangoric-srd/spells/Augury|augury]]_, removing the need for a focus. In this case, the caster instead reveals information as if she had cast _[[rangoric-srd/spells/Divination|divination]]_ instead.
 
-Faint divination; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Augury|augury]]* or *[[rangoric-srd/spells/Divination|divination]]*; Price 550 gp; Cost 275 gp.
+Faint divination; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Augury|augury]]_ or _[[rangoric-srd/spells/Divination|divination]]_; Price 550 gp; Cost 275 gp.

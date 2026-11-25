@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Conserving
 
-This ability cannot be placed on firearms. Only projectile weapons can be made *conserving*. When the wielder misses with a ranged attack, the fired ammunition teleports unharmed to its quiver, case, or pouch. If the ammunition in question would be destroyed for other reasons than merely being launched, such as an arrow that breaks apart in flight, this special ability does not function and the ammunition is destroyed as normal. Effects that block teleportation prevent this special ability from working.
+This ability cannot be placed on firearms. Only projectile weapons can be made _conserving_. When the wielder misses with a ranged attack, the fired ammunition teleports unharmed to its quiver, case, or pouch. If the ammunition in question would be destroyed for other reasons than merely being launched, such as an arrow that breaks apart in flight, this special ability does not function and the ammunition is destroyed as normal. Effects that block teleportation prevent this special ability from working.
 
-Moderate conjuration; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Abundant Ammunition|abundant ammunition]]*, *[[rangoric-srd/spells/Dimension Door|dimension door]]*; Price +1 bonus.
+Moderate conjuration; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Abundant Ammunition|abundant ammunition]]_, _[[rangoric-srd/spells/Dimension Door|dimension door]]_; Price +1 bonus.

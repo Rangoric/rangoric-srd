@@ -25,4 +25,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This belt has a large silver buckle, usually depicting the image of a tiger. The belt grants the wearer an enhancement bonus to Dexterity of +2, +4, or +6. Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
 
-Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Cat’s Grace|cat's grace]]*; Price 4,000 gp; Cost 2,000 gp; Weight 1 lb.
+Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_; Price 4,000 gp; Cost 2,000 gp; Weight 1 lb.

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Ratfolk Barbarian
 
-*A [[rangoric-srd/races/Ratfolk|ratfolk]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Barbarian#^barbarian-class-bonuses|barbarian]] level.*
+_A [[rangoric-srd/races/Ratfolk|ratfolk]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Barbarian#^barbarian-class-bonuses|barbarian]] level._
 
 When [[rangoric-srd/classes/Barbarian#^barbarian-rage|raging]], add +1/4 to the barbarian's [[rangoric-srd/races/Ratfolk|swarming]] trait's [[rangoric-srd/combat/Combat Modifiers#Flanking|flanking]] bonus on attack rolls.

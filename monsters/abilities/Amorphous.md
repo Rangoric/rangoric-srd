@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Amorphous
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “amorphous”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “amorphous”, on the Special Qualities line.
 
 The creature's body is malleable and shapeless. It is immune to precision damage (like sneak attacks) and critical hits.

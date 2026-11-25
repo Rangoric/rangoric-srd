@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Universal Antivenom
 
-*Chymical; Special*
+_Chymical; Special_
 
 This antivenom is a universal liquid antidote for all nonmagical and animal-based poisons. It is ranked as a chymical because it can be administered either topically as an unguent or orally as an ingestible. If ingested, it provides an additional Fort save against poisons with a +9 circumstance bonus, and will flush the person’s system of the poison in 1d12 minutes. If applied as an unguent directly onto poisoned wounds, the Fort Save is only at +3 and the system will be flushed of poisons in an hour, but the antivenom can be used on two victims as it only takes two ounces to achieve the effects noted above.
 

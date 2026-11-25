@@ -36,16 +36,16 @@ tags: [rangoric, rangoric/spell]
 
 # Euphoric Tranquility
 
-*Enchantment (Compulsion) \[Emotion, Mind-affecting\]*
+_Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
 
-  - **Level**: Brd 6, Clr 8, Drd 8, Mes 6, Psy 8, Skd 6, Sor/Wiz 8
-  - **Components**: V, S, M/DF (a poppy flower)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 round/level
-  - **Saving Throw**: None and Will partial (see below)
-  - **Spell Resistance**: Yes
+- **Level**: Brd 6, Clr 8, Drd 8, Mes 6, Psy 8, Skd 6, Sor/Wiz 8
+- **Components**: V, S, M/DF (a poppy flower)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 round/level
+- **Saving Throw**: None and Will partial (see below)
+- **Spell Resistance**: Yes
 
 A creature under the effect of this enchantment enters a state of euphoria. The target treats all creatures as dear friends and abhors violence, but may rise up to protect itself if violence is perpetrated against it. Until the end of the spell's duration, the creature's speed is halved, and it cannot make attacks or cast spells. If the creature is attacked, it gets a Will saving throw. If the saving throw succeeds, the creature can make act normally for 1 round. If the saving throw fails, the creature moves half its speed away from the attacker as its next action.
 

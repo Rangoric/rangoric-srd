@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Vishkanya
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Vishkanya)
-  - **Hit Dice**: 1d8+3 (11 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 13 (+3 Dex), touch 13, flat-footed 10
-  - **Base Attack**: +0; **CMB**: +1; **CMD**: 14
-  - **Attack**: [[rangoric-srd/equipment/weapons/Kukri|Kukri]] +1 melee (1d4+1/18–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +3 ranged (1d2+1 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Kukri|Kukri]] +1 melee (1d4+1/18–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]); or [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +3 ranged (1d2+1 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]] (DC 12), sneak attack +1d6
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Poison|poison]] use, [[rangoric-srd/monsters/abilities/Toxic|toxic]]
-  - **Saves**: Fort +2, Ref +5, Will +0 (+1 vs. poison)
-  - **Abilities**: Str 13, Dex 17, Con 14, Int 8, Wis 10, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +9, [[rangoric-srd/skills/Imitation|Imitation]] +5, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +9
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, or squad (3–8)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: NPC gear (kukri, 10 shuriken, other treasure)
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Vishkanya)
+- **Hit Dice**: 1d8+3 (11 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 13 (+3 Dex), touch 13, flat-footed 10
+- **Base Attack**: +0; **CMB**: +1; **CMD**: 14
+- **Attack**: [[rangoric-srd/equipment/weapons/Kukri|Kukri]] +1 melee (1d4+1/18–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +3 ranged (1d2+1 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Kukri|Kukri]] +1 melee (1d4+1/18–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]); or [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +3 ranged (1d2+1 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]] (DC 12), sneak attack +1d6
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Poison|poison]] use, [[rangoric-srd/monsters/abilities/Toxic|toxic]]
+- **Saves**: Fort +2, Ref +5, Will +0 (+1 vs. poison)
+- **Abilities**: Str 13, Dex 17, Con 14, Int 8, Wis 10, Cha 12
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +9, [[rangoric-srd/skills/Imitation|Imitation]] +5, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
+- **Environment**: Any
+- **Organization**: Solitary, pair, or squad (3–8)
+- **Challenge Rating**: 1/2
+- **Treasure**: NPC gear (kukri, 10 shuriken, other treasure)
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Vishkanyas are a race of exotic humanoids known for their guile and affinity for poisons of all kinds. A vishkanya's flesh is made up of fine scales that from a distance of even a few feet look just like particularly smooth skin. These scales are usually a single dark color, although some of them have complex patterns like stripes or even spirals. A vishkanya's tongue is forked like a serpent's tongue, and its eyes lack visible pupils.
 
@@ -76,7 +76,7 @@ Vishkanyas speak Common and Vishkanya.
 
 **[[rangoric-srd/monsters/abilities/Toxic|Toxic]] (Ex)**: A number of times per day equal to its Constitution modifier (minimum 1/day), a vishkanya can envenom a weapon that it wields with its toxic saliva or blood (using blood requires the vishkanya to be injured when it uses this ability). Applying venom in this way is a swift action.
 
-*Vishkanya Venom*: A number of times per day equal to its Constitution modifier (minimum 1/day), a vishkanya can envenom a weapon that it wields with its toxic saliva or blood (using blood requires the vishkanya to be injured when it uses this ability). Applying venom in this way is a swift action. [[rangoric-srd/rules/afflictions/Vishkanya Venom|Vishkanya Venom]]: injury; *save* Fort DC 10 + 1/2 the vishkanya's Hit Dice + the vishkanya's Constitution modifier; *frequency* 1/round for 6 rounds; *effect* 1d2 Dex; *cure* 1 save.
+_Vishkanya Venom_: A number of times per day equal to its Constitution modifier (minimum 1/day), a vishkanya can envenom a weapon that it wields with its toxic saliva or blood (using blood requires the vishkanya to be injured when it uses this ability). Applying venom in this way is a swift action. [[rangoric-srd/rules/afflictions/Vishkanya Venom|Vishkanya Venom]]: injury; _save_ Fort DC 10 + 1/2 the vishkanya's Hit Dice + the vishkanya's Constitution modifier; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Dex; _cure_ 1 save.
 
 ### Vishkanya as Characters
 

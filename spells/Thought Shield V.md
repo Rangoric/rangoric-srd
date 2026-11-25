@@ -23,15 +23,15 @@ tags: [rangoric, rangoric/spell]
 
 # Thought Shield V
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Psy 6
-  - **Components**: V
-  - **Casting Time**: 1 immediate action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level; see text
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Psy 6
+- **Components**: V
+- **Casting Time**: 1 immediate action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level; see text
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-This functions as *[[rangoric-srd/spells/Thought Shield IV|thought shield IV]]*, except as noted above. This spell immediately ends if you fail a Will saving throw against a mind-affecting effect. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].
+This functions as _[[rangoric-srd/spells/Thought Shield IV|thought shield IV]]_, except as noted above. This spell immediately ends if you fail a Will saving throw against a mind-affecting effect. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].

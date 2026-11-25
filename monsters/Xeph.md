@@ -40,8 +40,8 @@ tags: [rangoric, rangoric/monster]
 
 # Xeph
 
-Xeph, 1st-Level Warrior      
-Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Psionic, Xeph)      
+Xeph, 1st-Level Warrior     
+Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Psionic, Xeph)     
 **Hit Dice:** 1d10+1 (6 hp)     
 **Initiative:** +1     
 **Speed:** 30 ft. (6 squares)     
@@ -63,7 +63,7 @@ Full **Attack:** Rapier +2 melee (1d6/18-20) or longbow +2 ranged (1d8/x3)   �
 Treasure: Standard     
 **Alignment:** Usually neutral     
 **Advancement:** By character class     
-**Level Adjustment:** +0     
+**Level Adjustment:** +0   
 
 Xephs speak their own language and Common.
 
@@ -77,22 +77,22 @@ The xeph warrior presented here had the following ability scores before racial a
 
 Xeph characters possess the following racial traits.
 
-  - \-2 Strength, +2 Dexterity.
+- \-2 Strength, +2 Dexterity.
 
-  - Medium size.
+- Medium size.
 
-  - Xeph base land speed is 30 feet.
+- Xeph base land speed is 30 feet.
 
-  - Darkvision out to 60 feet.
+- Darkvision out to 60 feet.
 
-  - Naturally Psionic: Xephs gain 1 bonus power point at 1st level.
+- Naturally Psionic: Xephs gain 1 bonus power point at 1st level.
 
-  - \+1 racial bonus on saving throws against powers, spells, and spell-like effects.
+- \+1 racial bonus on saving throws against powers, spells, and spell-like effects.
 
-  - Special Qualities (see above): Burst.
+- Special Qualities (see above): Burst.
 
-  - Racial Feats: A xeph character gains feats according to his or her character class.
+- Racial Feats: A xeph character gains feats according to his or her character class.
 
-  - Automatic Languages: Xeph, Common.
+- Automatic Languages: Xeph, Common.
 
-  - Level Adjustment: +0.
+- Level Adjustment: +0.

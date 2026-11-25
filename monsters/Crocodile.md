@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Crocodile
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 3d8+9 (22 hp)
-  - **Initiative**: +1
-  - **Speed**: 20 ft. (4 squares), swim 30 ft.; sprint
-  - **Armor Class**: 14 (+1 Dex, +4 natural, –1 size), touch 10, flat-footed 13
-  - **Base Attack**: +2; **CMB**: +7 (+11 grapple); **CMD**: 18 (22 vs. trip)
-  - **Attack**: Bite +5 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or tail slap +5 melee (1d12+2)
-  - **Full Attack**: Bite +5 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and tail slap +0 melee (1d12+2)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: Death roll (1d8+6 plus [[rangoric-srd/monsters/abilities/Trip|trip]])
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]]
-  - **Saves**: Fort +6, Ref +4, Will +2
-  - **Abilities**: Str 19, Dex 12, Con 17, Int 1, Wis 12, Cha 2
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +5 (+13 in water)
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Stealth)
-  - **Environment**: Warm rivers and marshes
-  - **Organization**: Solitary, pair, or colony (3–12)
-  - **Challenge Rating**: 2
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 4–5 HD (Medium)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 3d8+9 (22 hp)
+- **Initiative**: +1
+- **Speed**: 20 ft. (4 squares), swim 30 ft.; sprint
+- **Armor Class**: 14 (+1 Dex, +4 natural, –1 size), touch 10, flat-footed 13
+- **Base Attack**: +2; **CMB**: +7 (+11 grapple); **CMD**: 18 (22 vs. trip)
+- **Attack**: Bite +5 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or tail slap +5 melee (1d12+2)
+- **Full Attack**: Bite +5 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and tail slap +0 melee (1d12+2)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: Death roll (1d8+6 plus [[rangoric-srd/monsters/abilities/Trip|trip]])
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]]
+- **Saves**: Fort +6, Ref +4, Will +2
+- **Abilities**: Str 19, Dex 12, Con 17, Int 1, Wis 12, Cha 2
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +5 (+13 in water)
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Stealth)
+- **Environment**: Warm rivers and marshes
+- **Organization**: Solitary, pair, or colony (3–12)
+- **Challenge Rating**: 2
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 4–5 HD (Medium)
+- **Level Adjustment**: —
 
 A crocodile is a primeval reptile that dwells in swamps or along the banks of rivers, a habitat that often puts it in violent contact with unsuspecting prey that come to the water's edge to drink.
 

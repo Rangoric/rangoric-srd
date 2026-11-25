@@ -29,15 +29,15 @@ tags: [rangoric, rangoric/spell]
 
 # Speak with Soul
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Apl 4, Clr 6, Med 4, Pal 4, Spi 6
-  - **Components**: V, S, M (a drop of candle wax)
-  - **Casting Time**: 1 minute
-  - **Range**: 10 ft.
-  - **Target**: See text
-  - **Duration**: Caster level minute(s)
-  - **Saving Throw**: Will negates; see text
-  - **Spell Resistance**: No
+- **Level**: Apl 4, Clr 6, Med 4, Pal 4, Spi 6
+- **Components**: V, S, M (a drop of candle wax)
+- **Casting Time**: 1 minute
+- **Range**: 10 ft.
+- **Target**: See text
+- **Duration**: Caster level minute(s)
+- **Saving Throw**: Will negates; see text
+- **Spell Resistance**: No
 
-You commune with the soul of a dead creature. To cast this spell, you must be at the soul's place of death or be in the soul's presence, whether it is contained in a receptacle, powers an intelligent magic item, or other possibilities. The soul can attempt a Will save to resist the spell as if it were alive. A soul contacted this way can speak normally in any language it knows. Unlike *[[rangoric-srd/spells/Speak with Dead|speak with dead]]* and similar spells, you are not limited to asking questions and can engage in normal conversation with the soul (and vice versa). The soul isn't an undead creature and isn't compelled to speak or be truthful. Generally, the soul only knows what it knew in life, although souls that persisted with awareness of their surroundings after death may have more to offer.
+You commune with the soul of a dead creature. To cast this spell, you must be at the soul's place of death or be in the soul's presence, whether it is contained in a receptacle, powers an intelligent magic item, or other possibilities. The soul can attempt a Will save to resist the spell as if it were alive. A soul contacted this way can speak normally in any language it knows. Unlike _[[rangoric-srd/spells/Speak with Dead|speak with dead]]_ and similar spells, you are not limited to asking questions and can engage in normal conversation with the soul (and vice versa). The soul isn't an undead creature and isn't compelled to speak or be truthful. Generally, the soul only knows what it knew in life, although souls that persisted with awareness of their surroundings after death may have more to offer.

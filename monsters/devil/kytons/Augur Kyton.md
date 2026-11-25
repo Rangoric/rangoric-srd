@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Augur Kyton
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Evil, Extraplanar, Kyton, Lawful)
-  - **Hit Dice**: 3d10+3 (19 hp)
-  - **Initiative**: +7
-  - **Speed**: 20 ft. (4 squares), fly 50 ft. (perfect)
-  - **Armor Class**: 17 (+3 Dex, +2 natural, +2 size), touch 15, flat-footed 14
-  - **Base Attack**: +3; **CMB**: +4; **CMD**: 13 (can't be tripped)
-  - **Attack**: Gore +4 melee (1d4–1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
-  - **Full Attack**: Gore +4 melee (1d4–1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d2), [[rangoric-srd/monsters/abilities/Unnerving Gaze (Augur Kyton)|unnerving gaze]] (30 ft., DC 9), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., deathwatch, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 2 (good weapons and spells, silver weapons), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good or silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold
-  - **Saves**: Fort +2, Ref +8, Will +4
-  - **Abilities**: Str 8, Dex 17, Con 12, Int 13, Wis 12, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Deception|Deception]] +4, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +17
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
-  - **Environment**: Any (Plane of Shadow)
-  - **Organization**: Solitary, pair, pack (3–5), or squad (6–8)
-  - **Challenge Rating**: 2
-  - **Treasure**: Standard
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Evil, Extraplanar, Kyton, Lawful)
+- **Hit Dice**: 3d10+3 (19 hp)
+- **Initiative**: +7
+- **Speed**: 20 ft. (4 squares), fly 50 ft. (perfect)
+- **Armor Class**: 17 (+3 Dex, +2 natural, +2 size), touch 15, flat-footed 14
+- **Base Attack**: +3; **CMB**: +4; **CMD**: 13 (can't be tripped)
+- **Attack**: Gore +4 melee (1d4–1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
+- **Full Attack**: Gore +4 melee (1d4–1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d2), [[rangoric-srd/monsters/abilities/Unnerving Gaze (Augur Kyton)|unnerving gaze]] (30 ft., DC 9), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., deathwatch, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 2 (good weapons and spells, silver weapons), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good or silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold
+- **Saves**: Fort +2, Ref +8, Will +4
+- **Abilities**: Str 8, Dex 17, Con 12, Int 13, Wis 12, Cha 7
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Deception|Deception]] +4, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +17
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
+- **Environment**: Any (Plane of Shadow)
+- **Organization**: Solitary, pair, pack (3–5), or squad (6–8)
+- **Challenge Rating**: 2
+- **Treasure**: Standard
+- **Alignment**: Usually lawful evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Gory sentinels with a lust for flesh and the myriad bodily fluids contained within, augurs number among the most common—as well as most despicable—kytons on the Plane of Shadow. Having given up their humanoid bodies in favor of the more stealthy and wretched guise of a singular large eye armored in bloodied metal plates, augurs act as spies and sycophants for more powerful kytons. Their miniscule size, sturdy exterior, and unnerving gazes make them ideally equipped for dangerous reconnaissance missions to the Material Plane, where the augurs are able to scout out potential raiding locations or spot vulnerable, lone travelers before their more powerful kyton brethren cross the planes to attack.
 
@@ -77,6 +77,6 @@ Augur kytons understand Common and Infernal but can't speak.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +4): Constant—*[[rangoric-srd/spells/Deathwatch|deathwatch]]*; At will—*[[rangoric-srd/spells/Bleed|bleed]]* (DC 8), *[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Open-Close|open/close]]*; 3/day—*[[rangoric-srd/spells/Inflict Light Wounds|inflict light wounds]]* (DC 9); 1/week—*[[rangoric-srd/spells/Commune|commune]]* (CL 12th, 6 questions).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +4): Constant—_[[rangoric-srd/spells/Deathwatch|deathwatch]]_; At will—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 8), _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Open-Close|open/close]]_; 3/day—_[[rangoric-srd/spells/Inflict Light Wounds|inflict light wounds]]_ (DC 9); 1/week—_[[rangoric-srd/spells/Commune|commune]]_ (CL 12th, 6 questions).
 
 **[[rangoric-srd/monsters/abilities/Unnerving Gaze (Augur Kyton)|Unnerving Gaze]] (Ex)**: A creature that succumbs to an augur's unnerving gaze becomes [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round.

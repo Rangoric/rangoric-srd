@@ -51,17 +51,17 @@ Paragon Class: [[rangoric-srd/classes/Half-Orc Paragon|Half-Orc Paragon]]; after
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 14 years | +1d4 | +1d6 | +2d6 |
+| --------- | --------- | ----------- | ------- |
+| 14 years  | +1d4      | +1d6        | +2d6    |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 30 years | 45 years | 60 years | +2d10 years |
+| Middle Age | Old      | Venerable | Maximum Age |
+| ---------- | -------- | --------- | ----------- |
+| 30 years   | 45 years | 60 years  | +2d10 years |
 
-| Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Male | 4 ft. 10 in. | +2d12 | 150 lb. | × (2d6) lb. |
-| Female | 4 ft. 5 in. | +2d12 | 110 lb. | × (2d6) lb. |
+| Gender | Base Height  | Height Modifier | Base Weight | Weight Modifier |
+| ------ | ------------ | --------------- | ----------- | --------------- |
+| Male   | 4 ft. 10 in. | +2d12           | 150 lb.     | × (2d6) lb.     |
+| Female | 4 ft. 5 in.  | +2d12           | 110 lb.     | × (2d6) lb.     |
 
 ### Description
 
@@ -121,24 +121,24 @@ In human societies, half-orcs have a few more options. Many find it easy to take
 
 A half-orc can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]). Some half-orcs try to show they are different from their brutish orc kin, while others embrace their monstrous heritage; how a half-orc lives with that heritage can give them other racial traits.
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Darkvision (Racial Trait)\|Acute Darkvision]] | Orc ferocity |
-| [[rangoric-srd/races/racial-traits/Beastmaster\|Beastmaster]] | Orc ferocity |
-| [[rangoric-srd/races/racial-traits/Bestial\|Bestial]] | Orc ferocity |
-| [[rangoric-srd/races/racial-traits/Cavewight\|Cavewight]] | Intimidating |
-| [[rangoric-srd/races/racial-traits/Chain Fighter\|Chain Fighter]] | Weapon familiarity |
-| [[rangoric-srd/races/racial-traits/City-Raised\|City-Raised]] | Weapon familiarity |
-| [[rangoric-srd/races/racial-traits/Forest Walker\|Forest Walker]] | Darkvision |
-| [[rangoric-srd/races/racial-traits/Gatecrasher\|Gatecrasher]] | Orc ferocity |
-| [[rangoric-srd/races/racial-traits/Plagueborn\|Plagueborn]] | Intimidating and orc ferocity |
-| [[rangoric-srd/races/racial-traits/Rock Climber\|Rock Climber]] | Intimidating |
-| [[rangoric-srd/races/racial-traits/Sacred Tattoo\|Sacred Tattoo]] | Orc ferocity |
-| [[rangoric-srd/races/racial-traits/Scavenger\|Scavenger]] | Intimidating |
-| [[rangoric-srd/races/racial-traits/Shaman's Apprentice\|Shaman's Apprentice]] | Intimidating |
-| [[rangoric-srd/races/racial-traits/Skilled\|Skilled]] | Darkvision |
-| [[rangoric-srd/races/racial-traits/Squalid\|Squalid]] | Orc ferocity |
-| [[rangoric-srd/races/racial-traits/Toothy\|Toothy]] | Orc ferocity |
+| Trait                                                                            | Replaces                      |
+| -------------------------------------------------------------------------------- | ----------------------------- |
+| [[rangoric-srd/races/racial-traits/Darkvision (Racial Trait)\|Acute Darkvision]] | Orc ferocity                  |
+| [[rangoric-srd/races/racial-traits/Beastmaster\|Beastmaster]]                    | Orc ferocity                  |
+| [[rangoric-srd/races/racial-traits/Bestial\|Bestial]]                            | Orc ferocity                  |
+| [[rangoric-srd/races/racial-traits/Cavewight\|Cavewight]]                        | Intimidating                  |
+| [[rangoric-srd/races/racial-traits/Chain Fighter\|Chain Fighter]]                | Weapon familiarity            |
+| [[rangoric-srd/races/racial-traits/City-Raised\|City-Raised]]                    | Weapon familiarity            |
+| [[rangoric-srd/races/racial-traits/Forest Walker\|Forest Walker]]                | Darkvision                    |
+| [[rangoric-srd/races/racial-traits/Gatecrasher\|Gatecrasher]]                    | Orc ferocity                  |
+| [[rangoric-srd/races/racial-traits/Plagueborn\|Plagueborn]]                      | Intimidating and orc ferocity |
+| [[rangoric-srd/races/racial-traits/Rock Climber\|Rock Climber]]                  | Intimidating                  |
+| [[rangoric-srd/races/racial-traits/Sacred Tattoo\|Sacred Tattoo]]                | Orc ferocity                  |
+| [[rangoric-srd/races/racial-traits/Scavenger\|Scavenger]]                        | Intimidating                  |
+| [[rangoric-srd/races/racial-traits/Shaman's Apprentice\|Shaman's Apprentice]]    | Intimidating                  |
+| [[rangoric-srd/races/racial-traits/Skilled\|Skilled]]                            | Darkvision                    |
+| [[rangoric-srd/races/racial-traits/Squalid\|Squalid]]                            | Orc ferocity                  |
+| [[rangoric-srd/races/racial-traits/Toothy\|Toothy]]                              | Orc ferocity                  |
 
 ### Race Traits
 
@@ -172,9 +172,9 @@ A half-orc gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuse
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
-| [[rangoric-srd/class-options/archetypes/summoner/Blood God Disciple (Archetype)\|Blood God Disciple]] | [[rangoric-srd/classes/Summoner\|Summoner]] |
-| [[rangoric-srd/class-options/archetypes/paladin/Redeemer (Archetype)\|Redeemer]] | [[rangoric-srd/classes/Paladin\|Paladin]] |
-| [[rangoric-srd/class-options/archetypes/barbarian/Hateful Rager (Archetype)\|Hateful Rager]] | [[rangoric-srd/classes/Barbarian\|Barbarian]] |
-| [[rangoric-srd/class-options/archetypes/rogue/Skulking Slayer (Archetype)\|Skulking Slayer]] | [[rangoric-srd/classes/Rogue\|Rogue]] |
+| Archetype                                                                                             | Class                                         |
+| ----------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| [[rangoric-srd/class-options/archetypes/summoner/Blood God Disciple (Archetype)\|Blood God Disciple]] | [[rangoric-srd/classes/Summoner\|Summoner]]   |
+| [[rangoric-srd/class-options/archetypes/paladin/Redeemer (Archetype)\|Redeemer]]                      | [[rangoric-srd/classes/Paladin\|Paladin]]     |
+| [[rangoric-srd/class-options/archetypes/barbarian/Hateful Rager (Archetype)\|Hateful Rager]]          | [[rangoric-srd/classes/Barbarian\|Barbarian]] |
+| [[rangoric-srd/class-options/archetypes/rogue/Skulking Slayer (Archetype)\|Skulking Slayer]]          | [[rangoric-srd/classes/Rogue\|Rogue]]         |

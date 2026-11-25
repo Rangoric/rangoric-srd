@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Sootwing Bat
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
-  - **Hit Dice**: 2d8–2 (7 hp)
-  - **Initiative**: +1
-  - **Speed**: 5 ft. (1 square) fly 40 ft. (good)
-  - **Armor Class**: 14 (+1 Dex, +1 natural, +2 size), touch 13, flat-footed 13
-  - **Base Attack**: +1; **CMB**: +0; **CMD**: 7
-  - **Attack**: Bite +4 melee (1d3–3 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
-  - **Full Attack**: Bite +4 melee (1d3–3 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
-  - **Space/Reach**: 2 1/2 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Disease|Disease]] (DC 10), [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] (1d4+1 rounds, DC 10, elves are immune to this effect)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 20 ft., [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-  - **Saves**: Fort –1, Ref +1, Will +4
-  - **Abilities**: Str 5, Dex 12, Con —, Int 2, Wis 13, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Perception|Perception]] +5 (+9 when using blindsense)
-  - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any land
-  - **Organization**: Solitary or colony (4–12)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: None
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
+- **Hit Dice**: 2d8–2 (7 hp)
+- **Initiative**: +1
+- **Speed**: 5 ft. (1 square) fly 40 ft. (good)
+- **Armor Class**: 14 (+1 Dex, +1 natural, +2 size), touch 13, flat-footed 13
+- **Base Attack**: +1; **CMB**: +0; **CMD**: 7
+- **Attack**: Bite +4 melee (1d3–3 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
+- **Full Attack**: Bite +4 melee (1d3–3 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
+- **Space/Reach**: 2 1/2 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Disease|Disease]] (DC 10), [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] (1d4+1 rounds, DC 10, elves are immune to this effect)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 20 ft., [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
+- **Saves**: Fort –1, Ref +1, Will +4
+- **Abilities**: Str 5, Dex 12, Con —, Int 2, Wis 13, Cha 8
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Perception|Perception]] +5 (+9 when using blindsense)
+- **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any land
+- **Organization**: Solitary or colony (4–12)
+- **Challenge Rating**: 1/2
+- **Treasure**: None
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 This batlike creature has jagged points at the tips of its wings and a long, lashing tongue.
 

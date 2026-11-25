@@ -36,26 +36,26 @@ tags: [rangoric, rangoric/monster]
 
 # Stone Colossus
 
-  - Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
-  - **Hit Dice**: 64d10 (432 hp)
-  - **Initiative**: -3 (Dex)
-  - **Speed**: 40 ft. (can’t run)
-  - **Armor Class**: 44 (-8 size, -3 Dex, +45 natural)
-  - **Base Attack**: +48; **CMB**: +86; **CMD**: 93
-  - **Attack**: Slam +70 (8d6+30) melee
-  - **Full Attack**: 2 slams +70 (8d6+30) melee
-  - **Space/Reach**: 30 ft./30 ft.
-  - **Special Attacks**: [[rangoric-srd/spells/Shatter|Shatter]]
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], magic immunity, [[rangoric-srd/spells/Antimagic Field|antimagic field]], [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/Epic and adamantine
-  - **Saves**: Fort +21, Ref +18, Will +21
-  - **Abilities**: Str 70, Dex 5, Con -, Int 7, Wis 10, Cha 1
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +97 (+101 jumping)
-  - **Climate/Terrain**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 24
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 65-192 HD (Colossal)
+- Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
+- **Hit Dice**: 64d10 (432 hp)
+- **Initiative**: -3 (Dex)
+- **Speed**: 40 ft. (can’t run)
+- **Armor Class**: 44 (-8 size, -3 Dex, +45 natural)
+- **Base Attack**: +48; **CMB**: +86; **CMD**: 93
+- **Attack**: Slam +70 (8d6+30) melee
+- **Full Attack**: 2 slams +70 (8d6+30) melee
+- **Space/Reach**: 30 ft./30 ft.
+- **Special Attacks**: [[rangoric-srd/spells/Shatter|Shatter]]
+- **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], magic immunity, [[rangoric-srd/spells/Antimagic Field|antimagic field]], [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/Epic and adamantine
+- **Saves**: Fort +21, Ref +18, Will +21
+- **Abilities**: Str 70, Dex 5, Con -, Int 7, Wis 10, Cha 1
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +97 (+101 jumping)
+- **Climate/Terrain**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 24
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 65-192 HD (Colossal)
 
 A stone colossus cannot speak or make any vocal noise.
 
@@ -67,7 +67,7 @@ Magic Immunity (Ex): A stone colossus is immune to all spells, spell-like abilit
 
 ### Construction
 
-A stone colossus’s body is chiseled from a single block of hard stone, such as granite, weighing at least 375,000 pounds. The colossus costs 760,000 gp to create, which includes 100,000 gp for the body. Assembling the body requires a successful [[rangoric-srd/skills/Craft|Craft]] (sculpting) or [[rangoric-srd/skills/Craft|Craft]] (masonry) check (DC 37). The creator must be 25th level and able to [[rangoric-srd/feats/Epic Spellcasting|cast epic spells]]. Completing the ritual drains 30,600 XP from the creator and requires [[rangoric-srd/spells/Geas-Quest|geas/quest]], [[rangoric-srd/spells/Limited Wish|limited wish]], [[rangoric-srd/spells/Polymorph Any Object|polymorph any object]], and [[rangoric-srd/spells/Shatter|shatter]].  
+A stone colossus’s body is chiseled from a single block of hard stone, such as granite, weighing at least 375,000 pounds. The colossus costs 760,000 gp to create, which includes 100,000 gp for the body. Assembling the body requires a successful [[rangoric-srd/skills/Craft|Craft]] (sculpting) or [[rangoric-srd/skills/Craft|Craft]] (masonry) check (DC 37). The creator must be 25th level and able to [[rangoric-srd/feats/Epic Spellcasting|cast epic spells]]. Completing the ritual drains 30,600 XP from the creator and requires [[rangoric-srd/spells/Geas-Quest|geas/quest]], [[rangoric-srd/spells/Limited Wish|limited wish]], [[rangoric-srd/spells/Polymorph Any Object|polymorph any object]], and [[rangoric-srd/spells/Shatter|shatter]].
 
 ### Flesh Colossus
 

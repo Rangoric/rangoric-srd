@@ -52,7 +52,7 @@ Climate/Terrain: Any    
 Organization: Solitary      
 Challenge Rating: 26      
 Treasure: As character      
-Alignment: Any evil      
+Alignment: Any evil    
 
 Advancement: As character    
 
@@ -62,9 +62,9 @@ A worm that walks rarely speaks, although it retains knowledge of all languages 
 
 Spells: A worm that walks can cast any spells it could cast as a character. This sample worm was a 23rd-level [[rangoric-srd/classes/Wizard|wizard]] (spells per day: 4/12/6/6/6/5/5/5/5/4/1/1). The last spell slots are 10th-level and 11th-level slots, respectively, and are available for 0-9th level meta-magic spells.
 
-Spell-Like Abilities: Caster level 20th; save DC 9 + spell level. The save DCs are Charisma-based.  
+Spell-Like Abilities: Caster level 20th; save DC 9 + spell level. The save DCs are Charisma-based.
 
-1/day - [[rangoric-srd/spells/Animal Growth|animal growth]] (vermin), [[rangoric-srd/spells/Animal Messenger|animal messenger]] (vermin), [[rangoric-srd/spells/Animal Shapes|animal shapes]] (vermin), [[rangoric-srd/spells/Animal Trance|animal trance]] (vermin), colossal vermin (as [[rangoric-srd/spells/Giant Vermin|giant vermin]], but it can increase the creature’s size from Large to Gargantuan and from Huge to Colossal), [[rangoric-srd/spells/Creeping Doom|creeping doom]], [[rangoric-srd/spells/Giant Vermin|giant vermin]], [[rangoric-srd/spells/Summon Swarm|summon swarm]] (vermin), summon vermin (as [[rangoric-srd/spells/Spells S|summon nature’s ally]], except it summons 10 HD of vermin per level), and vermin plague (as [[rangoric-srd/spells/Insect Plague|insect plague]]).  
+1/day - [[rangoric-srd/spells/Animal Growth|animal growth]] (vermin), [[rangoric-srd/spells/Animal Messenger|animal messenger]] (vermin), [[rangoric-srd/spells/Animal Shapes|animal shapes]] (vermin), [[rangoric-srd/spells/Animal Trance|animal trance]] (vermin), colossal vermin (as [[rangoric-srd/spells/Giant Vermin|giant vermin]], but it can increase the creature’s size from Large to Gargantuan and from Huge to Colossal), [[rangoric-srd/spells/Creeping Doom|creeping doom]], [[rangoric-srd/spells/Giant Vermin|giant vermin]], [[rangoric-srd/spells/Summon Swarm|summon swarm]] (vermin), summon vermin (as [[rangoric-srd/spells/Spells S|summon nature’s ally]], except it summons 10 HD of vermin per level), and vermin plague (as [[rangoric-srd/spells/Insect Plague|insect plague]]).
 
 Engulf (Ex): A worm that walks can choose to engulf an opponent who is no more than one size category larger than itself. The worm attempts to embrace its victim, and with a successful melee touch attack, the victim is immediately swallowed up and surrounded by a mass of vermin, taking 100 points of damage. A victim who spends a full-round action can break free of the embrace and move up to half its speed away from the worm if desired, but can do nothing else. Otherwise, each round a victim remains embraced, it takes another 100 points of Damage. [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Constructs]] are immune to this attack.
 
@@ -134,11 +134,11 @@ Advancement: By character class.
 
 ### Worm That Walks Characters
 
-By making eldritch preparations on a burial plot, a powerful spellcaster can improve the likelihood of a worm that walks emerging from the ground. The body is buried in an elaborate ritual that, the spellcaster hopes, will attract a critical mass of worms or maggots. The spellcaster performing the ritual must spend 10,000 gp in rare reagents for the ceremony. Furthermore, the ritual drains 2,000 XP from the spell-caster and requires the following spells: [[rangoric-srd/spells/Limited Wish|limited wish]], [[rangoric-srd/spells/Polymorph Any Object|polymorph any object]], [[rangoric-srd/spells/Summon Swarm|summon swarm]] (heightened to 7th level), and [[rangoric-srd/spells/Sympathy|sympathy]]. Even if the ritual is performed correctly, there is only a chance that the deceased spellcaster will arise as a worm that walks. For each prepared but uncast arcane spell the deceased had at the moment of death (or unused spell slots if a spontaneous caster), there’s a 1% chance that a worm that walks will slither from the grave soil in 1d4 days. Some worms that walk arise spontaneously from ordinary burial plots, but such an event is exceedingly rare. And an epic spell can create worms that walk every time without fail.  
+By making eldritch preparations on a burial plot, a powerful spellcaster can improve the likelihood of a worm that walks emerging from the ground. The body is buried in an elaborate ritual that, the spellcaster hopes, will attract a critical mass of worms or maggots. The spellcaster performing the ritual must spend 10,000 gp in rare reagents for the ceremony. Furthermore, the ritual drains 2,000 XP from the spell-caster and requires the following spells: [[rangoric-srd/spells/Limited Wish|limited wish]], [[rangoric-srd/spells/Polymorph Any Object|polymorph any object]], [[rangoric-srd/spells/Summon Swarm|summon swarm]] (heightened to 7th level), and [[rangoric-srd/spells/Sympathy|sympathy]]. Even if the ritual is performed correctly, there is only a chance that the deceased spellcaster will arise as a worm that walks. For each prepared but uncast arcane spell the deceased had at the moment of death (or unused spell slots if a spontaneous caster), there’s a 1% chance that a worm that walks will slither from the grave soil in 1d4 days. Some worms that walk arise spontaneously from ordinary burial plots, but such an event is exceedingly rare. And an epic spell can create worms that walk every time without fail.
 
 #### Gathering of Maggots
 
-Conjuration (Healing)   
+Conjuration (Healing)  
 Casting DC: 49  
 Components: V, S , D F  
 Casting Time: 7 days  
@@ -146,7 +146,7 @@ Target: Dead creature touched
 Duration: Permanent  
 Saving Throw: Fortitude negates (harmless)  
 Spell Resistance: Yes (harmless)  
-To Develop: 441,000 gp; 9 days; 17,640 XP. Seeds: life (DC 27), transform (DC 21). Factors: change creature type to aberration (+5 DC); add worm that walks’ spell-like, extraordinary, and supernatural abilities (+40 DC). Mitigating factors: increase casting time by 10 minutes (-20 DC); increase casting time by 7 days (-14 DC).  
+To Develop: 441,000 gp; 9 days; 17,640 XP. Seeds: life (DC 27), transform (DC 21). Factors: change creature type to aberration (+5 DC); add worm that walks’ spell-like, extraordinary, and supernatural abilities (+40 DC). Mitigating factors: increase casting time by 10 minutes (-20 DC); increase casting time by 7 days (-14 DC).
 
 When this spell is cast, worms or maggots slither and crawl their way inexorably toward the corpse touched. Over the course of the next week, they consume the flesh of the corpse, and when the last bit of the corpse is devoured, the creature is returned to a semblance of life as a worm that walks.
 

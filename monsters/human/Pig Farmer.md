@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Pig Farmer
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 2d6+2 (9 hp)
-  - **Initiative**: –1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 9 (–1 Dex), touch 9, flat-footed 9
-  - **Base Attack**: +1; **CMB**: +2; **CMD**: 11
-  - **Attack**: [[rangoric-srd/equipment/weapons/Scythe|Scythe]] –2 melee (2d4+1/×4) or [[rangoric-srd/equipment/weapons/Club|club]] +2 melee (1d6+1) or [[rangoric-srd/equipment/weapons/Club|club]] +0 ranged (1d6+1)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Scythe|Scythe]] –2 melee (2d4+1/×4); or [[rangoric-srd/equipment/weapons/Club|club]] +2 melee (1d6+1); or [[rangoric-srd/equipment/weapons/Club|club]] +0 ranged (1d6+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: —
-  - **Saves**: Fort +1, Ref –1, Will +0
-  - **Abilities**: Str 13, Dex 9, Con 12, Int 10, Wis 11, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Craft|Craft]] (carpentry) +6, [[rangoric-srd/skills/Medicine|Medicine]] +5, [[rangoric-srd/skills/Nature|Nature]] +1, [[rangoric-srd/skills/Profession|Profession]] (farmer) +5
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling, Medicine)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 1/2
-  - **Treasure**: NPC gear
-  - **Alignment**: Chaotic neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 2d6+2 (9 hp)
+- **Initiative**: –1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 9 (–1 Dex), touch 9, flat-footed 9
+- **Base Attack**: +1; **CMB**: +2; **CMD**: 11
+- **Attack**: [[rangoric-srd/equipment/weapons/Scythe|Scythe]] –2 melee (2d4+1/×4) or [[rangoric-srd/equipment/weapons/Club|club]] +2 melee (1d6+1) or [[rangoric-srd/equipment/weapons/Club|club]] +0 ranged (1d6+1)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Scythe|Scythe]] –2 melee (2d4+1/×4); or [[rangoric-srd/equipment/weapons/Club|club]] +2 melee (1d6+1); or [[rangoric-srd/equipment/weapons/Club|club]] +0 ranged (1d6+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: —
+- **Saves**: Fort +1, Ref –1, Will +0
+- **Abilities**: Str 13, Dex 9, Con 12, Int 10, Wis 11, Cha 8
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Craft|Craft]] (carpentry) +6, [[rangoric-srd/skills/Medicine|Medicine]] +5, [[rangoric-srd/skills/Nature|Nature]] +1, [[rangoric-srd/skills/Profession|Profession]] (farmer) +5
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling, Medicine)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 1/2
+- **Treasure**: NPC gear
+- **Alignment**: Chaotic neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A pig farmer is a [[rangoric-srd/monsters/human/Human|human]] with 2 levels of [[rangoric-srd/classes/Commoner|commoner]]. Despite her muddy appearance, a pig farmer has many useful skills.
 

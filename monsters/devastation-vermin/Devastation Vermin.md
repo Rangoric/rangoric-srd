@@ -11,8 +11,7 @@ tags: [rangoric, rangoric/monster]
 
 # Devastation Vermin
 
-  - [[rangoric-srd/monsters/devastation-vermin/Devastation Centipede|Devastation Centipede]]
-  - [[rangoric-srd/monsters/devastation-vermin/Devastation Spider|Devastation Spider]]
-  - [[rangoric-srd/monsters/devastation-vermin/Devastation Scorpion|Devastation Scorpion]]
-  - [[rangoric-srd/monsters/devastation-vermin/Devastation Beetle|Devastation Beetle]]
-
+- [[rangoric-srd/monsters/devastation-vermin/Devastation Centipede|Devastation Centipede]]
+- [[rangoric-srd/monsters/devastation-vermin/Devastation Spider|Devastation Spider]]
+- [[rangoric-srd/monsters/devastation-vermin/Devastation Scorpion|Devastation Scorpion]]
+- [[rangoric-srd/monsters/devastation-vermin/Devastation Beetle|Devastation Beetle]]

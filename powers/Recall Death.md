@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/power]
 Clairsentience \[Death, Mind-Affecting\]  
 **Level:** Psion/wilder 8  
 **Saving Throw:** Will partial; see text  
-**Power Points:** 15  
+**Power Points:** 15
 
 As [[rangoric-srd/powers/Recall Agony|recall agony]], except the wounds revealed by folding the fourth dimension are potentially fatal. If the target fails its Will save. it dies. If the save succeeds, the target instead takes 5d6 points of damage.

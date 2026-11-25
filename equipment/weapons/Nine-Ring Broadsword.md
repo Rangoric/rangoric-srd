@@ -25,7 +25,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades, weapon-group/monk, 
 
 # Nine-Ring Broadsword
 
-*Martial one-handed melee weapon (monk).* Cost 15 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 4 lb.; Type Slashing. ^stats
+_Martial one-handed melee weapon (monk)._ Cost 15 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 4 lb.; Type Slashing. ^stats
 
 This broad-bladed weapon has nine heavy rings threaded through its spine, providing additional weight to add to the force of its impressive chopping power.
 

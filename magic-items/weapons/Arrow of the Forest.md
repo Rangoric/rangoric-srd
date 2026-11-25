@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Arrow of the Forest
 
-So long as the archer can see at least a glimpse of his target when aiming, this *+1 arrow* can ignore any cover or concealment in a forest setting, flying between leaves and branches, wending their way around tree trunks, to strike true at their targets. If the target enjoys total concealment, the arrows’ special ability is ignored, however anything less than total concealment counts as no concealment for these arrows.
+So long as the archer can see at least a glimpse of his target when aiming, this _+1 arrow_ can ignore any cover or concealment in a forest setting, flying between leaves and branches, wending their way around tree trunks, to strike true at their targets. If the target enjoys total concealment, the arrows’ special ability is ignored, however anything less than total concealment counts as no concealment for these arrows.
 
-Faint divination; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/True Strike|true strike]]*; Price 167 gp; Cost 84 gp + 7 XP.
+Faint divination; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/True Strike|true strike]]_; Price 167 gp; Cost 84 gp + 7 XP.

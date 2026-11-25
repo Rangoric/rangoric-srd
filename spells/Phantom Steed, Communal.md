@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Phantom Steed, Communal
 
-*Conjuration (Creation)*
+_Conjuration (Creation)_
 
-  - **Level**: Brd 4, Occ 4, Skd 4, Sor/Wiz 4, Spi 4, Sum 3, SumU 3
-  - **Components**: V, S
-  - **Casting Time**: 10 minutes
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: Up to six quasi-real, horselike creatures
-  - **Duration**: 1 hour/level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Brd 4, Occ 4, Skd 4, Sor/Wiz 4, Spi 4, Sum 3, SumU 3
+- **Components**: V, S
+- **Casting Time**: 10 minutes
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: Up to six quasi-real, horselike creatures
+- **Duration**: 1 hour/level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-This spell functions like *[[rangoric-srd/spells/Phantom Steed|phantom steed]]*, except you can summon up to six steeds, and you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-hour intervals among the steeds summoned.
+This spell functions like _[[rangoric-srd/spells/Phantom Steed|phantom steed]]_, except you can summon up to six steeds, and you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-hour intervals among the steeds summoned.

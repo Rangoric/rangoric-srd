@@ -43,53 +43,53 @@ The arcanist’s class skills (and the key ability for each skill) are [[rangori
 
 **Table: The Arcanist** ^table-the-arcanist
 
-| Level | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th | Spells per Day: 7th | Spells per Day: 8th | Spells per Day: 9th |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | Arcane reservoir, arcanist exploit, cantrips, consume spells | 2 | — | — | — | — | — | — | — | — |
-| 2nd | — | 3 | — | — | — | — | — | — | — | — |
-| 3rd | Arcanist exploit | 4 | — | — | — | — | — | — | — | — |
-| 4th | — | 4 | 2 | — | — | — | — | — | — | — |
-| 5th | Arcanist exploit | 4 | 3 | — | — | — | — | — | — | — |
-| 6th | — | 4 | 4 | 2 | — | — | — | — | — | — |
-| 7th | Arcanist exploit | 4 | 4 | 3 | — | — | — | — | — | — |
-| 8th | — | 4 | 4 | 4 | 2 | — | — | — | — | — |
-| 9th | Arcanist exploit | 4 | 4 | 4 | 3 | — | — | — | — | — |
-| 10th | — | 4 | 4 | 4 | 4 | 2 | — | — | — | — |
-| 11th | Arcanist exploit, greater exploits | 4 | 4 | 4 | 4 | 3 | — | — | — | — |
-| 12th | — | 4 | 4 | 4 | 4 | 4 | 2 | — | — | — |
-| 13th | Arcanist exploit | 4 | 4 | 4 | 4 | 4 | 3 | — | — | — |
-| 14th | — | 4 | 4 | 4 | 4 | 4 | 4 | 2 | — | — |
-| 15th | Arcanist exploit | 4 | 4 | 4 | 4 | 4 | 4 | 3 | — | — |
-| 16th | — | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 2 | — |
-| 17th | Arcanist exploit | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | — |
-| 18th | — | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 2 |
-| 19th | Arcanist exploit | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 |
-| 20th | Magical supremacy | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
+| Level | Special                                                      | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th | Spells per Day: 7th | Spells per Day: 8th | Spells per Day: 9th |
+| ----- | ------------------------------------------------------------ | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| 1st   | Arcane reservoir, arcanist exploit, cantrips, consume spells | 2                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 2nd   | —                                                            | 3                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 3rd   | Arcanist exploit                                             | 4                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 4th   | —                                                            | 4                   | 2                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 5th   | Arcanist exploit                                             | 4                   | 3                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 6th   | —                                                            | 4                   | 4                   | 2                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 7th   | Arcanist exploit                                             | 4                   | 4                   | 3                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 8th   | —                                                            | 4                   | 4                   | 4                   | 2                   | —                   | —                   | —                   | —                   | —                   |
+| 9th   | Arcanist exploit                                             | 4                   | 4                   | 4                   | 3                   | —                   | —                   | —                   | —                   | —                   |
+| 10th  | —                                                            | 4                   | 4                   | 4                   | 4                   | 2                   | —                   | —                   | —                   | —                   |
+| 11th  | Arcanist exploit, greater exploits                           | 4                   | 4                   | 4                   | 4                   | 3                   | —                   | —                   | —                   | —                   |
+| 12th  | —                                                            | 4                   | 4                   | 4                   | 4                   | 4                   | 2                   | —                   | —                   | —                   |
+| 13th  | Arcanist exploit                                             | 4                   | 4                   | 4                   | 4                   | 4                   | 3                   | —                   | —                   | —                   |
+| 14th  | —                                                            | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 2                   | —                   | —                   |
+| 15th  | Arcanist exploit                                             | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 3                   | —                   | —                   |
+| 16th  | —                                                            | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 2                   | —                   |
+| 17th  | Arcanist exploit                                             | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 3                   | —                   |
+| 18th  | —                                                            | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 2                   |
+| 19th  | Arcanist exploit                                             | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 3                   |
+| 20th  | Magical supremacy                                            | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   |
 
 **Table: Arcanist Spells Prepared** ^table-arcanist-spells-prepared
 
-| Level | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | 4 | 2 | — | — | — | — | — | — | — | — |
-| 2nd | 5 | 2 | — | — | — | — | — | — | — | — |
-| 3rd | 5 | 3 | — | — | — | — | — | — | — | — |
-| 4th | 6 | 3 | 1 | — | — | — | — | — | — | — |
-| 5th | 6 | 4 | 2 | — | — | — | — | — | — | — |
-| 6th | 7 | 4 | 2 | 1 | — | — | — | — | — | — |
-| 7th | 7 | 5 | 3 | 2 | — | — | — | — | — | — |
-| 8th | 8 | 5 | 3 | 2 | 1 | — | — | — | — | — |
-| 9th | 8 | 5 | 4 | 3 | 2 | — | — | — | — | — |
-| 10th | 9 | 5 | 4 | 3 | 2 | 1 | — | — | — | — |
-| 11th | 9 | 5 | 5 | 4 | 3 | 2 | — | — | — | — |
-| 12th | 9 | 5 | 5 | 4 | 3 | 2 | 1 | — | — | — |
-| 13th | 9 | 5 | 5 | 4 | 4 | 3 | 2 | — | — | — |
-| 14th | 9 | 5 | 5 | 4 | 4 | 3 | 2 | 1 | — | — |
-| 15th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 2 | — | — |
-| 16th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 2 | 1 | — |
-| 17th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 3 | 2 | — |
-| 18th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 3 | 2 | 1 |
-| 19th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 3 | 3 | 2 |
-| 20th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 3 | 3 | 3 |
+| Level | 0   | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st   | 4   | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2nd   | 5   | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3rd   | 5   | 3   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 4th   | 6   | 3   | 1   | —   | —   | —   | —   | —   | —   | —   |
+| 5th   | 6   | 4   | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 6th   | 7   | 4   | 2   | 1   | —   | —   | —   | —   | —   | —   |
+| 7th   | 7   | 5   | 3   | 2   | —   | —   | —   | —   | —   | —   |
+| 8th   | 8   | 5   | 3   | 2   | 1   | —   | —   | —   | —   | —   |
+| 9th   | 8   | 5   | 4   | 3   | 2   | —   | —   | —   | —   | —   |
+| 10th  | 9   | 5   | 4   | 3   | 2   | 1   | —   | —   | —   | —   |
+| 11th  | 9   | 5   | 5   | 4   | 3   | 2   | —   | —   | —   | —   |
+| 12th  | 9   | 5   | 5   | 4   | 3   | 2   | 1   | —   | —   | —   |
+| 13th  | 9   | 5   | 5   | 4   | 4   | 3   | 2   | —   | —   | —   |
+| 14th  | 9   | 5   | 5   | 4   | 4   | 3   | 2   | 1   | —   | —   |
+| 15th  | 9   | 5   | 5   | 4   | 4   | 4   | 3   | 2   | —   | —   |
+| 16th  | 9   | 5   | 5   | 4   | 4   | 4   | 3   | 2   | 1   | —   |
+| 17th  | 9   | 5   | 5   | 4   | 4   | 4   | 3   | 3   | 2   | —   |
+| 18th  | 9   | 5   | 5   | 4   | 4   | 4   | 3   | 3   | 2   | 1   |
+| 19th  | 9   | 5   | 5   | 4   | 4   | 4   | 3   | 3   | 3   | 2   |
+| 20th  | 9   | 5   | 5   | 4   | 4   | 4   | 3   | 3   | 3   | 3   |
 
 ###### Class Features
 
@@ -109,7 +109,7 @@ An arcanist must choose and prepare her spells ahead of time by getting 8 hours 
 
 Like a sorcerer, an arcanist can choose to apply any metamagic feats she knows to a prepared spell as she casts it, with the same increase in casting time (see [[rangoric-srd/feats/Feats Overview|Spontaneous Casting and Metamagic Feats]]). However, she may also prepare a spell with any metamagic feats she knows and cast it without increasing casting time like a wizard. She cannot combine these options—a spell prepared with metamagic feats cannot be further modified with another metamagic feat at the time of casting (unless she has the [[rangoric-srd/class-options/arcanist-exploits/Metamixing (Exploit)|metamixing]] arcanist exploit).
 
-**Spellbooks**: An arcanist must study her spellbook each day to prepare her spells. She can't prepare any spell not recorded in her spellbook, except for *[[rangoric-srd/spells/Read Magic|read magic]]* (which all arcanists can prepare from memory). ^arcanist-spellbooks
+**Spellbooks**: An arcanist must study her spellbook each day to prepare her spells. She can't prepare any spell not recorded in her spellbook, except for _[[rangoric-srd/spells/Read Magic|read magic]]_ (which all arcanists can prepare from memory). ^arcanist-spellbooks
 
 An arcanist begins play with a spellbook containing all 0-level wizard/sorcerer spells plus three 1st-level spells of her choice. The arcanist also selects a number of additional 1st-level spells equal to her Intelligence modifier to add to the spellbook. At each new arcanist level, she gains two new spells of any spell level or levels that she can cast (based on her new arcanist level) for her spellbook. At any time, an arcanist can also add spells found in other wizards' spellbooks to her own.
 

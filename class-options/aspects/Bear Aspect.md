@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Bear Aspect
 
-*A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The aspect of the bear invokes a juggernaut of tireless endurance and furious power. Those who take this aspect are known for surviving severe wounds and delivering punishing blows in return.*
+_A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The aspect of the bear invokes a juggernaut of tireless endurance and furious power. Those who take this aspect are known for surviving severe wounds and delivering punishing blows in return._
 
 **Minor Form**: You gain a +2 enhancement bonus to your Constitution score.
 

@@ -22,11 +22,11 @@ An example progression for a rooftop chase, five cards and a finish line (the cl
 
 **Table: Example Progression**
 
-| Card | First Obstacle | Second Obstacle |
-| ---- | -------------- | --------------- |
-| 1 | Cluttered rooftop ([[rangoric-srd/skills/Acrobatics\|Acrobatics]] DC 10) | Steeply sloped roof ([[rangoric-srd/skills/Athletics\|Athletics]] DC 10) |
-| 2 | Gap in the wall ([[rangoric-srd/skills/Escape Artist\|Escape Artist]] DC 15) | Secret handholds ([[rangoric-srd/skills/Perception\|Perception]] DC 25) |
-| 3 | Crumbling rooftop ([[rangoric-srd/skills/Acrobatics\|Acrobatics]] DC 20) | Clothesline tightrope ([[rangoric-srd/skills/Acrobatics\|Acrobatics]] DC 25) |
-| 4 | Narrow ledge ([[rangoric-srd/skills/Acrobatics\|Acrobatics]] DC 15) | Hidden shortcut ([[rangoric-srd/skills/Perception\|Perception]] DC 10) |
-| 5 | Slippery wall ([[rangoric-srd/skills/Athletics\|Athletics]] DC 25) | Narrow hole in the wall ([[rangoric-srd/skills/Escape Artist\|Escape Artist]] DC 25) |
-| 6 | Finish line | — |
+| Card | First Obstacle                                                               | Second Obstacle                                                                      |
+| ---- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| 1    | Cluttered rooftop ([[rangoric-srd/skills/Acrobatics\|Acrobatics]] DC 10)     | Steeply sloped roof ([[rangoric-srd/skills/Athletics\|Athletics]] DC 10)             |
+| 2    | Gap in the wall ([[rangoric-srd/skills/Escape Artist\|Escape Artist]] DC 15) | Secret handholds ([[rangoric-srd/skills/Perception\|Perception]] DC 25)              |
+| 3    | Crumbling rooftop ([[rangoric-srd/skills/Acrobatics\|Acrobatics]] DC 20)     | Clothesline tightrope ([[rangoric-srd/skills/Acrobatics\|Acrobatics]] DC 25)         |
+| 4    | Narrow ledge ([[rangoric-srd/skills/Acrobatics\|Acrobatics]] DC 15)          | Hidden shortcut ([[rangoric-srd/skills/Perception\|Perception]] DC 10)               |
+| 5    | Slippery wall ([[rangoric-srd/skills/Athletics\|Athletics]] DC 25)           | Narrow hole in the wall ([[rangoric-srd/skills/Escape Artist\|Escape Artist]] DC 25) |
+| 6    | Finish line                                                                  | —                                                                                    |

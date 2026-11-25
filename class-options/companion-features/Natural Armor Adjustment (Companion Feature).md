@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Natural Armor Adjustment
 
-*A [[rangoric-srd/class-options/animal-companions/Animal Companions#^companion-features|companion feature]] of a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]]’s [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]].*
+_A [[rangoric-srd/class-options/animal-companions/Animal Companions#^companion-features|companion feature]] of a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]]’s [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]]._
 
 ![[rangoric-srd/classes/Druid#^animal-companion-natural-armor]]

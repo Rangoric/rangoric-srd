@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Gashadokuro
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
-  - **Hit Dice**: 19d8+95 (180 hp)
-  - **Initiative**: +4
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 28 (+20 natural, –2 size), touch 8, flat-footed 28
-  - **Base Attack**: +14; **CMB**: +26 (+28 bull rush, +30 grapple); **CMD**: 36 (38 vs. bull rush)
-  - **Attack**: Bite +22 melee (2d8+10 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +23 melee (2d6+10/19–20)
-  - **Full Attack**: Bite +22 melee (2d8+10 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +23 melee (2d6+10/19–20)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (30-ft. cone, 12d6 bludgeoning damage, Reflex DC 24 half, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Corpse Consumption|corpse consumption]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (6d6 bludgeoning damage, AC 20, 18 hp)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., starvation (60 ft., DC 25), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/bludgeoning, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-  - **Saves**: Fort +11, Ref +6, Will +14
-  - **Abilities**: Str 30, Dex 11, Con —, Int 6, Wis 17, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +23, [[rangoric-srd/skills/Intimidation|Intimidation]] +32, [[rangoric-srd/skills/Perception|Perception]] +20
-  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 13
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
+- **Hit Dice**: 19d8+95 (180 hp)
+- **Initiative**: +4
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 28 (+20 natural, –2 size), touch 8, flat-footed 28
+- **Base Attack**: +14; **CMB**: +26 (+28 bull rush, +30 grapple); **CMD**: 36 (38 vs. bull rush)
+- **Attack**: Bite +22 melee (2d8+10 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +23 melee (2d6+10/19–20)
+- **Full Attack**: Bite +22 melee (2d8+10 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +23 melee (2d6+10/19–20)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (30-ft. cone, 12d6 bludgeoning damage, Reflex DC 24 half, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Corpse Consumption|corpse consumption]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (6d6 bludgeoning damage, AC 20, 18 hp)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., starvation (60 ft., DC 25), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/bludgeoning, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
+- **Saves**: Fort +11, Ref +6, Will +14
+- **Abilities**: Str 30, Dex 11, Con —, Int 6, Wis 17, Cha 21
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +23, [[rangoric-srd/skills/Intimidation|Intimidation]] +32, [[rangoric-srd/skills/Perception|Perception]] +20
+- **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 13
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Gashadokuros are enormous skeletons that come into being as a result of mass starvation. The victims of such a tragedy fuse together into an undead colossus that continues to hunger even in death. A gashadokuro uses its feral instincts to hunt living creatures, forever seeking to sate its ineradicable, collective memory of starvation.
 

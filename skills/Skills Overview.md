@@ -63,15 +63,15 @@ Some checks are made against a Difficulty Class (DC). The DC is a number (set us
 
 **Table: Difficulty Class Examples**
 
-| Difficulty (DC)        | Example (Skill Used)                                                                                               |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| Very easy (0)          | Notice something large in plain sight ([[rangoric-srd/skills/Perception\|Perception]])                                       |
-| Easy (5)               | Climb a knotted rope ([[rangoric-srd/skills/Athletics\|Athletics]])                                                      |
-| Average (10)           | Hear an approaching guard ([[rangoric-srd/skills/Perception\|Perception]])                                               |
-| Tough (15)             | Rig a wagon wheel to fall off ([[rangoric-srd/skills/Engineering\|Engineering]])                           |
-| Challenging (20)       | Swim in stormy water ([[rangoric-srd/skills/Athletics\|Athletics]])                                                        |
-| Formidable (25)        | Open an average lock ([[rangoric-srd/skills/Sleight of Hand\|Sleight of Hand]])                                              |
-| Heroic (30)            | Leap across a 30-foot chasm ([[rangoric-srd/skills/Athletics\|Athletics]])                                         |
+| Difficulty (DC)        | Example (Skill Used)                                                                                                 |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Very easy (0)          | Notice something large in plain sight ([[rangoric-srd/skills/Perception\|Perception]])                               |
+| Easy (5)               | Climb a knotted rope ([[rangoric-srd/skills/Athletics\|Athletics]])                                                  |
+| Average (10)           | Hear an approaching guard ([[rangoric-srd/skills/Perception\|Perception]])                                           |
+| Tough (15)             | Rig a wagon wheel to fall off ([[rangoric-srd/skills/Engineering\|Engineering]])                                     |
+| Challenging (20)       | Swim in stormy water ([[rangoric-srd/skills/Athletics\|Athletics]])                                                  |
+| Formidable (25)        | Open an average lock ([[rangoric-srd/skills/Sleight of Hand\|Sleight of Hand]])                                      |
+| Heroic (30)            | Leap across a 30-foot chasm ([[rangoric-srd/skills/Athletics\|Athletics]])                                           |
 | Nearly impossible (40) | Track a squad of orcs across hard ground after 24 hours of rainfall ([[rangoric-srd/skills/Fieldcraft\|Fieldcraft]]) |
 
 ###### Opposed Checks
@@ -80,18 +80,18 @@ An opposed check is a check whose success or failure is determined by comparing 
 
 **Table: Example Opposed Checks**
 
-| Task                       | Skill (Key Ability)                                              | Opposing Skill (Key Ability)                                 |
-| -------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------ |
-| Con someone                | [[rangoric-srd/skills/Deception\|Deception]] (Cha)                     | [[rangoric-srd/skills/Sense Motive\|Sense Motive]] (Wis)   |
-| Pretend to be someone else | [[rangoric-srd/skills/Imitation\|Imitation]] (Int)               | [[rangoric-srd/skills/Perception\|Perception]] (Wis)                   |
-| Create a false map         | [[rangoric-srd/skills/Imitation\|Imitation]] (Int)                 | Imitation (Int)                                                |
-| Hide from someone          | [[rangoric-srd/skills/Stealth\|Stealth]] (Dex)                       | Perception (Wis)                                                   |
-| Make a bully back down     | [[rangoric-srd/skills/Intimidation\|Intimidation]] (Cha)           | Special (1)                                                  |
-| Sneak up on someone        | [[rangoric-srd/skills/Stealth\|Stealth]] (Dex)     | [[rangoric-srd/skills/Perception\|Perception]] (Wis)               |
-| Steal a coin pouch         | [[rangoric-srd/skills/Sleight of Hand\|Sleight of Hand]] (Dex) | Perception (Wis)                                                   |
-| Tie a prisoner securely    | [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] (Wis)               | [[rangoric-srd/skills/Escape Artist\|Escape Artist]] (Dex) |
+| Task                       | Skill (Key Ability)                                            | Opposing Skill (Key Ability)                               |
+| -------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------- |
+| Con someone                | [[rangoric-srd/skills/Deception\|Deception]] (Cha)             | [[rangoric-srd/skills/Sense Motive\|Sense Motive]] (Wis)   |
+| Pretend to be someone else | [[rangoric-srd/skills/Imitation\|Imitation]] (Int)             | [[rangoric-srd/skills/Perception\|Perception]] (Wis)       |
+| Create a false map         | [[rangoric-srd/skills/Imitation\|Imitation]] (Int)             | Imitation (Int)                                            |
+| Hide from someone          | [[rangoric-srd/skills/Stealth\|Stealth]] (Dex)                 | Perception (Wis)                                           |
+| Make a bully back down     | [[rangoric-srd/skills/Intimidation\|Intimidation]] (Cha)       | Special (1)                                                |
+| Sneak up on someone        | [[rangoric-srd/skills/Stealth\|Stealth]] (Dex)                 | [[rangoric-srd/skills/Perception\|Perception]] (Wis)       |
+| Steal a coin pouch         | [[rangoric-srd/skills/Sleight of Hand\|Sleight of Hand]] (Dex) | Perception (Wis)                                           |
+| Tie a prisoner securely    | [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] (Wis)           | [[rangoric-srd/skills/Escape Artist\|Escape Artist]] (Dex) |
 
-1 *An Intimidation check is opposed by the target’s level check, not a skill check. See the Intimidation skill description for more information.*
+1 _An Intimidation check is opposed by the target’s level check, not a skill check. See the Intimidation skill description for more information._
 
 ###### Trying Again
 
@@ -160,7 +160,7 @@ Here is the format for skill descriptions.
 
 The skill name line includes (in addition to the name of the skill) the following information.
 
-**Key Ability**: The abbreviation of the ability whose modifier applies to the skill check. 
+**Key Ability**: The abbreviation of the ability whose modifier applies to the skill check.
 
 **Trained Only**: If this notation is included in the skill name line, you must have at least 1 rank in the skill to use it. If it is omitted, the skill can be used untrained (with a rank of 0). If any special notes apply to trained or untrained use, they are covered in the Untrained section (see below).
 

@@ -28,15 +28,15 @@ tags: [rangoric, rangoric/spell]
 
 # Detect Psychic Significance
 
-*Divination*
+_Divination_
 
-  - **Level**: Med 0, Mes 0, Occ 0, Psy 0, Spi 0
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: 40 ft.
-  - **Area**: 40-ft.-radius burst, centered on you
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Med 0, Mes 0, Occ 0, Psy 0, Spi 0
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: 40 ft.
+- **Area**: 40-ft.-radius burst, centered on you
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-You detect the presence of psychically significant items in your vicinity. Such items are those that might have significant psychic imprints or histories that can be read by the [[rangoric-srd/skills/Appraise#Psychometry|psychometry]] occult skill unlock, or items under the effects of the *[[rangoric-srd/spells/Charge Object|charge object]]* or *[[rangoric-srd/spells/Implant False Reading|implant false reading]]* spells. Items within range that contain significant psychic energy spark a recognition in your mind's eye, but no other information is imparted. This spell doesn't automatically detect magic items or strongly aligned items, though such items often have storied histories and might have had previous owners who possessed psychic abilities.
+You detect the presence of psychically significant items in your vicinity. Such items are those that might have significant psychic imprints or histories that can be read by the [[rangoric-srd/skills/Appraise#Psychometry|psychometry]] occult skill unlock, or items under the effects of the _[[rangoric-srd/spells/Charge Object|charge object]]_ or _[[rangoric-srd/spells/Implant False Reading|implant false reading]]_ spells. Items within range that contain significant psychic energy spark a recognition in your mind's eye, but no other information is imparted. This spell doesn't automatically detect magic items or strongly aligned items, though such items often have storied histories and might have had previous owners who possessed psychic abilities.

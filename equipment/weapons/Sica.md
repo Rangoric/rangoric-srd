@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades]
 
 # Sica
 
-*Exotic light melee weapon (performance).* Cost 10 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 2 lb.; Type Slashing. ^stats
+_Exotic light melee weapon (performance)._ Cost 10 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 2 lb.; Type Slashing. ^stats
 
 This blade is a smaller, lighter version of the [[rangoric-srd/equipment/weapons/Shotel|shotel]]. You gain a +1 bonus on attack rolls with a sica against opponents using bucklers, light shields, or heavy shields.
 

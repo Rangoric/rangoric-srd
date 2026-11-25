@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/armor]
 
 # Targe
 
-*Shield.* Cost 20 gp; Shield Bonus +1; Armor Check Penalty –1; Arcane Spell Failure 5%; Weight 5 lb. ^stats
+_Shield._ Cost 20 gp; Shield Bonus +1; Armor Check Penalty –1; Arcane Spell Failure 5%; Weight 5 lb. ^stats
 
 The targe (tärj) is a leather-covered wooden shield, often rimmed, bound or studded with metal and including a steel spike that protrudes from the center. The shield is small enough to be worn on the back of the off-hand forearm with a weapon held in that hand (usually a dirk). It functions as a light shield with shield spikes.
 

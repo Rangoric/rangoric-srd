@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Cyclops
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
-  - **Hit Dice**: 10d8+20 (65 hp)
-  - **Initiative**: –1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 19 (+4 armor, –1 Dex, +7 natural, –1 size), touch 8, flat-footed 19
-  - **Base Attack**: +7; **CMB**: +13; **CMD**: 22
-  - **Attack**: [[rangoric-srd/equipment/weapons/Greataxe|Greataxe]] +11 melee (3d6+7/×3) or [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +5 ranged (2d8/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Greataxe|Greataxe]] +11/+6 melee (3d6+7/×3); or [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +5 ranged (2d8/19–20)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], flash of insight
-  - **Saves**: Fort +9, Ref +2, Will +4
-  - **Abilities**: Str 21, Dex 8, Con 15, Int 10, Wis 13, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Profession|Profession]] (soothsayer) +10
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any temperate or tropical
-  - **Organization**: Solitary or conclave (2–6) or tribe (7–18)
-  - **Challenge Rating**: 5
-  - **Treasure**: Standard (hide armor, Large greataxe, Large heavy crossbow, other treasure)
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
+- **Hit Dice**: 10d8+20 (65 hp)
+- **Initiative**: –1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 19 (+4 armor, –1 Dex, +7 natural, –1 size), touch 8, flat-footed 19
+- **Base Attack**: +7; **CMB**: +13; **CMD**: 22
+- **Attack**: [[rangoric-srd/equipment/weapons/Greataxe|Greataxe]] +11 melee (3d6+7/×3) or [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +5 ranged (2d8/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Greataxe|Greataxe]] +11/+6 melee (3d6+7/×3); or [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +5 ranged (2d8/19–20)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], flash of insight
+- **Saves**: Fort +9, Ref +2, Will +4
+- **Abilities**: Str 21, Dex 8, Con 15, Int 10, Wis 13, Cha 8
+- **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Profession|Profession]] (soothsayer) +10
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any temperate or tropical
+- **Organization**: Solitary or conclave (2–6) or tribe (7–18)
+- **Challenge Rating**: 5
+- **Treasure**: Standard (hide armor, Large greataxe, Large heavy crossbow, other treasure)
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Many thousands of years ago, the solemn cyclopes ruled vast kingdoms, yet today their glories are long forgotten. What few cyclopes survive seldom aspire higher than protecting their lairs and seeking out their next meals. This latter task occupies a great deal of their focus, for the monstrous appetites and vacuous hunger of the cyclopes control the race's destiny and may have led to their original downfall so long ago.
 

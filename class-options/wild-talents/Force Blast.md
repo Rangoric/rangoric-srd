@@ -18,14 +18,14 @@ tags: [rangoric, rangoric/class-option]
 
 # Force Blast
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#^composite-blasts|composite blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#^composite-blasts|composite blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Aether Element|aether]]
-  - **Type**: composite blast (Sp)
-  - **Level**: —
-  - **Burn**: 2
-  - **Prerequisites**: [[rangoric-srd/classes/Kineticist#^kineticist-elemental-focus|primary element]] ([[rangoric-srd/class-options/elements/Aether Element|aether]]), [[rangoric-srd/classes/Kineticist#^kineticist-expanded-element|expanded element]] ([[rangoric-srd/class-options/elements/Aether Element|aether]])
-  - **Blast Type**: energy
-  - **Damage**: force (see text)
+- **Element**: [[rangoric-srd/class-options/elements/Aether Element|aether]]
+- **Type**: composite blast (Sp)
+- **Level**: —
+- **Burn**: 2
+- **Prerequisites**: [[rangoric-srd/classes/Kineticist#^kineticist-elemental-focus|primary element]] ([[rangoric-srd/class-options/elements/Aether Element|aether]]), [[rangoric-srd/classes/Kineticist#^kineticist-expanded-element|expanded element]] ([[rangoric-srd/class-options/elements/Aether Element|aether]])
+- **Blast Type**: energy
+- **Damage**: force (see text)
 
 You throw a burst of force at a foe. Force blast deals damage as a simple energy blast instead of a composite energy blast.

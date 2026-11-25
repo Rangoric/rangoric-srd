@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Standard Bearer
 
-*A [[rangoric-srd/classes/Cavalier#^cavalier-archetypes|cavalier]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Cavalier#^cavalier-archetypes|cavalier]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Not all cavaliers are content to ride at the head of a charge, leading from the front and facing down their enemies directly. Some prefer to stand away from the fray, their banners a beacon shining brightly over the battlefield, rallying their troops to victory. The standard bearer employs the banner of his order, his lord, or his own house to raise the spirits of his allies and warns enemies of impending doom.
 

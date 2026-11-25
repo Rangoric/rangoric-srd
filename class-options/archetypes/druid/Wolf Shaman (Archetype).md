@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Wolf Shaman
 
-*A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A shaman with this totem calls upon the clever wolf, capable of roaming alone yet wise enough to run with a pack when facing dangers too great for one alone.
 
@@ -29,9 +29,9 @@ A shaman with this totem calls upon the clever wolf, capable of roaming alone ye
 
 **Wild Empathy (Ex)**: A wolf shaman can use [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] with canines as a full-round action with a +4 bonus.
 
-**Totem Transformation (Su)**: At 2nd level, a wolf shaman may adopt an aspect of the wolf while retaining her normal form. This ability functions as the [[rangoric-srd/class-options/archetypes/druid/Bear Shaman (Archetype)|bear shaman ability]], but the druid may select from the following bonuses: movement (+20 enhancement bonus to land speed), senses ([[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Scent|scent]], +4 racial bonus to [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] when tracking by scent), or natural weapons (bite \[1d4 plus [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]]\] for a Medium druid, +2 [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Bonus|CMB]] to trip). While using totem transformation, the wolf shaman may speak normally and can cast *[[rangoric-srd/spells/Speak with Animals|speak with animals]]* (canines only) at will. This ability replaces [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]].
+**Totem Transformation (Su)**: At 2nd level, a wolf shaman may adopt an aspect of the wolf while retaining her normal form. This ability functions as the [[rangoric-srd/class-options/archetypes/druid/Bear Shaman (Archetype)|bear shaman ability]], but the druid may select from the following bonuses: movement (+20 enhancement bonus to land speed), senses ([[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Scent|scent]], +4 racial bonus to [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] when tracking by scent), or natural weapons (bite \[1d4 plus [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]]\] for a Medium druid, +2 [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Bonus|CMB]] to trip). While using totem transformation, the wolf shaman may speak normally and can cast _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_ (canines only) at will. This ability replaces [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]].
 
-**Totemic Summons (Su)**: At 5th level, a wolf shaman may cast *[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature's ally]]* as a standard action when summoning canines, and these summoned creatures gain temporary hit points equal to her druid level. This ability otherwise functions as the [[rangoric-srd/class-options/archetypes/druid/Bear Shaman (Archetype)|bear shaman ability]].
+**Totemic Summons (Su)**: At 5th level, a wolf shaman may cast _[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature's ally]]_ as a standard action when summoning canines, and these summoned creatures gain temporary hit points equal to her druid level. This ability otherwise functions as the [[rangoric-srd/class-options/archetypes/druid/Bear Shaman (Archetype)|bear shaman ability]].
 
 **Wild Shape (Su)**: At 6th level, a wolf shaman's [[rangoric-srd/classes/Druid#^druid-wild-shape|wild shape]] ability functions at her druid level – 2. If she takes on the form of a canine, she instead uses her druid level + 2.
 

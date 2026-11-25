@@ -37,33 +37,33 @@ tags: [rangoric, rangoric/monster]
 
 # Sirrush
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 40d10+680 (900 hp)
-  - **Initiative**: +23 (+15 Dex, +8 [[rangoric-srd/feats/Superior Initiative|Superior Initiative]])
-  - **Speed**: 90 ft.
-  - **Armor Class**: 44 (+15 Dex, -1 size, +20 natural)
-  - **Base Attack**: +40; **CMB**: +57; **CMD**: 82 (86 vs. trip)
-  - **Attack**: Claw +56 (2d6+16/19-20 (+1d6 on critical hit)) melee
-  - **Full Attack**: 4 claws +56 (2d6+16/19-20 (+1d6 on critical hit)) melee, bite +54 (4d6+8) melee
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], stunning roar
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 300 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/epic, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 20, low-light vision, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 39, [[rangoric-srd/monsters/abilities/Scent|scent]]; acid, cold, electricity, fire, and [[rangoric-srd/monsters/abilities/Resistance|sonic resistance]] 10
-  - **Saves**: Fort +39, Ref +37, Will +27
-  - **Abilities**: Str 42, Dex 40, Con 44, Int 21, Wis 38, Cha 28
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +59 (+83 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +57, [[rangoric-srd/skills/Perception|Perception]] +57, [[rangoric-srd/skills/Stealth|Stealth]] +58
-  - **Unspent Skill Points**: 120
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
-  - **Epic Feats**: [[rangoric-srd/feats/Blinding Speed|Blinding Speed]] (x4), [[rangoric-srd/feats/Overwhelming Critical|Overwhelming Critical]] (claw), [[rangoric-srd/feats/Superior Initiative|Superior Initiative]]
-  - **limate/Terrain**: Any
-  - **Organization**: Solitary, pair, or pack (4-9 sirrushes and 1-2 three-headed sirrushes)
-  - **Challenge Rating**: 24
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: 41-50 HD (Large), 51-60 HD (Huge), 61+ HD (Gargantuan)
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 40d10+680 (900 hp)
+- **Initiative**: +23 (+15 Dex, +8 [[rangoric-srd/feats/Superior Initiative|Superior Initiative]])
+- **Speed**: 90 ft.
+- **Armor Class**: 44 (+15 Dex, -1 size, +20 natural)
+- **Base Attack**: +40; **CMB**: +57; **CMD**: 82 (86 vs. trip)
+- **Attack**: Claw +56 (2d6+16/19-20 (+1d6 on critical hit)) melee
+- **Full Attack**: 4 claws +56 (2d6+16/19-20 (+1d6 on critical hit)) melee, bite +54 (4d6+8) melee
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], stunning roar
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 300 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/epic, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 20, low-light vision, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 39, [[rangoric-srd/monsters/abilities/Scent|scent]]; acid, cold, electricity, fire, and [[rangoric-srd/monsters/abilities/Resistance|sonic resistance]] 10
+- **Saves**: Fort +39, Ref +37, Will +27
+- **Abilities**: Str 42, Dex 40, Con 44, Int 21, Wis 38, Cha 28
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +59 (+83 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +57, [[rangoric-srd/skills/Perception|Perception]] +57, [[rangoric-srd/skills/Stealth|Stealth]] +58
+- **Unspent Skill Points**: 120
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
+- **Epic Feats**: [[rangoric-srd/feats/Blinding Speed|Blinding Speed]] (x4), [[rangoric-srd/feats/Overwhelming Critical|Overwhelming Critical]] (claw), [[rangoric-srd/feats/Superior Initiative|Superior Initiative]]
+- **limate/Terrain**: Any
+- **Organization**: Solitary, pair, or pack (4-9 sirrushes and 1-2 three-headed sirrushes)
+- **Challenge Rating**: 24
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: 41-50 HD (Large), 51-60 HD (Huge), 61+ HD (Gargantuan)
 
 **Also in this entry:**
 
-  - [[rangoric-srd/monsters/sirrush/Three-Headed Sirrush|Three-Headed Sirrush]]
+- [[rangoric-srd/monsters/sirrush/Three-Headed Sirrush|Three-Headed Sirrush]]
 
 Sirrushes speak Sylvan and Draconic.
 

@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Thoqqua
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Earth, Elemental, Extraplanar, Fire)
-  - **Hit Dice**: 3d10+6 (22 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares), burrow 20 ft.
-  - **Armor Class**: 15 (+1 Dex, +4 natural), touch 11, flat-footed 14
-  - **Base Attack**: +3; **CMB**: +4; **CMD**: 15 (can't be tripped)
-  - **Attack**: Slam +4 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
-  - **Full Attack**: Slam +4 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (1d6, DC 13)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., molten body, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability]] to cold
-  - **Saves**: Fort +5, Ref +4, Will +2
-  - **Abilities**: Str 13, Dex 13, Con 15, Int 6, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +7
-  - **Feats**: [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any land (Elemental Plane of Fire)
-  - **Organization**: Solitary or pair
-  - **Challenge Rating**: 2
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 4–9 HD (Large)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Earth, Elemental, Extraplanar, Fire)
+- **Hit Dice**: 3d10+6 (22 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares), burrow 20 ft.
+- **Armor Class**: 15 (+1 Dex, +4 natural), touch 11, flat-footed 14
+- **Base Attack**: +3; **CMB**: +4; **CMD**: 15 (can't be tripped)
+- **Attack**: Slam +4 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
+- **Full Attack**: Slam +4 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (1d6, DC 13)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., molten body, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability]] to cold
+- **Saves**: Fort +5, Ref +4, Will +2
+- **Abilities**: Str 13, Dex 13, Con 15, Int 6, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +7
+- **Feats**: [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any land (Elemental Plane of Fire)
+- **Organization**: Solitary or pair
+- **Challenge Rating**: 2
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 4–9 HD (Large)
+- **Level Adjustment**: —
 
 Thoqquas are cantankerous creatures of fire and slag. Their bodies generate incredible heat that allows them to burrow or melt through most surfaces, even solid rock. Thoqquas are native to the vast ash deserts and lava fields where the Plane of Fire abuts the Plane of Earth. There they consume ore and minerals, which their furnace-like bodies then smelt into armor plates that grant the creatures their natural armor—as outsiders, these creatures have no need to eat to survive, but a “starving” thoqqua generally has a lower natural armor bonus than a healthy one.
 

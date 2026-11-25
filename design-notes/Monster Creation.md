@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/designer-reference]
 
 # Monster Creation
 
-*The benchmarks in this note are the source game’s: its tables of statistics by CR, Hit Dice, size and treasure compare new monsters with that game’s monsters and challenge ratings, so use them as a guide for how much a monster of a given CR should do, and check a new monster against Rangoric’s own monsters of the same CR.*
+_The benchmarks in this note are the source game’s: its tables of statistics by CR, Hit Dice, size and treasure compare new monsters with that game’s monsters and challenge ratings, so use them as a guide for how much a monster of a given CR should do, and check a new monster against Rangoric’s own monsters of the same CR._
 
 Creating a monster is part science and part art. While most monsters follow a general pattern of their overall power and abilities as related to their Challenge Rating (CR), there are many exceptions. Some monsters, for example, have significantly more hit points or a higher AC than the average for their CR, but make up for this advantage by being weak in other areas. Other monsters have significantly higher average damage, but have a lower attack bonus.
 
@@ -25,29 +25,29 @@ The first step in creating a new monster is to define its concept and role in th
 
 **Table: Monster Statistics by CR**
 
-| CR | Hit Points | Armor Class | High Attack | Low Attack | Average Damage High | Average Damage Low | Primary Ability DC | Secondary Ability DC | Good Save | Poor Save |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1/2 | 10 | 11 | 1 | 0 | 4 | 3 | 11 | 8 | 3 | 0 |
-| 1 | 15 | 12 | 2 | 1 | 7 | 5 | 12 | 9 | 4 | 1 |
-| 2 | 20 | 14 | 4 | 3 | 10 | 7 | 13 | 9 | 5 | 1 |
-| 3 | 30 | 15 | 6 | 4 | 13 | 9 | 14 | 10 | 6 | 2 |
-| 4 | 40 | 17 | 8 | 6 | 16 | 12 | 15 | 10 | 7 | 3 |
-| 5 | 55 | 18 | 10 | 7 | 20 | 15 | 15 | 11 | 8 | 4 |
-| 6 | 70 | 19 | 12 | 8 | 25 | 18 | 16 | 11 | 9 | 5 |
-| 7 | 85 | 20 | 13 | 10 | 30 | 22 | 17 | 12 | 10 | 6 |
-| 8 | 100 | 21 | 15 | 11 | 35 | 26 | 18 | 12 | 11 | 7 |
-| 9 | 115 | 23 | 17 | 12 | 40 | 30 | 18 | 13 | 12 | 8 |
-| 10 | 130 | 24 | 18 | 13 | 45 | 33 | 19 | 13 | 13 | 9 |
-| 11 | 145 | 25 | 19 | 14 | 50 | 37 | 20 | 14 | 14 | 10 |
-| 12 | 160 | 27 | 21 | 15 | 55 | 41 | 21 | 15 | 15 | 11 |
-| 13 | 180 | 28 | 22 | 16 | 60 | 45 | 21 | 15 | 16 | 12 |
-| 14 | 200 | 29 | 23 | 17 | 65 | 48 | 22 | 16 | 17 | 12 |
-| 15 | 220 | 30 | 24 | 18 | 70 | 52 | 23 | 16 | 18 | 13 |
-| 16 | 240 | 31 | 26 | 19 | 80 | 60 | 24 | 17 | 19 | 14 |
-| 17 | 270 | 32 | 27 | 20 | 90 | 67 | 24 | 18 | 20 | 15 |
-| 18 | 300 | 33 | 28 | 21 | 100 | 75 | 25 | 18 | 20 | 16 |
-| 19 | 330 | 34 | 29 | 22 | 110 | 82 | 26 | 19 | 21 | 16 |
-| 20 | 370 | 36 | 30 | 23 | 120 | 90 | 27 | 20 | 22 | 17 |
+| CR  | Hit Points | Armor Class | High Attack | Low Attack | Average Damage High | Average Damage Low | Primary Ability DC | Secondary Ability DC | Good Save | Poor Save |
+| --- | ---------- | ----------- | ----------- | ---------- | ------------------- | ------------------ | ------------------ | -------------------- | --------- | --------- |
+| 1/2 | 10         | 11          | 1           | 0          | 4                   | 3                  | 11                 | 8                    | 3         | 0         |
+| 1   | 15         | 12          | 2           | 1          | 7                   | 5                  | 12                 | 9                    | 4         | 1         |
+| 2   | 20         | 14          | 4           | 3          | 10                  | 7                  | 13                 | 9                    | 5         | 1         |
+| 3   | 30         | 15          | 6           | 4          | 13                  | 9                  | 14                 | 10                   | 6         | 2         |
+| 4   | 40         | 17          | 8           | 6          | 16                  | 12                 | 15                 | 10                   | 7         | 3         |
+| 5   | 55         | 18          | 10          | 7          | 20                  | 15                 | 15                 | 11                   | 8         | 4         |
+| 6   | 70         | 19          | 12          | 8          | 25                  | 18                 | 16                 | 11                   | 9         | 5         |
+| 7   | 85         | 20          | 13          | 10         | 30                  | 22                 | 17                 | 12                   | 10        | 6         |
+| 8   | 100        | 21          | 15          | 11         | 35                  | 26                 | 18                 | 12                   | 11        | 7         |
+| 9   | 115        | 23          | 17          | 12         | 40                  | 30                 | 18                 | 13                   | 12        | 8         |
+| 10  | 130        | 24          | 18          | 13         | 45                  | 33                 | 19                 | 13                   | 13        | 9         |
+| 11  | 145        | 25          | 19          | 14         | 50                  | 37                 | 20                 | 14                   | 14        | 10        |
+| 12  | 160        | 27          | 21          | 15         | 55                  | 41                 | 21                 | 15                   | 15        | 11        |
+| 13  | 180        | 28          | 22          | 16         | 60                  | 45                 | 21                 | 15                   | 16        | 12        |
+| 14  | 200        | 29          | 23          | 17         | 65                  | 48                 | 22                 | 16                   | 17        | 12        |
+| 15  | 220        | 30          | 24          | 18         | 70                  | 52                 | 23                 | 16                   | 18        | 13        |
+| 16  | 240        | 31          | 26          | 19         | 80                  | 60                 | 24                 | 17                   | 19        | 14        |
+| 17  | 270        | 32          | 27          | 20         | 90                  | 67                 | 24                 | 18                   | 20        | 15        |
+| 18  | 300        | 33          | 28          | 21         | 100                 | 75                 | 25                 | 18                   | 20        | 16        |
+| 19  | 330        | 34          | 29          | 22         | 110                 | 82                 | 26                 | 19                   | 21        | 16        |
+| 20  | 370        | 36          | 30          | 23         | 120                 | 90                 | 27                 | 20                   | 22        | 17        |
 
 ## Step 2: Target Statistics
 
@@ -83,15 +83,15 @@ This is the average saving throw bonus for a creature of this CR if the saving t
 
 **Table: Average Die Results**
 
-| Die Type | Average Result\* |
-| --- | --- |
-| d4 | 2.5 |
-| d6 | 3.5 |
-| d8 | 4.5 |
-| d10 | 5.5 |
-| d12 | 6.5 |
-| d20 | 10.5 |
-| \*Always round down after multiplying. For example, treat the average of 1d4 as 2, and the average of 2d4 as 5. |  |
+| Die Type                                                                                                        | Average Result\* |
+| --------------------------------------------------------------------------------------------------------------- | ---------------- |
+| d4                                                                                                              | 2.5              |
+| d6                                                                                                              | 3.5              |
+| d8                                                                                                              | 4.5              |
+| d10                                                                                                             | 5.5              |
+| d12                                                                                                             | 6.5              |
+| d20                                                                                                             | 10.5             |
+| \*Always round down after multiplying. For example, treat the average of 1d4 as 2, and the average of 2d4 as 5. |                  |
 
 ## Step 3: Hit Dice
 
@@ -101,35 +101,35 @@ A creature's total number of Hit Dice depends on a number of factors, but the tw
 
 **Table: Creature Hit Dice**
 
-| Creature Type | Challenge Rating 1/2 | Challenge Rating 1 | Challenge Rating 2 | Challenge Rating 3 | Challenge Rating 4 | Challenge Rating 5 | Challenge Rating 6 | Challenge Rating 7 | Challenge Rating 8 | Challenge Rating 9 | Challenge Rating 10 | Challenge Rating 11 | Challenge Rating 12 | Challenge Rating 13 | Challenge Rating 14 | Challenge Rating 15 | Challenge Rating 16 | Challenge Rating 17 | Challenge Rating 18 | Challenge Rating 19 | Challenge Rating 20 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Aberration | 1 | 2 | 3 | 4 | 5 | 7 | 9 | 10 | 12 | 14 | 15 | 16 | 17 | 19 | 20 | 22 | 24 | 26 | 28 | 30 | 34 |
-| Animal | 1 | 2 | 3 | 4 | 5 | 7 | 9 | 10 | 12 | 14 | 15 | 16 | 17 | 19 | 20 | 22 | 24 | 26 | 28 | 30 | 34 |
-| Construct | 1 | 2 | 3 | 4 | 5 | 6 | 8 | 9 | 10 | 12 | 13 | 14 | 16 | 18 | 19 | 20 | 21 | 23 | 25 | 28 | 31 |
-| Dragon | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 11 | 12 | 13 | 14 | 16 | 17 | 18 | 19 | 21 | 23 | 25 | 29 |
-| Fey | 2 | 3 | 4 | 5 | 6 | 8 | 10 | 12 | 13 | 15 | 17 | 18 | 20 | 22 | 23 | 25 | 26 | 28 | 31 | 33 | 37 |
-| Humanoid | 1 | 2 | 3 | 4 | 5 | 7 | 9 | 10 | 12 | 14 | 15 | 16 | 17 | 19 | 20 | 22 | 24 | 26 | 28 | 30 | 34 |
-| Magical beast | 1 | 2 | 3 | 4 | 5 | 6 | 8 | 9 | 10 | 12 | 13 | 14 | 16 | 18 | 19 | 20 | 21 | 23 | 25 | 28 | 31 |
-| Monstrous humanoid | 1 | 2 | 3 | 4 | 5 | 6 | 8 | 9 | 10 | 12 | 13 | 14 | 16 | 18 | 19 | 20 | 21 | 23 | 25 | 28 | 31 |
-| Ooze | 1 | 2 | 3 | 4 | 5 | 7 | 9 | 10 | 12 | 14 | 15 | 16 | 17 | 19 | 20 | 22 | 24 | 26 | 28 | 30 | 34 |
-| Outsider | 1 | 2 | 3 | 4 | 5 | 6 | 8 | 9 | 10 | 12 | 13 | 14 | 16 | 18 | 19 | 20 | 21 | 23 | 25 | 28 | 31 |
-| Plant | 1 | 2 | 3 | 4 | 5 | 7 | 9 | 10 | 12 | 14 | 15 | 16 | 17 | 19 | 20 | 22 | 24 | 26 | 28 | 30 | 34 |
-| Undead | 1 | 2 | 3 | 4 | 5 | 7 | 9 | 10 | 12 | 14 | 15 | 16 | 17 | 19 | 20 | 22 | 24 | 26 | 28 | 30 | 34 |
-| Vermin | 1 | 2 | 3 | 4 | 5 | 7 | 9 | 10 | 12 | 14 | 15 | 16 | 17 | 19 | 20 | 22 | 24 | 26 | 28 | 30 | 32 |
+| Creature Type      | Challenge Rating 1/2 | Challenge Rating 1 | Challenge Rating 2 | Challenge Rating 3 | Challenge Rating 4 | Challenge Rating 5 | Challenge Rating 6 | Challenge Rating 7 | Challenge Rating 8 | Challenge Rating 9 | Challenge Rating 10 | Challenge Rating 11 | Challenge Rating 12 | Challenge Rating 13 | Challenge Rating 14 | Challenge Rating 15 | Challenge Rating 16 | Challenge Rating 17 | Challenge Rating 18 | Challenge Rating 19 | Challenge Rating 20 |
+| ------------------ | -------------------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| Aberration         | 1                    | 2                  | 3                  | 4                  | 5                  | 7                  | 9                  | 10                 | 12                 | 14                 | 15                  | 16                  | 17                  | 19                  | 20                  | 22                  | 24                  | 26                  | 28                  | 30                  | 34                  |
+| Animal             | 1                    | 2                  | 3                  | 4                  | 5                  | 7                  | 9                  | 10                 | 12                 | 14                 | 15                  | 16                  | 17                  | 19                  | 20                  | 22                  | 24                  | 26                  | 28                  | 30                  | 34                  |
+| Construct          | 1                    | 2                  | 3                  | 4                  | 5                  | 6                  | 8                  | 9                  | 10                 | 12                 | 13                  | 14                  | 16                  | 18                  | 19                  | 20                  | 21                  | 23                  | 25                  | 28                  | 31                  |
+| Dragon             | 1                    | 2                  | 3                  | 4                  | 5                  | 6                  | 7                  | 8                  | 9                  | 11                 | 12                  | 13                  | 14                  | 16                  | 17                  | 18                  | 19                  | 21                  | 23                  | 25                  | 29                  |
+| Fey                | 2                    | 3                  | 4                  | 5                  | 6                  | 8                  | 10                 | 12                 | 13                 | 15                 | 17                  | 18                  | 20                  | 22                  | 23                  | 25                  | 26                  | 28                  | 31                  | 33                  | 37                  |
+| Humanoid           | 1                    | 2                  | 3                  | 4                  | 5                  | 7                  | 9                  | 10                 | 12                 | 14                 | 15                  | 16                  | 17                  | 19                  | 20                  | 22                  | 24                  | 26                  | 28                  | 30                  | 34                  |
+| Magical beast      | 1                    | 2                  | 3                  | 4                  | 5                  | 6                  | 8                  | 9                  | 10                 | 12                 | 13                  | 14                  | 16                  | 18                  | 19                  | 20                  | 21                  | 23                  | 25                  | 28                  | 31                  |
+| Monstrous humanoid | 1                    | 2                  | 3                  | 4                  | 5                  | 6                  | 8                  | 9                  | 10                 | 12                 | 13                  | 14                  | 16                  | 18                  | 19                  | 20                  | 21                  | 23                  | 25                  | 28                  | 31                  |
+| Ooze               | 1                    | 2                  | 3                  | 4                  | 5                  | 7                  | 9                  | 10                 | 12                 | 14                 | 15                  | 16                  | 17                  | 19                  | 20                  | 22                  | 24                  | 26                  | 28                  | 30                  | 34                  |
+| Outsider           | 1                    | 2                  | 3                  | 4                  | 5                  | 6                  | 8                  | 9                  | 10                 | 12                 | 13                  | 14                  | 16                  | 18                  | 19                  | 20                  | 21                  | 23                  | 25                  | 28                  | 31                  |
+| Plant              | 1                    | 2                  | 3                  | 4                  | 5                  | 7                  | 9                  | 10                 | 12                 | 14                 | 15                  | 16                  | 17                  | 19                  | 20                  | 22                  | 24                  | 26                  | 28                  | 30                  | 34                  |
+| Undead             | 1                    | 2                  | 3                  | 4                  | 5                  | 7                  | 9                  | 10                 | 12                 | 14                 | 15                  | 16                  | 17                  | 19                  | 20                  | 22                  | 24                  | 26                  | 28                  | 30                  | 34                  |
+| Vermin             | 1                    | 2                  | 3                  | 4                  | 5                  | 7                  | 9                  | 10                 | 12                 | 14                 | 15                  | 16                  | 17                  | 19                  | 20                  | 22                  | 24                  | 26                  | 28                  | 30                  | 32                  |
 
 **Table: Size**
 
-| Size | Minimum CR | Maximum CR | Base Str | Base Dex | Base Con |
-| --- | --- | --- | --- | --- | --- |
-| Fine | — | 2 | 1 | 18 | 8 |
-| Diminutive | — | 4 | 1 | 16 | 8 |
-| Tiny | — | 6 | 2 | 14 | 8 |
-| Small | — | — | 6 | 12 | 8 |
-| Medium | — | — | 10 | 10 | 10 |
-| Large | 2 | — | 18 | 8 | 14 |
-| Huge | 4 | — | 26 | 6 | 18 |
-| Gargantuan | 6 | — | 34 | 6 | 22 |
-| Colossal | 8 | — | 42 | 6 | 26 |
+| Size       | Minimum CR | Maximum CR | Base Str | Base Dex | Base Con |
+| ---------- | ---------- | ---------- | -------- | -------- | -------- |
+| Fine       | —          | 2          | 1        | 18       | 8        |
+| Diminutive | —          | 4          | 1        | 16       | 8        |
+| Tiny       | —          | 6          | 2        | 14       | 8        |
+| Small      | —          | —          | 6        | 12       | 8        |
+| Medium     | —          | —          | 10       | 10       | 10       |
+| Large      | 2          | —          | 18       | 8        | 14       |
+| Huge       | 4          | —          | 26       | 6        | 18       |
+| Gargantuan | 6          | —          | 34       | 6        | 22       |
+| Colossal   | 8          | —          | 42       | 6        | 26       |
 
 ## Step 4: Size
 
@@ -155,38 +155,38 @@ After you have assigned skills, it's time to assign the creature's feats. Each c
 
 **Table: Statistics Summary**
 
-| HD | Fast BAB | Medium BAB | Slow BAB | Good Save | Bad Save | Feats |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 | +1 | +0 | +0 | +2 | +0 | 1 |
-| 2 | +2 | +1 | +1 | +3 | +0 | 1 |
-| 3 | +3 | +2 | +1 | +3 | +1 | 2 |
-| 4 | +4 | +3 | +2 | +4 | +1 | 2 |
-| 5 | +5 | +3 | +2 | +4 | +1 | 3 |
-| 6 | +6 | +4 | +3 | +5 | +2 | 3 |
-| 7 | +7 | +5 | +3 | +5 | +2 | 4 |
-| 8 | +8 | +6 | +4 | +6 | +2 | 4 |
-| 9 | +9 | +6 | +4 | +6 | +3 | 5 |
-| 10 | +10 | +7 | +5 | +7 | +3 | 5 |
-| 11 | +11 | +8 | +5 | +7 | +3 | 6 |
-| 12 | +12 | +9 | +6 | +8 | +4 | 6 |
-| 13 | +13 | +9 | +6 | +8 | +4 | 7 |
-| 14 | +14 | +10 | +7 | +9 | +4 | 7 |
-| 15 | +15 | +11 | +7 | +9 | +5 | 8 |
-| 16 | +16 | +12 | +8 | +10 | +5 | 8 |
-| 17 | +17 | +12 | +8 | +10 | +5 | 9 |
-| 18 | +18 | +13 | +9 | +11 | +6 | 9 |
-| 19 | +19 | +14 | +9 | +11 | +6 | 10 |
-| 20 | +20 | +15 | +10 | +12 | +6 | 10 |
-| 21 | +21 | +15 | +10 | +12 | +7 | 11 |
-| 22 | +22 | +16 | +11 | +13 | +7 | 11 |
-| 23 | +23 | +17 | +11 | +13 | +7 | 12 |
-| 24 | +24 | +18 | +12 | +14 | +8 | 12 |
-| 25 | +25 | +18 | +12 | +14 | +8 | 13 |
-| 26 | +26 | +19 | +13 | +15 | +8 | 13 |
-| 27 | +27 | +20 | +13 | +15 | +9 | 14 |
-| 28 | +28 | +21 | +14 | +16 | +9 | 14 |
-| 29 | +29 | +21 | +14 | +16 | +9 | 15 |
-| 30 | +30 | +22 | +15 | +17 | +10 | 15 |
+| HD  | Fast BAB | Medium BAB | Slow BAB | Good Save | Bad Save | Feats |
+| --- | -------- | ---------- | -------- | --------- | -------- | ----- |
+| 1   | +1       | +0         | +0       | +2        | +0       | 1     |
+| 2   | +2       | +1         | +1       | +3        | +0       | 1     |
+| 3   | +3       | +2         | +1       | +3        | +1       | 2     |
+| 4   | +4       | +3         | +2       | +4        | +1       | 2     |
+| 5   | +5       | +3         | +2       | +4        | +1       | 3     |
+| 6   | +6       | +4         | +3       | +5        | +2       | 3     |
+| 7   | +7       | +5         | +3       | +5        | +2       | 4     |
+| 8   | +8       | +6         | +4       | +6        | +2       | 4     |
+| 9   | +9       | +6         | +4       | +6        | +3       | 5     |
+| 10  | +10      | +7         | +5       | +7        | +3       | 5     |
+| 11  | +11      | +8         | +5       | +7        | +3       | 6     |
+| 12  | +12      | +9         | +6       | +8        | +4       | 6     |
+| 13  | +13      | +9         | +6       | +8        | +4       | 7     |
+| 14  | +14      | +10        | +7       | +9        | +4       | 7     |
+| 15  | +15      | +11        | +7       | +9        | +5       | 8     |
+| 16  | +16      | +12        | +8       | +10       | +5       | 8     |
+| 17  | +17      | +12        | +8       | +10       | +5       | 9     |
+| 18  | +18      | +13        | +9       | +11       | +6       | 9     |
+| 19  | +19      | +14        | +9       | +11       | +6       | 10    |
+| 20  | +20      | +15        | +10      | +12       | +6       | 10    |
+| 21  | +21      | +15        | +10      | +12       | +7       | 11    |
+| 22  | +22      | +16        | +11      | +13       | +7       | 11    |
+| 23  | +23      | +17        | +11      | +13       | +7       | 12    |
+| 24  | +24      | +18        | +12      | +14       | +8       | 12    |
+| 25  | +25      | +18        | +12      | +14       | +8       | 13    |
+| 26  | +26      | +19        | +13      | +15       | +8       | 13    |
+| 27  | +27      | +20        | +13      | +15       | +9       | 14    |
+| 28  | +28      | +21        | +14      | +16       | +9       | 14    |
+| 29  | +29      | +21        | +14      | +16       | +9       | 15    |
+| 30  | +30      | +22        | +15      | +17       | +10      | 15    |
 
 ## Step 7: Other Statistics
 
@@ -204,22 +204,22 @@ When determining a creature's speed, first decide if it has any alternative mode
 
 **Table: Creature Statistics by Type**
 
-| Type | Hit Die | Base Attack Bonus (BAB) | Good Saving Throws | Skill Ranks\* |
-| --- | --- | --- | --- | --- |
-| Aberration | d8 | HD × 3/4 (Medium BAB) | Will | 4 + Int mod per HD |
-| Animal | d8 | HD × 3/4 (Medium BAB) | Fort, Ref | 2 + Int mod per HD |
-| Construct | d10 | HD (Fast BAB) | — | 2 + Int mod per HD |
-| Dragon | d12 | HD (Fast BAB) | Fort, Ref, Will | 6 + Int mod per HD |
-| Fey | d6 | HD × 1/2 (Slow BAB) | Ref, Will | 6 + Int mod per HD |
-| Humanoid | d8 | HD × 3/4 (Medium BAB) | Varies (any one) | 2 + Int mod per HD |
-| Magical beast | d10 | HD (Fast BAB) | Fort, Ref | 2 + Int mod per HD |
-| Monstrous humanoid | d10 | HD (Fast BAB) | Ref, Will | 4 + Int mod per HD |
-| Ooze | d8 | HD × 3/4 (Medium BAB) | — | 2 + Int mod per HD |
-| Outsider | d10 | HD (Fast BAB) | Varies (any two) | 6 + Int mod per HD |
-| Plant | d8 | HD × 3/4 (Medium BAB) | Fort | 2 + Int mod per HD |
-| Undead | d8 | HD × 3/4 (Medium BAB) | Will | 4 + Int mod per HD |
-| Vermin | d8 | HD × 3/4 (Medium BAB) | Fort | 2 + Int mod per HD |
-| \* As long as a creature has an Intelligence of at least 1, it gains a minimum of 1 skill point per Hit Die. Creatures with an Intelligence score of “—” gain no skill points or feats. |  |  |  |  |
+| Type                                                                                                                                                                                    | Hit Die | Base Attack Bonus (BAB) | Good Saving Throws | Skill Ranks\*      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------------- | ------------------ | ------------------ |
+| Aberration                                                                                                                                                                              | d8      | HD × 3/4 (Medium BAB)   | Will               | 4 + Int mod per HD |
+| Animal                                                                                                                                                                                  | d8      | HD × 3/4 (Medium BAB)   | Fort, Ref          | 2 + Int mod per HD |
+| Construct                                                                                                                                                                               | d10     | HD (Fast BAB)           | —                  | 2 + Int mod per HD |
+| Dragon                                                                                                                                                                                  | d12     | HD (Fast BAB)           | Fort, Ref, Will    | 6 + Int mod per HD |
+| Fey                                                                                                                                                                                     | d6      | HD × 1/2 (Slow BAB)     | Ref, Will          | 6 + Int mod per HD |
+| Humanoid                                                                                                                                                                                | d8      | HD × 3/4 (Medium BAB)   | Varies (any one)   | 2 + Int mod per HD |
+| Magical beast                                                                                                                                                                           | d10     | HD (Fast BAB)           | Fort, Ref          | 2 + Int mod per HD |
+| Monstrous humanoid                                                                                                                                                                      | d10     | HD (Fast BAB)           | Ref, Will          | 4 + Int mod per HD |
+| Ooze                                                                                                                                                                                    | d8      | HD × 3/4 (Medium BAB)   | —                  | 2 + Int mod per HD |
+| Outsider                                                                                                                                                                                | d10     | HD (Fast BAB)           | Varies (any two)   | 6 + Int mod per HD |
+| Plant                                                                                                                                                                                   | d8      | HD × 3/4 (Medium BAB)   | Fort               | 2 + Int mod per HD |
+| Undead                                                                                                                                                                                  | d8      | HD × 3/4 (Medium BAB)   | Will               | 4 + Int mod per HD |
+| Vermin                                                                                                                                                                                  | d8      | HD × 3/4 (Medium BAB)   | Fort               | 2 + Int mod per HD |
+| \* As long as a creature has an Intelligence of at least 1, it gains a minimum of 1 skill point per Hit Die. Creatures with an Intelligence score of “—” gain no skill points or feats. |         |                         |                    |                    |
 
 ## Step 8: Special Abilities and Qualities
 

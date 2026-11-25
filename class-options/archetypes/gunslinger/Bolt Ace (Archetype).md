@@ -24,7 +24,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Bolt Ace
 
-*A [[rangoric-srd/classes/Gunslinger#^gunslinger-archetypes|gunslinger]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Gunslinger#^gunslinger-archetypes|gunslinger]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 While gunslingers are full of sound and fury, there is a class of gunslingers that never soil their hands with powder or feel the sting of gun smoke. They commit their deeds in a more hushed manner, but with just as much flair.
 

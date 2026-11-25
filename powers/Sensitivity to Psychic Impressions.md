@@ -31,7 +31,7 @@ Clairsentience
 **Duration:** Concentration, up to 10 min./level  
 **Saving Throw:** None  
 **Power Resistance:** No  
-**Power Points:** 3  
+**Power Points:** 3
 
 You gain historical vision in a given location. Rooms, streets, tunnels, and other discrete locations accumulate psychic impressions left by powerful emotions experienced in a given area. These impressions offer you a picture of the location’s past.
 

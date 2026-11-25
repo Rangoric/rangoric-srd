@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Masterwreck Acid
 
-*Chymical; Special*
+_Chymical; Special_
 
 This acid could be a normal polishing agent in a blacksmith’s shop, though it is too expensive for that. Its major use is for ruining any magically-enchanted or enhanced materials. If exposed to any material with magic embedded in it, the acid quickly bubbles and turns highly corrosive, reducing the object’s material hit points by 1d8 points (and probably reducing its break DC, as per [[rangoric-srd/rules/Carrying, Movement, and Exploration#Smashing an Object|Smashing an Object]]). This damage can be enough to totally destroy magical swords or rings, and yet the bubbling acid leaves living flesh and alchemical or erlcana items intact and unharmed. Even if the item in question is not ruined, it will be weakened and more likely to break or be destroyed.
 

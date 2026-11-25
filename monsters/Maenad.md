@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Maenad
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
-  - **Hit Dice**: 9d10+45 (94 hp)
-  - **Initiative**: +8
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 20 (+4 Dex, +1 dodge, +5 natural), touch 15, flat-footed 15
-  - **Base Attack**: +9; **CMB**: +13; **CMD**: 28
-  - **Attack**: Bite +13 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or claw +13 melee (1d4+4/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: Bite +13 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and 2 claws +13 melee (1d4+4/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Infectious dance, [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., mad feast, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to *[[rangoric-srd/spells/Calm Emotions|calm emotions]]*, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
-  - **Saves**: Fort +8, Ref +10, Will +9 (+13 vs. mind-affecting effects)
-  - **Abilities**: Str 19, Dex 18, Con 20, Int 13, Wis 16, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Imitation|Imitation]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion)
-  - **Environment**: Temperate forests or plains
-  - **Organization**: Solitary, pair, or revel (3–12)
-  - **Challenge Rating**: 8
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
+- **Hit Dice**: 9d10+45 (94 hp)
+- **Initiative**: +8
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 20 (+4 Dex, +1 dodge, +5 natural), touch 15, flat-footed 15
+- **Base Attack**: +9; **CMB**: +13; **CMD**: 28
+- **Attack**: Bite +13 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or claw +13 melee (1d4+4/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: Bite +13 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and 2 claws +13 melee (1d4+4/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Infectious dance, [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., mad feast, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to _[[rangoric-srd/spells/Calm Emotions|calm emotions]]_, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
+- **Saves**: Fort +8, Ref +10, Will +9 (+13 vs. mind-affecting effects)
+- **Abilities**: Str 19, Dex 18, Con 20, Int 13, Wis 16, Cha 21
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Imitation|Imitation]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion)
+- **Environment**: Temperate forests or plains
+- **Organization**: Solitary, pair, or revel (3–12)
+- **Challenge Rating**: 8
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Creatures of unbridled violence and decadence, maenads roam the world inviting others to join in on their debased revels. Though they can otherwise pass for humans, maenads appear bestial when raging or engaging in a bloody revel. They consume massive amounts of wine and food, cause fights, and tear their foes limb from limb. They control people's minds, subconsciously inviting them to engage in their bloody festivities and fostering urges that lead to excesses of hunger, lust, anger, and violence.
 
@@ -71,9 +71,9 @@ The psionic humanoid race of the same name is [[rangoric-srd/monsters/Maenad, Ps
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +17): At will—*[[rangoric-srd/spells/Murderous Command|murderous command]]* (DC 16), *[[rangoric-srd/spells/Polypurpose Panacea|polypurpose panacea]]*, *[[rangoric-srd/spells/Rage|rage]]*; 3/day—*[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*, *[[rangoric-srd/spells/Charm Monster|charm monster]]* (DC 19), *[[rangoric-srd/spells/Mad Hallucination|mad hallucination]]* (DC 17), *[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +17): At will—_[[rangoric-srd/spells/Murderous Command|murderous command]]_ (DC 16), _[[rangoric-srd/spells/Polypurpose Panacea|polypurpose panacea]]_, _[[rangoric-srd/spells/Rage|rage]]_; 3/day—_[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 19), _[[rangoric-srd/spells/Mad Hallucination|mad hallucination]]_ (DC 17), _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_.
 
-**Infectious Dance (Su)**: Any creature viewing a dancing maenad from within 60 feet of her must succeed at a DC 19 Will save or be affected as if by *[[rangoric-srd/spells/Confusion|confusion]]* for 1 hour. For every four creatures affected by this ability, the maenad gains 1d10 temporary hit points and her Charisma score increases by 1; these benefits end if the affected creatures break free of the dance.
+**Infectious Dance (Su)**: Any creature viewing a dancing maenad from within 60 feet of her must succeed at a DC 19 Will save or be affected as if by _[[rangoric-srd/spells/Confusion|confusion]]_ for 1 hour. For every four creatures affected by this ability, the maenad gains 1d10 temporary hit points and her Charisma score increases by 1; these benefits end if the affected creatures break free of the dance.
 
 **Mad Feast (Su)**: As a full-round action, a maenad can conjure a supernatural feast. Creatures eating from this feast gain a +2 bonus to Strength and Constitution, 1d8 temporary hit points, and a +4 morale bonus on fear saves for 12 hours. Creatures affected also take a -4 penalty on Will saving throws (this penalty does not apply on saves against fear), and find it more compelling to engage in debauchery, excess, and violence.
 

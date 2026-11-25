@@ -20,10 +20,10 @@ A psychic weapon’s power depends on its wielder. In the hands of a nonpsionic 
 
 | Power Point Reserve | Enhancement Bonus |
 | ------------------- | ----------------- |
-| 0-4                 | +1               |
-| 5-29                | +2               |
-| 30-79               | +3               |
-| 80-129              | +4               |
-| 130 or higher       | +5               |
+| 0-4                 | +1                |
+| 5-29                | +2                |
+| 30-79               | +3                |
+| 80-129              | +4                |
+| 130 or higher       | +5                |
 
 Strong clairsentience; ML 17th; Craft Psionic Arms and Armor, reality revision; Price +35,000.

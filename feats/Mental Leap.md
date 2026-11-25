@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Mental Leap
 
-You can make amazing jumps.  
+You can make amazing jumps.
 
 Prerequisite: Str 13, [[rangoric-srd/skills/Athletics|Athletics]] 2 ranks.
 

@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/herb]
 - **Environment**: Temperate to warm hills and mountains
 - **Harvest**: Perennial
 - **Cost**: 5 gp/oz. of dried seeds (as spice) or by stalk (as dye) or by flower head
-- **Game Use**: Component (Spells), Dye, Herb/Spice, Special (chewing on a flower/six petals as a free action provides a one-round *speak with animals* effect for imbiber)
+- **Game Use**: Component (Spells), Dye, Herb/Spice, Special (chewing on a flower/six petals as a free action provides a one-round _speak with animals_ effect for imbiber)
 
 This rare plant grows low to the ground with a tough, variegated stalk of gold and green, tough protective leaves forming a tight sheath on the stalk, and ending in a six-petaled star-shaped flower of white and gold. The stalks and leaves are boiled down to pulpy masses and crushed to release a strong yellow to gold-colored dye, and the flowers and seeds are crushed and dried as a potent and highly desired spice for cooking. Among the most esoteric uses for the flower are its ability to temporarily expand the mind and allow brief communication with animals and its use as a component of evocations.
 

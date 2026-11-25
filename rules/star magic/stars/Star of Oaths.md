@@ -23,17 +23,17 @@ tags: [rangoric, rangoric/star]
 
 # Star of Oaths
 
-*[[rangoric-srd/rules/star magic/Star Magic|Star]]*
+_[[rangoric-srd/rules/star magic/Star Magic|Star]]_
 
-  - **Call Level**: 1st ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
-  - **Aspect**: Ascendant in spring, descendant in autumn, on the horizon in summer and winter ([[rangoric-srd/rules/star magic/Star Magic#^seasons|seasons]])
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: One creature
-  - **Duration**: Until the deed is done or 2 hours
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes
+- **Call Level**: 1st ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
+- **Aspect**: Ascendant in spring, descendant in autumn, on the horizon in summer and winter ([[rangoric-srd/rules/star magic/Star Magic#^seasons|seasons]])
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: One creature
+- **Duration**: Until the deed is done or 2 hours
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes
 
 The target swears to do one specific deed that takes no more than 2 hours, though it needn't start at once. While doing it, the target gains a +1 morale bonus per call level on rolls made to do it.
 

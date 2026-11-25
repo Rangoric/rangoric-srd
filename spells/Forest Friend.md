@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Forest Friend
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Drd 2, Hun 2, Rgr 2
-  - **Components**: : V, S, M (a pinch of manure)
-  - **Casting Time**: 1 round
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Targets**: One willing living creature per three levels, no two of which may be more than 30 ft. apart.
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Drd 2, Hun 2, Rgr 2
+- **Components**: : V, S, M (a pinch of manure)
+- **Casting Time**: 1 round
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Targets**: One willing living creature per three levels, no two of which may be more than 30 ft. apart.
+- **Duration**: 1 minute/level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 While subject to this spell, the targets find that forested areas become helpful instead of hindering. The targets suffer no hindrances to movement and suffer no penalties on Acrobatics and Stealth checks from undergrowth in forested terrain. Furthermore, forested overgrowth imposes a miss chance 10% lower than normal.
 

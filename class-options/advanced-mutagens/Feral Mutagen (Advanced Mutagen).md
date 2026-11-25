@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Feral Mutagen
 
-*A [[rangoric-srd/prestige-classes/Master Chymist#^master-chymist-advanced-mutagen|master chymist’s advanced mutagen]] (Ex).*
+_A [[rangoric-srd/prestige-classes/Master Chymist#^master-chymist-advanced-mutagen|master chymist’s advanced mutagen]] (Ex)._
 
 This mutagen is identical to the [[rangoric-srd/class-options/discoveries/Feral Mutagen (Discovery)|feral mutagen]] alchemist discovery and counts as that discovery for the purpose of qualifying for other discoveries or advanced mutagens.

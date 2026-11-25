@@ -23,10 +23,10 @@ tags: [rangoric, rangoric/magic-item]
 
 When the wielder of this hollow wooden staff speaks or shouts, it reverberates with the sound of her voice, lending a booming insistence to her words. It allows the use of the following spells:
 
-- *[[rangoric-srd/spells/Suggestion|Suggestion]]* (1 charge)
-- *[[rangoric-srd/spells/Tongues|Tongues]]* (1 charge)
-- *[[rangoric-srd/spells/Denounce|Denounce]]* (2 charges)
-- *[[rangoric-srd/spells/Glibness|Glibness]]* (2 charges)
-- *[[rangoric-srd/spells/Suggestion, Mass|Mass suggestion]]* (4 charges)
+- _[[rangoric-srd/spells/Suggestion|Suggestion]]_ (1 charge)
+- _[[rangoric-srd/spells/Tongues|Tongues]]_ (1 charge)
+- _[[rangoric-srd/spells/Denounce|Denounce]]_ (2 charges)
+- _[[rangoric-srd/spells/Glibness|Glibness]]_ (2 charges)
+- _[[rangoric-srd/spells/Suggestion, Mass|Mass suggestion]]_ (4 charges)
 
-Moderate enchantment; CL 9th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Denounce|denounce]]*, *[[rangoric-srd/spells/Glibness|glibness]]*, *[[rangoric-srd/spells/Suggestion, Mass|mass suggestion]]*, *[[rangoric-srd/spells/Suggestion|suggestion]]*, *[[rangoric-srd/spells/Tongues|tongues]]*; Price 57,200 gp; Cost 28,600 gp; Weight 5 lbs.
+Moderate enchantment; CL 9th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Denounce|denounce]]_, _[[rangoric-srd/spells/Glibness|glibness]]_, _[[rangoric-srd/spells/Suggestion, Mass|mass suggestion]]_, _[[rangoric-srd/spells/Suggestion|suggestion]]_, _[[rangoric-srd/spells/Tongues|tongues]]_; Price 57,200 gp; Cost 28,600 gp; Weight 5 lbs.

@@ -17,7 +17,7 @@ At some point in your family's history, a dragon interbred with your bloodline, 
 
 **Class Skill**: [[rangoric-srd/skills/Perception|Perception]].
 
-**Bonus Spells**: *[[rangoric-srd/spells/Mage Armor|mage armor]]* (3rd), *[[rangoric-srd/spells/Resist Energy|resist energy]]* (5th), *[[rangoric-srd/spells/Fly|fly]]* (7th), *[[rangoric-srd/spells/Fear|fear]]* (9th), *[[rangoric-srd/spells/Spell Resistance|spell resistance]]* (11th), *[[rangoric-srd/spells/Form of the Dragon I|form of the dragon I]]* (13th), *[[rangoric-srd/spells/Form of the Dragon II|form of the dragon II]]* (15th), *[[rangoric-srd/spells/Form of the Dragon III|form of the dragon III]]* (17th), *[[rangoric-srd/spells/Wish|wish]]* (19th).
+**Bonus Spells**: _[[rangoric-srd/spells/Mage Armor|mage armor]]_ (3rd), _[[rangoric-srd/spells/Resist Energy|resist energy]]_ (5th), _[[rangoric-srd/spells/Fly|fly]]_ (7th), _[[rangoric-srd/spells/Fear|fear]]_ (9th), _[[rangoric-srd/spells/Spell Resistance|spell resistance]]_ (11th), _[[rangoric-srd/spells/Form of the Dragon I|form of the dragon I]]_ (13th), _[[rangoric-srd/spells/Form of the Dragon II|form of the dragon II]]_ (15th), _[[rangoric-srd/spells/Form of the Dragon III|form of the dragon III]]_ (17th), _[[rangoric-srd/spells/Wish|wish]]_ (19th).
 
 **Bonus Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quicken Spell|Quicken Spell]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Arcana), [[rangoric-srd/feats/Toughness|Toughness]].
 
@@ -32,7 +32,7 @@ The power of dragons flows through you and manifests in a number of ways. At 1st
 ### Dragon Type
 
 | Dragon Type | Energy Type | Breath Shape |
-|-------------|-------------|--------------|
+| ----------- | ----------- | ------------ |
 | Black       | Acid        | 60-foot line |
 | Blue        | Electricity | 60-foot line |
 | Green       | Acid        | 30-foot cone |

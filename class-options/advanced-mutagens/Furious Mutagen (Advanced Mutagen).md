@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Furious Mutagen
 
-*A [[rangoric-srd/prestige-classes/Master Chymist#^master-chymist-advanced-mutagen|master chymist’s advanced mutagen]] (Ex).*
+_A [[rangoric-srd/prestige-classes/Master Chymist#^master-chymist-advanced-mutagen|master chymist’s advanced mutagen]] (Ex)._
 
 The damage dice for the feral mutagen’s bite and claw attacks increase by one die step. The character must have an effective alchemist level (alchemist level plus chymist level) of at least 11 and must have the [[rangoric-srd/class-options/discoveries/Feral Mutagen (Discovery)|feral mutagen]] discovery or [[rangoric-srd/class-options/advanced-mutagens/Feral Mutagen (Advanced Mutagen)|feral mutagen]] advanced mutagen to select this ability.

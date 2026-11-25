@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Vanara Monk
 
-*A [[rangoric-srd/races/Vanara|vanara]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Monk#^monk-class-bonuses|monk]] or [[rangoric-srd/classes/Unchained Monk#^unchained-monk-class-bonuses|unchained monk]] level.*
+_A [[rangoric-srd/races/Vanara|vanara]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Monk#^monk-class-bonuses|monk]] or [[rangoric-srd/classes/Unchained Monk#^unchained-monk-class-bonuses|unchained monk]] level._
 
 Add a +1 bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks made to [[rangoric-srd/skills/Athletics#Jumping|jump]].

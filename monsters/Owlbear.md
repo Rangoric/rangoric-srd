@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Owlbear
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 5d10+20 (47 hp)
-  - **Initiative**: +5
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 15 (+1 Dex, +5 natural, –1 size), touch 10, flat-footed 14
-  - **Base Attack**: +5; **CMB**: +10 (+14 grapple); **CMD**: 21 (25 vs. trip)
-  - **Attack**: Claw +8 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or bite +8 melee (1d6+4)
-  - **Full Attack**: 2 claws +8 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and bite +8 melee (1d6+4)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +10, Ref +5, Will +2
-  - **Abilities**: Str 19, Dex 12, Con 18, Int 2, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +12
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary, pair, or pack (3–8)
-  - **Challenge Rating**: 4
-  - **Treasure**: Incidental
-  - **Alignment**: Always neutral
-  - **Advancement**: 6–8 HD (Large); 9–15 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 5d10+20 (47 hp)
+- **Initiative**: +5
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 15 (+1 Dex, +5 natural, –1 size), touch 10, flat-footed 14
+- **Base Attack**: +5; **CMB**: +10 (+14 grapple); **CMD**: 21 (25 vs. trip)
+- **Attack**: Claw +8 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or bite +8 melee (1d6+4)
+- **Full Attack**: 2 claws +8 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and bite +8 melee (1d6+4)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +10, Ref +5, Will +2
+- **Abilities**: Str 19, Dex 12, Con 18, Int 2, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +12
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Temperate forests
+- **Organization**: Solitary, pair, or pack (3–8)
+- **Challenge Rating**: 4
+- **Treasure**: Incidental
+- **Alignment**: Always neutral
+- **Advancement**: 6–8 HD (Large); 9–15 HD (Huge)
+- **Level Adjustment**: —
 
 The origin of the owlbear is a subject of great debate among scholars of the monstrous creatures of the world. However, most concur that at some point in the distant past, a deranged [[rangoric-srd/classes/Wizard|wizard]] created the original specimens by crossing an owl with a bear—perhaps as proof of some insane concept about the nature of life, but possibly out of sheer lunacy. Whatever the original purpose of such a freakish creation as the owlbear, the creature bred true and has become quite well-established in woodlands across the world, where it plays a key role in a region's ecosystem as an apex predator.
 

@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Darkmantle
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 2d10+4 (15 hp)
-  - **Initiative**: +6
-  - **Speed**: 20 ft. (4 squares), fly 30 ft. (poor)
-  - **Armor Class**: 15 (+2 Dex, +2 natural, +1 size), touch 13, flat-footed 13
-  - **Base Attack**: +2; **CMB**: +1 (+5 grapple); **CMD**: 13 (can't be tripped)
-  - **Attack**: Slam +3 melee (1d4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Slam +3 melee (1d4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d4+4), [[rangoric-srd/monsters/abilities/Grab|grab]] (any size), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 90 ft, [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
-  - **Saves**: Fort +5, Ref +3, Will +0
-  - **Abilities**: Str 11, Dex 15, Con 14, Int 2, Wis 11, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
-  - **Environment**: Any underground
-  - **Organization**: Solitary, pair, clutch (3–12), or swarm (6–15)
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: 2–3 HD (Small)
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 2d10+4 (15 hp)
+- **Initiative**: +6
+- **Speed**: 20 ft. (4 squares), fly 30 ft. (poor)
+- **Armor Class**: 15 (+2 Dex, +2 natural, +1 size), touch 13, flat-footed 13
+- **Base Attack**: +2; **CMB**: +1 (+5 grapple); **CMD**: 13 (can't be tripped)
+- **Attack**: Slam +3 melee (1d4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Slam +3 melee (1d4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d4+4), [[rangoric-srd/monsters/abilities/Grab|grab]] (any size), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 90 ft, [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
+- **Saves**: Fort +5, Ref +3, Will +0
+- **Abilities**: Str 11, Dex 15, Con 14, Int 2, Wis 11, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
+- **Environment**: Any underground
+- **Organization**: Solitary, pair, clutch (3–12), or swarm (6–15)
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: 2–3 HD (Small)
+- **Level Adjustment**: —
 
 A darkmantle's tentacle-span measures just under 5 feet—when attached to a cave roof and disguised as a stalactite, its length varies from 2 to 3 feet. A typical darkmantle weighs 40 pounds. The creatures' heads and bodies are usually the color of basalt or dark granite, but their webbed tentacles can change color to match their surroundings.
 
@@ -74,4 +74,4 @@ A darkmantle's life cycle is swift—young grow to maturity in a matter of month
 
 A darkmantle attacks by dropping onto its prey and wrapping its tentacles around the opponent’s head. Once attached, it squeezes and tries to suffocate the foe. A darkmantle that misses its initial attack often flies up and tries to drop on the opponent again.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 5th): 1/day—*[[rangoric-srd/spells/Darkness|darkness]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 5th): 1/day—_[[rangoric-srd/spells/Darkness|darkness]]_.

@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/weapon]
 
 # Throwing Shield
 
-*Exotic ranged weapon (performance, trip).* Cost +50 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Range Increment 20 ft.; Weight —; Type Bludgeoning. ^stats
+_Exotic ranged weapon (performance, trip)._ Cost +50 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Range Increment 20 ft.; Weight —; Type Bludgeoning. ^stats
 
 This shield is designed for throwing and has specially designed straps allowing you to unclasp and throw it as a free action. Tower shields cannot be throwing shields. Neither a shield's enhancement bonus to AC nor its shield spikes apply on your attack or damage rolls.
 

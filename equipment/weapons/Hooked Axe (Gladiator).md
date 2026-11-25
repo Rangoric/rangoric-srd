@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/axes]
 
 # Hooked Axe (Gladiator)
 
-*Exotic one-handed melee weapon (disarm, performance, trip).* Cost 20 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 7 lb.; Type Slashing. ^stats
+_Exotic one-handed melee weapon (disarm, performance, trip)._ Cost 20 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 7 lb.; Type Slashing. ^stats
 
 The hooked end of this axe's blade can be used to [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]] foes or pull them off balance. A hooked axe can be used as a martial weapon (in which case it functions like a [[rangoric-srd/equipment/weapons/Battleaxe|battleaxe]]).
 

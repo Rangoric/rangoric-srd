@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Quick Swim
 
-*A [[rangoric-srd/class-options/hunters-tricks/Hunter's Tricks|hunter’s trick]] (Ex), which a [[rangoric-srd/class-options/archetypes/ranger/Skirmisher (Archetype)|skirmisher]] ranger learns.*
+_A [[rangoric-srd/class-options/hunters-tricks/Hunter's Tricks|hunter’s trick]] (Ex), which a [[rangoric-srd/class-options/archetypes/ranger/Skirmisher (Archetype)|skirmisher]] ranger learns._
 
 The ranger can swim ([[rangoric-srd/skills/Athletics|Athletics]]) at his full speed as a move action without penalty.

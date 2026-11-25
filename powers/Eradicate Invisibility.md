@@ -31,7 +31,7 @@ Psychokinesis
 **Duration:** Instantaneous  
 **Saving Throw:** Reflex negates  
 **Power Resistance:** No  
-**Power Points:** 5  
+**Power Points:** 5
 
 You radiate a psychokinetic burst that disrupts and negates all types of invisibility (though this power can’t negate the effect of cloud mind). Any creature that fails its save to avoid the effect loses its invisibility.
 

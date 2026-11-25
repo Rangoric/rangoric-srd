@@ -17,4 +17,4 @@ tags: [rangoric, rangoric/racial-trait, racial-trait/magical, racial-trait/stand
 
 **Race**: [[rangoric-srd/races/Elf|Elf]]. **Replaces**: elven immunities and elven magic.
 
-Many elves revere the sun, moon, and stars, but some are literally infused with the radiant power of the heavens. Elves with this racial trait are immune to light-based blindness and dazzle effects, and are treated as one level higher when determining the effects of any light-based spell or effect they cast (including spell-like and supernatural abilities). Elves with Intelligence scores of 10 or higher may use *[[rangoric-srd/spells/Light|light]]* at will as a spell-like ability.
+Many elves revere the sun, moon, and stars, but some are literally infused with the radiant power of the heavens. Elves with this racial trait are immune to light-based blindness and dazzle effects, and are treated as one level higher when determining the effects of any light-based spell or effect they cast (including spell-like and supernatural abilities). Elves with Intelligence scores of 10 or higher may use _[[rangoric-srd/spells/Light|light]]_ at will as a spell-like ability.

@@ -51,18 +51,18 @@ The mortal slayer’s class skills (and the key ability for each skill) are [[ra
 
 **Table: The Mortal Slayer** ^table-the-mortal-slayer
 
-| Level | Special | Spells per Day: 1st | 2nd | 3rd | 4th |
-| --- | --- | --- | --- | --- | --- |
-| 1st | 1st Favored Enemy | 0 | — | — | — |
-| 2nd | — | 1 | — | — | — |
-| 3rd | Sneak Attack (+1d6) | 1 | 0 | — | — |
-| 4th | 2nd Favored Enemy | 1 | 1 | — | — |
-| 5th | — | 1 | 1 | 0 | — |
-| 6th | Sneak Attack (+2d6) | 1 | 1 | 1 | — |
-| 7th | 3rd Favored Enemy | 2 | 1 | 1 | 0 |
-| 8th | Unfurl the Mortal Coil | 2 | 1 | 1 | 1 |
-| 9th | Sneak Attack (+3d6), Fey Glade | 2 | 2 | 1 | 1 |
-| 10th | 4th Favored Enemy, Seal Doorway, Unfurl the Mortal Coil | 2 | 2 | 2 | 1 |
+| Level | Special                                                 | Spells per Day: 1st | 2nd | 3rd | 4th |
+| ----- | ------------------------------------------------------- | ------------------- | --- | --- | --- |
+| 1st   | 1st Favored Enemy                                       | 0                   | —   | —   | —   |
+| 2nd   | —                                                       | 1                   | —   | —   | —   |
+| 3rd   | Sneak Attack (+1d6)                                     | 1                   | 0   | —   | —   |
+| 4th   | 2nd Favored Enemy                                       | 1                   | 1   | —   | —   |
+| 5th   | —                                                       | 1                   | 1   | 0   | —   |
+| 6th   | Sneak Attack (+2d6)                                     | 1                   | 1   | 1   | —   |
+| 7th   | 3rd Favored Enemy                                       | 2                   | 1   | 1   | 0   |
+| 8th   | Unfurl the Mortal Coil                                  | 2                   | 1   | 1   | 1   |
+| 9th   | Sneak Attack (+3d6), Fey Glade                          | 2                   | 2   | 1   | 1   |
+| 10th  | 4th Favored Enemy, Seal Doorway, Unfurl the Mortal Coil | 2                   | 2   | 2   | 1   |
 
 ###### Class Features
 
@@ -76,7 +76,7 @@ All of the following are class features of the mortal slayer prestige class.
 
 **Unfurl the Mortal Coil (Su)**: With an unarmed touch attack, a mortal slayer can send disruptive energies into a non-fey foe. The target creature must make a Fortitude saving throw (DC 15 + prestige class level) against a successful hit. If it fails, it takes 2d6 points of Constitution [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]]. One minute later, the target creature must make another Fortitude save (same DC) as the energies dissipate in a glowing yellowish vapor flowing out of the target’s mouth. If the second saving throw fails, the target creature takes an additional 2d6 points of Constitution damage. This supernatural ability is usable once per week at 8th level, and twice per week at 10th level. ^mortal-slayer-unfurl-the-mortal-coil
 
-**Fey Glade (Su)**: Upon reaching 9th level, the mortal slayer is able to create a *fey glade* during the burial of a fallen fey creature. A *fey glade* doubles the natural healing of fey creatures staying in it, although it does not work for mortals. If a faerie hunter enters a *fey glade*, she takes 1d4 points of damage per round she remains in the glade. A *fey glade* is 10 yards in diameter, plus an additional 5 yards per HD of the fallen creature. A *fey glade* is identifiable by the lush vegetation and fragrant wildflowers growing in it; the vegetation, regardless of other surroundings, matches that native to the buried creature’s homelands. A successful [[rangoric-srd/skills/Lore|Lore (fey)]] check (DC 15) is needed to confirm its presence without entering. ^mortal-slayer-fey-glade
+**Fey Glade (Su)**: Upon reaching 9th level, the mortal slayer is able to create a _fey glade_ during the burial of a fallen fey creature. A _fey glade_ doubles the natural healing of fey creatures staying in it, although it does not work for mortals. If a faerie hunter enters a _fey glade_, she takes 1d4 points of damage per round she remains in the glade. A _fey glade_ is 10 yards in diameter, plus an additional 5 yards per HD of the fallen creature. A _fey glade_ is identifiable by the lush vegetation and fragrant wildflowers growing in it; the vegetation, regardless of other surroundings, matches that native to the buried creature’s homelands. A successful [[rangoric-srd/skills/Lore|Lore (fey)]] check (DC 15) is needed to confirm its presence without entering. ^mortal-slayer-fey-glade
 
 **Seal Doorway (Su)**: At 10th level, mortal slayers gain the supernatural ability to close a fey [[rangoric-srd/rules/Fey Roads and Doorways#Doorways|doorway]] to the fey realm, removing an avenue for more mortals to come there. Where a [[rangoric-srd/rules/Fey Roads and Doorways#Fey Roads|fey road]] has an opening to a mortal world, the mortal slayer can make the fey road one-way, preventing any passage into the fey realm. In melee this takes a move action, and it provokes attacks of opportunity if performed in a threatened space. ^mortal-slayer-seal-doorway
 
@@ -86,10 +86,10 @@ All of the following are class features of the mortal slayer prestige class.
 
 These spells carry “Msl” levels.
 
-**1st Level**: *[[rangoric-srd/spells/Alarm|alarm]]*, *[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]*, *[[rangoric-srd/spells/Detect Evil|detect evil]]*, *[[rangoric-srd/spells/Detect Fey|detect fey]]*, *[[rangoric-srd/spells/Endure Elements|endure elements]]*, *[[rangoric-srd/spells/Mage Armor|mage armor]]*, *[[rangoric-srd/spells/Magic Weapon|magic weapon]]*, *[[rangoric-srd/spells/Protection from Evil|protection from evil]]*, *[[rangoric-srd/spells/Read Magic|read magic]]*.
+**1st Level**: _[[rangoric-srd/spells/Alarm|alarm]]_, _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Detect Evil|detect evil]]_, _[[rangoric-srd/spells/Detect Fey|detect fey]]_, _[[rangoric-srd/spells/Endure Elements|endure elements]]_, _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Magic Weapon|magic weapon]]_, _[[rangoric-srd/spells/Protection from Evil|protection from evil]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_.
 
-**2nd Level**: *[[rangoric-srd/spells/Bull’s Strength|bull’s strength]]*, *[[rangoric-srd/spells/Blur|blur]]*, *[[rangoric-srd/spells/Cat’s Grace|cat’s grace]]*, *[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]*, *[[rangoric-srd/spells/Detect Fey Doorway|detect fey doorway]]*, *[[rangoric-srd/spells/Bear’s Endurance|bear’s endurance]]*, *[[rangoric-srd/spells/Hold Person|hold person]]*, *[[rangoric-srd/spells/Longvision|longvision]]*, *[[rangoric-srd/spells/Resist Energy|resist energy]]*, *[[rangoric-srd/spells/See Invisibility|see invisibility]]*.
+**2nd Level**: _[[rangoric-srd/spells/Bull’s Strength|bull’s strength]]_, _[[rangoric-srd/spells/Blur|blur]]_, _[[rangoric-srd/spells/Cat’s Grace|cat’s grace]]_, _[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]_, _[[rangoric-srd/spells/Detect Fey Doorway|detect fey doorway]]_, _[[rangoric-srd/spells/Bear’s Endurance|bear’s endurance]]_, _[[rangoric-srd/spells/Hold Person|hold person]]_, _[[rangoric-srd/spells/Longvision|longvision]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_, _[[rangoric-srd/spells/See Invisibility|see invisibility]]_.
 
-**3rd Level**: *[[rangoric-srd/spells/Bestow Curse|bestow curse]]*, *[[rangoric-srd/spells/Blink|blink]]*, *[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, *[[rangoric-srd/spells/Displacement|displacement]]*, *[[rangoric-srd/spells/Magic Weapon, Greater|greater magic weapon]]*, *[[rangoric-srd/spells/Haste|haste]]*, *[[rangoric-srd/spells/Keen Edge|keen edge]]*, *[[rangoric-srd/spells/Luck of the Fey|luck of the fey]]*, *[[rangoric-srd/spells/Protection from Energy|protection from energy]]*, *[[rangoric-srd/spells/Wing Wither|wing wither]]*.
+**3rd Level**: _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_, _[[rangoric-srd/spells/Blink|blink]]_, _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Displacement|displacement]]_, _[[rangoric-srd/spells/Magic Weapon, Greater|greater magic weapon]]_, _[[rangoric-srd/spells/Haste|haste]]_, _[[rangoric-srd/spells/Keen Edge|keen edge]]_, _[[rangoric-srd/spells/Luck of the Fey|luck of the fey]]_, _[[rangoric-srd/spells/Protection from Energy|protection from energy]]_, _[[rangoric-srd/spells/Wing Wither|wing wither]]_.
 
-**4th Level**: *[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]*, *[[rangoric-srd/spells/Discern Route|discern route]]*, *[[rangoric-srd/spells/Dismiss Fey|dismiss fey]]*, *[[rangoric-srd/spells/Dominate Person|dominate person]]*, *[[rangoric-srd/spells/Fitful Sleep|fitful sleep]]*, *[[rangoric-srd/spells/Locate Creature|locate creature]]*, *[[rangoric-srd/spells/Nondetection|nondetection]]*, *[[rangoric-srd/spells/Shout|shout]]*, *[[rangoric-srd/spells/Swift Journey|swift journey]]*.
+**4th Level**: _[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]_, _[[rangoric-srd/spells/Discern Route|discern route]]_, _[[rangoric-srd/spells/Dismiss Fey|dismiss fey]]_, _[[rangoric-srd/spells/Dominate Person|dominate person]]_, _[[rangoric-srd/spells/Fitful Sleep|fitful sleep]]_, _[[rangoric-srd/spells/Locate Creature|locate creature]]_, _[[rangoric-srd/spells/Nondetection|nondetection]]_, _[[rangoric-srd/spells/Shout|shout]]_, _[[rangoric-srd/spells/Swift Journey|swift journey]]_.

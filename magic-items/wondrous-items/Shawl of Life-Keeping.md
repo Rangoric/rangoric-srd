@@ -24,4 +24,4 @@ This magical shawl is woven from silken, diaphanous material. Once per day, the 
 
 While the shawl is storing a creature's life energy, it retains a connection to that creature. If another creature holds the shawl in its hand, the creature whose life energy is stored in the shawl takes a –2 penalty on Fortitude and Reflex saving throws against all effects from the current bearer of the shawl.
 
-Faint conjuration (healing); CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]*, *[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]*; Price 1,000 gp; Cost 500 gp.
+Faint conjuration (healing); CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_; Price 1,000 gp; Cost 500 gp.

@@ -33,7 +33,7 @@ Psychoportation
 **Duration:** 10 min./level (D)  
 **Saving Throw:** None  
 **Power Resistance:** Yes (harmless, object)  
-**Power Points:** 3  
+**Power Points:** 3
 
 As the [[rangoric-srd/spells/Levitate|levitate]] spell, except as noted here.
 

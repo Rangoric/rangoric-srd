@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Spelleater
 
-*A [[rangoric-srd/classes/Bloodrager#^bloodrager-archetypes|bloodrager]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Bloodrager#^bloodrager-archetypes|bloodrager]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Where other bloodragers learn to avoid or shrug off minor damage of all sorts, spelleaters tap into the power of their bloodline in order to heal damage as it comes, and can even cannibalize their own magical energy to heal more damage and continue taking the fight to the enemy.
 

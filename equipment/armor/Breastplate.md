@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/armor]
 
 # Breastplate
 
-*Medium armor.* Cost 200 gp; Armor Bonus +5; Maximum Dex Bonus +3; Armor Check Penalty –4; Arcane Spell Failure 25%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 30 lb. ^stats
+_Medium armor._ Cost 200 gp; Armor Bonus +5; Maximum Dex Bonus +3; Armor Check Penalty –4; Arcane Spell Failure 25%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 30 lb. ^stats
 
 It comes with a helmet and greaves.

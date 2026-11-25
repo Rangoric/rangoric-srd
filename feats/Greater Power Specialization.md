@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Greater Power Specialization
 
-You deal more damage with your powers.  
+You deal more damage with your powers.
 
 Prerequisites: [[rangoric-srd/feats/Power Specialization|Power Specialization]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (ray), manifester level 12th.
 

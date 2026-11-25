@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Possessed Oracle
 
-*An [[rangoric-srd/classes/Oracle#^oracle-archetypes|oracle]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_An [[rangoric-srd/classes/Oracle#^oracle-archetypes|oracle]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Some oracles are possessed by spirits, demons, or similar beings. Instead of the possessed oracle drawing her powers from deities, these otherworldly forces work their magic through her.
 
@@ -26,7 +26,7 @@ Some oracles are possessed by spirits, demons, or similar beings. Instead of the
 
 **Oracle's Curse**: A possessed oracle must choose the [[rangoric-srd/class-options/curses/Haunted Curse|haunted]] or [[rangoric-srd/class-options/curses/Tongues Curse|tongues]] [[rangoric-srd/classes/Oracle#^oracle-curse|curse]] at 1st level.
 
-**Bonus Spells**: *[[rangoric-srd/spells/Ventriloquism|ventriloquism]]* (1st), *[[rangoric-srd/spells/Spider Climb|spider climb]]* (4th), *[[rangoric-srd/spells/Screech|screech]]* (6th), *[[rangoric-srd/spells/Sleepwalk|sleepwalk]]* (8th), *[[rangoric-srd/spells/Telekinesis|telekinesis]]* (10th), *[[rangoric-srd/spells/Animate Objects|animate objects]]* (12th), *[[rangoric-srd/spells/Divine Vessel|divine vessel]]* (16th). These bonus spells replace the oracle's normal [[rangoric-srd/classes/Oracle#^oracle-mystery|mystery]] bonus spells at these levels.
+**Bonus Spells**: _[[rangoric-srd/spells/Ventriloquism|ventriloquism]]_ (1st), _[[rangoric-srd/spells/Spider Climb|spider climb]]_ (4th), _[[rangoric-srd/spells/Screech|screech]]_ (6th), _[[rangoric-srd/spells/Sleepwalk|sleepwalk]]_ (8th), _[[rangoric-srd/spells/Telekinesis|telekinesis]]_ (10th), _[[rangoric-srd/spells/Animate Objects|animate objects]]_ (12th), _[[rangoric-srd/spells/Divine Vessel|divine vessel]]_ (16th). These bonus spells replace the oracle's normal [[rangoric-srd/classes/Oracle#^oracle-mystery|mystery]] bonus spells at these levels.
 
 **Revelations**: A possessed oracle must take the following [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] at 1st level.
 

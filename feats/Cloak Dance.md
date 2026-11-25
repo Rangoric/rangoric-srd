@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat]
 
 # Cloak Dance
 
-You are skilled at using optical tricks to make yourself seem to be where you are not.  
+You are skilled at using optical tricks to make yourself seem to be where you are not.
 
 Prerequisites: [[rangoric-srd/skills/Stealth|Stealth]] 7 ranks, [[rangoric-srd/skills/Performance|Performance]] (dance) 1 rank.
 

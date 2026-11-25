@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades]
 
 # Elven Curve Blade
 
-*Exotic two-handed melee weapon.* Cost 80 gp; Dmg 1d8 (S), 1d10 (M); Critical 18–20/x2; Weight 7 lb.; Type Slashing. ^stats
+_Exotic two-handed melee weapon._ Cost 80 gp; Dmg 1d8 (S), 1d10 (M); Critical 18–20/x2; Weight 7 lb.; Type Slashing. ^stats
 
 Essentially a longer version of a scimitar, but with a thinner blade, the elven curve blade is exceptionally rare. You receive a +2 circumstance bonus to your CMD whenever a foe attempts to [[rangoric-srd/combat/Combat Maneuvers#Sunder|sunder]] your elven curve blade because of its flexible metal.
 

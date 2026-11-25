@@ -18,12 +18,12 @@ tags: [rangoric, rangoric/class-option]
 
 # Roots
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Wood Element|wood]]
-  - **Type**: utility (Su)
-  - **Level**: 1
-  - **Burn**: 0
+- **Element**: [[rangoric-srd/class-options/elements/Wood Element|wood]]
+- **Type**: utility (Su)
+- **Level**: 1
+- **Burn**: 0
 
 Your body sinks roots into soft surfaces, making it hard to move you. This functions as the [[rangoric-srd/class-options/wild-talents/Earth Walk|earth walk]] wild talent, except it works only on soft surfaces (like soil or snow) and not on stone.
 

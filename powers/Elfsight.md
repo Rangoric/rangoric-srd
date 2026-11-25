@@ -28,7 +28,7 @@ Manifesting Time: 1 standard action
 Range: Personal  
 Target: You  
 Duration: 1 hour/level  
-Power Points: Psion/wilder 3, psychic warrior 1  
+Power Points: Psion/wilder 3, psychic warrior 1
 
 You gain [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]] (as an elf ) for the duration of the power, as well as a +2 bonus on [[rangoric-srd/skills/Investigation|Investigation]] and [[rangoric-srd/skills/Perception|Perception]] checks.
 

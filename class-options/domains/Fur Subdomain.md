@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Fur Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Animal Domain|Animal]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Animal Domain|Animal]] domain._
 
 ## Replacement Power
 
@@ -27,7 +27,7 @@ This power replaces the [[rangoric-srd/class-options/domains/Animal Domain#Grant
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Magic Fang\|Magic Fang]] | One natural weapon of subject creature gets +1 on attack and damage rolls. |
-| 3rd | [[rangoric-srd/spells/Beast Shape I\|Beast Shape I]] (M) (animals only) | You take the form and some of the powers of a Small or Medium animal. |
+| Level | Spell                                                                   | Brief Description                                                          |
+| ----- | ----------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Magic Fang\|Magic Fang]]                          | One natural weapon of subject creature gets +1 on attack and damage rolls. |
+| 3rd   | [[rangoric-srd/spells/Beast Shape I\|Beast Shape I]] (M) (animals only) | You take the form and some of the powers of a Small or Medium animal.      |

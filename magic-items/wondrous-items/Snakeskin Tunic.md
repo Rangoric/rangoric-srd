@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Snakeskin Tunic
 
-A *snakeskin tunic* is a tight, form-fitting shirt crafted from the scales of a giant snake. When worn, it grants a +1 armor bonus to AC, a +2 enhancement bonus to Dexterity, and a +2 resistance bonus on saving throws against poison.
+A _snakeskin tunic_ is a tight, form-fitting shirt crafted from the scales of a giant snake. When worn, it grants a +1 armor bonus to AC, a +2 enhancement bonus to Dexterity, and a +2 resistance bonus on saving throws against poison.
 
-Moderate abjuration and transmutation; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Cat’s Grace|cat's grace]]*, *[[rangoric-srd/spells/Delay Poison|delay poison]]*; Price 8,000 gp; Cost 4,000 gp; Weight 2 lbs.
+Moderate abjuration and transmutation; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_, _[[rangoric-srd/spells/Delay Poison|delay poison]]_; Price 8,000 gp; Cost 4,000 gp; Weight 2 lbs.

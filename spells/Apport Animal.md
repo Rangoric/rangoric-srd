@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # Apport Animal
 
-*Conjuration (Teleportation)*
+_Conjuration (Teleportation)_
 
-  - **Level**: Drd 3, Hun 3, Med 3, Mes 3, Psy 3, Rgr 3, Sor/Wiz 3, Sum 3, SumU 3, Wit 3
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: One touched animal of Tiny or smaller size
-  - **Duration**: Instantaneous or 1 hour/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Drd 3, Hun 3, Med 3, Mes 3, Psy 3, Rgr 3, Sor/Wiz 3, Sum 3, SumU 3, Wit 3
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: One touched animal of Tiny or smaller size
+- **Duration**: Instantaneous or 1 hour/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 This spell functions like [[rangoric-srd/spells/Apport Object|apport object]] except the target is an animal. Only normal, nonmagical creatures of the animal type can be teleported.

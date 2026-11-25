@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Glide
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “glide”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “glide”, on the Special Qualities line.
 
 A creature that glides cannot use its fly speed to hover. When flying, it must end its movement at least 5 feet lower in elevation than where it started. The [[rangoric-srd/monsters/Flying Squirrel|flying squirrel]] has it.

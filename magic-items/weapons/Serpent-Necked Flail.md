@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Serpent-Necked Flail
 
-The head of this weapon resembles a knot of entwined serpents. In this form, it can be used as a masterwork [[rangoric-srd/equipment/weapons/Heavy Mace|heavy mace]]. Upon command, the head separates into three individual snakes joined to the weapon's handle by their tails, and the weapon acts as a +1 *[[rangoric-srd/magic-items/weapon-abilities/Speed|speed]]* [[rangoric-srd/equipment/weapons/Heavy Flail|heavy flail]]. Speaking the command word again makes the weapon revert to its mace form.
+The head of this weapon resembles a knot of entwined serpents. In this form, it can be used as a masterwork [[rangoric-srd/equipment/weapons/Heavy Mace|heavy mace]]. Upon command, the head separates into three individual snakes joined to the weapon's handle by their tails, and the weapon acts as a +1 _[[rangoric-srd/magic-items/weapon-abilities/Speed|speed]]_ [[rangoric-srd/equipment/weapons/Heavy Flail|heavy flail]]. Speaking the command word again makes the weapon revert to its mace form.
 
-Moderate transmutation; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Haste|haste]]*; Price 32,315 gp; Cost 16,315 gp.
+Moderate transmutation; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Haste|haste]]_; Price 32,315 gp; Cost 16,315 gp.

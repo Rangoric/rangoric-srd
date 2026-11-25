@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Bodythief
 
-  - Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]] (Augmented Humanoid)
-  - **Hit Dice**: 20d8+140 (230 hp)
-  - **Initiative**: –1
-  - **Speed**: 5 ft. (1 square)
-  - **Armor Class**: 26 (–5 Dex, +25 natural, –4 size), touch 1, flat-footed 26
-  - **Base Attack**: +15; **CMB**: +31 (+35 disarm, +35 grapple, +33 trip); **CMD**: 38 (40 vs. disarm, can't be tripped)
-  - **Attack**: Bite +23 melee (2d8+12 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or tentacle +26 melee (1d8+6 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +23 melee (2d8+12 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 4 tentacles +21 melee (1d8+6 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 20 ft./20 ft. (40 ft. with tentacles)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (80-ft. line, 12d6 acid damage, Reflex DC 27 half, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (4d6 acid damage plus absorb essence; AC 22, 23 hp), [[rangoric-srd/monsters/abilities/Transfer|transfer]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 1, [[rangoric-srd/monsters/abilities/Vexing Vines|vexing vines]], [[rangoric-srd/monsters/abilities/Spawn Pod Creature|spawn pod creature]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sonic, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 20
-  - **Saves**: Fort +19, Ref +1, Will +11
-  - **Abilities**: Str 34, Dex 1, Con 25, Int 21, Wis 16, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Imitation|Imitation]] +27, [[rangoric-srd/skills/Nature|Nature]] +31, [[rangoric-srd/skills/Perception|Perception]] +32, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23, [[rangoric-srd/skills/Society|Society]] +20
-  - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Greater Disarm|Greater Disarm]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Knowledge \[nature\], Perception)
-  - **Environment**: Temperate or warm forests
-  - **Organization**: Solitary
-  - **Challenge Rating**: 14
-  - **Treasure**: Double standard
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]] (Augmented Humanoid)
+- **Hit Dice**: 20d8+140 (230 hp)
+- **Initiative**: –1
+- **Speed**: 5 ft. (1 square)
+- **Armor Class**: 26 (–5 Dex, +25 natural, –4 size), touch 1, flat-footed 26
+- **Base Attack**: +15; **CMB**: +31 (+35 disarm, +35 grapple, +33 trip); **CMD**: 38 (40 vs. disarm, can't be tripped)
+- **Attack**: Bite +23 melee (2d8+12 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or tentacle +26 melee (1d8+6 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +23 melee (2d8+12 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 4 tentacles +21 melee (1d8+6 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 20 ft./20 ft. (40 ft. with tentacles)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (80-ft. line, 12d6 acid damage, Reflex DC 27 half, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (4d6 acid damage plus absorb essence; AC 22, 23 hp), [[rangoric-srd/monsters/abilities/Transfer|transfer]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 1, [[rangoric-srd/monsters/abilities/Vexing Vines|vexing vines]], [[rangoric-srd/monsters/abilities/Spawn Pod Creature|spawn pod creature]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sonic, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 20
+- **Saves**: Fort +19, Ref +1, Will +11
+- **Abilities**: Str 34, Dex 1, Con 25, Int 21, Wis 16, Cha 14
+- **Skills**: [[rangoric-srd/skills/Imitation|Imitation]] +27, [[rangoric-srd/skills/Nature|Nature]] +31, [[rangoric-srd/skills/Perception|Perception]] +32, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23, [[rangoric-srd/skills/Society|Society]] +20
+- **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Greater Disarm|Greater Disarm]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Knowledge \[nature\], Perception)
+- **Environment**: Temperate or warm forests
+- **Organization**: Solitary
+- **Challenge Rating**: 14
+- **Treasure**: Double standard
+- **Alignment**: Usually lawful evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Plants of frightfully advanced intellect, bodythieves cannot abide the irrationalities of other intelligent life, particularly emotions. They seek to create a world of perfect order by replacing other life forms with nearly perfect duplicates spawned by the bodythief itself. Indeed, these duplicates improve on the originals, as they can communicate telepathically with the bodythief, and they lack wasteful emotions. Individual bodythieves vary as to their specific plans for building a perfect society of duplicates. A common, though recognized, flaw in their plans is the infertility of their duplicates. To maintain a stable society, the bodythieves must capture creatures to replace the inevitable loss of healthy duplicates.
 

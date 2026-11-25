@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Daring Infiltrator
 
-*A [[rangoric-srd/classes/Swashbuckler#^swashbuckler-archetypes|swashbuckler]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Swashbuckler#^swashbuckler-archetypes|swashbuckler]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Not known for their flashy entrances or for standing out in a crowd, a daring infiltrator uses stealth, disguise, and ruthless guile to pursue her goals. Some of these swashbucklers work to undermine evil organizations, while others are master thieves or mysterious assassins.
 

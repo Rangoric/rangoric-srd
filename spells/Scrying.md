@@ -38,12 +38,12 @@ tags: [rangoric, rangoric/spell]
 
 # Scrying
 
-*Divination (Scrying)*
+_Divination (Scrying)_
 
-  - **Level**: Brd 3, Clr 5, Drd 4, Hun 4, Med 3, Mes 3, Occ 4, Psy 4, Sha 4, Skd 3, Sor/Wiz 4, Spi 5, Wit 4
-  - **Components**: V, S, M/DF, F
-  - **Casting Time**: 1 hour
-  - **Range**: See text
+- **Level**: Brd 3, Clr 5, Drd 4, Hun 4, Med 3, Mes 3, Occ 4, Psy 4, Sha 4, Skd 3, Sor/Wiz 4, Spi 5, Wit 4
+- **Components**: V, S, M/DF, F
+- **Casting Time**: 1 hour
+- **Range**: See text
 
 Effect: Magical sensor  
 Duration: 1 min./level  
@@ -54,12 +54,12 @@ You can see and hear some creature, which may be at any distance. If the subject
 
 | Knowledge                                  | Will Save Modifier |
 | ------------------------------------------ | ------------------ |
-| None (1)                                   | +10               |
-| Secondhand (you have heard of the subject) | +5                |
-| Firsthand (you have met the subject)       | +0                |
+| None (1)                                   | +10                |
+| Secondhand (you have heard of the subject) | +5                 |
+| Firsthand (you have met the subject)       | +0                 |
 | Familiar (you know the subject well)       | –5                 |
 
-1 *You must have some sort of connection to a creature you have no knowledge of.*
+1 _You must have some sort of connection to a creature you have no knowledge of._
 
 | Connection                                 | Will Save Modifier |
 | ------------------------------------------ | ------------------ |
@@ -73,10 +73,10 @@ As with all divination (scrying) spells, the sensor has your full visual acuity,
 
 If the save succeeds, you can’t attempt to scry on that subject again for at least 24 hours.
 
-*Arcane Material Component*: The eye of a hawk, an eagle, or a roc, plus nitric acid, copper, and zinc.
+_Arcane Material Component_: The eye of a hawk, an eagle, or a roc, plus nitric acid, copper, and zinc.
 
-*Wizard, Sorcerer, or Bard Focus*: A mirror of finely wrought and highly polished silver costing not less than 1,000 gp. The mirror must be at least 2 feet by 4 feet.
+_Wizard, Sorcerer, or Bard Focus_: A mirror of finely wrought and highly polished silver costing not less than 1,000 gp. The mirror must be at least 2 feet by 4 feet.
 
-*Cleric Focus*: A holy water font costing not less than 100 gp.
+_Cleric Focus_: A holy water font costing not less than 100 gp.
 
-*Druid Focus*: A natural pool of water.
+_Druid Focus_: A natural pool of water.

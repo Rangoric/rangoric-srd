@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/double, weapon-group/pol
 
 # Horse Hacking Polearm
 
-*Exotic two-handed melee weapon (double).* Cost 30 gp; Dmg 1d4/1d3 (S), 1d6/1d4 (M); Critical x2; Weight 8 lb.; Type Bludgeoning and slashing. ^stats
+_Exotic two-handed melee weapon (double)._ Cost 30 gp; Dmg 1d4/1d3 (S), 1d6/1d4 (M); Critical x2; Weight 8 lb.; Type Bludgeoning and slashing. ^stats
 
-(*Zhan Ma Dao*): Among the most peculiar of polearms, the horse hacking sword has a short, slightly curved, single edged blade, and bears two crescent-shaped bladed handguards attached to the shaft. A horse hacking sword is a double weapon. One can fight with it as if fighting with two weapons, incurring all of the normal attack penalties associated with fighting with two weapons (although the off-hand weapon is considered light). A creature using a horse hacking sword in one hand cannot use it as a double weapon.
+(_Zhan Ma Dao_): Among the most peculiar of polearms, the horse hacking sword has a short, slightly curved, single edged blade, and bears two crescent-shaped bladed handguards attached to the shaft. A horse hacking sword is a double weapon. One can fight with it as if fighting with two weapons, incurring all of the normal attack penalties associated with fighting with two weapons (although the off-hand weapon is considered light). A creature using a horse hacking sword in one hand cannot use it as a double weapon.

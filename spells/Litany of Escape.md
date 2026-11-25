@@ -30,15 +30,15 @@ tags: [rangoric, rangoric/spell]
 
 # Litany of Escape
 
-*Conjuration (Teleportation) \[Language-dependent\]*
+_Conjuration (Teleportation) \[Language-dependent\]_
 
-  - **Level**: Apl 3, Inq 4, Pal 3
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 swift action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One willing creature that is grappled
-  - **Duration**: Instantaneous
-  - **Saving Throw**: No
-  - **Spell Resistance**: Yes
+- **Level**: Apl 3, Inq 4, Pal 3
+- **Components**: V, S, DF
+- **Casting Time**: 1 swift action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One willing creature that is grappled
+- **Duration**: Instantaneous
+- **Saving Throw**: No
+- **Spell Resistance**: Yes
 
 With a powerful prayer, you call upon the servants of your god to whisk a friend out of a grapple. The target loses the grappled and pinned conditions and is teleported 10 feet.

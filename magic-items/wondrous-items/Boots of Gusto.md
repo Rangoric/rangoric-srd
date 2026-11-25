@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 These boots are made of fine red leather, and are decorated with stitched designs featuring humanoids wielding rapiers and other light weapons suited for swashbucklers. Up to three times per day, the wearer can perform the derring-do 1st-level swashbuckler deed.
 
-Faint transmutation; CL 4th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Cat’s Grace|cat's grace]]*, creator must be a panache user; Price 2,000 gp; Cost 1,000 gp; Weight 1 lb.
+Faint transmutation; CL 4th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_, creator must be a panache user; Price 2,000 gp; Cost 1,000 gp; Weight 1 lb.

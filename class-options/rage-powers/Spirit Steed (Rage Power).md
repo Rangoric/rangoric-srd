@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Spirit Steed
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su)._
 
 While raging and mounted, the barbarian’s mount gains DR/magic equal to 1/2 the barbarian’s level. The mount’s natural weapons count as magical for the purpose of overcoming damage reduction.
 

@@ -27,7 +27,7 @@ Manifesting Time: 1 swift action
 Range: Personal  
 Target: You  
 Duration: 1 hour/level  
-Power Points: see text  
+Power Points: see text
 
 You call forth the aggressive nature of the beast inherent in yourself, psionically transforming your hands into deadly claws. You gain two natural attacks with your claws, each dealing 1d4 points of damage (1d6 if you are Large, or 1d3 if you are Small) plus your Strength bonus.
 

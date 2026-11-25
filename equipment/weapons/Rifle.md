@@ -25,6 +25,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/firearms]
 
 # Rifle
 
-*Exotic two-handed advanced firearm.* Cost 5,000 gp; Dmg 1d8 (S), 1d10 (M); Critical x4; Range Increment 80 ft.; Misfire 1; Capacity 1; Weight 12 lb.; Type Bludgeoning and piercing. ^stats
+_Exotic two-handed advanced firearm._ Cost 5,000 gp; Dmg 1d8 (S), 1d10 (M); Critical x4; Range Increment 80 ft.; Misfire 1; Capacity 1; Weight 12 lb.; Type Bludgeoning and piercing. ^stats
 
 This improvement on the musket, featuring grooved barrels, can fire farther and with more accuracy than early long-bore firearms. A rifle uses metal cartridges as ammunition.

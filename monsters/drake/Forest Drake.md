@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Forest Drake
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Earth)
-  - **Hit Dice**: 5d12+10 (42 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares), fly 60 ft. (average), swim 30 ft.
-  - **Armor Class**: 17 (+2 Dex, +6 natural, –1 size), touch 11, flat-footed 15
-  - **Base Attack**: +5; **CMB**: +10; **CMD**: 22
-  - **Attack**: Bite +8 melee (1d8+4) or tail slap +8 melee (1d8+2)
-  - **Full Attack**: Bite +8 melee (1d8+4) and tail slap +3 melee (1d8+2)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Acidic Cloud|Acidic cloud]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Aquatic Adaptation|aquatic adaptation]], [[rangoric-srd/monsters/abilities/Speed Surge|speed surge]], immunity to acid, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep
-  - **Saves**: Fort +6, Ref +6, Will +4
-  - **Abilities**: Str 19, Dex 14, Con 14, Int 9, Wis 11, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +6
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any forests
-  - **Organization**: Solitary, pair, or rampage (3–12)
-  - **Challenge Rating**: 4
-  - **Treasure**: Standard
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Earth)
+- **Hit Dice**: 5d12+10 (42 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares), fly 60 ft. (average), swim 30 ft.
+- **Armor Class**: 17 (+2 Dex, +6 natural, –1 size), touch 11, flat-footed 15
+- **Base Attack**: +5; **CMB**: +10; **CMD**: 22
+- **Attack**: Bite +8 melee (1d8+4) or tail slap +8 melee (1d8+2)
+- **Full Attack**: Bite +8 melee (1d8+4) and tail slap +3 melee (1d8+2)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Acidic Cloud|Acidic cloud]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Aquatic Adaptation|aquatic adaptation]], [[rangoric-srd/monsters/abilities/Speed Surge|speed surge]], immunity to acid, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep
+- **Saves**: Fort +6, Ref +6, Will +4
+- **Abilities**: Str 19, Dex 14, Con 14, Int 9, Wis 11, Cha 12
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +6
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any forests
+- **Organization**: Solitary, pair, or rampage (3–12)
+- **Challenge Rating**: 4
+- **Treasure**: Standard
+- **Alignment**: Usually lawful evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Forest drakes are the degenerate cousins of green dragons, possessed of cruel cunning but little actual wit. Like most drakes, forest drakes are bullies, prowling deep forests in search of their favorite prey—elves and fey. Forest drakes eagerly attack communities of such forest creatures unless driven off with arrows or other shows of force.
 

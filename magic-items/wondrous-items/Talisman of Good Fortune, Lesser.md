@@ -24,4 +24,4 @@ A talisman works as described under [[rangoric-srd/magic-items/Magic Item Basics
 
 The first time the wearer rolls a natural 1 on a d20 roll (such as an ability check, attack roll, saving throw or skill check), he can immediately roll again and take the new result.
 
-Moderate enchantment; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Good Hope|good hope]]*; Price 1,680 gp; Cost 840 gp; Weight 1 lb.
+Moderate enchantment; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Good Hope|good hope]]_; Price 1,680 gp; Cost 840 gp; Weight 1 lb.

@@ -43,18 +43,18 @@ The swift scion’s class skills (and the key ability for each skill) are [[rang
 
 **Table: The Swift Scion**
 
-| Level | Special |
-| --- | --- |
-| 1st | Bonus class skill, Weapon Finesse or Two-Weapon Fighting |
-| 2nd | Bonus special ability |
-| 3rd | — |
-| 4th | — |
-| 5th | Bonus class skill |
-| 6th | Bonus special ability |
-| 7th | — |
-| 8th | — |
-| 9th | Bonus class skill |
-| 10th | Bonus special ability |
+| Level | Special                                                  |
+| ----- | -------------------------------------------------------- |
+| 1st   | Bonus class skill, Weapon Finesse or Two-Weapon Fighting |
+| 2nd   | Bonus special ability                                    |
+| 3rd   | —                                                        |
+| 4th   | —                                                        |
+| 5th   | Bonus class skill                                        |
+| 6th   | Bonus special ability                                    |
+| 7th   | —                                                        |
+| 8th   | —                                                        |
+| 9th   | Bonus class skill                                        |
+| 10th  | Bonus special ability                                    |
 
 ^table-the-swift-scion
 
@@ -68,29 +68,29 @@ The following are class features of the swift scion prestige class. A legendary 
 
 **Bonus Special Ability:** At 2nd level, 6th level, and 10th level, a swift scion may choose an additional special ability from the following list. She may select the same ability more than once if desired, and the effects stack where appropriate.
 
-*Arcane Spells per Day/Spells Known:* A swift scion may gain a number of new spells per day and spells known (if applicable) as if she had also gained a level in a spellcasting class to which she belonged before adding the prestige class. She does not, however, gain any other benefit a character of that class would have gained (metamagic or item creation feats, and so on). If the character had more than one spellcasting class before becoming a swift scion, the player must decide to which class to add each swift scion level for the purpose of determining spells per day and spells known.
+_Arcane Spells per Day/Spells Known:_ A swift scion may gain a number of new spells per day and spells known (if applicable) as if she had also gained a level in a spellcasting class to which she belonged before adding the prestige class. She does not, however, gain any other benefit a character of that class would have gained (metamagic or item creation feats, and so on). If the character had more than one spellcasting class before becoming a swift scion, the player must decide to which class to add each swift scion level for the purpose of determining spells per day and spells known.
 
-*Bardic Music:* A swift scion may choose to gain an extra two daily uses of the [[rangoric-srd/classes/Bard#^bardic-music-in-older-rules|bardic music]] ability, provided that she already has the ability. She doesn’t gain any new bardic music abilities, nor do her existing bardic music abilities improve in effectiveness.
+_Bardic Music:_ A swift scion may choose to gain an extra two daily uses of the [[rangoric-srd/classes/Bard#^bardic-music-in-older-rules|bardic music]] ability, provided that she already has the ability. She doesn’t gain any new bardic music abilities, nor do her existing bardic music abilities improve in effectiveness.
 
-*Fast Movement (Ex):* If a swift scion has an enhancement bonus to her speed from a class feature, she may choose to increase this enhancement bonus by 10 feet. This enhancement bonus follows the same rules as her existing enhancement bonus to speed (for instance, a monk who selects this feature only benefits from the enhancement bonus when wearing no armor).
+_Fast Movement (Ex):_ If a swift scion has an enhancement bonus to her speed from a class feature, she may choose to increase this enhancement bonus by 10 feet. This enhancement bonus follows the same rules as her existing enhancement bonus to speed (for instance, a monk who selects this feature only benefits from the enhancement bonus when wearing no armor).
 
-*Improved Bardic Knowledge:* A swift scion can choose to gain a +4 bonus on bardic knowledge checks. (If the character doesn’t have the [[rangoric-srd/classes/Bard#^bardic-knowledge|bardic knowledge]] class feature, this benefit has no effect.)
+_Improved Bardic Knowledge:_ A swift scion can choose to gain a +4 bonus on bardic knowledge checks. (If the character doesn’t have the [[rangoric-srd/classes/Bard#^bardic-knowledge|bardic knowledge]] class feature, this benefit has no effect.)
 
-*Improved Evasion (Ex):* A swift scion may choose to gain the [[rangoric-srd/classes/Monk#^monk-improved-evasion|improved evasion]] ability, provided that she already has the [[rangoric-srd/classes/Monk#^monk-evasion|evasion]] ability.
+_Improved Evasion (Ex):_ A swift scion may choose to gain the [[rangoric-srd/classes/Monk#^monk-improved-evasion|improved evasion]] ability, provided that she already has the [[rangoric-srd/classes/Monk#^monk-evasion|evasion]] ability.
 
-*Improved Favored Enemy:* If a swift scion has at least one [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]], the bonus gained on damage rolls and certain skill checks against any one favored enemy improves by +2. The character doesn’t gain any additional favored enemies by selecting this ability.
+_Improved Favored Enemy:_ If a swift scion has at least one [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]], the bonus gained on damage rolls and certain skill checks against any one favored enemy improves by +2. The character doesn’t gain any additional favored enemies by selecting this ability.
 
-*Improved Unarmed Damage:* If a swift scion has the [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]] feat, she may choose to increase the damage dealt by her unarmed strikes. Treat this as if the character’s monk level had increased by four. For instance, a 6th-level monk/2nd-level swift scion who selects this ability would increase her unarmed strike damage from 1d8 to 1d10. (If the character has no monk levels, she gains unarmed damage as a 4th-level monk.)
+_Improved Unarmed Damage:_ If a swift scion has the [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]] feat, she may choose to increase the damage dealt by her unarmed strikes. Treat this as if the character’s monk level had increased by four. For instance, a 6th-level monk/2nd-level swift scion who selects this ability would increase her unarmed strike damage from 1d8 to 1d10. (If the character has no monk levels, she gains unarmed damage as a 4th-level monk.)
 
-*Increased Speed (Ex):* A swift scion may choose to add 10 feet to her base speed. This extra movement applies only when the swift scion wears no armor.
+_Increased Speed (Ex):_ A swift scion may choose to add 10 feet to her base speed. This extra movement applies only when the swift scion wears no armor.
 
-*Sneak Attack:* If a swift scion has the [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] ability, she may choose to increase the extra damage it deals by 2d6 points.
+_Sneak Attack:_ If a swift scion has the [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] ability, she may choose to increase the extra damage it deals by 2d6 points.
 
-*Swift Tracker (Ex):* If a swift scion has the [[rangoric-srd/feats/Track|Track]] feat, she may select this special ability. A swift scion with this ability can move at her normal speed while following tracks without taking the normal -5 penalty. She takes only a -10 penalty (instead of the normal -20) when moving at up to twice normal speed while tracking.
+_Swift Tracker (Ex):_ If a swift scion has the [[rangoric-srd/feats/Track|Track]] feat, she may select this special ability. A swift scion with this ability can move at her normal speed while following tracks without taking the normal -5 penalty. She takes only a -10 penalty (instead of the normal -20) when moving at up to twice normal speed while tracking.
 
-*Trap Sense:* If a swift scion has the [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] ability, she can take this special ability to increase her bonus on Reflex saves and to AC against traps by 1.
+_Trap Sense:_ If a swift scion has the [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] ability, she can take this special ability to increase her bonus on Reflex saves and to AC against traps by 1.
 
-*Uncanny Dodge (Ex):* A swift scion may choose to gain the [[rangoric-srd/classes/Rogue#^rogue-uncanny-dodge|uncanny dodge]] ability. If she already has uncanny dodge, she gains [[rangoric-srd/classes/Rogue#^rogue-improved-uncanny-dodge|improved uncanny dodge]] instead, and her swift scion levels stack with her levels in other classes that grant uncanny dodge to determine the minimum rogue level required to flank the character.
+_Uncanny Dodge (Ex):_ A swift scion may choose to gain the [[rangoric-srd/classes/Rogue#^rogue-uncanny-dodge|uncanny dodge]] ability. If she already has uncanny dodge, she gains [[rangoric-srd/classes/Rogue#^rogue-improved-uncanny-dodge|improved uncanny dodge]] instead, and her swift scion levels stack with her levels in other classes that grant uncanny dodge to determine the minimum rogue level required to flank the character.
 
 **Two-Weapon Fighting ([[rangoric-srd/unearthed-arcana/Legendary Weapons & Familiar Items#^blade-and-staff-scions|staff scions]] only)**: If a staff scion does not already have the [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]] feat, she gains it at 1st level. The wielder does not benefit from the Two-Weapon Fighting feat unless she meets the feat’s prerequisites, however. If the legendary weapon does not actually require two hands to use in combat, the wielder gains [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] with the weapon instead. ^swift-scion-two-weapon-fighting
 

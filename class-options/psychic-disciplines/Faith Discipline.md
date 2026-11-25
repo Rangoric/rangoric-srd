@@ -19,13 +19,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Faith Discipline
 
-*A [[rangoric-srd/classes/Psychic (Class)#^psychic-discipline|psychic discipline]].*
+_A [[rangoric-srd/classes/Psychic (Class)#^psychic-discipline|psychic discipline]]._
 
 Your belief in a higher power fuels your psychic abilities. Whether your mental abilities truly come to you as a divine gift or are simply enhanced by the power of your belief, none can say. In many ways, you resemble a divine caster, and prayers often factor into your casting of psychic spells.
 
 **Phrenic Pool Ability**: Wisdom.
 
-**Bonus Spells**: *[[rangoric-srd/spells/Bless|bless]]* (1st), *[[rangoric-srd/spells/Spiritual Weapon|spiritual weapon]]* (4th), *[[rangoric-srd/spells/Magic Vestment|magic vestment]]* (6th), *[[rangoric-srd/spells/Guardian of Faith|guardian of faith]]* (8th), *[[rangoric-srd/spells/Commune|commune]]* (10th), *[[rangoric-srd/spells/Psychic Surgery|psychic surgery]]* (12th), *[[rangoric-srd/spells/Scrying, Greater|greater scrying]]* (14th), *[[rangoric-srd/spells/Planar Ally, Greater|greater planar ally]]* (16th), *[[rangoric-srd/spells/Miracle|miracle]]* (18th).
+**Bonus Spells**: _[[rangoric-srd/spells/Bless|bless]]_ (1st), _[[rangoric-srd/spells/Spiritual Weapon|spiritual weapon]]_ (4th), _[[rangoric-srd/spells/Magic Vestment|magic vestment]]_ (6th), _[[rangoric-srd/spells/Guardian of Faith|guardian of faith]]_ (8th), _[[rangoric-srd/spells/Commune|commune]]_ (10th), _[[rangoric-srd/spells/Psychic Surgery|psychic surgery]]_ (12th), _[[rangoric-srd/spells/Scrying, Greater|greater scrying]]_ (14th), _[[rangoric-srd/spells/Planar Ally, Greater|greater planar ally]]_ (16th), _[[rangoric-srd/spells/Miracle|miracle]]_ (18th).
 
 ## Discipline Powers
 
@@ -37,4 +37,4 @@ Your powers serve to protect or cure you and your allies.
 
 **Resilience of the Faithful (Su)**: At 5th level, you gain a +2 resistance bonus on all saving throws. This bonus increases by 1 for every 5 levels you possess beyond 5th.
 
-**Prayer Aura (Su)**: At 13th level, as a free action, you can extend an aura around you to bolster your allies and make your enemies less effective. You can use this aura for a number of rounds per day equal to your psychic level. These rounds don’t need to be consecutive. This functions as the *[[rangoric-srd/spells/Prayer|prayer]]* spell, granting your allies a +1 luck bonus on attack rolls, weapon damage rolls, saves, and skill checks and imposing a –1 penalty on your enemies’ rolls of those types. If you are chaotic, lawful, good, or evil, the penalty from your aura changes to –2 against creatures of an opposing alignment. The penalty doesn’t change further for a creature that opposes you on two alignment axes (such as a chaotic evil creature fighting a lawful good psychic).
+**Prayer Aura (Su)**: At 13th level, as a free action, you can extend an aura around you to bolster your allies and make your enemies less effective. You can use this aura for a number of rounds per day equal to your psychic level. These rounds don’t need to be consecutive. This functions as the _[[rangoric-srd/spells/Prayer|prayer]]_ spell, granting your allies a +1 luck bonus on attack rolls, weapon damage rolls, saves, and skill checks and imposing a –1 penalty on your enemies’ rolls of those types. If you are chaotic, lawful, good, or evil, the penalty from your aura changes to –2 against creatures of an opposing alignment. The penalty doesn’t change further for a creature that opposes you on two alignment axes (such as a chaotic evil creature fighting a lawful good psychic).

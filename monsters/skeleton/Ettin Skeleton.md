@@ -38,25 +38,25 @@ tags: [rangoric, rangoric/monster]
 
 # Ettin Skeleton
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
-  - **Hit Dice**: 10d12 (65 hp)
-  - **Initiative**: +4
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 11 (–1 size, +2 natural), touch 9, flat-footed 11
-  - **Base Attack**: +5; **CMB**: +12; **CMD**: 22
-  - **Attack**: Morningstar +10 melee (2d6+6) or claw +10 melee (1d6+6) or javelin +4 ranged (1d8+6)
-  - **Full Attack**: 2 morningstars +10 melee (2d6+6) or 2 claws +10 melee (1d6+6) or 2 javelins +4 ranged (1d8+6)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/bludgeoning, darkvision 60 ft., darkvision 60 ft., immunity to cold, superior twoweapon, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
-  - **Saves**: Fort +3, Ref +3, Will +7
-  - **Abilities**: Str 23, Dex 10, Con —, Int —, Wis 10, Cha 1
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
-  - **Environment**: Cold hills
-  - **Organization**: Any
-  - **Challenge Rating**: 5
-  - **Treasure**: None
-  - **Alignment**: Always neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
+- **Hit Dice**: 10d12 (65 hp)
+- **Initiative**: +4
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 11 (–1 size, +2 natural), touch 9, flat-footed 11
+- **Base Attack**: +5; **CMB**: +12; **CMD**: 22
+- **Attack**: Morningstar +10 melee (2d6+6) or claw +10 melee (1d6+6) or javelin +4 ranged (1d8+6)
+- **Full Attack**: 2 morningstars +10 melee (2d6+6) or 2 claws +10 melee (1d6+6) or 2 javelins +4 ranged (1d8+6)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/bludgeoning, darkvision 60 ft., darkvision 60 ft., immunity to cold, superior twoweapon, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
+- **Saves**: Fort +3, Ref +3, Will +7
+- **Abilities**: Str 23, Dex 10, Con —, Int —, Wis 10, Cha 1
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
+- **Environment**: Cold hills
+- **Organization**: Any
+- **Challenge Rating**: 5
+- **Treasure**: None
+- **Alignment**: Always neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —

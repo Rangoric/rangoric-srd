@@ -25,7 +25,7 @@ While the normal state of the sycophant is actually to reside within the physica
 
 Sycophants can be willingly forced out of a host through strength of will. If a successful Will save (DC 15 plus the armor bonus of the sycophant) is made, the sycophant is expelled. Sycophants immediately morph back into their shield or armor form if not residing in a host. Sycophants cannot bond with undead or non-corporeal creatures.
 
-Sycophants cannot be targeted by spell or physical attacks and exist solely within their hosts. They grant their benefits to their host at all times, even when within the confines of *antimagic fields* or when their hosts are stunned or flat-footed. Sycophants can morph into any armor with lesser armor bonus at will, which they generally do to bond with wizards, sorcerers, and others that can’t wear heavier armors. It’s not possible to wear armor over sycophant armor (doing so negates all bonuses of the symbiotic relationship).
+Sycophants cannot be targeted by spell or physical attacks and exist solely within their hosts. They grant their benefits to their host at all times, even when within the confines of _antimagic fields_ or when their hosts are stunned or flat-footed. Sycophants can morph into any armor with lesser armor bonus at will, which they generally do to bond with wizards, sorcerers, and others that can’t wear heavier armors. It’s not possible to wear armor over sycophant armor (doing so negates all bonuses of the symbiotic relationship).
 
 It is possible to add additional enchantments to sycophantic armor. When calculating costs, consider the sycophant as a masterwork armor with a base +1 enhancement bonus.
 

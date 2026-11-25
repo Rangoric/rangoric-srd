@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Squire (Aristocrat)
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 3d8+6 (19 hp)
-  - **Initiative**: +1
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 17 (+6 armor, +1 Dex), touch 11, flat-footed 16
-  - **Base Attack**: +2; **CMB**: +3; **CMD**: 14
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +4 melee (1d8+1/19–20) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 melee (1d4+1/19–20) or [[rangoric-srd/equipment/weapons/Composite Shortbow|composite shortbow]] +3 ranged (1d6+1/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +4 melee (1d8+1/19–20); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 melee (1d4+1/19–20); or [[rangoric-srd/equipment/weapons/Composite Shortbow|composite shortbow]] +3 ranged (1d6+1/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: —
-  - **Saves**: Fort +1, Ref +2, Will +2
-  - **Abilities**: Str 13, Dex 12, Con 10, Int 8, Wis 9, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Persuasion|Persuasion]] +4, [[rangoric-srd/skills/Society|Society]] +3
-  - **Feats**: [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 1
-  - **Treasure**: NPC gear (combat gear: holy water; other gear: chainmail, composite shortbow (+1 Str) with 20 arrows, dagger, masterwork longsword, bit and bridle, light horse (combat trained), riding saddle, saddlebags, 11 gp)
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 3d8+6 (19 hp)
+- **Initiative**: +1
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 17 (+6 armor, +1 Dex), touch 11, flat-footed 16
+- **Base Attack**: +2; **CMB**: +3; **CMD**: 14
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +4 melee (1d8+1/19–20) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 melee (1d4+1/19–20) or [[rangoric-srd/equipment/weapons/Composite Shortbow|composite shortbow]] +3 ranged (1d6+1/×3)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +4 melee (1d8+1/19–20); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 melee (1d4+1/19–20); or [[rangoric-srd/equipment/weapons/Composite Shortbow|composite shortbow]] +3 ranged (1d6+1/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: —
+- **Saves**: Fort +1, Ref +2, Will +2
+- **Abilities**: Str 13, Dex 12, Con 10, Int 8, Wis 9, Cha 11
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Persuasion|Persuasion]] +4, [[rangoric-srd/skills/Society|Society]] +3
+- **Feats**: [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 1
+- **Treasure**: NPC gear (combat gear: holy water; other gear: chainmail, composite shortbow (+1 Str) with 20 arrows, dagger, masterwork longsword, bit and bridle, light horse (combat trained), riding saddle, saddlebags, 11 gp)
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A squire (aristocrat) is a [[rangoric-srd/monsters/human/Human|human]] with 3 levels of [[rangoric-srd/classes/Aristocrat|aristocrat]]. This squire has begun his knightly training, but not yet earned his spurs. He aspires to match the valor and chivalry of the finest knights. Most of his duties involve caring for his knight's armor, weapons, and horse, holding prisoners taken by the knight, and giving the knight an honorable burial if he is killed.
 

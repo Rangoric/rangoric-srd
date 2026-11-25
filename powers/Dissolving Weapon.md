@@ -33,6 +33,6 @@ Target: One held weapon; see text
 Duration: Instantaneous  
 Saving Throw: None  
 Power Resistance: No  
-Power Points: 3  
+Power Points: 3
 
 As [[rangoric-srd/powers/Dissolving Touch|dissolving touch]], except your weapon is charged with acid until you make a successful attack.

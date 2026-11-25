@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic, wild]
 
 # Gargantuan Wild Shape
 
-Prerequisite: Ability to wild shape into a Huge animal.  
+Prerequisite: Ability to wild shape into a Huge animal.
 
 Benefit: The character can use your wild shape to take the shape of a Gargantuan animal.
 

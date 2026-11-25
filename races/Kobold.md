@@ -49,17 +49,17 @@ Sorcerer Bloodline: kobold [[rangoric-srd/classes/Sorcerer|sorcerers]] can take 
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 12 years | +1d4 | +1d6 | +2d6 |
+| --------- | --------- | ----------- | ------- |
+| 12 years  | +1d4      | +1d6        | +2d6    |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 20 years | 30 years | 40 years | +1d20 years |
+| Middle Age | Old      | Venerable | Maximum Age |
+| ---------- | -------- | --------- | ----------- |
+| 20 years   | 30 years | 40 years  | +1d20 years |
 
 | Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Male | 2 ft. 6 in. | +2d4 | 25 lb. | × 1 lb. |
-| Female | 2 ft. 4 in. | +2d4 | 20 lb. | × 1 lb. |
+| ------ | ----------- | --------------- | ----------- | --------------- |
+| Male   | 2 ft. 6 in. | +2d4            | 25 lb.      | × 1 lb.         |
+| Female | 2 ft. 4 in. | +2d4            | 20 lb.      | × 1 lb.         |
 
 ### Description
 
@@ -81,12 +81,12 @@ They consider both dwarves and elves to be deadly rivals. Kobolds fear the brute
 
 A kobold can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Beast Bond\|Beast Bond]] | Crafty |
-| [[rangoric-srd/races/racial-traits/Dragon-Scaled\|Dragon-Scaled]] | Armor |
-| [[rangoric-srd/races/racial-traits/Gliding Wings\|Gliding Wings]] | Crafty |
-| [[rangoric-srd/races/racial-traits/Jester\|Jester]] | Crafty |
+| Trait                                                             | Replaces |
+| ----------------------------------------------------------------- | -------- |
+| [[rangoric-srd/races/racial-traits/Beast Bond\|Beast Bond]]       | Crafty   |
+| [[rangoric-srd/races/racial-traits/Dragon-Scaled\|Dragon-Scaled]] | Armor    |
+| [[rangoric-srd/races/racial-traits/Gliding Wings\|Gliding Wings]] | Crafty   |
+| [[rangoric-srd/races/racial-traits/Jester\|Jester]]               | Crafty   |
 
 ### Subtypes
 
@@ -108,8 +108,8 @@ A kobold gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
-| [[rangoric-srd/class-options/archetypes/alchemist/Alchemical Trapper (Archetype)\|Alchemical Trapper]] | [[rangoric-srd/classes/Alchemist\|Alchemist]] |
-| [[rangoric-srd/class-options/archetypes/bard/Dragon Yapper (Archetype)\|Dragon Yapper]] | [[rangoric-srd/classes/Bard\|Bard]] |
-| [[rangoric-srd/class-options/archetypes/gunslinger/Bushwhacker (Archetype)\|Bushwhacker]] | [[rangoric-srd/classes/Gunslinger\|Gunslinger]] |
+| Archetype                                                                                              | Class                                           |
+| ------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
+| [[rangoric-srd/class-options/archetypes/alchemist/Alchemical Trapper (Archetype)\|Alchemical Trapper]] | [[rangoric-srd/classes/Alchemist\|Alchemist]]   |
+| [[rangoric-srd/class-options/archetypes/bard/Dragon Yapper (Archetype)\|Dragon Yapper]]                | [[rangoric-srd/classes/Bard\|Bard]]             |
+| [[rangoric-srd/class-options/archetypes/gunslinger/Bushwhacker (Archetype)\|Bushwhacker]]              | [[rangoric-srd/classes/Gunslinger\|Gunslinger]] |

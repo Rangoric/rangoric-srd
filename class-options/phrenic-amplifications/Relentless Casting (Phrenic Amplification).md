@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Relentless Casting
 
-*A psychic’s [[rangoric-srd/classes/Psychic (Class)#^psychic-phrenic-amplifications|phrenic amplification]] (Su).*
+_A psychic’s [[rangoric-srd/classes/Psychic (Class)#^psychic-phrenic-amplifications|phrenic amplification]] (Su)._
 
 The psychic can spend 1 point from her [[rangoric-srd/classes/Psychic (Class)#^psychic-phrenic-pool|phrenic pool]] to roll twice on any caster level checks to overcome [[rangoric-srd/rules/Special Abilities and Conditions#Spell Resistance|spell resistance]] required for the linked spell and take the better result. Because she must decide to spend points from her phrenic pool when she starts casting a spell, the psychic must decide to use this ability before the GM calls for the caster level check.

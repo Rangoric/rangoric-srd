@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Celebrity Discount
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-social-talent|social talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-social-talent|social talent]] (Ex)._
 
 The vigilante’s [[rangoric-srd/classes/Vigilante#^vigilante-dual-identity|social identity]] is popular enough to receive discounts in his area of renown. Whenever he buys an item in his area of renown that costs 500 gp or less, he can buy it at 90% of the market price, rather than the full price. If he has the [[rangoric-srd/class-options/social-talents/Great Renown (Social Talent)|great renown]] social talent, the gp limit increases to 2,000 gp, and if he possesses the [[rangoric-srd/class-options/social-talents/Incredible Renown (Social Talent)|incredible renown]] social talent, the gp limit increases to 8,000 gp.
 

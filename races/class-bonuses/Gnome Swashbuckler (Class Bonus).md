@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Gnome Swashbuckler
 
-*A [[rangoric-srd/races/Gnome|gnome]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Swashbuckler#^swashbuckler-class-bonuses|swashbuckler]] level.*
+_A [[rangoric-srd/races/Gnome|gnome]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Swashbuckler#^swashbuckler-class-bonuses|swashbuckler]] level._
 
 Increase the number of times per day the swashbuckler can use [[rangoric-srd/classes/Swashbuckler#^swashbuckler-charmed-life|charmed life]] by 1/4.

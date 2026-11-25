@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Trick Shot
 
-*A [[rangoric-srd/class-options/hunters-tricks/Hunter's Tricks|hunter’s trick]] (Ex), which a [[rangoric-srd/class-options/archetypes/ranger/Skirmisher (Archetype)|skirmisher]] ranger learns.*
+_A [[rangoric-srd/class-options/hunters-tricks/Hunter's Tricks|hunter’s trick]] (Ex), which a [[rangoric-srd/class-options/archetypes/ranger/Skirmisher (Archetype)|skirmisher]] ranger learns._
 
 As a standard action, the ranger can make a ranged attack that ignores [[rangoric-srd/combat/Combat Modifiers#Concealment|concealment]] (but not total concealment), soft cover, and partial [[rangoric-srd/combat/Combat Modifiers#Cover|cover]].

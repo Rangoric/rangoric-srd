@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Gnoll Rageborn
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Gnoll)
-  - **Hit Dice**: 2d8+2d12+22 (49 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 16 (+6 armor, +1 Dex, +1 natural, –2 rage), touch 9, flat-footed 15
-  - **Base Attack**: +3; **CMB**: +9; **CMD**: 18
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greataxe|greataxe]] +10 melee (1d12+9/×3) or bite +9 melee (1d6+9) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Javelin|javelin]] +5 ranged (1d6+6)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greataxe|greataxe]] +10 melee (1d12+9/×3) and bite +4 melee (1d6+3); or bite +9 melee (1d6+9); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Javelin|javelin]] +5 ranged (1d6+6)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (9 rounds/day)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]]
-  - **Saves**: Fort +11, Ref +1, Will +3
-  - **Abilities**: Str 23, Dex 13, Con 20, Int 8, Wis 12, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +6
-  - **Feats**: [[rangoric-srd/feats/Coordinated Reposition|Coordinated Reposition]], [[rangoric-srd/feats/Snapping Jaws|Snapping Jaws]], [[rangoric-srd/feats/Step Up|Step Up]]
-  - **Environment**: Warm plains or desert
-  - **Organization**: Solitary, or with other gnolls (see [[rangoric-srd/monsters/gnoll/Gnoll|Gnoll]])
-  - **Challenge Rating**: 3
-  - **Treasure**: NPC gear (combat gear: potion of cure moderate wounds, alchemist's fire (3); other gear: masterwork breastplate, masterwork greataxe, masterwork javelins (2), 18 gp)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Gnoll)
+- **Hit Dice**: 2d8+2d12+22 (49 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 16 (+6 armor, +1 Dex, +1 natural, –2 rage), touch 9, flat-footed 15
+- **Base Attack**: +3; **CMB**: +9; **CMD**: 18
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greataxe|greataxe]] +10 melee (1d12+9/×3) or bite +9 melee (1d6+9) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Javelin|javelin]] +5 ranged (1d6+6)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greataxe|greataxe]] +10 melee (1d12+9/×3) and bite +4 melee (1d6+3); or bite +9 melee (1d6+9); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Javelin|javelin]] +5 ranged (1d6+6)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (9 rounds/day)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]]
+- **Saves**: Fort +11, Ref +1, Will +3
+- **Abilities**: Str 23, Dex 13, Con 20, Int 8, Wis 12, Cha 6
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +6
+- **Feats**: [[rangoric-srd/feats/Coordinated Reposition|Coordinated Reposition]], [[rangoric-srd/feats/Snapping Jaws|Snapping Jaws]], [[rangoric-srd/feats/Step Up|Step Up]]
+- **Environment**: Warm plains or desert
+- **Organization**: Solitary, or with other gnolls (see [[rangoric-srd/monsters/gnoll/Gnoll|Gnoll]])
+- **Challenge Rating**: 3
+- **Treasure**: NPC gear (combat gear: potion of cure moderate wounds, alchemist's fire (3); other gear: masterwork breastplate, masterwork greataxe, masterwork javelins (2), 18 gp)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A gnoll rageborn is a [[rangoric-srd/monsters/gnoll/Gnoll|gnoll]] with 2 levels of [[rangoric-srd/classes/Barbarian|barbarian]] (the [[rangoric-srd/class-options/archetypes/barbarian/Pack Rager (Archetype)|pack rager]] archetype), one of the gnoll barbarians. Gnoll barbarians feed off one another's rage, and use pack tactics to savage their enemies.
 

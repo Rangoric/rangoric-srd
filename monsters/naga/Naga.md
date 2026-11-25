@@ -17,9 +17,9 @@ All nagas have long, snakelike bodies covered with glistening scales, and more o
 
 Nagas favor spells over other forms of combat. Because they are almost always found in the lairs they guard and know well, they can arrange most encounters to suit their wishes.
 
-  - [[rangoric-srd/monsters/naga/Dark Naga|Dark Naga]]
-  - [[rangoric-srd/monsters/naga/Guardian Naga|Guardian Naga]]
-  - [[rangoric-srd/monsters/naga/Lunar Naga|Lunar Naga]]
-  - [[rangoric-srd/monsters/naga/Royal Naga|Royal Naga]]
-  - [[rangoric-srd/monsters/naga/Spirit Naga|Spirit Naga]]
-  - [[rangoric-srd/monsters/naga/Water Naga|Water Naga]]
+- [[rangoric-srd/monsters/naga/Dark Naga|Dark Naga]]
+- [[rangoric-srd/monsters/naga/Guardian Naga|Guardian Naga]]
+- [[rangoric-srd/monsters/naga/Lunar Naga|Lunar Naga]]
+- [[rangoric-srd/monsters/naga/Royal Naga|Royal Naga]]
+- [[rangoric-srd/monsters/naga/Spirit Naga|Spirit Naga]]
+- [[rangoric-srd/monsters/naga/Water Naga|Water Naga]]

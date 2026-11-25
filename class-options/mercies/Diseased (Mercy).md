@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Diseased
 
-*A [[rangoric-srd/classes/Paladin#^paladin-mercy|mercy]], available from 6th level.*
+_A [[rangoric-srd/classes/Paladin#^paladin-mercy|mercy]], available from 6th level._
 
-The paladin's lay on hands ability also acts as *[[rangoric-srd/spells/Remove Disease|remove disease]]*, using the paladin's level as the caster level.
+The paladin's lay on hands ability also acts as _[[rangoric-srd/spells/Remove Disease|remove disease]]_, using the paladin's level as the caster level.

@@ -34,15 +34,15 @@ tags: [rangoric, rangoric/spell]
 
 # Tail Current
 
-*Transmutation \[Water\]*
+_Transmutation \[Water\]_
 
-  - **Level**: Blr 4, Clr 4, Drd 3, Hun 3, Mag 4, Occ 3, Rgr 3, Sor/Wiz 4, Spi 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: 120 ft.
-  - **Target**: One or more creatures, no two of which can be more than 120 feet apart
-  - **Duration**: Caster level hour(s)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Blr 4, Clr 4, Drd 3, Hun 3, Mag 4, Occ 3, Rgr 3, Sor/Wiz 4, Spi 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: 120 ft.
+- **Target**: One or more creatures, no two of which can be more than 120 feet apart
+- **Duration**: Caster level hour(s)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 This spell functions as [[rangoric-srd/spells/Tailwind|tailwind]] except it creates a helpful current in water instead of in the air. It grants free movement while swimming rather than while flying and functions only underwater.

@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Opportunist
 
-*An [[rangoric-srd/classes/Rogue#^rogue-advanced-talents|advanced talent]] (Ex).*
+_An [[rangoric-srd/classes/Rogue#^rogue-advanced-talents|advanced talent]] (Ex)._
 
 Once per round, the rogue can make an attack of opportunity against an opponent who has just been struck for damage in melee by another character. This attack counts as an attack of opportunity for that round. Even a rogue with the Combat Reflexes feat can't use the opportunist ability more than once per round.

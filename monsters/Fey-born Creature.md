@@ -24,22 +24,22 @@ Normal creatures that have the fortune of being born in the fey realm are imbued
 
 **AC**: Natural armor improves by +1 and any ability bonus adjustments also stack.
 
-**Special Attacks**: A fey-born creature retains all of the base creature’s extraordinary, supernatural, and spell-like abilities, and also gains the ability to use *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]* at will (effects as per the spell). Fey-born with an Intelligence or Wisdom score of 8 or higher possess the following cumulative spell-like abilities (using their level as the caster level) as specified in the table below. Unless otherwise indicated, the ability is usable once per day.
+**Special Attacks**: A fey-born creature retains all of the base creature’s extraordinary, supernatural, and spell-like abilities, and also gains the ability to use _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_ at will (effects as per the spell). Fey-born with an Intelligence or Wisdom score of 8 or higher possess the following cumulative spell-like abilities (using their level as the caster level) as specified in the table below. Unless otherwise indicated, the ability is usable once per day.
 
 **Table: Fey-born Spell-Like Abilities** ^table-fey-born-spell-like-abilities
 
-| Level | Abilities |
-| --- | --- |
-| 1–2 | *[[rangoric-srd/spells/Good Luck\|good luck]]* |
-| 3–4 | *[[rangoric-srd/spells/Second Sight\|second sight]]* |
-| 5–6 | *[[rangoric-srd/spells/Luck of the Fey\|luck of the fey]]* |
-| 7–8 | *[[rangoric-srd/spells/Laughing Gas\|laughing gas]]* |
-| 9–10 | *[[rangoric-srd/spells/Shrink Creature\|shrink creature]]* |
-| 11–12 | *[[rangoric-srd/spells/Fork Path\|fork path]]* |
-| 13–14 | *[[rangoric-srd/spells/Stray From Path\|stray from path]]* |
-| 15–16 | *[[rangoric-srd/spells/Fey Curtain\|fey curtain]]* |
-| 17–18 | *[[rangoric-srd/spells/Summon Fey IX\|summon fey IX]]* |
-| 19+ | *[[rangoric-srd/spells/Create Doorway and Sideroad\|create doorway and sideroad]]* |
+| Level | Abilities                                                                          |
+| ----- | ---------------------------------------------------------------------------------- |
+| 1–2   | _[[rangoric-srd/spells/Good Luck\|good luck]]_                                     |
+| 3–4   | _[[rangoric-srd/spells/Second Sight\|second sight]]_                               |
+| 5–6   | _[[rangoric-srd/spells/Luck of the Fey\|luck of the fey]]_                         |
+| 7–8   | _[[rangoric-srd/spells/Laughing Gas\|laughing gas]]_                               |
+| 9–10  | _[[rangoric-srd/spells/Shrink Creature\|shrink creature]]_                         |
+| 11–12 | _[[rangoric-srd/spells/Fork Path\|fork path]]_                                     |
+| 13–14 | _[[rangoric-srd/spells/Stray From Path\|stray from path]]_                         |
+| 15–16 | _[[rangoric-srd/spells/Fey Curtain\|fey curtain]]_                                 |
+| 17–18 | _[[rangoric-srd/spells/Summon Fey IX\|summon fey IX]]_                             |
+| 19+   | _[[rangoric-srd/spells/Create Doorway and Sideroad\|create doorway and sideroad]]_ |
 
 **Special Qualities**: A fey-born creature retains all of the base creature’s extraordinary, supernatural, and spell-like abilities, plus [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]. Fey-born creatures gain fey traits granting them resistance to illusion and enchantment spells. This imparts them with a +1 racial bonus to resist spells and spell-like abilities of this nature, increasing by +1 for every four levels the creature attains.
 
@@ -73,27 +73,27 @@ This example uses a giant owl as the base creature.
 
 **Fey-born Giant Owl**
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
-  - **Hit Dice**: 4d10+4 (26 hp)
-  - **Initiative**: +7
-  - **Speed**: 10 ft. (2 squares), fly 70 ft. (average)
-  - **Armor Class**: 20 (–1 size, +7 Dex, +4 natural), touch 16, flat-footed 13
-  - **Base Attack**: +4; **CMB**: +10; **CMD**: 25
-  - **Attack**: Claw +7 melee (1d6+5)
-  - **Full Attack**: 2 claws +7 melee (1d6+5) and bite +2 melee (1d8+2)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: Spell-like abilities
-  - **Special Qualities**: Superior low-light vision, fey-born traits
-  - **Saves**: Fort +6, Ref +10, Will +5
-  - **Abilities**: Str 20, Dex 21, Con 14, Int 14, Wis 18, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +8
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any forest, hill, mountains, and plains
-  - **Organization**: Solitary, pair, or company (2–5)
-  - **Challenge Rating**: 6
-  - **Treasure**: None
-  - **Alignment**: Usually chaotic good
-  - **Advancement**: 5–8 HD (Huge); 9–12 HD (Gargantuan)
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
+- **Hit Dice**: 4d10+4 (26 hp)
+- **Initiative**: +7
+- **Speed**: 10 ft. (2 squares), fly 70 ft. (average)
+- **Armor Class**: 20 (–1 size, +7 Dex, +4 natural), touch 16, flat-footed 13
+- **Base Attack**: +4; **CMB**: +10; **CMD**: 25
+- **Attack**: Claw +7 melee (1d6+5)
+- **Full Attack**: 2 claws +7 melee (1d6+5) and bite +2 melee (1d8+2)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: Spell-like abilities
+- **Special Qualities**: Superior low-light vision, fey-born traits
+- **Saves**: Fort +6, Ref +10, Will +5
+- **Abilities**: Str 20, Dex 21, Con 14, Int 14, Wis 18, Cha 14
+- **Skills**: [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +8
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any forest, hill, mountains, and plains
+- **Organization**: Solitary, pair, or company (2–5)
+- **Challenge Rating**: 6
+- **Treasure**: None
+- **Alignment**: Usually chaotic good
+- **Advancement**: 5–8 HD (Huge); 9–12 HD (Gargantuan)
 
 While the fey-born giant owl’s coloration is darkened from normal, the most feylike feature that betrays their different status is their bright orange eyes flickering with the fiery passions of the fey realm. In most other details, these creatures are identical to the mortal [[rangoric-srd/monsters/Owl, Giant|giant owls]] save as below.
 
@@ -101,4 +101,4 @@ While the fey-born giant owl’s coloration is darkened from normal, the most fe
 
 **Speech (Ex)**: Giant fey-born owls speak Sylvan, Fae, and Common.
 
-**Spell-Like Abilities (Sp)**: Fey-born giant owls can cast *[[rangoric-srd/spells/Good Luck|good luck]]* and *[[rangoric-srd/spells/Second Sight|second sight]]* each once per day. They can cast *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]* at will.
+**Spell-Like Abilities (Sp)**: Fey-born giant owls can cast _[[rangoric-srd/spells/Good Luck|good luck]]_ and _[[rangoric-srd/spells/Second Sight|second sight]]_ each once per day. They can cast _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_ at will.

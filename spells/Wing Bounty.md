@@ -26,14 +26,14 @@ tags: [rangoric, rangoric/spell]
 
 # Wing Bounty
 
-*Conjuration (Creation)*
+_Conjuration (Creation)_
 
-  - **Level**: Drd 2, Hun 2
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: 0 ft.
-  - **Effect**: 2d4 berries + 2 berries/level
-  - **Duration**: Caster level day(s)
-  - **Spell Resistance**: No
+- **Level**: Drd 2, Hun 2
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: 0 ft.
+- **Effect**: 2d4 berries + 2 berries/level
+- **Duration**: Caster level day(s)
+- **Spell Resistance**: No
 
 Your wings sprout a variety of colorful and flavorful berries. Each berry functions as if affected by [[rangoric-srd/spells/Goodberry|goodberry]]. You can choose for one affected berry to also be poisonous (as [[rangoric-srd/rules/afflictions/Striped Toadstool|striped toadstool]]); only you and druids of 5th level or higher can tell which is which without magic.

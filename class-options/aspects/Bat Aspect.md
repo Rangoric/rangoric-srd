@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Bat Aspect
 
-*A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The aspect of the bat imparts mastery over darkness and the night. Though not as powerful in battle as some other aspects, those who take this aspect become adept at skirmishing and spying.*
+_A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The aspect of the bat imparts mastery over darkness and the night. Though not as powerful in battle as some other aspects, those who take this aspect become adept at skirmishing and spying._
 
 **Minor Form**: You gain [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] with a range of 60 feet. If you already have darkvision with this range or greater, the range of your darkvision increases by 30 feet.
 

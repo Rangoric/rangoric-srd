@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Improved Low-Light Vision
 
-Prerequisite: Low-light vision.  
+Prerequisite: Low-light vision.
 
 Benefit: The range of the character’s low-light vision doubles. This feat does not stack with low-light vision granted by magic items or nonpermanent magical effects.
 

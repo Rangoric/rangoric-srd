@@ -20,10 +20,10 @@ tags: [rangoric, rangoric/magic-item]
 
 This psicrown has 450 power points. It is made from gray iron and is shaped into an intricately fluted crown. It allows use of the following powers.
 
-  - [[rangoric-srd/powers/Charm, Psionic|Charm, psionic]]
+- [[rangoric-srd/powers/Charm, Psionic|Charm, psionic]]
 
-  - [[rangoric-srd/powers/Dominate, Psionic|Dominate, psionic]]
+- [[rangoric-srd/powers/Dominate, Psionic|Dominate, psionic]]
 
-  - [[rangoric-srd/powers/Suggestion, Psionic|Suggestion, psionic]]
+- [[rangoric-srd/powers/Suggestion, Psionic|Suggestion, psionic]]
 
 Moderate telepathy; ML 9th; Craft Psicrown, psionic charm, psionic dominate, psionic suggestion; Price 20,250 gp.

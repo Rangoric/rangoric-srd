@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Acrobat
 
-*A [[rangoric-srd/classes/Rogue#^rogue-archetypes|rogue]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Rogue#^rogue-archetypes|rogue]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Agility and daring are both excellent rogue traits, and their confluence can create spectacular feats of acrobatics. Whether they are daring thieves, infiltrating assassins, or intrepid spies, proper training in acrobatics is a valuable boon for rogues.
 

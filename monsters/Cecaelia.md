@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Cecaelia
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Aquatic)
-  - **Hit Dice**: 6d10+12 (45 hp)
-  - **Initiative**: +4
-  - **Speed**: 30 ft. (6 squares), swim 40 ft., jet 200 ft.
-  - **Armor Class**: 18 (+4 Dex, +4 natural), touch 14, flat-footed 14
-  - **Base Attack**: +6; **CMB**: +9 (+13 grapple); **CMD**: 23 (can't be tripped)
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Spear|spear]] +11 melee (1d8+4/×3) or tentacle +10 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Spear|spear]] +12 ranged (1d8+3/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Spear|spear]] +11/+6 melee (1d8+4/×3) and 2 tentacles +5 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]]); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Spear|spear]] +12 ranged (1d8+3/×3)
-  - **Space/Reach**: 5 ft./5 ft. (10 ft. with tentacles)
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tentacle Sense|tentacle sense]] 10 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
-  - **Saves**: Fort +4, Ref +9, Will +6
-  - **Abilities**: Str 16, Dex 19, Con 14, Int 9, Wis 12, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +13
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spear), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacles)
-  - **Environment**: Warm water
-  - **Organization**: Solitary, pair, or hunting party (2–7)
-  - **Challenge Rating**: 5
-  - **Treasure**: Standard (masterwork spear, other treasure)
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Aquatic)
+- **Hit Dice**: 6d10+12 (45 hp)
+- **Initiative**: +4
+- **Speed**: 30 ft. (6 squares), swim 40 ft., jet 200 ft.
+- **Armor Class**: 18 (+4 Dex, +4 natural), touch 14, flat-footed 14
+- **Base Attack**: +6; **CMB**: +9 (+13 grapple); **CMD**: 23 (can't be tripped)
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Spear|spear]] +11 melee (1d8+4/×3) or tentacle +10 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Spear|spear]] +12 ranged (1d8+3/×3)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Spear|spear]] +11/+6 melee (1d8+4/×3) and 2 tentacles +5 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]]); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Spear|spear]] +12 ranged (1d8+3/×3)
+- **Space/Reach**: 5 ft./5 ft. (10 ft. with tentacles)
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tentacle Sense|tentacle sense]] 10 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
+- **Saves**: Fort +4, Ref +9, Will +6
+- **Abilities**: Str 16, Dex 19, Con 14, Int 9, Wis 12, Cha 11
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +13
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spear), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacles)
+- **Environment**: Warm water
+- **Organization**: Solitary, pair, or hunting party (2–7)
+- **Challenge Rating**: 5
+- **Treasure**: Standard (masterwork spear, other treasure)
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Cecaelias are intelligent human-octopus hybrids that hunt coastlines and ocean reefs. A cecaelia's humanoid upper body varies individually but generally reflects the features of the inhabitants of the nearest humanoid settlements. Sages think this is an adaptive trait, akin to an octopus's natural camouflage, allowing cecaelias to mutate within one to two generations to blend in with humanoids sharing their territory. Cecaelia stand 6 feet tall on land, and weigh just over 200 pounds. They generally live to be 60 years old.
 

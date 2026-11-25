@@ -33,7 +33,7 @@ Area: 30-ft.-radius spread centered on you
 Duration: 1 min./level  
 Saving Throw: Will negates  
 Power Resistance: Yes  
-Power Points: 1  
+Power Points: 1
 
 You fill your enemies with self-doubt. Any enemy in the area that fails its save becomes [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for the duration of the power. Allies and creatures without an Intelligence score are unaffected.
 

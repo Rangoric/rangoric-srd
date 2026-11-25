@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Prostitute
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 2d8+2 (11 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 12 (+2 Dex), touch 12, flat-footed 10
-  - **Base Attack**: +0; **CMB**: –1; **CMD**: 11
-  - **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] –1 melee (1d4–1/19–20) or [[rangoric-srd/equipment/weapons/Sap|sap]] –1 melee (1d6–1 nonlethal) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +2 ranged (1d4–1/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] –1 melee (1d4–1/19–20); or [[rangoric-srd/equipment/weapons/Sap|sap]] –1 melee (1d6–1 nonlethal); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +2 ranged (1d4–1/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6
-  - **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-trapfinding|Trapfinding]] +1, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]]
-  - **Saves**: Fort +1, Ref +4, Will +2
-  - **Abilities**: Str 8, Dex 14, Con 13, Int 12, Wis 10, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Imitation|Imitation]] +9, [[rangoric-srd/skills/Perception|Perception]] +5, Perform (act) +8, Perform (dance) +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Profession|Profession]] (courtesan) +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +7, [[rangoric-srd/skills/Society|Society]] +5
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Profession \[courtesan\])
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 1
-  - **Treasure**: NPC gear
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 2d8+2 (11 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 12 (+2 Dex), touch 12, flat-footed 10
+- **Base Attack**: +0; **CMB**: –1; **CMD**: 11
+- **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] –1 melee (1d4–1/19–20) or [[rangoric-srd/equipment/weapons/Sap|sap]] –1 melee (1d6–1 nonlethal) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +2 ranged (1d4–1/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] –1 melee (1d4–1/19–20); or [[rangoric-srd/equipment/weapons/Sap|sap]] –1 melee (1d6–1 nonlethal); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +2 ranged (1d4–1/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6
+- **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-trapfinding|Trapfinding]] +1, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]]
+- **Saves**: Fort +1, Ref +4, Will +2
+- **Abilities**: Str 8, Dex 14, Con 13, Int 12, Wis 10, Cha 17
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Imitation|Imitation]] +9, [[rangoric-srd/skills/Perception|Perception]] +5, Perform (act) +8, Perform (dance) +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Profession|Profession]] (courtesan) +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +7, [[rangoric-srd/skills/Society|Society]] +5
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Profession \[courtesan\])
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 1
+- **Treasure**: NPC gear
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A prostitute is a [[rangoric-srd/monsters/human/Human|human]] with 1 level of [[rangoric-srd/classes/Expert|expert]] and 1 level of [[rangoric-srd/classes/Rogue|rogue]]. Prostitutes are workers for hire in the field of love. From cheap trollops to brazen strumpets, saucy tarts to haughty courtesans, they work the streets and backroom brothels of cities and towns, tending to the wants, needs, and dark desires of their clients, often in elaborate costume and makeup for erotic roleplay. Most prostitutes have at least a little larceny in their hearts, however, and those who procure their services would be well advised to keep a close eye on their purses.
 

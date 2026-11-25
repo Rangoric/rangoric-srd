@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Corruption
 
-This evil enhancement grants a saving throw adjustment to whomever it deals damage. Against good or neutral creatures, a *corruption* weapon bestows a –1 profane penalty to all saves. If the weapon strikes an evil creature, however, it grants it a +1 profane bonus to its saving throws. The profane bonuses from weapons of *corruption* stack and are cumulative up to a +5 bonus. The corruption effect lasts 1d4+1 minutes.
+This evil enhancement grants a saving throw adjustment to whomever it deals damage. Against good or neutral creatures, a _corruption_ weapon bestows a –1 profane penalty to all saves. If the weapon strikes an evil creature, however, it grants it a +1 profane bonus to its saving throws. The profane bonuses from weapons of _corruption_ stack and are cumulative up to a +5 bonus. The corruption effect lasts 1d4+1 minutes.
 
-Moderate enchantment; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Doom|doom]]*; Price +2 bonus.
+Moderate enchantment; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Doom|doom]]_; Price +2 bonus.

@@ -26,6 +26,6 @@ A stone horse can carry 1,000 pounds tirelessly and never needs to rest or feed.
 
 There are two sorts of stone horses.
 
-*Courser*: This item has the statistics of a heavy horse as well as having hardness 10.
+_Courser_: This item has the statistics of a heavy horse as well as having hardness 10.
 
 Strong transmutation; CL 14th; Craft Wondrous Item, flesh to stone, animate objects; Price 10,000 gp; Weight 6,000 lb.

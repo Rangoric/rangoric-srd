@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Reliable, Greater
 
-This special ability can only be placed on one-handed or two-handed firearms. A *greater reliable firearm* is enchanted so as to be less likely to jam than other firearms. It reduces the misfire value of the affected firearm by 4 (minimum 0). This reduction occurs after any increases are calculated for firing with the [[rangoric-srd/rules/conditions/Broken (Condition)|broken]] condition, or for any other effect that might increase the misfire value of a firearm. A firearm with *greater reliable* cannot have the *[[rangoric-srd/magic-items/weapon-abilities/Reliable|reliable]]* special ability.
+This special ability can only be placed on one-handed or two-handed firearms. A _greater reliable firearm_ is enchanted so as to be less likely to jam than other firearms. It reduces the misfire value of the affected firearm by 4 (minimum 0). This reduction occurs after any increases are calculated for firing with the [[rangoric-srd/rules/conditions/Broken (Condition)|broken]] condition, or for any other effect that might increase the misfire value of a firearm. A firearm with _greater reliable_ cannot have the _[[rangoric-srd/magic-items/weapon-abilities/Reliable|reliable]]_ special ability.
 
-Moderate enchantment; CL 12th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Make Whole|make whole]]*; Price +3 bonus.
+Moderate enchantment; CL 12th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Make Whole|make whole]]_; Price +3 bonus.

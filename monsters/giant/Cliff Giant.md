@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Cliff Giant
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
-  - **Hit Dice**: 14d8+70 (133 hp)
-  - **Initiative**: +5
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 23 (+4 armor, +1 Dex, +9 natural, –1 size), touch 10, flat-footed 22
-  - **Base Attack**: +10; **CMB**: +19; **CMD**: 30
-  - **Attack**: [[rangoric-srd/equipment/weapons/Greatclub|Greatclub]] +17 melee (2d8+12) or slam +17 melee (1d8+8) or rock +12 ranged (1d8+8)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Greatclub|Greatclub]] +17/+12 melee (2d8+12); or 2 slams +17 melee (1d8+8); or rock +12 ranged (1d8+8)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (120 ft.), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/monsters/abilities/Earth Attunement|earth attunement]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and fire 10
-  - **Saves**: Fort +9, Ref +7, Will +11
-  - **Abilities**: Str 26, Dex 13, Con 21, Int 13, Wis 14, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Society|Society]] +5
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (greatclub), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Athletics), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (rock)
-  - **Environment**: Temperate or warm deserts or plains
-  - **Organization**: Solitary, pair or family (3–5 plus 2–3 non–combatants)
-  - **Challenge Rating**: 9
-  - **Treasure**: Standard (hide armor, greatclub, other treasure)
-  - **Alignment**: Usually neutral good
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
+- **Hit Dice**: 14d8+70 (133 hp)
+- **Initiative**: +5
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 23 (+4 armor, +1 Dex, +9 natural, –1 size), touch 10, flat-footed 22
+- **Base Attack**: +10; **CMB**: +19; **CMD**: 30
+- **Attack**: [[rangoric-srd/equipment/weapons/Greatclub|Greatclub]] +17 melee (2d8+12) or slam +17 melee (1d8+8) or rock +12 ranged (1d8+8)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Greatclub|Greatclub]] +17/+12 melee (2d8+12); or 2 slams +17 melee (1d8+8); or rock +12 ranged (1d8+8)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (120 ft.), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/monsters/abilities/Earth Attunement|earth attunement]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and fire 10
+- **Saves**: Fort +9, Ref +7, Will +11
+- **Abilities**: Str 26, Dex 13, Con 21, Int 13, Wis 14, Cha 12
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Society|Society]] +5
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (greatclub), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Athletics), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (rock)
+- **Environment**: Temperate or warm deserts or plains
+- **Organization**: Solitary, pair or family (3–5 plus 2–3 non–combatants)
+- **Challenge Rating**: 9
+- **Treasure**: Standard (hide armor, greatclub, other treasure)
+- **Alignment**: Usually neutral good
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Cliff giants are benevolent but reclusive creatures that dwell in deserts and badlands, carving out snug cliffside caves or building stone huts on top of mesas. Broad-shouldered, with features as sharp as chiseled stone, cliff giants can reach a height of 14 feet and weigh over 1,300 pounds. As if sculpted from layers of stone, cliff giants' skin color is a deep reddish brown, with quartz-like streaks or veins of color that crisscross in shades of ivory, dull yellow, or bright white. Cliff giants live up to 800 years old.
 
@@ -75,6 +75,6 @@ Cliff giants speak Common, Giant and Terran.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 14th; concentration +15): At will—*[[rangoric-srd/spells/Detect Poison|detect poison]]*, *[[rangoric-srd/spells/Know Direction|know direction]]*; 3/day—*[[rangoric-srd/spells/Animal Messenger|animal messenger]]*, *[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]*, *[[rangoric-srd/spells/Detect Animals or Plants|detect animals or plants]]*, *[[rangoric-srd/spells/Speak with Animals|speak with animals]]*, *[[rangoric-srd/spells/Stone Shape|stone shape]]*; 1/day—*[[rangoric-srd/spells/Commune with Nature|commune with nature]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 14th; concentration +15): At will—_[[rangoric-srd/spells/Detect Poison|detect poison]]_, _[[rangoric-srd/spells/Know Direction|know direction]]_; 3/day—_[[rangoric-srd/spells/Animal Messenger|animal messenger]]_, _[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]_, _[[rangoric-srd/spells/Detect Animals or Plants|detect animals or plants]]_, _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_, _[[rangoric-srd/spells/Stone Shape|stone shape]]_; 1/day—_[[rangoric-srd/spells/Commune with Nature|commune with nature]]_.
 
 **[[rangoric-srd/monsters/abilities/Earth Attunement|Earth Attunement]] (Su)**: A cliff giant has tremorsense 30 feet when standing on unworked stone or natural earth. Nature is a class skill for cliff giants.

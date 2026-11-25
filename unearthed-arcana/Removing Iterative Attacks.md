@@ -46,7 +46,7 @@ For example, say you have a base attack bonus of +8, are using a melee weapon th
 
 ### Attacking Multiple Targets
 
-If you have more than one maximum hit, you can declare you're making a full attack against more than one target. In that case, your number of hits is determined by the highest AC among your targets, and you can allocate your hits however you like among all the targets after determining your total number of hits—you can even choose not to hit the target whose AC you rolled against. This doesn't allow you to bypass effects that would prevent you from hitting a creature normally. For instance, you couldn't assign a hit to a creature under a *[[rangoric-srd/spells/Sanctuary|sanctuary]]* effect when making an attack roll against a different creature (unless you first succeeded on the required Will save).
+If you have more than one maximum hit, you can declare you're making a full attack against more than one target. In that case, your number of hits is determined by the highest AC among your targets, and you can allocate your hits however you like among all the targets after determining your total number of hits—you can even choose not to hit the target whose AC you rolled against. This doesn't allow you to bypass effects that would prevent you from hitting a creature normally. For instance, you couldn't assign a hit to a creature under a _[[rangoric-srd/spells/Sanctuary|sanctuary]]_ effect when making an attack roll against a different creature (unless you first succeeded on the required Will save).
 
 ### Critical Hits
 
@@ -70,7 +70,7 @@ Dealing with spells and abilities that grant additional attacks, rerolls, or hig
 
 ### Extra Attacks
 
-Effects such as *[[rangoric-srd/spells/Haste|haste]]* that grant additional attacks instead raise your maximum number of hits by one. This includes secondary natural attacks made at the end of a manufactured weapon full attack.
+Effects such as _[[rangoric-srd/spells/Haste|haste]]_ that grant additional attacks instead raise your maximum number of hits by one. This includes secondary natural attacks made at the end of a manufactured weapon full attack.
 
 ### Rerolls
 
@@ -78,7 +78,7 @@ Since the full attack roll simulates a series of rolls, effects that grant or fo
 
 ### True Strike
 
-When using *[[rangoric-srd/spells/True Strike|true strike]]* with a full attack, first see how many hits you would have scored without *[[rangoric-srd/spells/True Strike|true strike]]*. A single casting of *[[rangoric-srd/spells/True Strike|true strike]]* adds at most one more hit.
+When using _[[rangoric-srd/spells/True Strike|true strike]]_ with a full attack, first see how many hits you would have scored without _[[rangoric-srd/spells/True Strike|true strike]]_. A single casting of _[[rangoric-srd/spells/True Strike|true strike]]_ adds at most one more hit.
 
 ## Variant: Mobile Melee
 

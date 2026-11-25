@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Sound Striker
 
-*A [[rangoric-srd/classes/Bard#^bard-archetypes|bard]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Bard#^bard-archetypes|bard]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 They say that words can cut deeper than any blade, and the sound striker proves this true. Using music and words as a weapon, he can focus his performances into a deadly delivery.
 

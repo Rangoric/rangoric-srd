@@ -28,21 +28,21 @@ From the PRD license page (raw `legacy prd unchained/OGL.html`). Paizo's books u
 >
 > **Open Content:** Except for material designated as Product Identity (see above), the game mechanics of this Paizo Publishing game product are Open Game Content, as defined in the Open Game License version 1.0a Section 1(d). No portion of this work other than the material designated as Open Game Content may be reproduced in any form without written permission.
 
-The ***GameMastery Guide*** prints the same declaration (checked against the book, 2026-11-22), its last sentence reading “(Elements that have previously been designated as Open Game Content or are in the public domain are not included in this declaration.)”
+The **_GameMastery Guide_** prints the same declaration (checked against the book, 2026-11-22), its last sentence reading “(Elements that have previously been designated as Open Game Content or are in the public domain are not included in this declaration.)”
 
 ### Bastion Press
 
-> The entire contents of ***Alchemy & Herbalists*** is considered Open Content, except for the cover, artwork, and other graphic elements. The cover, artwork, and other graphic elements are Product Identity and owned solely by Bastion Press, Inc.
+> The entire contents of **_Alchemy & Herbalists_** is considered Open Content, except for the cover, artwork, and other graphic elements. The cover, artwork, and other graphic elements are Product Identity and owned solely by Bastion Press, Inc.
 
-> The entire contents of ***Arms & Armor v3.5*** is considered Open Game Content, except for the cover, artwork, and other graphics. The cover, artwork, and graphic elements are considered Product Identity of Bastion Press, Inc.
+> The entire contents of **_Arms & Armor v3.5_** is considered Open Game Content, except for the cover, artwork, and other graphics. The cover, artwork, and graphic elements are considered Product Identity of Bastion Press, Inc.
 
-> The entire contents of ***Faeries*** are Open Content, except for the cover, artwork, and other graphic elements. The cover, artwork, and graphic elements are Product Identity owned solely by Bastion Press, Inc.
+> The entire contents of **_Faeries_** are Open Content, except for the cover, artwork, and other graphic elements. The cover, artwork, and graphic elements are Product Identity owned solely by Bastion Press, Inc.
 
-> The entire contents of ***Spells & Magic v3.0*** is considered Open Content, except for the cover, artwork, and other graphic elements. The cover, artwork, and other graphic elements are Product Identity and owned solely by Bastion Press, Inc.
+> The entire contents of **_Spells & Magic v3.0_** is considered Open Content, except for the cover, artwork, and other graphic elements. The cover, artwork, and other graphic elements are Product Identity and owned solely by Bastion Press, Inc.
 
 ### Mongoose Publishing
 
-> *Encyclopaedia Arcane - Star Magic* is ©2002 Mongoose Publishing. All rights reserved. Reproduction of non-Open Game Content of this work by any means without the written permission of the publisher is expressly forbidden. […] All game stats and pages so designated are presented as Open Game Content. All other significant characters, names, places, items, art and text herein are copyrighted by Mongoose Publishing. All rights reserved.
+> _Encyclopaedia Arcane - Star Magic_ is ©2002 Mongoose Publishing. All rights reserved. Reproduction of non-Open Game Content of this work by any means without the written permission of the publisher is expressly forbidden. […] All game stats and pages so designated are presented as Open Game Content. All other significant characters, names, places, items, art and text herein are copyrighted by Mongoose Publishing. All rights reserved.
 
 This is **narrower than Bastion's or Paizo's**: no pages are marked as designated, so only the game stats are open. The Rangoric SRD takes the mechanics only and writes every star magic note in its own words (decided 2026-11-10, [[Star Magic]]). The star and constellation names stay as the game terms. Left out: the diary fiction and its characters, "Places where Magi Gather", the Designer's Notes, the myths in the star and constellation descriptions, and the setting calendar's day names.
 
@@ -50,7 +50,7 @@ This is **narrower than Bastion's or Paizo's**: no pages are marked as designate
 
 - **Foundry PF1 modules** (`pf1-content`, `pf1-statblock-library`): include Paizo's Community Use Policy notice (`Legal.txt`). It covers Paizo's trademarks and setting, not the OGL mechanics.
 - **Archives of Nethys** pages: say the site uses Paizo Product Identity under a commercial license. That permission is theirs, not ours.
-- **Third-party content** in the Foundry modules (Frog God Games, *Niobe*, *Vampire Hunter D*): check the publisher's own declaration before using any of it.
+- **Third-party content** in the Foundry modules (Frog God Games, _Niobe_, _Vampire Hunter D_): check the publisher's own declaration before using any of it.
 
 ## Terms to watch
 
@@ -81,7 +81,7 @@ From the Pathfinder content module's deity list (462 names). Some are real-world
 
 ## Patterns to look for
 
-- **Possessive names** in an entry's title or text, like *X's Y*: these usually name a character (WotC spells were renamed in the SRD for this reason; Pathfinder ones often weren't).
+- **Possessive names** in an entry's title or text, like _X's Y_: these usually name a character (WotC spells were renamed in the SRD for this reason; Pathfinder ones often weren't).
 - **Setting books**: entries whose `book:` is a campaign setting, Player Companion, Adventure Path, module or Society book carry far more setting material than the core rulebooks.
 - **Flavor text**: lore, history, "in the Pact Worlds…", quotes and dialogue. Mechanics can stay; the story usually can't.
 - **Art**: any image embedded from a source book.

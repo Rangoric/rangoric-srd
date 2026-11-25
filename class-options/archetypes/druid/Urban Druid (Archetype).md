@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Urban Druid
 
-*A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 While many druids keep to the wilderness, some make their way within settlements, communing with the animals and vermin who live there and speaking for the nature that runs rampant in civilization's very cradle.
 

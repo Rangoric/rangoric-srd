@@ -29,14 +29,14 @@ tags: [rangoric, rangoric/spell]
 
 # Thoughtsense
 
-*Divination \[MindAffecting\]*
+_Divination \[MindAffecting\]_
 
-  - **Level**: Med 4, Mes 4, Psy 4, Sor/Wiz 5, Spi 4
-  - **Components**: V, M (a bit of dried brain tissue)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: Caster level minute(s)
-  - **Spell Resistance**: No
+- **Level**: Med 4, Mes 4, Psy 4, Sor/Wiz 5, Spi 4
+- **Components**: V, M (a bit of dried brain tissue)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: Caster level minute(s)
+- **Spell Resistance**: No
 
-You automatically detect and locate conscious creatures within 60 feet, as if you possessed the blindsight ability. *[[rangoric-srd/spells/Nondetection|Nondetection]]*, *[[rangoric-srd/spells/Mind Blank|mind blank]]*, and similar effects can block this effect. *Thoughtsense* can distinguish between sentient (Intelligence 3 or greater) and non-sentient (Intelligence 1-2) creatures, but otherwise provides no information about the creatures it detects.
+You automatically detect and locate conscious creatures within 60 feet, as if you possessed the blindsight ability. _[[rangoric-srd/spells/Nondetection|Nondetection]]_, _[[rangoric-srd/spells/Mind Blank|mind blank]]_, and similar effects can block this effect. _Thoughtsense_ can distinguish between sentient (Intelligence 3 or greater) and non-sentient (Intelligence 1-2) creatures, but otherwise provides no information about the creatures it detects.

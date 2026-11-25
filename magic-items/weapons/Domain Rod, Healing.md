@@ -26,33 +26,33 @@ Additionally, each rod allows a single spell from its domain, of any level, to b
 
 Although these weapons are made for specialists, the wielder of one of these rods does not need to be a specialist, or even a spellcaster in order to take advantage of its properties.
 
-**Healing Rod**: This small gnarled shaft is crafted out of congealed blood. It does not function as a weapon in any way, but in addition to all standard powers, allows its user to cast all his healing spells as if they are *empowered*.
+**Healing Rod**: This small gnarled shaft is crafted out of congealed blood. It does not function as a weapon in any way, but in addition to all standard powers, allows its user to cast all his healing spells as if they are _empowered_.
 
-Strong conjuration [healing]; CL 12th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Cure Critical Wounds|cure critical wounds]]*, creator must have the [[rangoric-srd/feats/Empower Spell|Empower Spell]] feat; Price 97,000 gp; Cost 48,500 gp + 3,880 XP.
+Strong conjuration [healing]; CL 12th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Cure Critical Wounds|cure critical wounds]]_, creator must have the [[rangoric-srd/feats/Empower Spell|Empower Spell]] feat; Price 97,000 gp; Cost 48,500 gp + 3,880 XP.
 
 ## Random Domain Rods
 
-| d100 | Rod Type | Market Price (gp) |
-|---|---|---|
-| 01-05 | Air Rod | 90,602 |
-| 06-10 | Animal Rod | 107,800 |
-| 11-14 | Chaos Rod | 74,312 |
-| 15-18 | Death Rod | 124,437 |
-| 19-22 | Destruction Rod | 161,105 |
-| 23-27 | Earth Rod | 161,105 |
-| 28-32 | Evil Rod | 74,312 |
-| 33-37 | Fire Rod | 74,308 |
-| 38-41 | Good Rod | 74,312 |
-| 42-45 | Healing Rod | 97,000 |
-| 46-49 | Knowledge Rod | 60,308 |
-| 50-53 | Law Rod | 74,315 |
-| 54-57 | Luck Rod | 74,315 |
-| 58-61 | Magic Rod | 52,315 |
-| 62-65 | Plant Rod | 114,300 |
-| 66-70 | Protection Rod | 50,308 |
-| 71-75 | Strength Rod | 58,305 |
-| 76-80 | Sun Rod | 122,312 |
-| 81-85 | Travel Rod | 74,310 |
-| 86-90 | Trickery Rod | 88,708 |
-| 91-95 | War Rod | 90,920 |
-| 96-100 | Water Rod | 74,308 |
+| d100   | Rod Type        | Market Price (gp) |
+| ------ | --------------- | ----------------- |
+| 01-05  | Air Rod         | 90,602            |
+| 06-10  | Animal Rod      | 107,800           |
+| 11-14  | Chaos Rod       | 74,312            |
+| 15-18  | Death Rod       | 124,437           |
+| 19-22  | Destruction Rod | 161,105           |
+| 23-27  | Earth Rod       | 161,105           |
+| 28-32  | Evil Rod        | 74,312            |
+| 33-37  | Fire Rod        | 74,308            |
+| 38-41  | Good Rod        | 74,312            |
+| 42-45  | Healing Rod     | 97,000            |
+| 46-49  | Knowledge Rod   | 60,308            |
+| 50-53  | Law Rod         | 74,315            |
+| 54-57  | Luck Rod        | 74,315            |
+| 58-61  | Magic Rod       | 52,315            |
+| 62-65  | Plant Rod       | 114,300           |
+| 66-70  | Protection Rod  | 50,308            |
+| 71-75  | Strength Rod    | 58,305            |
+| 76-80  | Sun Rod         | 122,312           |
+| 81-85  | Travel Rod      | 74,310            |
+| 86-90  | Trickery Rod    | 88,708            |
+| 91-95  | War Rod         | 90,920            |
+| 96-100 | Water Rod       | 74,308            |

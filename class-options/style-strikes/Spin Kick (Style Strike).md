@@ -13,6 +13,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Spin Kick
 
-*A [[rangoric-srd/classes/Unchained Monk#^unchained-monk-style-strike|style strike]].*
+_A [[rangoric-srd/classes/Unchained Monk#^unchained-monk-style-strike|style strike]]._
 
 The monk spins about, delivering a kick his foe did not expect. The monk makes his attack against the foe's flat-footed AC. Creatures with the uncanny dodge class feature or a similar effect cannot be caught flat-footed by this style strike. The monk must attack with a kick to use this style strike.

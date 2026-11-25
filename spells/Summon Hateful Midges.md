@@ -27,17 +27,17 @@ tags: [rangoric, rangoric/spell]
 
 # Summon Hateful Midges
 
-*Conjuration \[Summoning\]*
+_Conjuration \[Summoning\]_
 
-  - **Level**: Sor/Wiz 3
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Targets**: One creature
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Fortitude partial (see text)
-  - **Spell Resistance**: No
+- **Level**: Sor/Wiz 3
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Targets**: One creature
+- **Duration**: 1 round/level
+- **Saving Throw**: Fortitude partial (see text)
+- **Spell Resistance**: No
 
 A cloud of miniscule flying, biting insects surrounds the subject of this spell. As a full-round action, the subject may fend off the insects; a saving throw is not required in this case. If the subject wishes to act (anything other than a 5 foot step), the midges deal one point of Strength, Dexterity or Constitution damage (equal chance) and a saving throw is necessary to avoid losing a full round action anyway. If the subject is the target of any area effect energy attack, the midges are destroyed.
 
-*Material Components:* A vial of stagnant water. The water is consumed but the vial itself is not.
+_Material Components:_ A vial of stagnant water. The water is consumed but the vial itself is not.

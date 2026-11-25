@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Repose Domain
 
-*A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
+_A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]]._
 
 **Subdomains**: [[rangoric-srd/class-options/domains/Ancestors Subdomain|Ancestors]], [[rangoric-srd/class-options/domains/Souls Subdomain|Souls]].
 
@@ -35,15 +35,15 @@ The Repose domain is similar to the Death domain, but is granted by good-aligned
 
 Where a level has two spells, the cleric prepares [[rangoric-srd/class-options/domains/Domains#^domains-two-spells|either one]] in the domain spell slot.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Deathwatch\|Deathwatch]] | Reveals how near death subjects within 30 ft. are. |
-| 2nd | [[rangoric-srd/spells/Gentle Repose\|Gentle Repose]] | Preserves one corpse. |
-| 3rd | [[rangoric-srd/spells/Speak with Dead\|Speak with Dead]] | Corpse answers one question/two levels. |
-| 4th | [[rangoric-srd/spells/Death Ward\|Death Ward]] | Grants immunity to death spells and negative energy effects. |
-| 5th | [[rangoric-srd/spells/Slay Living\|Slay Living]] | Touch attack kills subject. |
-| 6th | [[rangoric-srd/spells/Undeath to Death\|Undeath to Death]] | Slays 1d4 HD of undead creatures per caster level (max 20d4). |
-| 7th | [[rangoric-srd/spells/Destruction\|Destruction]] | Kills subject and destroys remains. |
-| 8th | [[rangoric-srd/spells/Surelife\|Surelife]] | Protects caster from specified natural death. |
-| 8th | [[rangoric-srd/spells/Waves of Exhaustion\|Waves of Exhaustion]] | Several targets become exhausted. |
-| 9th | [[rangoric-srd/spells/Wail of the Banshee\|Wail of the Banshee]] | Kills one creature/level. |
+| Level | Spell                                                            | Brief Description                                             |
+| ----- | ---------------------------------------------------------------- | ------------------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Deathwatch\|Deathwatch]]                   | Reveals how near death subjects within 30 ft. are.            |
+| 2nd   | [[rangoric-srd/spells/Gentle Repose\|Gentle Repose]]             | Preserves one corpse.                                         |
+| 3rd   | [[rangoric-srd/spells/Speak with Dead\|Speak with Dead]]         | Corpse answers one question/two levels.                       |
+| 4th   | [[rangoric-srd/spells/Death Ward\|Death Ward]]                   | Grants immunity to death spells and negative energy effects.  |
+| 5th   | [[rangoric-srd/spells/Slay Living\|Slay Living]]                 | Touch attack kills subject.                                   |
+| 6th   | [[rangoric-srd/spells/Undeath to Death\|Undeath to Death]]       | Slays 1d4 HD of undead creatures per caster level (max 20d4). |
+| 7th   | [[rangoric-srd/spells/Destruction\|Destruction]]                 | Kills subject and destroys remains.                           |
+| 8th   | [[rangoric-srd/spells/Surelife\|Surelife]]                       | Protects caster from specified natural death.                 |
+| 8th   | [[rangoric-srd/spells/Waves of Exhaustion\|Waves of Exhaustion]] | Several targets become exhausted.                             |
+| 9th   | [[rangoric-srd/spells/Wail of the Banshee\|Wail of the Banshee]] | Kills one creature/level.                                     |

@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/light-blades]
 
 # Wind and Fire Wheel
 
-*Exotic one-handed melee weapon.* Cost 16 gp; Dmg 1d4 (S), 1d6 (M); Critical x3; Weight 2 lb.; Type Slashing. ^stats
+_Exotic one-handed melee weapon._ Cost 16 gp; Dmg 1d4 (S), 1d6 (M); Critical x3; Weight 2 lb.; Type Slashing. ^stats
 
-(*Juan Huo Lun*): A beautiful and elaborate weapon, the wind and fire wheel is a sharpened, one-foot diameter metal ring used in melee, the outside edge of which often features three to five small, ornate blades. The wind and fire wheel is normally used in pairs.
+(_Juan Huo Lun_): A beautiful and elaborate weapon, the wind and fire wheel is a sharpened, one-foot diameter metal ring used in melee, the outside edge of which often features three to five small, ornate blades. The wind and fire wheel is normally used in pairs.

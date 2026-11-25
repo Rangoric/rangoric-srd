@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Desert Drake
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Earth)
-  - **Hit Dice**: 9d12+45 (103 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares), burrow 20 ft., fly 60 ft. (average)
-  - **Armor Class**: 21 (+2 Dex, +10 natural, –1 size), touch 11, flat-footed 19
-  - **Base Attack**: +9; **CMB**: +16; **CMD**: 28
-  - **Attack**: Bite +15 melee (2d6+9/19–20 plus 1d10 electricity) or tail slap +14 melee (1d8+3 plus [[rangoric-srd/monsters/abilities/Push|push]])
-  - **Full Attack**: Bite +15 melee (2d6+9/19–20 plus 1d10 electricity) and tail slap +9 melee (1d8+3 plus [[rangoric-srd/monsters/abilities/Push|push]])
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Dazzling Emergence|Dazzling emergence]], [[rangoric-srd/monsters/abilities/Push|push]] (tail slap, 10 ft.), [[rangoric-srd/monsters/abilities/Sandstorm Breath|sandstorm breath]], [[rangoric-srd/monsters/abilities/Savage Bite (Drake)|savage bite]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Speed Surge|speed surge]], immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 20
-  - **Saves**: Fort +11, Ref +8, Will +8
-  - **Abilities**: Str 22, Dex 15, Con 21, Int 8, Wis 11, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Feats**: [[rangoric-srd/feats/Dazzling Display|Dazzling Display]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
-  - **Environment**: Warm deserts
-  - **Organization**: Solitary, pair, or rampage (3–12)
-  - **Challenge Rating**: 8
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Earth)
+- **Hit Dice**: 9d12+45 (103 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares), burrow 20 ft., fly 60 ft. (average)
+- **Armor Class**: 21 (+2 Dex, +10 natural, –1 size), touch 11, flat-footed 19
+- **Base Attack**: +9; **CMB**: +16; **CMD**: 28
+- **Attack**: Bite +15 melee (2d6+9/19–20 plus 1d10 electricity) or tail slap +14 melee (1d8+3 plus [[rangoric-srd/monsters/abilities/Push|push]])
+- **Full Attack**: Bite +15 melee (2d6+9/19–20 plus 1d10 electricity) and tail slap +9 melee (1d8+3 plus [[rangoric-srd/monsters/abilities/Push|push]])
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Dazzling Emergence|Dazzling emergence]], [[rangoric-srd/monsters/abilities/Push|push]] (tail slap, 10 ft.), [[rangoric-srd/monsters/abilities/Sandstorm Breath|sandstorm breath]], [[rangoric-srd/monsters/abilities/Savage Bite (Drake)|savage bite]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Speed Surge|speed surge]], immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 20
+- **Saves**: Fort +11, Ref +8, Will +8
+- **Abilities**: Str 22, Dex 15, Con 21, Int 8, Wis 11, Cha 12
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Dazzling Display|Dazzling Display]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
+- **Environment**: Warm deserts
+- **Organization**: Solitary, pair, or rampage (3–12)
+- **Challenge Rating**: 8
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Among the fiercest of their kind, desert drakes exhibit a lust for destruction as merciless as any desert storm. These fierce, ambush predators hunt by finding high perches among rocky outcroppings and surveying their surroundings. When likely prey wanders into sight, a desert drake dives into the sand and burrows toward its quarry or flies low with cover from dunes or other outcroppings. Drawing near the likely path of its victims, it bursts from the sand or dives from above to catch foes off guard, preferring to attack targets that exhibit the most fear first. Before enemies can recover from the initial onslaught, a desert drake exhales a cloud of electrified dust, using its superior senses to press the attack. Mated pairs of desert drakes hunt larger prey and groups of victims, and rampages of the beasts might gather near overland trade routes to devour whole caravans.
 

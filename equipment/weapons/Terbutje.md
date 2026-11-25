@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades]
 
 # Terbutje
 
-*Martial one-handed melee weapon.* Cost 5 gp; Dmg 1d6 (S), 1d8 (M); Critical 19–20/x2; Weight 2 lb.; Type Slashing. ^stats
+_Martial one-handed melee weapon._ Cost 5 gp; Dmg 1d6 (S), 1d8 (M); Critical 19–20/x2; Weight 2 lb.; Type Slashing. ^stats
 
 This length of tempered wood, also called a macuahuitl, has bits of shark teeth, obsidian, glass, or similar materials studded all along its length.
 

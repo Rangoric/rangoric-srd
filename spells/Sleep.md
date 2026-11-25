@@ -35,16 +35,16 @@ tags: [rangoric, rangoric/spell]
 
 # Sleep
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Brd 1, Dream 1, Mes 1, Occ 1, Psy 1, Sha 1, Skd 1, Sor/Wiz 1, Wit 1
-  - **Components**: V, S, M
-  - **Casting Time**: 1 round
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Area**: One or more living creatures within a 10-ft.-radius burst
-  - **Duration**: 1 min./level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 1, Dream 1, Mes 1, Occ 1, Psy 1, Sha 1, Skd 1, Sor/Wiz 1, Wit 1
+- **Components**: V, S, M
+- **Casting Time**: 1 round
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Area**: One or more living creatures within a 10-ft.-radius burst
+- **Duration**: 1 min./level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 A sleep spell causes a magical slumber to come upon 4 Hit Dice of creatures. Creatures with the fewest HD are affected first.
 
@@ -54,4 +54,4 @@ Sleeping creatures are [[rangoric-srd/rules/Special Abilities and Conditions#^he
 
 Sleep does not target [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] creatures, constructs, or undead creatures.
 
-*Material Component*: A pinch of fine sand, rose petals, or a live cricket.
+_Material Component_: A pinch of fine sand, rose petals, or a live cricket.

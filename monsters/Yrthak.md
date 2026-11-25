@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Yrthak
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 12d10+48 (114 hp)
-  - **Initiative**: +6
-  - **Speed**: 20 ft. (4 squares), fly 60 ft. (average)
-  - **Armor Class**: 23 (+2 Dex, +1 dodge, +12 natural, –2 size), touch 11, flat-footed 20
-  - **Base Attack**: +12; **CMB**: +21; **CMD**: 34 (38 vs. trip)
-  - **Attack**: Bite +17 melee (2d6+7) or claw +17 melee (1d8+7) or sonic lance +12 ranged touch (8d6 sonic)
-  - **Full Attack**: Bite +17 melee (2d6+7) and 2 claws +17 melee (1d8+7); or sonic lance +12 ranged touch (8d6 sonic)
-  - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: Explosion
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 120 ft, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to gaze attacks, visual effects and illusions, sight-based attacks and sonic, blind
-  - **Saves**: Fort +12, Ref +12, Will +8
-  - **Abilities**: Str 24, Dex 14, Con 18, Int 7, Wis 15, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Perception|Perception]] +18
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Temperate deserts, hills, or mountains
-  - **Organization**: Solitary, pair, or clutch (3–6)
-  - **Challenge Rating**: 9
-  - **Treasure**: Incidental
-  - **Alignment**: Often neutral
-  - **Advancement**: 13–16 HD (Huge); 17–36 HD (Gargantuan)
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 12d10+48 (114 hp)
+- **Initiative**: +6
+- **Speed**: 20 ft. (4 squares), fly 60 ft. (average)
+- **Armor Class**: 23 (+2 Dex, +1 dodge, +12 natural, –2 size), touch 11, flat-footed 20
+- **Base Attack**: +12; **CMB**: +21; **CMD**: 34 (38 vs. trip)
+- **Attack**: Bite +17 melee (2d6+7) or claw +17 melee (1d8+7) or sonic lance +12 ranged touch (8d6 sonic)
+- **Full Attack**: Bite +17 melee (2d6+7) and 2 claws +17 melee (1d8+7); or sonic lance +12 ranged touch (8d6 sonic)
+- **Space/Reach**: 15 ft./10 ft.
+- **Special Attacks**: Explosion
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 120 ft, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to gaze attacks, visual effects and illusions, sight-based attacks and sonic, blind
+- **Saves**: Fort +12, Ref +12, Will +8
+- **Abilities**: Str 24, Dex 14, Con 18, Int 7, Wis 15, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Perception|Perception]] +18
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Temperate deserts, hills, or mountains
+- **Organization**: Solitary, pair, or clutch (3–6)
+- **Challenge Rating**: 9
+- **Treasure**: Incidental
+- **Alignment**: Often neutral
+- **Advancement**: 13–16 HD (Huge); 17–36 HD (Gargantuan)
+- **Level Adjustment**: —
 
 Swift, cunning, and perpetually ravenous, the yrthak terrorizes the barren wastelands in which it makes its home, swooping down from on high to blast prey with bursts of pure sound. Though technically blind, as its eyes are tiny and barely capable of vision beyond a few feet, the yrthak senses its surroundings via acute hearing and echolocation. While its powerful jaws and claws are equally capable of taking down opponents, the yrthak generally prefers to wheel through the sky on its membranous wings, firing bolt after bolt of sound into its prey, and exulting in the thrill of the hunt. An adult yrthak is 20 feet long and weighs 1,500 pounds.
 

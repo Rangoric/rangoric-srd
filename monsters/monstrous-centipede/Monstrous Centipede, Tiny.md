@@ -36,23 +36,23 @@ tags: [rangoric, rangoric/monster]
 
 # Monstrous Centipede, Tiny
 
-  - Tiny Vermin
-  - **Hit Dice**: 1/4 d8 (1 hp)
-  - **Initiative**: +2
-  - **Speed**: 20 ft. (4 squares), climb 20 ft.
-  - **Armor Class**: 14 (+2 size, +2 Dex), touch 14, flat-footed 12
-  - **Base Attack**: +0; **CMB**: +0; **CMD**: 5 (can't be tripped)
-  - **Attack**: Bite +4 melee (1d3–5 plus poison)
-  - **Full Attack**: Bite +4 melee (1d3–5 plus poison)
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: Poison
-  - **Special Qualities**: Darkvision 60 ft., vermin traits
-  - **Saves**: Fort +2, Ref +2, Will +0
-  - **Abilities**: Str 1, Dex 15, Con 10, Int —, Wis 10, Cha 2
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +2 (+10 climbing), Perception +4, Stealth +22
-  - **Feats**: Weapon FinesseB
-  - **Environment**: Underground
-  - **Organization**: Colony (8–16)
-  - **Challenge Rating**: 1/8
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny Vermin
+- **Hit Dice**: 1/4 d8 (1 hp)
+- **Initiative**: +2
+- **Speed**: 20 ft. (4 squares), climb 20 ft.
+- **Armor Class**: 14 (+2 size, +2 Dex), touch 14, flat-footed 12
+- **Base Attack**: +0; **CMB**: +0; **CMD**: 5 (can't be tripped)
+- **Attack**: Bite +4 melee (1d3–5 plus poison)
+- **Full Attack**: Bite +4 melee (1d3–5 plus poison)
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: Poison
+- **Special Qualities**: Darkvision 60 ft., vermin traits
+- **Saves**: Fort +2, Ref +2, Will +0
+- **Abilities**: Str 1, Dex 15, Con 10, Int —, Wis 10, Cha 2
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +2 (+10 climbing), Perception +4, Stealth +22
+- **Feats**: Weapon FinesseB
+- **Environment**: Underground
+- **Organization**: Colony (8–16)
+- **Challenge Rating**: 1/8
+- **Advancement**: —
+- **Level Adjustment**: —

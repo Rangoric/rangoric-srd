@@ -34,4 +34,4 @@ The greater version of this rod has four tentacles, which attack the same target
 
 **Intelligent item**: Int 10, Wis 10, Cha 8, Ego 6; chaotic neutral; Senses 120 ft., darkvision; Language telepathy (Aklo).
 
-Strong abjuration; CL 16th; [[rangoric-srd/feats/Craft Rod|Craft Rod]], *[[rangoric-srd/spells/Summon Monster V|summon monster V]]*; Price 40,000 gp; Cost 20,000 gp.
+Strong abjuration; CL 16th; [[rangoric-srd/feats/Craft Rod|Craft Rod]], _[[rangoric-srd/spells/Summon Monster V|summon monster V]]_; Price 40,000 gp; Cost 20,000 gp.

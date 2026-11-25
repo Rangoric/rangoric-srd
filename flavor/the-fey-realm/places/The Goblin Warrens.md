@@ -21,12 +21,12 @@ Strangled by the iron fist of an ogrish [[rangoric-srd/races/Feeorin|feeorin]], 
 
 **Personalities:** [[rangoric-srd/flavor/the-fey-realm/personalities/The Goblin King|The Goblin King]]
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common: Doorways* exist in the Goblin Warrens that open to the mountain strongholds of many tribes of goblinoid creatures among the mortal worlds.
+_Common: Doorways_ exist in the Goblin Warrens that open to the mountain strongholds of many tribes of goblinoid creatures among the mortal worlds.
 
-*Uncommon:* A *fey road* stretches from Goblin Warrens to somewhere in the Big Rock Mountains.
+_Uncommon:_ A _fey road_ stretches from Goblin Warrens to somewhere in the Big Rock Mountains.
 
-*Rare:* The Goblin King and the Queen of Air and Darkness constantly battle over control of Between. The Goblin King has had a few short-lived successes, only to quickly lose control of the region to the Queen and her Unseelie.
+_Rare:_ The Goblin King and the Queen of Air and Darkness constantly battle over control of Between. The Goblin King has had a few short-lived successes, only to quickly lose control of the region to the Queen and her Unseelie.
 
-*Obscure:* There is a *fey road* constantly connecting the Court of the Goblin King and the Unseelie Court.
+_Obscure:_ There is a _fey road_ constantly connecting the Court of the Goblin King and the Unseelie Court.

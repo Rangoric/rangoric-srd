@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Unhallow
 
-*Evocation \[Evil\]*
+_Evocation \[Evil\]_
 
-  - **Level**: Clr 5, Drd 5, Hun 5, Inq 5
-  - **Components**: V, S, M
-  - **Casting Time**: 24 hours
-  - **Range**: Touch
-  - **Area**: 40-ft. radius emanating from the touched point
-  - **Duration**: Instantaneous
-  - **Saving Throw**: See text
-  - **Spell Resistance**: See text
+- **Level**: Clr 5, Drd 5, Hun 5, Inq 5
+- **Components**: V, S, M
+- **Casting Time**: 24 hours
+- **Range**: Touch
+- **Area**: 40-ft. radius emanating from the touched point
+- **Duration**: Instantaneous
+- **Saving Throw**: See text
+- **Spell Resistance**: See text
 
 Unhallow makes a particular site, building, or structure an unholy site. This has three major effects.
 
@@ -56,4 +56,4 @@ An area can receive only one unhallow spell (and its associated spell effect) at
 
 Unhallow counters but does not dispel hallow.
 
-*Material Component*: Herbs, oils, and incense worth at least 1,000 gp, plus 1,000 gp per level of the spell to be tied to the unhallowed area.
+_Material Component_: Herbs, oils, and incense worth at least 1,000 gp, plus 1,000 gp per level of the spell to be tied to the unhallowed area.

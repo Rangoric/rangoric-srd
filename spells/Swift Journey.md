@@ -33,17 +33,17 @@ tags: [rangoric, rangoric/spell]
 
 # Swift Journey
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Brd 4, Clr 4, Drd 4, Hun 4, Msl 4, Rgr 4, Skd 4, Sor/Wiz 4, Travel 4
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: 30 ft.
-  - **Targets**: One creature/level, no two of which can be more than 30 ft. apart.
-  - **Duration**: 12 hours (D)
-  - **Saving Throw**: No
-  - **Spell Resistance**: Yes
+- **Level**: Brd 4, Clr 4, Drd 4, Hun 4, Msl 4, Rgr 4, Skd 4, Sor/Wiz 4, Travel 4
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: 30 ft.
+- **Targets**: One creature/level, no two of which can be more than 30 ft. apart.
+- **Duration**: 12 hours (D)
+- **Saving Throw**: No
+- **Spell Resistance**: Yes
 
-Created by fey spellcasters seeking a way around the physical laws of the mortal worlds, this spell enables the caster and one creature per level to travel at twice their swiftest normal speed while moving across land. The change in speed has no impact on combat movement and cannot be augmented by a *[[rangoric-srd/spells/Haste|haste]]* or *[[rangoric-srd/spells/Slow|slow]]* spell.
+Created by fey spellcasters seeking a way around the physical laws of the mortal worlds, this spell enables the caster and one creature per level to travel at twice their swiftest normal speed while moving across land. The change in speed has no impact on combat movement and cannot be augmented by a _[[rangoric-srd/spells/Haste|haste]]_ or _[[rangoric-srd/spells/Slow|slow]]_ spell.
 
 Once the spell (and the travel) is complete, all recipients of the spell need to completely rest for the same amount of time traveled or take 1 point of Strength and Constitution [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]] each. Such penalties heal at the normal rate.

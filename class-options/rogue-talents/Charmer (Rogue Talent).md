@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Charmer
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex).*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex)._
 
 Once per day, a rogue with this talent can roll two dice while making a [[rangoric-srd/skills/Persuasion|Persuasion]] check, and take the better result. She must choose to use this talent before making the [[rangoric-srd/skills/Persuasion|Persuasion]] check. A rogue can use this ability one additional time per day for every 5 rogue levels she possesses.

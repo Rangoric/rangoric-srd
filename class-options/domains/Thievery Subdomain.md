@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Thievery Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Trickery Domain|Trickery]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Trickery Domain|Trickery]] domain._
 
 ## Replacement Power
 
@@ -27,7 +27,7 @@ This power replaces the [[rangoric-srd/class-options/domains/Trickery Domain#Gra
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 3rd | [[rangoric-srd/spells/Locate Object\|Locate Object]] | Senses direction toward object (specific or type). |
-| 7th | [[rangoric-srd/spells/Ethereal Jaunt\|Ethereal Jaunt]] | You become ethereal for 1 round/level. |
+| Level | Spell                                                  | Brief Description                                  |
+| ----- | ------------------------------------------------------ | -------------------------------------------------- |
+| 3rd   | [[rangoric-srd/spells/Locate Object\|Locate Object]]   | Senses direction toward object (specific or type). |
+| 7th   | [[rangoric-srd/spells/Ethereal Jaunt\|Ethereal Jaunt]] | You become ethereal for 1 round/level.             |

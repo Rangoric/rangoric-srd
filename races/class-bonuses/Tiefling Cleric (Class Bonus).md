@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Tiefling Cleric
 
-*A [[rangoric-srd/races/Tiefling|tiefling]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Cleric#^cleric-class-bonuses|cleric]] level.*
+_A [[rangoric-srd/races/Tiefling|tiefling]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Cleric#^cleric-class-bonuses|cleric]] level._
 
 Add a +1 bonus on caster level checks made to overcome the [[rangoric-srd/rules/Special Abilities and Conditions#Spell Resistance|spell resistance]] of outsiders.

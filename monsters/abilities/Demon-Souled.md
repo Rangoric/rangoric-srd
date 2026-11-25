@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Demon-Souled
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “demon-souled”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “demon-souled”, on the Special Qualities line.
 
 Bound demonic life force animates the viper, giving it the chaotic and evil subtypes. The [[rangoric-srd/monsters/Abrakarn Viper|abrakarn viper]] has it.

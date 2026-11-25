@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Reversible Bardic Doublet
 
-*Light armor.* Cost 20 gp; Armor Bonus +1; Maximum Dex Bonus +10; Armor Check Penalty 0; Arcane Spell Failure 7%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 10 lb. ^stats
+_Light armor._ Cost 20 gp; Armor Bonus +1; Maximum Dex Bonus +10; Armor Check Penalty 0; Arcane Spell Failure 7%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 10 lb. ^stats
 
 This doublet is a close-fitting jacket, with or without sleeves, that appears to be an ordinary piece of clothing. It has several plates of hardened leather sewn between two separate layers of the fabric. These plates are sewn to the inside in such a way that the doublet still moves inconspicuously.

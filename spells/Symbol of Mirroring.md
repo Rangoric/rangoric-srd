@@ -31,17 +31,17 @@ tags: [rangoric, rangoric/spell]
 
 # Symbol of Mirroring
 
-*Illusion (Figment) \[Death\]*
+_Illusion (Figment) \[Death\]_
 
-  - **Level**: Mes 2, Occ 2, Sor/Wiz 2, Wit 2
-  - **Components**: V, S, M (mercury and phosphorous, plus powdered diamond and opal worth a total of 100 gp)
-  - **Casting Time**: 10 minutes
-  - **Range**: 0 ft.; see text
-  - **Effect**: One symbol
-  - **Duration**: See text
-  - **Saving Throw**: Will partial (harmless)
-  - **Spell Resistance**: Yes
+- **Level**: Mes 2, Occ 2, Sor/Wiz 2, Wit 2
+- **Components**: V, S, M (mercury and phosphorous, plus powdered diamond and opal worth a total of 100 gp)
+- **Casting Time**: 10 minutes
+- **Range**: 0 ft.; see text
+- **Effect**: One symbol
+- **Duration**: See text
+- **Saving Throw**: Will partial (harmless)
+- **Spell Resistance**: Yes
 
-This spell functions as *[[rangoric-srd/spells/Symbol of Death|symbol of death]]*, except it instead creates one illusory duplicate of each creature within 60 feet of the symbol. These duplicates function as *[[rangoric-srd/spells/Mirror Image|mirror image]]*, moving with the original creatures and mimicking their movements, sounds, and actions exactly. If an illusory double is destroyed, a new one appears on the creature's turn. The images last for as long as a creature remains within 60 feet of the symbol, and for 1 round/level thereafter. Once triggered, the symbol remains active for 10 minutes per caster level.
+This spell functions as _[[rangoric-srd/spells/Symbol of Death|symbol of death]]_, except it instead creates one illusory duplicate of each creature within 60 feet of the symbol. These duplicates function as _[[rangoric-srd/spells/Mirror Image|mirror image]]_, moving with the original creatures and mimicking their movements, sounds, and actions exactly. If an illusory double is destroyed, a new one appears on the creature's turn. The images last for as long as a creature remains within 60 feet of the symbol, and for 1 round/level thereafter. Once triggered, the symbol remains active for 10 minutes per caster level.
 
-*Symbol of mirroring* can be made permanent with a *[[rangoric-srd/spells/Permanency|permanency]]* spell by a caster of 10th level or higher for the cost of 5,000 gp.
+_Symbol of mirroring_ can be made permanent with a _[[rangoric-srd/spells/Permanency|permanency]]_ spell by a caster of 10th level or higher for the cost of 5,000 gp.

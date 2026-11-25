@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Legendary Climber
 
-Prerequisites: Dex 21, [[rangoric-srd/skills/Acrobatics|Acrobatics]] 9 ranks, [[rangoric-srd/skills/Athletics|Athletics]] 21 ranks.  
+Prerequisites: Dex 21, [[rangoric-srd/skills/Acrobatics|Acrobatics]] 9 ranks, [[rangoric-srd/skills/Athletics|Athletics]] 21 ranks.
 
 Benefit: The character can ignore any check penalties applied for accelerated climbing or rapid climbing.
 

@@ -18,7 +18,6 @@ tags: [rangoric, rangoric/siege-ammunition]
 
 # Plague Bundle
 
-*[[rangoric-srd/rules/Siege Engines#Special Siege Engine Ammunition|Siege engine ammunition]].* Price 80 gp (one use); Weight 20 lb. ^stats
+_[[rangoric-srd/rules/Siege Engines#Special Siege Engine Ammunition|Siege engine ammunition]]._ Price 80 gp (one use); Weight 20 lb. ^stats
 
 This hard, ceramic canister is filled with a noxious mass of diseased carrion and offal that can be used as ammunition for a catapult or a trebuchet. It deals only half damage, but every creature hit by it is exposed to [[rangoric-srd/rules/afflictions/Filth Fever|filth fever]]. A GM might allow a plague bundle to inflict other diseases.
-

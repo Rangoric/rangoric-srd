@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Litany of Weakness
 
-*Necromancy \[Language-dependent\]*
+_Necromancy \[Language-dependent\]_
 
-  - **Level**: Apl 1, Inq 1
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 swift action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: 1 round
-  - **Saving Throw**: No
-  - **Spell Resistance**: Yes
+- **Level**: Apl 1, Inq 1
+- **Components**: V, S, DF
+- **Casting Time**: 1 swift action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: 1 round
+- **Saving Throw**: No
+- **Spell Resistance**: Yes
 
 Your litany proclaims your target weak, sapping its strength. The target is fatigued for 1 round.
 

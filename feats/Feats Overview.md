@@ -26,15 +26,15 @@ A character can’t use a feat if he or she has lost a prerequisite.
 
 Some feats are general, meaning that no special rules govern them as a group. Others are item creation feats, which allow spellcasters to create magic items of all sorts. A metamagic feat lets a spellcaster prepare and cast a spell with greater effect, albeit as if the spell were a higher spell level than it actually is.
 
-A feat's type is a [[rangoric-srd/Tag Register|tag]] on its note, such as *fighter-bonus*, *metamagic* or *style*. General feats have no type tag. Epic, divine and wild feats are described in [[rangoric-srd/epic/Epic Feats#Types of Epic Feats|Epic Feats]], psionic and metapsionic feats in [[rangoric-srd/psionics/Psionic Feats|Psionic Feats]], and spelltouched feats in [[rangoric-srd/unearthed-arcana/Spelltouched Feats|Spelltouched Feats]].
+A feat's type is a [[rangoric-srd/Tag Register|tag]] on its note, such as _fighter-bonus_, _metamagic_ or _style_. General feats have no type tag. Epic, divine and wild feats are described in [[rangoric-srd/epic/Epic Feats#Types of Epic Feats|Epic Feats]], psionic and metapsionic feats in [[rangoric-srd/psionics/Psionic Feats|Psionic Feats]], and spelltouched feats in [[rangoric-srd/unearthed-arcana/Spelltouched Feats|Spelltouched Feats]].
 
 ##### Critical Feats
 
-A feat with the tag *critical* adds an effect to your [[rangoric-srd/combat/Combat Actions#^critical-hits|critical hits]]. When you score a critical hit, you can apply the effect of only one critical feat to it, in addition to the damage dealt, unless you have [[rangoric-srd/feats/Critical Mastery|Critical Mastery]]. ^critical-feats
+A feat with the tag _critical_ adds an effect to your [[rangoric-srd/combat/Combat Actions#^critical-hits|critical hits]]. When you score a critical hit, you can apply the effect of only one critical feat to it, in addition to the damage dealt, unless you have [[rangoric-srd/feats/Critical Mastery|Critical Mastery]]. ^critical-feats
 
 ##### Fighter Bonus Feats
 
-Any feat with the tag *fighter-bonus* can be selected as a fighter’s bonus feat. This designation does not restrict characters of other classes from selecting these feats, assuming that they meet any prerequisites.
+Any feat with the tag _fighter-bonus_ can be selected as a fighter’s bonus feat. This designation does not restrict characters of other classes from selecting these feats, assuming that they meet any prerequisites.
 
 ##### Item Creation Feats
 
@@ -50,11 +50,11 @@ Using an item creation feat also requires access to a laboratory or magical work
 
 **Item Cost**: Brew Potion, Craft Wand, and Scribe Scroll create items that directly reproduce spell effects, and the power of these items depends on their caster level—that is, a spell from such an item has the power it would have if cast by a spellcaster of that level. The price of these items (and thus the XP cost and the cost of the raw materials) also depends on the caster level. The caster level must be high enough that the spellcaster creating the item can cast the spell at that level. To find the final price in each case, multiply the caster level by the spell level, then multiply the result by a constant, as shown below:
 
-*Scrolls*: Base price = spell level x caster level x 25 gp.
+_Scrolls_: Base price = spell level x caster level x 25 gp.
 
-*Potions*: Base price = spell level x caster level x 50 gp.
+_Potions_: Base price = spell level x caster level x 50 gp.
 
-*Wands*: Base price = spell level x caster level x 750 gp.
+_Wands_: Base price = spell level x caster level x 750 gp.
 
 A 0-level spell is considered to have a spell level of 1/2 for the purpose of this calculation.
 
@@ -86,15 +86,15 @@ Metamagic feats cannot be used with all spells. See the specific feat descriptio
 
 ##### Performance Feats
 
-A feat with the tag *performance* is used when you make a [[rangoric-srd/rules/Performance Combat#^performance-combat-check|performance combat check]], typically granting a special action that occurs when you make that check. Unless you have the [[rangoric-srd/feats/Masterful Display|Masterful Display]] feat, you can only apply the effect of one performance feat to each performance combat check you make. [[rangoric-srd/rules/Performance Combat#Performance Feats|Performance Combat]] lists them. ^performance-feats
+A feat with the tag _performance_ is used when you make a [[rangoric-srd/rules/Performance Combat#^performance-combat-check|performance combat check]], typically granting a special action that occurs when you make that check. Unless you have the [[rangoric-srd/feats/Masterful Display|Masterful Display]] feat, you can only apply the effect of one performance feat to each performance combat check you make. [[rangoric-srd/rules/Performance Combat#Performance Feats|Performance Combat]] lists them. ^performance-feats
 
 ##### Stare Feats
 
-A feat with the tag *stare* adds an effect to the [[rangoric-srd/classes/Mesmerist#^mesmerist-painful-stare|painful stare]] of a mesmerist. When your painful stare deals damage, you can apply the effect of only one stare feat to it, chosen before the damage roll, unless you have [[rangoric-srd/feats/Compounded Pain|Compounded Pain]]. ^stare-feats
+A feat with the tag _stare_ adds an effect to the [[rangoric-srd/classes/Mesmerist#^mesmerist-painful-stare|painful stare]] of a mesmerist. When your painful stare deals damage, you can apply the effect of only one stare feat to it, chosen before the damage roll, unless you have [[rangoric-srd/feats/Compounded Pain|Compounded Pain]]. ^stare-feats
 
 ##### Style Feats
 
-A feat with the tag *style* sets a fighting stance. As a swift action, you can enter the stance of a style feat you have. You can't enter a stance before combat begins, but once you do, it lasts until you end it (a free action) or enter another. You can be in only one style's stance at a time. Feats that build on a style feat often work only "while using" that style, meaning while you are in its stance. ^style-feats
+A feat with the tag _style_ sets a fighting stance. As a swift action, you can enter the stance of a style feat you have. You can't enter a stance before combat begins, but once you do, it lasts until you end it (a free action) or enter another. You can be in only one style's stance at a time. Feats that build on a style feat often work only "while using" that style, meaning while you are in its stance. ^style-feats
 
 ### Feat Descriptions
 
@@ -102,7 +102,7 @@ Here is the format for feat descriptions.
 
 ##### Teamwork Feats
 
-A feat with the tag *teamwork* works only alongside allies who also have it. Teamwork feats grant large bonuses, but only under specific circumstances: in most cases an ally who also has the feat has to be positioned as the feat describes, and the feat gives no bonus if its conditions aren’t met. Allies who are [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]], [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]], or otherwise unable to act don’t count, unless a feat says otherwise. Some abilities let allies use a teamwork feat they don’t have, such as the cavalier’s [[rangoric-srd/classes/Cavalier#^cavalier-tactician|tactician]] and the *[[rangoric-srd/spells/Coordinated Effort|coordinated effort]]* spell. With [[rangoric-srd/feats/Pack Tactics|Pack Tactics]], an animal companion counts as having its master’s teamwork feats. ^teamwork-feats
+A feat with the tag _teamwork_ works only alongside allies who also have it. Teamwork feats grant large bonuses, but only under specific circumstances: in most cases an ally who also has the feat has to be positioned as the feat describes, and the feat gives no bonus if its conditions aren’t met. Allies who are [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]], [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]], or otherwise unable to act don’t count, unless a feat says otherwise. Some abilities let allies use a teamwork feat they don’t have, such as the cavalier’s [[rangoric-srd/classes/Cavalier#^cavalier-tactician|tactician]] and the _[[rangoric-srd/spells/Coordinated Effort|coordinated effort]]_ spell. With [[rangoric-srd/feats/Pack Tactics|Pack Tactics]], an animal companion counts as having its master’s teamwork feats. ^teamwork-feats
 
 ##### Feat Name \[Type of Feat\]
 

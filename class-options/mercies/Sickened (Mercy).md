@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Sickened
 
-*A [[rangoric-srd/classes/Paladin#^paladin-mercy|mercy]], available from 3rd level.*
+_A [[rangoric-srd/classes/Paladin#^paladin-mercy|mercy]], available from 3rd level._
 
 The target is no longer [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]].

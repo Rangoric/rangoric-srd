@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/pole-arms]
 
 # Bec de Corbin
 
-*Martial two-handed melee weapon (brace, reach).* Cost 15 gp; Dmg 1d8 (S), 1d10 (M); Critical x3; Weight 12 lb.; Type Bludgeoning or piercing. ^stats
+_Martial two-handed melee weapon (brace, reach)._ Cost 15 gp; Dmg 1d8 (S), 1d10 (M); Critical x3; Weight 12 lb.; Type Bludgeoning or piercing. ^stats
 
 The bec de corbin is a polearm very similar to the [[rangoric-srd/equipment/weapons/Lucerne Hammer|lucerne hammer]], but the hammer head is blunt rather than spiked and the spike is stouter and more hooked. You primarily attack with the spike. You gain a +2 bonus to your CMB to [[rangoric-srd/combat/Combat Maneuvers#Sunder|sunder]] medium or heavy armor with a bec de corbin.
 

@@ -55,18 +55,18 @@ The herbalist’s class skills (and the key ability for each skill) are [[rangor
 
 **Table: The Herbalist** ^table-the-herbalist
 
-| Level | Special | Spells per Day |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/feats/Craft Toxins\|Craft Toxins]] | — |
-| 2nd | — | +1 level of existing class |
-| 3rd | [[rangoric-srd/feats/Craft Herbal Restoratives\|Craft Herbal Restoratives]] | — |
-| 4th | Bloomagic | +1 level of existing class |
-| 5th | [[rangoric-srd/feats/Craft Powders & Dusts\|Craft Powders & Dusts]] | — |
-| 6th | Flourish spell | +1 level of existing class |
-| 7th | [[rangoric-srd/feats/Grow Swathe\|Grow Swathe]] | — |
-| 8th | — | +1 level of existing class |
-| 9th | [[rangoric-srd/feats/Create Erlcana\|Create Erlcana]] | — |
-| 10th | — | +1 level of existing class |
+| Level | Special                                                                     | Spells per Day             |
+| ----- | --------------------------------------------------------------------------- | -------------------------- |
+| 1st   | [[rangoric-srd/feats/Craft Toxins\|Craft Toxins]]                           | —                          |
+| 2nd   | —                                                                           | +1 level of existing class |
+| 3rd   | [[rangoric-srd/feats/Craft Herbal Restoratives\|Craft Herbal Restoratives]] | —                          |
+| 4th   | Bloomagic                                                                   | +1 level of existing class |
+| 5th   | [[rangoric-srd/feats/Craft Powders & Dusts\|Craft Powders & Dusts]]         | —                          |
+| 6th   | Flourish spell                                                              | +1 level of existing class |
+| 7th   | [[rangoric-srd/feats/Grow Swathe\|Grow Swathe]]                             | —                          |
+| 8th   | —                                                                           | +1 level of existing class |
+| 9th   | [[rangoric-srd/feats/Create Erlcana\|Create Erlcana]]                       | —                          |
+| 10th  | —                                                                           | +1 level of existing class |
 
 ###### Class Features
 
@@ -78,11 +78,11 @@ All of the following are class features of the herbalist prestige class.
 
 **Bonus Feats**: At 1st level and at every odd level thereafter, herbalists gain a bonus item creation feat tied to their herbal specialties, taught in a specific order: 1st, [[rangoric-srd/feats/Craft Toxins|Craft Toxins]]; 3rd, [[rangoric-srd/feats/Craft Herbal Restoratives|Craft Herbal Restoratives]]; 5th, [[rangoric-srd/feats/Craft Powders & Dusts|Craft Powders & Dusts]]; 7th, [[rangoric-srd/feats/Grow Swathe|Grow Swathe]]; 9th, [[rangoric-srd/feats/Create Erlcana|Create Erlcana]]. An herbalist must still meet all prerequisites for a feat to use it. ^herbalist-bonus-feats
 
-*Important:* These feats are in addition to the feats a character of any class gets as she rises in level. The herbalist is not limited to the list given here when choosing those feats.
+_Important:_ These feats are in addition to the feats a character of any class gets as she rises in level. The herbalist is not limited to the list given here when choosing those feats.
 
-***Bloomagic***: At 4th level, herbalists gain a unique ability to heal plants using spell energies. They can cast any 0- or 1st-level spell but negate its normal effects or abilities in favor of using the energies to restore plant life. This is a lesser version of the [[rangoric-srd/feats/Flourish Spell|Flourish Spell]] feat or ability, though unlike that ability, the *bloomagic* talent allows the herbalist to do any one of the following with said energies: ^herbalist-bloomagic
+**_Bloomagic_**: At 4th level, herbalists gain a unique ability to heal plants using spell energies. They can cast any 0- or 1st-level spell but negate its normal effects or abilities in favor of using the energies to restore plant life. This is a lesser version of the [[rangoric-srd/feats/Flourish Spell|Flourish Spell]] feat or ability, though unlike that ability, the _bloomagic_ talent allows the herbalist to do any one of the following with said energies: ^herbalist-bloomagic
 
 - Restore preserved herbs or plants to their healthiest, freshest state;
-- Heal any nonmagical damage to a plant that can be touched directly (a broken stalk, trampled leaves and body, stripped bark, etc.) and encompassed entirely by the herbalist’s hands. (Equivalent to a *[[rangoric-srd/spells/Mending|mending]]* spell.)
+- Heal any nonmagical damage to a plant that can be touched directly (a broken stalk, trampled leaves and body, stripped bark, etc.) and encompassed entirely by the herbalist’s hands. (Equivalent to a _[[rangoric-srd/spells/Mending|mending]]_ spell.)
 
 **Flourish Spell**: At 6th level, herbalists gain the spell-like ability Flourish Spell, allowing them to use spell energies (either arcane or divine) to heal or affect the growth of plants. See the [[rangoric-srd/feats/Flourish Spell|Flourish Spell]] feat for more details on this ability’s use. The only difference between that feat and the herbalist ability is that Flourish Spell can be used twice a day at will. ^herbalist-flourish-spell

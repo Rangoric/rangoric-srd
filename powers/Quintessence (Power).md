@@ -34,7 +34,7 @@ Metacreativity (Creation)
 **Duration:** Instantaneous  
 **Saving Throw:** None  
 **Power Resistance:** No  
-**Power Points:** 7  
+**Power Points:** 7
 
 You collapse a bit of time from the continuum, forming a 1-ounce dollop of thick, gooey material called quintessence. This substance shimmers like a silver mirror when viewed from some angles but is transparent from other viewpoints. You can smooth a dollop of quintessence around any extremely small object.
 

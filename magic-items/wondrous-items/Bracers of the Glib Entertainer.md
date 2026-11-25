@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Bracers of the Glib Entertainer
 
-These decorative bracers are stippled with vibrant colors and have various tiny bells sewn onto their surface. While wearing them, the wearer gains a +5 competence bonus on [[rangoric-srd/skills/Performance|Performance]] checks. Once per day on command, the user can gain the benefit of the *[[rangoric-srd/spells/Glibness|glibness]]* spell.
+These decorative bracers are stippled with vibrant colors and have various tiny bells sewn onto their surface. While wearing them, the wearer gains a +5 competence bonus on [[rangoric-srd/skills/Performance|Performance]] checks. Once per day on command, the user can gain the benefit of the _[[rangoric-srd/spells/Glibness|glibness]]_ spell.
 
-Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Glibness|glibness]]*; Price 7,900 gp; Cost 3,950 gp; Weight 1 lb.
+Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Glibness|glibness]]_; Price 7,900 gp; Cost 3,950 gp; Weight 1 lb.

@@ -31,7 +31,6 @@ tags: [rangoric, rangoric/siege-engine, weapon-group/firearms]
 
 # Cannon (Siege Engine)
 
-*Large [[rangoric-srd/rules/Siege Engines#Direct-Fire Ranged Siege Engines|direct-fire siege engine]], a siege [[rangoric-srd/equipment/Firearms|firearm]].* Price 6,000 gp; Dmg 6d6; Critical ×4; Range 100 ft.; Type Bludgeoning and piercing; Crew 2; Aim 1; Load 3; Speed 10 ft.; Misfire 1 (20 ft.); Hardness 10; Hit Points 70; Ammunition 30 gp, 25 lb. per ball. ^stats
+_Large [[rangoric-srd/rules/Siege Engines#Direct-Fire Ranged Siege Engines|direct-fire siege engine]], a siege [[rangoric-srd/equipment/Firearms|firearm]]._ Price 6,000 gp; Dmg 6d6; Critical ×4; Range 100 ft.; Type Bludgeoning and piercing; Crew 2; Aim 1; Load 3; Speed 10 ft.; Misfire 1 (20 ft.); Hardness 10; Hit Points 70; Ammunition 30 gp, 25 lb. per ball. ^stats
 
 Cannons are crafted of metal—some are cast in one piece, others welded with iron bands—and mounted either in the ground or on wooden frames. Cannons use black powder to propel their projectiles with great force. A cannon has a misfire range of 1 (20 feet). Cannons have a hardness of 10 and 70 hit points. Cannon balls cost 30 gp each and weigh 25 pounds.
-

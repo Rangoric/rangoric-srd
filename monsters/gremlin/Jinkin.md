@@ -39,30 +39,30 @@ tags: [rangoric, rangoric/monster]
 
 # Jinkin
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
-  - **Hit Dice**: 1d6+3 (6 hp)
-  - **Initiative**: +4
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 18 (+4 Dex, +1 dodge, +1 natural, +2 size), touch 17, flat-footed 13
-  - **Base Attack**: +0; **CMB**: +2; **CMD**: 9
-  - **Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +6 melee (1d3–4/19–20) or bite +6 melee (1d2–4)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +6 melee (1d3–4/19–20) and bite +1 melee (1d2–4)
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: Sneak attack +1d6, [[rangoric-srd/monsters/abilities/Tinker|tinker]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 12
-  - **Saves**: Fort +0, Ref +6, Will +4
-  - **Abilities**: Str 3, Dex 19, Con 11, Int 14, Wis 14, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (traps) +10, [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Emulation|Emulation]] +6, [[rangoric-srd/skills/Engineering|Engineering]] +9, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +8, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +16
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any underground or urban
-  - **Organization**: Solitary, pair, mob (3–12), or infestation (13–20 with 1–3 sorcerers of 1st–3rd level, 1 rogue leader of 2nd–4th level, 2–8 trained stirges, 2–5 trained darkmantles, and 1–2 trained dire bats)
-  - **Challenge Rating**: 1
-  - **Treasure**: Standard (short sword, other treasure)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
+- **Hit Dice**: 1d6+3 (6 hp)
+- **Initiative**: +4
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 18 (+4 Dex, +1 dodge, +1 natural, +2 size), touch 17, flat-footed 13
+- **Base Attack**: +0; **CMB**: +2; **CMD**: 9
+- **Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +6 melee (1d3–4/19–20) or bite +6 melee (1d2–4)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +6 melee (1d3–4/19–20) and bite +1 melee (1d2–4)
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: Sneak attack +1d6, [[rangoric-srd/monsters/abilities/Tinker|tinker]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 12
+- **Saves**: Fort +0, Ref +6, Will +4
+- **Abilities**: Str 3, Dex 19, Con 11, Int 14, Wis 14, Cha 15
+- **Skills**: [[rangoric-srd/skills/Craft|Craft]] (traps) +10, [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Emulation|Emulation]] +6, [[rangoric-srd/skills/Engineering|Engineering]] +9, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +8, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +16
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any underground or urban
+- **Organization**: Solitary, pair, mob (3–12), or infestation (13–20 with 1–3 sorcerers of 1st–3rd level, 1 rogue leader of 2nd–4th level, 2–8 trained stirges, 2–5 trained darkmantles, and 1–2 trained dire bats)
+- **Challenge Rating**: 1
+- **Treasure**: Standard (short sword, other treasure)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
-Sneaky and sadistic, jinkins are hideous gremlins that inhabit the dark places underground. Well acclimated to the shadows, they hide in cramped quarters and attack larger creatures when they're strategically positioned. Jinkins commonly work with or near larger or more powerful creatures; these larger creatures provide cover for the jinkins' trickery. They use *[[rangoric-srd/spells/Dimension Door|dimension door]]* to exit any battle that goes badly, taking any stolen goods with them.
+Sneaky and sadistic, jinkins are hideous gremlins that inhabit the dark places underground. Well acclimated to the shadows, they hide in cramped quarters and attack larger creatures when they're strategically positioned. Jinkins commonly work with or near larger or more powerful creatures; these larger creatures provide cover for the jinkins' trickery. They use _[[rangoric-srd/spells/Dimension Door|dimension door]]_ to exit any battle that goes badly, taking any stolen goods with them.
 
 Jinkins delight in leading larger creatures into dangerous caves or pits, usually by lunging out of the shadows to make a single sneak attack against a creature and then running away, taking care while “fleeing” to remain visible to their target so that they can lure the victim into a trap.
 
@@ -78,6 +78,6 @@ Jinkins speak Undercommon.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st; concentration +3): At will—*[[rangoric-srd/spells/Prestidigitation|prestidigitation]]*; 1/hour—*[[rangoric-srd/spells/Dimension Door|dimension door]]* (self plus 5 lbs. only).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st; concentration +3): At will—_[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_; 1/hour—_[[rangoric-srd/spells/Dimension Door|dimension door]]_ (self plus 5 lbs. only).
 
 **[[rangoric-srd/monsters/abilities/Tinker|Tinker]] (Sp)**: A group of six jinkins working together over the course of an hour can create an effect identical to bestow curse on any living creature. This effect functions at CL 6th and has a range of 60 feet, and the target creature must be either willing or [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] (but still gets a saving throw to resist). The save is DC 14 + the Charisma modifier of the jinkin with the highest Charisma score (DC 16 for most groups of jinkins). Alternatively, the group of jinkins can attempt to infuse a magic item with a curse. The nature of this curse is determined randomly; half of these curses make the magic item unreliable (each time the item is used, there is a 20% chance it does not function), while the other half give the item a random requirement. A jinkin can take part in a tinkering only once per day, and may only tinker with a creature or object that isn't already cursed. Once a tinkering curse is in place, it is permanent until removed via an effect like remove curse. All jinkin tinkerings function as a curse created by a 6th-level caster.

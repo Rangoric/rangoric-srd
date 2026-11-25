@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Ghul
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Shapechanger)
-  - **Hit Dice**: 6d8+24 (51 hp)
-  - **Initiative**: +2
-  - **Speed**: 40 ft. (8 squares), climb 20 ft.
-  - **Armor Class**: 18 (+2 Dex, +6 natural), touch 12, flat-footed 16
-  - **Base Attack**: +4; **CMB**: +10; **CMD**: 22
-  - **Attack**: Bite +10 melee (1d6+6) or claw +10 melee (1d4+6 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
-  - **Full Attack**: Bite +10 melee (1d6+6) and 2 claws +10 melee (1d4+6 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1), [[rangoric-srd/monsters/abilities/Cursed Claws|cursed claws]], [[rangoric-srd/monsters/abilities/Rend|rend]] (2 claws, 1d6+6)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (hyena; does not detect as undead in this form; beast shape I), [[rangoric-srd/monsters/abilities/Genie-kin|genie-kin]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
-  - **Saves**: Fort +8, Ref +4, Will +7
-  - **Abilities**: Str 22, Dex 15, Con —, Int 14, Wis 15, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8 (+16 when following tracks), [[rangoric-srd/skills/Imitation|Imitation]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +11
-  - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Step Up|Step Up]]
-  - **Environment**: Warm deserts
-  - **Organization**: Solitary or pack (2–8)
-  - **Challenge Rating**: 5
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Shapechanger)
+- **Hit Dice**: 6d8+24 (51 hp)
+- **Initiative**: +2
+- **Speed**: 40 ft. (8 squares), climb 20 ft.
+- **Armor Class**: 18 (+2 Dex, +6 natural), touch 12, flat-footed 16
+- **Base Attack**: +4; **CMB**: +10; **CMD**: 22
+- **Attack**: Bite +10 melee (1d6+6) or claw +10 melee (1d4+6 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
+- **Full Attack**: Bite +10 melee (1d6+6) and 2 claws +10 melee (1d4+6 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1), [[rangoric-srd/monsters/abilities/Cursed Claws|cursed claws]], [[rangoric-srd/monsters/abilities/Rend|rend]] (2 claws, 1d6+6)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (hyena; does not detect as undead in this form; beast shape I), [[rangoric-srd/monsters/abilities/Genie-kin|genie-kin]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
+- **Saves**: Fort +8, Ref +4, Will +7
+- **Abilities**: Str 22, Dex 15, Con —, Int 14, Wis 15, Cha 18
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8 (+16 when following tracks), [[rangoric-srd/skills/Imitation|Imitation]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +11
+- **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Step Up|Step Up]]
+- **Environment**: Warm deserts
+- **Organization**: Solitary or pack (2–8)
+- **Challenge Rating**: 5
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Ghuls are undead jann whose eternal existence was twisted by fate and wrought through the displeasure of Ahriman, Lord of the Divs. As if the curse of undeath and ravenous hunger were not enough, these once-majestic creatures now bear donkey hooves as feet. Despite their horrific undead appearance, this feature shames them the most, and they hide their feet from view.
 

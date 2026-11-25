@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Plague Mask
 
-This stylized bird mask consists of a pair of goggles attached to a ceramic beak that covers the nose and mouth. The goggles are not magic and can be replaced with other goggles or eye slot items. It grants the wearer a +4 resistance bonus on saving throws against disease. Once per day on command, the user can *[[rangoric-srd/spells/Remove Disease|remove disease]]* (as the spell) on a single creature touched.
+This stylized bird mask consists of a pair of goggles attached to a ceramic beak that covers the nose and mouth. The goggles are not magic and can be replaced with other goggles or eye slot items. It grants the wearer a +4 resistance bonus on saving throws against disease. Once per day on command, the user can _[[rangoric-srd/spells/Remove Disease|remove disease]]_ (as the spell) on a single creature touched.
 
-Faint necromancy; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Remove Disease|remove disease]]*; Price 7,500 gp; Cost 3,750 gp; Weight 2 lbs.
+Faint necromancy; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Remove Disease|remove disease]]_; Price 7,500 gp; Cost 3,750 gp; Weight 2 lbs.

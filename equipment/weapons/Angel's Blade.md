@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades]
 
 # Angel's Blade
 
-*Martial two-handed melee weapon.* Cost 150 gp; Dmg 1d10 (S), 2d6 (M); Critical 19-20/x2; Weight 8 lb.; Type Slashing. ^stats
+_Martial two-handed melee weapon._ Cost 150 gp; Dmg 1d10 (S), 2d6 (M); Critical 19-20/x2; Weight 8 lb.; Type Slashing. ^stats
 
 These large greatswords look just like normal greatswords except for the rectangular groove cut into the center of the blade. This groove accepts special slotted metal strips that are fitted to the sword to allow it to bypass damage reduction based on a weapon’s composition. Thus, a character might fit a silver strip into the slot in order to more effectively fight a lycanthrope, or a strip of cold iron when attacking a creature from the lower planes.
 

@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Mouser
 
-*A [[rangoric-srd/classes/Swashbuckler#^swashbuckler-archetypes|swashbuckler]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Swashbuckler#^swashbuckler-archetypes|swashbuckler]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 In the hands of a trained warrior, a well-sharpened blade is deadly regardless of size. A mouser moves in close, using her size and skill as an advantage.
 

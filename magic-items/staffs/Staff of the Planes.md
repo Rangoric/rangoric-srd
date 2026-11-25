@@ -23,10 +23,10 @@ tags: [rangoric, rangoric/magic-item]
 
 This obsidian staff twinkles as if reflecting the star-filled sky at night. The staff allows use of the following spells.
 
-- *[[rangoric-srd/spells/Planar Adaptation|Planar adaptation]]* (1 charge)
-- *[[rangoric-srd/spells/Planar Binding|Planar binding]]* (2 charges)
-- *[[rangoric-srd/spells/Plane Shift|Plane shift]]* (5 charges)
+- _[[rangoric-srd/spells/Planar Adaptation|Planar adaptation]]_ (1 charge)
+- _[[rangoric-srd/spells/Planar Binding|Planar binding]]_ (2 charges)
+- _[[rangoric-srd/spells/Plane Shift|Plane shift]]_ (5 charges)
 
-If the *staff of the planes* is fully charged, the wielder can deliberately snap the staff, causing it to shatter into thousands of pieces but opening a *[[rangoric-srd/spells/Gate|gate]]* to a plane of the wielder's choice. This can only be used for planar travel, and the connection lasts for 1 minute, without requiring the wielder's concentration. If used in this way, the staff cannot be repaired or restored.
+If the _staff of the planes_ is fully charged, the wielder can deliberately snap the staff, causing it to shatter into thousands of pieces but opening a _[[rangoric-srd/spells/Gate|gate]]_ to a plane of the wielder's choice. This can only be used for planar travel, and the connection lasts for 1 minute, without requiring the wielder's concentration. If used in this way, the staff cannot be repaired or restored.
 
-Strong conjuration; CL 13th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Planar Adaptation|planar adaptation]]*, *[[rangoric-srd/spells/Planar Binding|planar binding]]*, *[[rangoric-srd/spells/Plane Shift|plane shift]]*; Price 63,960 gp; Cost 31,980 gp; Weight 5 lbs.
+Strong conjuration; CL 13th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Planar Adaptation|planar adaptation]]_, _[[rangoric-srd/spells/Planar Binding|planar binding]]_, _[[rangoric-srd/spells/Plane Shift|plane shift]]_; Price 63,960 gp; Cost 31,980 gp; Weight 5 lbs.

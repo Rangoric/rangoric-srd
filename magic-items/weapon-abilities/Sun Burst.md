@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Sun Burst
 
-Most *sun burst* weapons are plainly crafted, although occasionally one can be found with a sun or light motif. These weapons are often mistaken for holy items. A *sun burst* weapon that scores a critical hit against a foe immediately casts *[[rangoric-srd/spells/Daylight|daylight]]* upon the target.
+Most _sun burst_ weapons are plainly crafted, although occasionally one can be found with a sun or light motif. These weapons are often mistaken for holy items. A _sun burst_ weapon that scores a critical hit against a foe immediately casts _[[rangoric-srd/spells/Daylight|daylight]]_ upon the target.
 
-Faint evocation; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Daylight|daylight]]*; Price +1 bonus.
+Faint evocation; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Daylight|daylight]]_; Price +1 bonus.

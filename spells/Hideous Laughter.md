@@ -33,19 +33,19 @@ tags: [rangoric, rangoric/spell]
 
 # Hideous Laughter
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Brd 1, Enchantment 2, Med 2, Mes 1, Psy 2, Skd 1, Sor/Wiz 2
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature; see text
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 1, Enchantment 2, Med 2, Mes 1, Psy 2, Skd 1, Sor/Wiz 2
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature; see text
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 This spell afflicts the subject with uncontrollable laughter. It collapses into gales of manic laughter, falling [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]]. The subject can take no actions while laughing, but is not considered [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]]. After the spell ends, it can act normally.
 
 A creature with an Intelligence score of 2 or lower is not affected. A creature whose type is different from the caster’s receives a +4 bonus on its saving throw, because humor doesn’t “translate” well.
 
-*Material Component*: Tiny tarts that are thrown at the target and a feather that is waved in the air.
+_Material Component_: Tiny tarts that are thrown at the target and a feather that is waved in the air.

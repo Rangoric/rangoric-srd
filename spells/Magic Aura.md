@@ -31,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 # Magic Aura
 
-*Illusion (Glamer)*
+_Illusion (Glamer)_
 
 Level: Brd 1, Magic 1, Mes 1, Occ 1, Psy 1, Skd 1, Sor/Wiz 1  
 Components: V, S, F  
@@ -48,6 +48,6 @@ If the object bearing magic aura has identify cast on it or is similarly examine
 
 If the targeted item’s own aura is exceptionally powerful (if it is an artifact, for instance), magic aura doesn’t work.
 
-*Note*: A magic weapon, shield, or suit of armor must be a masterwork item, so a sword of average make, for example, looks suspicious if it has a magical aura.
+_Note_: A magic weapon, shield, or suit of armor must be a masterwork item, so a sword of average make, for example, looks suspicious if it has a magical aura.
 
-*Focus*: A small square of silk that must be passed over the object that receives the aura.
+_Focus_: A small square of silk that must be passed over the object that receives the aura.

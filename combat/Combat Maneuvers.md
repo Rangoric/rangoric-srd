@@ -15,18 +15,18 @@ tags: [rangoric, rangoric/overview]
 
 During combat, you can attempt maneuvers that hinder or even cripple a foe instead of simply damaging it: bull rush, dirty trick, disarm, drag, grapple, overrun, reposition, steal, sunder and trip. Although these maneuvers have very different results, they all use the same mechanic to determine success.
 
-| Maneuver | Action | Brief description |
-| --- | --- | --- |
-| [[#Bull Rush]] | Standard action, or part of a charge | Push a foe back 5 feet or more |
-| [[#Dirty Trick]] | Standard action | Blind, dazzle, deafen, entangle, shake or sicken a foe for a round or more |
-| [[#Disarm]] | In place of a melee attack | Make a foe drop what it's holding |
-| [[#Drag]] | Standard action | Pull a foe along behind you |
-| [[#Grapple]] | Standard action | Hold a foe, then move, damage, pin or tie it up |
-| [[#Overrun]] | Standard action during your move, or part of a charge | Move through a foe's space, perhaps knocking it prone |
-| [[#Reposition]] | Standard action | Move a foe to another space within your reach |
-| [[#Steal]] | Standard action | Take an item a foe isn't holding |
-| [[#Sunder]] | In place of a melee attack | Damage an item a foe holds or wears |
-| [[#Trip]] | In place of a melee attack | Knock a foe prone |
+| Maneuver         | Action                                                | Brief description                                                          |
+| ---------------- | ----------------------------------------------------- | -------------------------------------------------------------------------- |
+| [[#Bull Rush]]   | Standard action, or part of a charge                  | Push a foe back 5 feet or more                                             |
+| [[#Dirty Trick]] | Standard action                                       | Blind, dazzle, deafen, entangle, shake or sicken a foe for a round or more |
+| [[#Disarm]]      | In place of a melee attack                            | Make a foe drop what it's holding                                          |
+| [[#Drag]]        | Standard action                                       | Pull a foe along behind you                                                |
+| [[#Grapple]]     | Standard action                                       | Hold a foe, then move, damage, pin or tie it up                            |
+| [[#Overrun]]     | Standard action during your move, or part of a charge | Move through a foe's space, perhaps knocking it prone                      |
+| [[#Reposition]]  | Standard action                                       | Move a foe to another space within your reach                              |
+| [[#Steal]]       | Standard action                                       | Take an item a foe isn't holding                                           |
+| [[#Sunder]]      | In place of a melee attack                            | Damage an item a foe holds or wears                                        |
+| [[#Trip]]        | In place of a melee attack                            | Knock a foe prone                                                          |
 
 ## Combat Maneuver Bonus
 
@@ -38,9 +38,9 @@ Creatures that are size Tiny or smaller use their Dexterity modifier in place of
 
 **Table: Special Size Modifier** ^special-size-modifier
 
-| Size | Fine | Diminutive | Tiny | Small | Medium | Large | Huge | Gargantuan | Colossal |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Modifier | –8 | –4 | –2 | –1 | +0 | +1 | +2 | +4 | +8 |
+| Size     | Fine | Diminutive | Tiny | Small | Medium | Large | Huge | Gargantuan | Colossal |
+| -------- | ---- | ---------- | ---- | ----- | ------ | ----- | ---- | ---------- | -------- |
+| Modifier | –8   | –4         | –2   | –1    | +0     | +1    | +2   | +4         | +8       |
 
 The same special size modifier applies to both CMB and CMD.
 
@@ -98,7 +98,7 @@ An enemy being moved by a drag does not provoke an attack of opportunity because
 
 As a standard action, you can attempt to grapple a foe, hindering his combat options. If you do not have [[rangoric-srd/feats/Improved Grapple|Improved Grapple]], [[rangoric-srd/monsters/abilities/Grab|improved grab]], or a similar ability, attempting to grapple a foe provokes an attack of opportunity from the target of your maneuver. Humanoid creatures without two free hands attempting to grapple a foe take a –4 penalty on the combat maneuver roll. If successful, both you and the target gain the [[rangoric-srd/rules/conditions/Grappled (Condition)|grappled]] condition. If you successfully grapple a creature that is not adjacent to you, move that creature to an adjacent open space (if no space is available, your grapple fails). Although both creatures have the grappled condition, you can, as the creature that initiated the grapple, release the grapple as a free action, removing the condition from both you and the target. If you do not release the grapple, you must continue to make a check each round, as a standard action, to maintain the hold. If your target does not break the grapple, you get a +5 circumstance bonus on grapple checks made against the same target in subsequent rounds. Once you are grappling an opponent, a successful check allows you to continue grappling the foe, and also allows you to perform one of the following actions (as part of the standard action spent to maintain the grapple).
 
-**Move**: You can move both yourself and your target up to half your speed. At the end of your movement, you can place your target in any square adjacent to you. If you attempt to place your foe in a hazardous location, such as in a *[[rangoric-srd/spells/Wall of Fire|wall of fire]]* or over a pit, the target receives a free attempt to break your grapple with a +4 bonus.
+**Move**: You can move both yourself and your target up to half your speed. At the end of your movement, you can place your target in any square adjacent to you. If you attempt to place your foe in a hazardous location, such as in a _[[rangoric-srd/spells/Wall of Fire|wall of fire]]_ or over a pit, the target receives a free attempt to break your grapple with a +4 bonus.
 
 **Damage**: You can inflict damage to your target equal to your unarmed strike, a natural attack, or an attack made with armor spikes or a light or one-handed weapon. This damage can be either lethal or nonlethal.
 
@@ -120,7 +120,7 @@ When you attempt to overrun a target, it can choose to avoid you, allowing you t
 
 ## Reposition
 
-You can attempt to reposition a foe to a different location as a standard action. You can only reposition an opponent that is no more than one size category larger than you. A reposition attempts to force a foe to move to a different position in relation to your location without doing any harm. If you do not have the [[rangoric-srd/feats/Improved Reposition|Improved Reposition]] feat or a similar ability, attempting to reposition a foe provokes an attack of opportunity from the target of your maneuver. You cannot use this maneuver to move a foe into a space that is intrinsically dangerous, such as a pit or *[[rangoric-srd/spells/Wall of Fire|wall of fire]]*.
+You can attempt to reposition a foe to a different location as a standard action. You can only reposition an opponent that is no more than one size category larger than you. A reposition attempts to force a foe to move to a different position in relation to your location without doing any harm. If you do not have the [[rangoric-srd/feats/Improved Reposition|Improved Reposition]] feat or a similar ability, attempting to reposition a foe provokes an attack of opportunity from the target of your maneuver. You cannot use this maneuver to move a foe into a space that is intrinsically dangerous, such as a pit or _[[rangoric-srd/spells/Wall of Fire|wall of fire]]_.
 
 If your attack is successful, you may move your target 5 feet to a new location. For every 5 by which your attack exceeds your opponent's CMD, you can move the target an additional 5 feet. The target must remain within your reach at all times during this movement, except for the final 5 feet of movement, which can be to a space adjacent to your reach.
 
@@ -161,9 +161,9 @@ If your attack is successful, you deal damage to the item normally. Damage that 
 | Heavy steel shield             | 10          | 20              |
 | Tower shield                   | 5           | 20              |
 
-1 *The hp value given is for Medium armor, weapons, and shields. Divide by 2 for each size category of the item smaller than Medium, or multiply it by 2 for each size category larger than Medium.*
+1 _The hp value given is for Medium armor, weapons, and shields. Divide by 2 for each size category of the item smaller than Medium, or multiply it by 2 for each size category larger than Medium._
 
-2 *Varies by material.*
+2 _Varies by material._
 
 ## Trip
 

@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Psionic Restraints, Average
 
-Each of the various psionic restraints is an iron cuff that cunningly locks around the wrist (DC 27 [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] check). The cuff limits the total number of power points a psionic creature wearing it can use in 1 round (regardless of the creature’s total power point reserve), or completely damps the ability to use psionics. All types of psionic restraints prevent the free manifesting of powers.  
+Each of the various psionic restraints is an iron cuff that cunningly locks around the wrist (DC 27 [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] check). The cuff limits the total number of power points a psionic creature wearing it can use in 1 round (regardless of the creature’s total power point reserve), or completely damps the ability to use psionics. All types of psionic restraints prevent the free manifesting of powers.
 
 |                |                            |              |
 | -------------- | -------------------------- | ------------ |

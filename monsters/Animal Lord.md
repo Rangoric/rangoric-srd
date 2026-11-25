@@ -53,28 +53,28 @@ tags: [rangoric, rangoric/monster]
 
 # Animal Lord
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Native, Shapechanger)
-  - **Hit Dice**: 10d10+80 (139 hp)
-  - **Initiative**: +7
-  - **Speed**: 30 ft. (6 squares), climb 20 ft.; leap
-  - **Armor Class**: 25 (+3 armor, +1 deflection, +6 Dex, +1 dodge, +4 natural), touch 18, flat-footed 18
-  - **Base Attack**: +10; **CMB**: +17 (+21 grapple); **CMD**: 34
-  - **Attack**: Bite +15 melee (1d6+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +15 melee (1d3+5) or +1 seeking composite longbow +18 ranged (1d8+6/×3)
-  - **Full Attack**: Bite +15 melee (1d6+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +15 melee (1d3+5); or +1 seeking composite longbow +18/+13 ranged (1d8+6/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Favored Enemy|Favored enemy]] (evil outsiders +6, giants +2, undead +2), [[rangoric-srd/monsters/abilities/Pounce|pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +15, 1d3+5), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/classes/Ranger#^ranger-evasion|evasion]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (leopard; shapechange), [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (jungle +4, plains +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (leopard), [[rangoric-srd/classes/Ranger#^ranger-swift-tracker|swift tracker]], [[rangoric-srd/classes/Ranger#^ranger-track|track]] +5, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +12, [[rangoric-srd/monsters/abilities/Woodland Stride|woodland stride]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/silver
-  - **Saves**: Fort +13, Ref +14, Will +7
-  - **Abilities**: Str 20, Dex 24, Con 22, Int 12, Wis 18, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +26 (+31 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +17, [[rangoric-srd/skills/Nature|Nature]] +14, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +20 (+24 in undergrowth)
-  - **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Shot on the Run|Shot on the Run]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
-  - **Environment**: Warm jungles
-  - **Organization**: Solitary
-  - **Challenge Rating**: 11
-  - **Treasure**: NPC gear (+1 leather armor, +1 seeking composite longbow [+5 Str] with 20 arrows, amulet of natural armor +1, ring of protection +1, other treasure)
-  - **Alignment**: Usually neutral good
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Native, Shapechanger)
+- **Hit Dice**: 10d10+80 (139 hp)
+- **Initiative**: +7
+- **Speed**: 30 ft. (6 squares), climb 20 ft.; leap
+- **Armor Class**: 25 (+3 armor, +1 deflection, +6 Dex, +1 dodge, +4 natural), touch 18, flat-footed 18
+- **Base Attack**: +10; **CMB**: +17 (+21 grapple); **CMD**: 34
+- **Attack**: Bite +15 melee (1d6+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +15 melee (1d3+5) or +1 seeking composite longbow +18 ranged (1d8+6/×3)
+- **Full Attack**: Bite +15 melee (1d6+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +15 melee (1d3+5); or +1 seeking composite longbow +18/+13 ranged (1d8+6/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Favored Enemy|Favored enemy]] (evil outsiders +6, giants +2, undead +2), [[rangoric-srd/monsters/abilities/Pounce|pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +15, 1d3+5), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/classes/Ranger#^ranger-evasion|evasion]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (leopard; shapechange), [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (jungle +4, plains +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (leopard), [[rangoric-srd/classes/Ranger#^ranger-swift-tracker|swift tracker]], [[rangoric-srd/classes/Ranger#^ranger-track|track]] +5, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +12, [[rangoric-srd/monsters/abilities/Woodland Stride|woodland stride]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/silver
+- **Saves**: Fort +13, Ref +14, Will +7
+- **Abilities**: Str 20, Dex 24, Con 22, Int 12, Wis 18, Cha 14
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +26 (+31 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +17, [[rangoric-srd/skills/Nature|Nature]] +14, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +20 (+24 in undergrowth)
+- **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Shot on the Run|Shot on the Run]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
+- **Environment**: Warm jungles
+- **Organization**: Solitary
+- **Challenge Rating**: 11
+- **Treasure**: NPC gear (+1 leather armor, +1 seeking composite longbow [+5 Str] with 20 arrows, amulet of natural armor +1, ring of protection +1, other treasure)
+- **Alignment**: Usually neutral good
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The animal lord above is a cat lord, a human animal lord with 10 levels of [[rangoric-srd/classes/Ranger|ranger]].
 
@@ -114,9 +114,9 @@ Animal lords speak Common and Sylvan.
 
 **Special Qualities (Su)**: An animal lord gains the following special qualities.
 
-**[[rangoric-srd/monsters/abilities/Change Shape|Change Shape]] (Su)**: An animal lord has two forms—a humanoid and an animal form. When an animal lord in humanoid form uses the base animal's defensive abilities, movement types, attacks, and other features, the animal lord's body instantaneously changes as appropriate to allow the use of that ability, growing wings or claws or fangs as necessary. The animal lord can use this ability to take the shape of the base animal (as *[[rangoric-srd/spells/Shapechange|shapechange]]*) as a move action. ^change-shape
+**[[rangoric-srd/monsters/abilities/Change Shape|Change Shape]] (Su)**: An animal lord has two forms—a humanoid and an animal form. When an animal lord in humanoid form uses the base animal's defensive abilities, movement types, attacks, and other features, the animal lord's body instantaneously changes as appropriate to allow the use of that ability, growing wings or claws or fangs as necessary. The animal lord can use this ability to take the shape of the base animal (as _[[rangoric-srd/spells/Shapechange|shapechange]]_) as a move action. ^change-shape
 
-**Dominion (Su)**: In both forms, an animal lord is treated as if constantly under the effects of a *[[rangoric-srd/spells/Speak with Animals|speak with animals]]* spell, but this only applies to creatures of the animal lord's species affinity (see below). In addition, an animal lord can cast *[[rangoric-srd/spells/Charm Animal|charm animal]]* on any animal of its affinity as a spell-like ability at will (CL equals the animal lord's HD). ^dominion
+**Dominion (Su)**: In both forms, an animal lord is treated as if constantly under the effects of a _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_ spell, but this only applies to creatures of the animal lord's species affinity (see below). In addition, an animal lord can cast _[[rangoric-srd/spells/Charm Animal|charm animal]]_ on any animal of its affinity as a spell-like ability at will (CL equals the animal lord's HD). ^dominion
 
 #### Species Affinity
 
@@ -178,6 +178,6 @@ Serpent lords tend to have unusual skin colors, often with stripes or other patt
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +12): At will—*[[rangoric-srd/spells/Charm Animal|charm animal]]* (cats only, DC 13).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +12): At will—_[[rangoric-srd/spells/Charm Animal|charm animal]]_ (cats only, DC 13).
 
-**Ranger spells prepared** (CL 7th; concentration +11): 3rd—*[[rangoric-srd/spells/Magic Fang, Greater|greater magic fang]]*; 2nd—*[[rangoric-srd/spells/Cat’s Grace|cat's grace]]*, *[[rangoric-srd/spells/Hold Animal|hold animal]]* (DC 16); 1st—*[[rangoric-srd/spells/Charm Animal|charm animal]]* (DC 15), *[[rangoric-srd/spells/Longstrider|longstrider]]*, *[[rangoric-srd/spells/Pass without Trace|pass without trace]]*.
+**Ranger spells prepared** (CL 7th; concentration +11): 3rd—_[[rangoric-srd/spells/Magic Fang, Greater|greater magic fang]]_; 2nd—_[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_, _[[rangoric-srd/spells/Hold Animal|hold animal]]_ (DC 16); 1st—_[[rangoric-srd/spells/Charm Animal|charm animal]]_ (DC 15), _[[rangoric-srd/spells/Longstrider|longstrider]]_, _[[rangoric-srd/spells/Pass without Trace|pass without trace]]_.

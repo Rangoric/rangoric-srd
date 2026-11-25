@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Shielded Fighter
 
-*A [[rangoric-srd/classes/Fighter#^fighter-archetypes|fighter]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Fighter#^fighter-archetypes|fighter]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A shielded fighter focuses on both offense and defense, blending weapon and shield in perfect balance to impede his enemies while delivering deadly blows, and even turning the shield itself into a formidable weapon. These fighting school benefits apply when wielding a weapon and a shield simultaneously.
 

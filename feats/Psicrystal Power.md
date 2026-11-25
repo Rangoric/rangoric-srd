@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic, psionic]
 
 # Psicrystal Power
 
-Your psicrystal can manifest a power.  
+Your psicrystal can manifest a power.
 
 Prerequisites: Character level 21st, Intelligence 25 or Charisma 25 (depending on which is your key ability score for manifesting).
 

@@ -20,4 +20,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This special ability can only be placed on ranged weapons or ammunition. Each time a ranged weapon or ammunition with this ability hits a creature, its magic designates the target. Allies gain a +2 morale bonus on melee attack and melee damage rolls against the designated target for 1 round. Multiple successful shots fired at the same target do not increase the bonuses or their duration.
 
-Moderate enchantment; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Instant Enemy|instant enemy]]*; Price +2 bonus.
+Moderate enchantment; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Instant Enemy|instant enemy]]_; Price +2 bonus.

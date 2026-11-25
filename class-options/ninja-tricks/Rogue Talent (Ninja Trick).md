@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Rogue Talent
 
-*A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]].*
+_A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]]._
 
 The ninja can select a [[rangoric-srd/class-options/rogue-talents/Rogue Talents|rogue talent]] in place of a ninja trick. The ninja cannot select a rogue talent that has the same name as a ninja trick. The ninja can select this talent multiple times.

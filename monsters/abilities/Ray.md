@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Ray
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su) or [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Spell-like]] (Sp). In a stat block*: “ray”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su) or [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Spell-like]] (Sp). In a stat block_: “ray”, on the Special Attacks line.
 
 This form of special attack works like a ranged attack. Hitting with a ray attack requires a successful ranged touch attack roll, ignoring armor, natural armor, and shield and using the creature’s ranged attack bonus. Ray attacks have no range increment. The creature’s descriptive text specifies the maximum range, effects, and any applicable saving throw.
 

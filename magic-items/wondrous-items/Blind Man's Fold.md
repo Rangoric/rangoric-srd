@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Blind Man's Fold
 
-Fashioned from a scrap of a blind beggar's clothing, a blind man's fold is often used by explorers who must traverse caves inhabited by invisible creatures, or those drawn to sources of light. A *blind man's fold* fully obscures normal vision while worn, but grants the effects of the [[rangoric-srd/feats/Improved Blind-Fight|Improved Blind-Fight]] feat. Creatures which are unable to see normally gain no benefit from wearing a *blind man's fold*.
+Fashioned from a scrap of a blind beggar's clothing, a blind man's fold is often used by explorers who must traverse caves inhabited by invisible creatures, or those drawn to sources of light. A _blind man's fold_ fully obscures normal vision while worn, but grants the effects of the [[rangoric-srd/feats/Improved Blind-Fight|Improved Blind-Fight]] feat. Creatures which are unable to see normally gain no benefit from wearing a _blind man's fold_.
 
-Moderate transmutation; CL 6th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Improved Blind-Fight|Improved Blind-Fight]], *[[rangoric-srd/spells/Darkness|darkness]]*; Price 12,000 gp; Cost 6,000 gp.
+Moderate transmutation; CL 6th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Improved Blind-Fight|Improved Blind-Fight]], _[[rangoric-srd/spells/Darkness|darkness]]_; Price 12,000 gp; Cost 6,000 gp.

@@ -44,53 +44,53 @@ The unchained summoner’s class skills (and the key ability for each skill) are
 
 **Table: The Unchained Summoner** ^table-the-unchained-summoner
 
-| Level | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | Cantrips, eidolon, life link, *[[rangoric-srd/spells/Summon Monster I\|summon monster I]]* | 1 | — | — | — | — | — |
-| 2nd | Bond senses | 2 | — | — | — | — | — |
-| 3rd | *[[rangoric-srd/spells/Summon Monster II\|Summon monster II]]* | 3 | — | — | — | — | — |
-| 4th | Shield ally | 3 | 1 | — | — | — | — |
-| 5th | *[[rangoric-srd/spells/Summon Monster III\|Summon monster III]]* | 4 | 2 | — | — | — | — |
-| 6th | Maker's call | 4 | 3 | — | — | — | — |
-| 7th | *[[rangoric-srd/spells/Summon Monster IV\|Summon monster IV]]* | 4 | 3 | 1 | — | — | — |
-| 8th | Transposition | 4 | 4 | 2 | — | — | — |
-| 9th | *[[rangoric-srd/spells/Summon Monster V\|Summon monster V]]* | 5 | 4 | 3 | — | — | — |
-| 10th | Aspect | 5 | 4 | 3 | 1 | — | — |
-| 11th | *[[rangoric-srd/spells/Summon Monster VI\|Summon monster VI]]* | 5 | 4 | 4 | 2 | — | — |
-| 12th | Greater shield ally | 5 | 5 | 4 | 3 | — | — |
-| 13th | *[[rangoric-srd/spells/Summon Monster VII\|Summon monster VII]]* | 5 | 5 | 4 | 3 | 1 | — |
-| 14th | Life bond | 5 | 5 | 4 | 4 | 2 | — |
-| 15th | *[[rangoric-srd/spells/Summon Monster VIII\|Summon monster VIII]]* | 5 | 5 | 5 | 4 | 3 | — |
-| 16th | Merge forms | 5 | 5 | 5 | 4 | 3 | 1 |
-| 17th | *[[rangoric-srd/spells/Summon Monster IX\|Summon monster IX]]* | 5 | 5 | 5 | 4 | 4 | 2 |
-| 18th | Greater aspect | 5 | 5 | 5 | 5 | 4 | 3 |
-| 19th | *[[rangoric-srd/spells/Gate\|Gate]]* | 5 | 5 | 5 | 5 | 5 | 4 |
-| 20th | Twin eidolon | 5 | 5 | 5 | 5 | 5 | 5 |
+| Level | Special                                                                                    | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
+| ----- | ------------------------------------------------------------------------------------------ | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| 1st   | Cantrips, eidolon, life link, _[[rangoric-srd/spells/Summon Monster I\|summon monster I]]_ | 1                   | —                   | —                   | —                   | —                   | —                   |
+| 2nd   | Bond senses                                                                                | 2                   | —                   | —                   | —                   | —                   | —                   |
+| 3rd   | _[[rangoric-srd/spells/Summon Monster II\|Summon monster II]]_                             | 3                   | —                   | —                   | —                   | —                   | —                   |
+| 4th   | Shield ally                                                                                | 3                   | 1                   | —                   | —                   | —                   | —                   |
+| 5th   | _[[rangoric-srd/spells/Summon Monster III\|Summon monster III]]_                           | 4                   | 2                   | —                   | —                   | —                   | —                   |
+| 6th   | Maker's call                                                                               | 4                   | 3                   | —                   | —                   | —                   | —                   |
+| 7th   | _[[rangoric-srd/spells/Summon Monster IV\|Summon monster IV]]_                             | 4                   | 3                   | 1                   | —                   | —                   | —                   |
+| 8th   | Transposition                                                                              | 4                   | 4                   | 2                   | —                   | —                   | —                   |
+| 9th   | _[[rangoric-srd/spells/Summon Monster V\|Summon monster V]]_                               | 5                   | 4                   | 3                   | —                   | —                   | —                   |
+| 10th  | Aspect                                                                                     | 5                   | 4                   | 3                   | 1                   | —                   | —                   |
+| 11th  | _[[rangoric-srd/spells/Summon Monster VI\|Summon monster VI]]_                             | 5                   | 4                   | 4                   | 2                   | —                   | —                   |
+| 12th  | Greater shield ally                                                                        | 5                   | 5                   | 4                   | 3                   | —                   | —                   |
+| 13th  | _[[rangoric-srd/spells/Summon Monster VII\|Summon monster VII]]_                           | 5                   | 5                   | 4                   | 3                   | 1                   | —                   |
+| 14th  | Life bond                                                                                  | 5                   | 5                   | 4                   | 4                   | 2                   | —                   |
+| 15th  | _[[rangoric-srd/spells/Summon Monster VIII\|Summon monster VIII]]_                         | 5                   | 5                   | 5                   | 4                   | 3                   | —                   |
+| 16th  | Merge forms                                                                                | 5                   | 5                   | 5                   | 4                   | 3                   | 1                   |
+| 17th  | _[[rangoric-srd/spells/Summon Monster IX\|Summon monster IX]]_                             | 5                   | 5                   | 5                   | 4                   | 4                   | 2                   |
+| 18th  | Greater aspect                                                                             | 5                   | 5                   | 5                   | 5                   | 4                   | 3                   |
+| 19th  | _[[rangoric-srd/spells/Gate\|Gate]]_                                                       | 5                   | 5                   | 5                   | 5                   | 5                   | 4                   |
+| 20th  | Twin eidolon                                                                               | 5                   | 5                   | 5                   | 5                   | 5                   | 5                   |
 
 **Table: Unchained Summoner Spells Known** ^table-unchained-summoner-spells-known
 
 | Level | Spells Known: 0 | Spells Known: 1st | Spells Known: 2nd | Spells Known: 3rd | Spells Known: 4th | Spells Known: 5th | Spells Known: 6th |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | 4 | 2 | — | — | — | — | — |
-| 2nd | 5 | 3 | — | — | — | — | — |
-| 3rd | 6 | 4 | — | — | — | — | — |
-| 4th | 6 | 4 | 2 | — | — | — | — |
-| 5th | 6 | 4 | 3 | — | — | — | — |
-| 6th | 6 | 4 | 4 | — | — | — | — |
-| 7th | 6 | 5 | 4 | 2 | — | — | — |
-| 8th | 6 | 5 | 4 | 3 | — | — | — |
-| 9th | 6 | 5 | 4 | 4 | — | — | — |
-| 10th | 6 | 5 | 5 | 4 | 2 | — | — |
-| 11th | 6 | 6 | 5 | 4 | 3 | — | — |
-| 12th | 6 | 6 | 5 | 4 | 4 | — | — |
-| 13th | 6 | 6 | 5 | 5 | 4 | 2 | — |
-| 14th | 6 | 6 | 6 | 5 | 4 | 3 | — |
-| 15th | 6 | 6 | 6 | 5 | 4 | 4 | — |
-| 16th | 6 | 6 | 6 | 5 | 5 | 4 | 2 |
-| 17th | 6 | 6 | 6 | 6 | 5 | 4 | 3 |
-| 18th | 6 | 6 | 6 | 6 | 5 | 4 | 4 |
-| 19th | 6 | 6 | 6 | 6 | 5 | 5 | 4 |
-| 20th | 6 | 6 | 6 | 6 | 6 | 5 | 5 |
+| ----- | --------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
+| 1st   | 4               | 2                 | —                 | —                 | —                 | —                 | —                 |
+| 2nd   | 5               | 3                 | —                 | —                 | —                 | —                 | —                 |
+| 3rd   | 6               | 4                 | —                 | —                 | —                 | —                 | —                 |
+| 4th   | 6               | 4                 | 2                 | —                 | —                 | —                 | —                 |
+| 5th   | 6               | 4                 | 3                 | —                 | —                 | —                 | —                 |
+| 6th   | 6               | 4                 | 4                 | —                 | —                 | —                 | —                 |
+| 7th   | 6               | 5                 | 4                 | 2                 | —                 | —                 | —                 |
+| 8th   | 6               | 5                 | 4                 | 3                 | —                 | —                 | —                 |
+| 9th   | 6               | 5                 | 4                 | 4                 | —                 | —                 | —                 |
+| 10th  | 6               | 5                 | 5                 | 4                 | 2                 | —                 | —                 |
+| 11th  | 6               | 6                 | 5                 | 4                 | 3                 | —                 | —                 |
+| 12th  | 6               | 6                 | 5                 | 4                 | 4                 | —                 | —                 |
+| 13th  | 6               | 6                 | 5                 | 5                 | 4                 | 2                 | —                 |
+| 14th  | 6               | 6                 | 6                 | 5                 | 4                 | 3                 | —                 |
+| 15th  | 6               | 6                 | 6                 | 5                 | 4                 | 4                 | —                 |
+| 16th  | 6               | 6                 | 6                 | 5                 | 5                 | 4                 | 2                 |
+| 17th  | 6               | 6                 | 6                 | 6                 | 5                 | 4                 | 3                 |
+| 18th  | 6               | 6                 | 6                 | 6                 | 5                 | 4                 | 4                 |
+| 19th  | 6               | 6                 | 6                 | 6                 | 5                 | 5                 | 4                 |
+| 20th  | 6               | 6                 | 6                 | 6                 | 6                 | 5                 | 5                 |
 
 ###### Class Features
 
@@ -114,17 +114,17 @@ A summoner doesn’t need to prepare his spells in advance. He can cast any spel
 
 **Eidolon**: A summoner begins play with the ability to summon to his side a powerful outsider called an eidolon. The eidolon forms a link with the summoner, who forever after summons an aspect of the same creature. Each eidolon has a subtype, chosen when the eidolon is first summoned, that determines its origin and many of its abilities. An eidolon must be within one alignment step of the summoner who calls it (so a neutral good summoner can call a neutral, lawful good, or chaotic good eidolon) and can speak all of his languages. An eidolon is treated as a summoned creature, except it is not sent back to its home plane until reduced to a number of negative hit points equal to or greater than its Constitution score. In addition, due to its tie to its summoner, an eidolon can touch and attack creatures warded by [[rangoric-srd/spells/Protection from Evil|protection from evil]] and similar effects that prevent contact with summoned creatures. ^unchained-summoner-eidolon
 
-A summoner can summon his eidolon in a ritual that takes 1 minute to perform. When summoned in this way, the eidolon’s hit points are unchanged from the last time it was summoned. The only exception to this is if the eidolon was slain, in which case it returns with half its normal hit points. The eidolon does not heal naturally. The eidolon remains until dismissed by the summoner (a standard action). If the eidolon is sent back to its home plane due to death, it cannot be summoned again until the following day. The eidolon cannot be sent back to its home plane by means of [[rangoric-srd/spells/Dispel Magic|dispel magic]], but spells such as *[[rangoric-srd/spells/Dismissal|dismissal]]* and [[rangoric-srd/spells/Banishment|banishment]] function normally. If the summoner is unconscious, asleep, or killed, his eidolon is immediately banished.
+A summoner can summon his eidolon in a ritual that takes 1 minute to perform. When summoned in this way, the eidolon’s hit points are unchanged from the last time it was summoned. The only exception to this is if the eidolon was slain, in which case it returns with half its normal hit points. The eidolon does not heal naturally. The eidolon remains until dismissed by the summoner (a standard action). If the eidolon is sent back to its home plane due to death, it cannot be summoned again until the following day. The eidolon cannot be sent back to its home plane by means of [[rangoric-srd/spells/Dispel Magic|dispel magic]], but spells such as _[[rangoric-srd/spells/Dismissal|dismissal]]_ and [[rangoric-srd/spells/Banishment|banishment]] function normally. If the summoner is unconscious, asleep, or killed, his eidolon is immediately banished.
 
 The eidolon’s rules are under [[rangoric-srd/classes/Unchained Summoner#^unchained-summoner-eidolons|Eidolons]] below, its subtypes in [[rangoric-srd/class-options/eidolon-subtypes/Eidolon Subtypes|Eidolon Subtypes]] and its evolutions in [[rangoric-srd/classes/Unchained Summoner#^unchained-summoner-evolutions|Evolutions]]. The eidolon takes a form shaped by the summoner’s desires. The eidolon’s Hit Dice, saving throws, skills, feats, and abilities are tied to the summoner’s class level and increase as the summoner gains levels. In addition, each eidolon gains a pool of evolution points based on the summoner’s class level that can be used to give the eidolon different abilities and powers. Whenever the summoner gains a level, he must decide how these points are spent, and they are set until he gains another level of summoner.
 
-The eidolon’s physical appearance is up to the summoner, but it always appears as some sort of fantastical creature appropriate to its subtype. This control is not fine enough to make the eidolon appear like a specific creature. The eidolon also bears a glowing rune that is identical to a rune that appears on the summoner’s forehead as long as the eidolon is summoned. While this rune can be hidden through mundane means, it cannot be concealed through magic that changes appearance, such as [[rangoric-srd/spells/Alter Self|alter self]] or *[[rangoric-srd/spells/Polymorph|polymorph]]* (although *[[rangoric-srd/spells/Invisibility|invisibility]]* does conceal it as long as the spell lasts).
+The eidolon’s physical appearance is up to the summoner, but it always appears as some sort of fantastical creature appropriate to its subtype. This control is not fine enough to make the eidolon appear like a specific creature. The eidolon also bears a glowing rune that is identical to a rune that appears on the summoner’s forehead as long as the eidolon is summoned. While this rune can be hidden through mundane means, it cannot be concealed through magic that changes appearance, such as [[rangoric-srd/spells/Alter Self|alter self]] or _[[rangoric-srd/spells/Polymorph|polymorph]]_ (although _[[rangoric-srd/spells/Invisibility|invisibility]]_ does conceal it as long as the spell lasts).
 
 **Life Link (Su)**: At 1st level, a summoner forms a close bond with his eidolon. Whenever the eidolon takes enough damage to send it back to its home plane, as a reaction to the damage, the summoner can sacrifice any number of hit points he has without using an action. Each hit point sacrificed in this way prevents 1 point of damage dealt to the eidolon. This can prevent the eidolon from being sent back to its home plane. ^unchained-summoner-life-link
 
 In addition, the eidolon and the summoner must remain within 100 feet of one another for the eidolon to remain at full strength. If the eidolon is beyond 100 feet but closer than 1,000 feet, its current and maximum hit point totals are reduced by 50%. If the eidolon is more than 1,000 feet away but closer than 10,000 feet, its current and maximum hit point totals are reduced by 75%. If the eidolon is more than 10,000 feet away, it is immediately returned to its home plane. Current hit points lost in this way are not restored when the eidolon gets closer to its summoner, but its maximum hit point total does climb to the levels indicated and eventually returns to normal.
 
-***Summon Monster I (Sp)***: At 1st level, a summoner can cast [[rangoric-srd/spells/Summon Monster I|summon monster I]] as a spell-like ability a number of times per day equal to 3 + his Charisma modifier. Drawing on this ability uses up the same power that the summoner uses to call his eidolon. As a result, he can use this ability only when his eidolon is not summoned. He can cast this spell as a standard action, and the creatures remain for 1 minute per level (instead of 1 round per level). At 3rd level, and every 2 levels thereafter, the power of this ability increases by 1 spell level, allowing him to summon more powerful creatures (to a maximum of [[rangoric-srd/spells/Summon Monster IX|summon monster IX]] at 17th level). At 19th level, this ability can be used as *[[rangoric-srd/spells/Gate|gate]]* or [[rangoric-srd/spells/Summon Monster IX|summon monster IX]]. If used as *[[rangoric-srd/spells/Gate|gate]]*, the summoner must pay any required material components. A summoner cannot have more than one *summon monster* or *[[rangoric-srd/spells/Gate|gate]]* spell active in this way at one time. If this ability is used again, any existing *summon monster* or *[[rangoric-srd/spells/Gate|gate]]* from this spell-like ability immediately ends. These summon spells are considered to be part of the summoner’s spell list for the purposes of spell trigger and spell completion items. In addition, the summoner can expend uses of this ability to fulfill the construction requirements of any magic item he creates, so long as he can use this ability to cast the required spell. ^unchained-summoner-summon-monster
+**_Summon Monster I (Sp)_**: At 1st level, a summoner can cast [[rangoric-srd/spells/Summon Monster I|summon monster I]] as a spell-like ability a number of times per day equal to 3 + his Charisma modifier. Drawing on this ability uses up the same power that the summoner uses to call his eidolon. As a result, he can use this ability only when his eidolon is not summoned. He can cast this spell as a standard action, and the creatures remain for 1 minute per level (instead of 1 round per level). At 3rd level, and every 2 levels thereafter, the power of this ability increases by 1 spell level, allowing him to summon more powerful creatures (to a maximum of [[rangoric-srd/spells/Summon Monster IX|summon monster IX]] at 17th level). At 19th level, this ability can be used as _[[rangoric-srd/spells/Gate|gate]]_ or [[rangoric-srd/spells/Summon Monster IX|summon monster IX]]. If used as _[[rangoric-srd/spells/Gate|gate]]_, the summoner must pay any required material components. A summoner cannot have more than one _summon monster_ or _[[rangoric-srd/spells/Gate|gate]]_ spell active in this way at one time. If this ability is used again, any existing _summon monster_ or _[[rangoric-srd/spells/Gate|gate]]_ from this spell-like ability immediately ends. These summon spells are considered to be part of the summoner’s spell list for the purposes of spell trigger and spell completion items. In addition, the summoner can expend uses of this ability to fulfill the construction requirements of any magic item he creates, so long as he can use this ability to cast the required spell. ^unchained-summoner-summon-monster
 
 **Bond Senses (Su)**: At 2nd level, a summoner can, as a standard action, share the senses of his eidolon, hearing, seeing, smelling, tasting, and touching everything the eidolon does. He can use this ability a number of rounds per day equal to his summoner level. There is no maximum range to this effect, but the eidolon and the summoner must be on the same plane. The summoner can end this effect as a free action. ^unchained-summoner-bond-senses
 
@@ -174,7 +174,7 @@ An eidolon’s abilities are determined by the summoner’s level and by the cho
 
 **Str/Dex Bonus**: Add this modifier to the eidolon’s Strength and Dexterity scores, which are determined by its base form. Some options available through the eidolon’s evolution pool might modify these scores.
 
-**Evolution Pool**: The value given in this column is the total number of points in the eidolon’s evolution pool. Points in this pool can be spent on a wide variety of modifications and upgrades that add new abilities, attacks, and powers to the eidolon. Whenever the summoner gains a level, the number of points in this pool increases and the summoner can spend these points to change the abilities of the eidolon. These choices are not set—the summoner can change them whenever he gains a level (and through the *[[rangoric-srd/spells/Transmogrify|transmogrify]]* spell).
+**Evolution Pool**: The value given in this column is the total number of points in the eidolon’s evolution pool. Points in this pool can be spent on a wide variety of modifications and upgrades that add new abilities, attacks, and powers to the eidolon. Whenever the summoner gains a level, the number of points in this pool increases and the summoner can spend these points to change the abilities of the eidolon. These choices are not set—the summoner can change them whenever he gains a level (and through the _[[rangoric-srd/spells/Transmogrify|transmogrify]]_ spell).
 
 **Max. Attacks**: This indicates the maximum number of attacks that the eidolon is allowed to possess at the given level. If the eidolon is at its maximum, it cannot take evolutions that grant additional attacks. Attacks made with weapons, including those granted by a high base attack bonus, are counted against this maximum.
 
@@ -198,28 +198,28 @@ An eidolon’s abilities are determined by the summoner’s level and by the cho
 
 **Table: Unchained Eidolon Base Statistics** ^table-unchained-eidolon-base-statistics
 
-| Class Level | HD | BAB  | Good Saves | Poor Save | Skills | Feats | Armor Bonus | Str/Dex Bonus | Evolution Pool | Max. Attacks | Special                                                                                                                                                                  |
-| ----------- | -- | ---- | ---------- | --------- | ------ | ----- | ----------- | ------------- | -------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1st         | 1  | +1  | +2        | +0       | 4      | 1     | +0         | +0           | 1              | 3            | Darkvision, link, share spells |
-| 2nd         | 2  | +2  | +3        | +0       | 8      | 1     | +2         | +1           | 2              | 3            | Evasion                                                                                                                    |
-| 3rd         | 3  | +3  | +3        | +1       | 12     | 2     | +2         | +1           | 3              | 3            | —                                                                                                                                                                        |
-| 4th         | 3  | +3  | +3        | +1       | 12     | 2     | +2         | +1           | 3              | 4            | —                                                                                                                                                                        |
-| 5th         | 4  | +4  | +4        | +1       | 16     | 2     | +4         | +2           | 4              | 4            | Ability score increase                                                                                                     |
-| 6th         | 5  | +5  | +4        | +1       | 20     | 3     | +4         | +2           | 5              | 4            | Devotion                                                                                                                   |
-| 7th         | 6  | +6  | +5        | +2       | 24     | 3     | +6         | +3           | 6              | 4            | —                                                                                                                                                                        |
-| 8th         | 6  | +6  | +5        | +2       | 24     | 3     | +6         | +3           | 6              | 4            | —                                                                                                                                                                        |
-| 9th         | 7  | +7  | +5        | +2       | 28     | 4     | +6         | +3           | 7              | 5            | Multiattack                                                                                                                |
-| 10th        | 8  | +8  | +6        | +2       | 32     | 4     | +8         | +4           | 8              | 5            | Ability score increase                                                                                                     |
-| 11th        | 9  | +9  | +6        | +3       | 36     | 5     | +8         | +4           | 9              | 5            | —                                                                                                                                                                        |
-| 12th        | 9  | +9  | +6        | +3       | 36     | 5     | +10        | +5           | 9              | 5            | —                                                                                                                                                                        |
-| 13th        | 10 | +10 | +7        | +3       | 40     | 5     | +10        | +5           | 10             | 5            | —                                                                                                                                                                        |
-| 14th        | 11 | +11 | +7        | +3       | 44     | 6     | +10        | +5           | 11             | 6            | Improved evasion                                                                                                           |
-| 15th        | 12 | +12 | +8        | +4       | 48     | 6     | +12        | +6           | 12             | 6            | Ability score increase                                                                                                     |
-| 16th        | 12 | +12 | +8        | +4       | 48     | 6     | +12        | +6           | 12             | 6            | —                                                                                                                                                                        |
-| 17th        | 13 | +13 | +8        | +4       | 52     | 7     | +14        | +7           | 13             | 6            | —                                                                                                                                                                        |
-| 18th        | 14 | +14 | +9        | +4       | 56     | 7     | +14        | +7           | 14             | 6            | —                                                                                                                                                                        |
-| 19th        | 15 | +15 | +9        | +5       | 60     | 8     | +14        | +7           | 15             | 7            | —                                                                                                                                                                        |
-| 20th        | 15 | +15 | +9        | +5       | 60     | 8     | +16        | +8           | 15             | 7            | —                                                                                                                                                                        |
+| Class Level | HD  | BAB | Good Saves | Poor Save | Skills | Feats | Armor Bonus | Str/Dex Bonus | Evolution Pool | Max. Attacks | Special                        |
+| ----------- | --- | --- | ---------- | --------- | ------ | ----- | ----------- | ------------- | -------------- | ------------ | ------------------------------ |
+| 1st         | 1   | +1  | +2         | +0        | 4      | 1     | +0          | +0            | 1              | 3            | Darkvision, link, share spells |
+| 2nd         | 2   | +2  | +3         | +0        | 8      | 1     | +2          | +1            | 2              | 3            | Evasion                        |
+| 3rd         | 3   | +3  | +3         | +1        | 12     | 2     | +2          | +1            | 3              | 3            | —                              |
+| 4th         | 3   | +3  | +3         | +1        | 12     | 2     | +2          | +1            | 3              | 4            | —                              |
+| 5th         | 4   | +4  | +4         | +1        | 16     | 2     | +4          | +2            | 4              | 4            | Ability score increase         |
+| 6th         | 5   | +5  | +4         | +1        | 20     | 3     | +4          | +2            | 5              | 4            | Devotion                       |
+| 7th         | 6   | +6  | +5         | +2        | 24     | 3     | +6          | +3            | 6              | 4            | —                              |
+| 8th         | 6   | +6  | +5         | +2        | 24     | 3     | +6          | +3            | 6              | 4            | —                              |
+| 9th         | 7   | +7  | +5         | +2        | 28     | 4     | +6          | +3            | 7              | 5            | Multiattack                    |
+| 10th        | 8   | +8  | +6         | +2        | 32     | 4     | +8          | +4            | 8              | 5            | Ability score increase         |
+| 11th        | 9   | +9  | +6         | +3        | 36     | 5     | +8          | +4            | 9              | 5            | —                              |
+| 12th        | 9   | +9  | +6         | +3        | 36     | 5     | +10         | +5            | 9              | 5            | —                              |
+| 13th        | 10  | +10 | +7         | +3        | 40     | 5     | +10         | +5            | 10             | 5            | —                              |
+| 14th        | 11  | +11 | +7         | +3        | 44     | 6     | +10         | +5            | 11             | 6            | Improved evasion               |
+| 15th        | 12  | +12 | +8         | +4        | 48     | 6     | +12         | +6            | 12             | 6            | Ability score increase         |
+| 16th        | 12  | +12 | +8         | +4        | 48     | 6     | +12         | +6            | 12             | 6            | —                              |
+| 17th        | 13  | +13 | +8         | +4        | 52     | 7     | +14         | +7            | 13             | 6            | —                              |
+| 18th        | 14  | +14 | +9         | +4        | 56     | 7     | +14         | +7            | 14             | 6            | —                              |
+| 19th        | 15  | +15 | +9         | +5        | 60     | 8     | +14         | +7            | 15             | 7            | —                              |
+| 20th        | 15  | +15 | +9         | +5        | 60     | 8     | +16         | +8            | 15             | 7            | —                              |
 
 **Eidolon Skills**: The following skills are class skills for eidolons: [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), [[rangoric-srd/skills/Stealth|Stealth]] (Dex), and [[rangoric-srd/skills/Theology|Theology]] (Int). In addition, at 1st level, the summoner can choose four additional skills to be class skills for his eidolon. Note that eidolons with a fly speed gain [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex) as a free class skill, even if they do not gain a fly speed until a later level. ^unchained-summoner-eidolon-skills
 

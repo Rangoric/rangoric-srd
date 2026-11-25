@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/magic-item]
 
 A talisman works as described under [[rangoric-srd/magic-items/Magic Item Basics#^talismans|Talismans]] in the rules for magic items on the body. A lesser talisman has only enough magic to protect its wearer once, after which it crumbles to dust.
 
-The first time the wearer becomes [[rangoric-srd/rules/conditions/Grappled (Condition)|grappled]], [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]] or [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]], he is automatically affected by *[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]* for 3 rounds.
+The first time the wearer becomes [[rangoric-srd/rules/conditions/Grappled (Condition)|grappled]], [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]] or [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]], he is automatically affected by _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_ for 3 rounds.
 
-Moderate abjuration; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]*; Price 900 gp; Cost 450 gp; Weight 1 lb.
+Moderate abjuration; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_; Price 900 gp; Cost 450 gp; Weight 1 lb.

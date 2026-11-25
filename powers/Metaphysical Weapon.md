@@ -31,7 +31,7 @@ Metacreativity
 **Duration:** 1 min./level  
 **Saving Throw:** Will negates (harmless, object)  
 **Power Resistance:** Yes (harmless, object)  
-**Power Points:** 1  
+**Power Points:** 1
 
 Metaphysical weapon gives a weapon a +1 enhancement bonus on attack rolls and damage rolls. (An enhancement bonus does not stack with a masterwork weapon’s +1 bonus on attack rolls.)
 

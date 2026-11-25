@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/magic-item]
 
 Laurel leaves crafted from fine gold decorate this circlet that imparts powers of persuasion and leadership. The wearer's voice carries great authority and can inspire others to victory. As a swift action, the wearer can speak words of encouragement or advice to an ally within 30 feet. That ally gains a +2 morale bonus on attack rolls, saving throws, skill checks, and ability checks until the start of the wearer's next turn. The wearer can use the laurel to grant this bonus to himself. A creature cannot gain this bonus more than once per day.
 
-Faint enchantment; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Heroism|heroism]]*; Price 30,000 gp; Cost 15,000 gp.
+Faint enchantment; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Heroism|heroism]]_; Price 30,000 gp; Cost 15,000 gp.

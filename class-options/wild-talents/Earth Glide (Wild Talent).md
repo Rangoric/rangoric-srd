@@ -18,12 +18,12 @@ tags: [rangoric, rangoric/class-option]
 
 # Earth Glide
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Earth Element|earth]]
-  - **Type**: utility (Su)
-  - **Level**: 5
-  - **Burn**: 0
-  - **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Earth Climb|earth climb]]
+- **Element**: [[rangoric-srd/class-options/elements/Earth Element|earth]]
+- **Type**: utility (Su)
+- **Level**: 5
+- **Burn**: 0
+- **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Earth Climb|earth climb]]
 
 You can glide through earth, as an earth elemental’s earth glide ability, with a burrow speed equal to your base land speed.

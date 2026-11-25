@@ -36,12 +36,12 @@ The CMB an CMD before the driver modifies it with his driving check modifier.
 
 **Table: Vehicle AC and CMB Modifier by Size**
 
-| Number of Vehicle Squares | AC | CMB Modifier |
-| --- | --- | --- |
-| Large vehicle | 9 | +1 |
-| Huge vehicle | 8 | +2 |
-| Gargantuan vehicle | 6 | +4 |
-| Colossal vehicle | 2 | +8 |
+| Number of Vehicle Squares | AC  | CMB Modifier |
+| ------------------------- | --- | ------------ |
+| Large vehicle             | 9   | +1           |
+| Huge vehicle              | 8   | +2           |
+| Gargantuan vehicle        | 6   | +4           |
+| Colossal vehicle          | 2   | +8           |
 
 **Acceleration**: This is how fast a vehicle can increase its speed each round. It also determines the maximum amount a vehicle can safely decelerate each round.
 

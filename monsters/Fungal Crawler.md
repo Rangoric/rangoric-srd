@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Fungal Crawler
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 4d8+8 (26 hp)
-  - **Initiative**: +9
-  - **Speed**: 20 ft. (4 squares), climb 40 ft.
-  - **Armor Class**: 16 (+5 Dex, +1 size), touch 16, flat-footed 11
-  - **Base Attack**: +3; **CMB**: +4; **CMD**: 19 (27 vs. trip)
-  - **Attack**: Bite +6 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or claw +6 melee (1d4+2)
-  - **Full Attack**: Bite +6 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and 2 claws +6 melee (1d4+2)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Leap|Leap]], [[rangoric-srd/monsters/abilities/Poison|poison]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Plant Defenses|plant defenses]], immunity to mind-affecting effects, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], poison, polymorph effects, sleep and stunning
-  - **Saves**: Fort +3, Ref +6, Will +5
-  - **Abilities**: Str 14, Dex 20, Con 15, Int 2, Wis 13, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+14 jumping), [[rangoric-srd/skills/Perception|Perception]] +6
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Step Up|Step Up]]
-  - **Environment**: Any underground
-  - **Organization**: Solitary, pair, or swarm (3–12)
-  - **Challenge Rating**: 3
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 4d8+8 (26 hp)
+- **Initiative**: +9
+- **Speed**: 20 ft. (4 squares), climb 40 ft.
+- **Armor Class**: 16 (+5 Dex, +1 size), touch 16, flat-footed 11
+- **Base Attack**: +3; **CMB**: +4; **CMD**: 19 (27 vs. trip)
+- **Attack**: Bite +6 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or claw +6 melee (1d4+2)
+- **Full Attack**: Bite +6 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and 2 claws +6 melee (1d4+2)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Leap|Leap]], [[rangoric-srd/monsters/abilities/Poison|poison]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Plant Defenses|plant defenses]], immunity to mind-affecting effects, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], poison, polymorph effects, sleep and stunning
+- **Saves**: Fort +3, Ref +6, Will +5
+- **Abilities**: Str 14, Dex 20, Con 15, Int 2, Wis 13, Cha 7
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+14 jumping), [[rangoric-srd/skills/Perception|Perception]] +6
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Step Up|Step Up]]
+- **Environment**: Any underground
+- **Organization**: Solitary, pair, or swarm (3–12)
+- **Challenge Rating**: 3
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Fungal crawlers are a perverse fusion of animal and plant. Over thousands of years, they have prospered and spread beneath the world, dominating the wildest depths of these underground regions. Like hyenas, fungal crawlers are top-tier scavengers. They are efficient hunters, but just as often feed on found carrion or take meals from other predators. When times are especially lean, fungal crawlers can even survive without food, subsisting on radiation and heat absorbed through the fungal flutes covering their pale, sickly bellies.
 
@@ -75,4 +75,4 @@ Thanks to the bizarre energies that suffuse their homes, fungal crawlers are inc
 
 **[[rangoric-srd/monsters/abilities/Plant Defenses|Plant Defenses]] (Ex)**: A fungal crawler is part plant and shares many of the immunities that plant creatures possess. A fungal crawler is immune to mind-affecting effects, paralysis, poison, polymorph, sleep, and stunning.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Fungal Crawler Venom|Fungal Crawler Venom]]: Bite—injury; *save* Fort DC 14; *frequency* 1/round for 4 rounds; *effect* 1d2 Str and 1d2 Con; *cure* 1 save. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Fungal Crawler Venom|Fungal Crawler Venom]]: Bite—injury; _save_ Fort DC 14; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Str and 1d2 Con; _cure_ 1 save. The save DC is Constitution-based.

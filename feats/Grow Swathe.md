@@ -17,7 +17,7 @@ You can create swathes by placing magics within living plants or grafting them o
 
 **Prerequisites**: [[rangoric-srd/skills/Profession|Profession]] (herbalist) 9 ranks, [[rangoric-srd/feats/Craft Powders & Dusts|Craft Powders & Dusts]], ability to cast 3rd-level spells.
 
-**Benefit**: You can add a living swathe of plants onto enchanted clothing or items or places and embed magics within the swathe to enhance and alter the existing magic or to add in new, nature-related magics or druid spells. The swathes act like *bracers, cloaks,* or other garments that hold spells and grant supernatural abilities while being worn.
+**Benefit**: You can add a living swathe of plants onto enchanted clothing or items or places and embed magics within the swathe to enhance and alter the existing magic or to add in new, nature-related magics or druid spells. The swathes act like _bracers, cloaks,_ or other garments that hold spells and grant supernatural abilities while being worn.
 
 There are two different levels of costs involved with this feat, depending on what the herbalist does:
 

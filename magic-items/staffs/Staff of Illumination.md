@@ -20,9 +20,9 @@ tags: [rangoric, rangoric/magic-item]
 
 This staff is usually sheathed in silver and decorated with sunbursts. It allows use of the following spells:
 
-  - [[rangoric-srd/spells/Dancing Lights|Dancing lights]] (1 charge)
-  - [[rangoric-srd/spells/Flare|Flare]] (1 charge)
-  - [[rangoric-srd/spells/Daylight|Daylight]] (2 charges)
-  - [[rangoric-srd/spells/Sunburst|Sunburst]] (3 charges)
+- [[rangoric-srd/spells/Dancing Lights|Dancing lights]] (1 charge)
+- [[rangoric-srd/spells/Flare|Flare]] (1 charge)
+- [[rangoric-srd/spells/Daylight|Daylight]] (2 charges)
+- [[rangoric-srd/spells/Sunburst|Sunburst]] (3 charges)
 
 Strong evocation; CL 15th; Craft Staff, dancing lights, daylight, flare, sunburst; Price 48,250 gp.

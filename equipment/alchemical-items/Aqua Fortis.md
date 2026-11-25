@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Aqua Fortis
 
-*Chymical; Special*
+_Chymical; Special_
 
 Aqua fortis finds use primarily as a base liquid for charisma, as well as mind-affecting potions and unguents. It can also be used as an antidote against active mind attacks and fear effects—drinking it provides an immediate Will save with a +3 circumstance bonus.
 

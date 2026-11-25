@@ -29,13 +29,13 @@ tags: [rangoric, rangoric/spell]
 
 # Ghost Whip
 
-*Evocation*
+_Evocation_
 
-  - **Level**: Clr 2, Inq 2, Mag 2, Occ 2, Psy 2, Sor/Wiz 2, Spi 2, Wit 2
-  - **Components**: V, S
-  - **Casting Time**: Attack
-  - **Range**: Reach
-  - **Duration**: Instantaneous
-  - **Spell Resistance**: Yes
+- **Level**: Clr 2, Inq 2, Mag 2, Occ 2, Psy 2, Sor/Wiz 2, Spi 2, Wit 2
+- **Components**: V, S
+- **Casting Time**: Attack
+- **Range**: Reach
+- **Duration**: Instantaneous
+- **Spell Resistance**: Yes
 
-A white, 15-foot-long lash of ghostly evanescence appears from your hand. This weapon is treated as a *ghost touch whip* with no enhancement bonus. You can wield it as a whip as if you were proficient. Attacks with a *ghost whip* are resolved as incorporeal touch attacks. The whip affects only creatures you attack with it, passing through objects and other creatures in its path and thereby allowing you to ignore cover between you and your target. When a *ghost whip* attack passes through total cover, the target is treated as having total concealment (50% miss chance). Against incorporeal and undead creatures, a *ghost whip* deals lethal damage and can be used to perform drag or reposition combat maneuvers (in addition to a whip's normal disarm and trip maneuvers). A *ghost whip* cannot be disarmed or sundered.
+A white, 15-foot-long lash of ghostly evanescence appears from your hand. This weapon is treated as a _ghost touch whip_ with no enhancement bonus. You can wield it as a whip as if you were proficient. Attacks with a _ghost whip_ are resolved as incorporeal touch attacks. The whip affects only creatures you attack with it, passing through objects and other creatures in its path and thereby allowing you to ignore cover between you and your target. When a _ghost whip_ attack passes through total cover, the target is treated as having total concealment (50% miss chance). Against incorporeal and undead creatures, a _ghost whip_ deals lethal damage and can be used to perform drag or reposition combat maneuvers (in addition to a whip's normal disarm and trip maneuvers). A _ghost whip_ cannot be disarmed or sundered.

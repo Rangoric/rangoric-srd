@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # Protection from Energy, Communal
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Clr 4, Drd 4, Hun 3, Inq 4, Psy 4, Rgr 3, Sor/Wiz 4, Sum 4, SumU 4
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creatures touched
-  - **Duration**: 10 min./level or until discharged
-  - **Saving Throw**: Fortitude negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Clr 4, Drd 4, Hun 3, Inq 4, Psy 4, Rgr 3, Sor/Wiz 4, Sum 4, SumU 4
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creatures touched
+- **Duration**: 10 min./level or until discharged
+- **Saving Throw**: Fortitude negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-This spell functions like *[[rangoric-srd/spells/Protection from Energy|protection from energy]]*, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 10-minute intervals among the creatures touched. Once the spell absorbs 12 points of energy damage per caster level (maximum 120 points) for a subject, the spell's effects end for that subject.
+This spell functions like _[[rangoric-srd/spells/Protection from Energy|protection from energy]]_, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 10-minute intervals among the creatures touched. Once the spell absorbs 12 points of energy damage per caster level (maximum 120 points) for a subject, the spell's effects end for that subject.

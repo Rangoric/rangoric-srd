@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Fine Leather
 
-*Light armor.* Cost 100 gp; Armor Bonus +2; Maximum Dex Bonus +8; Armor Check Penalty 0; Arcane Spell Failure 10%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 5 lb. ^stats
+_Light armor._ Cost 100 gp; Armor Bonus +2; Maximum Dex Bonus +8; Armor Check Penalty 0; Arcane Spell Failure 10%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 5 lb. ^stats
 
 This armor is very flexible, even compared with regular leather armor. Proficiency with fine leather doesn’t involve learning how to move in it so much as how to use such thin armor as effective protection.

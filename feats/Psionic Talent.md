@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Psionic Talent
 
-You gain additional power points to supplement those you already had.  
+You gain additional power points to supplement those you already had.
 
 Prerequisite: Having a power point reserve.
 

@@ -26,16 +26,16 @@ tags: [rangoric, rangoric/spell]
 
 # Touch Injection
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 2, Psy 3, Sor/Wiz 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 hour/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Alc 2, Psy 3, Sor/Wiz 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 hour/level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You must hold an elixir, infused extract, poison, or potion in hand as you cast this spell. The held substance drains from its container into a magical sac in your body. While the spell lasts, you can deliver the substance with a mere touch. To do so to an opponent, you must make a successful melee touch attack. If you hit, the substance takes effect immediately, despite any onset period, and that opponent receives the normal saving throw (if any) against the substance. If you miss, the substance remains in the magical sac for you to use later.
 

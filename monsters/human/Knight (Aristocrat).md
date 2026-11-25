@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Knight (Aristocrat)
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 9d8+36 (76 hp)
-  - **Initiative**: +1
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 22 (+9 armor, +1 Dex, +2 shield), touch 11, flat-footed 21
-  - **Base Attack**: +6; **CMB**: +11; **CMD**: 22
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Lance|lance]] +12 melee (1d8+5/×3) or *+1 longsword* +12 melee (1d8+6/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Shortbow|composite shortbow]] +8 ranged (1d6+3/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Lance|lance]] +12/+7 melee (1d8+5/×3); or *+1 longsword* +12/+7 melee (1d8+6/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Shortbow|composite shortbow]] +8/+3 ranged (1d6+3/×3)
-  - **Space/Reach**: 5 ft./5 ft. (10 ft. with lance)
-  - **Special Attacks**: —
-  - **Special Qualities**: —
-  - **Saves**: Fort +6, Ref +4, Will +5
-  - **Abilities**: Str 20, Dex 12, Con 16, Int 10, Wis 8, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Society|Society]] +12
-  - **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling), [[rangoric-srd/feats/Spirited Charge|Spirited Charge]], [[rangoric-srd/feats/Unseat|Unseat]]
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 7
-  - **Treasure**: NPC gear (combat gear: +1 human-bane arrows (2), potion of bear's endurance, potion of bull's strength, potion of cure moderate wounds; other gear: masterwork full plate, masterwork heavy steel shield, +1 longsword, dagger, masterwork composite shortbow (+3 Str) with 40 arrows, masterwork lance, noble's outfit, signet ring, bit and bridle, heavy horse (combat trained), masterwork breastplate barding, military saddle, saddlebags, 163 gp)
-  - **Alignment**: Lawful evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 9d8+36 (76 hp)
+- **Initiative**: +1
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 22 (+9 armor, +1 Dex, +2 shield), touch 11, flat-footed 21
+- **Base Attack**: +6; **CMB**: +11; **CMD**: 22
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Lance|lance]] +12 melee (1d8+5/×3) or _+1 longsword_ +12 melee (1d8+6/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Shortbow|composite shortbow]] +8 ranged (1d6+3/×3)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Lance|lance]] +12/+7 melee (1d8+5/×3); or _+1 longsword_ +12/+7 melee (1d8+6/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Shortbow|composite shortbow]] +8/+3 ranged (1d6+3/×3)
+- **Space/Reach**: 5 ft./5 ft. (10 ft. with lance)
+- **Special Attacks**: —
+- **Special Qualities**: —
+- **Saves**: Fort +6, Ref +4, Will +5
+- **Abilities**: Str 20, Dex 12, Con 16, Int 10, Wis 8, Cha 9
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Society|Society]] +12
+- **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling), [[rangoric-srd/feats/Spirited Charge|Spirited Charge]], [[rangoric-srd/feats/Unseat|Unseat]]
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 7
+- **Treasure**: NPC gear (combat gear: +1 human-bane arrows (2), potion of bear's endurance, potion of bull's strength, potion of cure moderate wounds; other gear: masterwork full plate, masterwork heavy steel shield, +1 longsword, dagger, masterwork composite shortbow (+3 Str) with 40 arrows, masterwork lance, noble's outfit, signet ring, bit and bridle, heavy horse (combat trained), masterwork breastplate barding, military saddle, saddlebags, 163 gp)
+- **Alignment**: Lawful evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A knight (aristocrat) is a [[rangoric-srd/monsters/human/Human|human]] with 9 levels of [[rangoric-srd/classes/Aristocrat|aristocrat]]. Although this tarnished knight considers his honor beyond reproach, he covets personal glory and seeks the humiliation of his enemies. Whether commanding a host of knights to rout tribes of hobgoblins or orcs or touring the land in search of jousting competitions, the knight is a tall, towering figure, striking fear into the hearts of his opponents.
 

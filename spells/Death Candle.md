@@ -29,13 +29,13 @@ tags: [rangoric, rangoric/spell]
 
 # Death Candle
 
-*Necromancy \[Death, Evil, Fire\]*
+_Necromancy \[Death, Evil, Fire\]_
 
-  - **Level**: Apl 1, Clr 2, Inq 2, Wit 2
-  - **Components**: V, S
-  - **Casting Time**: 1 round
-  - **Duration**: Instantaneous/1 round per HD of subject; see text
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Apl 1, Clr 2, Inq 2, Wit 2
+- **Components**: V, S
+- **Casting Time**: 1 round
+- **Duration**: Instantaneous/1 round per HD of subject; see text
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
-This spell functions like *[[rangoric-srd/spells/Death Knell|death knell]]*, except instead of using the slain target's life energy to enhance yourself, you use it to summon a Small fire elemental resembling a burning, howling version of the slain creature. The elemental acts immediately on your turn and otherwise behaves as if you had summoned it with *[[rangoric-srd/spells/Summon Monster II|summon monster II]]*. The elemental remains for a number of rounds equal to the Hit Dice of the slain creature.
+This spell functions like _[[rangoric-srd/spells/Death Knell|death knell]]_, except instead of using the slain target's life energy to enhance yourself, you use it to summon a Small fire elemental resembling a burning, howling version of the slain creature. The elemental acts immediately on your turn and otherwise behaves as if you had summoned it with _[[rangoric-srd/spells/Summon Monster II|summon monster II]]_. The elemental remains for a number of rounds equal to the Hit Dice of the slain creature.

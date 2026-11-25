@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Godslayer
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “godslayer”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “godslayer”, on the Special Attacks line.
 
 When a thanatotic titan damages a creature capable of casting divine spells, that creature must make a DC 28 Will save or be unable to cast any divine spells for 1d4 rounds and be [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]]. If the save is successful, the creature struck is merely shaken for 1 round. A thanatotic titan's attacks are treated as epic and evil for the purposes of overcoming damage reduction. The save DC is Charisma-based. The [[rangoric-srd/monsters/titans/Thanatotic Titan|thanatotic titan]] has it.

@@ -28,15 +28,15 @@ tags: [rangoric, rangoric/spell]
 
 # Break
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Blr 1, Occ 1, Psy 1, Sor/Wiz 1
-  - **Components**: V, S, M (a twig)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One Medium or smaller object
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Fortitude negates (object)
-  - **Spell Resistance**: Yes (object)
+- **Level**: Blr 1, Occ 1, Psy 1, Sor/Wiz 1
+- **Components**: V, S, M (a twig)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One Medium or smaller object
+- **Duration**: Instantaneous
+- **Saving Throw**: Fortitude negates (object)
+- **Spell Resistance**: Yes (object)
 
 You can attempt to break or at least damage any one Medium or smaller object within range. If the target fails its Fortitude saving throw, it gains the [[rangoric-srd/rules/conditions/Broken (Condition)|broken]] condition. If cast on a broken item, that item is destroyed on a failed save.

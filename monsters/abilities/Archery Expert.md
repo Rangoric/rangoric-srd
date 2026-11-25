@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Archery Expert
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “archery expert”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “archery expert”, on the Special Qualities line.
 
 A jungle giant is proficient with all bows, and does not provoke an attack of opportunity when firing a bow in melee combat. The [[rangoric-srd/monsters/giant/Jungle Giant|jungle giant]] has it.

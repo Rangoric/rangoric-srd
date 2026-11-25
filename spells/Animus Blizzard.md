@@ -25,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 # Animus Blizzard
 
-Evocation \[Cold\]   
+Evocation \[Cold\]  
 Casting DC: 78  
 Components: V, S  
 Casting Time: 1 minute  
@@ -34,6 +34,6 @@ Area: 20-ft.-radius hemisphere burst
 Duration: Instantaneous  
 Saving Throw: Reflex half  
 Spell Resistance: Yes  
-To Develop: 702,000 gp; 15 days; 28,080 XP. Seeds: energy (DC 19), animate dead (DC 23). Factors: increase damage to 30d6 (+40 DC), set undead type to wight (-4 DC).  
+To Develop: 702,000 gp; 15 days; 28,080 XP. Seeds: energy (DC 19), animate dead (DC 23). Factors: increase damage to 30d6 (+40 DC), set undead type to wight (-4 DC).
 
 When this spell is cast, enemies within range are dealt 30d6 points of cold damage. However, up to five victims that perish as a result of this blast are then instantly animated as wights. These five wights serve the character indefini tely. The character cannot exceed the normal limit for controlling undead through use of this spell, but other means that allow the character to exceed the normal limit for controlled undead work just as well with undead created with animus blizzard.

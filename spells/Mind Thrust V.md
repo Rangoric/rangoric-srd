@@ -23,15 +23,15 @@ tags: [rangoric, rangoric/spell]
 
 # Mind Thrust V
 
-*Divination*
+_Divination_
 
-  - **Level**: Psy 5
-  - **Components**: S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will half
-  - **Spell Resistance**: Yes
+- **Level**: Psy 5
+- **Components**: S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: Instantaneous
+- **Saving Throw**: Will half
+- **Spell Resistance**: Yes
 
-This functions as *[[rangoric-srd/spells/Mind Thrust IV|mind thrust IV]]*, but the target is also exhausted for 1 round if it fails its save and fatigued for 1 round if it succeeds at its save. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].
+This functions as _[[rangoric-srd/spells/Mind Thrust IV|mind thrust IV]]_, but the target is also exhausted for 1 round if it fails its save and fatigued for 1 round if it succeeds at its save. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].

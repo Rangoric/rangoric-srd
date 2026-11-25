@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/close, weapon-group/monk, weapon-
 
 # Unarmed Strike
 
-*Simple unarmed attack (nonlethal).* Cost —; Dmg 1d2 (S), 1d3 (M); Critical x2; Weight —; Type Bludgeoning. ^stats
+_Simple unarmed attack (nonlethal)._ Cost —; Dmg 1d2 (S), 1d3 (M); Critical x2; Weight —; Type Bludgeoning. ^stats
 
 A Medium character deals 1d3 points of nonlethal damage with an unarmed strike. A Small character deals 1d2 points of nonlethal damage. A monk or any character with the Improved Unarmed Strike feat can deal lethal or nonlethal damage with unarmed strikes, at her option. The damage from an unarmed strike is considered weapon damage for the purposes of effects that give you a bonus on weapon damage rolls.
 

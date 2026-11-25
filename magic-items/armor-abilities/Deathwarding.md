@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Deathwarding
 
-Armor with this enchantment makes its wearer immune to all types of death magic, as per the spell *[[rangoric-srd/spells/Death Ward|death ward]]*.
+Armor with this enchantment makes its wearer immune to all types of death magic, as per the spell _[[rangoric-srd/spells/Death Ward|death ward]]_.
 
-Moderate necromancy; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Death Ward|death ward]]*; Price +3 bonus.
+Moderate necromancy; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Death Ward|death ward]]_; Price +3 bonus.

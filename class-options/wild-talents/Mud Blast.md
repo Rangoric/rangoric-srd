@@ -18,14 +18,14 @@ tags: [rangoric, rangoric/class-option]
 
 # Mud Blast
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#^composite-blasts|composite blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#^composite-blasts|composite blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Elements**: [[rangoric-srd/class-options/elements/Earth Element|earth]] and [[rangoric-srd/class-options/elements/Water Element|water]]
-  - **Type**: composite blast (Sp)
-  - **Level**: —
-  - **Burn**: 2
-  - **Prerequisites**: [[rangoric-srd/class-options/wild-talents/Earth Blast|earth blast]], [[rangoric-srd/class-options/wild-talents/Water Blast|water blast]]
-  - **Blast Type**: physical
-  - **Damage**: bludgeoning
+- **Elements**: [[rangoric-srd/class-options/elements/Earth Element|earth]] and [[rangoric-srd/class-options/elements/Water Element|water]]
+- **Type**: composite blast (Sp)
+- **Level**: —
+- **Burn**: 2
+- **Prerequisites**: [[rangoric-srd/class-options/wild-talents/Earth Blast|earth blast]], [[rangoric-srd/class-options/wild-talents/Water Blast|water blast]]
+- **Blast Type**: physical
+- **Damage**: bludgeoning
 
 You infuse your water into the earth to create a powerful ball of mud and slam a single foe.

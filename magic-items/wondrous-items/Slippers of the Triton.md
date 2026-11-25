@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 These slippers allow the wearer to breathe water. Additionally, if the wearer has no swim speed, she gains a 30 foot swim speed. If the wearer has a swim speed, she gains a +10 foot enhancement bonus to her swim speed.
 
-Moderate abjuration; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Ride the Waves|ride the waves]]*; Price 56,000 gp; Cost 28,000 gp; Weight 1 lb.
+Moderate abjuration; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Ride the Waves|ride the waves]]_; Price 56,000 gp; Cost 28,000 gp; Weight 1 lb.

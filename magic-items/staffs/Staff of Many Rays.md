@@ -23,10 +23,10 @@ tags: [rangoric, rangoric/magic-item]
 
 The elaborate swirls and delicate flecks of shining metal adorning the head of this pale wooden shaft make it seem almost as much a long mace as a staff. It allows use of the following spells:
 
-- *[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]* (1 charge)
-- *[[rangoric-srd/spells/Ray of Exhaustion|ray of exhaustion]]* (1 charge)
-- *[[rangoric-srd/spells/Scorching Ray|scorching ray]]* (1 charge)
-- *[[rangoric-srd/spells/Enervation|enervation]]* (2 charges)
-- *[[rangoric-srd/spells/Disintegrate|disintegrate]]* (3 charges)
+- _[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]_ (1 charge)
+- _[[rangoric-srd/spells/Ray of Exhaustion|ray of exhaustion]]_ (1 charge)
+- _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_ (1 charge)
+- _[[rangoric-srd/spells/Enervation|enervation]]_ (2 charges)
+- _[[rangoric-srd/spells/Disintegrate|disintegrate]]_ (3 charges)
 
-Moderate evocation and necromancy; CL 11th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Disintegrate|disintegrate]]*, *[[rangoric-srd/spells/Enervation|enervation]]*, *[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]*, *[[rangoric-srd/spells/Ray of Exhaustion|ray of exhaustion]]*, *[[rangoric-srd/spells/Scorching Ray|scorching ray]]*; Price 57,200 gp; Cost 28,600 gp; Weight 5 lbs.
+Moderate evocation and necromancy; CL 11th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Disintegrate|disintegrate]]_, _[[rangoric-srd/spells/Enervation|enervation]]_, _[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]_, _[[rangoric-srd/spells/Ray of Exhaustion|ray of exhaustion]]_, _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_; Price 57,200 gp; Cost 28,600 gp; Weight 5 lbs.

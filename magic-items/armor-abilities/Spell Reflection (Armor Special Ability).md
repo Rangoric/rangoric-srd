@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Spell Reflection
 
-An item with this quality constantly shimmers with an aura of mirrorlike motes, and its surface is often silvered and highly reflective. The item’s enchantment takes effect when a spell of a given school specifically targets the bearer. Each specific item (either armor or shield) is attuned to only one school of magic, which must be specified upon its creation. A *spell-reflecting* item can reflect 7-10 (1d6+4) spell levels each day.
+An item with this quality constantly shimmers with an aura of mirrorlike motes, and its surface is often silvered and highly reflective. The item’s enchantment takes effect when a spell of a given school specifically targets the bearer. Each specific item (either armor or shield) is attuned to only one school of magic, which must be specified upon its creation. A _spell-reflecting_ item can reflect 7-10 (1d6+4) spell levels each day.
 
-Strong abjuration; CL 13th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Spell Turning|spell turning]]*; Price +2 bonus.
+Strong abjuration; CL 13th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Spell Turning|spell turning]]_; Price +2 bonus.

@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Jackalwere
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Shapechanger)
-  - **Hit Dice**: 3d10+6 (22 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 17 (+2 armor, +3 Dex, +1 dodge, +1 natural), touch 14, flat-footed 13
-  - **Base Attack**: +3; **CMB**: +5; **CMD**: 19
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Battleaxe|battleaxe]] +6 melee (1d8+2/×3) or bite +5 melee (1d6+1) or bite +5 melee (1d6+3)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Battleaxe|battleaxe]] +6 melee (1d8+2/×3) and bite +0 melee (1d6+1); or bite +5 melee (1d6+3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Sleep [[rangoric-srd/monsters/abilities/Gaze|gaze]], [[rangoric-srd/monsters/abilities/Weapon Intuition|weapon intuition]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (human, hybrid, and jackal; polymorph), [[rangoric-srd/monsters/abilities/Jackal Empathy|jackal empathy]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron
-  - **Saves**: Fort +5, Ref +6, Will +2
-  - **Abilities**: Str 15, Dex 17, Con 15, Int 12, Wis 12, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +1, [[rangoric-srd/skills/Stealth|Stealth]] +7
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Warm deserts
-  - **Organization**: Solitary, pair, hunt (1–2 jackalweres and 3–8 jackals), or pack (2–5 plus 3–12 jackals)
-  - **Challenge Rating**: 2
-  - **Treasure**: Standard (leather armor, masterwork battleaxe, other treasure)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Shapechanger)
+- **Hit Dice**: 3d10+6 (22 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 17 (+2 armor, +3 Dex, +1 dodge, +1 natural), touch 14, flat-footed 13
+- **Base Attack**: +3; **CMB**: +5; **CMD**: 19
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Battleaxe|battleaxe]] +6 melee (1d8+2/×3) or bite +5 melee (1d6+1) or bite +5 melee (1d6+3)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Battleaxe|battleaxe]] +6 melee (1d8+2/×3) and bite +0 melee (1d6+1); or bite +5 melee (1d6+3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Sleep [[rangoric-srd/monsters/abilities/Gaze|gaze]], [[rangoric-srd/monsters/abilities/Weapon Intuition|weapon intuition]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (human, hybrid, and jackal; polymorph), [[rangoric-srd/monsters/abilities/Jackal Empathy|jackal empathy]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron
+- **Saves**: Fort +5, Ref +6, Will +2
+- **Abilities**: Str 15, Dex 17, Con 15, Int 12, Wis 12, Cha 12
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +1, [[rangoric-srd/skills/Stealth|Stealth]] +7
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Warm deserts
+- **Organization**: Solitary, pair, hunt (1–2 jackalweres and 3–8 jackals), or pack (2–5 plus 3–12 jackals)
+- **Challenge Rating**: 2
+- **Treasure**: Standard (leather armor, masterwork battleaxe, other treasure)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Jackalweres are evil, supernatural jackals born with the ability to assume human form. Some folks superstitiously consider jackalweres to be emissaries of evil spirits or wicked desert gods, and it is easy to understand why, as they can take the shape of a human and possess a keen intellect; however, they also have a taste for murder and humanoid flesh.
 

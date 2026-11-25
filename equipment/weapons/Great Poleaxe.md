@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/axes, weapon-group/pole-arms]
 
 # Great Poleaxe
 
-*Martial two-handed melee weapon (reach).* Cost 50 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 25 lb.; Type Piercing or slashing. ^stats
+_Martial two-handed melee weapon (reach)._ Cost 50 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 25 lb.; Type Piercing or slashing. ^stats
 
 This mighty barbarian weapon is essentially a dual-bladed bardiche, with a 30-inch long blade on either end of a 5 ft. long shaft. It can be used as either a large axe to make slashing attacks, or with thrusting attacks as with a polearm. As a double weapon, one can still fight with it as if fighting with two weapons, but suffers all penalties associated with two-weapon fighting. Because of the weight of this weapon, any creature medium-sized or smaller must use two hands to wield it.
 

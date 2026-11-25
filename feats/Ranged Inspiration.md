@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Ranged Inspiration
 
-Prerequisite: Bardic music class feature, [[rangoric-srd/skills/Performance|Performance]] 22 ranks  
+Prerequisite: Bardic music class feature, [[rangoric-srd/skills/Performance|Performance]] 22 ranks
 
 Benefit: Double the range of any bardic music ability that has a range. (If the creature must hear the bard to be affected by the ability, that requirement doesn’t change regardless of any extended range the bard’s ability may have.)
 

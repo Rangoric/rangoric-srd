@@ -30,15 +30,15 @@ tags: [rangoric, rangoric/spell]
 
 # Reinforce Armaments, Communal
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Clr 2, Mag 2, Occ 2, Sor/Wiz 2, Wit 2
-  - **Components**: V, S, M/DF (a metal pin)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Armor suits or weapons touched
-  - **Duration**: 10 minutes/level
-  - **Saving Throw**: Will negates (harmless, object)
-  - **Spell Resistance**: Yes (harmless, object)
+- **Level**: Clr 2, Mag 2, Occ 2, Sor/Wiz 2, Wit 2
+- **Components**: V, S, M/DF (a metal pin)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Armor suits or weapons touched
+- **Duration**: 10 minutes/level
+- **Saving Throw**: Will negates (harmless, object)
+- **Spell Resistance**: Yes (harmless, object)
 
-This spell functions like *[[rangoric-srd/spells/Reinforce Armaments|reinforce armaments]]*, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 10-minute intervals among the objects touched.
+This spell functions like _[[rangoric-srd/spells/Reinforce Armaments|reinforce armaments]]_, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 10-minute intervals among the objects touched.

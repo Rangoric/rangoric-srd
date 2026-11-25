@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Metamagic Rager
 
-*A [[rangoric-srd/classes/Bloodrager#^bloodrager-archetypes|bloodrager]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Bloodrager#^bloodrager-archetypes|bloodrager]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 While metamagic is difficult for many bloodragers to utilize, a talented few are able to channel their bloodrage in ways that push their spells to impressive ends.
 

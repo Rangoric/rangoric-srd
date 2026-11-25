@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Crossbowman
 
-*A [[rangoric-srd/classes/Fighter#^fighter-archetypes|fighter]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Fighter#^fighter-archetypes|fighter]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 The crossbowman has perfected the deadly use of the crossbow, a simple but cruelly efficient weapon, as a craftsman mastering a lethal tool.
 

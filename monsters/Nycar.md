@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Nycar
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Aquatic)
-  - **Hit Dice**: 3d12+3 (22 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares), swim 30 ft.
-  - **Armor Class**: 16 (+3 Dex, +1 natural, +2 size), touch 15, flat-footed 13
-  - **Base Attack**: +3; **CMB**: +4; **CMD**: 15 (can't be tripped)
-  - **Attack**: Bite +8 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: Bite +8 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 1 (cold iron), [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Elusive|elusive]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 5
-  - **Saves**: Fort +4, Ref +6, Will +3
-  - **Abilities**: Str 13, Dex 16, Con 12, Int 5, Wis 10, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +13, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +20
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Cold marshes
-  - **Organization**: Solitary, pair, or clutch (3–8)
-  - **Challenge Rating**: 2
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Aquatic)
+- **Hit Dice**: 3d12+3 (22 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares), swim 30 ft.
+- **Armor Class**: 16 (+3 Dex, +1 natural, +2 size), touch 15, flat-footed 13
+- **Base Attack**: +3; **CMB**: +4; **CMD**: 15 (can't be tripped)
+- **Attack**: Bite +8 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: Bite +8 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 1 (cold iron), [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Elusive|elusive]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 5
+- **Saves**: Fort +4, Ref +6, Will +3
+- **Abilities**: Str 13, Dex 16, Con 12, Int 5, Wis 10, Cha 9
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +13, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +20
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Cold marshes
+- **Organization**: Solitary, pair, or clutch (3–8)
+- **Challenge Rating**: 2
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 These diminutive serpentine creatures are distant cousins to powerful linnorms. Nycars live in the frigid, desolate moors and marshes of colder climates where their cruel and savage activities often escape unnoticed. A nycar relishes the hunt and often stalks a creature for hours before finally inflicting a single savage bite, then withdraws to safety to wait for its prey to sicken and die. Nycars often kill wastefully, attacking creatures much larger than they can eat. The opportunity to eat a human or other intelligent creature is a rare treat, as a nycar's uninviting habitat usually prevents much interaction with all but the most isolated people.
 
@@ -76,4 +76,4 @@ Nycars understand Draconic but can't speak.
 
 **[[rangoric-srd/monsters/abilities/Elusive|Elusive]] (Ex)**: A nycar can make an Escape Artist check as a swift action.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Nycar Poison|Nycar Poison]]: Bite—injury; *save* Fort DC 12; *frequency* 1/round for 6 rounds; *effect* 1d4 acid and 1 Con damage; *cure* 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Nycar Poison|Nycar Poison]]: Bite—injury; _save_ Fort DC 12; _frequency_ 1/round for 6 rounds; _effect_ 1d4 acid and 1 Con damage; _cure_ 2 consecutive saves.

@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Savage Rider
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 13d12+104 (194 hp)
-  - **Initiative**: +1
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 17 (+6 armor, +1 Dex, –2 rage, +2 shield; +1 deflection vs. ranged weapons), touch 9, flat-footed 16
-  - **Base Attack**: +13; **CMB**: +20; **CMD**: 29
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Lance|lance]] +21 melee (1d8+8/×3) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +15 ranged (1d8+7/×3)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Lance|lance]] +21/+16/+11 melee (1d8+8/×3); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +15/+10/+5 ranged (1d8+7/×3)
-  - **Space/Reach**: 5 ft./5 ft. (10 ft. with lance)
-  - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-greater-rage|Greater rage]] (32 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Guarded Stance (Rage Power)|guarded stance]] +3, [[rangoric-srd/class-options/rage-powers/Mighty Swing (Rage Power)|mighty swing]], [[rangoric-srd/class-options/rage-powers/Renewed Vigor (Rage Power)|renewed vigor]] 3d8+10, [[rangoric-srd/class-options/rage-powers/Rolling Dodge (Rage Power)|rolling dodge]] +3, [[rangoric-srd/class-options/rage-powers/Strength Surge (Rage Power)|strength surge]] +13, [[rangoric-srd/class-options/rage-powers/Superstition (Rage Power)|superstition]] +5)
-  - **Special Qualities**: [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|Improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +4, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/classes/Barbarian#^barbarian-damage-reduction|damage reduction]] 3/—
-  - **Saves**: Fort +16, Ref +6, Will +9 (+5 vs. spells and spell-like or supernatural abilities)
-  - **Abilities**: Str 24, Dex 13, Con 24, Int 10, Wis 12, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +22, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +13, [[rangoric-srd/skills/Nature|Nature]] +10, [[rangoric-srd/skills/Perception|Perception]] +17
-  - **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling), [[rangoric-srd/feats/Spirited Charge|Spirited Charge]], [[rangoric-srd/feats/Unseat|Unseat]]
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 12
-  - **Treasure**: NPC gear (combat gear: oil of keen edge, potion of cure light wounds; other gear: rhino hide armor, +1 arrow catching buckler, +1 lance, masterwork composite longbow (+7 Str) with 20 arrows, bag of tricks (tan), belt of mighty constitution +2, cloak of resistance +1, heavy warhorse with riding saddle and masterwork studded leather barding, 51 gp)
-  - **Alignment**: Chaotic neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 13d12+104 (194 hp)
+- **Initiative**: +1
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 17 (+6 armor, +1 Dex, –2 rage, +2 shield; +1 deflection vs. ranged weapons), touch 9, flat-footed 16
+- **Base Attack**: +13; **CMB**: +20; **CMD**: 29
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Lance|lance]] +21 melee (1d8+8/×3) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +15 ranged (1d8+7/×3)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Lance|lance]] +21/+16/+11 melee (1d8+8/×3); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +15/+10/+5 ranged (1d8+7/×3)
+- **Space/Reach**: 5 ft./5 ft. (10 ft. with lance)
+- **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-greater-rage|Greater rage]] (32 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Guarded Stance (Rage Power)|guarded stance]] +3, [[rangoric-srd/class-options/rage-powers/Mighty Swing (Rage Power)|mighty swing]], [[rangoric-srd/class-options/rage-powers/Renewed Vigor (Rage Power)|renewed vigor]] 3d8+10, [[rangoric-srd/class-options/rage-powers/Rolling Dodge (Rage Power)|rolling dodge]] +3, [[rangoric-srd/class-options/rage-powers/Strength Surge (Rage Power)|strength surge]] +13, [[rangoric-srd/class-options/rage-powers/Superstition (Rage Power)|superstition]] +5)
+- **Special Qualities**: [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|Improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +4, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/classes/Barbarian#^barbarian-damage-reduction|damage reduction]] 3/—
+- **Saves**: Fort +16, Ref +6, Will +9 (+5 vs. spells and spell-like or supernatural abilities)
+- **Abilities**: Str 24, Dex 13, Con 24, Int 10, Wis 12, Cha 8
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +22, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +13, [[rangoric-srd/skills/Nature|Nature]] +10, [[rangoric-srd/skills/Perception|Perception]] +17
+- **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling), [[rangoric-srd/feats/Spirited Charge|Spirited Charge]], [[rangoric-srd/feats/Unseat|Unseat]]
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 12
+- **Treasure**: NPC gear (combat gear: oil of keen edge, potion of cure light wounds; other gear: rhino hide armor, +1 arrow catching buckler, +1 lance, masterwork composite longbow (+7 Str) with 20 arrows, bag of tricks (tan), belt of mighty constitution +2, cloak of resistance +1, heavy warhorse with riding saddle and masterwork studded leather barding, 51 gp)
+- **Alignment**: Chaotic neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A savage rider is a [[rangoric-srd/monsters/human/Human|human]] with 13 levels of [[rangoric-srd/classes/Barbarian|barbarian]]. Savage riders use a mix of magical and mundane mounts to make lightning-fast raids against their enemies.
 

@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/pole-arms]
 
 # Poleaxe
 
-*Martial two-handed melee weapon.* Cost 20 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Weight 12 lb.; Type Bludgeoning, piercing, or slashing. ^stats
+_Martial two-handed melee weapon._ Cost 20 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Weight 12 lb.; Type Bludgeoning, piercing, or slashing. ^stats
 
 This is a 5 ft. long polearm with a circular crosspiece near one end and a combination hammer, axe and spear weapon head at the other. This special weapon head allows for bludgeoning, slashing and piercing attacks. The kind of damage intended must be declared prior to each attack.

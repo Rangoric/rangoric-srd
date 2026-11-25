@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Demon Lord Traits
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “demon lord traits”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “demon lord traits”, on the Special Qualities line.
 
 A demon lord is a powerful, unique demon that rules a layer of the Abyss. All demon lords are chaotic evil outsiders that are, at a minimum, CR 26. Demon lords have a particular suite of traits (unless otherwise noted in a creature’s entry) as summarized here.
 

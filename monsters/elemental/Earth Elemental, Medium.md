@@ -41,25 +41,25 @@ tags: [rangoric, rangoric/monster]
 
 # Earth Elemental, Medium
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Earth, Elemental, Extraplanar)
-  - **Hit Dice**: 4d10+12 (34 hp)
-  - **Initiative**: –1
-  - **Speed**: 20 ft. (4 squares), burrow 20 ft., [[rangoric-srd/monsters/abilities/Earth Glide|earth glide]]
-  - **Armor Class**: 18 (–1 Dex, +9 natural), touch 9, flat-footed 18
-  - **Base Attack**: +4; **CMB**: +9; **CMD**: 18
-  - **Attack**: Slam +9 melee (1d8+7)
-  - **Full Attack**: Slam +9 melee (1d8+7)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/elemental/Earth Elemental#^earth-mastery|Earth mastery]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-  - **Saves**: Fort +7, Ref +0, Will +4
-  - **Abilities**: Str 20, Dex 8, Con 17, Int 4, Wis 11, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +1, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +2, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +3, [[rangoric-srd/skills/Theology|Theology]] +2
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Any (Elemental Plane of Earth)
-  - **Organization**: Solitary, pair, or gang (3–8)
-  - **Challenge Rating**: 3
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 5–7 HD (Medium)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Earth, Elemental, Extraplanar)
+- **Hit Dice**: 4d10+12 (34 hp)
+- **Initiative**: –1
+- **Speed**: 20 ft. (4 squares), burrow 20 ft., [[rangoric-srd/monsters/abilities/Earth Glide|earth glide]]
+- **Armor Class**: 18 (–1 Dex, +9 natural), touch 9, flat-footed 18
+- **Base Attack**: +4; **CMB**: +9; **CMD**: 18
+- **Attack**: Slam +9 melee (1d8+7)
+- **Full Attack**: Slam +9 melee (1d8+7)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/elemental/Earth Elemental#^earth-mastery|Earth mastery]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
+- **Saves**: Fort +7, Ref +0, Will +4
+- **Abilities**: Str 20, Dex 8, Con 17, Int 4, Wis 11, Cha 11
+- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +1, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +2, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +3, [[rangoric-srd/skills/Theology|Theology]] +2
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Any (Elemental Plane of Earth)
+- **Organization**: Solitary, pair, or gang (3–8)
+- **Challenge Rating**: 3
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 5–7 HD (Medium)
+- **Level Adjustment**: —

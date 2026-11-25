@@ -23,16 +23,16 @@ tags: [rangoric, rangoric/star]
 
 # Star of Revelation
 
-*[[rangoric-srd/rules/star magic/Star Magic|Star]]*
+_[[rangoric-srd/rules/star magic/Star Magic|Star]]_
 
-  - **Call Level**: 1st ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
-  - **Aspect**: Ascendant in summer, descendant in winter, on the horizon in spring and autumn ([[rangoric-srd/rules/star magic/Star Magic#^seasons|seasons]])
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Area**: 5-ft./level-radius emanation centered on you
-  - **Duration**: 3 rounds/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Call Level**: 1st ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
+- **Aspect**: Ascendant in summer, descendant in winter, on the horizon in spring and autumn ([[rangoric-srd/rules/star magic/Star Magic#^seasons|seasons]])
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Area**: 5-ft./level-radius emanation centered on you
+- **Duration**: 3 rounds/level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 Clear, colorless light surrounds you and brings out details that would otherwise go unseen, without hiding any color or texture. You gain a +3 bonus per call level on [[rangoric-srd/skills/Perception|Perception]] and [[rangoric-srd/skills/Investigation|Investigation]] checks.

@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Ahuizotl
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Aquatic)
-  - **Hit Dice**: 8d10+24 (68 hp)
-  - **Initiative**: +7
-  - **Speed**: 30 ft. (6 squares), swim 50 ft.
-  - **Armor Class**: 19 (+3 Dex, +7 natural, –1 size), touch 12, flat-footed 16
-  - **Base Attack**: +8; **CMB**: +14 (+18 grapple); **CMD**: 27 (31 vs. trip)
-  - **Attack**: Bite +12 melee (2d6+5) or claw +12 melee (1d8+5/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +12 melee (2d6+5) and claw +12 melee (1d8+5/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 10 ft./5 ft. (10 ft. with tail)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rake|Rake]] (2 claws +12, 1d4+12)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Tenacious Grapple|tenacious grapple]], [[rangoric-srd/monsters/abilities/Voice Mimicry|voice mimicry]]
-  - **Saves**: Fort +9, Ref +9, Will +4
-  - **Abilities**: Str 20, Dex 17, Con 17, Int 9, Wis 14, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +9
-  - **Feats**: [[rangoric-srd/feats/Blinding Critical|Blinding Critical]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Stand Still|Stand Still]]
-  - **Environment**: Warm lakes, rivers, or swamps
-  - **Organization**: Solitary
-  - **Challenge Rating**: 6
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Aquatic)
+- **Hit Dice**: 8d10+24 (68 hp)
+- **Initiative**: +7
+- **Speed**: 30 ft. (6 squares), swim 50 ft.
+- **Armor Class**: 19 (+3 Dex, +7 natural, –1 size), touch 12, flat-footed 16
+- **Base Attack**: +8; **CMB**: +14 (+18 grapple); **CMD**: 27 (31 vs. trip)
+- **Attack**: Bite +12 melee (2d6+5) or claw +12 melee (1d8+5/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +12 melee (2d6+5) and claw +12 melee (1d8+5/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 10 ft./5 ft. (10 ft. with tail)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Rake|Rake]] (2 claws +12, 1d4+12)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Tenacious Grapple|tenacious grapple]], [[rangoric-srd/monsters/abilities/Voice Mimicry|voice mimicry]]
+- **Saves**: Fort +9, Ref +9, Will +4
+- **Abilities**: Str 20, Dex 17, Con 17, Int 9, Wis 14, Cha 16
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Feats**: [[rangoric-srd/feats/Blinding Critical|Blinding Critical]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Stand Still|Stand Still]]
+- **Environment**: Warm lakes, rivers, or swamps
+- **Organization**: Solitary
+- **Challenge Rating**: 6
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A carnage-hungry denizen of swamps, the ahuizotl is a ferocious-looking predator, even before one takes into consideration its most distinctive feature—a long tail that ends in a clawed but all-too-humanoid hand. Whether from the entrance of its aquatic home (typically a sunken mass of trees or a flooded cavern) or the thick reeds and flora that grow at the water's edge, an ahuizotl remains watchful for any intruder that might trespass into its territory. Upon sighting such prey, the beast uses its uncanny ability to mimic the sound of a humanoid in distress to lure victims near, so it can snatch them with its tail claw. Ahuizotls are particularly fond of feasting upon a victim's eyes, and their tail claws are particularly adept at swiping away such organs for the beasts to feed upon. Teeth and fingernails are another of the creature's favorite meals, and the appearance of mutilated bodies missing eyes, teeth, and nails along a river's banks is sure evidence of an ahuizotl attack.
 

@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Soft Leather Half Armor
 
-*Light armor.* Cost 5 gp; Armor Bonus +1; Maximum Dex Bonus +8; Armor Check Penalty 0; Arcane Spell Failure 7%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 5 lb. ^stats
+_Light armor._ Cost 5 gp; Armor Bonus +1; Maximum Dex Bonus +8; Armor Check Penalty 0; Arcane Spell Failure 7%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 5 lb. ^stats
 
 The armor is made from soft leather and crafted to cover the upper torso. It is small enough to be concealed under cleric’s robes, or worn over the top of them as desired.

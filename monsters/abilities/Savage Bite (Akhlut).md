@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Savage Bite (Akhlut)
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “savage bite”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “savage bite”, on the Special Attacks line.
 
 The creature's bite threatens a critical hit on a roll of 18–20. The [[rangoric-srd/monsters/Akhlut|akhlut]] has it.

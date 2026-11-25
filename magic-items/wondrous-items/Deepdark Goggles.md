@@ -24,4 +24,4 @@ tags: [rangoric, rangoric/magic-item]
 
 These goggles' dark lenses are made of round obsidian sheets thin enough to see through. They grant the wearer [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 120, as well as a +4 competence bonus on [[rangoric-srd/skills/Perception|Perception]] checks and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks made to track while underground.
 
-Moderate transmutation; CL 6th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Darkvision|darkvision]]*, *[[rangoric-srd/spells/Terrain Bond|terrain bond]]*; Price 20,000 gp; Cost 10,000 gp.
+Moderate transmutation; CL 6th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Darkvision|darkvision]]_, _[[rangoric-srd/spells/Terrain Bond|terrain bond]]_; Price 20,000 gp; Cost 10,000 gp.

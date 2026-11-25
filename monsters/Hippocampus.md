@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Hippocampus
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Aquatic)
-  - **Hit Dice**: 2d10+4 (15 hp)
-  - **Initiative**: –1
-  - **Speed**: 5 ft. (1 square), swim 60 ft.
-  - **Armor Class**: 12 (–1 Dex, +4 natural, –1 size), touch 8, flat-footed 12
-  - **Base Attack**: +2; **CMB**: +6; **CMD**: 15
-  - **Attack**: Bite +4 melee (1d4+3) or tail slap +4 melee (1d4+1)
-  - **Full Attack**: Bite +4 melee (1d4+3) and tail slap –1 melee (1d4+1)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Water Dependency|water dependency]]
-  - **Saves**: Fort +5, Ref +2, Will +1
-  - **Abilities**: Str 16, Dex 9, Con 15, Int 2, Wis 12, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +6
-  - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]]
-  - **Environment**: Any water
-  - **Organization**: Solitary, pair, or school (3–16)
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Aquatic)
+- **Hit Dice**: 2d10+4 (15 hp)
+- **Initiative**: –1
+- **Speed**: 5 ft. (1 square), swim 60 ft.
+- **Armor Class**: 12 (–1 Dex, +4 natural, –1 size), touch 8, flat-footed 12
+- **Base Attack**: +2; **CMB**: +6; **CMD**: 15
+- **Attack**: Bite +4 melee (1d4+3) or tail slap +4 melee (1d4+1)
+- **Full Attack**: Bite +4 melee (1d4+3) and tail slap –1 melee (1d4+1)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Water Dependency|water dependency]]
+- **Saves**: Fort +5, Ref +2, Will +1
+- **Abilities**: Str 16, Dex 9, Con 15, Int 2, Wis 12, Cha 11
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +6
+- **Feats**: [[rangoric-srd/feats/Endurance|Endurance]]
+- **Environment**: Any water
+- **Organization**: Solitary, pair, or school (3–16)
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A hippocampus's scales vary in color from ivory to deep green to cerulean blue with shades of silver. Aquatic races such as merfolk and locathahs often train hippocampi as steeds or as draft animals used to pull cunningly designed underwater carriages. In the wild, hippocampi prefer to dwell in relatively shallow waters where their favorite food (seaweed and kelp) is more plentiful and larger predators are less common. These creatures often travel in large schools, analogous to free-roaming herds of wild horses on the surface world.
 

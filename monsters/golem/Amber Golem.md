@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Amber Golem
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
-  - **Hit Dice**: 20d10+30 (140 hp)
-  - **Initiative**: –1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 26 (–1 size, –1 Dex, +18 natural), touch 8, flat-footed 26
-  - **Base Attack**: +15; **CMB**: +29; **CMD**: 38
-  - **Attack**: Slam +27 melee (2d10+13)
-  - **Full Attack**: 2 slams +27 melee (2d10+13)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: Breath weapon, fiery aura, splatter
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/magic, darkvision 60 ft., death throes, immunity to magic, low-light vision
-  - **Saves**: Fort +6, Ref +5, Will +6
-  - **Abilities**: Str 37, Dex 8, Con —, Int —, Wis 10, Cha 1
-  - **Skills**: —
-  - **Feats**: —
-  - **Environment**: Any
-  - **Organization**: Solitary or gang (2–4)
-  - **Challenge Rating**: 14
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: 21–26 HD (Large); 27–60 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
+- **Hit Dice**: 20d10+30 (140 hp)
+- **Initiative**: –1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 26 (–1 size, –1 Dex, +18 natural), touch 8, flat-footed 26
+- **Base Attack**: +15; **CMB**: +29; **CMD**: 38
+- **Attack**: Slam +27 melee (2d10+13)
+- **Full Attack**: 2 slams +27 melee (2d10+13)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: Breath weapon, fiery aura, splatter
+- **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/magic, darkvision 60 ft., death throes, immunity to magic, low-light vision
+- **Saves**: Fort +6, Ref +5, Will +6
+- **Abilities**: Str 37, Dex 8, Con —, Int —, Wis 10, Cha 1
+- **Skills**: —
+- **Feats**: —
+- **Environment**: Any
+- **Organization**: Solitary or gang (2–4)
+- **Challenge Rating**: 14
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: 21–26 HD (Large); 27–60 HD (Huge)
+- **Level Adjustment**: —
 
 The spectacular amber golem is a terrifying sight to behold. These massive, 17-foot tall golems are composed of a heavy amber shell filled with living fire. Their skin is a yellowish color that is sometimes tinged with red. Their arms and legs are roughly hewn, although their eyes are made of rubies and their heads are crowned with precious gems. Like other golems, they are mindless automatons created by powerful spellcasters and perform their duties without thought about the consequences of any actions.
 
@@ -80,7 +80,7 @@ Piercing ranged weapons release gouts of fire as well, but the fire only affects
 
 **Death Throes (Su):** When an amber golem is slain, each creature within 5 feet of it must succeed on a DC 20 Reflex save or become encased in liquid amber, which then instantly hardens. The save DC is Constitution-based. Trapped creatures can only take mental actions and are subject to suffocation, but can be freed by destroying the amber shell. The shell has an AC of 2, a hardness of 2, and 20 hit points.
 
-**Immunity to Magic (Ex):** An amber golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature. A magical attack that deals cold damage slows an amber golem (as the *[[rangoric-srd/spells/Slow|slow]]* spell) for 1d3 rounds, with no saving throw. A magical attack that deals fire damage breaks any *slow* effect on the golem and heals 1 point of damage for each point of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points.
+**Immunity to Magic (Ex):** An amber golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature. A magical attack that deals cold damage slows an amber golem (as the _[[rangoric-srd/spells/Slow|slow]]_ spell) for 1d3 rounds, with no saving throw. A magical attack that deals fire damage breaks any _slow_ effect on the golem and heals 1 point of damage for each point of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points.
 
 ## Construction
 
@@ -90,8 +90,8 @@ The cost to create listed below includes the cost of the physical body and all t
 
 An amber golem with more than 20 Hit Dice can be created, but each additional Hit Die adds 5,000 gp to the market price, and the price increases by 50,000 gp if the creature’s size increases to Huge, modifying the cost to create accordingly.
 
-CL 17th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Enlarge Person|enlarge person]]*, *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, *[[rangoric-srd/spells/Planar Binding, Greater|greater planar binding]]*, *[[rangoric-srd/spells/Limited Wish|limited wish]]*, *[[rangoric-srd/spells/Meteor Swarm|meteor swarm]]*, *[[rangoric-srd/spells/Polymorph Any Object|polymorph any object]]*, caster must be at least 17th level; Price 175,000 gp; Cost 110,250 gp + 5,480 XP.
+CL 17th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Planar Binding, Greater|greater planar binding]]_, _[[rangoric-srd/spells/Limited Wish|limited wish]]_, _[[rangoric-srd/spells/Meteor Swarm|meteor swarm]]_, _[[rangoric-srd/spells/Polymorph Any Object|polymorph any object]]_, caster must be at least 17th level; Price 175,000 gp; Cost 110,250 gp + 5,480 XP.
 
 ## Campaign Notes
 
-Amber golems are powerful bodyguards, especially favored by fire giants and other creatures of the fire subtype. In the halls of fire giants, such golems might very well be mistaken for statues set to adorn their home. They’re also well suited for volcanoes, hot springs, and other fiery locales. If used as a guardian, an amber golem should protect something very important. The 175,000 gold piece cost of the golem assures that whatever is being guarded is a valuable treasure indeed. As fire heals the golem, any spellcaster with the ability to create the construct could also place some magical effects to heal the creature. Placing the golem on a pressure plate that activates a *wand of fireball* or similar device at set intervals when the golem steps off it assures that the construct has the benefit of healing. Creatures facing the golem would likewise have to deal with the added fire damage.
+Amber golems are powerful bodyguards, especially favored by fire giants and other creatures of the fire subtype. In the halls of fire giants, such golems might very well be mistaken for statues set to adorn their home. They’re also well suited for volcanoes, hot springs, and other fiery locales. If used as a guardian, an amber golem should protect something very important. The 175,000 gold piece cost of the golem assures that whatever is being guarded is a valuable treasure indeed. As fire heals the golem, any spellcaster with the ability to create the construct could also place some magical effects to heal the creature. Placing the golem on a pressure plate that activates a _wand of fireball_ or similar device at set intervals when the golem steps off it assures that the construct has the benefit of healing. Creatures facing the golem would likewise have to deal with the added fire damage.

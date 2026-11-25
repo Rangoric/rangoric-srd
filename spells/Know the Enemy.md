@@ -29,15 +29,15 @@ tags: [rangoric, rangoric/spell]
 
 # Know the Enemy
 
-*Divination*
+_Divination_
 
-  - **Level**: Clr 1, Hun 1, Inq 1, Pal 1, Rgr 1
-  - **Components**: S, V, DF
-  - **Casting Time**: 1 minute
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Clr 1, Hun 1, Inq 1, Pal 1, Rgr 1
+- **Components**: S, V, DF
+- **Casting Time**: 1 minute
+- **Range**: Personal
+- **Target**: You
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You commune with the divine, reflecting on one type of creature you encountered in the last day. You may make a Knowledge check regarding that creature type with a +10 insight bonus.

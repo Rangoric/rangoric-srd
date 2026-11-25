@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 These bracers are constructed from woven strands of bamboo. Three times per day, as a swift action, the wearer can stretch her arms beyond their limits, increasing her reach by 5 feet until the start of her next turn. Her weapon attack rolls take a –4 penalty, while unarmed strikes and natural weapons using the arms take no penalty.
 
-Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Alter Self|alter self]]*; Price 7,200 gp; Cost 3,600 gp; Weight 1 lb.
+Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Alter Self|alter self]]_; Price 7,200 gp; Cost 3,600 gp; Weight 1 lb.

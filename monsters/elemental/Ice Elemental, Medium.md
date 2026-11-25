@@ -40,25 +40,25 @@ tags: [rangoric, rangoric/monster]
 
 # Ice Elemental, Medium
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Air, Cold, Elemental, Extraplanar, Water)
-  - **Hit Dice**: 4d10+8 (30 hp)
-  - **Initiative**: +0
-  - **Speed**: 20 ft. (4 squares), burrow (ice and snow only) 20 ft., swim 60 ft.
-  - **Armor Class**: 16 (+6 natural), touch 10, flat-footed 16
-  - **Base Attack**: +4; **CMB**: +7; **CMD**: 17 (can't be tripped)
-  - **Attack**: Slam +7 melee (1d6+4 plus 1d4 cold)
-  - **Full Attack**: Slam +7 melee (1d6+4 plus 1d4 cold)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/elemental/Ice Elemental#^numbing-cold|Numbing cold]] (DC 14)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Snow Vision|snow vision]], [[rangoric-srd/monsters/elemental/Ice Elemental#^ice-glide|ice glide]], [[rangoric-srd/monsters/abilities/Icewalking|icewalking]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], vulnerable to fire
-  - **Saves**: Fort +6, Ref +4, Will +1
-  - **Abilities**: Str 16, Dex 10, Con 15, Int 4, Wis 11, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +7, [[rangoric-srd/skills/Theology|Theology]] +4
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Any land or water (Elemental Plane of Water)
-  - **Organization**: Solitary, pair, or gang (3–8)
-  - **Challenge Rating**: 3
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Air, Cold, Elemental, Extraplanar, Water)
+- **Hit Dice**: 4d10+8 (30 hp)
+- **Initiative**: +0
+- **Speed**: 20 ft. (4 squares), burrow (ice and snow only) 20 ft., swim 60 ft.
+- **Armor Class**: 16 (+6 natural), touch 10, flat-footed 16
+- **Base Attack**: +4; **CMB**: +7; **CMD**: 17 (can't be tripped)
+- **Attack**: Slam +7 melee (1d6+4 plus 1d4 cold)
+- **Full Attack**: Slam +7 melee (1d6+4 plus 1d4 cold)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/elemental/Ice Elemental#^numbing-cold|Numbing cold]] (DC 14)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Snow Vision|snow vision]], [[rangoric-srd/monsters/elemental/Ice Elemental#^ice-glide|ice glide]], [[rangoric-srd/monsters/abilities/Icewalking|icewalking]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], vulnerable to fire
+- **Saves**: Fort +6, Ref +4, Will +1
+- **Abilities**: Str 16, Dex 10, Con 15, Int 4, Wis 11, Cha 11
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +7, [[rangoric-srd/skills/Theology|Theology]] +4
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Any land or water (Elemental Plane of Water)
+- **Organization**: Solitary, pair, or gang (3–8)
+- **Challenge Rating**: 3
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —

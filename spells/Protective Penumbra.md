@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Protective Penumbra
 
-*Evocation \[Darkness\]*
+_Evocation \[Darkness\]_
 
-  - **Level**: Clr 2, Occ 2, Psy 2, Sor/Wiz 2, Spi 2, Wit 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 10 minutes/level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes
+- **Level**: Clr 2, Occ 2, Psy 2, Sor/Wiz 2, Spi 2, Wit 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 10 minutes/level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes
 
 This spell keeps the target slightly in shadow. A target with light blindness, light sensitivity, or vulnerability to sunlight (such as vampires and wraiths) may ignore penalties from those qualities. The spell gives the target a +2 bonus on saving throws against nonmagical hazards related to bright light, such as glare or sunburn.

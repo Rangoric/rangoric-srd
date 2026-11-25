@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic, psionic]
 
 # Power Knowledge
 
-You add two additional powers to your list of powers known.  
+You add two additional powers to your list of powers known.
 
 Prerequisites: Character level 21st, ability to manifest powers of the normal maximum power level in at least one psionic class.
 

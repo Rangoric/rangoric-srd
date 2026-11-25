@@ -33,16 +33,16 @@ tags: [rangoric, rangoric/spell]
 
 # Tar Pool
 
-*Transmutation \[Earth, Fire\]*
+_Transmutation \[Earth, Fire\]_
 
-  - **Level**: Drd 6, Hun 6, Sor/Wiz 6, Sum 5, SumU 6
-  - **Components**: V, S, M/DF (a ball of hardened tar)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Area**: 20-ft.-radius burst
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Reflex partial, see text
-  - **Spell Resistance**: No
+- **Level**: Drd 6, Hun 6, Sor/Wiz 6, Sum 5, SumU 6
+- **Components**: V, S, M/DF (a ball of hardened tar)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Area**: 20-ft.-radius burst
+- **Duration**: 1 round/level
+- **Saving Throw**: Reflex partial, see text
+- **Spell Resistance**: No
 
 You convert a layer of the ground to hot tar. Creatures in the area when the tar appears take 1d6 points of fire damage per two caster levels (maximum of 10d6) and must succeed at a Reflex save or become entangled. An entangled creature receives a saving throw each round to free itself from the tar, and can also attempt to free itself by spending a move action to attempt a Strength check or Escape Artist check (DC = spell saving throw DC).
 

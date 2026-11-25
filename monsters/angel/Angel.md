@@ -26,9 +26,9 @@ In combat, most angels make full use of their mobility and their ability to atta
 
 Angels have the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^angel|angel subtype]]: darkvision and low-light vision, immunity to acid, cold and petrification, resistance to electricity and fire, a bonus on saves against poison, a protective aura, and truespeech.
 
-  - [[rangoric-srd/monsters/angel/Angel, Cassisian|Angel, Cassisian]]
-  - [[rangoric-srd/monsters/angel/Angel, Movanic Deva|Angel, Movanic Deva]]
-  - [[rangoric-srd/monsters/angel/Angel, Monadic Deva|Angel, Monadic Deva]]
-  - [[rangoric-srd/monsters/angel/Angel, Astral Deva|Angel, Astral Deva]]
-  - [[rangoric-srd/monsters/angel/Angel, Planetar|Angel, Planetar]]
-  - [[rangoric-srd/monsters/angel/Angel, Solar|Angel, Solar]]
+- [[rangoric-srd/monsters/angel/Angel, Cassisian|Angel, Cassisian]]
+- [[rangoric-srd/monsters/angel/Angel, Movanic Deva|Angel, Movanic Deva]]
+- [[rangoric-srd/monsters/angel/Angel, Monadic Deva|Angel, Monadic Deva]]
+- [[rangoric-srd/monsters/angel/Angel, Astral Deva|Angel, Astral Deva]]
+- [[rangoric-srd/monsters/angel/Angel, Planetar|Angel, Planetar]]
+- [[rangoric-srd/monsters/angel/Angel, Solar|Angel, Solar]]

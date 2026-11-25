@@ -30,7 +30,7 @@ Target or Area: One manifester, creature, or object; or 20-ft.-radius burst
 Duration: Instantaneous or 1d4 rounds; see text  
 Saving Throw: None  
 Power Resistance: No  
-Power Points: 5  
+Power Points: 5
 
 You can use dispel psionics to end ongoing powers that have been manifested on a creature or object, to temporarily suppress the psionic abilities of a psionic item, or to end ongoing powers (or at least their effects) within an area. A dispelled power ends as if its duration had expired. Some powers, as detailed in their descriptions, can’t be defeated by dispel psionics, or can be ended only if you manifest dispel psionics at a high enough manifester level. Dispel psionics can end spell-like effects just as it does powers.
 

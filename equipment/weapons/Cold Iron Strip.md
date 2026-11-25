@@ -14,4 +14,4 @@ tags: [rangoric, rangoric/weapon]
 
 # Cold Iron Strip
 
-*Accessory.* Cost 75 gp; Weight —. ^stats
+_Accessory._ Cost 75 gp; Weight —. ^stats

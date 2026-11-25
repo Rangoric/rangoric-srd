@@ -28,17 +28,17 @@ tags: [rangoric, rangoric/spell]
 
 # Dismiss Fey
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Fhn 4, Fpk 4, Msl 4, Sor/Wiz 4
-  - **Components**: V, S, F/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One fey creature
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Fhn 4, Fpk 4, Msl 4, Sor/Wiz 4
+- **Components**: V, S, F/DF
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One fey creature
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 This spell forces a fey creature to instantly travel back to the fey realm. Add the creature’s HD to its saving throw and subtract the caster’s level from the save as well. If the creature fails its save, it is instantly whisked away.
 
-*Focus*: A cold iron holy symbol or object distasteful to the fey.
+_Focus_: A cold iron holy symbol or object distasteful to the fey.

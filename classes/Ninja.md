@@ -41,28 +41,28 @@ The ninja’s class skills (and the key ability for each skill) are [[rangoric-s
 
 **Table: The Ninja** ^table-the-ninja
 
-| Level | Special |
-| --- | --- |
-| 1st | Poison use, sneak attack +1d6 |
-| 2nd | Ki pool, ninja trick |
-| 3rd | No trace +1, sneak attack +2d6 |
-| 4th | Ninja trick, uncanny dodge |
-| 5th | Sneak attack +3d6 |
-| 6th | Light steps, ninja trick, no trace +2 |
-| 7th | Sneak attack +4d6 |
-| 8th | Improved uncanny dodge, ninja trick |
-| 9th | No trace +3, sneak attack +5d6 |
-| 10th | Master tricks, ninja trick |
-| 11th | Sneak attack +6d6 |
-| 12th | Ninja trick, no trace +4 |
-| 13th | Sneak attack +7d6 |
-| 14th | Ninja trick |
-| 15th | No trace +5, sneak attack +8d6 |
-| 16th | Ninja trick |
-| 17th | Sneak attack +9d6 |
-| 18th | Ninja trick, no trace +6 |
-| 19th | Sneak attack +10d6 |
-| 20th | Hidden master, ninja trick |
+| Level | Special                               |
+| ----- | ------------------------------------- |
+| 1st   | Poison use, sneak attack +1d6         |
+| 2nd   | Ki pool, ninja trick                  |
+| 3rd   | No trace +1, sneak attack +2d6        |
+| 4th   | Ninja trick, uncanny dodge            |
+| 5th   | Sneak attack +3d6                     |
+| 6th   | Light steps, ninja trick, no trace +2 |
+| 7th   | Sneak attack +4d6                     |
+| 8th   | Improved uncanny dodge, ninja trick   |
+| 9th   | No trace +3, sneak attack +5d6        |
+| 10th  | Master tricks, ninja trick            |
+| 11th  | Sneak attack +6d6                     |
+| 12th  | Ninja trick, no trace +4              |
+| 13th  | Sneak attack +7d6                     |
+| 14th  | Ninja trick                           |
+| 15th  | No trace +5, sneak attack +8d6        |
+| 16th  | Ninja trick                           |
+| 17th  | Sneak attack +9d6                     |
+| 18th  | Ninja trick, no trace +6              |
+| 19th  | Sneak attack +10d6                    |
+| 20th  | Hidden master, ninja trick            |
 
 ###### Class Features
 
@@ -106,4 +106,4 @@ If a character already has uncanny dodge from another class, the levels from the
 
 **Master Tricks**: At 10th level, and every two levels thereafter, a ninja can select one of the following master tricks in place of a ninja trick: [[rangoric-srd/class-options/ninja-tricks/Advanced Talents (Ninja Trick)|advanced talents]], [[rangoric-srd/class-options/ninja-tricks/Assassinate (Ninja Trick)|assassinate]], [[rangoric-srd/class-options/ninja-tricks/Blinding Bomb (Ninja Trick)|blinding bomb]], [[rangoric-srd/class-options/ninja-tricks/Deadly Shuriken (Ninja Trick)|deadly shuriken]], [[rangoric-srd/class-options/ninja-tricks/Deep Cover (Ninja Trick)|deep cover]], [[rangoric-srd/class-options/ninja-tricks/Evasion (Ninja Trick)|evasion]], [[rangoric-srd/class-options/rogue-talents/Feat (Rogue Talent)|feat]], [[rangoric-srd/class-options/ninja-tricks/Ghost Step (Ninja Trick)|ghost step]], [[rangoric-srd/class-options/ninja-tricks/Invisible Blade (Ninja Trick)|invisible blade]], [[rangoric-srd/class-options/ninja-tricks/Master Disguise (Ninja Trick)|master disguise]], [[rangoric-srd/class-options/ninja-tricks/See the Unseen (Ninja Trick)|see the unseen]], [[rangoric-srd/class-options/ninja-tricks/Shadow Split (Ninja Trick)|shadow split]], [[rangoric-srd/class-options/ninja-tricks/Unarmed Combat Mastery (Ninja Trick)|unarmed combat mastery]], [[rangoric-srd/class-options/ninja-tricks/Unbound Steps (Ninja Trick)|unbound steps]]. ^ninja-master-tricks
 
-**Hidden Master (Su)**: At 20th level, a ninja becomes a true master of her art. She can, as a standard action, cast *[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]* on herself. While invisible in this way, she cannot be detected by any means, and not even *[[rangoric-srd/spells/Invisibility Purge|invisibility purge]]*, *[[rangoric-srd/spells/See Invisibility|see invisibility]]*, and *[[rangoric-srd/spells/True Seeing|true seeing]]* can reveal her. She uses her ninja level as her caster level for this ability. Using this ability consumes 3 ki points from her ki pool. In addition, whenever the ninja deals sneak attack damage, she can sacrifice additional damage dice to apply a penalty to one ability score of the target equal to the number of dice sacrificed for 1 minute. This penalty does not stack with itself and cannot reduce an ability score below 1. ^ninja-hidden-master
+**Hidden Master (Su)**: At 20th level, a ninja becomes a true master of her art. She can, as a standard action, cast _[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]_ on herself. While invisible in this way, she cannot be detected by any means, and not even _[[rangoric-srd/spells/Invisibility Purge|invisibility purge]]_, _[[rangoric-srd/spells/See Invisibility|see invisibility]]_, and _[[rangoric-srd/spells/True Seeing|true seeing]]_ can reveal her. She uses her ninja level as her caster level for this ability. Using this ability consumes 3 ki points from her ki pool. In addition, whenever the ninja deals sneak attack damage, she can sacrifice additional damage dice to apply a penalty to one ability score of the target equal to the number of dice sacrificed for 1 minute. This penalty does not stack with itself and cannot reduce an ability score below 1. ^ninja-hidden-master

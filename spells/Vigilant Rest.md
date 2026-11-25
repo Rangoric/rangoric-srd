@@ -36,16 +36,16 @@ tags: [rangoric, rangoric/spell]
 
 # Vigilant Rest
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Apl 3, Brd 4, Hun 3, Med 3, Mes 4, Occ 3, Pal 3, Psy 4, Rgr 3, Skd 4, Spi 4, Wit 4
-  - **Components**: V, S, M (a handful of crushed glass)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: 1 living creature touched
-  - **Duration**: 8 hour(s)
-  - **Saving Throw**: Will
-  - **Spell Resistance**: Yes
+- **Level**: Apl 3, Brd 4, Hun 3, Med 3, Mes 4, Occ 3, Pal 3, Psy 4, Rgr 3, Skd 4, Spi 4, Wit 4
+- **Components**: V, S, M (a handful of crushed glass)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: 1 living creature touched
+- **Duration**: 8 hour(s)
+- **Saving Throw**: Will
+- **Spell Resistance**: Yes
 
 While the target of this spell is asleep, she retains some of her normal powers of perception. While she tunes out harmless sounds such as the crackling of the campfire, crickets, or light breezes, she does not take the normal +10 modifier to the DC of Perception checks she attempts while asleep.
 

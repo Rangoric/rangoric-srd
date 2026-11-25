@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Tzitzimitl
 
-  - Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
-  - **Hit Dice**: 22d8+220 (319 hp)
-  - **Initiative**: +9
-  - **Speed**: 50 ft. (10 squares), fly 60 ft. (good)
-  - **Armor Class**: 35 (+5 Dex, +24 natural, –4 size), touch 11, flat-footed 30
-  - **Base Attack**: +16; **CMB**: +34 (36 bull rush); **CMD**: 49 (51 vs. bull rush)
-  - **Attack**: Bite +26 melee (2d8+14 plus 3d6 electricity and [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) or claw +27 melee (2d6+14/19–20 plus 3d6 electricity) or eye beam +17 ranged touch (10d6 electricity and 10d6 force)
-  - **Full Attack**: Bite +26 melee (2d8+14 plus 3d6 electricity and [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) and 2 claws +27 melee (2d6+14/19–20 plus 3d6 electricity); or eye beam +17 ranged touch (10d6 electricity and 10d6 force)
-  - **Space/Reach**: 20 ft./20 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Eclipse|Eclipse]], [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (2 levels, DC 31), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: Arcane sight, [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., true seeing, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 15, [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Light to Dark|light to dark]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/bludgeoning and good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and electricity, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 15, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 30
-  - **Saves**: Fort +17, Ref +14, Will +19
-  - **Abilities**: Str 39, Dex 21, Con —, Int 20, Wis 23, Cha 30
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +35, [[rangoric-srd/skills/Arcana|Arcana]] +28, [[rangoric-srd/skills/Emulation|Emulation]] +30, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +21, [[rangoric-srd/skills/Mysticism|Mysticism]] +23, [[rangoric-srd/skills/Nature|Nature]] +27, [[rangoric-srd/skills/Perception|Perception]] +31, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +31, [[rangoric-srd/skills/Theology|Theology]] +30
-  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 19
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
+- **Hit Dice**: 22d8+220 (319 hp)
+- **Initiative**: +9
+- **Speed**: 50 ft. (10 squares), fly 60 ft. (good)
+- **Armor Class**: 35 (+5 Dex, +24 natural, –4 size), touch 11, flat-footed 30
+- **Base Attack**: +16; **CMB**: +34 (36 bull rush); **CMD**: 49 (51 vs. bull rush)
+- **Attack**: Bite +26 melee (2d8+14 plus 3d6 electricity and [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) or claw +27 melee (2d6+14/19–20 plus 3d6 electricity) or eye beam +17 ranged touch (10d6 electricity and 10d6 force)
+- **Full Attack**: Bite +26 melee (2d8+14 plus 3d6 electricity and [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) and 2 claws +27 melee (2d6+14/19–20 plus 3d6 electricity); or eye beam +17 ranged touch (10d6 electricity and 10d6 force)
+- **Space/Reach**: 20 ft./20 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Eclipse|Eclipse]], [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (2 levels, DC 31), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: Arcane sight, [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., true seeing, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 15, [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Light to Dark|light to dark]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/bludgeoning and good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and electricity, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 15, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 30
+- **Saves**: Fort +17, Ref +14, Will +19
+- **Abilities**: Str 39, Dex 21, Con —, Int 20, Wis 23, Cha 30
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +35, [[rangoric-srd/skills/Arcana|Arcana]] +28, [[rangoric-srd/skills/Emulation|Emulation]] +30, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +21, [[rangoric-srd/skills/Mysticism|Mysticism]] +23, [[rangoric-srd/skills/Nature|Nature]] +27, [[rangoric-srd/skills/Perception|Perception]] +31, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +31, [[rangoric-srd/skills/Theology|Theology]] +30
+- **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 19
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Enigmatic creatures of darkness, some cultures claim tzitzimitls attack and consume entire suns to “shut down worlds” in preparation for the end of days. Sages say that these creatures come from the cold, dark places between the stars, and that in the darkness of any eclipse, one can see their immense, world-darkening shadows.
 
@@ -73,7 +73,7 @@ Tzitzimitls speak Abyssal, Aklo, Celestial and Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 19th; concentration +29): Constant—*[[rangoric-srd/spells/Arcane Sight|arcane sight]]*, *[[rangoric-srd/spells/Fly|fly]]*, *[[rangoric-srd/spells/True Seeing|true seeing]]*; At will—*[[rangoric-srd/spells/Bestow Curse|bestow curse]]* (DC 24), *[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]*; 3/day—*[[rangoric-srd/spells/Animate Dead|animate dead]]*, *[[rangoric-srd/spells/Contagion|contagion]]* (DC 24), *[[rangoric-srd/spells/Teleport, Greater|greater teleport]]*, *[[rangoric-srd/spells/Haste|haste]]*; 1/day—*[[rangoric-srd/spells/Create Undead|create undead]]*, *[[rangoric-srd/spells/Temporal Stasis|temporal stasis]]* (DC 28), *[[rangoric-srd/spells/Wail of the Banshee|wail of the banshee]]* (DC 29).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 19th; concentration +29): Constant—_[[rangoric-srd/spells/Arcane Sight|arcane sight]]_, _[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/True Seeing|true seeing]]_; At will—_[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (DC 24), _[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_; 3/day—_[[rangoric-srd/spells/Animate Dead|animate dead]]_, _[[rangoric-srd/spells/Contagion|contagion]]_ (DC 24), _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_, _[[rangoric-srd/spells/Haste|haste]]_; 1/day—_[[rangoric-srd/spells/Create Undead|create undead]]_, _[[rangoric-srd/spells/Temporal Stasis|temporal stasis]]_ (DC 28), _[[rangoric-srd/spells/Wail of the Banshee|wail of the banshee]]_ (DC 29).
 
 **[[rangoric-srd/monsters/abilities/Eclipse|Eclipse]] (Su)**: Anytime a tzitzimitl casts deeper darkness, any creatures in the area of darkness when it is created take 8d6 points of cold damage (DC 31 Fortitude for half). Any creature that takes damage from this effect becomes [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] as long as it remains in the area of darkness and for 1d4 rounds after it leaves that area. The save DC is Charisma-based.
 

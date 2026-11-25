@@ -18,12 +18,12 @@ tags: [rangoric, rangoric/class-option]
 
 # Flesh of Wood
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Defense Wild Talents|defense wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Defense Wild Talents|defense wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Wood Element|wood]]
-  - **Type**: defense (Su)
-  - **Level**: —
-  - **Burn**: 0
+- **Element**: [[rangoric-srd/class-options/elements/Wood Element|wood]]
+- **Type**: defense (Su)
+- **Level**: —
+- **Burn**: 0
 
 Your skin toughens like timber and can turn aside some blows. You gain a +1 enhancement bonus to your existing natural armor bonus. By accepting 1 point of [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]], you can increase this enhancement bonus by 1. For every 3 levels beyond 2nd, you can accept 1 additional point of burn to further increase this enhancement bonus by 1 (to a maximum of +7 at 17th level).
 

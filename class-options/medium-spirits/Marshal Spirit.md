@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Marshal Spirit
 
-*A legend of [[rangoric-srd/classes/Medium (Class)#^medium-spirit|spirits]] for the [[rangoric-srd/classes/Medium (Class)|medium]].* A marshal spirit is a towering presence and an inspiration to others.
+_A legend of [[rangoric-srd/classes/Medium (Class)#^medium-spirit|spirits]] for the [[rangoric-srd/classes/Medium (Class)|medium]]._ A marshal spirit is a towering presence and an inspiration to others.
 
 **Spirit Bonus**: When you channel a marshal, your spirit bonus applies on Charisma checks and Charisma-based skill checks, as well as on spirit surge rolls. This allows the bonus to apply twice to the total result if you use a spirit surge on a Charisma check or on a Charisma-based skill check. ^marshal-spirit-bonus
 

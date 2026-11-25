@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Multimorph
 
-*An [[rangoric-srd/classes/Wizard#^wizard-arcane-discoveries|arcane discovery]] (Su).*
+_An [[rangoric-srd/classes/Wizard#^wizard-arcane-discoveries|arcane discovery]] (Su)._
 
 Your studies in transmogrification have increased your control over shapechanging spells. When you cast a spell of the polymorph subschool on yourself, you may expend 1 minute of the spell's duration as a standard action to assume another form allowed by the spell. You can do this as often as you like, subject to the duration of the spell. You must be at least a 5th-level wizard to select this discovery.

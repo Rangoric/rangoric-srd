@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Searing Arrow
 
-This *+1 flaming arrow* continues to burn its target each round, dealing 1d6 fire damage on the attacker's turn for the next 3 rounds. Removing the arrow requires a DC 10 [[rangoric-srd/actions/First Aid|First Aid]] check and prevents any further damage from the arrow (the DC increases to 15 if the target tries to remove the arrow from himself). Removing the arrow destroys it, and it burns up once the 3 rounds pass.
+This _+1 flaming arrow_ continues to burn its target each round, dealing 1d6 fire damage on the attacker's turn for the next 3 rounds. Removing the arrow requires a DC 10 [[rangoric-srd/actions/First Aid|First Aid]] check and prevents any further damage from the arrow (the DC increases to 15 if the target tries to remove the arrow from himself). Removing the arrow destroys it, and it burns up once the 3 rounds pass.
 
-Moderate evocation; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Flame Blade|flame blade]]*, *[[rangoric-srd/spells/Flame Strike|flame strike]]*, or *[[rangoric-srd/spells/Fireball|fireball]]*; Price 1,516 gp; Cost 758 gp.
+Moderate evocation; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Flame Blade|flame blade]]_, _[[rangoric-srd/spells/Flame Strike|flame strike]]_, or _[[rangoric-srd/spells/Fireball|fireball]]_; Price 1,516 gp; Cost 758 gp.

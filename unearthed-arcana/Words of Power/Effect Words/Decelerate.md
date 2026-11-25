@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/word-of-power]
 
 # Decelerate
 
-*One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Time Words|Time group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]].*
+_One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Time Words|Time group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]]._
 
 **School** transmutation
 

@@ -24,12 +24,12 @@ Too precarious and riddled with faults and cracks to properly mine, the Big Rock
 
 **Seasons:** The barren Big Rock Mountains and its inhabitants experience a moderate climate.
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* Lakes in the region are often used as fey *doorways*, with the surface being the *doorway* itself.
+_Common:_ Lakes in the region are often used as fey _doorways_, with the surface being the _doorway_ itself.
 
-*Uncommon:* The *doorway* to the Halls of the Fallen is at the edge of an empty meadow. If you possess the right key, the stone-paved road to the Halls is revealed to you. Only the royalty know what and where the keys are.
+_Uncommon:_ The _doorway_ to the Halls of the Fallen is at the edge of an empty meadow. If you possess the right key, the stone-paved road to the Halls is revealed to you. Only the royalty know what and where the keys are.
 
-*Rare:* Many caves pierce the rock between the mountainous surface and the depths of the Great Scar, providing the denizens of Between a means of easy access to the Twilight Lands.
+_Rare:_ Many caves pierce the rock between the mountainous surface and the depths of the Great Scar, providing the denizens of Between a means of easy access to the Twilight Lands.
 
-*Obscure:* -
+_Obscure:_ -

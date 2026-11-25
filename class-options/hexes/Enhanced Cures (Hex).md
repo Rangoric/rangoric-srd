@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Enhanced Cures
 
-*A [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]] (Su) of the [[rangoric-srd/class-options/spirits/Life Spirit|life spirit]].*
+_A [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]] (Su) of the [[rangoric-srd/class-options/spirits/Life Spirit|life spirit]]._
 
-When the shaman casts a cure spell, the maximum number of hit points healed is based on her shaman level, not the limit imposed by the spell. For example an 11th-level shaman with this hex can cast *[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]* to heal 1d8+11 hit points instead of the normal 1d8+5 maximum.
+When the shaman casts a cure spell, the maximum number of hit points healed is based on her shaman level, not the limit imposed by the spell. For example an 11th-level shaman with this hex can cast _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_ to heal 1d8+11 hit points instead of the normal 1d8+5 maximum.

@@ -15,8 +15,8 @@ tags: [rangoric, rangoric/feat, racial]
 
 You can move between the Shadow Plane and the Material Plane more often.
 
-**Prerequisites**: [[rangoric-srd/races/Fetchling|Fetchling]], *[[rangoric-srd/spells/Shadow Walk|shadow walk]]* spell-like ability.
+**Prerequisites**: [[rangoric-srd/races/Fetchling|Fetchling]], _[[rangoric-srd/spells/Shadow Walk|shadow walk]]_ spell-like ability.
 
-**Benefit**: You gain the ability to use *[[rangoric-srd/spells/Shadow Walk|shadow walk]]* an additional time each day.
+**Benefit**: You gain the ability to use _[[rangoric-srd/spells/Shadow Walk|shadow walk]]_ an additional time each day.
 
 **Special**: You may select this feat multiple times. Its effects stack.

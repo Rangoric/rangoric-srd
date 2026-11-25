@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Astral Projection
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Clr 9, Psy 9, Sor/Wiz 9, Travel 9, Wit 9
-  - **Components**: V, S, M
-  - **Casting Time**: 30 minutes
-  - **Range**: Touch
-  - **Targets**: You plus one additional willing creature touched per two caster levels
-  - **Duration**: See text
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Clr 9, Psy 9, Sor/Wiz 9, Travel 9, Wit 9
+- **Components**: V, S, M
+- **Casting Time**: 30 minutes
+- **Range**: Touch
+- **Targets**: You plus one additional willing creature touched per two caster levels
+- **Duration**: See text
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 By freeing your spirit from your physical body, this spell allows you to project an astral body onto another plane altogether.
 
@@ -49,4 +49,4 @@ While you are on the Astral Plane, your astral body is connected at all times to
 
 You and your companions may travel through the Astral Plane indefinitely. Your bodies simply wait behind in a state of suspended animation until you choose to return your spirits to them. The spell lasts until you desire to end it, or until it is terminated by some outside means, such as dispel magic cast upon either the physical body or the astral form, the breaking of the silver cord, or the destruction of your body back on the Material Plane (which kills you).
 
-*Material Component*: A jacinth worth at least 1,000 gp, plus a silver bar worth 5 gp for each person to be affected.
+_Material Component_: A jacinth worth at least 1,000 gp, plus a silver bar worth 5 gp for each person to be affected.

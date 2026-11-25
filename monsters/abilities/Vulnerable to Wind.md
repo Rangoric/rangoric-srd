@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Vulnerable to Wind
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “vulnerable to wind”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “vulnerable to wind”, on the Special Qualities line.
 
 A hungry fog is treated as a Tiny creature for the purposes of determining the effects high wind has upon it. The [[rangoric-srd/monsters/ooze/Hungry Fog|hungry fog]] has it.

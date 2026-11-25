@@ -34,7 +34,7 @@ Target: One humanoid
 Duration: Concentration + 1 round  
 Saving Throw: Will negates  
 Power Resistance: Yes  
-Power Points: 3  
+Power Points: 3
 
 The subject’s higher mind is locked away. He is [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] and cannot take psionic actions (including manifesting powers or using psionic feats that require a decision to be used) for the duration of the power.
 

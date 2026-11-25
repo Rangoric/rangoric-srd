@@ -26,4 +26,4 @@ Materials with more than 8 points of hardness are still affected, though not so 
 
 The gloves only affect shaping materials with the wearer's hands or handheld tools, and only when the wearer desires to do so.
 
-Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Soften Earth and Stone|soften earth and stone]]*, *[[rangoric-srd/spells/Stone Shape|stone shape]]*, *[[rangoric-srd/spells/Transmute Rock to Mud|transmute rock to mud]]*; Price 10,000 gp; Cost 5,000 gp.
+Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Soften Earth and Stone|soften earth and stone]]_, _[[rangoric-srd/spells/Stone Shape|stone shape]]_, _[[rangoric-srd/spells/Transmute Rock to Mud|transmute rock to mud]]_; Price 10,000 gp; Cost 5,000 gp.

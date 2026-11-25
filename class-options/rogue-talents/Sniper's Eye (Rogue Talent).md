@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Sniper's Eye
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex).*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex)._
 
 A rogue with this talent can apply her [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] damage on ranged attacks targeting foes within 30 feet that benefit from concealment. Foes with total concealment are still immune.

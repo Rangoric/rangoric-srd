@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/monster]
 
 Leshys are nature spirits given bodies of living plants; each kind below is grown from a different plant.
 
-  - [[rangoric-srd/monsters/leshy/Fungus Leshy|Fungus Leshy]]
-  - [[rangoric-srd/monsters/leshy/Gourd Leshy|Gourd Leshy]]
-  - [[rangoric-srd/monsters/leshy/Leaf Leshy|Leaf Leshy]]
-  - [[rangoric-srd/monsters/leshy/Seaweed Leshy|Seaweed Leshy]]
+- [[rangoric-srd/monsters/leshy/Fungus Leshy|Fungus Leshy]]
+- [[rangoric-srd/monsters/leshy/Gourd Leshy|Gourd Leshy]]
+- [[rangoric-srd/monsters/leshy/Leaf Leshy|Leaf Leshy]]
+- [[rangoric-srd/monsters/leshy/Seaweed Leshy|Seaweed Leshy]]

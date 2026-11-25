@@ -18,12 +18,12 @@ tags: [rangoric, rangoric/class-option]
 
 # Self Telekinesis, Greater
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Aether Element|aether]]
-  - **Type**: utility (Sp)
-  - **Level**: 5
-  - **Burn**: 0
-  - **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Self Telekinesis|self telekinesis]]
+- **Element**: [[rangoric-srd/class-options/elements/Aether Element|aether]]
+- **Type**: utility (Sp)
+- **Level**: 5
+- **Burn**: 0
+- **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Self Telekinesis|self telekinesis]]
 
 You have greater control over your [[rangoric-srd/class-options/wild-talents/Self Telekinesis|self telekinesis]]. Otherwise, this wild talent functions like [[rangoric-srd/class-options/wild-talents/Flame Jet, Greater|greater flame jet]].

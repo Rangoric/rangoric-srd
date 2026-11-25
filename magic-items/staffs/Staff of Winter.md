@@ -17,11 +17,11 @@ tags: [rangoric, rangoric/magic-item, epic]
 
 # Staff of Winter
 
-This staff allows the use of the following spells.  
+This staff allows the use of the following spells.
 
-  - Cone of cold (intensified, 2 charges, DC 28)
-  - Ice storm (intensified, 2 charges, DC 26)
-  - Freezing sphere (intensified, 2 charges, DC 29)
-  - Wall of ice (1 charge)  
+- Cone of cold (intensified, 2 charges, DC 28)
+- Ice storm (intensified, 2 charges, DC 26)
+- Freezing sphere (intensified, 2 charges, DC 29)
+- Wall of ice (1 charge)
 
 Caster Level: 24th; Prerequisites: Craft Staff, Craft Epic Staff, Extend Spell, Intensify Spell, cone of cold, ice storm, freezing sphere, wall of ice; Market Price: 292,500 gp.

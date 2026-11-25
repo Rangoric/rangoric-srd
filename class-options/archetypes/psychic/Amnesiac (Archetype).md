@@ -15,11 +15,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Amnesiac
 
-*A [[rangoric-srd/classes/Psychic (Class)#^psychic-archetypes|psychic]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Psychic (Class)#^psychic-archetypes|psychic]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 An amnesiac once held great psychic power but has forgotten what she knew; her struggle to control her magic gives wild and unpredictable results.
 
-**Repressed Memories**: All the amnesiac's older memories have been deeply hidden, as though she had been affected by multiple *[[rangoric-srd/spells/Repress Memory|repress memory]]* spells. She isn't prevented from remembering things that happen over the course of a game, but might be forgetful. If the amnesiac's memories are ever restored, she loses this archetype and reverts to a standard psychic.
+**Repressed Memories**: All the amnesiac's older memories have been deeply hidden, as though she had been affected by multiple _[[rangoric-srd/spells/Repress Memory|repress memory]]_ spells. She isn't prevented from remembering things that happen over the course of a game, but might be forgetful. If the amnesiac's memories are ever restored, she loses this archetype and reverts to a standard psychic.
 
 **Spells**: An amnesiac's ability to cast psychic spells is the same as that of the psychic class, with the following exceptions.
 
@@ -31,9 +31,9 @@ This change to spells doesn't apply to [[rangoric-srd/classes/Psychic (Class)#^p
 
 **Spell Recollection** ^table-spell-recollection
 
-| d% | Result |
-| --- | --- |
-| 1–10 | The amnesiac is unable to cast spells this round. |
-| 11–35 | The amnesiac can't remember the new spell (but can still cast spells this round). |
-| 36–95 | The amnesiac remembers and can cast the new spell. |
-| 96+ | The amnesiac can choose to treat this result as 36–95. Alternatively, once per day, she can instead temporarily recall any spell from the psychic spell list that's 1 level higher than the spell she's attempting to remember. When she does, her caster level counts as the minimum caster level required to cast the higher-level spell, and she forgets the spell after it's cast. |
+| d%    | Result                                                                                                                                                                                                                                                                                                                                                                                 |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1–10  | The amnesiac is unable to cast spells this round.                                                                                                                                                                                                                                                                                                                                      |
+| 11–35 | The amnesiac can't remember the new spell (but can still cast spells this round).                                                                                                                                                                                                                                                                                                      |
+| 36–95 | The amnesiac remembers and can cast the new spell.                                                                                                                                                                                                                                                                                                                                     |
+| 96+   | The amnesiac can choose to treat this result as 36–95. Alternatively, once per day, she can instead temporarily recall any spell from the psychic spell list that's 1 level higher than the spell she's attempting to remember. When she does, her caster level counts as the minimum caster level required to cast the higher-level spell, and she forgets the spell after it's cast. |

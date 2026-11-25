@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Mudlord
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Earth, Elemental, Water)
-  - **Hit Dice**: 9d10+18 (67 hp)
-  - **Initiative**: +7
-  - **Speed**: 30 ft. (6 squares), swim 40 ft.
-  - **Armor Class**: 19 (+3 Dex, +6 natural), touch 13, flat-footed 16
-  - **Base Attack**: +9; **CMB**: +12; **CMD**: 25 (can't be tripped)
-  - **Attack**: Slam +13 melee (2d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or mudball +12 ranged touch (blindness)
-  - **Full Attack**: 2 slams +13 melee (2d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]); or mudball +12 ranged touch (blindness)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Engulf (DC 17, 1d6+3 bludgeoning and [[rangoric-srd/monsters/abilities/Smother|smother]]), [[rangoric-srd/monsters/abilities/Smother|smother]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Freeze|freeze]] (mud puddle), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17, [[rangoric-srd/monsters/abilities/Vulnerable to Magic|vulnerable to magic]]
-  - **Saves**: Fort +8, Ref +9, Will +4
-  - **Abilities**: Str 17, Dex 16, Con 14, Int 10, Wis 13, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +15, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +18, [[rangoric-srd/skills/Theology|Theology]] +6
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)
-  - **Environment**: Temperate or warm marshes or underground
-  - **Organization**: Solitary, pair, or gang (3–12)
-  - **Challenge Rating**: 6
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Earth, Elemental, Water)
+- **Hit Dice**: 9d10+18 (67 hp)
+- **Initiative**: +7
+- **Speed**: 30 ft. (6 squares), swim 40 ft.
+- **Armor Class**: 19 (+3 Dex, +6 natural), touch 13, flat-footed 16
+- **Base Attack**: +9; **CMB**: +12; **CMD**: 25 (can't be tripped)
+- **Attack**: Slam +13 melee (2d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or mudball +12 ranged touch (blindness)
+- **Full Attack**: 2 slams +13 melee (2d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]); or mudball +12 ranged touch (blindness)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Engulf (DC 17, 1d6+3 bludgeoning and [[rangoric-srd/monsters/abilities/Smother|smother]]), [[rangoric-srd/monsters/abilities/Smother|smother]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Freeze|freeze]] (mud puddle), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17, [[rangoric-srd/monsters/abilities/Vulnerable to Magic|vulnerable to magic]]
+- **Saves**: Fort +8, Ref +9, Will +4
+- **Abilities**: Str 17, Dex 16, Con 14, Int 10, Wis 13, Cha 7
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +15, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +18, [[rangoric-srd/skills/Theology|Theology]] +6
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)
+- **Environment**: Temperate or warm marshes or underground
+- **Organization**: Solitary, pair, or gang (3–12)
+- **Challenge Rating**: 6
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Mudlords are agile creatures made of living mud. Some are natural elemental creatures, and others were created by long-term mixing of earth and magical water, such as by an enchanted fountain or pool leaking into the surrounding soil.
 

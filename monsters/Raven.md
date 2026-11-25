@@ -36,30 +36,31 @@ change: modified
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---
+
 # Raven
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 1d8–1 (3 hp)
-  - **Initiative**: +2
-  - **Speed**: 10 ft. (2 squares), fly 40 ft. (average)
-  - **Armor Class**: 14 (+2 Dex, +2 size), touch 14, flat-footed 12
-  - **Base Attack**: +0; **CMB**: +0; **CMD**: 6
-  - **Attack**: Bite +4 melee (1d3–4)
-  - **Full Attack**: Bite +4 melee (1d3–4)
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
-  - **Saves**: Fort +1, Ref +4, Will +2
-  - **Abilities**: Str 2, Dex 15, Con 8, Int 2, Wis 15, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Perception|Perception]] +3
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any temperate
-  - **Organization**: Solitary, pair, flock (3–12), or unkindness (13–100)
-  - **Challenge Rating**: 1/6
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 1d8–1 (3 hp)
+- **Initiative**: +2
+- **Speed**: 10 ft. (2 squares), fly 40 ft. (average)
+- **Armor Class**: 14 (+2 Dex, +2 size), touch 14, flat-footed 12
+- **Base Attack**: +0; **CMB**: +0; **CMD**: 6
+- **Attack**: Bite +4 melee (1d3–4)
+- **Full Attack**: Bite +4 melee (1d3–4)
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
+- **Saves**: Fort +1, Ref +4, Will +2
+- **Abilities**: Str 2, Dex 15, Con 8, Int 2, Wis 15, Cha 7
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Perception|Perception]] +3
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any temperate
+- **Organization**: Solitary, pair, flock (3–12), or unkindness (13–100)
+- **Challenge Rating**: 1/6
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The raven is an omnivorous scavenger that eats carrion, insects, food waste, berries, and even small animals.
 

@@ -27,21 +27,18 @@ tags: [rangoric, rangoric/spell]
 
 # Detect Mindscape
 
-*Divination*
+_Divination_
 
-  - **Level**: Med 2, Mes 2, Psy 2, Sor/Wiz 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: 60 ft.
-  - **Area**: Cone-shaped emanation
-  - **Duration**: Concentration, up to 1 minute/level
-  - **Saving Throw**: Will negates; see text
-  - **Spell Resistance**: No
+- **Level**: Med 2, Mes 2, Psy 2, Sor/Wiz 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: 60 ft.
+- **Area**: Cone-shaped emanation
+- **Duration**: Concentration, up to 1 minute/level
+- **Saving Throw**: Will negates; see text
+- **Spell Resistance**: No
 
 This spell functions similarly to [[rangoric-srd/spells/Detect Thoughts|detect thoughts]], allowing you to sense when one or more creatures' consciousnesses are inside a [[rangoric-srd/rules/Mindscapes|mindscape]]. The amount of information revealed depends on how long you study a particular subject.
-
-
-
 
 Each round, you can turn to detect mindscapes in a new area. The spell can penetrate many barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it.
 

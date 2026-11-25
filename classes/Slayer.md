@@ -43,28 +43,28 @@ The slayer’s class skills (and the key ability for each skill) are [[rangoric-
 
 **Table: The Slayer** ^table-the-slayer
 
-| Level | Special |
-| --- | --- |
-| 1st | 1st studied target, track |
-| 2nd | Slayer talent |
-| 3rd | Sneak attack +1d6 |
-| 4th | Slayer talent |
-| 5th | 2nd studied target |
-| 6th | Slayer talent, sneak attack +2d6 |
-| 7th | Stalker |
-| 8th | Slayer talent |
-| 9th | Sneak attack +3d6 |
-| 10th | 3rd studied target, advanced talents, slayer talent |
-| 11th | Swift tracker |
-| 12th | Slayer talent, sneak attack +4d6 |
-| 13th | Slayer's advance 1/day |
-| 14th | Quarry, slayer talent |
-| 15th | 4th studied target, sneak attack +5d6 |
-| 16th | Slayer talent |
-| 17th | Slayer's advance 2/day |
-| 18th | Slayer talent, sneak attack +6d6 |
-| 19th | Improved quarry |
-| 20th | 5th studied target, master slayer, slayer talent |
+| Level | Special                                             |
+| ----- | --------------------------------------------------- |
+| 1st   | 1st studied target, track                           |
+| 2nd   | Slayer talent                                       |
+| 3rd   | Sneak attack +1d6                                   |
+| 4th   | Slayer talent                                       |
+| 5th   | 2nd studied target                                  |
+| 6th   | Slayer talent, sneak attack +2d6                    |
+| 7th   | Stalker                                             |
+| 8th   | Slayer talent                                       |
+| 9th   | Sneak attack +3d6                                   |
+| 10th  | 3rd studied target, advanced talents, slayer talent |
+| 11th  | Swift tracker                                       |
+| 12th  | Slayer talent, sneak attack +4d6                    |
+| 13th  | Slayer's advance 1/day                              |
+| 14th  | Quarry, slayer talent                               |
+| 15th  | 4th studied target, sneak attack +5d6               |
+| 16th  | Slayer talent                                       |
+| 17th  | Slayer's advance 2/day                              |
+| 18th  | Slayer talent, sneak attack +6d6                    |
+| 19th  | Improved quarry                                     |
+| 20th  | 5th studied target, master slayer, slayer talent    |
 
 ###### Class Features
 

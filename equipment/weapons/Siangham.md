@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/monk, eastern]
 
 # Siangham
 
-*Exotic light melee weapon.* Cost 3 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 1 lb.; Type Piercing. ^stats
+_Exotic light melee weapon._ Cost 3 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 1 lb.; Type Piercing. ^stats
 
 The siangham is a special monk weapon. This designation gives a monk wielding a siangham special options.

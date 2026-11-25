@@ -17,7 +17,7 @@ You were born with the power of earth genies, and the magic of the shaitans is s
 
 **Class Skill**: [[rangoric-srd/skills/Theology|Theology]].
 
-**Bonus Spells**: *[[rangoric-srd/spells/True Strike|true strike]]* (3rd), *[[rangoric-srd/spells/Glitterdust|glitterdust]]* (5th), *greater magic weapon* (7th), *[[rangoric-srd/spells/Stoneskin|stoneskin]]* (9th), *[[rangoric-srd/spells/Wall of Stone|wall of stone]]* (11th), *[[rangoric-srd/spells/Wall of Iron|wall of iron]]* (13th), *[[rangoric-srd/spells/Plane Shift|plane shift]]* (15th), *[[rangoric-srd/spells/Iron Body|iron body]]* (17th), *[[rangoric-srd/spells/Wish|wish]]* (19th).
+**Bonus Spells**: _[[rangoric-srd/spells/True Strike|true strike]]_ (3rd), _[[rangoric-srd/spells/Glitterdust|glitterdust]]_ (5th), _greater magic weapon_ (7th), _[[rangoric-srd/spells/Stoneskin|stoneskin]]_ (9th), _[[rangoric-srd/spells/Wall of Stone|wall of stone]]_ (11th), _[[rangoric-srd/spells/Wall of Iron|wall of iron]]_ (13th), _[[rangoric-srd/spells/Plane Shift|plane shift]]_ (15th), _[[rangoric-srd/spells/Iron Body|iron body]]_ (17th), _[[rangoric-srd/spells/Wish|wish]]_ (19th).
 
 **Bonus Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Empower Spell|Empower Spell]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Theology), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]].
 
@@ -37,6 +37,6 @@ Like a shaitan, you have both natural power over earth, and several other genie-
 
 ### Power of the Shaitan (Su)
 
-At 20th level, you gain the power of genies to grant wishes. Once per day, you can cast *[[rangoric-srd/spells/Limited Wish|limited wish]]* as a spell-like ability. Such wishes must begin with the words “I wish,” and cannot duplicate a wish you have granted within the past 24 hours. If you use this ability to duplicate a spell with a costly material component, you must provide that component.
+At 20th level, you gain the power of genies to grant wishes. Once per day, you can cast _[[rangoric-srd/spells/Limited Wish|limited wish]]_ as a spell-like ability. Such wishes must begin with the words “I wish,” and cannot duplicate a wish you have granted within the past 24 hours. If you use this ability to duplicate a spell with a costly material component, you must provide that component.
 
-You become immune to acid damage, and can use *[[rangoric-srd/spells/Plane Shift|plane shift]]* once per day to travel to or from the Plane of Earth.
+You become immune to acid damage, and can use _[[rangoric-srd/spells/Plane Shift|plane shift]]_ once per day to travel to or from the Plane of Earth.

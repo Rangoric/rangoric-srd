@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Second Chance Strike
 
-*A [[rangoric-srd/class-options/hunters-tricks/Hunter's Tricks|hunter’s trick]] (Ex), which a [[rangoric-srd/class-options/archetypes/ranger/Skirmisher (Archetype)|skirmisher]] ranger learns.*
+_A [[rangoric-srd/class-options/hunters-tricks/Hunter's Tricks|hunter’s trick]] (Ex), which a [[rangoric-srd/class-options/archetypes/ranger/Skirmisher (Archetype)|skirmisher]] ranger learns._
 
 When he misses with a melee attack, the ranger may reroll his attack at a –5 penalty. Using this ability is an immediate action.

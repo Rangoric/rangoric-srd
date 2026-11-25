@@ -27,7 +27,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Ink of Scribes’ Reprisal
 
-*Chymical/Toxin; Special*
+_Chymical/Toxin; Special_
 
 This mildly toxic ink dries quickly but always remains partially sticky and often causes a scroll to stick when rolled. If the ink is touched by exposed skin (usually to free a stuck scroll), the poison is absorbed through the pores and takes effect in seconds. Victims must make a Fort save (DC 15) twice to avoid either waves of nausea for 1d6 rounds or the follow-up of 2d12 points of nonlethal damage. The latter often leaves the ink’s victims unconscious and easily robbed (or killed by other means).
 

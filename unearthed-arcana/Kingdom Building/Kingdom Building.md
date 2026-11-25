@@ -35,7 +35,7 @@ Following the main rules and the types of buildings are several optional rules f
 
 Kingdoms have attributes that describe and define them. These are tracked on a kingdom sheet, like a character's statistics are on a character sheet.
 
-**Alignment**: Like a PC, your kingdom has an alignment, which you decide when you form the kingdom. The kingdom's alignment represents the majority outlook and behavior of the people within that kingdom when they're considered as a group. (Individual citizens and even some leaders may be of different alignments.) When you decide on your kingdom's alignment, apply the following adjustments to the kingdom's statistics: *Chaotic*: +2 Loyalty; *Evil*: +2 Economy; *Good*: +2 Loyalty; *Lawful*: +2 Economy; *Neutral*: Stability +2 (apply this twice if the kingdom's alignment is simply Neutral, not Chaotic Neutral or Lawful Neutral). A kingdom's alignment rarely changes, though at the GM's option, it can shift through the actions of its rulers or its people.
+**Alignment**: Like a PC, your kingdom has an alignment, which you decide when you form the kingdom. The kingdom's alignment represents the majority outlook and behavior of the people within that kingdom when they're considered as a group. (Individual citizens and even some leaders may be of different alignments.) When you decide on your kingdom's alignment, apply the following adjustments to the kingdom's statistics: _Chaotic_: +2 Loyalty; _Evil_: +2 Economy; _Good_: +2 Loyalty; _Lawful_: +2 Economy; _Neutral_: Stability +2 (apply this twice if the kingdom's alignment is simply Neutral, not Chaotic Neutral or Lawful Neutral). A kingdom's alignment rarely changes, though at the GM's option, it can shift through the actions of its rulers or its people.
 
 **Build Points**: Build points (or BP for short) are the measure of your kingdom's resources—equipment, labor, money, and so on. They're used to acquire new hexes and develop additional buildings, settlements, and terrain improvements. Your kingdom also consumes BP to maintain itself.
 
@@ -265,7 +265,7 @@ As the kingdom grows, the party gains experience points the first time it reache
 
 The units of a kingdom's wealth and productivity are build points (BP). Build points are an abstraction representing the kingdom's expendable assets, not just gold in the treasury. Build points include raw materials (such as livestock, lumber, land, seed, and ore), tangible goods (such as wagons, weapons, and candles), and people (artisans, laborers, and colonists). Together, these assets represent the labor and productive output of your citizens.
 
-You spend BP on tasks necessary to develop and protect your kingdom—planting farms, creating roads, constructing buildings, raising armies, and so on. These things are made at your command, but they are not *yours*. The cities, roads, farms, and buildings belong to the citizens who build them and use them to live and work every day, and those acts of living and working create more BP for the kingdom. As the leaders, you use your power and influence to direct the economic and constructive activity of your kingdom, deciding what gets built, when, and where.
+You spend BP on tasks necessary to develop and protect your kingdom—planting farms, creating roads, constructing buildings, raising armies, and so on. These things are made at your command, but they are not _yours_. The cities, roads, farms, and buildings belong to the citizens who build them and use them to live and work every day, and those acts of living and working create more BP for the kingdom. As the leaders, you use your power and influence to direct the economic and constructive activity of your kingdom, deciding what gets built, when, and where.
 
 Build points don't have a precise exchange rate to gold pieces because they don't represent exact amounts of specific resources. For example, you can't really equate the productivity of a blacksmith with that of a stable, as their goods are used for different things and aren't produced at the same rate, but both of them contribute to a kingdom's overall economy. In general, 1 BP is worth approximately 4,000 gp; use this value to get a sense of how costly various kingdom expenditures are. In practice, it is not a simple matter to convert one currency to the other, but there are certain ways for your PC to spend gp to increase the kingdom's BP or withdraw BP and turn them into gold for your character to spend.
 
@@ -299,12 +299,12 @@ This improved rate depends on the Size of your kingdom, as shown in the followin
 
 #### Kingdom Size
 
-| Kingdom Size | Price of 1 BP | Withdrawal Rate\* |
-| --- | --- | --- |
-| 01–25 | 1,000 gp | 500 gp |
-| 26–50 | 2,000 gp | 1,000 gp |
-| 51–100 | 3,000 gp | 1,500 gp |
-| 101+ | 4,000 gp | 2,000 gp |
-| \*If you make a withdrawal from the Treasury during the Income phase, use this withdrawal rate to determine how much gp you gain per BP withdrawn. |  |  |
+| Kingdom Size                                                                                                                                       | Price of 1 BP | Withdrawal Rate\* |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ----------------- |
+| 01–25                                                                                                                                              | 1,000 gp      | 500 gp            |
+| 26–50                                                                                                                                              | 2,000 gp      | 1,000 gp          |
+| 51–100                                                                                                                                             | 3,000 gp      | 1,500 gp          |
+| 101+                                                                                                                                               | 4,000 gp      | 2,000 gp          |
+| \*If you make a withdrawal from the Treasury during the Income phase, use this withdrawal rate to determine how much gp you gain per BP withdrawn. |               |                   |
 
 The GM may also allow you to discover a cache of goods worth BP (instead of gp) as a reward for adventuring, giving you the seed money to found or support your kingdom.

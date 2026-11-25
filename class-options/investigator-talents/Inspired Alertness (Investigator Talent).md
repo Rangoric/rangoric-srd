@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Inspired Alertness
 
-*An [[rangoric-srd/classes/Investigator#^investigator-investigator-talent|investigator talent]] (Ex).*
+_An [[rangoric-srd/classes/Investigator#^investigator-investigator-talent|investigator talent]] (Ex)._
 
 Whenever the investigator becomes [[rangoric-srd/rules/Special Abilities and Conditions#^flat-footed|flat-footed]], he can expend one use of inspiration to ignore that condition. He must be conscious to do so, and must decide to do so when he becomes flat-footed. Using this ability doesn’t require an action.

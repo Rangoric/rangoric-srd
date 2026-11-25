@@ -30,15 +30,15 @@ tags: [rangoric, rangoric/spell]
 
 # Pain Strike, Mass
 
-*Evocation \[Evil, Pain\]*
+_Evocation \[Evil, Pain\]_
 
-  - **Level**: Psy 4, Sor/Wiz 5, Spi 5, Wit 5
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Targets**: One living creature/level, no two of which can be more than 30 ft. apart
-  - **Duration**: 1 round/level (D)
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Psy 4, Sor/Wiz 5, Spi 5, Wit 5
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Targets**: One living creature/level, no two of which can be more than 30 ft. apart
+- **Duration**: 1 round/level (D)
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
-This spell works like *[[rangoric-srd/spells/Pain Strike|pain strike]]*, except as noted above.
+This spell works like _[[rangoric-srd/spells/Pain Strike|pain strike]]_, except as noted above.

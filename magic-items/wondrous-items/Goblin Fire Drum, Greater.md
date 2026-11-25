@@ -25,6 +25,6 @@ This small crude-looking drum is attached to a strap long enough to loop around 
 
 All unattended flammable alchemical objects such as tindertwigs, flasks of oil or alchemist's fire, and fireworks within this range have a 10% chance of spontaneously igniting or exploding (as appropriate to the item) when the drum activates. This chance increases by 5% each round and is checked at the start of the performer's turn as long as the playing continues.
 
-A *greater goblin fire drum* has all the above abilities and can *[[rangoric-srd/spells/Pyrotechnics|create pyrotechnics]]* once per day.
+A _greater goblin fire drum_ has all the above abilities and can _[[rangoric-srd/spells/Pyrotechnics|create pyrotechnics]]_ once per day.
 
-Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Pyrotechnics|pyrotechnics]]*, *[[rangoric-srd/spells/Spark|spark]]*; Price 4,500 gp; Cost 2,250 gp; Weight 1 lb.
+Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Pyrotechnics|pyrotechnics]]_, _[[rangoric-srd/spells/Spark|spark]]_; Price 4,500 gp; Cost 2,250 gp; Weight 1 lb.

@@ -31,7 +31,7 @@ Target: One Medium or smaller creature
 Duration: 1 round/level (D)  
 Saving Throw: Reflex negates  
 Power Resistance: No  
-Power Points: 5  
+Power Points: 5
 
 You draw writhing strands of ectoplasm from the Astral Plane that wrap up the subject like a mummy. The subject can still breathe but is otherwise [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]], unable to see outside the cocoon, speak, or take any physical actions. The subject’s nostrils are clear (air passes through the cocoon normally). The subject can execute purely mental actions (such as manifesting powers or casting spells with no verbal, somatic, or material components).
 

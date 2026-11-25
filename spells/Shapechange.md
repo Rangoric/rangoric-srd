@@ -25,14 +25,14 @@ tags: [rangoric, rangoric/spell]
 
 # Shapechange
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Animal 9, Drd 9, Sha 9, Sor/Wiz 9
-  - **Components**: V, S, F
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 10 min./level (D)
+- **Level**: Animal 9, Drd 9, Sha 9, Sor/Wiz 9
+- **Components**: V, S, F
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 10 min./level (D)
 
 This spell functions like [[rangoric-srd/spells/Polymorph|polymorph]], except that it enables you to assume the form of any single nonunique creature (of any type) from Fine to Colossal size. The assumed form cannot have more than your caster level in Hit Dice (to a maximum of 25 HD). Unlike polymorph, this spell allows [[rangoric-srd/rules/Special Abilities and Conditions#^incorporeal|incorporeal]] or gaseous forms to be assumed.
 
@@ -40,4 +40,4 @@ You gain all extraordinary and supernatural abilities (both attacks and qualitie
 
 You can become just about anything you are familiar with. You can change form once each round as a free action. The change takes place either immediately before your regular action or immediately after it, but not during the action. If you use this spell to create a disguise, you get a +10 bonus on your [[rangoric-srd/skills/Imitation|Imitation]] check.
 
-*Focus*: A jade circlet worth no less than 1,500 gp, which you must place on your head when casting the spell. (The focus melds into your new form when you change shape.)
+_Focus_: A jade circlet worth no less than 1,500 gp, which you must place on your head when casting the spell. (The focus melds into your new form when you change shape.)

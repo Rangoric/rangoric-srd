@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Pegasus
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 4d10+12 (34 hp)
-  - **Initiative**: +2
-  - **Speed**: 60 ft. (12 squares), fly 120 ft. (average)
-  - **Armor Class**: 14 (+2 Dex, +3 natural, –1 size), touch 11, flat-footed 12
-  - **Base Attack**: +4; **CMB**: +9; **CMD**: 21 (25 vs. trip)
-  - **Attack**: Bite +7 melee (1d3+4) or hoof +7 melee (1d6+2)
-  - **Full Attack**: Bite +7 melee (1d3+4) and 2 hooves +2 melee (1d6+2)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect evil, detect good, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +7, Ref +6, Will +4
-  - **Abilities**: Str 18, Dex 15, Con 16, Int 10, Wis 13, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7
-  - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Iron Will|Iron Will]]
-  - **Environment**: Temperate and warm plains; temperate forests
-  - **Organization**: Solitary, pair, or herd (6–10)
-  - **Challenge Rating**: 3
-  - **Treasure**: None
-  - **Alignment**: Usually chaotic good
-  - **Advancement**: 5–8 HD (Large)
-  - **Level Adjustment**: +2 (cohort)
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 4d10+12 (34 hp)
+- **Initiative**: +2
+- **Speed**: 60 ft. (12 squares), fly 120 ft. (average)
+- **Armor Class**: 14 (+2 Dex, +3 natural, –1 size), touch 11, flat-footed 12
+- **Base Attack**: +4; **CMB**: +9; **CMD**: 21 (25 vs. trip)
+- **Attack**: Bite +7 melee (1d3+4) or hoof +7 melee (1d6+2)
+- **Full Attack**: Bite +7 melee (1d3+4) and 2 hooves +2 melee (1d6+2)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect evil, detect good, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +7, Ref +6, Will +4
+- **Abilities**: Str 18, Dex 15, Con 16, Int 10, Wis 13, Cha 13
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7
+- **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Iron Will|Iron Will]]
+- **Environment**: Temperate and warm plains; temperate forests
+- **Organization**: Solitary, pair, or herd (6–10)
+- **Challenge Rating**: 3
+- **Treasure**: None
+- **Alignment**: Usually chaotic good
+- **Advancement**: 5–8 HD (Large)
+- **Level Adjustment**: +2 (cohort)
 
 The pegasus is a magnificent winged horse that sometimes serves the cause of good. Though highly prized as aerial steeds, pegasi are wild and shy creatures not easily befriended. A typical pegasus stands 6 feet high at the shoulder, weighs 1,500 pounds, and has a wingspan of 20 feet. Most pegasi are white, though occasionally one is hatched with conventional horse colors and markings.
 
@@ -76,4 +76,4 @@ In some pegasi, the blood of a mighty heroic stallion ancestor runs strong. Thes
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th): Constant—*[[rangoric-srd/spells/Detect Evil|detect evil]]* (60-ft. radius), *[[rangoric-srd/spells/Detect Good|detect good]]* (60-ft. radius).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th): Constant—_[[rangoric-srd/spells/Detect Evil|detect evil]]_ (60-ft. radius), _[[rangoric-srd/spells/Detect Good|detect good]]_ (60-ft. radius).

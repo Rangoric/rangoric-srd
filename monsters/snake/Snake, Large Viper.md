@@ -36,23 +36,23 @@ tags: [rangoric, rangoric/monster]
 
 # Snake, Large Viper
 
-  - Large Animal
-  - **Hit Dice**: 3d8 (13 hp)
-  - **Initiative**: +7
-  - **Speed**: 20 ft. (4 squares), climb 20 ft., swim 20 ft.
-  - **Armor Class**: 15 (–1 size, +3 Dex, +3 natural), touch 12, flat-footed 12
-  - **Base Attack**: +2; **CMB**: +3; **CMD**: 16 (can't be tripped)
-  - **Attack**: Bite +4 melee (1d4 plus poison)
-  - **Full Attack**: Bite +4 melee (1d4 plus poison)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: Poison
-  - **Special Qualities**: Scent
-  - **Saves**: Fort +3, Ref +6, Will +2
-  - **Abilities**: Str 10, Dex 17, Con 11, Int 1, Wis 12, Cha 2
-  - **Skills**: Acrobatics +11, Athletics +3 (+11 climbing, +11 swimming), Perception +9, Stealth +8
-  - **Feats**: Improved Initiative, Weapon Finesse
-  - **Environment**: Temperate marshes
-  - **Organization**: Solitary
-  - **Challenge Rating**: 2
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large Animal
+- **Hit Dice**: 3d8 (13 hp)
+- **Initiative**: +7
+- **Speed**: 20 ft. (4 squares), climb 20 ft., swim 20 ft.
+- **Armor Class**: 15 (–1 size, +3 Dex, +3 natural), touch 12, flat-footed 12
+- **Base Attack**: +2; **CMB**: +3; **CMD**: 16 (can't be tripped)
+- **Attack**: Bite +4 melee (1d4 plus poison)
+- **Full Attack**: Bite +4 melee (1d4 plus poison)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: Poison
+- **Special Qualities**: Scent
+- **Saves**: Fort +3, Ref +6, Will +2
+- **Abilities**: Str 10, Dex 17, Con 11, Int 1, Wis 12, Cha 2
+- **Skills**: Acrobatics +11, Athletics +3 (+11 climbing, +11 swimming), Perception +9, Stealth +8
+- **Feats**: Improved Initiative, Weapon Finesse
+- **Environment**: Temperate marshes
+- **Organization**: Solitary
+- **Challenge Rating**: 2
+- **Advancement**: —
+- **Level Adjustment**: —

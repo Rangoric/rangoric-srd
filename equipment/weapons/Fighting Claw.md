@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/close]
 
 # Fighting Claw
 
-*Simple one-handed melee weapon.* Cost 5 gp; Dmg 1d4 (S), 1d6 (M); Critical x3; Weight 2 lb.; Type Piercing. ^stats
+_Simple one-handed melee weapon._ Cost 5 gp; Dmg 1d4 (S), 1d6 (M); Critical x3; Weight 2 lb.; Type Piercing. ^stats
 
 A primitive weapon, a fighting claw consists of a long bone rod, sharpened at both ends, with three spikes sticking straight out from the center. It is held in a closed fist with the spikes poking out between the fingers. Assassins often use this weapon to disguise murders as wild beast attacks.

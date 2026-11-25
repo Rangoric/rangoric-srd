@@ -31,16 +31,16 @@ tags: [rangoric, rangoric/spell]
 
 # Repel Vermin
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Brd 4, Clr 4, Drd 4, Hun 3, Rgr 3, Sha 4, Skd 4, Tot 4
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: 10 ft.
-  - **Area**: 10-ft.-radius emanation centered on you
-  - **Duration**: 10 min./level (D)
-  - **Saving Throw**: None or Will negates; see text
-  - **Spell Resistance**: Yes
+- **Level**: Brd 4, Clr 4, Drd 4, Hun 3, Rgr 3, Sha 4, Skd 4, Tot 4
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: 10 ft.
+- **Area**: 10-ft.-radius emanation centered on you
+- **Duration**: 10 min./level (D)
+- **Saving Throw**: None or Will negates; see text
+- **Spell Resistance**: Yes
 
 An [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] barrier holds back vermin. A vermin with Hit Dice of less than one-third your level cannot penetrate the barrier.
 

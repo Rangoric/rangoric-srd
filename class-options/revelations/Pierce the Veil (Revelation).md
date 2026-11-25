@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Pierce the Veil
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Outer Dark Mystery|outer dark]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Outer Dark Mystery|outer dark]] mystery._
 
-Your bond with the alien denizens of the Outer Dark allows you to see in even the deepest darkness. You gain darkvision 60 feet. At 11th level, you can see perfectly in darkness of any kind, even in absolute darkness or the darkness created by a *[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]* spell.
+Your bond with the alien denizens of the Outer Dark allows you to see in even the deepest darkness. You gain darkvision 60 feet. At 11th level, you can see perfectly in darkness of any kind, even in absolute darkness or the darkness created by a _[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_ spell.

@@ -25,15 +25,15 @@ tags: [rangoric, rangoric/spell]
 
 # Psychic Crush V
 
-*Necromancy \[Mind-Affecting\]*
+_Necromancy \[Mind-Affecting\]_
 
-  - **Level**: Psy 9
-  - **Components**: S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will partial and Fortitude partial; see text
-  - **Spell Resistance**: Yes
+- **Level**: Psy 9
+- **Components**: S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: Instantaneous
+- **Saving Throw**: Will partial and Fortitude partial; see text
+- **Spell Resistance**: Yes
 
-This functions as *[[rangoric-srd/spells/Psychic Crush IV|psychic crush IV]]*, but on a successful Fortitude or Will save, the target takes 11d6 points of damage + 1 point of damage per caster level. If it is at fewer than half its total hit points, the target takes a -2 penalty on the Will save to resist this spell. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].
+This functions as _[[rangoric-srd/spells/Psychic Crush IV|psychic crush IV]]_, but on a successful Fortitude or Will save, the target takes 11d6 points of damage + 1 point of damage per caster level. If it is at fewer than half its total hit points, the target takes a -2 penalty on the Will save to resist this spell. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].

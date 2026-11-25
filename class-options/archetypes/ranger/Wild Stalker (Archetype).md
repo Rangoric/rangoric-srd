@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Wild Stalker
 
-*A [[rangoric-srd/classes/Ranger#^ranger-archetypes|ranger]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Ranger#^ranger-archetypes|ranger]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Civilization grows stronger and more decadent with each passing year. It tears into unclaimed wilderness and destroys the fragile ecology in its constant push for expansion and exploitation. The wild stalker forsakes the bonds of community and lives in the trackless wilds far from others of his kind, or perhaps grew up there, never knowing of civilization as anything more than his enemy. He drives pioneers back to civilization and strives to keep the land unspoiled.
 

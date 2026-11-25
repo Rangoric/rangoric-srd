@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Shadow Evocation
 
-*Illusion (Shadow)*
+_Illusion (Shadow)_
 
-  - **Level**: Brd 5, Mes 5, Skd 5, Sor/Wiz 5, Spi 5
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: See text
-  - **Effect**: See text
-  - **Duration**: See text
-  - **Saving Throw**: Will disbelief (if interacted with)
-  - **Spell Resistance**: Yes
+- **Level**: Brd 5, Mes 5, Skd 5, Sor/Wiz 5, Spi 5
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: See text
+- **Effect**: See text
+- **Duration**: See text
+- **Saving Throw**: Will disbelief (if interacted with)
+- **Spell Resistance**: Yes
 
 You tap energy from the Plane of Shadow to cast a quasi-real, illusory version of a sorcerer or wizard evocation spell of 4th level or lower. (For a spell with more than one level, use the best one applicable to you.)
 

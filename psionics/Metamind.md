@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/overview]
 
 ### Metamind
 
-Hit Die: d4.  
+Hit Die: d4.
 
 **[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
 
@@ -25,7 +25,7 @@ Hit Die: d4.
 
 ###### Requirements
 
-To qualify to become a metamind, a character must fulfill all the following criteria.  
+To qualify to become a metamind, a character must fulfill all the following criteria.
 
 Skills: [[rangoric-srd/skills/Psionics (Skill)|Psionics]] 5 ranks, [[rangoric-srd/skills/Mysticism|Mysticism]] 1 rank.
 
@@ -35,15 +35,15 @@ Psionics: Manifester level 4th.
 
 ###### Class Skills
 
-The metamind’s class skills are [[rangoric-srd/skills/Meditation|Meditation]] (Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), and [[rangoric-srd/skills/Psionics (Skill)|Psionics]].  
+The metamind’s class skills are [[rangoric-srd/skills/Meditation|Meditation]] (Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), and [[rangoric-srd/skills/Psionics (Skill)|Psionics]].
 
 Skill Points at Each Level: 2 + Int modifier.
 
-Table: The Metamind  
+Table: The Metamind
 
-|       |                                 |                                         |
-| ----- | ------------------------------- | --------------------------------------- |
-| Level | Special                         | Powers Known                            |
+|       |                                 |                                        |
+| ----- | ------------------------------- | -------------------------------------- |
+| Level | Special                         | Powers Known                           |
 | 1st   | Free manifesting 1st, 3/day     | -                                      |
 | 2nd   | Cognizance psicrystal 5 points  | +1 level of existing manifesting class |
 | 3rd   | Free manifesting 2nd, 3/day     | -                                      |
@@ -57,7 +57,7 @@ Table: The Metamind
 
 ###### Class Features
 
-All the following are class features of the metamind prestige class.  
+All the following are class features of the metamind prestige class.
 
 Weapon and Armor Proficiency: Metaminds gain no proficiency with any weapon or armor.
 

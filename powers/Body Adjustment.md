@@ -29,7 +29,7 @@ Manifesting Time: 1 round
 Range: Personal  
 Target: You  
 Duration: Instantaneous  
-Power Points: Psion/wilder 5, psychic warrior 3  
+Power Points: Psion/wilder 5, psychic warrior 3
 
 You take control of your body’s healing process, curing yourself of 1d12 points of damage. As usual, when regular damage is healed, an equal amount of nonlethal damage is also healed.
 

@@ -16,8 +16,8 @@ tags: [rangoric, rangoric/spell]
 
 # Prying Eyes, Greater
 
-*Divination*
+_Divination_
 
-  - **Level**: Psy 8, Sor/Wiz 8, Wit 8
+- **Level**: Psy 8, Sor/Wiz 8, Wit 8
 
 This spell functions like [[rangoric-srd/spells/Prying Eyes|prying eyes]], except that the eyes can see all things as they actually are, just as if they had true seeing with a range of 120 feet. Thus, they can navigate darkened areas at full normal speed. Also, a greater prying eye’s maximum [[rangoric-srd/skills/Perception|Perception]] modifier is +25 instead of +15.

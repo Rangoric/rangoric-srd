@@ -24,6 +24,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/spears, weapon-group/thrown, east
 
 # Sibat
 
-*Martial one-handed melee weapon (grapple).* Cost 2 gp; Dmg 1d4 (S), 1d6 (M); Critical x3; Range Increment 10 ft.; Weight 2 lb.; Type Piercing or slashing. ^stats
+_Martial one-handed melee weapon (grapple)._ Cost 2 gp; Dmg 1d4 (S), 1d6 (M); Critical x3; Range Increment 10 ft.; Weight 2 lb.; Type Piercing or slashing. ^stats
 
 This weapon is similar to a [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] with a flexible rattan or bamboo shaft and an elaborately barbed head. On a critical hit, the spear grabs flesh or armor, and a sibat has the [[rangoric-srd/equipment/Equipment Weapons#^weapon-grapple|grapple]] feature. A sibat can be thrown.

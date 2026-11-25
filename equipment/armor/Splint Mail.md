@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/armor]
 
 # Splint Mail
 
-*Heavy armor.* Cost 200 gp; Armor Bonus +6; Maximum Dex Bonus 0; Armor Check Penalty –7; Arcane Spell Failure 40%; Speed 20 ft. (2) (30 ft.), 15 ft. (2) (20 ft.); Weight 45 lb. ^stats
+_Heavy armor._ Cost 200 gp; Armor Bonus +6; Maximum Dex Bonus 0; Armor Check Penalty –7; Arcane Spell Failure 40%; Speed 20 ft. (2) (30 ft.), 15 ft. (2) (20 ft.); Weight 45 lb. ^stats
 
 The suit includes gauntlets.

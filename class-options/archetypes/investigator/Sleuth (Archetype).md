@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Sleuth
 
-*An [[rangoric-srd/classes/Investigator#^investigator-archetypes|investigator]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_An [[rangoric-srd/classes/Investigator#^investigator-archetypes|investigator]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A sleuth is an investigator who relies on good fortune and guile rather than alchemy. Having no mystical energy intrinsic to her, she must forgo the more magical aspects of [[rangoric-srd/classes/Investigator#^investigator-alchemy|alchemy]] to solve her mysteries with wits, gumption, and the fickle consideration of luck.
 

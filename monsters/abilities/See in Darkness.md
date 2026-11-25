@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # See in Darkness
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “see in darkness”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “see in darkness”, on the Special Qualities line.
 
-The creature can see perfectly in darkness of any kind, including that created by *[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]*.
+The creature can see perfectly in darkness of any kind, including that created by _[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_.

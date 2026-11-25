@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/heavy-blades]
 
 # Duck Blade
 
-*Exotic one-handed melee weapon.* Cost 12 gp; Dmg 1d4 (S), 1d6 (M); Critical x3; Weight 2 lb.; Type Slashing. ^stats
+_Exotic one-handed melee weapon._ Cost 12 gp; Dmg 1d4 (S), 1d6 (M); Critical x3; Weight 2 lb.; Type Slashing. ^stats
 
 (Yuen Yang Yue) Also sometimes called a “Deer Horn,” the duck blade is formed from two interlocking crescent blades and is normally used in pairs.

@@ -24,15 +24,15 @@ tags: [rangoric, rangoric/spell]
 
 # Bilocation
 
-*Conjuration (Creation)*
+_Conjuration (Creation)_
 
-  - **Level**: Psy 8, Sor/Wiz 9
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: One duplicate
-  - **Duration**: Caster level round(s)
-  - **Spell Resistance**: No
+- **Level**: Psy 8, Sor/Wiz 9
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: One duplicate
+- **Duration**: Caster level round(s)
+- **Spell Resistance**: No
 
 The spell creates an identical copy of you, along with everything you wear and carry, anywhere you choose within range; you exist in two places at once until the spell ends. You and the duplicate use the same statistics and share the same resources. If the duplicate takes damage, for example, you deduct the damage from your hit point total. Similarly, if your duplicate expends a charge or daily use from a magic item you both wield, the charge or daily use is expended from the item you carry. If you or the duplicate drops or gives away something you’re carrying, the item disappears from the other body as well. This spell doesn’t duplicate artifacts; any you possess remain on you.
 

@@ -16,11 +16,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Heavens Mystery
 
-*An [[rangoric-srd/classes/Oracle#^oracle-mystery|oracle mystery]].* The shaman’s [[rangoric-srd/class-options/spirits/Heavens Spirit|heavens spirit]] shares its name; a character with both must choose matching ones (see the shaman’s [[rangoric-srd/classes/Shaman#^shaman-spirit|spirit]]).
+_An [[rangoric-srd/classes/Oracle#^oracle-mystery|oracle mystery]]._ The shaman’s [[rangoric-srd/class-options/spirits/Heavens Spirit|heavens spirit]] shares its name; a character with both must choose matching ones (see the shaman’s [[rangoric-srd/classes/Shaman#^shaman-spirit|spirit]]).
 
 **Class Skills**: An oracle with the heavens mystery adds [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Arcana|Arcana]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Investigation|Investigation]], and [[rangoric-srd/skills/Perception|Perception]] to her list of class skills.
 
-**Bonus Spells**: *[[rangoric-srd/spells/Color Spray|color spray]]* (2nd), *[[rangoric-srd/spells/Hypnotic Pattern|hypnotic pattern]]* (4th), *[[rangoric-srd/spells/Daylight|daylight]]* (6th), *[[rangoric-srd/spells/Rainbow Pattern|rainbow pattern]]* (8th), *[[rangoric-srd/spells/Overland Flight|overland flight]]* (10th), *[[rangoric-srd/spells/Chain Lightning|chain lightning]]* (12th), *[[rangoric-srd/spells/Prismatic Spray|prismatic spray]]* (14th), *[[rangoric-srd/spells/Sunburst|sunburst]]* (16th), *[[rangoric-srd/spells/Meteor Swarm|meteor swarm]]* (18th).
+**Bonus Spells**: _[[rangoric-srd/spells/Color Spray|color spray]]_ (2nd), _[[rangoric-srd/spells/Hypnotic Pattern|hypnotic pattern]]_ (4th), _[[rangoric-srd/spells/Daylight|daylight]]_ (6th), _[[rangoric-srd/spells/Rainbow Pattern|rainbow pattern]]_ (8th), _[[rangoric-srd/spells/Overland Flight|overland flight]]_ (10th), _[[rangoric-srd/spells/Chain Lightning|chain lightning]]_ (12th), _[[rangoric-srd/spells/Prismatic Spray|prismatic spray]]_ (14th), _[[rangoric-srd/spells/Sunburst|sunburst]]_ (16th), _[[rangoric-srd/spells/Meteor Swarm|meteor swarm]]_ (18th).
 
 ## Revelations
 
@@ -48,4 +48,4 @@ An oracle with the heavens mystery can choose from any of the following [[rangor
 
 ## Final Revelation
 
-Upon achieving 20th level, your rapport with the heavens grants you perfect harmony with the universe. You receive a bonus on all saving throws equal to your Charisma modifier. You automatically stabilize if you are below 0 hit points, are immune to fear effects, and automatically confirm all critical hits. Should you die, you are reborn 3 days later in the form of a star child, who matures over the course of 7 days (treat as the *[[rangoric-srd/spells/Reincarnate|reincarnate]]* spell). ^heavens-final-revelation
+Upon achieving 20th level, your rapport with the heavens grants you perfect harmony with the universe. You receive a bonus on all saving throws equal to your Charisma modifier. You automatically stabilize if you are below 0 hit points, are immune to fear effects, and automatically confirm all critical hits. Should you die, you are reborn 3 days later in the form of a star child, who matures over the course of 7 days (treat as the _[[rangoric-srd/spells/Reincarnate|reincarnate]]_ spell). ^heavens-final-revelation

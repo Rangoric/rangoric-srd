@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Mutation Mind
 
-*A [[rangoric-srd/classes/Psychic (Class)#^psychic-archetypes|psychic]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Psychic (Class)#^psychic-archetypes|psychic]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A mutation mind's body changes under the stress of her psychic powers, and she risks losing control if she pushes too far.
 
@@ -24,25 +24,25 @@ A mutation mind's body changes under the stress of her psychic powers, and she r
 
 **Bodily Mutations**: Starting at 3rd level, whenever a mutation mind gains a phrenic amplification, she can select either a phrenic amplification or a bodily mutation. A bodily mutation grants its benefit only when the mutation mind is affected by her physical mutation. Each time she activates her physical mutation, she can activate any number of bodily mutations she possesses.
 
-*Adhesive (Ex)*: The mutation mind's skin becomes sticky, granting her a +4 bonus on [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]] and [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] combat maneuver checks.
+_Adhesive (Ex)_: The mutation mind's skin becomes sticky, granting her a +4 bonus on [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]] and [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] combat maneuver checks.
 
-*Bite Attack (Ex)*: The mutation mind's mouth fills with sharp teeth, allowing her to make a bite attack as part of a full-attack action at her highest base attack bonus. This attack deals 1d4 points of damage (1d3 if Small) and counts as a primary attack unless combined with manufactured weapon attacks, as normal.
+_Bite Attack (Ex)_: The mutation mind's mouth fills with sharp teeth, allowing her to make a bite attack as part of a full-attack action at her highest base attack bonus. This attack deals 1d4 points of damage (1d3 if Small) and counts as a primary attack unless combined with manufactured weapon attacks, as normal.
 
-*Bulging Eyes (Ex)*: The mutation mind's eyes grow large and round, granting her [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] with a range of 60 feet.
+_Bulging Eyes (Ex)_: The mutation mind's eyes grow large and round, granting her [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] with a range of 60 feet.
 
-*Claws (Ex)*: The mutation mind's hands turn into claws, allowing her to make two claw attacks as a full-attack action at her highest base attack bonus. Each of these attacks deals 1d4 points of damage (1d3 if Small) and counts as a primary attack unless combined with manufactured weapon attacks, as normal.
+_Claws (Ex)_: The mutation mind's hands turn into claws, allowing her to make two claw attacks as a full-attack action at her highest base attack bonus. Each of these attacks deals 1d4 points of damage (1d3 if Small) and counts as a primary attack unless combined with manufactured weapon attacks, as normal.
 
-*Elongated Fingers (Ex)*: The mutation mind's fingers grow long and supple, increasing her reach by 5 feet when she's making melee touch attacks.
+_Elongated Fingers (Ex)_: The mutation mind's fingers grow long and supple, increasing her reach by 5 feet when she's making melee touch attacks.
 
-*Elongated Legs (Ex)*: The mutation mind's legs become long and spindly, increasing her base movement by 10 feet.
+_Elongated Legs (Ex)_: The mutation mind's legs become long and spindly, increasing her base movement by 10 feet.
 
-*Energy Resistance (Ex)*: The mutation mind's body changes in color and texture, and gains [[rangoric-srd/rules/Special Abilities and Conditions#Resistance to Energy|energy resistance]] 5 to one energy type (acid, cold, electricity, fire, or sonic), chosen when this mutation is selected. This mutation can be selected multiple times. Each time it is selected, the mutation mind either chooses an additional energy type to gain energy resistance 5 against or increases the resistance granted to one existing type by 5.
+_Energy Resistance (Ex)_: The mutation mind's body changes in color and texture, and gains [[rangoric-srd/rules/Special Abilities and Conditions#Resistance to Energy|energy resistance]] 5 to one energy type (acid, cold, electricity, fire, or sonic), chosen when this mutation is selected. This mutation can be selected multiple times. Each time it is selected, the mutation mind either chooses an additional energy type to gain energy resistance 5 against or increases the resistance granted to one existing type by 5.
 
-*Enlarged Torso (Ex)*: The mutation mind's torso enlarges disproportionately with the rest of her body, granting her a +2 natural armor bonus to AC.
+_Enlarged Torso (Ex)_: The mutation mind's torso enlarges disproportionately with the rest of her body, granting her a +2 natural armor bonus to AC.
 
-*Rubbery (Ex)*: The mutation mind's body becomes soft and rubbery, granting her [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|DR]] 2/—.
+_Rubbery (Ex)_: The mutation mind's body becomes soft and rubbery, granting her [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|DR]] 2/—.
 
-*Slimy (Ex)*: The mutation mind exudes a thin layer of oily slime over her body, granting her a +4 bonus to CMD.
+_Slimy (Ex)_: The mutation mind exudes a thin layer of oily slime over her body, granting her a +4 bonus to CMD.
 
 This ability alters [[rangoric-srd/classes/Psychic (Class)#^psychic-phrenic-amplifications|phrenic amplifications]].
 
@@ -52,16 +52,16 @@ While under the effect of phrenic empowerment, whenever the mutation mind takes 
 
 **Improved Bodily Mutations**: At 11th level, a mutation mind can select one of the following improved bodily mutations instead of a phrenic amplification.
 
-*Aquatic Form (Ex)*: The mutation mind's legs fuse into a tail and fins sprout from her back and side, granting her a swim speed of 30 feet, [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] with a range of 30 feet (affecting other creatures in contact with the same body of water), and the aquatic subtype. Her base land speed is reduced to 10 feet.
+_Aquatic Form (Ex)_: The mutation mind's legs fuse into a tail and fins sprout from her back and side, granting her a swim speed of 30 feet, [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] with a range of 30 feet (affecting other creatures in contact with the same body of water), and the aquatic subtype. Her base land speed is reduced to 10 feet.
 
-*Enlarged Body (Ex)*: The mutation mind's body swells and stretches, enlarging her as the *[[rangoric-srd/spells/Enlarge Person|enlarge person]]* spell but up to two size categories larger (maximum Huge).
+_Enlarged Body (Ex)_: The mutation mind's body swells and stretches, enlarging her as the _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ spell but up to two size categories larger (maximum Huge).
 
-*Multiple Eyes (Ex)*: Multiple eyes erupt all over the mutation mind's body. She can't be flanked and gains a +4 bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
+_Multiple Eyes (Ex)_: Multiple eyes erupt all over the mutation mind's body. She can't be flanked and gains a +4 bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
 
-*Recuperation (Ex)*: The mutation mind heals quickly from physical wounds, gaining [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5.
+_Recuperation (Ex)_: The mutation mind heals quickly from physical wounds, gaining [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5.
 
-*Toppling Fists (Ex)*: The mutation mind's fists become large masses of flesh, allowing her to attempt a [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]] combat maneuver check against one creature within 10 feet of her as a standard action.
+_Toppling Fists (Ex)_: The mutation mind's fists become large masses of flesh, allowing her to attempt a [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]] combat maneuver check against one creature within 10 feet of her as a standard action.
 
-*Wings (Ex)*: The mutation mind sprouts a pair of fleshy, batlike wings, giving her a [[rangoric-srd/monsters/abilities/Flight|fly]] speed of 60 feet with average maneuverability.
+_Wings (Ex)_: The mutation mind sprouts a pair of fleshy, batlike wings, giving her a [[rangoric-srd/monsters/abilities/Flight|fly]] speed of 60 feet with average maneuverability.
 
 This ability alters [[rangoric-srd/classes/Psychic (Class)#^psychic-major-amplifications|major amplifications]].

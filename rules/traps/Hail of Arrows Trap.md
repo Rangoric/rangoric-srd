@@ -20,6 +20,6 @@ A sample trap; how traps work, and what each line means, is in [[rangoric-srd/ru
 - **Type**: mechanical
 - **[[rangoric-srd/skills/Investigation|Investigation]]**: DC 25 to find
 - **[[rangoric-srd/skills/Engineering|Engineering]]**: DC 25 to disable
-- **Trigger**: visual (*[[rangoric-srd/spells/Arcane Eye|arcane eye]]*)
+- **Trigger**: visual (_[[rangoric-srd/spells/Arcane Eye|arcane eye]]_)
 - **Reset**: repair
 - **Effect**: Atk +20 ranged (6d6); multiple targets (all targets in a 20-ft. line)

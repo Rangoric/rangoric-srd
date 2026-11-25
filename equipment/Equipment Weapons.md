@@ -33,33 +33,33 @@ Weapons are grouped into several interlocking sets of categories. These categori
 
 **Melee and Ranged Weapons**: Melee weapons are used for making melee attacks, though some of them can be thrown as well. Ranged weapons are thrown weapons or projectile weapons that are not effective in melee.
 
-*Reach Weapons*: Glaives, guisarmes, horsechoppers, lances, longspears, ranseurs, spiked chains, and whips are reach weapons. A reach weapon is a melee weapon that allows its wielder to strike at targets that aren’t adjacent to him or her. Most reach double the wielder’s natural reach, meaning that a typical Small or Medium wielder of such a weapon can attack a creature 10 feet away, but not a creature in an adjacent square. A typical Large character wielding a reach weapon of the appropriate size can attack a creature 15 or 20 feet away, but not adjacent creatures or creatures up to 10 feet away.
+_Reach Weapons_: Glaives, guisarmes, horsechoppers, lances, longspears, ranseurs, spiked chains, and whips are reach weapons. A reach weapon is a melee weapon that allows its wielder to strike at targets that aren’t adjacent to him or her. Most reach double the wielder’s natural reach, meaning that a typical Small or Medium wielder of such a weapon can attack a creature 10 feet away, but not a creature in an adjacent square. A typical Large character wielding a reach weapon of the appropriate size can attack a creature 15 or 20 feet away, but not adjacent creatures or creatures up to 10 feet away.
 
-*Double Weapons*: Dire flails, dwarven urgroshes, gnome hooked hammers, orc double axes, quarterstaffs, and two-bladed swords are double weapons. A character can fight with both ends of a double weapon as if fighting with two weapons, but he or she incurs all the normal attack penalties associated with two-weapon combat, just as though the character were wielding a one-handed weapon and a light weapon. The character can also choose to use a double weapon two handed, attacking with only one end of it. A creature wielding a double weapon in one hand can’t use it as a double weapon—only one end of the weapon can be used in any given round.
+_Double Weapons_: Dire flails, dwarven urgroshes, gnome hooked hammers, orc double axes, quarterstaffs, and two-bladed swords are double weapons. A character can fight with both ends of a double weapon as if fighting with two weapons, but he or she incurs all the normal attack penalties associated with two-weapon combat, just as though the character were wielding a one-handed weapon and a light weapon. The character can also choose to use a double weapon two handed, attacking with only one end of it. A creature wielding a double weapon in one hand can’t use it as a double weapon—only one end of the weapon can be used in any given round.
 
-*Thrown Weapons*: Daggers, clubs, shortspears, spears, darts, javelins, throwing axes, light hammers, tridents, shuriken, and nets are thrown weapons. The wielder applies his or her Strength modifier to damage dealt by thrown weapons (except for splash weapons). It is possible to throw a weapon that isn’t designed to be thrown (that is, a melee weapon that doesn’t have a numeric entry in the Range Increment column on Table: Weapons), but a character who does so takes a –4 penalty on the attack roll. Throwing a light or one-handed weapon is a standard action, while throwing a two-handed weapon is a full-round action. Regardless of the type of weapon, such an attack scores a threat only on a natural roll of 20 and deals double damage on a critical hit. Such a weapon has a range increment of 10 feet.
+_Thrown Weapons_: Daggers, clubs, shortspears, spears, darts, javelins, throwing axes, light hammers, tridents, shuriken, and nets are thrown weapons. The wielder applies his or her Strength modifier to damage dealt by thrown weapons (except for splash weapons). It is possible to throw a weapon that isn’t designed to be thrown (that is, a melee weapon that doesn’t have a numeric entry in the Range Increment column on Table: Weapons), but a character who does so takes a –4 penalty on the attack roll. Throwing a light or one-handed weapon is a standard action, while throwing a two-handed weapon is a full-round action. Regardless of the type of weapon, such an attack scores a threat only on a natural roll of 20 and deals double damage on a critical hit. Such a weapon has a range increment of 10 feet.
 
-*Projectile Weapons*: Blowguns, light crossbows, slings, heavy crossbows, shortbows, composite shortbows, longbows, composite longbows, hand crossbows, and repeating crossbows are projectile weapons. Most projectile weapons require two hands to use (see specific weapon descriptions). A character gets no Strength bonus on damage rolls with a projectile weapon unless it’s a specially built composite shortbow, specially built composite longbow, or sling. If the character has a penalty for low Strength, apply it to damage rolls when he or she uses a bow or a sling.
+_Projectile Weapons_: Blowguns, light crossbows, slings, heavy crossbows, shortbows, composite shortbows, longbows, composite longbows, hand crossbows, and repeating crossbows are projectile weapons. Most projectile weapons require two hands to use (see specific weapon descriptions). A character gets no Strength bonus on damage rolls with a projectile weapon unless it’s a specially built composite shortbow, specially built composite longbow, or sling. If the character has a penalty for low Strength, apply it to damage rolls when he or she uses a bow or a sling.
 
-*Ammunition*: Projectile weapons use ammunition: arrows (for bows), bolts (for crossbows), darts (for blowguns), or sling bullets (for slings). When using a bow, a character can draw ammunition as a free action; crossbows and slings require an action for reloading. Generally speaking, ammunition that hits its target is destroyed or rendered useless, while normal ammunition that misses has a 50% chance of being destroyed or lost.
+_Ammunition_: Projectile weapons use ammunition: arrows (for bows), bolts (for crossbows), darts (for blowguns), or sling bullets (for slings). When using a bow, a character can draw ammunition as a free action; crossbows and slings require an action for reloading. Generally speaking, ammunition that hits its target is destroyed or rendered useless, while normal ammunition that misses has a 50% chance of being destroyed or lost.
 
 Although they are thrown weapons, shuriken are treated as ammunition for the purposes of drawing them, crafting masterwork or otherwise special versions of them (see Masterwork Weapons), and what happens to them after they are thrown.
 
 **Light, One-Handed, and Two-Handed Melee Weapons**: This designation is a measure of how much effort it takes to wield a weapon in combat. It indicates whether a melee weapon, when wielded by a character of the weapon’s size category, is considered a light weapon, a one-handed weapon, or a two-handed weapon.
 
-*Light*: A light weapon is easier to use in one’s off hand than a one-handed weapon is, and it can be used while grappling. A light weapon is used in one hand. Add the wielder’s Strength bonus (if any) to damage rolls for melee attacks with a light weapon if it’s used in the primary hand, or one-half the wielder’s Strength bonus if it’s used in the off hand. Using two hands to wield a light weapon gives no advantage on damage; the Strength bonus applies as though the weapon were held in the wielder’s primary hand only.
+_Light_: A light weapon is easier to use in one’s off hand than a one-handed weapon is, and it can be used while grappling. A light weapon is used in one hand. Add the wielder’s Strength bonus (if any) to damage rolls for melee attacks with a light weapon if it’s used in the primary hand, or one-half the wielder’s Strength bonus if it’s used in the off hand. Using two hands to wield a light weapon gives no advantage on damage; the Strength bonus applies as though the weapon were held in the wielder’s primary hand only.
 
 An unarmed strike is always considered a light weapon.
 
-*One-Handed*: A one-handed weapon can be used in either the primary hand or the off hand. Add the wielder’s Strength bonus to damage rolls for melee attacks with a one-handed weapon if it’s used in the primary hand, or 1/2 his or her Strength bonus if it’s used in the off hand. If a one-handed weapon is wielded with two hands during melee combat, add 1-1/2 times the character’s Strength bonus to damage rolls.
+_One-Handed_: A one-handed weapon can be used in either the primary hand or the off hand. Add the wielder’s Strength bonus to damage rolls for melee attacks with a one-handed weapon if it’s used in the primary hand, or 1/2 his or her Strength bonus if it’s used in the off hand. If a one-handed weapon is wielded with two hands during melee combat, add 1-1/2 times the character’s Strength bonus to damage rolls.
 
-*Two-Handed*: Two hands are required to use a two-handed melee weapon effectively. Apply 1-1/2 times the character’s Strength bonus to damage rolls for melee attacks with such a weapon.
+_Two-Handed_: Two hands are required to use a two-handed melee weapon effectively. Apply 1-1/2 times the character’s Strength bonus to damage rolls for melee attacks with such a weapon.
 
 **Weapon Size**: Every weapon has a size category. This designation indicates the size of the creature for which the weapon was designed.
 
 A weapon’s size category isn’t the same as its size as an object. Instead, a weapon’s size category is keyed to the size of the intended wielder. In general, a light weapon is an object two size categories smaller than the wielder, a one-handed weapon is an object one size category smaller than the wielder, and a two-handed weapon is an object of the same size category as the wielder.
 
-*Inappropriately Sized Weapons*: A creature can’t make optimum use of a weapon that isn’t properly sized for it. A cumulative –2 penalty applies on attack rolls for each size category of difference between the size of its intended wielder and the size of its actual wielder. If the creature isn’t proficient with the weapon a –4 nonproficiency penalty also applies.
+_Inappropriately Sized Weapons_: A creature can’t make optimum use of a weapon that isn’t properly sized for it. A cumulative –2 penalty applies on attack rolls for each size category of difference between the size of its intended wielder and the size of its actual wielder. If the creature isn’t proficient with the weapon a –4 nonproficiency penalty also applies.
 
 The measure of how much effort it takes to use a weapon (whether the weapon is designated as a light, one-handed, or two-handed weapon for a particular wielder) is altered by one step for each size category of difference between the wielder’s size and the size of the creature for which the weapon was designed. If a weapon’s designation would be changed to something other than light, one-handed, or two-handed by this alteration, the creature can’t wield the weapon at all.
 
@@ -141,19 +141,19 @@ Here is the format for weapon entries (given as column headings on Table: Weapon
 
 **Critical**: The entry in this column notes how the weapon is used with the rules for critical hits. When your character scores a critical hit, roll the damage two, three, or four times, as indicated by its critical multiplier (using all applicable modifiers on each roll), and add all the results together.
 
-*Exception*: Extra damage over and above a weapon’s normal damage is not multiplied when you score a critical hit.
+_Exception_: Extra damage over and above a weapon’s normal damage is not multiplied when you score a critical hit.
 
-*x2*: The weapon deals double damage on a critical hit.
+_x2_: The weapon deals double damage on a critical hit.
 
-*x3*: The weapon deals triple damage on a critical hit.
+_x3_: The weapon deals triple damage on a critical hit.
 
-*x3/x4*: One head of this double weapon deals triple damage on a critical hit. The other head deals quadruple damage on a critical hit.
+_x3/x4_: One head of this double weapon deals triple damage on a critical hit. The other head deals quadruple damage on a critical hit.
 
-*x4*: The weapon deals quadruple damage on a critical hit.
+_x4_: The weapon deals quadruple damage on a critical hit.
 
-*19–20/x2*: The weapon scores a threat on a natural roll of 19 or 20 (instead of just 20) and deals double damage on a critical hit. (The weapon has a threat range of 19–20.)
+_19–20/x2_: The weapon scores a threat on a natural roll of 19 or 20 (instead of just 20) and deals double damage on a critical hit. (The weapon has a threat range of 19–20.)
 
-*18–20/x2*: The weapon scores a threat on a natural roll of 18, 19, or 20 (instead of just 20) and deals double damage on a critical hit. (The weapon has a threat range of 18–20.)
+_18–20/x2_: The weapon scores a threat on a natural roll of 18, 19, or 20 (instead of just 20) and deals double damage on a critical hit. (The weapon has a threat range of 18–20.)
 
 **Range Increment**: Any attack at less than this distance is not penalized for range. However, each full range increment imposes a cumulative –2 penalty on the attack roll. A thrown weapon has a maximum range of five range increments. A projectile weapon can shoot out to ten range increments.
 
@@ -169,19 +169,19 @@ In other cases, a weapon can deal either of two types of damage. In a situation 
 
 Seven special features recur, and the weapon descriptions name them:
 
-*Blocking*: When you use this weapon to [[rangoric-srd/combat/Combat Actions#Attack|fight defensively]], you gain a +1 shield bonus to AC. ^weapon-blocking
+_Blocking_: When you use this weapon to [[rangoric-srd/combat/Combat Actions#Attack|fight defensively]], you gain a +1 shield bonus to AC. ^weapon-blocking
 
-*Brace*: If you use a ready action to set a brace weapon against a charge, you deal double damage on a successful hit against a charging creature. ^weapon-brace
+_Brace_: If you use a ready action to set a brace weapon against a charge, you deal double damage on a successful hit against a charging creature. ^weapon-brace
 
-*Deadly*: When this weapon delivers a [[rangoric-srd/combat/Combat Modifiers|coup de grace]], it gains +4 to damage when calculating the DC of the Fortitude saving throw to see whether the target of the coup de grace dies from the attack. The bonus is not added to the actual damage of the coup de grace attack. ^weapon-deadly
+_Deadly_: When this weapon delivers a [[rangoric-srd/combat/Combat Modifiers|coup de grace]], it gains +4 to damage when calculating the DC of the Fortitude saving throw to see whether the target of the coup de grace dies from the attack. The bonus is not added to the actual damage of the coup de grace attack. ^weapon-deadly
 
-*Disarm*: You get a +2 bonus on combat maneuver checks made to [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]] an opponent with this weapon. ^weapon-disarm
+_Disarm_: You get a +2 bonus on combat maneuver checks made to [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]] an opponent with this weapon. ^weapon-disarm
 
-*Distracting*: You gain a +2 bonus on [[rangoric-srd/skills/Deception|Deception]] checks to feint in combat while wielding this weapon. ^weapon-distracting
+_Distracting_: You gain a +2 bonus on [[rangoric-srd/skills/Deception|Deception]] checks to feint in combat while wielding this weapon. ^weapon-distracting
 
-*Grapple*: On a successful critical hit with a weapon of this type, you can grapple the target of the attack. You can then attempt a combat maneuver check to [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] your opponent as a free action. This grapple attempt does not provoke an attack of opportunity from the creature you are attempting to grapple if that creature is not threatening you. While you grapple the target with a grappling weapon, you can only move or damage the creature on your turn. You are still considered grappled, though you do not have to be adjacent to the creature to continue the grapple. If you move far enough away to be out of the weapon’s reach, you end the grapple with that action. ^weapon-grapple
+_Grapple_: On a successful critical hit with a weapon of this type, you can grapple the target of the attack. You can then attempt a combat maneuver check to [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] your opponent as a free action. This grapple attempt does not provoke an attack of opportunity from the creature you are attempting to grapple if that creature is not threatening you. While you grapple the target with a grappling weapon, you can only move or damage the creature on your turn. You are still considered grappled, though you do not have to be adjacent to the creature to continue the grapple. If you move far enough away to be out of the weapon’s reach, you end the grapple with that action. ^weapon-grapple
 
-*Trip*: You can use this weapon to make [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] attacks. If you are tripped during your own trip attempt, you can drop the weapon to avoid being tripped. ^weapon-trip
+_Trip_: You can use this weapon to make [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] attacks. If you are tripped during your own trip attempt, you can drop the weapon to avoid being tripped. ^weapon-trip
 
 ##### Weapon Descriptions
 
@@ -193,14 +193,14 @@ Each weapon has its own note in the `weapons` folder, linked from the table. The
 
 | Simple Weapons                                                                          | Cost   | Dmg (S) | Dmg (M) | Critical | Range Increment | Weight (1) | Type (2)                 |
 | --------------------------------------------------------------------------------------- | ------ | ------- | ------- | -------- | --------------- | ---------- | ------------------------ |
-| *Unarmed Attacks*                                                                       |        |         |         |          |                 |            |                          |
+| _Unarmed Attacks_                                                                       |        |         |         |          |                 |            |                          |
 | [[rangoric-srd/equipment/weapons/Brass Knuckles\|Brass knuckles]]                       | 5 sp   | 1d3     | 1d4     | x2       | —               | 1 lb.      | Bludgeoning              |
 | [[rangoric-srd/equipment/weapons/Ladies' Chain\|Chain, ladies’]]                        | 5 gp   | 1d2     | 1d3     | x2       | —               | 1/4 lb.    | Bludgeoning              |
 | [[rangoric-srd/equipment/weapons/Gauntlet\|Gauntlet]]                                   | 2 gp   | 1d2     | 1d3     | x2       | —               | 1 lb.      | Bludgeoning              |
 | [[rangoric-srd/equipment/weapons/Push Knife\|Knife, push]]                              | 1 gp   | 1d2     | 1d3     | x3       | —               | 1/2 lb.    | Piercing                 |
 | [[rangoric-srd/equipment/weapons/Fixed Razor\|Razor, fixed]]                            | 3 sp   | 1d2     | 1d3     | x2       | —               | 1/2 lb.    | Slashing                 |
 | [[rangoric-srd/equipment/weapons/Unarmed Strike\|Unarmed strike]]                       | —      | 1d2 (3) | 1d3 (3) | x2       | —               | —          | Bludgeoning              |
-| *Light Melee Weapons*                                                                   |        |         |         |          |                 |            |                          |
+| _Light Melee Weapons_                                                                   |        |         |         |          |                 |            |                          |
 | [[rangoric-srd/equipment/weapons/Battle Aspergillum\|Battle Aspergillum]]               | 5 gp   | 1d4     | 1d6     | x2       | —               | 4 lb.      | Bludgeoning              |
 | [[rangoric-srd/equipment/weapons/Cestus\|Cestus]]                                       | 5 gp   | 1d3     | 1d4     | 19–20/x2 | —               | 1 lb.      | Bludgeoning or piercing  |
 | [[rangoric-srd/equipment/weapons/Claws of the Weasel\|Claws of the weasel]]             | 5 gp   | 1d3     | 1d4     | x4       | —               | 1 lb.      | Piercing                 |
@@ -220,7 +220,7 @@ Each weapon has its own note in the `weapons` folder, linked from the table. The
 | [[rangoric-srd/equipment/weapons/Sickle\|Sickle]] (6)                                   | 6 gp   | 1d4     | 1d6     | x2       | —               | 2 lb.      | Slashing                 |
 | [[rangoric-srd/equipment/weapons/Stiletto\|Stiletto]]                                   | 4 gp   | 1d3     | 1d4     | 19-20/x2 | —               | 1 lb.      | Piercing                 |
 | [[rangoric-srd/equipment/weapons/Wooden Stake\|Wooden Stake]]                           | —      | 1d3     | 1d4     | x2       | 10 ft.          | 1 lb.      | Piercing                 |
-| *One-Handed Melee Weapons*                                                              |        |         |         |          |                 |            |                          |
+| _One-Handed Melee Weapons_                                                              |        |         |         |          |                 |            |                          |
 | [[rangoric-srd/equipment/weapons/Fighting Claw\|Claw, fighting]]                        | 5 gp   | 1d4     | 1d6     | x3       | —               | 2 lb.      | Piercing                 |
 | [[rangoric-srd/equipment/weapons/Club\|Club]]                                           | —      | 1d4     | 1d6     | x2       | 10 ft.          | 3 lb.      | Bludgeoning              |
 | [[rangoric-srd/equipment/weapons/Iron Flute\|Flute, iron]]                              | 5 gp   | 1d3     | 1d4     | x2       | —               | 1 lb.      | Bludgeoning              |
@@ -232,7 +232,7 @@ Each weapon has its own note in the `weapons` folder, linked from the table. The
 | [[rangoric-srd/equipment/weapons/Pilam\|Pilam]]                                         | 2 gp   | 1d4     | 1d6     | x3       | 20 ft.          | 4 lb.      | Piercing                 |
 | [[rangoric-srd/equipment/weapons/Iron Pipe\|Pipe, iron]]                                | 5 gp   | 1d4     | 1d6     | x2       | —               | 2 lb.      | Bludgeoning              |
 | [[rangoric-srd/equipment/weapons/Shortspear\|Shortspear]]                               | 1 gp   | 1d4     | 1d6     | x2       | 20 ft.          | 3 lb.      | Piercing                 |
-| *Two-Handed Melee Weapons*                                                              |        |         |         |          |                 |            |                          |
+| _Two-Handed Melee Weapons_                                                              |        |         |         |          |                 |            |                          |
 | [[rangoric-srd/equipment/weapons/Bayonet\|Bayonet]]                                     | 5 gp   | 1d4     | 1d6     | x2       | —               | 1 lb.      | Piercing                 |
 | [[rangoric-srd/equipment/weapons/Boar Spear\|Boar Spear]]                               | 5 gp   | 1d6     | 1d8     | x2       | —               | 8 lb.      | Piercing                 |
 | [[rangoric-srd/equipment/weapons/Golden Melon Hammer\|Hammer, golden melon]]            | 15 gp  | 1d6     | 1d8     | x3       | —               | 14 lb.     | Bludgeoning              |
@@ -245,7 +245,7 @@ Each weapon has its own note in the `weapons` folder, linked from the table. The
 | [[rangoric-srd/equipment/weapons/Spike Staff\|Staff, spike]] (5)                        | 20 gp  | 1d4/1d4 | 1d6/1d6 | x2       | —               | 6 lb.      | Bludgeoning              |
 | [[rangoric-srd/equipment/weapons/Telescopic Staff\|Staff, telescopic]] (5)              | 85 gp  | 1d4/1d4 | 1d6/1d6 | x2       | —               | 5 lb.      | Bludgeoning              |
 | [[rangoric-srd/equipment/weapons/Staff-Spear\|Staff-Spear]] (5)                         | 45 gp  | 1d4/1d4 | 1d6/1d6 | x2       | —               | 5 lb.      | Bludgeoning or piercing  |
-| *Ranged Weapons*                                                                        |        |         |         |          |                 |            |                          |
+| _Ranged Weapons_                                                                        |        |         |         |          |                 |            |                          |
 | [[rangoric-srd/equipment/weapons/Angon\|Angon]]                                         | 2 gp   | 1d4     | 2d4     | 19-20/x2 | 20 ft.          | 3 lb.      | Piercing                 |
 | [[rangoric-srd/equipment/weapons/Blowgun\|Blowgun]]                                     | 2 gp   | 1       | 1d2     | x2       | 20 ft.          | 1 lb.      | Piercing                 |
 | [[rangoric-srd/equipment/weapons/Blowgun Darts\|Darts, blowgun (10)]]                   | 5 sp   | —       | —       | —        | —               | —          | —                        |
@@ -266,12 +266,12 @@ Each weapon has its own note in the `weapons` folder, linked from the table. The
 | [[rangoric-srd/equipment/weapons/Javelin Thrower\|Thrower, javelin]]                    | 2 gp   | —       | —       | —        | —               | 2 lb.      | —                        |
 | [[rangoric-srd/equipment/weapons/Underwater Heavy Crossbow\|Underwater Heavy Crossbow]] | 100 gp | 1d8     | 1d10    | 19–20/x2 | 120 ft.         | 8 lb.      | Piercing                 |
 | [[rangoric-srd/equipment/weapons/Underwater Light Crossbow\|Underwater Light Crossbow]] | 70 gp  | 1d6     | 1d8     | 19–20/x2 | 80 ft.          | 4 lb.      | Piercing                 |
-| *Ammunition*                                                                            |        |         |         |          |                 |            |                          |
+| _Ammunition_                                                                            |        |         |         |          |                 |            |                          |
 | [[rangoric-srd/equipment/weapons/Hollow Crossbow Bolts\|Bolt, hollow crossbow (10)]]    | 25 gp  | 1d4     | 1d4     | x2       | —               | 1 lb.      | Piercing                 |
 
 | Martial Weapons                                                                                   | Cost    | Dmg (S) | Dmg (M) | Critical | Range Increment | Weight (1) | Type (2)                           |
 | ------------------------------------------------------------------------------------------------- | ------- | ------- | ------- | -------- | --------------- | ---------- | ---------------------------------- |
-| *Light Melee Weapons*                                                                             |         |         |         |          |                 |            |                                    |
+| _Light Melee Weapons_                                                                             |         |         |         |          |                 |            |                                    |
 | [[rangoric-srd/equipment/weapons/Throwing Axe\|Axe, throwing]]                                    | 8 gp    | 1d4     | 1d6     | x2       | 10 ft.          | 2 lb.      | Slashing                           |
 | [[rangoric-srd/equipment/weapons/Bushknife\|Bushknife]]                                           | 10 gp   | 1d6     | 1d6     | 19-20/x2 | —               | 4 lb.      | Slashing                           |
 | [[rangoric-srd/equipment/weapons/Butterfly Sword\|Butterfly Sword]]                               | 20 gp   | 1d3     | 1d4     | 19–20/x2 | —               | 1 lb.      | Slashing                           |
@@ -299,7 +299,7 @@ Each weapon has its own note in the `weapons` folder, linked from the table. The
 | [[rangoric-srd/equipment/weapons/Tailblade\|Tailblade]]                                           | 11 gp   | 1d2     | 1d3     | x2       | —               | 1/2 lb.    | Slashing                           |
 | [[rangoric-srd/equipment/weapons/Tonfa\|Tonfa]]                                                   | 1 gp    | 1d4     | 1d6     | x2       | —               | 1 lb.      | Bludgeoning                        |
 | [[rangoric-srd/equipment/weapons/Wushu Dart\|Wushu Dart (5)]]                                     | 1 gp    | 1d2     | 1d3     | x2       | 10 ft.          | —          | Piercing                           |
-| *One-Handed Melee Weapons*                                                                        |         |         |         |          |                 |            |                                    |
+| _One-Handed Melee Weapons_                                                                        |         |         |         |          |                 |            |                                    |
 | [[rangoric-srd/equipment/weapons/Basket-Hilted Backsword\|Backsword, basket-hilted]]              | 20 gp   | 1d4/1d3 | 1d6/1d4 | 18-20/x2 | —               | 6 lb.      | Slashing or bludgeoning            |
 | [[rangoric-srd/equipment/weapons/Battleaxe\|Battleaxe]]                                           | 10 gp   | 1d6     | 1d8     | x3       | —               | 6 lb.      | Slashing                           |
 | [[rangoric-srd/equipment/weapons/Fanged Blade\|Blade, fanged]]                                    | 450 gp  | 1d6+1   | 1d8+1   | 19-20/x2 | —               | 3 lb.      | Slashing                           |
@@ -322,7 +322,7 @@ Each weapon has its own note in the `weapons` folder, linked from the table. The
 | [[rangoric-srd/equipment/weapons/Terbutje\|Terbutje]]                                             | 5 gp    | 1d6     | 1d8     | 19–20/x2 | —               | 2 lb.      | Slashing                           |
 | [[rangoric-srd/equipment/weapons/Trident\|Trident]]                                               | 15 gp   | 1d6     | 1d8     | x2       | 10 ft.          | 4 lb.      | Piercing                           |
 | [[rangoric-srd/equipment/weapons/Warhammer\|Warhammer]]                                           | 12 gp   | 1d6     | 1d8     | x3       | —               | 5 lb.      | Bludgeoning                        |
-| *Two-Handed Melee Weapons*                                                                        |         |         |         |          |                 |            |                                    |
+| _Two-Handed Melee Weapons_                                                                        |         |         |         |          |                 |            |                                    |
 | [[rangoric-srd/equipment/weapons/Widowmaker Axe\|Axe, widowmaker]]                                | 35 gp   | 1d10    | 1d12    | 19-20/x3 | —               | 25 lb.     | Slashing                           |
 | [[rangoric-srd/equipment/weapons/Bardiche\|Bardiche]]                                             | 30 gp   | 1d8     | 1d10    | 19-20/x2 | —               | 9 lb.      | Slashing                           |
 | [[rangoric-srd/equipment/weapons/Bec de Corbin\|Bec de Corbin]] (4)                               | 15 gp   | 1d8     | 1d10    | x3       | —               | 12 lb.     | Bludgeoning or piercing            |
@@ -378,7 +378,7 @@ Each weapon has its own note in the `weapons` folder, linked from the table. The
 | [[rangoric-srd/equipment/weapons/Ghost Head Sword\|Sword, ghost head]]                            | 80 gp   | 1d8     | 1d10    | 18-20/x2 | —               | 17 lb.     | Slashing                           |
 | [[rangoric-srd/equipment/weapons/Tepoztopilli\|Tepoztopilli]] (4)                                 | 8 gp    | 1d8     | 1d10    | 19–20/x2 | —               | 8 lb.      | Piercing or slashing               |
 | [[rangoric-srd/equipment/weapons/Tri-Point Double-Edged Sword\|Tri-Point Double-Edged Sword]] (4) | 12 gp   | 1d8     | 1d10    | x3       | —               | 14 lb.     | Piercing                           |
-| *Ranged Weapons*                                                                                  |         |         |         |          |                 |            |                                    |
+| _Ranged Weapons_                                                                                  |         |         |         |          |                 |            |                                    |
 | [[rangoric-srd/equipment/weapons/Amentum\|Amentum]]                                               | —       | 1d4     | 1d6     | x2       | 50 ft.          | 1 lb.      | Piercing                           |
 | [[rangoric-srd/equipment/weapons/Atlatl\|Atlatl]]                                                 | 2 gp    | 1d4     | 1d6     | x2       | 50 ft.          | 2 lb.      | Piercing                           |
 | [[rangoric-srd/equipment/weapons/Atlatl Dart\|Darts, atlatl]]                                     | 1 gp    | —       | —       | —        | —               | 2 lb.      | —                                  |
@@ -402,7 +402,7 @@ Each weapon has its own note in the `weapons` folder, linked from the table. The
 | [[rangoric-srd/equipment/weapons/Arrows\|Arrows (20)]]                                            | 1 gp    | —       | —       | —        | —               | 3 lb.      | —                                  |
 | [[rangoric-srd/equipment/weapons/Tube Arrow Shooter\|Tube Arrow Shooter]]                         | 3 gp    | 1d3     | 1d4     | x2       | 40 ft.          | 1/2 lb.    | Piercing                           |
 | [[rangoric-srd/equipment/weapons/Bamboo Shaft Arrows\|Arrows, bamboo shaft (10)]]                 | 1 gp    | —       | —       | —        | —               | 1/2 lb.    | —                                  |
-| *Ammunition*                                                                                      |         |         |         |          |                 |            |                                    |
+| _Ammunition_                                                                                      |         |         |         |          |                 |            |                                    |
 | [[rangoric-srd/equipment/weapons/Smoke Arrow\|Arrow, smoke]]                                      | 10 gp   | —       | —       | —        | —               | —          | —                                  |
 | [[rangoric-srd/equipment/weapons/Alchemical Arrows\|Arrows, alchemical (5)]]                      | 50 gp   | 1       | 1       | x2       | ½ distance      | 1 lb.      | Bludgeoning or piercing            |
 | [[rangoric-srd/equipment/weapons/Axehead Arrows\|Arrows, axehead (20)]]                           | 5 gp    | —       | —       | x2       | Per bow         | 7 lb.      | Piercing                           |
@@ -421,7 +421,7 @@ Each weapon has its own note in the `weapons` folder, linked from the table. The
 
 | Exotic Weapons                                                                                                     | Cost               | Dmg (S)      | Dmg (M)      | Critical | Range Increment | Weight (1) | Type (2)                           |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------ | ------------ | ------------ | -------- | --------------- | ---------- | ---------------------------------- |
-| *Light Melee Weapons*                                                                                              |                    |              |              |          |                 |            |                                    |
+| _Light Melee Weapons_                                                                                              |                    |              |              |          |                 |            |                                    |
 | [[rangoric-srd/equipment/weapons/Aklys\|Aklys]] (6)                                                                | 5 gp               | 1d6          | 1d8          | x2       | 20 ft.          | 2 lb.      | Bludgeoning                        |
 | [[rangoric-srd/equipment/weapons/Judge's Brush\|Brush, judge’s]]                                                   | 2 gp               | 1d3          | 1d3          | x2       | 10 ft.          | 1/2 lb.    | Piercing                           |
 | [[rangoric-srd/equipment/weapons/Claw Blades\|Claw blades]]                                                        | 305 gp             | 1d3          | 1d4          | x2       | —               | 2 lb.      | Slashing                           |
@@ -455,7 +455,7 @@ Each weapon has its own note in the `weapons` folder, linked from the table. The
 | [[rangoric-srd/equipment/weapons/Swordbreaker Dagger\|Swordbreaker Dagger]] (7)                                    | 10 gp              | 1d3          | 1d4          | x2       | —               | 3 lb.      | Slashing                           |
 | [[rangoric-srd/equipment/weapons/Tekko-Kagi\|Tekko-Kagi]] (7)                                                      | 2 gp per iron claw | 1d2          | 1d3          | x2       | —               | —          | Piercing                           |
 | [[rangoric-srd/equipment/weapons/Wakizashi\|Wakizashi]]                                                            | 35 gp              | 1d4          | 1d6          | 18–20/x2 | —               | 2 lb.      | Piercing or slashing               |
-| *One-Handed Melee Weapons*                                                                                         |                    |              |              |          |                 |            |                                    |
+| _One-Handed Melee Weapons_                                                                                         |                    |              |              |          |                 |            |                                    |
 | [[rangoric-srd/equipment/weapons/Hooked Axe (Gladiator)\|Axe, hooked (gladiator)]] (6, 7)                          | 20 gp              | 1d6          | 1d8          | x3       | —               | 7 lb.      | Slashing                           |
 | [[rangoric-srd/equipment/weapons/Duck Blade\|Blade, duck]]                                                         | 12 gp              | 1d4          | 1d6          | x3       | —               | 2 lb.      | Slashing                           |
 | [[rangoric-srd/equipment/weapons/Rooster Blade\|Blade, rooster]]                                                   | 16 gp              | 1d4          | 1d6          | x3       | —               | 2 lb.      | Piercing                           |
@@ -497,7 +497,7 @@ Each weapon has its own note in the `weapons` folder, linked from the table. The
 | [[rangoric-srd/equipment/weapons/Whip\|Whip]] (4, 6, 7)                                                            | 1 gp               | 1d2 (3)      | 1d3 (3)      | x2       | —               | 2 lb.      | Slashing                           |
 | [[rangoric-srd/equipment/weapons/Manticore Tail Whip\|Whip, manticore tail]] (4, 6, 7)                             | 50 gp              | 1d3 + poison | 1d3 + poison | 19-20/x2 | 10 ft. (max)    | 2 lb.      | Slashing                           |
 | [[rangoric-srd/equipment/weapons/Training Whip\|Whip, training]] (4, 6, 7)                                         | 5 gp               | 1d2 (3)      | 1d3 (3)      | x2       | —               | 2 lb.      | Slashing                           |
-| *Two-Handed Melee Weapons*                                                                                         |                    |              |              |          |                 |            |                                    |
+| _Two-Handed Melee Weapons_                                                                                         |                    |              |              |          |                 |            |                                    |
 | [[rangoric-srd/equipment/weapons/Battering Axe\|Axe, battering]]                                                   | 200 gp             | —            | 3d6          | x3       | —               | 40 lb.     | Piercing and slashing              |
 | [[rangoric-srd/equipment/weapons/Bloodaxe\|Axe, bloodaxe]]                                                         | 50 gp              | 1d12         | 2d8          | x3       | —               | 20 lb.     | Slashing                           |
 | [[rangoric-srd/equipment/weapons/Chained Axe\|Axe, chained]] (6, 7)                                                | 15 gp              | 1d6          | 1d8          | x3       | —               | 15 lb.     | Slashing                           |
@@ -557,7 +557,7 @@ Each weapon has its own note in the `weapons` folder, linked from the table. The
 | [[rangoric-srd/equipment/weapons/Tetsubo\|Tetsubo]]                                                                | 20 gp              | 1d8          | 1d10         | x4       | —               | 10 lb.     | Bludgeoning                        |
 | [[rangoric-srd/equipment/weapons/Dwarven Urgrosh\|Urgrosh, dwarven]] (5)                                           | 50 gp              | 1d6/1d4      | 1d8/1d6      | x3       | —               | 12 lb.     | Slashing or piercing               |
 | [[rangoric-srd/equipment/weapons/War Maul\|Warhammer, war maul]]                                                   | 75 gp              | 1d12         | 2d8          | x3       | —               | 30 lb.     | Bludgeoning                        |
-| *Ranged Weapons*                                                                                                   |                    |              |              |          |                 |            |                                    |
+| _Ranged Weapons_                                                                                                   |                    |              |              |          |                 |            |                                    |
 | [[rangoric-srd/equipment/weapons/Mini Blowgun\|Blowgun, mini]]                                                     | 5 sp               | —            | —            | —        | 10 ft.          | 0.3 lb.    | Piercing                           |
 | [[rangoric-srd/equipment/weapons/Blowgun Darts\|Darts, blowgun (10)]]                                              | 5 sp               | —            | —            | —        | —               | —          | —                                  |
 | [[rangoric-srd/equipment/weapons/Bolas\|Bolas]] (6)                                                                | 5 gp               | 1d3 (3)      | 1d4 (3)      | x2       | 10 ft.          | 2 lb.      | Bludgeoning                        |
@@ -611,19 +611,19 @@ Each weapon has its own note in the `weapons` folder, linked from the table. The
 | [[rangoric-srd/equipment/weapons/Snag Net\|Snag net]] (6)                                                          | 30 gp              | —            | —            | —        | 10 ft.          | 10 lb.     | Piercing                           |
 | [[rangoric-srd/equipment/weapons/Throwing Shield\|Throwing shield]] (6)                                            | +50 gp             | 1d4          | 1d6          | x2       | 20 ft.          | —          | Bludgeoning                        |
 
-1 *Weight figures are for Medium weapons. A Small weapon weighs half as much, and a Large weapon weighs twice as much.*
+1 _Weight figures are for Medium weapons. A Small weapon weighs half as much, and a Large weapon weighs twice as much._
 
-2 *When two types are given, the weapon is both types if the entry specifies “and,” or either type (player’s choice at time of attack) if the entry specifies “or.”*
+2 _When two types are given, the weapon is both types if the entry specifies “and,” or either type (player’s choice at time of attack) if the entry specifies “or.”_
 
-3 *The weapon deals nonlethal damage rather than lethal damage.*
+3 _The weapon deals nonlethal damage rather than lethal damage._
 
-4 *Reach weapon.*
+4 _Reach weapon._
 
-5 *Double weapon.*
+5 _Double weapon._
 
-6 *Can be used to make trip attacks.*
+6 _Can be used to make trip attacks._
 
-7 *Disarm weapon.*
+7 _Disarm weapon._
 
 %% end generated %%
 
@@ -1341,7 +1341,7 @@ Each firearm and each kind of firearm ammunition and gear has its own note in th
 
 | Firearms                                                                                 | Cost     | Dmg (S) | Dmg (M) | Critical | Range Increment | Misfire      | Capacity | Weight (1) | Type (2)                 |
 | ---------------------------------------------------------------------------------------- | -------- | ------- | ------- | -------- | --------------- | ------------ | -------- | ---------- | ------------------------ |
-| *One-Handed Early Firearms*                                                              |          |         |         |          |                 |              |          |            |                          |
+| _One-Handed Early Firearms_                                                              |          |         |         |          |                 |              |          |            |                          |
 | [[rangoric-srd/equipment/weapons/Buckler Gun\|Buckler gun]]                              | 750 gp   | 1d4     | 1d6     | x4       | 10 ft.          | 1 (5 ft.)    | 2        | 6 lb.      | Bludgeoning and piercing |
 | [[rangoric-srd/equipment/weapons/Pepperbox\|Pepperbox]]                                  | 3,000 gp | 1d6     | 1d8     | x4       | 20 ft.          | 1–2 (5 ft.)  | 6        | 5 lb.      | Bludgeoning and piercing |
 | [[rangoric-srd/equipment/weapons/Pistol\|Pistol]]                                        | 1,000 gp | 1d6     | 1d8     | x4       | 20 ft.          | 1 (5 ft.)    | 1        | 4 lb.      | Bludgeoning and piercing |
@@ -1350,7 +1350,7 @@ Each firearm and each kind of firearm ammunition and gear has its own note in th
 | [[rangoric-srd/equipment/weapons/Double-Barreled Pistol\|Pistol, double-barreled]]       | 1,750 gp | 1d6     | 1d8     | x4       | 20 ft.          | 1–2 (5 ft.)  | 2        | 5 lb.      | Bludgeoning and piercing |
 | [[rangoric-srd/equipment/weapons/Dragon Pistol\|Pistol, dragon]] (3)                     | 1,000 gp | 1d4     | 1d6     | x4       | 20 ft.          | 1–2 (5 ft.)  | 1        | 3 lb.      | Bludgeoning and piercing |
 | [[rangoric-srd/equipment/weapons/Sword Cane Pistol\|Pistol, sword cane]]                 | 775 gp   | 1d3     | 1d4     | x3       | 10 ft.          | 1 (5 ft.)    | 1        | 1 lb.      | Bludgeoning and piercing |
-| *Two-Handed Early Firearms*                                                              |          |         |         |          |                 |              |          |            |                          |
+| _Two-Handed Early Firearms_                                                              |          |         |         |          |                 |              |          |            |                          |
 | [[rangoric-srd/equipment/weapons/Blunderbuss\|Blunderbuss]] (3)                          | 2,000 gp | 1d6     | 1d8     | x2       | special         | 1–2 (10 ft.) | 1        | 8 lb.      | Bludgeoning and piercing |
 | [[rangoric-srd/equipment/weapons/Culverin\|Culverin]] (3)                                | 4,000 gp | 2d6     | 2d8     | x4       | 30 ft.          | 1 (10 ft.)   | 1        | 40 lb.     | Bludgeoning and piercing |
 | [[rangoric-srd/equipment/weapons/Double Hackbut\|Double hackbut]]                        | 4,000 gp | 2d10    | 2d12    | x4       | 50 ft.          | 1–2 (5 ft.)  | 2        | 18 lb.     | Bludgeoning and piercing |
@@ -1359,19 +1359,19 @@ Each firearm and each kind of firearm ammunition and gear has its own note in th
 | [[rangoric-srd/equipment/weapons/Axe Musket\|Musket, axe]]                               | 1,600 gp | 1d6     | 1d8     | x4       | 30 ft.          | 1–2 (5 ft.)  | 1        | 6 lb.      | Bludgeoning and piercing |
 | [[rangoric-srd/equipment/weapons/Double-Barreled Musket\|Musket, double-barreled]]       | 2,500 gp | 1d10    | 1d12    | x4       | 40 ft.          | 1–3 (5 ft.)  | 2        | 11 lb.     | Bludgeoning and piercing |
 | [[rangoric-srd/equipment/weapons/Warhammer Musket\|Musket, warhammer]]                   | 1,600 gp | 1d6     | 1d8     | x4       | 30 ft.          | 1–2 (5 ft.)  | 1        | 6 lb.      | Bludgeoning and piercing |
-| *One-Handed Advanced Firearms*                                                           |          |         |         |          |                 |              |          |            |                          |
+| _One-Handed Advanced Firearms_                                                           |          |         |         |          |                 |              |          |            |                          |
 | [[rangoric-srd/equipment/weapons/Revolver\|Revolver]]                                    | 4,000 gp | 1d6     | 1d8     | x4       | 20 ft.          | 1            | 6        | 4 lb.      | Bludgeoning and piercing |
-| *Two-Handed Advanced Firearms*                                                           |          |         |         |          |                 |              |          |            |                          |
+| _Two-Handed Advanced Firearms_                                                           |          |         |         |          |                 |              |          |            |                          |
 | [[rangoric-srd/equipment/weapons/Rifle\|Rifle]]                                          | 5,000 gp | 1d8     | 1d10    | x4       | 80 ft.          | 1            | 1        | 12 lb.     | Bludgeoning and piercing |
 | [[rangoric-srd/equipment/weapons/Pepperbox Rifle\|Rifle, pepperbox]]                     | 7,000 gp | 1d8     | 1d10    | x4       | 80 ft.          | 1–2          | 4        | 15 lb.     | Bludgeoning and piercing |
 | [[rangoric-srd/equipment/weapons/Shotgun\|Shotgun]] (3)                                  | 5,000 gp | 1d6     | 1d8     | x2       | 20 ft.          | 1–2          | 1        | 12 lb.     | Bludgeoning and piercing |
 | [[rangoric-srd/equipment/weapons/Double-Barreled Shotgun\|Shotgun, double-barreled]] (3) | 7,000 gp | 1d6     | 1d8     | x2       | 20 ft.          | 1–2          | 2        | 15 lb.     | Bludgeoning and piercing |
 
-1 *Weight figures are for Medium weapons. A Small weapon weighs half as much, and a Large weapon weighs twice as much.*
+1 _Weight figures are for Medium weapons. A Small weapon weighs half as much, and a Large weapon weighs twice as much._
 
-2 *When two types are given, the weapon is both types if the entry specifies “and,” or either type (player’s choice at time of attack) if the entry specifies “or.”*
+2 _When two types are given, the weapon is both types if the entry specifies “and,” or either type (player’s choice at time of attack) if the entry specifies “or.”_
 
-3 *Scatter weapon; see the [[rangoric-srd/equipment/Firearms#Firearm Descriptions|scatter weapon quality]].*
+3 _Scatter weapon; see the [[rangoric-srd/equipment/Firearms#Firearm Descriptions|scatter weapon quality]]._
 
 %% end generated %%
 
@@ -1399,7 +1399,7 @@ Each firearm and each kind of firearm ammunition and gear has its own note in th
 | [[rangoric-srd/equipment/weapons/Pellets\|Pellets, 30 handfuls]]                                    | 30 gp    | 1/2 lb. |
 | [[rangoric-srd/equipment/weapons/Powder Horn\|Powder horn]]                                         | 3 gp     | 1 lb.   |
 
-1 *Does not include the cost of poison compound.*
+1 _Does not include the cost of poison compound._
 
 %% end generated %%
 

@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # Flare Burst
 
-*Evocation (Light) \[Light\]*
+_Evocation (Light) \[Light\]_
 
-  - **Level**: Blr 1, Brd 1, Drd 1, Hun 1, Mag 1, Psy 1, Skd 1, Sor/Wiz 1
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: 10-ft.-radius burst of light
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Blr 1, Brd 1, Drd 1, Hun 1, Mag 1, Psy 1, Skd 1, Sor/Wiz 1
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: 10-ft.-radius burst of light
+- **Duration**: Instantaneous
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
-This spell functions as *[[rangoric-srd/spells/Flare|flare]]*, except it affects all creatures in a 10-foot-radius burst from the target point.
+This spell functions as _[[rangoric-srd/spells/Flare|flare]]_, except it affects all creatures in a 10-foot-radius burst from the target point.

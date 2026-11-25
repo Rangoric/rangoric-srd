@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Invisible Stalker
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Air, Elemental, Extraplanar)
-  - **Hit Dice**: 7d10+42 (80 hp)
-  - **Initiative**: +8
-  - **Speed**: 30 ft. (6 squares), fly 30 ft. (perfect)
-  - **Armor Class**: 20 (+4 Dex, +6 natural), touch 14, flat-footed 16
-  - **Base Attack**: +7; **CMB**: +11; **CMD**: 25
-  - **Attack**: Slam +12 melee (2d6+4)
-  - **Full Attack**: 2 slams +12 melee (2d6+4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Natural Invisibility|natural invisibility]], improved tracking, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-  - **Saves**: Fort +11, Ref +11, Will +4
-  - **Abilities**: Str 18, Dex 19, Con 22, Int 14, Wis 15, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +22, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +14, [[rangoric-srd/skills/Theology|Theology]] +12
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)
-  - **Environment**: Any (Elemental Plane of Air)
-  - **Organization**: Solitary
-  - **Challenge Rating**: 7
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: 9–12 HD (Large); 13–24 HD (Huge)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Air, Elemental, Extraplanar)
+- **Hit Dice**: 7d10+42 (80 hp)
+- **Initiative**: +8
+- **Speed**: 30 ft. (6 squares), fly 30 ft. (perfect)
+- **Armor Class**: 20 (+4 Dex, +6 natural), touch 14, flat-footed 16
+- **Base Attack**: +7; **CMB**: +11; **CMD**: 25
+- **Attack**: Slam +12 melee (2d6+4)
+- **Full Attack**: 2 slams +12 melee (2d6+4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Natural Invisibility|natural invisibility]], improved tracking, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
+- **Saves**: Fort +11, Ref +11, Will +4
+- **Abilities**: Str 18, Dex 19, Con 22, Int 14, Wis 15, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +22, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +14, [[rangoric-srd/skills/Theology|Theology]] +12
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)
+- **Environment**: Any (Elemental Plane of Air)
+- **Organization**: Solitary
+- **Challenge Rating**: 7
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: 9–12 HD (Large); 13–24 HD (Huge)
+- **Level Adjustment**: —
 
 Very little is known about these enigmatic and mysterious creatures, as their very nature makes details of their true form difficult to discern. Brought to this world from the Plane of Air, these creatures fulfill tasks for those who conjure them. Invisible stalkers act as guardians, assassins, and trackers, occupations in which they excel. Their natural invisibility and skill at stealth allow them to follow their quarry without detection and give them the upper hand when it comes to exterminating a mark.
 
@@ -79,4 +79,4 @@ An invisible stalker can be killed only when it is on the Elemental Plane of Air
 
 **Improved Tracking (Ex)**: An invisible stalker takes no penalty to Fieldcraft checks when tracking and moving at any speed.
 
-**Natural Invisibility (Ex)**: This ability is constant—an invisible stalker remains invisible at all times, even when attacking. As this ability is inherent, it is not subject to the *[[rangoric-srd/spells/Invisibility Purge|invisibility purge]]* spell. Against foes that cannot pinpoint it, the invisible stalker gains a +20 bonus on Stealth checks when moving, or +40 when standing still—these bonuses are not included in the statistics above.
+**Natural Invisibility (Ex)**: This ability is constant—an invisible stalker remains invisible at all times, even when attacking. As this ability is inherent, it is not subject to the _[[rangoric-srd/spells/Invisibility Purge|invisibility purge]]_ spell. Against foes that cannot pinpoint it, the invisible stalker gains a +20 bonus on Stealth checks when moving, or +40 when standing still—these bonuses are not included in the statistics above.

@@ -18,12 +18,12 @@ tags: [rangoric, rangoric/class-option]
 
 # Flame Shield
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Fire Element|fire]]
-  - **Type**: utility (Sp)
-  - **Level**: 5
-  - **Burn**: 1
-  - **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Searing Flesh|searing flesh]]
+- **Element**: [[rangoric-srd/class-options/elements/Fire Element|fire]]
+- **Type**: utility (Sp)
+- **Level**: 5
+- **Burn**: 1
+- **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Searing Flesh|searing flesh]]
 
-Flickering flames surround you until the next time your [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]] is removed. While your [[rangoric-srd/class-options/wild-talents/Searing Flesh|searing flesh]] infusion is active, any creature that strikes you with a melee attack takes an amount of fire damage equal to 1/2 your kineticist level unless it is using a reach weapon. If the creature also takes damage from your searing flesh, it applies fire resistance only once against the total damage from both effects. You also gain the protection from cold of a warm *[[rangoric-srd/spells/Fire Shield|fire shield]]*. An attack that would deal an amount of cold damage equal to at least double your kineticist level (before you applied the protection) freezes away your flame shield after you apply its protection, ending the flame shield early.
+Flickering flames surround you until the next time your [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]] is removed. While your [[rangoric-srd/class-options/wild-talents/Searing Flesh|searing flesh]] infusion is active, any creature that strikes you with a melee attack takes an amount of fire damage equal to 1/2 your kineticist level unless it is using a reach weapon. If the creature also takes damage from your searing flesh, it applies fire resistance only once against the total damage from both effects. You also gain the protection from cold of a warm _[[rangoric-srd/spells/Fire Shield|fire shield]]_. An attack that would deal an amount of cold damage equal to at least double your kineticist level (before you applied the protection) freezes away your flame shield after you apply its protection, ending the flame shield early.

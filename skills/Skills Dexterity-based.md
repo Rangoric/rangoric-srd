@@ -13,8 +13,8 @@ tags: [rangoric, rangoric/overview]
 
 ## Dexterity-Based
 
-  - [[rangoric-srd/skills/Acrobatics|Acrobatics]]
-  - [[rangoric-srd/skills/Escape Artist|Escape Artist]]
-  - [[rangoric-srd/skills/Piloting|Piloting]]
-  - [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]]
-  - [[rangoric-srd/skills/Stealth|Stealth]]
+- [[rangoric-srd/skills/Acrobatics|Acrobatics]]
+- [[rangoric-srd/skills/Escape Artist|Escape Artist]]
+- [[rangoric-srd/skills/Piloting|Piloting]]
+- [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]]
+- [[rangoric-srd/skills/Stealth|Stealth]]

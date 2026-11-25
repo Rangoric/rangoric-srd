@@ -22,14 +22,14 @@ tags: [rangoric, rangoric/spell]
 
 # Targeted Bomb Admixture
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level
+- **Level**: Alc 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level
 
 Upon drinking an extract created with this formula, you make a significant change to your magical reserve that modifies the nature of all [[rangoric-srd/classes/Alchemist#^alchemist-bomb|bombs]] you create and throw during this extract's duration. This effect on your magical reserve has no effect on any [[rangoric-srd/classes/Alchemist#^alchemist-discovery|discoveries]] that you use to modify your bombs, but you can only have one admixture effect (formula with the word “bomb admixture” in its title) active at a time. If you drink another bomb admixture, the effects of the former bomb admixture end and the new one becomes active.
 

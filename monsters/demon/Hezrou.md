@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Hezrou
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Aquatic, Chaotic, Demon, Evil, Extraplanar)
-  - **Hit Dice**: 10d10+90 (145 hp)
-  - **Initiative**: +4
-  - **Speed**: 30 ft. (6 squares), swim 30 ft.
-  - **Armor Class**: 25 (+16 natural, –1 size), touch 9, flat-footed 25
-  - **Base Attack**: +10; **CMB**: +19 (+23 grapple); **CMD**: 29
-  - **Attack**: Bite +17 melee (4d4+8 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +17 melee (1d8+8 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +17 melee (4d4+8 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +17 melee (1d8+8 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Stench|Stench]] (DC 24, 10 rounds), nausea, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 22
-  - **Saves**: Fort +16, Ref +3, Will +9
-  - **Abilities**: Str 27, Dex 11, Con 29, Int 14, Wis 14, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +29, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Mysticism|Mysticism]] +15, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Stealth|Stealth]] +9
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Swamps of a chaotic evil-aligned plane
-  - **Organization**: Solitary or gang (2–4)
-  - **Challenge Rating**: 11
-  - **Treasure**: Standard
-  - **Alignment**: Always chaotic evil
-  - **Advancement**: 11–15 HD (Large); 16–30 HD (Huge)
-  - **Level Adjustment**: +9
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Aquatic, Chaotic, Demon, Evil, Extraplanar)
+- **Hit Dice**: 10d10+90 (145 hp)
+- **Initiative**: +4
+- **Speed**: 30 ft. (6 squares), swim 30 ft.
+- **Armor Class**: 25 (+16 natural, –1 size), touch 9, flat-footed 25
+- **Base Attack**: +10; **CMB**: +19 (+23 grapple); **CMD**: 29
+- **Attack**: Bite +17 melee (4d4+8 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +17 melee (1d8+8 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +17 melee (4d4+8 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +17 melee (1d8+8 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Stench|Stench]] (DC 24, 10 rounds), nausea, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 22
+- **Saves**: Fort +16, Ref +3, Will +9
+- **Abilities**: Str 27, Dex 11, Con 29, Int 14, Wis 14, Cha 18
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +29, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Mysticism|Mysticism]] +15, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Swamps of a chaotic evil-aligned plane
+- **Organization**: Solitary or gang (2–4)
+- **Challenge Rating**: 11
+- **Treasure**: Standard
+- **Alignment**: Always chaotic evil
+- **Advancement**: 11–15 HD (Large); 16–30 HD (Huge)
+- **Level Adjustment**: +9
 
 The hezrou dwells in the vast swamps, mires, and waterways of the chaotic evil planes, equally at home on land and in the water. The presence of a hezrou has an obvious effect on the nearby flora and water, causing plant life to twist and knurl and infusing water with a foul odor and brackish taste—signs much easier to spot on the Material Plane than on its home plane. Long exposure to this corruption can cause vile transformations and hideous deformities. Often, entire backwater communities of deformed mutants owe their twisted countenances not as much to incest and poor breeding as they do to a hezrou's proximity.
 
@@ -76,6 +76,6 @@ A hezrou is about 8 feet tall and weighs about 750 pounds.
 
 Hezrous enjoy melee combat even more than vrocks do. They eagerly press an attack deep into the heart of enemy forces, so their stench can take effect as quickly as possible. They enter most battles by using [[rangoric-srd/spells/Blasphemy|blasphemy]], and follow it with an occasional [[rangoric-srd/spells/Chaos Hammer|chaos hammer]] or [[rangoric-srd/spells/Unholy Blight|unholy blight]], depending on the alignment of their opponents.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 13th): At will—*[[rangoric-srd/spells/Chaos Hammer|chaos hammer]]* (DC 18), *[[rangoric-srd/spells/Teleport, Greater|greater teleport]]* (self plus 50 lbs. of objects only), *[[rangoric-srd/spells/Unholy Blight|unholy blight]]* (DC 18); 3/day—*[[rangoric-srd/spells/Gaseous Form|gaseous form]]*; 1/day—*[[rangoric-srd/spells/Blasphemy|blasphemy]]* (DC 21), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 4, 1 [[rangoric-srd/monsters/demon/Hezrou|hezrou]] 35%).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 13th): At will—_[[rangoric-srd/spells/Chaos Hammer|chaos hammer]]_ (DC 18), _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Unholy Blight|unholy blight]]_ (DC 18); 3/day—_[[rangoric-srd/spells/Gaseous Form|gaseous form]]_; 1/day—_[[rangoric-srd/spells/Blasphemy|blasphemy]]_ (DC 21), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 4, 1 [[rangoric-srd/monsters/demon/Hezrou|hezrou]] 35%).
 
 **Nausea (Ex)**: The noxious vapors and foul fluids that constantly weep and seethe from a hezrou's body are particularly heinous to those the creature grapples. Each round a creature is grappled by a hezrou, the grappled foe must make a DC 24 Fortitude save to avoid becoming [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]]. A creature nauseated in this manner remains nauseated until he succeeds on a DC 24 Fortitude save, or until a minute has passed during which he is not grappled by the hezrou, whichever condition comes first. The save DC is Constitution-based.

@@ -26,7 +26,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Shield of the Mage
 
-This *[[rangoric-srd/magic-items/armor/Caster’s Shield|caster’s shield]]* always has one arcane scroll and knows the same arcane spells as the wielder. When the spell on the scroll is cast, another scroll of a spell the wielder knows randomly manifests to replace it. The shield has no arcane spell failure. The shield can also *[[rangoric-srd/spells/Read Magic|read magic]]*. It will often debate with its wielder for the most devastating course of action, but does what the wielder commands.
+This _[[rangoric-srd/magic-items/armor/Caster’s Shield|caster’s shield]]_ always has one arcane scroll and knows the same arcane spells as the wielder. When the spell on the scroll is cast, another scroll of a spell the wielder knows randomly manifests to replace it. The shield has no arcane spell failure. The shield can also _[[rangoric-srd/spells/Read Magic|read magic]]_. It will often debate with its wielder for the most devastating course of action, but does what the wielder commands.
 
 **Intelligent item**: Int 16, Wis 10, Cha 10, Ego 6; neutral; Senses 30 ft.; Language telepathy (Common and six other languages).
 

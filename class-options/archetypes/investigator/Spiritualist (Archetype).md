@@ -21,13 +21,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Spiritualist
 
-*An [[rangoric-srd/classes/Investigator#^investigator-archetypes|investigator]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_An [[rangoric-srd/classes/Investigator#^investigator-archetypes|investigator]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 While most investigators look to the physical world to gain their knowledge, there are those who seek out knowledge beyond the pale. Those who think that the dead tell no tales are quickly proven wrong by the spiritualist. Instead of toying with chemicals and reagents to find clues, he talks directly to the spirit world to uncover the ways and means of skullduggery and the desperate acts committed in the heat of dark passions.
 
-**Commune with Spirits (Sp)**: Instead of relying on alchemical research to find clues, a spiritualist relies on communion with the world beyond death. At 1st level, a spiritualist gains the ability to use *[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]*, *[[rangoric-srd/spells/Detect Secret Doors|detect secret doors]]*, and *[[rangoric-srd/spells/Identify|identify]]*, but each has a casting time of 1 minute, as the spiritualist needs to consult with the spirits of the dead that dwell in his area or that are somehow attached to him in some way. The spiritualist can use this ability a number of times per day equal to his investigator level + his Wisdom modifier.
+**Commune with Spirits (Sp)**: Instead of relying on alchemical research to find clues, a spiritualist relies on communion with the world beyond death. At 1st level, a spiritualist gains the ability to use _[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, _[[rangoric-srd/spells/Detect Secret Doors|detect secret doors]]_, and _[[rangoric-srd/spells/Identify|identify]]_, but each has a casting time of 1 minute, as the spiritualist needs to consult with the spirits of the dead that dwell in his area or that are somehow attached to him in some way. The spiritualist can use this ability a number of times per day equal to his investigator level + his Wisdom modifier.
 
-As he goes up in level, the spiritualist gains the ability to use other spells with the casting time as above. At 5th level, he can use *[[rangoric-srd/spells/Augury|augury]]*. At 7th level, he can use *[[rangoric-srd/spells/Speak with Dead|speak with dead]]* and *[[rangoric-srd/spells/Locate Object|locate object]]*. At 9th level, he can use *[[rangoric-srd/spells/Legend Lore|legend lore]]*. Each of these requires one use of this ability.
+As he goes up in level, the spiritualist gains the ability to use other spells with the casting time as above. At 5th level, he can use _[[rangoric-srd/spells/Augury|augury]]_. At 7th level, he can use _[[rangoric-srd/spells/Speak with Dead|speak with dead]]_ and _[[rangoric-srd/spells/Locate Object|locate object]]_. At 9th level, he can use _[[rangoric-srd/spells/Legend Lore|legend lore]]_. Each of these requires one use of this ability.
 
 This ability replaces [[rangoric-srd/classes/Investigator#^investigator-alchemy|alchemy]]. A spiritualist cannot take the [[rangoric-srd/class-options/investigator-talents/Alchemist Discovery (Investigator Talent)|alchemist discovery]] talent or any investigator talent that affects alchemy.
 

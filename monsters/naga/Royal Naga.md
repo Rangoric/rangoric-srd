@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Royal Naga
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Shapechanger)
-  - **Hit Dice**: 14d8+70 (133 hp)
-  - **Initiative**: +7
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 26 (+3 Dex, +15 natural, –2 size), touch 11, flat-footed 23
-  - **Base Attack**: +10; **CMB**: +18 (+22 grapple); **CMD**: 31 (can't be tripped)
-  - **Attack**: Bite +14 melee (2d6+6 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
-  - **Full Attack**: 5 bites +14 melee (2d6+6 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d6), [[rangoric-srd/monsters/abilities/Dual Gaze|dual gaze]], [[rangoric-srd/monsters/abilities/Rend|rend]] (3 bites, 2d6+9), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., see invisibility, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (five humanoid shapes; alter self)
-  - **Saves**: Fort +9, Ref +9, Will +15
-  - **Abilities**: Str 23, Dex 17, Con 21, Int 18, Wis 22, Cha 19
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Arcana|Arcana]] +18, [[rangoric-srd/skills/Athletics|Athletics]] +6 (+10 jumping), [[rangoric-srd/skills/Deception|Deception]] +18, [[rangoric-srd/skills/Perception|Perception]] +29, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20, [[rangoric-srd/skills/Society|Society]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +12
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Stand Still|Stand Still]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any land
-  - **Organization**: Solitary
-  - **Challenge Rating**: 11
-  - **Treasure**: Standard
-  - **Alignment**: Usually lawful neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Shapechanger)
+- **Hit Dice**: 14d8+70 (133 hp)
+- **Initiative**: +7
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 26 (+3 Dex, +15 natural, –2 size), touch 11, flat-footed 23
+- **Base Attack**: +10; **CMB**: +18 (+22 grapple); **CMD**: 31 (can't be tripped)
+- **Attack**: Bite +14 melee (2d6+6 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
+- **Full Attack**: 5 bites +14 melee (2d6+6 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d6), [[rangoric-srd/monsters/abilities/Dual Gaze|dual gaze]], [[rangoric-srd/monsters/abilities/Rend|rend]] (3 bites, 2d6+9), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., see invisibility, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (five humanoid shapes; alter self)
+- **Saves**: Fort +9, Ref +9, Will +15
+- **Abilities**: Str 23, Dex 17, Con 21, Int 18, Wis 22, Cha 19
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Arcana|Arcana]] +18, [[rangoric-srd/skills/Athletics|Athletics]] +6 (+10 jumping), [[rangoric-srd/skills/Deception|Deception]] +18, [[rangoric-srd/skills/Perception|Perception]] +29, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20, [[rangoric-srd/skills/Society|Society]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +12
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Stand Still|Stand Still]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any land
+- **Organization**: Solitary
+- **Challenge Rating**: 11
+- **Treasure**: Standard
+- **Alignment**: Usually lawful neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Regal and proud, royal nagas haunt lost cities and forgotten kingdoms, guarding ancient treasures for their own inscrutable reasons. A royal naga's five faces are sharp and fierce, taking on a terrifying countenance when it becomes angered. Bespeaking their innate pride and vanity, royal nagas adorn their serpentine hoods and faces with elaborate and valuable piercings, crowns, or other precious accessories. Royal nagas are 18 feet long, and often weigh more than 750 pounds.
 
@@ -69,11 +69,11 @@ Royal nagas tend to be stern in nature and commanding in speech. Although natura
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +13): Constant—*[[rangoric-srd/spells/See Invisibility|see invisibility]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +13): Constant—_[[rangoric-srd/spells/See Invisibility|see invisibility]]_.
 
 **Spells**: A royal naga casts spells as a 9th-level [[rangoric-srd/classes/Sorcerer|sorcerer]].
 
-**Spells known** (CL 9th; concentration +13): 4th (5/day)—*[[rangoric-srd/spells/Arcane Eye|arcane eye]]*, *[[rangoric-srd/spells/Charm Monster|charm monster]]* (DC 18); 3rd (7/day)—*[[rangoric-srd/spells/Blink|blink]]*, *[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, *[[rangoric-srd/spells/Suggestion|suggestion]]* (DC 17); 2nd (7/day)—*[[rangoric-srd/spells/Enthrall|enthrall]]* (DC 16), *[[rangoric-srd/spells/Hold Person|hold person]]* (DC 16), *[[rangoric-srd/spells/Invisibility|invisibility]]*, *[[rangoric-srd/spells/Scorching Ray|scorching ray]]*; 1st (7/day)—*[[rangoric-srd/spells/Charm Person|charm person]]* (DC 15), *[[rangoric-srd/spells/Mage Armor|mage armor]]*, *[[rangoric-srd/spells/Magic Missile|magic missile]]*, *[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]* (DC 15), *[[rangoric-srd/spells/Shield|shield]]*; 0 (at will)—*[[rangoric-srd/spells/Daze|daze]]* (DC 14), *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Flare|flare]]* (DC 14), *[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Message|message]]*, *[[rangoric-srd/spells/Open-Close|open/close]]*, *[[rangoric-srd/spells/Read Magic|read magic]]*, *[[rangoric-srd/spells/Touch of Fatigue|touch of fatigue]]*.
+**Spells known** (CL 9th; concentration +13): 4th (5/day)—_[[rangoric-srd/spells/Arcane Eye|arcane eye]]_, _[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 18); 3rd (7/day)—_[[rangoric-srd/spells/Blink|blink]]_, _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 17); 2nd (7/day)—_[[rangoric-srd/spells/Enthrall|enthrall]]_ (DC 16), _[[rangoric-srd/spells/Hold Person|hold person]]_ (DC 16), _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_; 1st (7/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 15), _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Magic Missile|magic missile]]_, _[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]_ (DC 15), _[[rangoric-srd/spells/Shield|shield]]_; 0 (at will)—_[[rangoric-srd/spells/Daze|daze]]_ (DC 14), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Flare|flare]]_ (DC 14), _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Message|message]]_, _[[rangoric-srd/spells/Open-Close|open/close]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_, _[[rangoric-srd/spells/Touch of Fatigue|touch of fatigue]]_.
 
 **[[rangoric-srd/monsters/abilities/Change Shape|Change Shape]] (Su)**: A royal naga can use this ability to take one of five specific humanoid forms. Each of these forms has a unique appearance (such as a female dwarf with red hair, an elderly male human, and so on) and the naga can only use this ability to assume these five forms. The naga can still use its dual gaze in humanoid form.
 

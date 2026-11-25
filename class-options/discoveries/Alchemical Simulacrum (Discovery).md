@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Alchemical Simulacrum
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]] (Su).*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]] (Su)._
 
-The alchemist gains the ability to create a lesser simulacrum. This works like the *[[rangoric-srd/spells/Simulacrum, Lesser|lesser simulacrum]]* spell, except it costs 100 gp in alchemical materials per Hit Die of the simulacrum, requires 24 hours to grow, and decays into inert flesh rather than ice or snow if killed. An alchemist must be at least 8th level before selecting this discovery. The created simulacrum is a creature, not a supernatural effect.
+The alchemist gains the ability to create a lesser simulacrum. This works like the _[[rangoric-srd/spells/Simulacrum, Lesser|lesser simulacrum]]_ spell, except it costs 100 gp in alchemical materials per Hit Die of the simulacrum, requires 24 hours to grow, and decays into inert flesh rather than ice or snow if killed. An alchemist must be at least 8th level before selecting this discovery. The created simulacrum is a creature, not a supernatural effect.

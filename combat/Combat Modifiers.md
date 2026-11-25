@@ -18,46 +18,46 @@ tags: [rangoric, rangoric/overview]
 
 **Table: Attack Roll Modifiers**
 
-| Attacker is . . .         | Melee   | Ranged  |
-| ------------------------- | ------- | ------- |
-| Dazzled                   | –1      | –1      |
-| Entangled                 | –2 (1)  | –2 (1)  |
-| Flanking defender         | +2     | —       |
+| Attacker is . . .         | Melee  | Ranged |
+| ------------------------- | ------ | ------ |
+| Dazzled                   | –1     | –1     |
+| Entangled                 | –2 (1) | –2 (1) |
+| Flanking defender         | +2     | —      |
 | Invisible                 | +2 (2) | +2 (2) |
 | On higher ground          | +1     | +0     |
-| Prone                     | –4      | — (3)   |
-| Shaken or frightened      | –2      | –2      |
-| Squeezing through a space | –4      | –4      |
+| Prone                     | –4     | — (3)  |
+| Shaken or frightened      | –2     | –2     |
+| Squeezing through a space | –4     | –4     |
 
-1 *An entangled character also takes a –4 penalty to Dexterity, which may affect his attack roll.*
+1 _An entangled character also takes a –4 penalty to Dexterity, which may affect his attack roll._
 
-2 *The defender loses any Dexterity bonus to AC. This bonus doesn’t apply if the target is blinded.*
+2 _The defender loses any Dexterity bonus to AC. This bonus doesn’t apply if the target is blinded._
 
-3 *Most ranged weapons can’t be used while the attacker is prone, but you can use a crossbow or shuriken while prone at no penalty.*
+3 _Most ranged weapons can’t be used while the attacker is prone, but you can use a crossbow or shuriken while prone at no penalty._
 
 **Table: Armor Class Modifiers**
 
-| Defender is . . .                                    | Melee               | Ranged    |
-| ---------------------------------------------------- | ------------------- | --------- |
-| Behind cover                                         | +4                 | +4       |
-| Blinded                                              | –2 (1)              | –2 (1)    |
-| Concealed or invisible                               | — See Concealment — |           |
-| Cowering                                             | –2 (1)              | –2 (1)    |
-| Entangled                                            | +0 (2)             | +0 (2)   |
-| Flat-footed (such as surprised, balancing, climbing) | +0 (1)             | +0 (1)   |
-| [[rangoric-srd/rules/conditions/Grappled (Condition)\|Grappled]] (but attacker is not) | +0 | +0 |
-| Helpless (such as paralyzed, sleeping, or bound)     | –4 (3)              | +0 (3)   |
-| Kneeling or sitting                                  | –2                  | +2       |
-| [[rangoric-srd/rules/conditions/Pinned (Condition)\|Pinned]] | –4 (1) | –4 (1) |
-| Prone                                                | –4                  | +4       |
-| Squeezing through a space                            | –4                  | –4        |
-| Stunned                                              | –2 (1)              | –2 (1)    |
+| Defender is . . .                                                                      | Melee               | Ranged |
+| -------------------------------------------------------------------------------------- | ------------------- | ------ |
+| Behind cover                                                                           | +4                  | +4     |
+| Blinded                                                                                | –2 (1)              | –2 (1) |
+| Concealed or invisible                                                                 | — See Concealment — |        |
+| Cowering                                                                               | –2 (1)              | –2 (1) |
+| Entangled                                                                              | +0 (2)              | +0 (2) |
+| Flat-footed (such as surprised, balancing, climbing)                                   | +0 (1)              | +0 (1) |
+| [[rangoric-srd/rules/conditions/Grappled (Condition)\|Grappled]] (but attacker is not) | +0                  | +0     |
+| Helpless (such as paralyzed, sleeping, or bound)                                       | –4 (3)              | +0 (3) |
+| Kneeling or sitting                                                                    | –2                  | +2     |
+| [[rangoric-srd/rules/conditions/Pinned (Condition)\|Pinned]]                           | –4 (1)              | –4 (1) |
+| Prone                                                                                  | –4                  | +4     |
+| Squeezing through a space                                                              | –4                  | –4     |
+| Stunned                                                                                | –2 (1)              | –2 (1) |
 
-1 *The defender loses any Dexterity bonus to AC.*
+1 _The defender loses any Dexterity bonus to AC._
 
-2 *An entangled character takes a –4 penalty to Dexterity.*
+2 _An entangled character takes a –4 penalty to Dexterity._
 
-3 *Treat the defender’s Dexterity as 0 (–5 modifier). Rogues can sneak attack helpless defenders.*
+3 _Treat the defender’s Dexterity as 0 (–5 modifier). Rogues can sneak attack helpless defenders._
 
 ##### Cover
 
@@ -107,7 +107,7 @@ When making a melee attack, you get a +2 flanking bonus if your opponent is thre
 
 When in doubt about whether two friendly characters flank an opponent in the middle, trace an imaginary line between the two friendly characters’ centers. If the line passes through opposite borders of the opponent’s space (including corners of those borders), then the opponent is flanked.
 
-*Exception*: If a flanker takes up more than 1 square, it gets the flanking bonus if any square it occupies counts for flanking.
+_Exception_: If a flanker takes up more than 1 square, it gets the flanking bonus if any square it occupies counts for flanking.
 
 Only a creature or character that threatens the defender can help an attacker get a flanking bonus.
 

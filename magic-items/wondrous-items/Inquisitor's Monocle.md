@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Inquisitor's Monocle
 
-The thick glass lens of this golden-framed monocle is attached to the wearer by a weighty chain. This monocle helps draw out the truth of things, and was originally created to aid in the investigation of crimes and the questioning of witnesses. Twice per day on command, it can create a *[[rangoric-srd/spells/Zone of Truth|zone of truth]]*, as per the spell. In addition, this monocle grants its wearer a +5 competence bonus on [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks. Though it fits over only one of the wearer's eyes, the item takes up the entire eyes slot.
+The thick glass lens of this golden-framed monocle is attached to the wearer by a weighty chain. This monocle helps draw out the truth of things, and was originally created to aid in the investigation of crimes and the questioning of witnesses. Twice per day on command, it can create a _[[rangoric-srd/spells/Zone of Truth|zone of truth]]_, as per the spell. In addition, this monocle grants its wearer a +5 competence bonus on [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks. Though it fits over only one of the wearer's eyes, the item takes up the entire eyes slot.
 
-Faint enchantment; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Zone of Truth|zone of truth]]*; Price 6,800 gp; Cost 3,400 gp.
+Faint enchantment; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Zone of Truth|zone of truth]]_; Price 6,800 gp; Cost 3,400 gp.

@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Spellblade
 
-*A [[rangoric-srd/classes/Magus#^magus-archetypes|magus]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Magus#^magus-archetypes|magus]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A spellblade magus can manifest a ghostly blade of force that can be used as an off-hand weapon.
 

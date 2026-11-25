@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades]
 
 # War Cleaver
 
-*Exotic two-handed melee weapon.* Cost 50 gp; Dmg 2d3 (S), 2d4 (M); Critical 19-20/x2; Weight 10 lb.; Type Slashing. ^stats
+_Exotic two-handed melee weapon._ Cost 50 gp; Dmg 2d3 (S), 2d4 (M); Critical 19-20/x2; Weight 10 lb.; Type Slashing. ^stats
 
 A war cleaver is a heavy-bladed, broad, curved, single-edged sword favored by the most powerful and skilled hobgoblin fighters. A war cleaver is too awkward to use in one hand without special training; thus it is an exotic weapon. A Medium-size character can use a war cleaver two-handed as a martial weapon, or a Large creature can use it one-handed in the same way.

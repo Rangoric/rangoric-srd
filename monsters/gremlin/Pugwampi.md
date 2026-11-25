@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Pugwampi
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
-  - **Hit Dice**: 1d6+3 (6 hp)
-  - **Initiative**: +5
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 13 (+1 Dex, +2 size), touch 13, flat-footed 12
-  - **Base Attack**: +0; **CMB**: –1; **CMD**: 5
-  - **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +3 melee (1d2–4/19–20) or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +3 ranged (1d3–4/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +3 melee (1d2–4/19–20); or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +3 ranged (1d3–4/×3)
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], unluck (20 ft.), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 2/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 7
-  - **Saves**: Fort +0, Ref +3, Will +4
-  - **Abilities**: Str 3, Dex 13, Con 11, Int 10, Wis 14, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +2, [[rangoric-srd/skills/Craft|Craft]] (traps) +4, [[rangoric-srd/skills/Deception|Deception]] +2, [[rangoric-srd/skills/Engineering|Engineering]] +2, [[rangoric-srd/skills/Perception|Perception]] +6 (+2 Listening), [[rangoric-srd/skills/Stealth|Stealth]] +17
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Warm hills
-  - **Organization**: Solitary, pair, mob (3–12), or infestation (13–20 with 1–3 druids of 1st–3rd level, 1 fighter leader of 2nd–4th level, 2–8 trained stirges, and 2–5 trained baboons)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: Standard (dagger, shortbow with 20 arrows, other treasure)
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
+- **Hit Dice**: 1d6+3 (6 hp)
+- **Initiative**: +5
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 13 (+1 Dex, +2 size), touch 13, flat-footed 12
+- **Base Attack**: +0; **CMB**: –1; **CMD**: 5
+- **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +3 melee (1d2–4/19–20) or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +3 ranged (1d3–4/×3)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +3 melee (1d2–4/19–20); or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +3 ranged (1d3–4/×3)
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], unluck (20 ft.), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 2/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 7
+- **Saves**: Fort +0, Ref +3, Will +4
+- **Abilities**: Str 3, Dex 13, Con 11, Int 10, Wis 14, Cha 6
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +2, [[rangoric-srd/skills/Craft|Craft]] (traps) +4, [[rangoric-srd/skills/Deception|Deception]] +2, [[rangoric-srd/skills/Engineering|Engineering]] +2, [[rangoric-srd/skills/Perception|Perception]] +6 (+2 Listening), [[rangoric-srd/skills/Stealth|Stealth]] +17
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Warm hills
+- **Organization**: Solitary, pair, mob (3–12), or infestation (13–20 with 1–3 druids of 1st–3rd level, 1 fighter leader of 2nd–4th level, 2–8 trained stirges, and 2–5 trained baboons)
+- **Challenge Rating**: 1/2
+- **Treasure**: Standard (dagger, shortbow with 20 arrows, other treasure)
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Mean, dog-faced, and cowardly, pugwampis are loved by no one—not even other gremlins. These gremlins take disproportionate amounts of enjoyment from the accidents and missteps of other creatures, often going to great lengths to manufacture the perfect deadfalls or stumbling blocks. They then wait nearby, both to laugh at the inevitable mishaps and to make sure their personal unluckiness is passed off on their victims.
 
@@ -72,6 +72,6 @@ Pugwampis speak Gnoll and Undercommon.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st; concentration -1): At will—*[[rangoric-srd/spells/Prestidigitation|prestidigitation]]*, *[[rangoric-srd/spells/Speak with Animals|speak with animals]]*; 1/day—*[[rangoric-srd/spells/Shatter|shatter]]* (DC 10).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st; concentration -1): At will—_[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_, _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_; 1/day—_[[rangoric-srd/spells/Shatter|shatter]]_ (DC 10).
 
 **Unluck Aura (Su)**: A pugwampi radiates an aura of unluck to a radius of 20 feet. Any creature in this area must roll two d20s whenever a situation calls for a d20 roll (such as an attack roll, a skill check, or a saving throw) and must use the lower of the two results generated. This is a mind-affecting effect that does not work on animals, other gremlins, or gnolls. Any character who gains any sort of luck bonus (such as that granted by a luckstone or divine favor) is immune to the pugwampi unluck aura.

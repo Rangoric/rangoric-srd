@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Sargassum Fiend
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]] (Aquatic)
-  - **Hit Dice**: 13d8+65 (123 hp)
-  - **Initiative**: +6
-  - **Speed**: 20 ft. (4 squares), climb 20 ft., swim 40 ft.
-  - **Armor Class**: 24 (+2 Dex, +1 dodge, +12 natural, –1 size), touch 12, flat-footed 21
-  - **Base Attack**: +9; **CMB**: +17 (+25 grapple); **CMD**: 30 (can't be tripped)
-  - **Attack**: Slam +16 melee (2d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: 2 slams +16 melee (2d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d8+10), [[rangoric-srd/monsters/abilities/Grab|grab]] (Huge)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 120 ft., [[rangoric-srd/monsters/abilities/Mirage|mirage]] (300 ft., DC 18), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/slashing, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10
-  - **Saves**: Fort +15, Ref +8, Will +4
-  - **Abilities**: Str 25, Dex 14, Con 20, Int 2, Wis 11, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +2, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +8
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)
-  - **Environment**: Any oceans
-  - **Organization**: Solitary, pair, or bed (3–8)
-  - **Challenge Rating**: 9
-  - **Treasure**: Incidental (1d6 sargassum fiend bulbs, other treasure)
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]] (Aquatic)
+- **Hit Dice**: 13d8+65 (123 hp)
+- **Initiative**: +6
+- **Speed**: 20 ft. (4 squares), climb 20 ft., swim 40 ft.
+- **Armor Class**: 24 (+2 Dex, +1 dodge, +12 natural, –1 size), touch 12, flat-footed 21
+- **Base Attack**: +9; **CMB**: +17 (+25 grapple); **CMD**: 30 (can't be tripped)
+- **Attack**: Slam +16 melee (2d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: 2 slams +16 melee (2d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d8+10), [[rangoric-srd/monsters/abilities/Grab|grab]] (Huge)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 120 ft., [[rangoric-srd/monsters/abilities/Mirage|mirage]] (300 ft., DC 18), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/slashing, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10
+- **Saves**: Fort +15, Ref +8, Will +4
+- **Abilities**: Str 25, Dex 14, Con 20, Int 2, Wis 11, Cha 15
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +2, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +8
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)
+- **Environment**: Any oceans
+- **Organization**: Solitary, pair, or bed (3–8)
+- **Challenge Rating**: 9
+- **Treasure**: Incidental (1d6 sargassum fiend bulbs, other treasure)
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A sargassum fiend is a free-floating mass of intelligent seaweed capable of luring its victims to their deaths via a powerful hallucinogenic pheromone. Once the sargassum fiend lures prey within striking distance, it grabs the entranced creature and attempts to crush it to death. Experienced sailors tell tales of entire crews jumping overboard to swim out to a murderous field of the sea plants.
 

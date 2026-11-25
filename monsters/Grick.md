@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Grick
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 5d8+5 (27 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares), climb 20 ft.
-  - **Armor Class**: 15 (+2 Dex, +3 natural), touch 12, flat-footed 13
-  - **Base Attack**: +3; **CMB**: +4; **CMD**: 16 (can't be tripped)
-  - **Attack**: Bite +4 melee (1d4+1) or tentacle +4 melee (1d4)
-  - **Full Attack**: Bite +4 melee (1d4+1) and 4 tentacles –1 melee (1d4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic
-  - **Saves**: Fort +2, Ref +3, Will +6
-  - **Abilities**: Str 12, Dex 14, Con 13, Int 3, Wis 14, Cha 5
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +6 (+14 in rocky terrain)
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Stand Still|Stand Still]]
-  - **Environment**: Any underground
-  - **Organization**: Solitary or cluster (2–5)
-  - **Challenge Rating**: 3
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: 3–4 HD (Medium); 5–6 HD (Large)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 5d8+5 (27 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares), climb 20 ft.
+- **Armor Class**: 15 (+2 Dex, +3 natural), touch 12, flat-footed 13
+- **Base Attack**: +3; **CMB**: +4; **CMD**: 16 (can't be tripped)
+- **Attack**: Bite +4 melee (1d4+1) or tentacle +4 melee (1d4)
+- **Full Attack**: Bite +4 melee (1d4+1) and 4 tentacles –1 melee (1d4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic
+- **Saves**: Fort +2, Ref +3, Will +6
+- **Abilities**: Str 12, Dex 14, Con 13, Int 3, Wis 14, Cha 5
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +6 (+14 in rocky terrain)
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Stand Still|Stand Still]]
+- **Environment**: Any underground
+- **Organization**: Solitary or cluster (2–5)
+- **Challenge Rating**: 3
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: 3–4 HD (Medium); 5–6 HD (Large)
+- **Level Adjustment**: —
 
 The worm-like grick is a terror of the caverns and tunnels in which it dwells, lying in wait near heavily traveled underground passages or subterranean cities for the chance to reach forth from the darkness and take its prey. Those laid low by a grick are rarely consumed on the spot. Instead, fresh food is hauled back to the grick's lair in a tight burrow or high on a cavern ledge, where it is consumed in small bites at the grick's leisure.
 

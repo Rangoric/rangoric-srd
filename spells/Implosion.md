@@ -25,16 +25,16 @@ tags: [rangoric, rangoric/spell]
 
 # Implosion
 
-*Evocation*
+_Evocation_
 
-  - **Level**: Clr 9, Destruction 9, Psy 9
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Targets**: One corporeal creature/round
-  - **Duration**: Concentration (up to 4 rounds)
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Clr 9, Destruction 9, Psy 9
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Targets**: One corporeal creature/round
+- **Duration**: Concentration (up to 4 rounds)
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
 You create a destructive resonance in a corporeal creature’s body. For each round you concentrate, you cause one creature to collapse in on itself, killing it. (This effect, being instantaneous, cannot be dispelled.)
 

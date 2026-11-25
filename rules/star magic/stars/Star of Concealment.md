@@ -23,17 +23,17 @@ tags: [rangoric, rangoric/star]
 
 # Star of Concealment
 
-*[[rangoric-srd/rules/star magic/Star Magic|Star]]*
+_[[rangoric-srd/rules/star magic/Star Magic|Star]]_
 
-  - **Call Level**: 1st ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
-  - **Aspect**: Ascendant in winter, descendant in summer, on the horizon in spring and autumn ([[rangoric-srd/rules/star magic/Star Magic#^seasons|seasons]])
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: You and one creature or object/level, touching
-  - **Duration**: 5 min./level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes
+- **Call Level**: 1st ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
+- **Aspect**: Ascendant in winter, descendant in summer, on the horizon in spring and autumn ([[rangoric-srd/rules/star magic/Star Magic#^seasons|seasons]])
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: You and one creature or object/level, touching
+- **Duration**: 5 min./level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes
 
 You and those you share the light with gain a +2 circumstance bonus per call level on [[rangoric-srd/skills/Stealth|Stealth]] checks.
 

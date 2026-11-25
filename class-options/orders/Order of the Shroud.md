@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Order of the Shroud
 
-*A [[rangoric-srd/classes/Cavalier#^cavalier-order|cavalier order]].*
+_A [[rangoric-srd/classes/Cavalier#^cavalier-order|cavalier order]]._
 
 Cavaliers of this order seek out and destroy undead and those who harbor or create them. They scour old crypts, graveyards, and battlefields to bring eternal rest.
 

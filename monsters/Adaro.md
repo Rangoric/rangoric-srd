@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Adaro
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Aquatic)
-  - **Hit Dice**: 4d10+8 (30 hp)
-  - **Initiative**: +3
-  - **Speed**: 10 ft. (2 squares), swim 50 ft.
-  - **Armor Class**: 15 (+3 Dex, +2 natural), touch 13, flat-footed 12
-  - **Base Attack**: +4; **CMB**: +7; **CMD**: 20
-  - **Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +8 melee (1d8+4/×3 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or bite +7 melee (1d6+1) or [[rangoric-srd/equipment/weapons/Spear|spear]] +8 ranged (1d8+3/×3 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +8 melee (1d8+4/×3 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and bite +2 melee (1d6+1); or [[rangoric-srd/equipment/weapons/Spear|spear]] +8 ranged (1d8+3/×3 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rain Frenzy|Rain frenzy]], [[rangoric-srd/monsters/abilities/Poison|poison]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Keen Scent|keen scent]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/races/racial-traits/Poison Use|poison use]]
-  - **Saves**: Fort +3, Ref +7, Will +5
-  - **Abilities**: Str 16, Dex 17, Con 14, Int 10, Wis 13, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spear)
-  - **Environment**: Warm oceans
-  - **Organization**: Solitary, hunting party (2–6), or tribe (7–12)
-  - **Challenge Rating**: 3
-  - **Treasure**: Standard (3 spears, other treasure)
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Aquatic)
+- **Hit Dice**: 4d10+8 (30 hp)
+- **Initiative**: +3
+- **Speed**: 10 ft. (2 squares), swim 50 ft.
+- **Armor Class**: 15 (+3 Dex, +2 natural), touch 13, flat-footed 12
+- **Base Attack**: +4; **CMB**: +7; **CMD**: 20
+- **Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +8 melee (1d8+4/×3 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or bite +7 melee (1d6+1) or [[rangoric-srd/equipment/weapons/Spear|spear]] +8 ranged (1d8+3/×3 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +8 melee (1d8+4/×3 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and bite +2 melee (1d6+1); or [[rangoric-srd/equipment/weapons/Spear|spear]] +8 ranged (1d8+3/×3 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Rain Frenzy|Rain frenzy]], [[rangoric-srd/monsters/abilities/Poison|poison]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Keen Scent|keen scent]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/races/racial-traits/Poison Use|poison use]]
+- **Saves**: Fort +3, Ref +7, Will +5
+- **Abilities**: Str 16, Dex 17, Con 14, Int 10, Wis 13, Cha 13
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spear)
+- **Environment**: Warm oceans
+- **Organization**: Solitary, hunting party (2–6), or tribe (7–12)
+- **Challenge Rating**: 3
+- **Treasure**: Standard (3 spears, other treasure)
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Malevolent denizens of the waters, adaros are among the fiercest sentient hunters of the tropical seas. They are known and feared by sailors on many exotic shores, as well as by common folk who just happen to live near the ocean. Many have witnessed a fellow sailor or fisher suddenly go rigid, a poisoned spear jutting from his guts, only to fall into the water and be taken by the vicious adaro responsible for the assault.
 
@@ -74,7 +74,7 @@ Adaros speak Aquan and Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Adaros favor a paralytic toxin secreted by the flying nettlefin pufferfish—a sticky venom that doesn't wash away in water. [[rangoric-srd/rules/afflictions/Nettlefin Toxin|Nettlefin Toxin]]: Spear—injury; *save* Fort DC 15; *frequency* 1/minute for 4 minutes; *effect* paralyzed for 1 minute; *cure* 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Adaros favor a paralytic toxin secreted by the flying nettlefin pufferfish—a sticky venom that doesn't wash away in water. [[rangoric-srd/rules/afflictions/Nettlefin Toxin|Nettlefin Toxin]]: Spear—injury; _save_ Fort DC 15; _frequency_ 1/minute for 4 minutes; _effect_ paralyzed for 1 minute; _cure_ 2 consecutive saves.
 
 **[[rangoric-srd/races/racial-traits/Poison Use|Poison Use]] (Ex)**: Adaros are skilled in the use of poison and never risk accidentally poisoning themselves.
 

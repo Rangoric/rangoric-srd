@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Bleeding Wounds
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Bones Mystery|bones]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Bones Mystery|bones]] mystery._
 
-Whenever a creature takes damage from one of your spells or effects that causes negative energy damage (such as *[[rangoric-srd/spells/Inflict Light Wounds|inflict light wounds]]* or the death's touch revelation), it begins to bleed, taking 1 point of damage each round. At 5th level, and every five levels thereafter, this damage increases by 1. The bleeding can be stopped by a DC 15 Medicine check or any effect that heals damage.
+Whenever a creature takes damage from one of your spells or effects that causes negative energy damage (such as _[[rangoric-srd/spells/Inflict Light Wounds|inflict light wounds]]_ or the death's touch revelation), it begins to bleed, taking 1 point of damage each round. At 5th level, and every five levels thereafter, this damage increases by 1. The bleeding can be stopped by a DC 15 Medicine check or any effect that heals damage.

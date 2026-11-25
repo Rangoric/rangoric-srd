@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/flails, weapon-group/monk, easter
 
 # Sansetsukon
 
-*Martial two-handed melee weapon (blocking, disarm, monk).* Cost 8 gp; Dmg 1d8 (S), 1d10 (M); Critical 19–20/x2; Weight 3 lb.; Type Bludgeoning. ^stats
+_Martial two-handed melee weapon (blocking, disarm, monk)._ Cost 8 gp; Dmg 1d8 (S), 1d10 (M); Critical 19–20/x2; Weight 3 lb.; Type Bludgeoning. ^stats
 
 This staff is broken into three 2-foot-long segments that have been chained back together, allowing the wielder greater flexibility, and allows the weapon to be swung rapidly to create a defensive block.
 

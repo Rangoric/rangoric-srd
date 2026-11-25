@@ -24,23 +24,23 @@ Most ordinary computer use needs no check. Finding public information is researc
 
 **Check**: You can find files or data on a private system you don’t know. The DC and the time depend on the size of the system.
 
-| Size of System | DC | Time |
-| --- | --- | --- |
-| Personal computer | 10 | 1 round |
-| Small office network | 15 | 2 rounds |
-| Large office network | 20 | 1 minute |
-| Massive corporate network | 25 | 10 minutes |
+| Size of System            | DC  | Time       |
+| ------------------------- | --- | ---------- |
+| Personal computer         | 10  | 1 round    |
+| Small office network      | 15  | 2 rounds   |
+| Large office network      | 20  | 1 minute   |
+| Massive corporate network | 25  | 10 minutes |
 
 ## Defeating Security
 
 **Check**: The DC depends on the quality of the security. If you fail by 5 or more, the system alerts its administrator, who may try to identify you or cut off your access. If you beat the DC by 10 or more, you automatically succeed at later security checks on the same system until your session ends.
 
-| Level of Security | DC |
-| --- | --- |
-| Minimum | 20 |
-| Average | 25 |
-| Exceptional | 35 |
-| Maximum | 40 |
+| Level of Security | DC  |
+| ----------------- | --- |
+| Minimum           | 20  |
+| Average           | 25  |
+| Exceptional       | 35  |
+| Maximum           | 40  |
 
 ### Hacking
 
@@ -60,11 +60,11 @@ Breaking into a system you aren’t allowed in takes several steps. A system can
 
 **Check**: You can crash a computer, destroy its programs so it can’t be used until they’re repaired, or damage them so that every Computers check on it takes a –4 penalty, which its user may not notice. Each extra computer on the same system adds +2 to the DC. Fixing the damage takes 1 hour and a check against the DC to cause it + 5.
 
-| Change | DC | Time |
-| --- | --- | --- |
-| Crash computer | 10 | 1 minute |
-| Destroy programming | 15 | 10 minutes |
-| Damage programming | 20 | 10 minutes |
+| Change              | DC  | Time       |
+| ------------------- | --- | ---------- |
+| Crash computer      | 10  | 1 minute   |
+| Destroy programming | 15  | 10 minutes |
+| Damage programming  | 20  | 10 minutes |
 
 ## Writing Programs
 
@@ -74,16 +74,16 @@ Breaking into a system you aren’t allowed in takes several steps. A system can
 
 **Check**: With access to the computer that runs cameras, locks, alarms and other remote devices, you can shut them off or change how they work. If you fail by 5 or more, the system alerts its administrator.
 
-| Operation | DC | Time |
-| --- | --- | --- |
-| Shut down a passive device (camera, door lock) | 20 | 1 round per device |
-| Shut down an active device (motion detector, alarm) | 25 | 1 round per device |
-| Reset its settings | 30 | 1 minute per device |
-| Change passcodes | 25 | 1 minute |
-| Hide that anything was changed | +10 | 1 minute |
-| Minimum security | –5 | — |
-| Exceptional security | +10 | — |
-| Maximum security | +15 | — |
+| Operation                                           | DC  | Time                |
+| --------------------------------------------------- | --- | ------------------- |
+| Shut down a passive device (camera, door lock)      | 20  | 1 round per device  |
+| Shut down an active device (motion detector, alarm) | 25  | 1 round per device  |
+| Reset its settings                                  | 30  | 1 minute per device |
+| Change passcodes                                    | 25  | 1 minute            |
+| Hide that anything was changed                      | +10 | 1 minute            |
+| Minimum security                                    | –5  | —                   |
+| Exceptional security                                | +10 | —                   |
+| Maximum security                                    | +15 | —                   |
 
 ## Identifying Technology
 
@@ -93,14 +93,14 @@ Faced with an unfamiliar device, you can work out its main purpose. This doesn�
 
 **Identifying Creatures**: Computers identifies technological constructs, such as robots; see [[rangoric-srd/skills/Identifying Creatures|Identifying Creatures]].
 
-| Unfamiliar Item | DC |
-| --- | --- |
-| Basic tool or instrument | 10 |
-| Robotic or vehicle part | 15 |
-| Cybernetic implant | 20 |
-| Alien weapon or nanotechnology | 25 |
-| Alien artifact | 30 |
-| Each step of technology older or newer than yours | +5 |
+| Unfamiliar Item                                   | DC  |
+| ------------------------------------------------- | --- |
+| Basic tool or instrument                          | 10  |
+| Robotic or vehicle part                           | 15  |
+| Cybernetic implant                                | 20  |
+| Alien weapon or nanotechnology                    | 25  |
+| Alien artifact                                    | 30  |
+| Each step of technology older or newer than yours | +5  |
 
 ## For Every Use
 

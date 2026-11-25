@@ -18,14 +18,14 @@ tags: [rangoric, rangoric/class-option]
 
 # Darkness Infusion, Greater
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|substance infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|substance infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Void Element|void]]
-  - **Type**: substance infusion
-  - **Level**: 6
-  - **Burn**: 4
-  - **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Darkness Infusion|darkness infusion]]
-  - **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Gravity Blast|gravity]], [[rangoric-srd/class-options/wild-talents/Negative Blast|negative]], [[rangoric-srd/class-options/wild-talents/Void Blast|void]]
-  - **Saving Throw**: none
+- **Element**: [[rangoric-srd/class-options/elements/Void Element|void]]
+- **Type**: substance infusion
+- **Level**: 6
+- **Burn**: 4
+- **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Darkness Infusion|darkness infusion]]
+- **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Gravity Blast|gravity]], [[rangoric-srd/class-options/wild-talents/Negative Blast|negative]], [[rangoric-srd/class-options/wild-talents/Void Blast|void]]
+- **Saving Throw**: none
 
-Your blast creates supernatural darkness, as per [[rangoric-srd/class-options/wild-talents/Darkness Infusion|darkness infusion]], except it acts as *[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]* and counts as a 6th-level darkness spell.
+Your blast creates supernatural darkness, as per [[rangoric-srd/class-options/wild-talents/Darkness Infusion|darkness infusion]], except it acts as _[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_ and counts as a 6th-level darkness spell.

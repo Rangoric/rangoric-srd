@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Wind Walk
 
-*Transmutation \[Air\]*
+_Transmutation \[Air\]_
 
-  - **Level**: Alc 6, Clr 6, Drd 7, Sha 7
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Targets**: You and one touched creature per three levels
-  - **Duration**: 1 hour/level (D); see text
-  - **Saving Throw**: No and Will negates (harmless)
-  - **Spell Resistance**: No and Yes (harmless)
+- **Level**: Alc 6, Clr 6, Drd 7, Sha 7
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Targets**: You and one touched creature per three levels
+- **Duration**: 1 hour/level (D); see text
+- **Saving Throw**: No and Will negates (harmless)
+- **Spell Resistance**: No and Yes (harmless)
 
 You alter the substance of your body to a cloudlike vapor (as the gaseous form spell) and move through the air, possibly at great speed. You can take other creatures with you, each of which acts independently.
 

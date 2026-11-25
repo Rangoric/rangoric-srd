@@ -29,13 +29,13 @@ tags: [rangoric, rangoric/spell]
 
 # Planar Adaptation
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 5, Clr 4, Med 4, Occ 4, Psy 4, Sor/Wiz 5, Spi 5, Sum 5, SumU 5
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 hour/level (D)
+- **Level**: Alc 5, Clr 4, Med 4, Occ 4, Psy 4, Sor/Wiz 5, Spi 5, Sum 5, SumU 5
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 hour/level (D)
 
-*Planar adaptation* grants you immunity to the harmful environmental effects of a particular plane of existence, including such hazards as toxicity, extreme temperatures, and lack of air. Additionally, you gain energy resistance 20 to a single energy type prevalent on that plane (choose one if more than one type is equally prevalent). *Planar adaptation* has no effect when cast upon your native plane.
+_Planar adaptation_ grants you immunity to the harmful environmental effects of a particular plane of existence, including such hazards as toxicity, extreme temperatures, and lack of air. Additionally, you gain energy resistance 20 to a single energy type prevalent on that plane (choose one if more than one type is equally prevalent). _Planar adaptation_ has no effect when cast upon your native plane.

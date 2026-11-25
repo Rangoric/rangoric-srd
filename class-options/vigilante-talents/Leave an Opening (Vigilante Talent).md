@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Leave an Opening
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)\*.*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)\*._
 
 The vigilante’s [[rangoric-srd/classes/Vigilante#^vigilante-specialization|hidden strike]] leaves an unbalancing opening in a foe’s defenses, setting up the foe to be attacked again. At the beginning of the foe’s next turn, if the vigilante threatens the foe, the foe provokes an attack of opportunity from the vigilante. Multiple attacks against the same foe don’t create multiple attacks of opportunity in the same round (but attacks against several foes can cause each to provoke one attack of opportunity).
 

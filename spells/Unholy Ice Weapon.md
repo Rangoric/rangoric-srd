@@ -24,9 +24,9 @@ tags: [rangoric, rangoric/spell]
 
 # Unholy Ice Weapon
 
-*Transmutation \[Cold, Evil, Water\]*
+_Transmutation \[Cold, Evil, Water\]_
 
-  - **Level**: Clr 2, Inq 2
-  - **Components**: V, S, M (a flask of unholy water or 5 pounds of powdered silver worth 25 gp)
+- **Level**: Clr 2, Inq 2
+- **Components**: V, S, M (a flask of unholy water or 5 pounds of powdered silver worth 25 gp)
 
-This spell functions as *[[rangoric-srd/spells/Holy Ice Weapon|holy ice weapon]]*, except the weapon is made of frozen unholy water, and instead deals additional damage to creatures that are susceptible to unholy water.
+This spell functions as _[[rangoric-srd/spells/Holy Ice Weapon|holy ice weapon]]_, except the weapon is made of frozen unholy water, and instead deals additional damage to creatures that are susceptible to unholy water.

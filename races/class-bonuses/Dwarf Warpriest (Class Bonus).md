@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Dwarf Warpriest
 
-*A [[rangoric-srd/races/Dwarf|dwarf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Warpriest#^warpriest-class-bonuses|warpriest]] level.*
+_A [[rangoric-srd/races/Dwarf|dwarf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Warpriest#^warpriest-class-bonuses|warpriest]] level._
 
 Add 1/3 to the number of times per day the warpriest can use [[rangoric-srd/classes/Warpriest#^warpriest-blessings|blessings]], but he can only use these additional uses on blessings that affect weapons or armor.

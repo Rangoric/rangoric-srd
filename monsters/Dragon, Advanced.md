@@ -30,7 +30,7 @@ Speed: When a dragon becomes Colossal, its fly speed increases by 50 feet and it
 Ability Scores: A great wyrm’s Strength and Constitution scores both increase by +2 for every virtual age category the dragon gains. Its Dexterity remains unchanged. Its Intelligence, Wisdom, and Charisma increase by +2 for every two age categories the dragon gains.
 
 Special Abilities: Dragons do not gain additional spell-like abilities, but their [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] continues to increase as they gain Hit Dice. For most dragons (the exceptions being the force and prismatic dragons), the great wyrm’s damage reduction increases to 15/epic after exceeding the great wyrm age category and the dragon’s natural weapons count as epic weapons for the purposes of bypassing damage reduction.  
-Force and prismatic dragons have the following DR progression: wyrmling 10/magic, young 15/magic, young adult 15/epic, mature adult 20/epic, very old 25/epic.  
+Force and prismatic dragons have the following DR progression: wyrmling 10/magic, young 15/magic, young adult 15/epic, mature adult 20/epic, very old 25/epic.
 
 Caster Level: A great wyrm’s caster level increases by 2 for every virtual age category the dragon gains. As with the epic dragons described later, advanced dragons gain the [[rangoric-srd/feats/Improved Spell Capacity|Improved Spell Capacity]] feat as a bonus feat once for every three caster levels above 20th.
 

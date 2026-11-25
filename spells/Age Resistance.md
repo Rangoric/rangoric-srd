@@ -28,13 +28,13 @@ tags: [rangoric, rangoric/spell]
 
 # Age Resistance
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 4, Drd 6, Hun 6, Occ 4, Psy 6, Sor/Wiz 6, Wit 6
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 24 hours
+- **Level**: Alc 4, Drd 6, Hun 6, Occ 4, Psy 6, Sor/Wiz 6, Wit 6
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 24 hours
 
-This spell functions as *[[rangoric-srd/spells/Age Resistance, Lesser|lesser age resistance]]*, except you ignore the Strength, Dexterity, and Constitution penalties gained at middle age and old age.
+This spell functions as _[[rangoric-srd/spells/Age Resistance, Lesser|lesser age resistance]]_, except you ignore the Strength, Dexterity, and Constitution penalties gained at middle age and old age.

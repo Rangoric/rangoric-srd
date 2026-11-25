@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Poison Ward Salve
 
-*Remedy*
+_Remedy_
 
 This herbal salve can be applied directly to the skin to prevent the effects of contact poisons. If a creature touches a contact poison, but you apply the salve within 1 round of contact, the victim rolls the save twice and uses the higher result.
 

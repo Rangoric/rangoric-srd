@@ -29,15 +29,15 @@ tags: [rangoric, rangoric/spell]
 
 # Pox Pustules
 
-*Necromancy \[Disease\]*
+_Necromancy \[Disease\]_
 
-  - **Level**: Drd 2, Hun 2, Wit 2
-  - **Components**: V, S, M (leaves from a toxic plant)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Drd 2, Hun 2, Wit 2
+- **Components**: V, S, M (leaves from a toxic plant)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: 1 minute/level
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
 You inflict a painful, itching rash on the target creature. The target is sickened and takes a –4 penalty to Dexterity (this penalty cannot lower Dexterity below 0). The target can spend a move action scratching furiously at the rash to remove the sickened condition (but not the Dexterity penalty) until the start of its next turn.

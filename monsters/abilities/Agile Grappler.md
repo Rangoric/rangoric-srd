@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Agile Grappler
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “agile grappler”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “agile grappler”, on the Special Qualities line.
 
 A gylou does not gain the grappled condition if she grapples a foe. The [[rangoric-srd/monsters/devil/Handmaiden Devil|handmaiden devil]] has it.

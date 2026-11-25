@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Cloak of the Troll King
 
-This long cloak is a patchwork of beast and humanoid hides roughly stitched together. A crude, crown-shaped patch of yellow-dyed fabric is sewn on the back, and a length of knotted hemp rope secures the cloak around the wearer's neck. The wearer gains a +5 competence bonus on [[rangoric-srd/skills/Intimidation|Intimidation]] checks and the ability to use *[[rangoric-srd/spells/Burning Hands|burning hands]]* as a spell-like ability three times per day.
+This long cloak is a patchwork of beast and humanoid hides roughly stitched together. A crude, crown-shaped patch of yellow-dyed fabric is sewn on the back, and a length of knotted hemp rope secures the cloak around the wearer's neck. The wearer gains a +5 competence bonus on [[rangoric-srd/skills/Intimidation|Intimidation]] checks and the ability to use _[[rangoric-srd/spells/Burning Hands|burning hands]]_ as a spell-like ability three times per day.
 
-Faint evocation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Burning Hands|burning hands]]*, *[[rangoric-srd/spells/Cause Fear|cause fear]]*; Price 9,000 gp; Cost 4,500 gp; Weight 2 lbs.
+Faint evocation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Burning Hands|burning hands]]_, _[[rangoric-srd/spells/Cause Fear|cause fear]]_; Price 9,000 gp; Cost 4,500 gp; Weight 2 lbs.

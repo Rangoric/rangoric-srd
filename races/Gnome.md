@@ -28,7 +28,7 @@ Perks:
 - +2 Charisma
 - -2 Strength
 - Defensive Training: Gnomes have [[rangoric-srd/races/PC Races#^defensive-training|defensive training]].
-- Gnome Magic: Add +1 to the Difficulty Class for all saving throws against illusion spells cast by gnomes. This adjustment stacks with those from similar effects. A gnome with a Charisma score of 11 or higher also has the following spell-like abilities: 1/day—*[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Ghost Sound|ghost sound]]*, *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]*, and *[[rangoric-srd/spells/Speak with Animals|speak with animals]]*. The caster level for these effects is equal to the gnome’s level; save DC 10 + the spell’s level + the gnome’s Cha modifier.
+- Gnome Magic: Add +1 to the Difficulty Class for all saving throws against illusion spells cast by gnomes. This adjustment stacks with those from similar effects. A gnome with a Charisma score of 11 or higher also has the following spell-like abilities: 1/day—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_, and _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_. The caster level for these effects is equal to the gnome’s level; save DC 10 + the spell’s level + the gnome’s Cha modifier.
 - Hatred: +1 racial bonus on attack rolls against reptilian humanoids (such as kobolds) and goblinoids.
 - Illusion Resistance: +2 racial bonus on saving throws against illusions.
 - Keen Senses: +2 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
@@ -58,17 +58,17 @@ Paragon Class: [[rangoric-srd/classes/Gnome Paragon|Gnome Paragon]]
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 40 years | +4d6 | +6d6 | +9d6 |
+| --------- | --------- | ----------- | ------- |
+| 40 years  | +4d6      | +6d6        | +9d6    |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 100 years | 150 years | 200 years | +3d% years |
+| Middle Age | Old       | Venerable | Maximum Age |
+| ---------- | --------- | --------- | ----------- |
+| 100 years  | 150 years | 200 years | +3d% years  |
 
-| Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Male | 3 ft. 0 in. | +2d4 | 40 lb. | × 1 lb. |
-| Female | 2 ft. 10 in. | +2d4 | 35 lb. | × 1 lb. |
+| Gender | Base Height  | Height Modifier | Base Weight | Weight Modifier |
+| ------ | ------------ | --------------- | ----------- | --------------- |
+| Male   | 3 ft. 0 in.  | +2d4            | 40 lb.      | × 1 lb.         |
+| Female | 2 ft. 10 in. | +2d4            | 35 lb.      | × 1 lb.         |
 
 ### Description
 
@@ -126,20 +126,20 @@ Gnomes are physically weak compared to many races, and see this as a simple fact
 
 A gnome can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]). Many gnomes love the wild places where their fey cousins gather, but more and more of them leave these places for cities, drawn by curiosity and a love of creation to commerce, trade and workshops where they can follow the latest discoveries. Such gnomes may have other racial traits.
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Academician\|Academician]] | Obsessive |
-| [[rangoric-srd/races/racial-traits/Bond to the Land\|Bond to the Land]] | Defensive training and hatred |
-| [[rangoric-srd/races/racial-traits/Darkvision (Racial Trait)\|Darkvision]] | Low-light vision and keen senses |
-| [[rangoric-srd/races/racial-traits/Eternal Hope\|Eternal Hope]] | Defensive training and hatred |
-| [[rangoric-srd/races/racial-traits/Explorer\|Explorer]] | Hatred and obsessive |
-| [[rangoric-srd/races/racial-traits/Fell Magic\|Fell Magic]] | Gnome magic |
-| [[rangoric-srd/races/racial-traits/Gift of Tongues\|Gift of Tongues]] | Defensive training and hatred |
-| [[rangoric-srd/races/racial-traits/Knack with Poison\|Knack with Poison]] | Illusion resistance and obsessive |
-| [[rangoric-srd/races/racial-traits/Magical Linguist\|Magical Linguist]] | Gnome magic and illusion resistance |
-| [[rangoric-srd/races/racial-traits/Master Tinker\|Master Tinker]] | Defensive training and hatred |
-| [[rangoric-srd/races/racial-traits/Pyromaniac\|Pyromaniac]] | Gnome magic and illusion resistance |
-| [[rangoric-srd/races/racial-traits/Warden of Nature\|Warden of Nature]] | Defensive training and hatred |
+| Trait                                                                      | Replaces                            |
+| -------------------------------------------------------------------------- | ----------------------------------- |
+| [[rangoric-srd/races/racial-traits/Academician\|Academician]]              | Obsessive                           |
+| [[rangoric-srd/races/racial-traits/Bond to the Land\|Bond to the Land]]    | Defensive training and hatred       |
+| [[rangoric-srd/races/racial-traits/Darkvision (Racial Trait)\|Darkvision]] | Low-light vision and keen senses    |
+| [[rangoric-srd/races/racial-traits/Eternal Hope\|Eternal Hope]]            | Defensive training and hatred       |
+| [[rangoric-srd/races/racial-traits/Explorer\|Explorer]]                    | Hatred and obsessive                |
+| [[rangoric-srd/races/racial-traits/Fell Magic\|Fell Magic]]                | Gnome magic                         |
+| [[rangoric-srd/races/racial-traits/Gift of Tongues\|Gift of Tongues]]      | Defensive training and hatred       |
+| [[rangoric-srd/races/racial-traits/Knack with Poison\|Knack with Poison]]  | Illusion resistance and obsessive   |
+| [[rangoric-srd/races/racial-traits/Magical Linguist\|Magical Linguist]]    | Gnome magic and illusion resistance |
+| [[rangoric-srd/races/racial-traits/Master Tinker\|Master Tinker]]          | Defensive training and hatred       |
+| [[rangoric-srd/races/racial-traits/Pyromaniac\|Pyromaniac]]                | Gnome magic and illusion resistance |
+| [[rangoric-srd/races/racial-traits/Warden of Nature\|Warden of Nature]]    | Defensive training and hatred       |
 
 ### Race Traits
 
@@ -164,7 +164,7 @@ Bundles of alternate traits for gnomes of a particular background.
 
 **Subraces from the 3.5 monster entry.** The [[rangoric-srd/monsters/gnome/Gnome#Subraces|monster Gnome]]'s subraces; each has the gnome's traits except as noted. The svirfneblin is a race of its own, the [[rangoric-srd/races/Svirfneblin|svirfneblin]].
 
-- **Forest Gnome**: The smallest gnomes, 2 to 2½ feet tall, with bark-colored or gray-green skin and brown, green or blue eyes; very long-lived, about 500 years on average. Pass without Trace (Su): a forest gnome can use *[[rangoric-srd/spells/Pass without Trace|pass without trace]]* on itself only, as a free action, with a caster level equal to its level. Hatred also covers orcs. +4 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks, which improves to +8 in a wooded area. Languages: Common, Gnome, Elven and Sylvan, with Draconic, Dwarven, Giant, Goblin and Orc as bonus languages; a forest gnome can also speak with forest animals on a very basic level, in place of gnome magic's *speak with animals*.
+- **Forest Gnome**: The smallest gnomes, 2 to 2½ feet tall, with bark-colored or gray-green skin and brown, green or blue eyes; very long-lived, about 500 years on average. Pass without Trace (Su): a forest gnome can use _[[rangoric-srd/spells/Pass without Trace|pass without trace]]_ on itself only, as a free action, with a caster level equal to its level. Hatred also covers orcs. +4 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks, which improves to +8 in a wooded area. Languages: Common, Gnome, Elven and Sylvan, with Draconic, Dwarven, Giant, Goblin and Orc as bonus languages; a forest gnome can also speak with forest animals on a very basic level, in place of gnome magic's _speak with animals_.
 
 ### Class Bonuses
 
@@ -176,8 +176,8 @@ A gnome gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]]
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
+| Archetype                                                                                                     | Class                                           |
+| ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
 | [[rangoric-srd/class-options/archetypes/gunslinger/Experimental Gunsmith (Archetype)\|Experimental Gunsmith]] | [[rangoric-srd/classes/Gunslinger\|Gunslinger]] |
-| [[rangoric-srd/class-options/archetypes/alchemist/Saboteur (Archetype)\|Saboteur]] | [[rangoric-srd/classes/Alchemist\|Alchemist]] |
-| [[rangoric-srd/class-options/archetypes/bard/Prankster (Archetype)\|Prankster]] | [[rangoric-srd/classes/Bard\|Bard]] |
+| [[rangoric-srd/class-options/archetypes/alchemist/Saboteur (Archetype)\|Saboteur]]                            | [[rangoric-srd/classes/Alchemist\|Alchemist]]   |
+| [[rangoric-srd/class-options/archetypes/bard/Prankster (Archetype)\|Prankster]]                               | [[rangoric-srd/classes/Bard\|Bard]]             |

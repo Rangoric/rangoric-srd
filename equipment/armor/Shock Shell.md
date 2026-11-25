@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Shock Shell
 
-*Medium armor.* Cost 200 gp; Armor Bonus +5; Maximum Dex Bonus +3; Armor Check Penalty –4; Arcane Spell Failure 35%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 25 lb. ^stats
+_Medium armor._ Cost 200 gp; Armor Bonus +5; Maximum Dex Bonus +3; Armor Check Penalty –4; Arcane Spell Failure 35%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 25 lb. ^stats
 
 This slightly grotesque approximation of plate mail is made from the carapace and exoskeleton of a giant beetle. Although not as sturdy as metal, shock shell is fairly light, and proves to be quite effective in a fight.

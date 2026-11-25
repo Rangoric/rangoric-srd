@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Misty Camouflage
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “misty camouflage”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “misty camouflage”, on the Special Qualities line.
 
 A mist drake can use Stealth to hide whenever it is in or adjacent to an area of mist, even while being observed. The [[rangoric-srd/monsters/drake/Mist Drake|mist drake]] has it.

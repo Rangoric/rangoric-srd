@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Fey Form I
 
-*Transmutation (Polymorph)*
+_Transmutation (Polymorph)_
 
-  - **Level**: Alc 3, Blr 3, Drd 3, Hun 3, Mag 4, Sor/Wiz 4, Wit 4
-  - **Components**: V, S, M (a piece of the creature whose form you plan to assume)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: Caster level minute(s)
-  - **Spell Resistance**: No
+- **Level**: Alc 3, Blr 3, Drd 3, Hun 3, Mag 4, Sor/Wiz 4, Wit 4
+- **Components**: V, S, M (a piece of the creature whose form you plan to assume)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: Caster level minute(s)
+- **Spell Resistance**: No
 
 You assume the form of a Small or Medium creature of the fey type. Your base speed changes to match the new form's base speed, with a maximum speed of 60 feet (even if the chosen fey form has a base speed in excess of that speed). If the form you assume has any of the following abilities, you gain those abilities: climb speed 30 feet, fly speed 30 feet (average maneuverability), swim speed 30 feet, darkvision 60 feet, low-light vision, scent, and boot stomp. If the form you assume has the aquatic subtype, you can breathe air and water. If the creature has any weaknesses, you gain those weaknesses. If a listed ability depends on an item (as is the case with boot stomp), this spell transforms the nearest counterpart among your worn gear into that item.
 

@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Bracers of the Merciful Knight
 
-These golden bracers are engraved with images of celestial creatures. When worn by a [[rangoric-srd/classes/Paladin|paladin]], he is considered four levels higher for the purposes of determining the uses per day and healing provided by his [[rangoric-srd/classes/Paladin#^paladin-lay-on-hands|lay on hands]] class feature. Additionally, once per day, the wearer can infuse a use of lay on hands with additional power, providing relief as a *[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]* spell.
+These golden bracers are engraved with images of celestial creatures. When worn by a [[rangoric-srd/classes/Paladin|paladin]], he is considered four levels higher for the purposes of determining the uses per day and healing provided by his [[rangoric-srd/classes/Paladin#^paladin-lay-on-hands|lay on hands]] class feature. Additionally, once per day, the wearer can infuse a use of lay on hands with additional power, providing relief as a _[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]_ spell.
 
-Moderate conjuration; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]*, *[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]*; Price 15,600 gp; Cost 7,800 gp; Weight 1 lb.
+Moderate conjuration; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]_, _[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]_; Price 15,600 gp; Cost 7,800 gp; Weight 1 lb.

@@ -31,16 +31,16 @@ tags: [rangoric, rangoric/spell]
 
 # Litany of Eloquence
 
-*Enchantment (Charm) \[Language-dependent, Mind-affecting\]*
+_Enchantment (Charm) \[Language-dependent, Mind-affecting\]_
 
-  - **Level**: Apl 2, Inq 3, Pal 2
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 swift action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: 1 round
-  - **Saving Throw**: No
-  - **Spell Resistance**: Yes
+- **Level**: Apl 2, Inq 3, Pal 2
+- **Components**: V, S, DF
+- **Casting Time**: 1 swift action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: 1 round
+- **Saving Throw**: No
+- **Spell Resistance**: Yes
 
 Your litany is a fascinating diatribe of grace, causing your target to do nothing but listen. The target is fascinated.
 

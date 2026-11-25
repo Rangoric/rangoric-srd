@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Gray Render
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 8d10+56 (100 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 21 (+1 Dex, +11 natural, –1 size), touch 10, flat-footed 20
-  - **Base Attack**: +8; **CMB**: +16 (+20 grapple); **CMD**: 27
-  - **Attack**: Bite +14 melee (2d6+7) or claw +15 melee (1d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +14 melee (2d6+7) and 2 claws +15 melee (1d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws, 1d8+10)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], double damage against objects
-  - **Saves**: Fort +13, Ref +7, Will +4
-  - **Abilities**: Str 25, Dex 13, Con 24, Int 3, Wis 14, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +13
-  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
-  - **Environment**: Temperate marshes
-  - **Organization**: Solitary (plus bonded creatures if any)
-  - **Challenge Rating**: 8
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: 11–15 HD (Large); 16–30 HD (Huge)
-  - **Level Adjustment**: +5 (cohort)
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 8d10+56 (100 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 21 (+1 Dex, +11 natural, –1 size), touch 10, flat-footed 20
+- **Base Attack**: +8; **CMB**: +16 (+20 grapple); **CMD**: 27
+- **Attack**: Bite +14 melee (2d6+7) or claw +15 melee (1d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +14 melee (2d6+7) and 2 claws +15 melee (1d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws, 1d8+10)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], double damage against objects
+- **Saves**: Fort +13, Ref +7, Will +4
+- **Abilities**: Str 25, Dex 13, Con 24, Int 3, Wis 14, Cha 8
+- **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +13
+- **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
+- **Environment**: Temperate marshes
+- **Organization**: Solitary (plus bonded creatures if any)
+- **Challenge Rating**: 8
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: 11–15 HD (Large); 16–30 HD (Huge)
+- **Level Adjustment**: +5 (cohort)
 
 Standing over 9 feet tall and weighing in excess of 4,000 pounds, a gray render is a solitary and savage predator. Renders are gifted with immense strength, and some reports claim to have witnessed a gray render uprooting a fully grown tree and tearing it to splinters in order to catch prey hiding within. Gray renders actively avoid forming groups or communities with their own kind, and perhaps only tolerate the presence of other renders when it is time to mate. Some sages claim they are asexual, but it is more likely they are hermaphrodites able to self-fertilize, and reproduce only rarely. Each render produces one offspring and carries it for a time in a pouch, but thereafter the young render must fend for itself.
 

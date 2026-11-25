@@ -25,19 +25,19 @@ tags: [rangoric, rangoric/constellation]
 
 # The Dove
 
-*[[rangoric-srd/rules/star magic/Star Magic|Constellation]]*
+_[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 
-  - **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Oaths|Oaths]], [[rangoric-srd/rules/star magic/stars/Star of Wind|Wind]]
-  - **Call Level**: 3rd ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: One summoned dove
-  - **Duration**: 1 day/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Oaths|Oaths]], [[rangoric-srd/rules/star magic/stars/Star of Wind|Wind]]
+- **Call Level**: 3rd ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: One summoned dove
+- **Duration**: 1 day/level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-A small dove appears in your hand. It can't fight, and it can't be harmed, stopped or slowed by mundane means or most magic, though *[[rangoric-srd/spells/Dispel Magic|dispel magic]]* or another effect that ends magic ends it as usual.
+A small dove appears in your hand. It can't fight, and it can't be harmed, stopped or slowed by mundane means or most magic, though _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_ or another effect that ends magic ends it as usual.
 
 It carries one item of up to 1 pound to a place you choose and delivers it, flying 400 miles a day. If it can't arrive before the constellation ends, it vanishes and leaves the item on the ground.
 

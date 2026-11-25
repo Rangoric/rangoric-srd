@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Bone Mail
 
-*Medium armor.* Cost 100 gp; Armor Bonus +5; Maximum Dex Bonus +2; Armor Check Penalty –5; Arcane Spell Failure 27%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 35 lb. ^stats
+_Medium armor._ Cost 100 gp; Armor Bonus +5; Maximum Dex Bonus +2; Armor Check Penalty –5; Arcane Spell Failure 27%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 35 lb. ^stats
 
 An unusual twist in chainmail design, the bone armor has become the pride of many barbarians. Over the course of their adventuring, many of these warriors take to collecting the bones of their hunting targets. Once they have collected enough bones, they can be crafted into an ornamental suit of bone mail.

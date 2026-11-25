@@ -30,16 +30,16 @@ tags: [rangoric, rangoric/spell]
 
 # Primal Regression
 
-*Enchantment (Compulsion) \[MindAffecting\]*
+_Enchantment (Compulsion) \[MindAffecting\]_
 
-  - **Level**: Drd 6, Hun 6, Mes 5, Psy 6, Wit 7
-  - **Components**: S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature/2 levels, no two of which can be more than 30 feet apart
-  - **Duration**: Caster level minute(s)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Drd 6, Hun 6, Mes 5, Psy 6, Wit 7
+- **Components**: S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature/2 levels, no two of which can be more than 30 feet apart
+- **Duration**: Caster level minute(s)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 This spell sequesters the targets' ability for higher reasoning, allowing their darker impulses to come to the fore. An affected target becomes a ravening monster-savage, bloodthirsty, and brutish. Until the spell ends, the targets have all of the following benefits and drawbacks.
 

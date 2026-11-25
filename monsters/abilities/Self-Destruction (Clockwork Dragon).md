@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Self-Destruction (Clockwork Dragon)
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “self-destruction”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “self-destruction”, on the Special Attacks line.
 
 When a clockwork dragon's hit points are reduced to 10% of its total (17 in the case of most clockwork dragons) or less but are still above 0, the creature self-destructs on its next turn, bursting into an explosion of metal scraps and steam that deals 10d6 points of slashing damage plus 10d6 points of fire damage to all creatures within a 20-foot-radius burst. A successful DC 22 Reflex save halves the damage. The save is Charisma-based. The [[rangoric-srd/monsters/clockwork/Clockwork Dragon|clockwork dragon]] has it.

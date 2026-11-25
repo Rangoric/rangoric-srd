@@ -22,4 +22,4 @@ Armors and shields that possess this enchantment appear as if they are crafted f
 
 Three times per day, the wearer can activate the armor to serve as a bramble coating that inflicts 1d6 points of damage against all creatures that successfully strike him. Activating the armor in this fashion is a free action, and each use lasts for 1d4 minutes.
 
-Moderate transmutation; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Wall of Thorns|wall of thorns]]*; Price +3 bonus.
+Moderate transmutation; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Wall of Thorns|wall of thorns]]_; Price +3 bonus.

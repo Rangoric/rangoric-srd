@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Sniper
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
 The vigilante can deal [[rangoric-srd/classes/Vigilante#^vigilante-specialization|hidden strike]] damage with ranged attacks at any distance, rather than within 30 feet.
 

@@ -44,53 +44,53 @@ The psychic’s class skills (and the key ability for each skill) are [[rangoric
 
 **Table: The Psychic** ^table-the-psychic
 
-| Level | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th | Spells per Day: 7th | Spells per Day: 8th | Spells per Day: 9th |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | Discipline power, discipline spell, knacks, phrenic amplification, phrenic pool, psychic discipline | 3 | — | — | — | — | — | — | — | — |
-| 2nd | Detect thoughts | 4 | — | — | — | — | — | — | — | — |
-| 3rd | Phrenic amplification | 5 | — | — | — | — | — | — | — | — |
-| 4th | Discipline spell | 6 | 3 | — | — | — | — | — | — | — |
-| 5th | Discipline power | 6 | 4 | — | — | — | — | — | — | — |
-| 6th | Discipline spell | 6 | 5 | 3 | — | — | — | — | — | — |
-| 7th | Phrenic amplification | 6 | 6 | 4 | — | — | — | — | — | — |
-| 8th | Discipline spell | 6 | 6 | 5 | 3 | — | — | — | — | — |
-| 9th | Telepathic bond | 6 | 6 | 6 | 4 | — | — | — | — | — |
-| 10th | Discipline spell | 6 | 6 | 6 | 5 | 3 | — | — | — | — |
-| 11th | Major amplifications, phrenic amplification | 6 | 6 | 6 | 6 | 4 | — | — | — | — |
-| 12th | Discipline spell | 6 | 6 | 6 | 6 | 5 | 3 | — | — | — |
-| 13th | Discipline power | 6 | 6 | 6 | 6 | 6 | 4 | — | — | — |
-| 14th | Discipline spell | 6 | 6 | 6 | 6 | 6 | 5 | 3 | — | — |
-| 15th | Phrenic amplification | 6 | 6 | 6 | 6 | 6 | 6 | 4 | — | — |
-| 16th | Discipline spell | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 3 | — |
-| 17th | Telepathy | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 4 | — |
-| 18th | Discipline spell | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 3 |
-| 19th | Phrenic amplification | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 4 |
-| 20th | Remade self | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 |
+| Level | Special                                                                                             | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th | Spells per Day: 7th | Spells per Day: 8th | Spells per Day: 9th |
+| ----- | --------------------------------------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| 1st   | Discipline power, discipline spell, knacks, phrenic amplification, phrenic pool, psychic discipline | 3                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 2nd   | Detect thoughts                                                                                     | 4                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 3rd   | Phrenic amplification                                                                               | 5                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 4th   | Discipline spell                                                                                    | 6                   | 3                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 5th   | Discipline power                                                                                    | 6                   | 4                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 6th   | Discipline spell                                                                                    | 6                   | 5                   | 3                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 7th   | Phrenic amplification                                                                               | 6                   | 6                   | 4                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 8th   | Discipline spell                                                                                    | 6                   | 6                   | 5                   | 3                   | —                   | —                   | —                   | —                   | —                   |
+| 9th   | Telepathic bond                                                                                     | 6                   | 6                   | 6                   | 4                   | —                   | —                   | —                   | —                   | —                   |
+| 10th  | Discipline spell                                                                                    | 6                   | 6                   | 6                   | 5                   | 3                   | —                   | —                   | —                   | —                   |
+| 11th  | Major amplifications, phrenic amplification                                                         | 6                   | 6                   | 6                   | 6                   | 4                   | —                   | —                   | —                   | —                   |
+| 12th  | Discipline spell                                                                                    | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   | —                   | —                   | —                   |
+| 13th  | Discipline power                                                                                    | 6                   | 6                   | 6                   | 6                   | 6                   | 4                   | —                   | —                   | —                   |
+| 14th  | Discipline spell                                                                                    | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   | —                   | —                   |
+| 15th  | Phrenic amplification                                                                               | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 4                   | —                   | —                   |
+| 16th  | Discipline spell                                                                                    | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   | —                   |
+| 17th  | Telepathy                                                                                           | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 4                   | —                   |
+| 18th  | Discipline spell                                                                                    | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   |
+| 19th  | Phrenic amplification                                                                               | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 4                   |
+| 20th  | Remade self                                                                                         | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   |
 
 **Table: Psychic Spells Known** ^table-psychic-spells-known
 
 | Level | Spells Known: 0 | Spells Known: 1st | Spells Known: 2nd | Spells Known: 3rd | Spells Known: 4th | Spells Known: 5th | Spells Known: 6th | Spells Known: 7th | Spells Known: 8th | Spells Known: 9th |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | 4 | 2 | — | — | — | — | — | — | — | — |
-| 2nd | 5 | 2 | — | — | — | — | — | — | — | — |
-| 3rd | 5 | 3 | — | — | — | — | — | — | — | — |
-| 4th | 6 | 3 | 1 | — | — | — | — | — | — | — |
-| 5th | 6 | 4 | 2 | — | — | — | — | — | — | — |
-| 6th | 7 | 4 | 2 | 1 | — | — | — | — | — | — |
-| 7th | 7 | 5 | 3 | 2 | — | — | — | — | — | — |
-| 8th | 8 | 5 | 3 | 2 | 1 | — | — | — | — | — |
-| 9th | 8 | 5 | 4 | 3 | 2 | — | — | — | — | — |
-| 10th | 9 | 5 | 4 | 3 | 2 | 1 | — | — | — | — |
-| 11th | 9 | 5 | 5 | 4 | 3 | 2 | — | — | — | — |
-| 12th | 9 | 5 | 5 | 4 | 3 | 2 | 1 | — | — | — |
-| 13th | 9 | 5 | 5 | 4 | 4 | 3 | 2 | — | — | — |
-| 14th | 9 | 5 | 5 | 4 | 4 | 3 | 2 | 1 | — | — |
-| 15th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 2 | — | — |
-| 16th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 2 | 1 | — |
-| 17th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 3 | 2 | — |
-| 18th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 3 | 2 | 1 |
-| 19th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 3 | 3 | 2 |
-| 20th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 3 | 3 | 3 |
+| ----- | --------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
+| 1st   | 4               | 2                 | —                 | —                 | —                 | —                 | —                 | —                 | —                 | —                 |
+| 2nd   | 5               | 2                 | —                 | —                 | —                 | —                 | —                 | —                 | —                 | —                 |
+| 3rd   | 5               | 3                 | —                 | —                 | —                 | —                 | —                 | —                 | —                 | —                 |
+| 4th   | 6               | 3                 | 1                 | —                 | —                 | —                 | —                 | —                 | —                 | —                 |
+| 5th   | 6               | 4                 | 2                 | —                 | —                 | —                 | —                 | —                 | —                 | —                 |
+| 6th   | 7               | 4                 | 2                 | 1                 | —                 | —                 | —                 | —                 | —                 | —                 |
+| 7th   | 7               | 5                 | 3                 | 2                 | —                 | —                 | —                 | —                 | —                 | —                 |
+| 8th   | 8               | 5                 | 3                 | 2                 | 1                 | —                 | —                 | —                 | —                 | —                 |
+| 9th   | 8               | 5                 | 4                 | 3                 | 2                 | —                 | —                 | —                 | —                 | —                 |
+| 10th  | 9               | 5                 | 4                 | 3                 | 2                 | 1                 | —                 | —                 | —                 | —                 |
+| 11th  | 9               | 5                 | 5                 | 4                 | 3                 | 2                 | —                 | —                 | —                 | —                 |
+| 12th  | 9               | 5                 | 5                 | 4                 | 3                 | 2                 | 1                 | —                 | —                 | —                 |
+| 13th  | 9               | 5                 | 5                 | 4                 | 4                 | 3                 | 2                 | —                 | —                 | —                 |
+| 14th  | 9               | 5                 | 5                 | 4                 | 4                 | 3                 | 2                 | 1                 | —                 | —                 |
+| 15th  | 9               | 5                 | 5                 | 4                 | 4                 | 4                 | 3                 | 2                 | —                 | —                 |
+| 16th  | 9               | 5                 | 5                 | 4                 | 4                 | 4                 | 3                 | 2                 | 1                 | —                 |
+| 17th  | 9               | 5                 | 5                 | 4                 | 4                 | 4                 | 3                 | 3                 | 2                 | —                 |
+| 18th  | 9               | 5                 | 5                 | 4                 | 4                 | 4                 | 3                 | 3                 | 2                 | 1                 |
+| 19th  | 9               | 5                 | 5                 | 4                 | 4                 | 4                 | 3                 | 3                 | 3                 | 2                 |
+| 20th  | 9               | 5                 | 5                 | 4                 | 4                 | 4                 | 3                 | 3                 | 3                 | 3                 |
 
 ###### Class Features
 
@@ -144,9 +144,9 @@ At 1st level, a psychic learns an additional spell determined by her discipline.
 
 The disciplines are in [[rangoric-srd/class-options/psychic-disciplines/Psychic Disciplines|Psychic Disciplines]], one note each: [[rangoric-srd/class-options/psychic-disciplines/Abomination Discipline|abomination]], [[rangoric-srd/class-options/psychic-disciplines/Dream Discipline|dream]], [[rangoric-srd/class-options/psychic-disciplines/Faith Discipline|faith]], [[rangoric-srd/class-options/psychic-disciplines/Lore Discipline|lore]], [[rangoric-srd/class-options/psychic-disciplines/Pain Discipline|pain]], [[rangoric-srd/class-options/psychic-disciplines/Psychedelia Discipline|psychedelia]], [[rangoric-srd/class-options/psychic-disciplines/Rapport Discipline|rapport]], [[rangoric-srd/class-options/psychic-disciplines/Self-Perfection Discipline|self-perfection]], [[rangoric-srd/class-options/psychic-disciplines/Tranquility Discipline|tranquility]].
 
-**Detect Thoughts (Sp)**: At 2nd level, a psychic can use *[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]* as a spell-like ability once per day. She can also expend any unused spell slot of 1st level or higher to cast *detect thoughts*. If she does so, she uses the level of the spell slot expended to determine the Will save DC. When a psychic gains this ability, if she knows *detect thoughts*, she can learn a different 1st-level spell in place of *detect thoughts*, losing the old spell in exchange for the new one. ^psychic-detect-thoughts
+**Detect Thoughts (Sp)**: At 2nd level, a psychic can use _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ as a spell-like ability once per day. She can also expend any unused spell slot of 1st level or higher to cast _detect thoughts_. If she does so, she uses the level of the spell slot expended to determine the Will save DC. When a psychic gains this ability, if she knows _detect thoughts_, she can learn a different 1st-level spell in place of _detect thoughts_, losing the old spell in exchange for the new one. ^psychic-detect-thoughts
 
-**Telepathic Bond (Sp)**: At 9th level, a psychic can use *[[rangoric-srd/spells/Telepathic Bond|telepathic bond]]* as a spell-like ability once per day, using her psychic level as her caster level. She can’t leave herself out of a bond created in this way. She can also expend any unused spell slot of 4th level or higher to cast *telepathic bond*. Casting the spell using a higher-level spell slot gives no benefit on its own, but the psychic can apply metamagic feats that would increase the spell level to the appropriate level. For instance, if the psychic knows [[rangoric-srd/feats/Extend Spell|Extend Spell]], she can use a 5th-level spell slot to cast extended *telepathic bond* as a full-round action. When a psychic who knows *telepathic bond* gains this ability, she can learn a different 4th-level spell in place of *telepathic bond*, losing the old spell in exchange for the new one. ^psychic-telepathic-bond
+**Telepathic Bond (Sp)**: At 9th level, a psychic can use _[[rangoric-srd/spells/Telepathic Bond|telepathic bond]]_ as a spell-like ability once per day, using her psychic level as her caster level. She can’t leave herself out of a bond created in this way. She can also expend any unused spell slot of 4th level or higher to cast _telepathic bond_. Casting the spell using a higher-level spell slot gives no benefit on its own, but the psychic can apply metamagic feats that would increase the spell level to the appropriate level. For instance, if the psychic knows [[rangoric-srd/feats/Extend Spell|Extend Spell]], she can use a 5th-level spell slot to cast extended _telepathic bond_ as a full-round action. When a psychic who knows _telepathic bond_ gains this ability, she can learn a different 4th-level spell in place of _telepathic bond_, losing the old spell in exchange for the new one. ^psychic-telepathic-bond
 
 **Major Amplifications**: At 11th level and every 4 levels thereafter, a psychic can choose one of the following major amplifications in place of a phrenic amplification. ^psychic-major-amplifications
 
@@ -164,9 +164,9 @@ The disciplines are in [[rangoric-srd/class-options/psychic-disciplines/Psychic 
 
 ![[rangoric-srd/class-options/phrenic-amplifications/Turning Shield (Phrenic Amplification)]]
 
-**Telepathy (Su)**: At 17th level, the psychic can mentally communicate with any other creature within 100 feet that has a language. It is possible to address multiple creatures at once telepathically, although maintaining a telepathic conversation with more than one creature at a time is just as difficult as both speaking and listening to multiple people at the same time. When a psychic who knows *[[rangoric-srd/spells/Telepathy|telepathy]]* gains this ability, she can learn a different 5th-level spell in place of *telepathy*, losing the old spell in exchange for the new one. ^psychic-telepathy
+**Telepathy (Su)**: At 17th level, the psychic can mentally communicate with any other creature within 100 feet that has a language. It is possible to address multiple creatures at once telepathically, although maintaining a telepathic conversation with more than one creature at a time is just as difficult as both speaking and listening to multiple people at the same time. When a psychic who knows _[[rangoric-srd/spells/Telepathy|telepathy]]_ gains this ability, she can learn a different 5th-level spell in place of _telepathy_, losing the old spell in exchange for the new one. ^psychic-telepathy
 
-**Remade Self (Sp)**: At 20th level, the psychic is affected by one of the following spells as a constant spell-like ability: *[[rangoric-srd/spells/Arcane Sight|arcane sight]]*, *[[rangoric-srd/spells/Fly|fly]]*, *[[rangoric-srd/spells/Haste|haste]]*, *[[rangoric-srd/spells/Heroism|heroism]]*, *[[rangoric-srd/spells/Nondetection|nondetection]]*, or *[[rangoric-srd/spells/Tongues|tongues]]*. This ability is chosen when the psychic reaches 20th level and can’t be changed. While the psychic is under the effects of this spell-like ability, each time she casts a psychic spell, she can link one phrenic amplification or major amplification she knows that has a point cost of 1 to that spell without spending any points from her phrenic pool. This amplification is in addition to the normal maximum of one amplification per spell. ^psychic-remade-self
+**Remade Self (Sp)**: At 20th level, the psychic is affected by one of the following spells as a constant spell-like ability: _[[rangoric-srd/spells/Arcane Sight|arcane sight]]_, _[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/Haste|haste]]_, _[[rangoric-srd/spells/Heroism|heroism]]_, _[[rangoric-srd/spells/Nondetection|nondetection]]_, or _[[rangoric-srd/spells/Tongues|tongues]]_. This ability is chosen when the psychic reaches 20th level and can’t be changed. While the psychic is under the effects of this spell-like ability, each time she casts a psychic spell, she can link one phrenic amplification or major amplification she knows that has a point cost of 1 to that spell without spending any points from her phrenic pool. This amplification is in addition to the normal maximum of one amplification per spell. ^psychic-remade-self
 
 **Archetypes**: A psychic can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The psychic’s archetypes, with what each replaces: ^psychic-archetypes
 

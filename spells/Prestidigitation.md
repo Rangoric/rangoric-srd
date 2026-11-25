@@ -29,12 +29,12 @@ tags: [rangoric, rangoric/spell]
 
 # Prestidigitation
 
-*Universal*
+_Universal_
 
-  - **Level**: Brd 0, Mag 0, Med 0, Mes 0, Psy 0, Skd 0, Sor/Wiz 0
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: 10 ft.
+- **Level**: Brd 0, Mag 0, Med 0, Mes 0, Psy 0, Skd 0, Sor/Wiz 0
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: 10 ft.
 
 Target, Effect, or Area: See text  
 Duration: 1 hour  

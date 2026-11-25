@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Elemental Fork
 
-Druids who rely on the powers of the elements in casting their spells are well advised to equip themselves with an *elemental fork*. This enchanted *+3 war fork* is highly tuned to elemental magic, and any elemental spell cast with the fork in hand is empowered. Any spell which directly involves fire, wind, stone, earth, water, electricity, cold, or heat is considered to be an elemental spell. Additionally, the fork allows its wielder to cast *[[rangoric-srd/spells/Protection from Energy|protection from energy]]* three times per day.
+Druids who rely on the powers of the elements in casting their spells are well advised to equip themselves with an _elemental fork_. This enchanted _+3 war fork_ is highly tuned to elemental magic, and any elemental spell cast with the fork in hand is empowered. Any spell which directly involves fire, wind, stone, earth, water, electricity, cold, or heat is considered to be an elemental spell. Additionally, the fork allows its wielder to cast _[[rangoric-srd/spells/Protection from Energy|protection from energy]]_ three times per day.
 
-Moderate abjuration; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Protection from Energy|protection from energy]]*; Price 139,920 gp; Cost 69,960 gp + 5,597 XP.
+Moderate abjuration; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Protection from Energy|protection from energy]]_; Price 139,920 gp; Cost 69,960 gp + 5,597 XP.

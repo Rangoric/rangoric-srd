@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Shifter's Headband +4
 
-This band of reddish fox fur is marked on the front with a distinctive symbol that constantly shifts into a different character. The headband grants the wearer an enhancement bonus to one mental ability score (Intelligence, Wisdom, or Charisma) of +2, +4, or +6. Treat this as a temporary ability bonus for the first 24 hours the headband is worn. This bonus is chosen when the headband is created and cannot be changed. If the headband grants a bonus to Intelligence, it also grants skill ranks as a *[[rangoric-srd/magic-items/wondrous-items/Headband of Vast Intelligence +2|headband of vast intelligence]]*.
+This band of reddish fox fur is marked on the front with a distinctive symbol that constantly shifts into a different character. The headband grants the wearer an enhancement bonus to one mental ability score (Intelligence, Wisdom, or Charisma) of +2, +4, or +6. Treat this as a temporary ability bonus for the first 24 hours the headband is worn. This bonus is chosen when the headband is created and cannot be changed. If the headband grants a bonus to Intelligence, it also grants skill ranks as a _[[rangoric-srd/magic-items/wondrous-items/Headband of Vast Intelligence +2|headband of vast intelligence]]_.
 
 If the wearer is a creature who uses magic to change form, she gains the following additional benefits.
 
@@ -30,6 +30,6 @@ If the wearer is a creature who uses magic to change form, she gains the followi
 
 **Shifter's Headband +6**: Whenever the wearer changes her shape with a polymorph effect, she gains DR 5/silver for 1 minute (this ends if she returns to her natural form).
 
-These additional shapeshifter abilities are cumulative. For example, a creature wearing a *shifter's headband +4* gains the extra transformation ability and treats her caster level as 1 higher than normal for polymorph spells and extracts.
+These additional shapeshifter abilities are cumulative. For example, a creature wearing a _shifter's headband +4_ gains the extra transformation ability and treats her caster level as 1 higher than normal for polymorph spells and extracts.
 
-Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Polymorph|polymorph]]*; Price 17,500 gp; Cost 8,750 gp.
+Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Polymorph|polymorph]]_; Price 17,500 gp; Cost 8,750 gp.

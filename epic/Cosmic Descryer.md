@@ -35,25 +35,25 @@ The cosmic descryer’s class skills (and the key ability for each skill) are [[
 
 Skill Points at Each Level: 2 + Int modifier.
 
-Table: The Cosmic Descryer   
+Table: The Cosmic Descryer
 
-|       |                                                            |                             |
-| ----- | ---------------------------------------------------------- | --------------------------- |
-| Level | Special                                                    | Spells per Day              |
-| 1st   | Superior planar summoning (+4 HD)                          |                             |
+|       |                                                            |                            |
+| ----- | ---------------------------------------------------------- | -------------------------- |
+| Level | Special                                                    | Spells per Day             |
+| 1st   | Superior planar summoning (+4 HD)                          |                            |
 | 2nd   | Naturalization (1 plane)                                   | +1 level of existing class |
-| 3rd   | Enduring gate (1 day)                                      |                             |
+| 3rd   | Enduring gate (1 day)                                      |                            |
 | 4th   | Naturalization (2 planes)                                  | +1 level of existing class |
-| 5th   | Bonus feat, superior planar summoning (+8 HD)              |                             |
+| 5th   | Bonus feat, superior planar summoning (+8 HD)              |                            |
 | 6th   | Naturalization (3 planes), enduring gate (2 days)          | +1 level of existing class |
-| 7th   | Cosmic connection 1/day                                    |                             |
+| 7th   | Cosmic connection 1/day                                    |                            |
 | 8th   | Naturalization (4 planes)                                  | +1 level of existing class |
-| 9th   | Superior planar summoning (+12 HD), enduring gate (3 days) |                             |
+| 9th   | Superior planar summoning (+12 HD), enduring gate (3 days) |                            |
 | 10th  | Naturalization (5 planes), bonus feat                      | +1 level of existing class |
 
 ###### Class Features
 
-The following are class features of the cosmic descryer prestige class.  
+The following are class features of the cosmic descryer prestige class.
 
 Weapon and Armor Proficiency: A cosmic descryer gains no proficiency with any weapons, armor, or shields.
 

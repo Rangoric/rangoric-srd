@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Master of Disguise
 
-*An [[rangoric-srd/classes/Rogue#^rogue-advanced-talents|advanced talent]] (Ex).*
+_An [[rangoric-srd/classes/Rogue#^rogue-advanced-talents|advanced talent]] (Ex)._
 
 Once per day, a rogue with this talent can don a disguise as a standard action. While wearing that disguise, she gains a +10 bonus on all [[rangoric-srd/skills/Imitation|Imitation]] checks. A rogue must have the [[rangoric-srd/class-options/rogue-talents/Quick Disguise (Rogue Talent)|Quick Disguise]] talent to select this talent.

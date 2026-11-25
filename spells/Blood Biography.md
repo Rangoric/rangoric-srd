@@ -34,16 +34,16 @@ tags: [rangoric, rangoric/spell]
 
 # Blood Biography
 
-*Divination*
+_Divination_
 
-  - **Level**: Blr 3, Brd 2, Clr 3, Inq 3, Med 2, Occ 2, Psy 3, Skd 2, Sor/Wiz 3
-  - **Components**: V, S, M/DF (a scrap of parchment)
-  - **Casting Time**: 1 minute
-  - **Range**: Touch
-  - **Target**: One creature's blood or one bloodstain
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates (see text)
-  - **Spell Resistance**: No
+- **Level**: Blr 3, Brd 2, Clr 3, Inq 3, Med 2, Occ 2, Psy 3, Skd 2, Sor/Wiz 3
+- **Components**: V, S, M/DF (a scrap of parchment)
+- **Casting Time**: 1 minute
+- **Range**: Touch
+- **Target**: One creature's blood or one bloodstain
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates (see text)
+- **Spell Resistance**: No
 
 You learn the answers to a specific set of questions about a creature so long as you have access to at least one drop of its blood. You can cast this spell on the blood of the living or the dead, but living or undead creatures are entitled to a saving throw to resist the spell. You can cast the spell on dried or fresh blood. Once you cast the spell the answers to the following four questions appear on any flat surface you designate (a wall, a piece of paper, and so on).
 

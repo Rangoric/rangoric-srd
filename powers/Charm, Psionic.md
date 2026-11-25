@@ -34,7 +34,7 @@ Target: One humanoid
 Duration: 1 hour/level  
 Saving Throw: Will negates  
 Power Resistance: Yes  
-Power Points: 1  
+Power Points: 1
 
 As the [[rangoric-srd/spells/Charm Person|charm person]] spell, except as noted here.
 

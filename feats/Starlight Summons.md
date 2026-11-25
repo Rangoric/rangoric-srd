@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/feat]
 
 Your summoned minions slink along under the shadows of the stars.
 
-**Prerequisites**: [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration), able to cast *[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature’s ally]]*.
+**Prerequisites**: [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration), able to cast _[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature’s ally]]_.
 
 **Benefit**: Creatures you summon gain [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], a +5 bonus on Perception and Stealth checks in dim light or darkness, and natural weapons that count as cold iron for overcoming damage reduction.

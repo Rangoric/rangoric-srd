@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/weapon]
 
 # Triple-Threat Crossbow Bolts
 
-*Ammunition (12).* Cost 3 gp; Weight 1 lb. ^stats
+_Ammunition (12)._ Cost 3 gp; Weight 1 lb. ^stats

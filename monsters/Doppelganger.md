@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Doppelganger
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Shapechanger)
-  - **Hit Dice**: 4d10+4 (26 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 16 (+1 Dex, +1 dodge, +4 natural), touch 12, flat-footed 14
-  - **Base Attack**: +4; **CMB**: +8; **CMD**: 20
-  - **Attack**: Claw +8 melee (1d8+4)
-  - **Full Attack**: 2 claws +8 melee (1d8+4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (alter self), mimicry, perfect copy, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to charm and sleep
-  - **Saves**: Fort +4, Ref +5, Will +6
-  - **Abilities**: Str 18, Dex 13, Con 12, Int 13, Wis 14, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +9 (+13 while using change shape ability), [[rangoric-srd/skills/Imitation|Imitation]] +9 (+29 while using change shape ability), [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +4, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +5
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]]
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, or gang (3–6)
-  - **Challenge Rating**: 3
-  - **Treasure**: NPC Gear
-  - **Alignment**: Usually neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: +4
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Shapechanger)
+- **Hit Dice**: 4d10+4 (26 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 16 (+1 Dex, +1 dodge, +4 natural), touch 12, flat-footed 14
+- **Base Attack**: +4; **CMB**: +8; **CMD**: 20
+- **Attack**: Claw +8 melee (1d8+4)
+- **Full Attack**: 2 claws +8 melee (1d8+4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (alter self), mimicry, perfect copy, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to charm and sleep
+- **Saves**: Fort +4, Ref +5, Will +6
+- **Abilities**: Str 18, Dex 13, Con 12, Int 13, Wis 14, Cha 13
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +9 (+13 while using change shape ability), [[rangoric-srd/skills/Imitation|Imitation]] +9 (+29 while using change shape ability), [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +4, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +5
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]]
+- **Environment**: Any
+- **Organization**: Solitary, pair, or gang (3–6)
+- **Challenge Rating**: 3
+- **Treasure**: NPC Gear
+- **Alignment**: Usually neutral
+- **Advancement**: By character class
+- **Level Adjustment**: +4
 
 Doppelgangers are strange beings that can take on the shapes of those they encounter. In its natural form, the creature looks more or less humanoid, but slender and frail, with gangly limbs and half-formed facial features. Its flesh is pale and hairless, and its eyes are vacant and white.
 
@@ -69,7 +69,7 @@ Doppelgangers prefer infiltrating societies where they can gather wealth and inf
 
 Doppelgangers make excellent use of their natural mimicry to stage ambushes, bait traps, and infiltrate humanoid society. Although not usually evil, they are interested only in themselves and regard all others as playthings to be manipulated and deceived. They are particularly fond of invading human societies in order to indulge in their desires—some enjoy the complex dance of politics while others seek constant change in the race and gender of both themselves and their romantic companions. While not standard, it is those doppelgangers use their gifts for cruel and sadistic purposes that are most notorious, and these shapeshifters are the primary cause of the race's sinister reputation. Certainly, a creature capable of changing its shape has a handy way to avoid capture for its crimes, and some particularly malicious doppelgangers enjoy disrupting relationships by posing as unfaithful lovers.
 
-Rumors persist of even more powerful doppelgangers capable of not only shifting their appearance, but also skills, memories, and even the extraordinary and supernatural abilities of creatures whose forms they choose to mimic. These doppelgangers' change shape ability functions like the spell *[[rangoric-srd/spells/Polymorph|polymorph]]* rather than *[[rangoric-srd/spells/Alter Self|alter self]]*.
+Rumors persist of even more powerful doppelgangers capable of not only shifting their appearance, but also skills, memories, and even the extraordinary and supernatural abilities of creatures whose forms they choose to mimic. These doppelgangers' change shape ability functions like the spell _[[rangoric-srd/spells/Polymorph|polymorph]]_ rather than _[[rangoric-srd/spells/Alter Self|alter self]]_.
 
 A doppelganger’s appearance is deceiving even when it’s in its true form. A doppelganger is hardy, with a natural agility not in keeping with its frail appearance.
 
@@ -81,7 +81,7 @@ Doppelgangers speak Common.
 
 When in its natural form, a doppelganger strikes with its powerful fists. In the shape of a warrior or some other armed person, it attacks with whatever weapon is appropriate. In such cases, it uses its [[rangoric-srd/spells/Detect Thoughts|detect thoughts]] ability to employ the same tactics and strategies as the person it is impersonating.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 18th): At will—*[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]* (DC 13).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 18th): At will—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (DC 13).
 
 **Mimicry (Ex)**: A doppelganger is proficient in all weapons, armor, and shields. In addition, a doppelganger can use any spell trigger or spell completion item as if the spells were on its spell list. Its caster level is equal to its racial Hit Dice.
 
@@ -91,28 +91,28 @@ When in its natural form, a doppelganger strikes with its powerful fists. In the
 
 Doppelganger characters possess the following racial traits.
 
-  - \+2 Strength, +2, Dexterity, +2 Constitution, +2 Intelligence, +4 Wisdom, +2 Charisma.
+- \+2 Strength, +2, Dexterity, +2 Constitution, +2 Intelligence, +4 Wisdom, +2 Charisma.
 
-  - Medium size.
+- Medium size.
 
-  - A doppelganger’s base land speed is 30 feet.
+- A doppelganger’s base land speed is 30 feet.
 
-  - Darkvision: Doppelgangers can see in the dark up to 60 feet.
+- Darkvision: Doppelgangers can see in the dark up to 60 feet.
 
-  - Racial Hit Dice: A doppelganger begins with four levels of monstrous humanoid, which provide 4d8 Hit Dice, a base attack bonus of +4, and base saving throw bonuses of Fort +1, Ref +4, and Will +4.
+- Racial Hit Dice: A doppelganger begins with four levels of monstrous humanoid, which provide 4d8 Hit Dice, a base attack bonus of +4, and base saving throw bonuses of Fort +1, Ref +4, and Will +4.
 
-  - Racial Skills: A doppelganger’s monstrous humanoid levels give it skill points equal to 4 x (2 + Int modifier). Its class skills are [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Imitation|Imitation]], [[rangoric-srd/skills/Intimidation|Intimidation]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Persuasion|Persuasion]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]].
+- Racial Skills: A doppelganger’s monstrous humanoid levels give it skill points equal to 4 x (2 + Int modifier). Its class skills are [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Imitation|Imitation]], [[rangoric-srd/skills/Intimidation|Intimidation]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Persuasion|Persuasion]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]].
 
-  - Racial Feats: A doppelganger’s monstrous humanoid levels give it two feats.
+- Racial Feats: A doppelganger’s monstrous humanoid levels give it two feats.
 
-  - \+4 natural armor bonus.
+- \+4 natural armor bonus.
 
-  - \+4 racial bonus on [[rangoric-srd/skills/Deception|Deception]] and [[rangoric-srd/skills/Imitation|Imitation]] checks. When using its change shape ability, a doppelganger gets an additional +10 circumstance bonus on Imitation checks. If it can read an opponent’s mind, it gets a further +4 circumstance bonus on Deception and Imitation checks.
+- \+4 racial bonus on [[rangoric-srd/skills/Deception|Deception]] and [[rangoric-srd/skills/Imitation|Imitation]] checks. When using its change shape ability, a doppelganger gets an additional +10 circumstance bonus on Imitation checks. If it can read an opponent’s mind, it gets a further +4 circumstance bonus on Deception and Imitation checks.
 
-  - Special Attacks (see above): [[rangoric-srd/spells/Detect Thoughts|Detect thoughts]].
+- Special Attacks (see above): [[rangoric-srd/spells/Detect Thoughts|Detect thoughts]].
 
-  - Special Qualities (see above): [[rangoric-srd/monsters/abilities/Change Shape|Change shape]], immunity to sleep and charm effects.
+- Special Qualities (see above): [[rangoric-srd/monsters/abilities/Change Shape|Change shape]], immunity to sleep and charm effects.
 
-  - Automatic Languages: Common. Bonus Languages: Auran, Dwarven, Elven, Gnome, Halfling, Giant, Terran.
+- Automatic Languages: Common. Bonus Languages: Auran, Dwarven, Elven, Gnome, Halfling, Giant, Terran.
 
-  - Level adjustment +4.
+- Level adjustment +4.

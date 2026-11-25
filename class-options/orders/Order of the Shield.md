@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Order of the Shield
 
-*A [[rangoric-srd/classes/Cavalier#^cavalier-order|cavalier order]].*
+_A [[rangoric-srd/classes/Cavalier#^cavalier-order|cavalier order]]._
 
 Cavaliers who join the order of the shield devote their lives to protecting the common folk, from the simple farmer to the honest craftsman. These cavaliers stand before the tide, protecting the innocent from roving marauders and hungry monsters.
 

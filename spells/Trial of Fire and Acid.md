@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Trial of Fire and Acid
 
-*Evocation \[Acid, Fire\]*
+_Evocation \[Acid, Fire\]_
 
-  - **Level**: Blr 3, Clr 3, Mag 3, Sor/Wiz 3, Wit 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Fortitude half (see text)
-  - **Spell Resistance**: No
+- **Level**: Blr 3, Clr 3, Mag 3, Sor/Wiz 3, Wit 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 round/level
+- **Saving Throw**: Fortitude half (see text)
+- **Spell Resistance**: No
 
 The target creature is covered in burning acid that deals 1d6 points of acid damage and 1d6 points of fire damage each round. The subject can attempt a Fortitude saving throw each round to reduce the damage by half. Dousing the target in water ends the effect (both the acid and the fire), but rolling on the ground does not extinguish the fire or affect the acid.

@@ -60,7 +60,7 @@ Organization: Solitary    
 Challenge Rating: 25      
 Treasure: Nonstandard (just its dagger)      
 Alignment:    Usually lawful evil      
-Advancement: 25+ HD (Medium-size)      
+Advancement: 25+ HD (Medium-size)    
 
 In the hand of any other creature but a gloom, the dagger is a +5 keen dagger.
 
@@ -76,8 +76,8 @@ Sneak Attack (Ex): A gloom is able to sneak attack as a 25th-level [[rangoric-sr
 
 Quiescence (Su): A gloom is constantly silent, as per the [[rangoric-srd/spells/Silence|silence]] spell, although the area does not extend beyond the creature itself. This quality gives it a +20 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks (it is still possible for a gloom to create noise, such as by bumping into something that scrapes on the floor or by sounding a chime). The gloom can lower this effect at will.
 
-Spell-Like Abilities: Caster level 20th; save DC 20 + spell level.  The DC is Charisma-based.  
+Spell-Like Abilities: Caster level 20th; save DC 20 + spell level.  The DC is Charisma-based.
 
-At will - [[rangoric-srd/spells/Shadow Walk|shadow walk]];  
+At will - [[rangoric-srd/spells/Shadow Walk|shadow walk]];
 
 3/day - [[rangoric-srd/spells/True Strike|true strike]].

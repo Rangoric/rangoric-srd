@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Great White Whale
 
-  - Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 18d8+144 (225 hp)
-  - **Initiative**: –2
-  - **Speed**: swim 40 ft.
-  - **Armor Class**: 28 (–2 Dex, +28 natural, –8 size), touch 0, flat-footed 28
-  - **Base Attack**: +13; **CMB**: +41; **CMD**: 49 (can't be tripped)
-  - **Attack**: Bite +25 melee (6d6+20/19–20) or tail slap +25 melee (3d6+10)
-  - **Full Attack**: Bite +25 melee (6d6+20/19–20) and tail slap +20 melee (3d6+10)
-  - **Space/Reach**: 30 ft./30 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Capsize|Capsize]], [[rangoric-srd/monsters/abilities/Smashing Breach|smashing breach]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]]
-  - **Saves**: Fort +21, Ref +9, Will +8
-  - **Abilities**: Str 50, Dex 6, Con 27, Int 2, Wis 11, Cha 5
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +39, [[rangoric-srd/skills/Perception|Perception]] +13
-  - **Feats**: [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]]
-  - **Environment**: Any oceans
-  - **Organization**: Solitary, pair, or pod (3–16)
-  - **Challenge Rating**: 14
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 18d8+144 (225 hp)
+- **Initiative**: –2
+- **Speed**: swim 40 ft.
+- **Armor Class**: 28 (–2 Dex, +28 natural, –8 size), touch 0, flat-footed 28
+- **Base Attack**: +13; **CMB**: +41; **CMD**: 49 (can't be tripped)
+- **Attack**: Bite +25 melee (6d6+20/19–20) or tail slap +25 melee (3d6+10)
+- **Full Attack**: Bite +25 melee (6d6+20/19–20) and tail slap +20 melee (3d6+10)
+- **Space/Reach**: 30 ft./30 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Capsize|Capsize]], [[rangoric-srd/monsters/abilities/Smashing Breach|smashing breach]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]]
+- **Saves**: Fort +21, Ref +9, Will +8
+- **Abilities**: Str 50, Dex 6, Con 27, Int 2, Wis 11, Cha 5
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +39, [[rangoric-srd/skills/Perception|Perception]] +13
+- **Feats**: [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]]
+- **Environment**: Any oceans
+- **Organization**: Solitary, pair, or pod (3–16)
+- **Challenge Rating**: 14
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Legendary in size and temper, great white whales are far more aggressive than their smaller kin.
 

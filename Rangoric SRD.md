@@ -9,14 +9,14 @@ My combined rules: one version of each rule, starting from the whole 3.5 SRD and
 
 ## Sources it draws from
 
-| Source | Folder | Good for |
-| --- | --- | --- |
-| 3.5 SRD | `fantasy srd 3.5` | The base: classes, feats, spells, monsters, Unearthed Arcana variants |
-| Pathfinder 1e (PSRD) | `path srd 3.5` | Cleaned-up 3.5, monster creation and roles, Unchained variants |
-| Pathfinder 1e (Foundry) | `path srd 3.5 foundry` | Later rulebooks, Occult, Unchained classes |
-| Starfinder | `star srd 3.5` | Simpler stat blocks, universal creature rules, stamina/resolve |
-| Modern SRD | `modern srd 3.5` | Generic classes, defense bonus, non-fantasy content |
-| Individual books | `individual books/*` | Arms & Armor, Alchemy & Herbalists, Spells & Magic, Faeries, Encyclopaedia Arcane: Star Magic (mechanics only) |
+| Source                  | Folder                 | Good for                                                                                                       |
+| ----------------------- | ---------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 3.5 SRD                 | `fantasy srd 3.5`      | The base: classes, feats, spells, monsters, Unearthed Arcana variants                                          |
+| Pathfinder 1e (PSRD)    | `path srd 3.5`         | Cleaned-up 3.5, monster creation and roles, Unchained variants                                                 |
+| Pathfinder 1e (Foundry) | `path srd 3.5 foundry` | Later rulebooks, Occult, Unchained classes                                                                     |
+| Starfinder              | `star srd 3.5`         | Simpler stat blocks, universal creature rules, stamina/resolve                                                 |
+| Modern SRD              | `modern srd 3.5`       | Generic classes, defense bonus, non-fantasy content                                                            |
+| Individual books        | `individual books/*`   | Arms & Armor, Alchemy & Herbalists, Spells & Magic, Faeries, Encyclopaedia Arcane: Star Magic (mechanics only) |
 
 ## How it gets built
 
@@ -29,23 +29,23 @@ My combined rules: one version of each rule, starting from the whole 3.5 SRD and
 
 The 3.5 SRD's layout, as copied:
 
-| Folder | What's in it |
-| --- | --- |
-| `legal` | The OGL with every Section 15 notice, and the sources' Product Identity |
-| `rules` | Basics, alignment, races, carrying and movement, environment, traps, treasure, planes, conditions; gems; a folder for each magic subsystem (alchemy and herbalism, blood, dragon, mirror, rune, star and totem magic, spellsinging, the paths of jewels and shades), for occult rituals and for the spellblights |
-| `combat` | Actions, initiative, attacks of opportunity, movement, special attacks, injury and death |
-| `classes`, `prestige-classes` | Base, NPC and prestige classes |
-| `skills`, `feats` | One note per skill and feat |
-| `class-options` | One note per class option (bloodlines, and later rage powers, talents, hexes…), in a folder per kind (added 2026-11-02) |
-| `spells`, `powers` | One note per spell and psionic power, plus the class lists |
-| `equipment`, `magic-items` | Weapons and armor (one note each), gear, materials, herbs (`equipment/herbs`) alchemical and herbal items (`equipment/alchemical-items`), and siege engines and their ammunition (`equipment/siege-engines`, rules in `rules/Siege Engines`); one note per magic item in type folders |
-| `monsters` | One note per creature, with group folders (angel, demon, dragon, ghoul…) |
-| `psionics`, `epic`, `divine` | The psionic, epic and divine rules, classes and items |
-| `unearthed-arcana` | Optional and variant rules |
-| `design-notes` | Designer's references: advice on building new content, such as [[rangoric-srd/design-notes/Designing Spells\|Designing Spells]] (added 2026-11-23) |
-| `images` | Diagrams used by the facing and hex grid rules |
-| `actions` | One note per action anyone can take, with its action type or how long it takes (added 2026-10-31) |
-| `flavor` | Setting and flavor text from the open content sources, a folder per setting, places one note each ([[rangoric-srd/flavor/Flavor Overview\|Flavor Overview]]; added 2026-11-11) |
+| Folder                        | What's in it                                                                                                                                                                                                                                                                                                     |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `legal`                       | The OGL with every Section 15 notice, and the sources' Product Identity                                                                                                                                                                                                                                          |
+| `rules`                       | Basics, alignment, races, carrying and movement, environment, traps, treasure, planes, conditions; gems; a folder for each magic subsystem (alchemy and herbalism, blood, dragon, mirror, rune, star and totem magic, spellsinging, the paths of jewels and shades), for occult rituals and for the spellblights |
+| `combat`                      | Actions, initiative, attacks of opportunity, movement, special attacks, injury and death                                                                                                                                                                                                                         |
+| `classes`, `prestige-classes` | Base, NPC and prestige classes                                                                                                                                                                                                                                                                                   |
+| `skills`, `feats`             | One note per skill and feat                                                                                                                                                                                                                                                                                      |
+| `class-options`               | One note per class option (bloodlines, and later rage powers, talents, hexes…), in a folder per kind (added 2026-11-02)                                                                                                                                                                                          |
+| `spells`, `powers`            | One note per spell and psionic power, plus the class lists                                                                                                                                                                                                                                                       |
+| `equipment`, `magic-items`    | Weapons and armor (one note each), gear, materials, herbs (`equipment/herbs`) alchemical and herbal items (`equipment/alchemical-items`), and siege engines and their ammunition (`equipment/siege-engines`, rules in `rules/Siege Engines`); one note per magic item in type folders                            |
+| `monsters`                    | One note per creature, with group folders (angel, demon, dragon, ghoul…)                                                                                                                                                                                                                                         |
+| `psionics`, `epic`, `divine`  | The psionic, epic and divine rules, classes and items                                                                                                                                                                                                                                                            |
+| `unearthed-arcana`            | Optional and variant rules                                                                                                                                                                                                                                                                                       |
+| `design-notes`                | Designer's references: advice on building new content, such as [[rangoric-srd/design-notes/Designing Spells\|Designing Spells]] (added 2026-11-23)                                                                                                                                                               |
+| `images`                      | Diagrams used by the facing and hex grid rules                                                                                                                                                                                                                                                                   |
+| `actions`                     | One note per action anyone can take, with its action type or how long it takes (added 2026-10-31)                                                                                                                                                                                                                |
+| `flavor`                      | Setting and flavor text from the open content sources, a folder per setting, places one note each ([[rangoric-srd/flavor/Flavor Overview\|Flavor Overview]]; added 2026-11-11)                                                                                                                                   |
 
 Each folder has an Index base.
 

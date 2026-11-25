@@ -20,11 +20,11 @@ tags: [rangoric, rangoric/magic-item]
 
 This staff is made from ebony or other dark wood and carved with the images of bones and skulls. It allows use of the following spells:
 
-  - [[rangoric-srd/spells/Cause Fear|Cause fear]] (1 charge)
-  - [[rangoric-srd/spells/Ghoul Touch|Ghoul touch]] (1 charge)
-  - [[rangoric-srd/spells/Halt Undead|Halt undead]] (1 charge)
-  - [[rangoric-srd/spells/Enervation|Enervation]] (2 charges)
-  - [[rangoric-srd/spells/Waves of Fatigue|Waves of fatigue]] (2 charges)
-  - [[rangoric-srd/spells/Circle of Death|Circle of death]] (3 charges)
+- [[rangoric-srd/spells/Cause Fear|Cause fear]] (1 charge)
+- [[rangoric-srd/spells/Ghoul Touch|Ghoul touch]] (1 charge)
+- [[rangoric-srd/spells/Halt Undead|Halt undead]] (1 charge)
+- [[rangoric-srd/spells/Enervation|Enervation]] (2 charges)
+- [[rangoric-srd/spells/Waves of Fatigue|Waves of fatigue]] (2 charges)
+- [[rangoric-srd/spells/Circle of Death|Circle of death]] (3 charges)
 
 Strong necromancy; CL 13th; Craft Staff, cause fear, circle of death, enervation, ghoul touch, halt undead, waves of fatigue; Price 65,000 gp.

@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Rock Troll
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Earth, Giant)
-  - **Hit Dice**: 7d8+49 (80 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 19 (+1 Dex, +9 natural, –1 size), touch 10, flat-footed 18
-  - **Base Attack**: +5; **CMB**: +13; **CMD**: 24
-  - **Attack**: Bite +11 melee (1d8+7) or claw +12 melee (1d6+7)
-  - **Full Attack**: Bite +11 melee (1d8+7) and 2 claw +12 melee (1d6+7)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws, 1d6+9)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or sonic), [[rangoric-srd/monsters/abilities/Sunlight Petrification|sunlight petrification]]
-  - **Saves**: Fort +12, Ref +3, Will +3
-  - **Abilities**: Str 25, Dex 12, Con 24, Int 5, Wis 9, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Perception|Perception]] +6
-  - **Feats**: [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
-  - **Environment**: Any underground
-  - **Organization**: Solitary or gang (2–5)
-  - **Challenge Rating**: 6
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Earth, Giant)
+- **Hit Dice**: 7d8+49 (80 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 19 (+1 Dex, +9 natural, –1 size), touch 10, flat-footed 18
+- **Base Attack**: +5; **CMB**: +13; **CMD**: 24
+- **Attack**: Bite +11 melee (1d8+7) or claw +12 melee (1d6+7)
+- **Full Attack**: Bite +11 melee (1d8+7) and 2 claw +12 melee (1d6+7)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws, 1d6+9)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or sonic), [[rangoric-srd/monsters/abilities/Sunlight Petrification|sunlight petrification]]
+- **Saves**: Fort +12, Ref +3, Will +3
+- **Abilities**: Str 25, Dex 12, Con 24, Int 5, Wis 9, Cha 6
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Perception|Perception]] +6
+- **Feats**: [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
+- **Environment**: Any underground
+- **Organization**: Solitary or gang (2–5)
+- **Challenge Rating**: 6
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Rock trolls are relatives of normal trolls and ice trolls, but make their lairs far beneath the earth in underground caverns. They rarely venture forth from their subterranean lairs, for they have a weakness unknown in other troll subspecies—the light of the sun turns them to solid stone. Rock trolls have stony skin studded with crystals, but otherwise display typical troll characteristics—hunched posture, long arms, a large underbite, and powerful regenerative abilities. Because of the crystalline nature of their skin, however, rock trolls prove more susceptible to sonic damage than other trolls, but they are able to regenerate even wounds dealt by fire. Rock trolls are larger and stronger than normal trolls, typically standing 15 to 16 feet tall in height, and weighing upward of 1,200 pounds.
 

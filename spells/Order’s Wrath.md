@@ -26,16 +26,16 @@ tags: [rangoric, rangoric/spell]
 
 # Order’s Wrath
 
-*Evocation \[Lawful\]*
+_Evocation \[Lawful\]_
 
-  - **Level**: Inq 4, Law 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Area**: Nonlawful creatures within a burst that fills a 30-ft. cube
-  - **Duration**: Instantaneous (1 round); see text
-  - **Saving Throw**: Will partial; see text
-  - **Spell Resistance**: Yes
+- **Level**: Inq 4, Law 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Area**: Nonlawful creatures within a burst that fills a 30-ft. cube
+- **Duration**: Instantaneous (1 round); see text
+- **Saving Throw**: Will partial; see text
+- **Spell Resistance**: Yes
 
 You channel lawful power to smite enemies. The power takes the form of a three-dimensional grid of energy. Only chaotic and neutral (not lawful) creatures are harmed by the spell.
 

@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Roof Runner
 
-*A [[rangoric-srd/classes/Rogue#^rogue-archetypes|rogue]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Rogue#^rogue-archetypes|rogue]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A specialized urban acrobat, the roof runner makes her home high atop the spires and gables of great cities. She is skilled at traveling these uneven surfaces at full speed, performing daring leaps and deftly balancing upon narrow and precarious ledges.
 

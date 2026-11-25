@@ -35,14 +35,14 @@ tags: [rangoric, rangoric/spell]
 
 # Comprehend Languages
 
-*Divination*
+_Divination_
 
-  - **Level**: Alc 1, Brd 1, Clr 1, Fpk 1, Inq 1, Med 1, Mes 1, Occ 1, Psy 1, Sha 1, Skd 1, Sor/Wiz 1, Spi 1, Wit 1
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 10 min./level
+- **Level**: Alc 1, Brd 1, Clr 1, Fpk 1, Inq 1, Med 1, Mes 1, Occ 1, Psy 1, Sha 1, Skd 1, Sor/Wiz 1, Spi 1, Wit 1
+- **Components**: V, S, M/DF
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 10 min./level
 
 You can understand the spoken words of creatures or read otherwise incomprehensible written messages. In either case, you must touch the creature or the writing. The ability to read does not necessarily impart insight into the material, merely its literal meaning. The spell enables you to understand or read an unknown language, not speak or write it.
 
@@ -50,4 +50,4 @@ Written material can be read at the rate of one page (250 words) per minute. Mag
 
 Comprehend languages can be made permanent with a permanency spell.
 
-*Arcane Material Component*: A pinch of soot and a few grains of salt.
+_Arcane Material Component_: A pinch of soot and a few grains of salt.

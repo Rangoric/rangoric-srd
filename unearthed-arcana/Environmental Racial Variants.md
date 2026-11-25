@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/overview]
 [[#Aquatic Halflings|Aquatic Halflings]]  
 [[#Aquatic Humans|Aquatic Humans]]  
 [[#Aquatic Kobolds|Aquatic Kobolds]]  
-[[#Aquatic Orcs|Aquatic Orcs]]  
+[[#Aquatic Orcs|Aquatic Orcs]]
 
 **[[#Arctic Races|Arctic Races]]**  
 [[#Arctic Dwarves|Arctic Dwarves]]  
@@ -33,7 +33,7 @@ tags: [rangoric, rangoric/overview]
 [[#Arctic Half-Orcs|Arctic Half-Orcs]]  
 [[#Arctic Halflings|Arctic Halflings]]  
 [[#Arctic Kobolds|Arctic Kobolds]]  
-[[#Arctic Orcs|Arctic Orcs]]  
+[[#Arctic Orcs|Arctic Orcs]]
 
 **[[#Desert Races|Desert Races]]**  
 [[#Desert Dwarves|Desert Dwarves]]  
@@ -44,7 +44,7 @@ tags: [rangoric, rangoric/overview]
 [[#Desert Half-Orcs|Desert Half-Orcs]]  
 [[#Desert Halflings|Desert Halflings]]  
 [[#Desert Kobolds|Desert Kobolds]]  
-[[#Desert Orcs|Desert Orcs]]  
+[[#Desert Orcs|Desert Orcs]]
 
 **[[#Jungle Races|Jungle Races]]**  
 [[#Jungle Dwarves|Jungle Dwarves]]  
@@ -55,7 +55,7 @@ tags: [rangoric, rangoric/overview]
 [[#Jungle Half-Orcs|Jungle Half-Orcs]]  
 [[#Jungle Halflings|Jungle Halflings]]  
 [[#Jungle Kobolds|Jungle Kobolds]]  
-[[#Jungle Orcs|Jungle Orcs]]  
+[[#Jungle Orcs|Jungle Orcs]]
 
 Racial variants are a great way add diversity to your game without drastically changing the ecology of your world. One method of altering the existing races is to introduce environmental variants, a number of which are presented here.
 

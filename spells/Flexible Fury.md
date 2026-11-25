@@ -23,14 +23,14 @@ tags: [rangoric, rangoric/spell]
 
 # Flexible Fury
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Brd 3, Skd 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level
+- **Level**: Brd 3, Skd 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level
 
 You swap one of your current rage powers for another rage power you qualify for. If the rage power granted by this spell has a use limitation (such as once per rage or a number of times per day), any uses of that rage power count toward that limit (including for later castings of this spell).
 

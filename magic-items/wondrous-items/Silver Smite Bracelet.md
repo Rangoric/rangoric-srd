@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This heavy silver bracelet is etched with icons of purity, fidelity, chastity, and honor, and glows with a soft white light whenever its owner prays. The wearer of this bracelet treats her [[rangoric-srd/classes/Paladin|paladin]] level as 4 higher than normal for the purpose of her [[rangoric-srd/classes/Paladin#^paladin-smite-evil|smite evil]] class feature.
 
-Moderate transmutation; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Align Weapon|align weapon]]*, creator must be a [[rangoric-srd/classes/Paladin|paladin]]; Price 16,000 gp; Cost 8,000 gp; Weight 1 lb.
+Moderate transmutation; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Align Weapon|align weapon]]_, creator must be a [[rangoric-srd/classes/Paladin|paladin]]; Price 16,000 gp; Cost 8,000 gp; Weight 1 lb.

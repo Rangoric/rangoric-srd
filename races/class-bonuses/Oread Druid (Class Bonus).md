@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Oread Druid
 
-*An [[rangoric-srd/races/Oread|oread]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Druid#^druid-class-bonuses|druid]] level.*
+_An [[rangoric-srd/races/Oread|oread]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Druid#^druid-class-bonuses|druid]] level._
 
 Add a +1/2 bonus on [[rangoric-srd/skills/Nature|Nature]] checks relating to plants and burrowing animals.

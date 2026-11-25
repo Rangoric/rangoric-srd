@@ -25,6 +25,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/firearms]
 
 # Coat Pistol
 
-*Exotic one-handed early firearm.* Cost 750 gp; Dmg 1d3 (S), 1d4 (M); Critical x3; Range Increment 10 ft.; Misfire 1 (5 ft.); Capacity 1; Weight 1 lb.; Type Bludgeoning and piercing. ^stats
+_Exotic one-handed early firearm._ Cost 750 gp; Dmg 1d3 (S), 1d4 (M); Critical x3; Range Increment 10 ft.; Misfire 1 (5 ft.); Capacity 1; Weight 1 lb.; Type Bludgeoning and piercing. ^stats
 
 Less powerful than other firearms, this pistol is small enough to be easily concealed in a jacket or coat. You get a +2 bonus on [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] checks made to conceal a coat pistol on your body. A coat pistol uses either a bullet and a single dose of black powder or an alchemical cartridge as ammunition.

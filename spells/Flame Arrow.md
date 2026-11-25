@@ -29,17 +29,17 @@ tags: [rangoric, rangoric/spell]
 
 # Flame Arrow
 
-*Transmutation \[Fire\]*
+_Transmutation \[Fire\]_
 
-  - **Level**: Blr 3, Mag 3, Occ 3, Sor/Wiz 3
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: Fifty projectiles, all of which must be in contact with each other at the time of casting
-  - **Duration**: 10 min./level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Blr 3, Mag 3, Occ 3, Sor/Wiz 3
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: Fifty projectiles, all of which must be in contact with each other at the time of casting
+- **Duration**: 10 min./level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You turn ammunition (such as arrows, bolts, shuriken, and stones) into fiery projectiles. Each piece of ammunition deals an extra 1d6 points of fire damage to any target it hits. A flaming projectile can easily ignite a flammable object or structure, but it won’t ignite a creature it strikes.
 
-*Material Component*: A drop of oil and a small piece of flint.
+_Material Component_: A drop of oil and a small piece of flint.

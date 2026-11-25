@@ -30,16 +30,16 @@ tags: [rangoric, rangoric/spell]
 
 # Blade Barrier
 
-*Evocation \[Force\]*
+_Evocation \[Force\]_
 
-  - **Level**: Clr 6, Good 6, Inq 6, Occ 6, Psy 6, War 6
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Effect**: Wall of whirling blades up to 20 ft. long/ level, or a ringed wall of whirling blades with a radius of up to 5 ft. per two levels; either form 20 ft. high
-  - **Duration**: 1 min./level (D)
-  - **Saving Throw**: Reflex half or Reflex negates; see text
-  - **Spell Resistance**: Yes
+- **Level**: Clr 6, Good 6, Inq 6, Occ 6, Psy 6, War 6
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Effect**: Wall of whirling blades up to 20 ft. long/ level, or a ringed wall of whirling blades with a radius of up to 5 ft. per two levels; either form 20 ft. high
+- **Duration**: 1 min./level (D)
+- **Saving Throw**: Reflex half or Reflex negates; see text
+- **Spell Resistance**: Yes
 
 An immobile, vertical curtain of whirling blades shaped of pure force springs into existence. Any creature passing through the wall takes 1d6 points of damage per caster level (maximum 15d6), with a Reflex save for half damage.
 

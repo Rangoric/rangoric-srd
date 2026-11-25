@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Nauseated
 
-*A [[rangoric-srd/classes/Paladin#^paladin-mercy|mercy]], available from 9th level.*
+_A [[rangoric-srd/classes/Paladin#^paladin-mercy|mercy]], available from 9th level._
 
 The target is no longer [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]]. The paladin must have the [[rangoric-srd/class-options/mercies/Sickened (Mercy)|sickened mercy]] before selecting this mercy.

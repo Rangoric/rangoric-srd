@@ -30,4 +30,4 @@ These garish tokens usually take the form of colorful clothing accessories. So l
 
 **White Lace Kerchief**: The user can spend 1 panache point as a swift action to pinpoint an unseen, adjacent enemy and gains the benefits of the [[rangoric-srd/feats/Blind-Fight|Blind-Fight]] feat for 1 round.
 
-Faint enchantment; CL 5th; [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], *[[rangoric-srd/spells/Good Hope|good hope]]*; Price 2,500 gp; Cost 1,250 gp.
+Faint enchantment; CL 5th; [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], _[[rangoric-srd/spells/Good Hope|good hope]]_; Price 2,500 gp; Cost 1,250 gp.

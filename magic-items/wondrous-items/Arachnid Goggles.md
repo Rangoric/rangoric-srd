@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This leather band is studded with dozens of faceted crystals of varying size, two of which fit over the eyes. When wearing these goggles, the wearer uses all the crystals as eyes, gaining [[rangoric-srd/monsters/abilities/All-Around Vision|all-around vision]].
 
-Moderate transmutation; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Countless Eyes|countless eyes]]*; Price 15,000 gp; Cost 7,500 gp; Weight 2 lbs.
+Moderate transmutation; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Countless Eyes|countless eyes]]_; Price 15,000 gp; Cost 7,500 gp; Weight 2 lbs.

@@ -28,7 +28,7 @@ Manifesting Time: 1 standard action
 Range: Personal  
 Target: You  
 Duration: 1 min./level (D)  
-Power Points: 5  
+Power Points: 5
 
 You and all your gear become a partially translucent mass of rippling ectoplasm that generally conforms to your normal shape. You gain [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|damage reduction]] 10/psionics, and you gain immunity to poison and critical hits. Your material armor becomes meaningless, although your size, Dexterity, deflection bonuses, and armor bonuses from force effects still apply to your Armor Class.
 

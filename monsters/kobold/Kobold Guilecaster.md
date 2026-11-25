@@ -40,30 +40,30 @@ tags: [rangoric, rangoric/monster]
 
 # Kobold Guilecaster
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Reptilian)
-  - **Hit Dice**: 6d6+12 (35 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 18 (+4 armor, +2 Dex, +1 natural, +1 size), touch 13, flat-footed 16
-  - **Base Attack**: +3; **CMB**: +0; **CMD**: 12
-  - **Attack**: [[rangoric-srd/equipment/weapons/Quarterstaff|Quarterstaff]] +2 melee (1d4–2)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Quarterstaff|Quarterstaff]] +2 melee (1d4–2)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/class-options/bloodlines/Kobold Bloodline|bloodline arcana]] (+2 to spell DC if target is denied Dex bonus to AC), [[rangoric-srd/races/Kobold|crafty]], [[rangoric-srd/class-options/bloodlines/Kobold Bloodline|trap sense]] +2, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-  - **Saves**: Fort +3, Ref +4, Will +4
-  - **Abilities**: Str 6, Dex 14, Con 12, Int 13, Wis 8, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +15, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Emulation|Emulation]] +15, [[rangoric-srd/skills/Perception|Perception]] +1, [[rangoric-srd/skills/Profession|Profession]] (miner) +1
-  - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Improved Feint|Improved Feint]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Craft \[trapmaking\])
-  - **Environment**: Temperate underground or deep forest
-  - **Organization**: Solitary, or with other kobolds (see [[rangoric-srd/monsters/kobold/Kobold|Kobold]])
-  - **Challenge Rating**: 5
-  - **Treasure**: NPC gear (combat gear: antitoxin, thunderstone; other gear: quarterstaff, circlet of persuasion, masterwork artisan's tools, 15 gp)
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Reptilian)
+- **Hit Dice**: 6d6+12 (35 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 18 (+4 armor, +2 Dex, +1 natural, +1 size), touch 13, flat-footed 16
+- **Base Attack**: +3; **CMB**: +0; **CMD**: 12
+- **Attack**: [[rangoric-srd/equipment/weapons/Quarterstaff|Quarterstaff]] +2 melee (1d4–2)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Quarterstaff|Quarterstaff]] +2 melee (1d4–2)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/class-options/bloodlines/Kobold Bloodline|bloodline arcana]] (+2 to spell DC if target is denied Dex bonus to AC), [[rangoric-srd/races/Kobold|crafty]], [[rangoric-srd/class-options/bloodlines/Kobold Bloodline|trap sense]] +2, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
+- **Saves**: Fort +3, Ref +4, Will +4
+- **Abilities**: Str 6, Dex 14, Con 12, Int 13, Wis 8, Cha 16
+- **Skills**: [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +15, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Emulation|Emulation]] +15, [[rangoric-srd/skills/Perception|Perception]] +1, [[rangoric-srd/skills/Profession|Profession]] (miner) +1
+- **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Improved Feint|Improved Feint]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Craft \[trapmaking\])
+- **Environment**: Temperate underground or deep forest
+- **Organization**: Solitary, or with other kobolds (see [[rangoric-srd/monsters/kobold/Kobold|Kobold]])
+- **Challenge Rating**: 5
+- **Treasure**: NPC gear (combat gear: antitoxin, thunderstone; other gear: quarterstaff, circlet of persuasion, masterwork artisan's tools, 15 gp)
+- **Alignment**: Usually lawful evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
-A kobold guilecaster is a [[rangoric-srd/monsters/kobold/Kobold|kobold]] with 6 levels of [[rangoric-srd/classes/Sorcerer|sorcerer]], one of the kobold sorcerers. It has the [[rangoric-srd/races/class-bonuses/Kobold Sorcerer (Class Bonus)|kobold sorcerer class bonus]], taken for electricity at each sorcerer level: its spells that deal electricity damage (*lightning bolt*) deal 3 more. Kobolds see sorcery as proof of their draconic heritage.
+A kobold guilecaster is a [[rangoric-srd/monsters/kobold/Kobold|kobold]] with 6 levels of [[rangoric-srd/classes/Sorcerer|sorcerer]], one of the kobold sorcerers. It has the [[rangoric-srd/races/class-bonuses/Kobold Sorcerer (Class Bonus)|kobold sorcerer class bonus]], taken for electricity at each sorcerer level: its spells that deal electricity damage (_lightning bolt_) deal 3 more. Kobolds see sorcery as proof of their draconic heritage.
 
 A kobold guilecaster speaks Draconic and Dwarven.
 
@@ -71,4 +71,4 @@ A kobold guilecaster speaks Draconic and Dwarven.
 
 **Bloodline Spell-Like Abilities** (CL 6th; concentration +9): 6/day—[[rangoric-srd/class-options/bloodlines/Kobold Bloodline|trap rune]] (DC 16).
 
-**Sorcerer spells known** (CL 6th; concentration +9): 3rd (4/day)—*[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]* (DC 16); 2nd (6/day)—*[[rangoric-srd/spells/Create Pit|create pit]]*, *[[rangoric-srd/spells/Mirror Image|mirror image]]*, *[[rangoric-srd/spells/Scorching Ray|scorching ray]]*; 1st (7/day)—*[[rangoric-srd/spells/Alarm|alarm]]*, *[[rangoric-srd/spells/Charm Person|charm person]]* (DC 14), *[[rangoric-srd/spells/Mage Armor|mage armor]]*, *[[rangoric-srd/spells/Magic Missile|magic missile]]*, *[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]* (DC 14); 0 (at will)—*[[rangoric-srd/spells/Arcane Mark|arcane mark]]*, *[[rangoric-srd/spells/Daze|daze]]*, *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Open-Close|open/close]]*, *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]* (DC 13), *[[rangoric-srd/spells/Resistance|resistance]]*, *[[rangoric-srd/spells/Spark|spark]]*; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Kobold Bloodline|kobold]].
+**Sorcerer spells known** (CL 6th; concentration +9): 3rd (4/day)—_[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_ (DC 16); 2nd (6/day)—_[[rangoric-srd/spells/Create Pit|create pit]]_, _[[rangoric-srd/spells/Mirror Image|mirror image]]_, _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_; 1st (7/day)—_[[rangoric-srd/spells/Alarm|alarm]]_, _[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 14), _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Magic Missile|magic missile]]_, _[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]_ (DC 14); 0 (at will)—_[[rangoric-srd/spells/Arcane Mark|arcane mark]]_, _[[rangoric-srd/spells/Daze|daze]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Open-Close|open/close]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_ (DC 13), _[[rangoric-srd/spells/Resistance|resistance]]_, _[[rangoric-srd/spells/Spark|spark]]_; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Kobold Bloodline|kobold]].

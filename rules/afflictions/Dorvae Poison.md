@@ -24,5 +24,5 @@ A poison; how afflictions work, and what each line means, is in [[rangoric-srd/r
 - **Type**: poison, injury
 - **Save**: Fortitude DC 20
 - **Frequency**: 1/round for 12 rounds
-- **Effect**: 1d4 Wisdom damage, and on the first failed save the target is susceptible to the dorvae's *[[rangoric-srd/spells/Geas, Lesser|lesser geas]]* no matter its Hit Dice for 24 hours
+- **Effect**: 1d4 Wisdom damage, and on the first failed save the target is susceptible to the dorvae's _[[rangoric-srd/spells/Geas, Lesser|lesser geas]]_ no matter its Hit Dice for 24 hours
 - **Cure**: 3 saves

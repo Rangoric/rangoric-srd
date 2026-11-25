@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Abjuration School
 
-*An [[rangoric-srd/classes/Wizard#^wizard-arcane-school|arcane school]].*
+_An [[rangoric-srd/classes/Wizard#^wizard-arcane-school|arcane school]]._
 
 The abjurer uses magic against itself, and masters the art of defensive and warding magics.
 

@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Frog Aspect
 
-*A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The aspect of the frog grants great mobility in leaping through the air and swimming in water, as well surprising tactics in combat.*
+_A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The aspect of the frog grants great mobility in leaping through the air and swimming in water, as well surprising tactics in combat._
 
 **Minor Form**: You gain a +4 competence bonus on Athletics checks to jump and to swim.
 
@@ -26,6 +26,6 @@ At 8th level, you gain a tongue attack (see below).
 
 At 15th level, your swim speed increases to 60 feet. In addition, the reach of your tongue attack increases to 30 feet, and your tongue attack deals bludgeoning damage equal to the damage dealt by your shifter claws.
 
-*Tongue (Ex):* Your tongue is a primary natural attack with a reach of 15 feet. Your tongue deals no damage on a hit, but can be used to grab. You do not gain the [[rangoric-srd/rules/conditions/Grappled (Condition)|grappled]] condition while using your tongue in this manner.
+_Tongue (Ex):_ Your tongue is a primary natural attack with a reach of 15 feet. Your tongue deals no damage on a hit, but can be used to grab. You do not gain the [[rangoric-srd/rules/conditions/Grappled (Condition)|grappled]] condition while using your tongue in this manner.
 
 **Alternate Natural Attacks**: Bite (B, P, S)

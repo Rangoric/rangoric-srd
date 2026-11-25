@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Owl Aspect
 
-*A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The aspect of the owl is one of silence. This predator glides through the night unheard, a master of stealthy attacks.*
+_A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The aspect of the owl is one of silence. This predator glides through the night unheard, a master of stealthy attacks._
 
 **Minor Form**: You gain a +4 competence bonus on Stealth checks.
 

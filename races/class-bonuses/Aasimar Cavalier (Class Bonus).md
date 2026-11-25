@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Aasimar Cavalier
 
-*An [[rangoric-srd/races/Aasimar|aasimar]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Cavalier#^cavalier-class-bonuses|cavalier]] level.*
+_An [[rangoric-srd/races/Aasimar|aasimar]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Cavalier#^cavalier-class-bonuses|cavalier]] level._
 
 Add +1/4 to the cavalier's bonus on damage against targets of his [[rangoric-srd/classes/Cavalier#^cavalier-challenge|challenge]].

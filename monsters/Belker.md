@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Belker
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Air, Elemental, Evil)
-  - **Hit Dice**: 8d10+24 (68 hp)
-  - **Initiative**: +5
-  - **Speed**: 30 ft. (6 squares), fly 50 ft. (perfect)
-  - **Armor Class**: 20 (+5 Dex, +6 natural, –1 size), touch 14, flat-footed 15
-  - **Base Attack**: +8; **CMB**: +11; **CMD**: 26 (can't be tripped)
-  - **Attack**: Bite +12 melee (1d6+2) or claw +12 melee (1d6+2) or wing +10 melee (1d6+1)
-  - **Full Attack**: Bite +12 melee (1d6+2) and 2 claws +12 melee (1d6+2) and 2 wings +10 melee (1d6+1)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: Smoke claws
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., smoke form, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/—
-  - **Saves**: Fort +9, Ref +11, Will +2
-  - **Abilities**: Str 14, Dex 21, Con 17, Int 6, Wis 11, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +22, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +16
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any (Elemental Plane of Air)
-  - **Organization**: Solitary, pair, or clutch (3–4)
-  - **Challenge Rating**: 6
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: 8–10 HD (Large); 11–21 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Air, Elemental, Evil)
+- **Hit Dice**: 8d10+24 (68 hp)
+- **Initiative**: +5
+- **Speed**: 30 ft. (6 squares), fly 50 ft. (perfect)
+- **Armor Class**: 20 (+5 Dex, +6 natural, –1 size), touch 14, flat-footed 15
+- **Base Attack**: +8; **CMB**: +11; **CMD**: 26 (can't be tripped)
+- **Attack**: Bite +12 melee (1d6+2) or claw +12 melee (1d6+2) or wing +10 melee (1d6+1)
+- **Full Attack**: Bite +12 melee (1d6+2) and 2 claws +12 melee (1d6+2) and 2 wings +10 melee (1d6+1)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: Smoke claws
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., smoke form, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/—
+- **Saves**: Fort +9, Ref +11, Will +2
+- **Abilities**: Str 14, Dex 21, Con 17, Int 6, Wis 11, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +22, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +16
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any (Elemental Plane of Air)
+- **Organization**: Solitary, pair, or clutch (3–4)
+- **Challenge Rating**: 6
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral evil
+- **Advancement**: 8–10 HD (Large); 11–21 HD (Huge)
+- **Level Adjustment**: —
 
 Belkers are hateful elemental air creatures resembling fiends made of smoke. Xenophobic in the extreme, they see most non-elemental creatures as threats, and stalk and kill any such intruders in their territory. Among their elemental kin, they especially hate djinn and jann. They tolerate air mephits, dust mephits, steam mephits, air elementals, and fire elementals, but given the choice, prefer the company of their own kind.
 
@@ -77,4 +77,4 @@ In most cases, a belker fights with its nasty claws and painful bite.
 
 **Smoke Claws (Ex)**: A belker using its smoke form ability can enter a target's square as a standard action that does not provoke attacks of opportunity. The target must make a DC 17 Fortitude save or inhale part of the creature. Smoke inside the victim solidifies into a claw and attacks the target from within, dealing 3d4 points of damage per round as a swift action. If the target moves, the belker may automatically move with the target (this movement does not count toward the belker's movement and does not provoke attacks of opportunity against the belker). Each round, the target can attempt another DC 17 Fortitude to cough out the belker's smoke, which ends the smoke claws attack and forces the belker into an adjacent square. Creatures that do not need to breathe are immune to this attack. The save DC is Constitution-based.
 
-**Smoke Form (Su)**: A belker can switch from its normal form to one of pure smoke or back again a swift action. It can spend up to 20 rounds per day in smoke form. In smoke form, the belker acts as if under the effects of a *[[rangoric-srd/spells/Gaseous Form|gaseous form]]* spell, except that it retains its natural fly speed of 50 feet (perfect).
+**Smoke Form (Su)**: A belker can switch from its normal form to one of pure smoke or back again a swift action. It can spend up to 20 rounds per day in smoke form. In smoke form, the belker acts as if under the effects of a _[[rangoric-srd/spells/Gaseous Form|gaseous form]]_ spell, except that it retains its natural fly speed of 50 feet (perfect).

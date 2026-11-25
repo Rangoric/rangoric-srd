@@ -11,9 +11,9 @@ tags: [rangoric, rangoric/monster]
 
 # Arrowhawk
 
-  - [[rangoric-srd/monsters/arrowhawk/Juvenile Arrowhawk|Juvenile Arrowhawk]]
-  - [[rangoric-srd/monsters/arrowhawk/Adult Arrowhawk|Adult Arrowhawk]]
-  - [[rangoric-srd/monsters/arrowhawk/Elder Arrowhawk|Elder Arrowhawk]]
+- [[rangoric-srd/monsters/arrowhawk/Juvenile Arrowhawk|Juvenile Arrowhawk]]
+- [[rangoric-srd/monsters/arrowhawk/Adult Arrowhawk|Adult Arrowhawk]]
+- [[rangoric-srd/monsters/arrowhawk/Elder Arrowhawk|Elder Arrowhawk]]
 
 An arrowhawk is a predator and scavenger from the Elemental Plane of Air.
 

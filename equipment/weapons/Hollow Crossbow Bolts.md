@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/weapon]
 
 # Hollow Crossbow Bolts
 
-*Ammunition (10) for crossbows.* Cost 25 gp; Dmg 1d4 (S), 1d4 (M); Critical x2; Weight 1 lb.; Type Piercing. ^stats
+_Ammunition (10) for crossbows._ Cost 25 gp; Dmg 1d4 (S), 1d4 (M); Critical x2; Weight 1 lb.; Type Piercing. ^stats
 
 These are what appear to be normal crossbow bolts. However the shaft has been hollowed and waxed, allowing it to contain two doses of poison. When it strikes its target, the shaft shatters and delivers the poison. Damage is reduced by the lighter weight and construction.

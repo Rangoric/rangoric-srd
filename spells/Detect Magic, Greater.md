@@ -38,15 +38,15 @@ tags: [rangoric, rangoric/spell]
 
 # Detect Magic, Greater
 
-*Divination*
+_Divination_
 
-  - **Level**: Brd 2, Clr 2, Drd 2, Hun 2, Inq 2, Mag 2, Med 2, Mes 2, Occ 2, Psy 2, Skd 2, Sor/Wiz 2, Spi 2, Sum 2, SumU 2, Wit 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: 60 ft.
-  - **Area**: Cone-shaped emanation
-  - **Duration**: Concentration, up to 1 minute/level
-  - **Spell Resistance**: No
+- **Level**: Brd 2, Clr 2, Drd 2, Hun 2, Inq 2, Mag 2, Med 2, Mes 2, Occ 2, Psy 2, Skd 2, Sor/Wiz 2, Spi 2, Sum 2, SumU 2, Wit 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: 60 ft.
+- **Area**: Cone-shaped emanation
+- **Duration**: Concentration, up to 1 minute/level
+- **Spell Resistance**: No
 
 This spell functions as [[rangoric-srd/spells/Detect Magic|detect magic]], except that you can glean much more information from the magical auras that you find, and those auras can be found after a much greater length of time.
 
@@ -54,4 +54,4 @@ You can detect a lingering aura for up to 1 day per caster level you have, regar
 
 Finally, you are able to locate and analyze the signature flourishes in a magical aura that allow you to match a spell to the person who cast it. In order to find these identifiers in a spell's aura, you must spend 1 round focusing on that spell in particular, and succeed at an opposed Arcana check against the caster (or a Knowledge \[arcana\] check with a DC equal to 15 + the spell level if the caster wants her work to be identified and emphasizes these unique elements rather than obscuring them). Once you learn a caster's set of identifiers, you can remember them as easily as a face or a voice. You can recognize this signature if you succeed at a Arcana check when later identifying a spell to determine whether or not that spell was cast by the same individual.
 
-The spell [[rangoric-srd/spells/Magic Aura, Greater|greater magic aura]] can obfuscate this information, making it seem that someone else cast the spell. Greater *[[rangoric-srd/spells/Detect Magic|detect magic]]* grants a saving throw against [[rangoric-srd/spells/Magic Aura|magic aura]] (but not *greater *magic aura**).
+The spell [[rangoric-srd/spells/Magic Aura, Greater|greater magic aura]] can obfuscate this information, making it seem that someone else cast the spell. Greater _[[rangoric-srd/spells/Detect Magic|detect magic]]_ grants a saving throw against [[rangoric-srd/spells/Magic Aura|magic aura]] (but not *greater *magic aura\*\*).

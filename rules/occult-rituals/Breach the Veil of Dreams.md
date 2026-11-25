@@ -16,18 +16,18 @@ tags: [rangoric, rangoric/occult-ritual]
 
 # Breach the Veil of Dreams
 
-*Conjuration (Creation); [[rangoric-srd/rules/occult-rituals/Occult Rituals|occult ritual]] level 6*
+_Conjuration (Creation); [[rangoric-srd/rules/occult-rituals/Occult Rituals|occult ritual]] level 6_
 
-  - **Level**: 6
-  - **Casting Time**: 60 minutes
-  - **Components**: V, S, M (incense burned in a bowl filled with grave earth, a bottle of wormwood wine for each caster), F (an ornate silver and mithral key worth 5,000 gp), SC (up to the primary caster’s Intelligence modifier)
-  - **Skill Checks**: [[rangoric-srd/skills/Arcana|Arcana]] DC 32, 3 successes; [[rangoric-srd/skills/Theology|Theology]] DC 32, 3 successes
-  - **Range**: touch
-  - **Duration**: instantaneous; see text
-  - **Saving Throw**: none
-  - **Spell Resistance**: no
-  - **Backlash**: The primary caster takes 2d6 points of damage and becomes [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]].
-  - **Failure**: An animate dream appears at the site of the ritual and attacks the casters. At the GM’s discretion, the animate dream may have the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced template]], be accompanied by other animate dreams, or both.
+- **Level**: 6
+- **Casting Time**: 60 minutes
+- **Components**: V, S, M (incense burned in a bowl filled with grave earth, a bottle of wormwood wine for each caster), F (an ornate silver and mithral key worth 5,000 gp), SC (up to the primary caster’s Intelligence modifier)
+- **Skill Checks**: [[rangoric-srd/skills/Arcana|Arcana]] DC 32, 3 successes; [[rangoric-srd/skills/Theology|Theology]] DC 32, 3 successes
+- **Range**: touch
+- **Duration**: instantaneous; see text
+- **Saving Throw**: none
+- **Spell Resistance**: no
+- **Backlash**: The primary caster takes 2d6 points of damage and becomes [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]].
+- **Failure**: An animate dream appears at the site of the ritual and attacks the casters. At the GM’s discretion, the animate dream may have the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced template]], be accompanied by other animate dreams, or both.
 
 This ritual must be cast at night on the [[rangoric-srd/rules/Planes#The Material Plane|Material Plane]]. The casters drink the wormwood wine and chant the incantation as the incense burns, then mix the ashes with the grave earth and use the mixture to draw a threshold with a keyhole, inserting the key into this door as the incantation is completed. On a success, the casters pass through the portal and enter a random location in the Dimension of Dreams.
 

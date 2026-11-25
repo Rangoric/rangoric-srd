@@ -40,25 +40,25 @@ tags: [rangoric, rangoric/monster]
 
 # Dwarf, 1st-Level Warrior
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Dwarf)
-  - **Hit Dice**: 1d10+2 (7 hp)
-  - **Initiative**: +0
-  - **Speed**: 20 ft. in scale mail (4 squares); base speed 20 ft.
-  - **Armor Class**: 16 (+4 scale mail, +2 heavy shield), touch 10, flat-footed 16
-  - **Base Attack**: +1; **CMB**: +2; **CMD**: 12 (16 vs. bull rush and trip)
-  - **Attack**: Dwarven waraxe +3 melee (1d10+1/x3) or shortbow +1 ranged (1d6/x3)
-  - **Full Attack**: Dwarven waraxe +3 melee (1d10+1/x3) or shortbow +1 ranged (1d6/x3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Dwarf traits
-  - **Special Qualities**: Darkvision 60 ft., dwarf traits
-  - **Saves**: Fort +4 (\*), Ref +0 (\*), Will +0 (\*)
-  - **Abilities**: Str 13, Dex 11, Con 14, Int 10, Wis 11, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +3, [[rangoric-srd/skills/Craft|Craft]] (blacksmithing) +2, [[rangoric-srd/skills/Craft|Craft]] (stonemasonry) +2, [[rangoric-srd/skills/Perception|Perception]] +1
-  - **Feats**: Weapon Focus (dwarven waraxe)
-  - **Environment**: Temperate mountains (Deep: Underground)
-  - **Organization**: Team (2–4), squad (11–20 plus 2 3rd-level sergeants and 1 leader of 3rd–6th level), or clan (30–100 plus 30% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5th-level lieutenants, and 3 7th-level captains)
-  - **Challenge Rating**: ½
-  - **Treasure**: Standard coins; double goods; standard items
-  - **Alignment**: Often lawful good (Deep: Usually lawful neutral or neutral)
-  - **Advancement**: By character class
-  - **Level Adjustment**: +0
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Dwarf)
+- **Hit Dice**: 1d10+2 (7 hp)
+- **Initiative**: +0
+- **Speed**: 20 ft. in scale mail (4 squares); base speed 20 ft.
+- **Armor Class**: 16 (+4 scale mail, +2 heavy shield), touch 10, flat-footed 16
+- **Base Attack**: +1; **CMB**: +2; **CMD**: 12 (16 vs. bull rush and trip)
+- **Attack**: Dwarven waraxe +3 melee (1d10+1/x3) or shortbow +1 ranged (1d6/x3)
+- **Full Attack**: Dwarven waraxe +3 melee (1d10+1/x3) or shortbow +1 ranged (1d6/x3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Dwarf traits
+- **Special Qualities**: Darkvision 60 ft., dwarf traits
+- **Saves**: Fort +4 (\*), Ref +0 (\*), Will +0 (\*)
+- **Abilities**: Str 13, Dex 11, Con 14, Int 10, Wis 11, Cha 6
+- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +3, [[rangoric-srd/skills/Craft|Craft]] (blacksmithing) +2, [[rangoric-srd/skills/Craft|Craft]] (stonemasonry) +2, [[rangoric-srd/skills/Perception|Perception]] +1
+- **Feats**: Weapon Focus (dwarven waraxe)
+- **Environment**: Temperate mountains (Deep: Underground)
+- **Organization**: Team (2–4), squad (11–20 plus 2 3rd-level sergeants and 1 leader of 3rd–6th level), or clan (30–100 plus 30% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5th-level lieutenants, and 3 7th-level captains)
+- **Challenge Rating**: ½
+- **Treasure**: Standard coins; double goods; standard items
+- **Alignment**: Often lawful good (Deep: Usually lawful neutral or neutral)
+- **Advancement**: By character class
+- **Level Adjustment**: +0

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Plant Traits
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “plant traits”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “plant traits”, on the Special Qualities line.
 
 A creature with plant traits has the immunities and other traits of the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|plant type]], which owns them. In a stat block, “plant traits” on the Immune line stands for that list; immunities the creature has beyond it are listed after it.

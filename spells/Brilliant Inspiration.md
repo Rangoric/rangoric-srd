@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Brilliant Inspiration
 
-*Evocation \[Language-dependent\]*
+_Evocation \[Language-dependent\]_
 
-  - **Level**: Brd 6, Psy 8, Skd 6
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One living creature
-  - **Duration**: 1 round/level and special (see below)
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Brd 6, Psy 8, Skd 6
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One living creature
+- **Duration**: 1 round/level and special (see below)
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 You open a link between your mind and the subject's mind, giving advice and encouragement for as long as the spell is in effect. Each time the subject of the spell makes an attack roll, ability check, or skill check, it rolls two d20s and takes the better result. If any roll is a natural 20, the spell's effect ends—your brilliant advice is spent.

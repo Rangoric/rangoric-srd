@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Hurling, Greater
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
 As hurling, but the barbarian can increase the range increment to 30 feet or increase the size of a hurled object by two size categories.
 

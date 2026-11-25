@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades, weapon-group/thrown
 
 # Machete
 
-*Simple one-handed melee weapon.* Cost 5 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Range Increment 10 ft.; Weight 2 lb.; Type Slashing. ^stats
+_Simple one-handed melee weapon._ Cost 5 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Range Increment 10 ft.; Weight 2 lb.; Type Slashing. ^stats
 
 Although smaller than a short sword, the machete is still an effective primary weapon for Small creatures, made all the more deadly because of its use as a ranged weapon.

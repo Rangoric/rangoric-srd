@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Bardic Armor
 
-*Light armor.* Cost 25 gp; Armor Bonus +2; Maximum Dex Bonus +8; Armor Check Penalty 0; Arcane Spell Failure 10%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 15 lb. ^stats
+_Light armor._ Cost 25 gp; Armor Bonus +2; Maximum Dex Bonus +8; Armor Check Penalty 0; Arcane Spell Failure 10%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 15 lb. ^stats
 
 Bards everywhere prize this finely crafted suit of armor and is typically seen during high profile events. The composition is primarily hardened leather, outfitted with fine, tooled etchings and adorned with several gems.

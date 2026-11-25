@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/axes, weapon-group/flails]
 
 # Chained Axe
 
-*Exotic two-handed melee weapon (trip, disarm).* Cost 15 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 15 lb.; Type Slashing. ^stats
+_Exotic two-handed melee weapon (trip, disarm)._ Cost 15 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 15 lb.; Type Slashing. ^stats
 
 The chained axe is a double-bladed axe-head attached to a haft by a length of chain. Similar to the flail, this weapon requires more precision to strike with the edges of the axe. Wielders get a +2 bonus on [[rangoric-srd/combat/Combat Maneuvers#Disarm|combat maneuver checks]] made to disarm an enemy.
 

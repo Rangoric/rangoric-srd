@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Horrific Appearance
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “horrific appearance”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “horrific appearance”, on the Special Attacks line.
 
 All qlippoth have such horrific and mind-rending shapes that those who gaze upon them suffer all manner of ill effects. A qlippoth can present itself as a standard action to assault the senses of all living creatures within 30 feet. The exact effects caused by a qlippoth's horrific appearance vary by the type of qlippoth. A successful Will save (DC 10 + 1/2 the qlippoth's Hit Dice + the qlippoth's Charisma modifier) reduces or negates the effect. This ability is a mind-affecting gaze attack.
 

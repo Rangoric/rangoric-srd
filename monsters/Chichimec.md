@@ -61,17 +61,17 @@ Organization: Solitary, pair, or flock (6-9)    
 Challenge Rating: 21      
 Treasure: None      
 Alignment: Always neutral evil      
-Advancement: 28-38 HD (Medium-size); 39-50 HD (Large)      
+Advancement: 28-38 HD (Medium-size); 39-50 HD (Large)    
 
 An chichimec’s natural weapons are treated as epic and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 #### Combat
 
-Spell-Like Abilities: Caster level 20th; save DC 20 + spell level. The DC is Charisma-based.  
+Spell-Like Abilities: Caster level 20th; save DC 20 + spell level. The DC is Charisma-based.
 
-At will - [[rangoric-srd/spells/Darkness|darkness]], [[rangoric-srd/spells/Telekinesis|telekinesis]];  
+At will - [[rangoric-srd/spells/Darkness|darkness]], [[rangoric-srd/spells/Telekinesis|telekinesis]];
 
-3/day - [[rangoric-srd/spells/Invisibility, Greater|greater invisibility]], [[rangoric-srd/spells/Control Weather|control weather]], [[rangoric-srd/spells/Call Lightning|call lightning]], [[rangoric-srd/spells/Lightning Bolt|lightning bolt]], [[rangoric-srd/spells/Chain Lightning|chain lightning]], [[rangoric-srd/spells/Wail of the Banshee|wail of the banshee]].  
+3/day - [[rangoric-srd/spells/Invisibility, Greater|greater invisibility]], [[rangoric-srd/spells/Control Weather|control weather]], [[rangoric-srd/spells/Call Lightning|call lightning]], [[rangoric-srd/spells/Lightning Bolt|lightning bolt]], [[rangoric-srd/spells/Chain Lightning|chain lightning]], [[rangoric-srd/spells/Wail of the Banshee|wail of the banshee]].
 
 Summon Air Elemental (Sp): Three times per day a chichimec can summon an elder [[rangoric-srd/monsters/elemental/Air Elemental|air elemental]].
 

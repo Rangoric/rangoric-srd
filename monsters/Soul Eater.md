@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Soul Eater
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Evil, Extraplanar)
-  - **Hit Dice**: 11d10+22 (82 hp)
-  - **Initiative**: +10
-  - **Speed**: 30 ft. (6 squares), fly 100 ft. (perfect)
-  - **Armor Class**: 21 (+6 Dex, +1 dodge, +4 natural), touch 17, flat-footed 14
-  - **Base Attack**: +11; **CMB**: +12; **CMD**: 29 (can't be tripped)
-  - **Attack**: Claw +18 melee (1d6+1/19–20 plus 1d6 Wisdom damage)
-  - **Full Attack**: 2 claws +18 melee (1d6+1/19–20 plus 1d6 Wisdom damage)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Find Target|Find target]], [[rangoric-srd/monsters/abilities/Soul Drain|soul drain]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/All-Around Vision|all-around vision]], [[rangoric-srd/monsters/abilities/Caster Link|caster link]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, immunity to critical hits, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], poison, sleep and stunning
-  - **Saves**: Fort +5, Ref +13, Will +7
-  - **Abilities**: Str 13, Dex 22, Con 14, Int 12, Wis 11, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +28, [[rangoric-srd/skills/Athletics|Athletics]] +1 (–19 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Investigation|Investigation]] +5, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +20 (+28 darkness or smoke), [[rangoric-srd/skills/Theology|Theology]] +15
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
-  - **Environment**: Any Outer Plane (a neutral evil-aligned plane: [[rangoric-srd/rules/planes/Abaddon|Abaddon]])
-  - **Organization**: Solitary
-  - **Challenge Rating**: 7
-  - **Treasure**: None
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Evil, Extraplanar)
+- **Hit Dice**: 11d10+22 (82 hp)
+- **Initiative**: +10
+- **Speed**: 30 ft. (6 squares), fly 100 ft. (perfect)
+- **Armor Class**: 21 (+6 Dex, +1 dodge, +4 natural), touch 17, flat-footed 14
+- **Base Attack**: +11; **CMB**: +12; **CMD**: 29 (can't be tripped)
+- **Attack**: Claw +18 melee (1d6+1/19–20 plus 1d6 Wisdom damage)
+- **Full Attack**: 2 claws +18 melee (1d6+1/19–20 plus 1d6 Wisdom damage)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Find Target|Find target]], [[rangoric-srd/monsters/abilities/Soul Drain|soul drain]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/All-Around Vision|all-around vision]], [[rangoric-srd/monsters/abilities/Caster Link|caster link]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, immunity to critical hits, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], poison, sleep and stunning
+- **Saves**: Fort +5, Ref +13, Will +7
+- **Abilities**: Str 13, Dex 22, Con 14, Int 12, Wis 11, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +28, [[rangoric-srd/skills/Athletics|Athletics]] +1 (–19 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Investigation|Investigation]] +5, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +20 (+28 darkness or smoke), [[rangoric-srd/skills/Theology|Theology]] +15
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
+- **Environment**: Any Outer Plane (a neutral evil-aligned plane: [[rangoric-srd/rules/planes/Abaddon|Abaddon]])
+- **Organization**: Solitary
+- **Challenge Rating**: 7
+- **Treasure**: None
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Summoned forth from the inky swamps of [[rangoric-srd/rules/planes/Abaddon|Abaddon]], a soul eater is an extraplanar entity devoid of emotion or reason and possessing a hunger that may only be sated by devouring the souls of the living. The very nature of a soul eater makes it an ideal and terrifyingly efficient tool of death, and it is for this reason they are often conjured by vile spellcasters pursuing morbid agendas. Even when not seeing to the heinous commands of a sinister magic user, the soul eater prowls and hunts, constantly seeking living souls upon which to gorge itself.
 

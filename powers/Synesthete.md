@@ -28,7 +28,7 @@ Psychometabolism
 **Range:** Personal  
 **Target:** You  
 **Duration:** 10 min./level (D)  
-**Power Points:** 1  
+**Power Points:** 1
 
 You receive one kind of sensory input when a different sense is stimulated. In particular, you can either feel light or feel sound. You can shift your stimulated sense between these two options once per round as a swift action. Your senses continue to work normally as well, unless they are impaired for some reason.
 

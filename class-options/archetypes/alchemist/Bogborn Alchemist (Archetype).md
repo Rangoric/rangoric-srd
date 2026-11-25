@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Bogborn Alchemist
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-archetypes|alchemist]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Grippli|gripplis]].*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-archetypes|alchemist]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Grippli|gripplis]]._
 
 Some grippli alchemists are particularly attuned to the swamps and the dangerous creatures that inhabit them; these serve as their laboratories and research subjects, respectively. These bogborn alchemists have the following class features.
 

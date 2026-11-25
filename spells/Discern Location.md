@@ -30,16 +30,16 @@ tags: [rangoric, rangoric/spell]
 
 # Discern Location
 
-*Divination*
+_Divination_
 
-  - **Level**: Clr 8, Knowledge 8, Psy 8, Sha 8, Sor/Wiz 8, Sum 6, Wit 8
-  - **Components**: V, S, DF
-  - **Casting Time**: 10 minutes
-  - **Range**: Unlimited
-  - **Target**: One creature or object
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Clr 8, Knowledge 8, Psy 8, Sha 8, Sor/Wiz 8, Sum 6, Wit 8
+- **Components**: V, S, DF
+- **Casting Time**: 10 minutes
+- **Range**: Unlimited
+- **Target**: One creature or object
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 A discern location spell is among the most powerful means of locating creatures or objects. Nothing short of a mind blank spell or the direct intervention of a deity keeps you from learning the exact location of a single individual or object. Discern location circumvents normal means of protection from scrying or location. The spell reveals the name of the creature or object’s location (place, name, business name, building name, or the like), community, county (or similar political division), country, continent, and the plane of existence where the target lies.
 

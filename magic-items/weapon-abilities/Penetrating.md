@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Penetrating
 
-A *penetrating* weapon is simply the piercing version of a *keen* weapon. Piercing weapons given this quality have their critical threat ranges doubled. A *penetrating* spear for example, scores a critical threat on a 19 or 20.
+A _penetrating_ weapon is simply the piercing version of a _keen_ weapon. Piercing weapons given this quality have their critical threat ranges doubled. A _penetrating_ spear for example, scores a critical threat on a 19 or 20.
 
-Moderate transmutation; CL 11th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Keen Edge|keen edge]]*; Price +1 bonus.
+Moderate transmutation; CL 11th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Keen Edge|keen edge]]_; Price +1 bonus.

@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option, rangoric/trap]
 
 # Freezing Trap
 
-*A [[rangoric-srd/class-options/ranger-traps/Ranger Traps|ranger trap]] (Su; supernatural only).*
+_A [[rangoric-srd/class-options/ranger-traps/Ranger Traps|ranger trap]] (Su; supernatural only)._
 
 - **Type**: magic
 - **Trigger**: location; **Reset**: none; [[rangoric-srd/class-options/ranger-traps/Ranger Traps#^ranger-traps-dc|DCs]] and [[rangoric-srd/class-options/ranger-traps/Ranger Traps#^ranger-traps-duration|duration]] as for every ranger trap

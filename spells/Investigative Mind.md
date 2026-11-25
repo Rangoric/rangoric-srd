@@ -33,14 +33,14 @@ tags: [rangoric, rangoric/spell]
 
 # Investigative Mind
 
-*Enchantment (Compulsion) \[Mind-affecting\]*
+_Enchantment (Compulsion) \[Mind-affecting\]_
 
-  - **Level**: Alc 2, Brd 2, Med 2, Mes 2, Occ 2, Psy 2, Skd 2, Sor/Wiz 2, Wit 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 10 minutes/level or until discharged
+- **Level**: Alc 2, Brd 2, Med 2, Mes 2, Occ 2, Psy 2, Skd 2, Sor/Wiz 2, Wit 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 10 minutes/level or until discharged
 
 Your mind is able to correlate information effectively. When attempting an Appraise, Knowledge, Linguistics, or Arcana check, you can roll twice and take the higher result. If you have an ability that allows you to roll twice, you cannot use that ability and this benefit on the same roll.
 

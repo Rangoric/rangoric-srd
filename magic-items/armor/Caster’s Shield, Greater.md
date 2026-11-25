@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Caster’s Shield, Greater
 
-This *+3 light wooden shield* acts in all ways like a *[[rangoric-srd/magic-items/armor/Caster’s Shield|caster’s shield]]*, but the strip can accommodate spells of up to 5th level.
+This _+3 light wooden shield_ acts in all ways like a _[[rangoric-srd/magic-items/armor/Caster’s Shield|caster’s shield]]_, but the strip can accommodate spells of up to 5th level.
 
 Moderate abjuration; CL 11th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]]; Price 10,153 gp; Cost 5,153 gp.

@@ -33,14 +33,14 @@ Most crystalline creatures occupy this state temporarily, but for some it become
 
 **Special Attacks**: A crystalline creature retains any special attacks of the base creature. Crystalline creatures with an Intelligence or Wisdom score of 8 or higher gain the following spell-like abilities, using their Hit Dice or level as the caster level, as specified in the table below. Unless otherwise specified, each ability is usable once per day. A crystalline creature has the abilities for its Hit Dice and every lower row. These abilities are a result of the magical energies coursing through the creature’s crystalline body.
 
-| Hit Dice or Level | Spell-Like Abilities |
-| --- | --- |
-| 1–3 | *[[rangoric-srd/spells/Flare\|flare]]* 3/day |
-| 4–6 | *[[rangoric-srd/spells/Color Spray\|color spray]]* |
-| 7–9 | *[[rangoric-srd/spells/Hypnotic Pattern\|hypnotic pattern]]* |
-| 10–12 | *[[rangoric-srd/spells/Blindness-Deafness\|blindness/deafness]]* |
-| 13–15 | *[[rangoric-srd/spells/Rainbow Pattern\|rainbow pattern]]* |
-| 16+ | *[[rangoric-srd/spells/Prismatic Spray\|prismatic spray]]* |
+| Hit Dice or Level | Spell-Like Abilities                                             |
+| ----------------- | ---------------------------------------------------------------- |
+| 1–3               | _[[rangoric-srd/spells/Flare\|flare]]_ 3/day                     |
+| 4–6               | _[[rangoric-srd/spells/Color Spray\|color spray]]_               |
+| 7–9               | _[[rangoric-srd/spells/Hypnotic Pattern\|hypnotic pattern]]_     |
+| 10–12             | _[[rangoric-srd/spells/Blindness-Deafness\|blindness/deafness]]_ |
+| 13–15             | _[[rangoric-srd/spells/Rainbow Pattern\|rainbow pattern]]_       |
+| 16+               | _[[rangoric-srd/spells/Prismatic Spray\|prismatic spray]]_       |
 
 **Special Qualities**: A crystalline creature keeps any special qualities that the base creature had, and is now an elemental, granting it immunity to poison, sleep, paralysis, and stunning. It is no longer subject to critical hits, and gains darkvision out to 60 feet. It also has resistance to cold 10 and fire 10. It has no metabolism, and therefore needs no food, water, or air.
 
@@ -74,27 +74,27 @@ This example uses a [[rangoric-srd/monsters/Dragonne|dragonne]] as the base crea
 
 **Crystalline Dragonne**
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|Elemental]]
-  - **Hit Dice**: 9d10+45 (94 hp)
-  - **Initiative**: +5
-  - **Speed**: 40 ft. (8 squares), fly 30 ft. (clumsy)
-  - **Armor Class**: 21 (–1 size, +1 Dex, +11 natural), touch 10, flat-footed 20
-  - **Base Attack**: +9; **CMB**: +16; **CMD**: 27 (31 vs. trip)
-  - **Attack**: Bite +14 melee (2d6+6)
-  - **Full Attack**: Bite +14 melee (2d6+6) and 2 claws +9 melee (2d4+3)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], roar, spell-like abilities
-  - **Special Qualities**: Darkvision 60 ft., elemental traits, low-light vision, resistance to cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +11, Ref +7, Will +4
-  - **Abilities**: Str 23, Dex 13, Con 21, Int 6, Wis 12, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +17
-  - **Feats**: Blind-Fight, Combat Reflexes, Improved Initiative, Track
-  - **Environment**: Temperate deserts
-  - **Organization**: Solitary, pair, or pride (5–10)
-  - **Challenge Rating**: 9
-  - **Treasure**: Double standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: 10–12 HD (Large); 13–27 HD (Huge)
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|Elemental]]
+- **Hit Dice**: 9d10+45 (94 hp)
+- **Initiative**: +5
+- **Speed**: 40 ft. (8 squares), fly 30 ft. (clumsy)
+- **Armor Class**: 21 (–1 size, +1 Dex, +11 natural), touch 10, flat-footed 20
+- **Base Attack**: +9; **CMB**: +16; **CMD**: 27 (31 vs. trip)
+- **Attack**: Bite +14 melee (2d6+6)
+- **Full Attack**: Bite +14 melee (2d6+6) and 2 claws +9 melee (2d4+3)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], roar, spell-like abilities
+- **Special Qualities**: Darkvision 60 ft., elemental traits, low-light vision, resistance to cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +11, Ref +7, Will +4
+- **Abilities**: Str 23, Dex 13, Con 21, Int 6, Wis 12, Cha 12
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +17
+- **Feats**: Blind-Fight, Combat Reflexes, Improved Initiative, Track
+- **Environment**: Temperate deserts
+- **Organization**: Solitary, pair, or pride (5–10)
+- **Challenge Rating**: 9
+- **Treasure**: Double standard
+- **Alignment**: Usually neutral
+- **Advancement**: 10–12 HD (Large); 13–27 HD (Huge)
 
 A crystalline dragonne looks like a dragonne carved from crystal, and weighs about 2,100 pounds.
 
@@ -104,6 +104,6 @@ A crystalline dragonne looks like a dragonne carved from crystal, and weighs abo
 
 **Roar (Su)**: A dragonne can loose a devastating roar every 1d4 rounds. All creatures except dragonnes within 120 feet must succeed on a DC 15 Will save or become fatigued. Those within 30 feet who fail their saves become exhausted. The save DC is Charisma-based.
 
-**Spell-Like Abilities**: 3/day—*flare*; 1/day—*color spray*, *hypnotic pattern*. Caster level 9th.
+**Spell-Like Abilities**: 3/day—_flare_; 1/day—_color spray_, _hypnotic pattern_. Caster level 9th.
 
 **Elemental Traits**: Immune to poison, sleep, paralysis, and stunning; not subject to critical hits; no need to eat, drink or breathe.

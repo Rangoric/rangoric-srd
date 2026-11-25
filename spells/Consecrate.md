@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Consecrate
 
-*Evocation \[Good\]*
+_Evocation \[Good\]_
 
-  - **Level**: Clr 2, Inq 2
-  - **Components**: V, S, M, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Area**: 20-ft.-radius emanation
-  - **Duration**: 2 hours/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Clr 2, Inq 2
+- **Components**: V, S, M, DF
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Area**: 20-ft.-radius emanation
+- **Duration**: 2 hours/level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 This spell blesses an area with positive energy. Each Charisma check made to [[rangoric-srd/combat/Combat Special Attacks#Turn or Rebuke Undead|turn undead]] within this area gains a +3 sacred bonus. Every undead creature entering a consecrated area suffers minor disruption, giving it a –1 penalty on attack rolls, damage rolls, and saves. Undead cannot be created within or summoned into a consecrated area.
 
@@ -47,4 +47,4 @@ If the area does contain an altar, shrine, or other permanent fixture of a deity
 
 Consecrate counters and dispels desecrate.
 
-*Material Component*: A vial of holy water and 25 gp worth (5 pounds) of silver dust, all of which must be sprinkled around the area.
+_Material Component_: A vial of holy water and 25 gp worth (5 pounds) of silver dust, all of which must be sprinkled around the area.

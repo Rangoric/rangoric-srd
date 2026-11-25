@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/close]
 
 # Push Knife
 
-*Simple unarmed attack.* Cost 1 gp; Dmg 1d2 (S), 1d3 (M); Critical x3; Weight 1/2 lb.; Type Piercing. ^stats
+_Simple unarmed attack._ Cost 1 gp; Dmg 1d2 (S), 1d3 (M); Critical x3; Weight 1/2 lb.; Type Piercing. ^stats
 
-(*Chi Shou*): Smaller than a punch dagger, the push knife is easily concealed, even in the palm of the hand. It is normally gripped in the palm, with the small punching blade projecting from between the user’s fingers. A strike with a push knife is considered an unarmed attack.
+(_Chi Shou_): Smaller than a punch dagger, the push knife is easily concealed, even in the palm of the hand. It is normally gripped in the palm, with the small punching blade projecting from between the user’s fingers. A strike with a push knife is considered an unarmed attack.

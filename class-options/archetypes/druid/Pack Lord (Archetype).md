@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Pack Lord
 
-*A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Some druids bond with many animal companions rather than just one, achieving a level of communion rare even in druidic circles and leading their pack brothers and pack sisters with total authority.
 

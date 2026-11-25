@@ -25,15 +25,15 @@ tags: [rangoric, rangoric/spell]
 
 # Disrupting Weapon
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Clr 5, Inq 5, Spi 5
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Targets**: One melee weapon
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates (harmless, object); see text
-  - **Spell Resistance**: Yes (harmless, object)
+- **Level**: Clr 5, Inq 5, Spi 5
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Targets**: One melee weapon
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates (harmless, object); see text
+- **Spell Resistance**: Yes (harmless, object)
 
 This spell makes a melee weapon deadly to undead. Any undead creature with HD equal to or less than your caster level must succeed on a Will save or be destroyed utterly if struck in combat with this weapon. Spell resistance does not apply against the destruction effect.

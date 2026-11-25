@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Distraction
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “distraction (DC 14)”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “distraction (DC 14)”, on the Special Attacks line.
 
 A creature with this ability can nauseate the creatures that it damages. Any living creature that takes damage from a creature with the distraction ability is [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round; a Fortitude save (DC 10 + 1/2 the creature's HD + the creature's Con modifier) negates the effect.

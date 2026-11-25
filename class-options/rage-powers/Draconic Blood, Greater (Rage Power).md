@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Draconic Blood, Greater
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su)._
 
 While raging, the barbarian gains a breath weapon that she can use once per day. For every 2 barbarian levels, this breath weapon deals 1d6 points of damage of the energy type she chose for the draconic blood power, either in a 30-foot cone (if cold or fire) or a 60-foot line (if acid or electricity). Those caught in the area of the breath can attempt a Reflex saving throw for half damage. The DC of this save is equal to 10 + 1/2 the barbarian’s level + her Constitution modifier.
 

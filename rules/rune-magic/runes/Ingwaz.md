@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Ingwaz
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
+_A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat._
 
 Ingwaz is the rune of earth, popular with miners and engineers. Those attuned to Ingwaz become very stoic and quiet, but act with great determination when called upon.
 
@@ -23,15 +23,15 @@ Ingwaz is the rune of earth, popular with miners and engineers. Those attuned to
 
 **Spells Available** (by level; see [[rangoric-srd/rules/rune-magic/Rune Magic#The Runes|the runes]]):
 
-0. *[[rangoric-srd/spells/Resistance|resistance]]*
-1. *[[rangoric-srd/spells/Magic Stone|magic stone]]*
-2. *[[rangoric-srd/spells/Stone Shape|stone shape]]*
-3. *[[rangoric-srd/spells/Meld into Stone|meld into stone]]*
-4. *[[rangoric-srd/spells/Spike Stones|spike stones]]*
-5. *[[rangoric-srd/spells/Wall of Stone|wall of stone]]*
-6. *[[rangoric-srd/spells/Move Earth|move earth]]*
-7. *[[rangoric-srd/spells/Earthquake|earthquake]]*
-8. *[[rangoric-srd/spells/Iron Body|iron body]]*
-9. *[[rangoric-srd/spells/Elemental Swarm|elemental swarm]]* (earth elementals only)
+0. _[[rangoric-srd/spells/Resistance|resistance]]_
+1. _[[rangoric-srd/spells/Magic Stone|magic stone]]_
+2. _[[rangoric-srd/spells/Stone Shape|stone shape]]_
+3. _[[rangoric-srd/spells/Meld into Stone|meld into stone]]_
+4. _[[rangoric-srd/spells/Spike Stones|spike stones]]_
+5. _[[rangoric-srd/spells/Wall of Stone|wall of stone]]_
+6. _[[rangoric-srd/spells/Move Earth|move earth]]_
+7. _[[rangoric-srd/spells/Earthquake|earthquake]]_
+8. _[[rangoric-srd/spells/Iron Body|iron body]]_
+9. _[[rangoric-srd/spells/Elemental Swarm|elemental swarm]]_ (earth elementals only)
 
 **Associated Skill Bonus**: +1 bonus on all [[rangoric-srd/rules/Concentration (Check)|concentration checks]].

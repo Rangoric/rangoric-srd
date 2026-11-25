@@ -23,26 +23,26 @@ The maximum number of points a cognizance crystal can store is always an odd num
 
 A user cannot directly replenish her personal power points from those stored in a cognizance crystal, nor can she draw power points from more than one source to manifest a power. See Using Stored Power Points for more information.
 
-Table: Cognizance Crystals      
+Table: Cognizance Crystals   
 
 |        |        |        |                             |              |
 | ------ | ------ | ------ | --------------------------- | ------------ |
 | Minor  | Medium | Major  | Maximum Power Point Storage | Market Price |
-| 01-90  | 01-40  | -     | 1                           | 1,000 gp     |
-| 91-100 | 41-74  | -     | 3                           | 4,000 gp     |
-| -     | 75-89  | 01-39  | 5                           | 9,000 gp     |
-| -     | 90-98  | 40-59  | 7                           | 16,000 gp    |
-| -     | 99-100 | 60-69  | 9                           | 25,000 gp    |
-| -     | -     | 70-79  | 11                          | 36,000 gp    |
-| -     | -     | 80-89  | 13                          | 49,000 gp    |
-| -     | -     | 90-95  | 15                          | 64,000 gp    |
-| -     | -     | 96-100 | 17                          | 81,000 gp    |
+| 01-90  | 01-40  | -      | 1                           | 1,000 gp     |
+| 91-100 | 41-74  | -      | 3                           | 4,000 gp     |
+| -      | 75-89  | 01-39  | 5                           | 9,000 gp     |
+| -      | 90-98  | 40-59  | 7                           | 16,000 gp    |
+| -      | 99-100 | 60-69  | 9                           | 25,000 gp    |
+| -      | -      | 70-79  | 11                          | 36,000 gp    |
+| -      | -      | 80-89  | 13                          | 49,000 gp    |
+| -      | -      | 90-95  | 15                          | 64,000 gp    |
+| -      | -      | 96-100 | 17                          | 81,000 gp    |
 
 Faint to strong psychokinesis; ML equal to maximum power point storage; Craft Cognizance Crystal; Weight 1 lb.
 
 ### Dorjes
 
-A dorje is a slender crystal that contains a single power. Each dorje has 50 charges when created, and each charge expended allows one use of that power. A dorje that runs out of charges is just a simple crystal.  
+A dorje is a slender crystal that contains a single power. Each dorje has 50 charges when created, and each charge expended allows one use of that power. A dorje that runs out of charges is just a simple crystal.
 
 Physical Description: A typical dorje is an elongated crystal of one color (or colorless), between 8 inches and 10 inches long and about 1/2 inch thick, which can weigh up to 1/4 pound. Occasionally, a dorje is decorated with carvings or inscribed runes along a face of the crystal. A typical dorje has AC 7, 7 hit points, a hardness of 8, and a break DC of 18.
 
@@ -50,19 +50,19 @@ Activation: Dorjes use the power trigger activation method, so manifesting a pow
 
 Dorjes are normally created at the minimum manifester level required to manifest the power, and powers that can be augmented are not augmented when stored in a dorje. A dorje’s wielder cannot augment the power contained within the dorje. However, dorjes can be created at a higher manifester level than required to manifest the power. In this case, the dorje that holds an augmentable power is augmented, to the limit of the manifester level and the power’s augmentation maximums, if any. The manifester level of a dorje cannot be more than five higher than the minimum manifester level to use the power it contains.
 
-Table: Dorjes     
+Table: Dorjes   
 
 | Minor  | Medium | Major  | Power Level (1) | Market Price (2) |
 | ------ | ------ | ------ | --------------- | ---------------- |
-| 01-50  | -     | -     | 1st             | 750 gp           |
-| 51-95  | 01-05  | -     | 2nd             | 4,500 gp         |
-| 96-100 | 06-65  | -     | 3rd             | 11,250 gp        |
-| -     | 66-95  | 01-05  | 4th             | 21,000 gp        |
-| -     | 96-100 | 06-50  | 5th             | 33,750 gp        |
-| -     | -     | 51-70  | 6th             | 49,500 gp        |
-| -     | -     | 71-85  | 7th             | 68,250 gp        |
-| -     | -     | 86-95  | 8th             | 90,000 gp        |
-| -     | -     | 96-100 | 9th             | 114,750 gp       |
+| 01-50  | -      | -      | 1st             | 750 gp           |
+| 51-95  | 01-05  | -      | 2nd             | 4,500 gp         |
+| 96-100 | 06-65  | -      | 3rd             | 11,250 gp        |
+| -      | 66-95  | 01-05  | 4th             | 21,000 gp        |
+| -      | 96-100 | 06-50  | 5th             | 33,750 gp        |
+| -      | -      | 51-70  | 6th             | 49,500 gp        |
+| -      | -      | 71-85  | 7th             | 68,250 gp        |
+| -      | -      | 86-95  | 8th             | 90,000 gp        |
+| -      | -      | 96-100 | 9th             | 114,750 gp       |
 
 1 Some dorjes have higher manifester levels than the minimum power level, which give them commensurately higher costs.
 
@@ -84,21 +84,21 @@ Identifying Psionic Tattoos: In addition to the standard methods of identificati
 
 Activation: A psionic tattoo produces its effect when touched by its wearer and willed to do so. This activity, called “tapping” the tattoo, is a standard action that provokes attacks of opportunity. A psionic tattoo fades away after use.
 
-The following rules govern the use of psionic tattoos.  
+The following rules govern the use of psionic tattoos.
 
-  - A creature must have an appropriate physical surface on which to scribe the pattern (thus, incorporeal creatures or creatures with impermanent flesh, such as fire elementals, cannot use psionic tattoos).
+- A creature must have an appropriate physical surface on which to scribe the pattern (thus, incorporeal creatures or creatures with impermanent flesh, such as fire elementals, cannot use psionic tattoos).
 
-  - Tapping a psionic tattoo provokes attacks of opportunity. A successful attack (including [[rangoric-srd/combat/Combat Maneuvers#Grapple|grappling]] attacks) against the wearer forces a [[rangoric-srd/psionics/Psionics#Concentration|Concentration]] check. A wearer who fails this check cannot concentrate effectively on the tattoo to use it. The tattoo remains untapped, and the wearer can make another attempt.
+- Tapping a psionic tattoo provokes attacks of opportunity. A successful attack (including [[rangoric-srd/combat/Combat Maneuvers#Grapple|grappling]] attacks) against the wearer forces a [[rangoric-srd/psionics/Psionics#Concentration|Concentration]] check. A wearer who fails this check cannot concentrate effectively on the tattoo to use it. The tattoo remains untapped, and the wearer can make another attempt.
 
-  - A character can trigger the effects of another’s psionic tattoo if the other wearer is unconscious. It is a full-round action to find, touch, and concentrate on an unconscious creature’s tattoo in order to tap it.
+- A character can trigger the effects of another’s psionic tattoo if the other wearer is unconscious. It is a full-round action to find, touch, and concentrate on an unconscious creature’s tattoo in order to tap it.
 
-The manifester level for a standard psionic tattoo is the minimum manifester level needed to manifest the power (unless otherwise specified).  
+The manifester level for a standard psionic tattoo is the minimum manifester level needed to manifest the power (unless otherwise specified).
 
 Table: Psionic Tattoos
 
 |        |        |        |             |                  |
 | ------ | ------ | ------ | ----------- | ---------------- |
 | Minor  | Medium | Major  | Power Level | Market Price (2) |
-| 01-47  | 01-08  | -     | 1st         | 50 gp            |
+| 01-47  | 01-08  | -      | 1st         | 50 gp            |
 | 48-100 | 09-75  | 01-50  | 2nd         | 300 gp           |
-| -     | 76-100 | 51-100 | 3rd         | 750 gp           |
+| -      | 76-100 | 51-100 | 3rd         | 750 gp           |

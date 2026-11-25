@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Seafoam Shawl
 
-This shawl of delicate lace can be activated once per day to grant the benefits of the *[[rangoric-srd/spells/Fins to Feet|fins to feet]]* spell, transforming the wearer's lower fins or appendages into feet whenever he is on dry land—unless dismissed, this effect lasts for 5 hours.
+This shawl of delicate lace can be activated once per day to grant the benefits of the _[[rangoric-srd/spells/Fins to Feet|fins to feet]]_ spell, transforming the wearer's lower fins or appendages into feet whenever he is on dry land—unless dismissed, this effect lasts for 5 hours.
 
-Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Fins to Feet|fins to feet]]*; Price 6,000 gp; Cost 3,000 gp; Weight 1 lb.
+Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Fins to Feet|fins to feet]]_; Price 6,000 gp; Cost 3,000 gp; Weight 1 lb.

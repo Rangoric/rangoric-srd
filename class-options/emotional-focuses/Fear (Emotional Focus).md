@@ -14,13 +14,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Fear
 
-*An [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-emotional-focus|emotional focus]] for the [[rangoric-srd/classes/Spiritualist (Class)|spiritualist]]’s [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-phantom|phantom]].*
+_An [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-emotional-focus|emotional focus]] for the [[rangoric-srd/classes/Spiritualist (Class)|spiritualist]]’s [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-phantom|phantom]]._
 
 A phantom with this emotional focus suffered from overwhelming fear in life. As a phantom, it is able to channel that fear into a terrifying weapon. Fear phantoms are often horrifying to behold. Sometimes they appear as ghostly figures in tattered funeral garb or wrapped in chains or other bindings. Their features may be distorted into gaunt and haunting forms, making them seem more like ghosts or spectres. A miasma of livid gray swirling motes often surrounds their forms as they stalk their surroundings, seeking to bestow their terror on others.
 
-*Skills*: The phantom gains a number of ranks in [[rangoric-srd/skills/Intimidation|Intimidation]] and [[rangoric-srd/skills/Stealth|Stealth]] equal to its number of Hit Dice. While confined in the spiritualist’s consciousness, such a phantom grants the spiritualist [[rangoric-srd/feats/Skill Focus|Skill Focus]] in each of these skills.
+_Skills_: The phantom gains a number of ranks in [[rangoric-srd/skills/Intimidation|Intimidation]] and [[rangoric-srd/skills/Stealth|Stealth]] equal to its number of Hit Dice. While confined in the spiritualist’s consciousness, such a phantom grants the spiritualist [[rangoric-srd/feats/Skill Focus|Skill Focus]] in each of these skills.
 
-*Good Saves*: Reflex and Will.
+_Good Saves_: Reflex and Will.
 
 **Stealthy**: The phantom gains [[rangoric-srd/feats/Skill Focus|Skill Focus]] ([[rangoric-srd/skills/Escape Artist|Escape Artist]] or [[rangoric-srd/skills/Stealth|Stealth]]) as a bonus feat.
 

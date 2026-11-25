@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Dire Weasel
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 5d8+10 (32 hp)
-  - **Initiative**: +3
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 17 (+3 Dex, +5 natural, –1 size), touch 12, flat-footed 14
-  - **Base Attack**: +3; **CMB**: +9 (+13 grapple); **CMD**: 22 (26 vs. trip)
-  - **Attack**: Bite +8 melee (1d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +8 melee (1d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Attach|Attach]] (bite), [[rangoric-srd/monsters/abilities/Blood Drain|blood drain]] (1d4+1 Con), [[rangoric-srd/monsters/abilities/Blood Rage|blood rage]], [[rangoric-srd/monsters/abilities/Grab|grab]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Compression|compression]]
-  - **Saves**: Fort +6, Ref +7, Will +2
-  - **Abilities**: Str 21, Dex 16, Con 14, Int 2, Wis 13, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
-  - **Environment**: Any land
-  - **Organization**: Solitary, pair, or den (3–6)
-  - **Challenge Rating**: 3
-  - **Treasure**: Incidental
-  - **Alignment**: Always neutral
-  - **Advancement**: 4–6 HD (Medium); 7–9 HD (Large)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 5d8+10 (32 hp)
+- **Initiative**: +3
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 17 (+3 Dex, +5 natural, –1 size), touch 12, flat-footed 14
+- **Base Attack**: +3; **CMB**: +9 (+13 grapple); **CMD**: 22 (26 vs. trip)
+- **Attack**: Bite +8 melee (1d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +8 melee (1d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Attach|Attach]] (bite), [[rangoric-srd/monsters/abilities/Blood Drain|blood drain]] (1d4+1 Con), [[rangoric-srd/monsters/abilities/Blood Rage|blood rage]], [[rangoric-srd/monsters/abilities/Grab|grab]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Compression|compression]]
+- **Saves**: Fort +6, Ref +7, Will +2
+- **Abilities**: Str 21, Dex 16, Con 14, Int 2, Wis 13, Cha 11
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
+- **Environment**: Any land
+- **Organization**: Solitary, pair, or den (3–6)
+- **Challenge Rating**: 3
+- **Treasure**: Incidental
+- **Alignment**: Always neutral
+- **Advancement**: 4–6 HD (Medium); 7–9 HD (Large)
+- **Level Adjustment**: —
 
 Common in a variety of environments and climates, dire weasels are larger relatives of normal weasels. They're relentless predators known for their fearless nature and killing frenzies, and are dangerous to farmsteads and settlements—they not only prey on cattle and horses, but also target humanoids. Those that do often become obsessed with the taste of that flesh and hunt such prey exclusively.
 

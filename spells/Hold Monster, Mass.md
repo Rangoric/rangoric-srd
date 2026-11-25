@@ -20,9 +20,9 @@ tags: [rangoric, rangoric/spell]
 
 # Hold Monster, Mass
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Psy 9, Sor/Wiz 9, Wit 9
-  - **Targets**: One or more creatures, no two of which can be more than 30 ft. apart
+- **Level**: Psy 9, Sor/Wiz 9, Wit 9
+- **Targets**: One or more creatures, no two of which can be more than 30 ft. apart
 
 This spell functions like [[rangoric-srd/spells/Hold Person|hold person]], except that it affects multiple creatures and holds any living creature that fails its Will save.

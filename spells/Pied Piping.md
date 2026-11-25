@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Pied Piping
 
-*Enchantment (Compulsion) \[Mind-affecting, Sonic\]*
+_Enchantment (Compulsion) \[Mind-affecting, Sonic\]_
 
-  - **Level**: Brd 6, Skd 6
-  - **Components**: V or F (musical instrument)
-  - **Casting Time**: 1 standard action
-  - **Range**: 90 ft.
-  - **Area**: 90-ft.-radius emanation, centered on you
-  - **Duration**: Concentration + 1 round/level
-  - **Saving Throw**: Will partial; see text
-  - **Spell Resistance**: Yes
+- **Level**: Brd 6, Skd 6
+- **Components**: V or F (musical instrument)
+- **Casting Time**: 1 standard action
+- **Range**: 90 ft.
+- **Area**: 90-ft.-radius emanation, centered on you
+- **Duration**: Concentration + 1 round/level
+- **Saving Throw**: Will partial; see text
+- **Spell Resistance**: Yes
 
 You call forth a melody so compelling and attractive that creatures belonging to a group with a specific, identifiable physical trait (such as type, subtype, age, gender, or hair color) find it almost impossible not to approach and follow you. You choose the nature of the creatures you seek to attract when you cast the spell and, once you make this choice, cannot alter it. You can only use physical traits to determine your audience. You can never use social and other more voluntary criteria (such as alignment, religion, nationality, or class) to select targets for this spell.
 

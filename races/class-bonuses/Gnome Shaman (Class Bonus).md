@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Gnome Shaman
 
-*A [[rangoric-srd/races/Gnome|gnome]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Shaman#^shaman-class-bonuses|shaman]] level.*
+_A [[rangoric-srd/races/Gnome|gnome]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Shaman#^shaman-class-bonuses|shaman]] level._
 
 The shaman gains 1/6 of a new [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]].

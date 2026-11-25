@@ -26,15 +26,15 @@ tags: [rangoric, rangoric/spell]
 
 # Blade of Dark Triumph
 
-*Transmutation \[Evil\]*
+_Transmutation \[Evil\]_
 
-  - **Level**: Apl 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Your fiendish boon weapon
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: No
+- **Level**: Apl 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Your fiendish boon weapon
+- **Duration**: 1 minute/level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: No
 
-You strengthen the bond between your fiendish boon weapon and its unholy spirit. The weapon gains the *[[rangoric-srd/magic-items/weapon-abilities/Ghost Touch (Weapon Special Ability)|ghost touch]]* property. You may change your weapon's damage type (bludgeoning, piercing, slashing) as a swift action. You gain a profane bonus to your CMD against disarm and sunder attacks directed at your boon weapon; this bonus is equal to half your caster level.
+You strengthen the bond between your fiendish boon weapon and its unholy spirit. The weapon gains the _[[rangoric-srd/magic-items/weapon-abilities/Ghost Touch (Weapon Special Ability)|ghost touch]]_ property. You may change your weapon's damage type (bludgeoning, piercing, slashing) as a swift action. You gain a profane bonus to your CMD against disarm and sunder attacks directed at your boon weapon; this bonus is equal to half your caster level.

@@ -44,9 +44,9 @@ Curious, intelligent, and likable, gnomes move easily through the societies and 
 
 **Table: The Gnome Paragon**
 
-| Level | Special                                                                                                | Spells per Day    |
-| ----- | ------------------------------------------------------------------------------------------------------ | ----------------- |
-| 1st   | [[#^gnome-paragon-illusion-aptitude\|Illusion aptitude]], [[#^gnome-paragon-keen-senses\|keen senses]] | —                 |
+| Level | Special                                                                                                | Spells per Day   |
+| ----- | ------------------------------------------------------------------------------------------------------ | ---------------- |
+| 1st   | [[#^gnome-paragon-illusion-aptitude\|Illusion aptitude]], [[#^gnome-paragon-keen-senses\|keen senses]] | —                |
 | 2nd   | [[#^gnome-paragon-mirror-image\|Mirror image]]                                                         | +1 level of bard |
 | 3rd   | [[#^gnome-paragon-ability-boost\|Ability boost]] (Cha +2)                                              | +1 level of bard |
 

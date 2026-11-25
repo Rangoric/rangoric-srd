@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Snakebite Striker
 
-*A [[rangoric-srd/classes/Brawler#^brawler-archetypes|brawler]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Brawler#^brawler-archetypes|brawler]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 With her lightning quickness and guile, a snakebite striker keeps her foes' attention focused on her, because any one of her feints might be an actual attack. By giving up some of a brawler's versatility, she increases her damage potential and exposes opponents to deadly and unexpected strikes.
 

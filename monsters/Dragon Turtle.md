@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Dragon Turtle
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Aquatic)
-  - **Hit Dice**: 12d12+48 (126 hp)
-  - **Initiative**: +4
-  - **Speed**: 20 ft. (4 squares), swim 30 ft.
-  - **Armor Class**: 23 (+15 natural, –2 size), touch 8, flat-footed 23
-  - **Base Attack**: +12; **CMB**: +22; **CMD**: 32 (36 vs. trip)
-  - **Attack**: Bite +18 melee (3d6+8) or claw +18 melee (2d6+8)
-  - **Full Attack**: Bite +18 melee (3d6+8) and 2 claws +18 melee (2d6+8)
-  - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]], [[rangoric-srd/monsters/abilities/Capsize|capsize]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], immunity to fire, sleep and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]
-  - **Saves**: Fort +12, Ref +8, Will +9
-  - **Abilities**: Str 27, Dex 10, Con 19, Int 12, Wis 13, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +31, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +7 (+15 in water)
-  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Temperate aquatic
-  - **Organization**: Solitary
-  - **Challenge Rating**: 9
-  - **Treasure**: Double
-  - **Alignment**: Usually neutral
-  - **Advancement**: 13–24 HD (Huge); 25–36 HD (Gargantuan)
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Aquatic)
+- **Hit Dice**: 12d12+48 (126 hp)
+- **Initiative**: +4
+- **Speed**: 20 ft. (4 squares), swim 30 ft.
+- **Armor Class**: 23 (+15 natural, –2 size), touch 8, flat-footed 23
+- **Base Attack**: +12; **CMB**: +22; **CMD**: 32 (36 vs. trip)
+- **Attack**: Bite +18 melee (3d6+8) or claw +18 melee (2d6+8)
+- **Full Attack**: Bite +18 melee (3d6+8) and 2 claws +18 melee (2d6+8)
+- **Space/Reach**: 15 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]], [[rangoric-srd/monsters/abilities/Capsize|capsize]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], immunity to fire, sleep and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]
+- **Saves**: Fort +12, Ref +8, Will +9
+- **Abilities**: Str 27, Dex 10, Con 19, Int 12, Wis 13, Cha 12
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +31, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +7 (+15 in water)
+- **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Temperate aquatic
+- **Organization**: Solitary
+- **Challenge Rating**: 9
+- **Treasure**: Double
+- **Alignment**: Usually neutral
+- **Advancement**: 13–24 HD (Huge); 25–36 HD (Gargantuan)
+- **Level Adjustment**: —
 
 Dragon turtles make their homes in both salt and fresh water, where they rank among the biggest threats to sailors and those who travel by ship through the waterways of the world. Skilled mariners know the territory dragon turtles claim and frequently make offerings of gold and magic for safe passage or avoid the area entirely. For its part, a dragon turtle quickly grows to appreciate and even expect such tithes and gifts, and a dragon turtle that expects gifts but is ignored is a dangerous foe indeed.
 

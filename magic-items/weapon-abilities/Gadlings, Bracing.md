@@ -25,4 +25,4 @@ Magical gadlings are quite common amongst those who can afford them. In most tou
 
 **Bracing Gadlings**: These are simple, almost primitive, bits of carved wood. Once per day, the wearer may call on them to lend him strength, giving him a +2 enhancement bonus to his Strength score for the next four rounds.
 
-Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Bull’s Strength|bull’s strength]]*; Price 10,880 gp; Cost 5,400 gp + 432 XP.
+Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Bull’s Strength|bull’s strength]]_; Price 10,880 gp; Cost 5,400 gp + 432 XP.

@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Grig
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
-  - **Hit Dice**: 1d6+1 (4 hp)
-  - **Initiative**: +4
-  - **Speed**: 30 ft. (6 squares), fly 40 ft. (average)
-  - **Armor Class**: 17 (+4 Dex, +1 dodge, +2 size), touch 17, flat-footed 12
-  - **Base Attack**: +0; **CMB**: +2; **CMD**: 10 (16 vs. trip)
-  - **Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] –1 melee (1d3–3/19–20) or [[rangoric-srd/equipment/weapons/Longbow|longbow]] +6 ranged (1d4–3/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] –1 melee (1d3–3/19–20); or [[rangoric-srd/equipment/weapons/Longbow|longbow]] +6 ranged (1d4–3/×3)
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: Fiddle, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 16
-  - **Saves**: Fort +1, Ref +6, Will +3
-  - **Abilities**: Str 5, Dex 18, Con 13, Int 10, Wis 13, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Athletics|Athletics]] –3 (+12 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +8, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Performance|Performance]] (string instruments) +6, [[rangoric-srd/skills/Stealth|Stealth]] +16
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]]
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary, gang (2–5), band (6–11), or tribe (20–80)
-  - **Challenge Rating**: 1
-  - **Treasure**: NPC gear (short sword, longbow with 20 arrows, other treasure)
-  - **Alignment**: Always neutral good
-  - **Advancement**: 1–3 HD (Tiny)
-  - **Level Adjustment**: +3
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
+- **Hit Dice**: 1d6+1 (4 hp)
+- **Initiative**: +4
+- **Speed**: 30 ft. (6 squares), fly 40 ft. (average)
+- **Armor Class**: 17 (+4 Dex, +1 dodge, +2 size), touch 17, flat-footed 12
+- **Base Attack**: +0; **CMB**: +2; **CMD**: 10 (16 vs. trip)
+- **Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] –1 melee (1d3–3/19–20) or [[rangoric-srd/equipment/weapons/Longbow|longbow]] +6 ranged (1d4–3/×3)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] –1 melee (1d3–3/19–20); or [[rangoric-srd/equipment/weapons/Longbow|longbow]] +6 ranged (1d4–3/×3)
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: Fiddle, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 16
+- **Saves**: Fort +1, Ref +6, Will +3
+- **Abilities**: Str 5, Dex 18, Con 13, Int 10, Wis 13, Cha 14
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Athletics|Athletics]] –3 (+12 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +8, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Performance|Performance]] (string instruments) +6, [[rangoric-srd/skills/Stealth|Stealth]] +16
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]]
+- **Environment**: Temperate forests
+- **Organization**: Solitary, gang (2–5), band (6–11), or tribe (20–80)
+- **Challenge Rating**: 1
+- **Treasure**: NPC gear (short sword, longbow with 20 arrows, other treasure)
+- **Alignment**: Always neutral good
+- **Advancement**: 1–3 HD (Tiny)
+- **Level Adjustment**: +3
 
 Grigs are tiny fey with the upper bodies of elf-like sprites and cricket bodies below. Their humanoid features vary wildly in individual appearance, but they usually wear their brown, silver, or green hair long and uncombed. In most cases, grigs' skin bears gold or green stripes or markings, and their legs are brightly colored. They prefer to eschew clothes entirely, wearing clothing only when such apparel has desirable magical effects. Grigs stand 1-1/2 feet tall, and weigh just under 10 pounds.
 
@@ -75,6 +75,6 @@ Grigs speak Sylvan. Some also speak Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +11): 3/day—*[[rangoric-srd/spells/Disguise Self|disguise self]]*, *[[rangoric-srd/spells/Entangle|entangle]]* (DC 13), *[[rangoric-srd/spells/Invisibility|invisibility]]* (self only), *[[rangoric-srd/spells/Pyrotechnics|pyrotechnics]]* (DC 14).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +11): 3/day—_[[rangoric-srd/spells/Disguise Self|disguise self]]_, _[[rangoric-srd/spells/Entangle|entangle]]_ (DC 13), _[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only), _[[rangoric-srd/spells/Pyrotechnics|pyrotechnics]]_ (DC 14).
 
 **Fiddle (Su)**: Grigs are capable of rubbing their legs together like a cricket to create a surprisingly pleasant sound not unlike that of a tiny fiddle. As a standard action, a grig can create a catchy tune that compels any creature within a 20-foot spread to dance and caper. A creature can resist this compulsion by making a DC 12 Will save. Creatures that fail are compelled to dance and shuffle their feet, and are effectively [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] as long as the grig continues to fiddle. A grig can maintain this effect for up to 10 rounds per day by concentrating. Once a creature makes the save against a grig's fiddle, it is immune to further fiddle effects from that grig for 24 hours. This is a sonic mind-affecting effect. The save DC is Charisma-based.

@@ -17,10 +17,10 @@ tags: [rangoric, rangoric/spell]
 
 # True Resurrection
 
-*Conjuration (Healing)*
+_Conjuration (Healing)_
 
-  - **Level**: Clr 9
-  - **Casting Time**: 10 minutes
+- **Level**: Clr 9
+- **Casting Time**: 10 minutes
 
 This spell functions like [[rangoric-srd/spells/Raise Dead|raise dead]], except that you can resurrect a creature that has been [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]] for as long as 10 years per caster level. This spell can even bring back creatures whose bodies have been destroyed, provided that you unambiguously identify the deceased in some fashion (reciting the deceased’s time and place of birth or death is the most common method).
 
@@ -30,4 +30,4 @@ You can revive someone killed by a death effect or someone who has been turned i
 
 Even true resurrection can’t restore to life a creature who has died of old age.
 
-*Material Component*: A sprinkle of holy water and diamonds worth a total of at least 25,000 gp.
+_Material Component_: A sprinkle of holy water and diamonds worth a total of at least 25,000 gp.

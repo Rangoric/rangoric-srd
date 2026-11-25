@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/flails]
 
 # Heavy Flail
 
-*Martial two-handed melee weapon (disarm, trip).* Cost 15 gp; Dmg 1d8 (S), 1d10 (M); Critical 19–20/x2; Weight 10 lb.; Type Bludgeoning. ^stats
+_Martial two-handed melee weapon (disarm, trip)._ Cost 15 gp; Dmg 1d8 (S), 1d10 (M); Critical 19–20/x2; Weight 10 lb.; Type Bludgeoning. ^stats
 
 With a flail, you get a +2 bonus on [[rangoric-srd/combat/Combat Maneuvers#Disarm|combat maneuver checks]] made to disarm an enemy.
 

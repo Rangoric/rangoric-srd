@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Interrogation
 
-*Necromancy \[Evil, Pain\]*
+_Necromancy \[Evil, Pain\]_
 
-  - **Level**: Inq 1, Mes 1, Psy 1, Sor/Wiz 1, Wit 1
-  - **Components**: V, S
-  - **Casting Time**: 1 round
-  - **Range**: Touch
-  - **Target**: Living creature touched
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Inq 1, Mes 1, Psy 1, Sor/Wiz 1, Wit 1
+- **Components**: V, S
+- **Casting Time**: 1 round
+- **Range**: Touch
+- **Target**: Living creature touched
+- **Duration**: 1 minute/level
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
 You question the target, backed up by the threat of magical pain. You may ask one question per two caster levels. The target can either answer the question or take 1d4 points of damage plus your Wisdom bonus. The target is not compelled to answer truthfully, but the threat of pain gives it a –4 penalty on Deception checks to convince you when it is lying.

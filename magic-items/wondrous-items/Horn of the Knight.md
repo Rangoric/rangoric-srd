@@ -20,4 +20,4 @@ tags: [rangoric, rangoric/magic-item]
 
 When blown, this small bugle with ornately engraved battle scenes summons 1d4 [[rangoric-srd/prestige-classes/Knight of the Fey|knights of the fey]] to fight for the summoner. The summoned knights are lower or higher in level than the summoner (roll 1d6 for each: 1-3 levels lower, 4-6 levels higher). The knights will attack whomever they are commanded to and will fight until a full hour has elapsed or they or the enemy is slain, whichever arrives first. The horn can only be blown for this effect once a week; all other times, it simply sounds as a masterwork bugle.
 
-CL 13th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Summon Fey VI|summon fey VI]]*; Price 50,000 gp; Cost 25,000 gp + 2,000 XP; Weight 2 lb.
+CL 13th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Summon Fey VI|summon fey VI]]_; Price 50,000 gp; Cost 25,000 gp + 2,000 XP; Weight 2 lb.

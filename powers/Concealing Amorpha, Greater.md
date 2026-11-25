@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/power]
 Metacreativity (Creation)  
 Level: Shaper 3, psychic warrior 3  
 Duration: 1 round/level (D)  
-Power Points: 5  
+Power Points: 5
 
 As [[rangoric-srd/powers/Concealing Amorpha|concealing amorpha]], except the quasi-real membrane so distorts your image and actual position that you gain [[rangoric-srd/combat/Combat Modifiers|total concealment]] (opponents have a 50% miss chance), but for a shorter period of time.

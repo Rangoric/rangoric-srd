@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Finger of Death
 
-*Necromancy \[Death\]*
+_Necromancy \[Death\]_
 
-  - **Level**: Drd 8, Psy 7, Sor/Wiz 7
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One living creature
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Fortitude partial
-  - **Spell Resistance**: Yes
+- **Level**: Drd 8, Psy 7, Sor/Wiz 7
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One living creature
+- **Duration**: Instantaneous
+- **Saving Throw**: Fortitude partial
+- **Spell Resistance**: Yes
 
 You can slay any one living creature within range. The target is entitled to a Fortitude saving throw to survive the attack. If the save is successful, the creature instead takes 3d6 points of damage +1 point per caster level (maximum +25).
 

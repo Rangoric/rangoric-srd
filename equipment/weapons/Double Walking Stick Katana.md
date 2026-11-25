@@ -25,7 +25,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades, weapon-group/double
 
 # Double Walking Stick Katana
 
-*Exotic two-handed melee weapon (double).* Cost 50 gp; Dmg 1d4/1d4 (S), 1d6/1d6 (M); Critical 19–20/x2; Weight 6 lb.; Type Slashing. ^stats
+_Exotic two-handed melee weapon (double)._ Cost 50 gp; Dmg 1d4/1d4 (S), 1d6/1d6 (M); Critical 19–20/x2; Weight 6 lb.; Type Slashing. ^stats
 
 This single case conceals a pair of matched fighting swords perfectly balanced to be wielded as a pair. Despite their name, the blades more closely resemble the shorter [[rangoric-srd/equipment/weapons/Wakizashi|wakizashi]]. When drawn, the blades use the statistics given here, one blade at each end of a double weapon. When the blades are concealed in their case, this weapon can be used as a [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]].
 

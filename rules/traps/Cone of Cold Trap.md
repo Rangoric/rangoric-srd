@@ -20,6 +20,6 @@ A sample trap; how traps work, and what each line means, is in [[rangoric-srd/ru
 - **Type**: magic
 - **[[rangoric-srd/skills/Investigation|Investigation]]**: DC 30 to find
 - **[[rangoric-srd/skills/Engineering|Engineering]]**: DC 30 to disable
-- **Trigger**: proximity (*[[rangoric-srd/spells/Alarm|alarm]]*)
+- **Trigger**: proximity (_[[rangoric-srd/spells/Alarm|alarm]]_)
 - **Reset**: none
-- **Effect**: spell effect (*[[rangoric-srd/spells/Cone of Cold|cone of cold]]*, 15d6 cold damage, DC 17 Reflex save for half damage); multiple targets (all targets in a 60-ft. cone)
+- **Effect**: spell effect (_[[rangoric-srd/spells/Cone of Cold|cone of cold]]_, 15d6 cold damage, DC 17 Reflex save for half damage); multiple targets (all targets in a 60-ft. cone)

@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/flails]
 
 # Flindbar
 
-*Exotic one-handed melee weapon (trip, disarm).* Cost 9 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Weight 6 lb.; Type Bludgeoning and piercing. ^stats
+_Exotic one-handed melee weapon (trip, disarm)._ Cost 9 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Weight 6 lb.; Type Bludgeoning and piercing. ^stats
 
 This one-handed weapon is similar to a [[rangoric-srd/equipment/weapons/Nunchaku|nunchaku]] in that it consists of a pair of bars linked with heavy chain. However, a flindbar's bars are made of iron and are capped with a ring of spikes or studs. Since it's much heavier than a nunchaku, it is not a light weapon.
 

@@ -15,7 +15,7 @@ Here and There are terms used not to merely tell where one is, but also to diffe
 
 ## Mortal Worlds
 
-A term used more often by the fey than others, *mortal worlds* distinguishes the worlds of the Material Planes from FaerieLand.
+A term used more often by the fey than others, _mortal worlds_ distinguishes the worlds of the Material Planes from FaerieLand.
 
 ## FaerieLand
 

@@ -25,7 +25,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Kensai
 
-*A [[rangoric-srd/classes/Magus#^magus-archetypes|magus]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Magus#^magus-archetypes|magus]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A kensai spends his life focusing his training and meditation into a rapturous perfection of the use of a single weapon, which is usually but not always a sword, channeling his arcane might through it in a dizzying and deadly dance beyond the abilities of even the greatest of mundane warriors.
 

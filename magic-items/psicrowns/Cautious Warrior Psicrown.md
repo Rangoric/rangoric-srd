@@ -20,12 +20,12 @@ tags: [rangoric, rangoric/magic-item]
 
 This psicrown has 450 power points. It is made from a shining iron alloy, similar to the material of a metallic shield. It allows use of the following powers.
 
-  - [[rangoric-srd/powers/Adapt Body|Adapt body]]
+- [[rangoric-srd/powers/Adapt Body|Adapt body]]
 
-  - [[rangoric-srd/powers/Body Adjustment|Body adjustment]]
+- [[rangoric-srd/powers/Body Adjustment|Body adjustment]]
 
-  - [[rangoric-srd/powers/Precognition, Defensive|Precognition, defensive]]
+- [[rangoric-srd/powers/Precognition, Defensive|Precognition, defensive]]
 
-  - [[rangoric-srd/powers/Inertial Barrier|Inertial barrier]]
+- [[rangoric-srd/powers/Inertial Barrier|Inertial barrier]]
 
 Moderate psychometabolism; ML 9th; Craft Psicrown, adapt body, body adjustment, defensive precognition, inertial barrier; Price 32,063 gp.

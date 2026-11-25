@@ -29,15 +29,15 @@ tags: [rangoric, rangoric/spell]
 
 # Shock Shield
 
-*Abjuration \[Electricity, Force\]*
+_Abjuration \[Electricity, Force\]_
 
-  - **Level**: Alc 1, Blr 1, Mag 1, Occ 1, Sor/Wiz 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 minute/level (D)
+- **Level**: Alc 1, Blr 1, Mag 1, Occ 1, Sor/Wiz 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 minute/level (D)
 
-This spell creates an invisible shield similar to but not as strong as the *[[rangoric-srd/spells/Shield|shield]]* spell. This shield hovers in front of you and negates *[[rangoric-srd/spells/Magic Missile|magic missile]]* attacks directed at you. The disk provides a +2 shield bonus to AC. This bonus applies against incorporeal touch attacks.
+This spell creates an invisible shield similar to but not as strong as the _[[rangoric-srd/spells/Shield|shield]]_ spell. This shield hovers in front of you and negates _[[rangoric-srd/spells/Magic Missile|magic missile]]_ attacks directed at you. The disk provides a +2 shield bonus to AC. This bonus applies against incorporeal touch attacks.
 
 At any time, as a free action, you may dismiss your shield, at which point it deals 1d6 points of electrical damage to all creatures within a 5-foot burst, including you. A Reflex saving throw halves the damage.

@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Immunity
 
-*A 2-point evolution (Su) for a [[rangoric-srd/classes/Summoner|summoner]]’s or [[rangoric-srd/classes/Unchained Summoner|unchained summoner]]’s eidolon.*
+_A 2-point evolution (Su) for a [[rangoric-srd/classes/Summoner|summoner]]’s or [[rangoric-srd/classes/Unchained Summoner|unchained summoner]]’s eidolon._
 
 An eidolon’s body becomes extremely resilient to one energy type, gaining [[rangoric-srd/rules/Special Abilities and Conditions#Resistance to Energy|immunity]] to that type. Pick one energy type: acid, cold, electricity, fire, or sonic. The eidolon gains immunity to that energy type. This evolution can be selected more than once. Its effects do not stack. Each time it applies to a different energy type. The summoner must be at least 7th level before selecting this evolution.

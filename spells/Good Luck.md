@@ -30,17 +30,17 @@ tags: [rangoric, rangoric/spell]
 
 # Good Luck
 
-*Enchantment (Compulsion)*
+_Enchantment (Compulsion)_
 
-  - **Level**: Brd 1, Fey 1, Fpk 1, Skd 1, Sor/Wiz 1
-  - **Components**: V, S, F
-  - **Casting Time**: 1 standard action
-  - **Range**: 50 ft.
-  - **Area**: Several ally creatures, no two of which may be more than 25 ft. apart
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Brd 1, Fey 1, Fpk 1, Skd 1, Sor/Wiz 1
+- **Components**: V, S, F
+- **Casting Time**: 1 standard action
+- **Range**: 50 ft.
+- **Area**: Several ally creatures, no two of which may be more than 25 ft. apart
+- **Duration**: 1 minute/level
+- **Saving Throw**: None
+- **Spell Resistance**: Yes (harmless)
 
-*Good luck* increases your allies’ chances to hit your opponents. They receive a luck bonus of +1 to their attack rolls, and a +1 luck bonus to Reflex saving throws. You may target a number of ally creatures equal to your level, to a maximum of nine creatures.
+_Good luck_ increases your allies’ chances to hit your opponents. They receive a luck bonus of +1 to their attack rolls, and a +1 luck bonus to Reflex saving throws. You may target a number of ally creatures equal to your level, to a maximum of nine creatures.
 
-*Material Component*: a small horseshoe
+_Material Component_: a small horseshoe

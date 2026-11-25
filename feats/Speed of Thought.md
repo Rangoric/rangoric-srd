@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Speed of Thought
 
-The energy of your mind energizes the alacrity of your body.  
+The energy of your mind energizes the alacrity of your body.
 
 Prerequisite: Wis 13.
 

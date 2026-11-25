@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Planeslayer’s Call
 
-*Enchantment (Compulsion)*
+_Enchantment (Compulsion)_
 
-  - **Level**: Clr 5, Inq 4, Occ 4, Pal 4
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: 20 ft.
-  - **Targets**: Allies within a 40-ft.-radius burst centered on you
-  - **Duration**: 1 round/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Clr 5, Inq 4, Occ 4, Pal 4
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: 20 ft.
+- **Targets**: Allies within a 40-ft.-radius burst centered on you
+- **Duration**: 1 round/level
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 The magic of your allies in the area becomes more potent against certain outsiders. Chose one alignment subtype (chaotic, evil, good, or lawful). Against outsiders with that alignment component or subtype, your allies in the area gain a +2 bonus on caster level checks to overcome spell resistance, and their spells ignore the first 10 points of energy resistance (but not energy immunity).
 

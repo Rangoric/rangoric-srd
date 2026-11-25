@@ -32,7 +32,7 @@ Metacreativity (Creation)
 **Duration:** Instantaneous  
 **Saving Throw:** Reflex half  
 **Power Resistance:** No  
-**Power Points:** 9  
+**Power Points:** 9
 
 A tiny ectoplasmic crystal emanates from your outstretched hand and rapidly expands to a 2-foot-diameter ball of crystal as it speeds toward the location you designate. You can choose to aim this crystal at a single target or at a specific point in space (a grid intersection).
 

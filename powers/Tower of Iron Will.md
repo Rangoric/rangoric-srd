@@ -33,7 +33,7 @@ Telepathy \[Mind-Affecting\]
 **Duration:** 1 round  
 **Saving Throw:** None (harmless)  
 **Power Resistance:** Yes (harmless)  
-**Power Points:** 9  
+**Power Points:** 9
 
 You generate a bastion of thought so strong that it offers protection to you and everyone around you, improving the self-control of all. You and all creatures in the power’s area gain power resistance 19 against all mind-affecting powers.
 

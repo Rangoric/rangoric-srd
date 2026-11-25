@@ -21,11 +21,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Naturalist
 
-*A [[rangoric-srd/classes/Summoner#^summoner-archetypes|summoner]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Summoner#^summoner-archetypes|summoner]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A naturalist is a summoner who is in tune with the natural world, using his magic like a lens to focus various animal aspects onto his eidolon. More akin to a hunter than to other arcane spellcasters, a naturalist instinctively masters the power of such creatures as the bear, wolf, mouse, or tiger to make his exotic eidolon the perfect living tool for battle or stealth, and he eventually discovers how to apply these transformations to himself as well.
 
-**Nature's Call (Sp)**: Starting at 1st level, the naturalist can cast *[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature's ally I]]* as a spell-like ability a number of times per day equal to 3 + his Charisma modifier. He can only use this ability to summon creatures of the animal, magical beast, or vermin type. This ability otherwise functions as the *[[rangoric-srd/classes/Summoner#^summoner-summon-monster|summon monster I]]* class feature (increasing in level as the naturalist goes up in level and with the same restrictions). This ability replaces *[[rangoric-srd/classes/Summoner#^summoner-summon-monster|summon monster I]]*.
+**Nature's Call (Sp)**: Starting at 1st level, the naturalist can cast _[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature's ally I]]_ as a spell-like ability a number of times per day equal to 3 + his Charisma modifier. He can only use this ability to summon creatures of the animal, magical beast, or vermin type. This ability otherwise functions as the _[[rangoric-srd/classes/Summoner#^summoner-summon-monster|summon monster I]]_ class feature (increasing in level as the naturalist goes up in level and with the same restrictions). This ability replaces _[[rangoric-srd/classes/Summoner#^summoner-summon-monster|summon monster I]]_.
 
 **Animal Focus (Su)**: At 4th level, as a swift action a naturalist can enhance his eidolon with the aspect of an animal. Each time he uses this ability, he can select a [[rangoric-srd/classes/Hunter|hunter]]'s [[rangoric-srd/classes/Hunter#^hunter-animal-focus|animal aspect]] and apply it to his eidolon. His hunter level for this ability is equal to his summoner level – 2. He does not gain the ability to add an animal aspect to himself (see Shared Focus, below). This effect lasts until the eidolon is dismissed or sent back to its home plane.
 

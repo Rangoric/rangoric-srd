@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Air Domain
 
-*A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]], which a druid can also take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]].*
+_A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]], which a druid can also take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]._
 
 **Subdomains**: [[rangoric-srd/class-options/domains/Cloud Subdomain|Cloud]], [[rangoric-srd/class-options/domains/Wind Subdomain|Wind]].
 
@@ -33,15 +33,15 @@ You can manipulate lightning, mist, and wind, traffic with air creatures, and ar
 
 Where a level has two spells, the cleric prepares [[rangoric-srd/class-options/domains/Domains#^domains-two-spells|either one]] in the domain spell slot.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Obscuring Mist\|Obscuring Mist]] | Fog surrounds you. |
-| 2nd | [[rangoric-srd/spells/Wind Wall\|Wind Wall]] | Deflects arrows, smaller creatures, and gases. |
-| 3rd | [[rangoric-srd/spells/Gaseous Form\|Gaseous Form]] | Subject becomes insubstantial and can fly slowly. |
-| 4th | [[rangoric-srd/spells/Air Walk\|Air Walk]] | Subject treads on air as if solid (climb at 45-degree angle). |
-| 5th | [[rangoric-srd/spells/Control Winds\|Control Winds]] | Change wind direction and speed. |
-| 6th | [[rangoric-srd/spells/Chain Lightning\|Chain Lightning]] | 1d6/level damage; 1 secondary bolt/level each deals half damage. |
-| 7th | [[rangoric-srd/spells/Control Weather\|Control Weather]] | Changes weather in local area. |
-| 7th | [[rangoric-srd/spells/Elemental Body IV\|Elemental Body IV]] (M) (air only) | You become a Small to Huge elemental. |
-| 8th | [[rangoric-srd/spells/Whirlwind\|Whirlwind]] | Cyclone deals damage and can pick up creatures. |
-| 9th | [[rangoric-srd/spells/Elemental Swarm\|Elemental Swarm]] (cast as an air spell only) | Summons multiple elementals. |
+| Level | Spell                                                                                | Brief Description                                                |
+| ----- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Obscuring Mist\|Obscuring Mist]]                               | Fog surrounds you.                                               |
+| 2nd   | [[rangoric-srd/spells/Wind Wall\|Wind Wall]]                                         | Deflects arrows, smaller creatures, and gases.                   |
+| 3rd   | [[rangoric-srd/spells/Gaseous Form\|Gaseous Form]]                                   | Subject becomes insubstantial and can fly slowly.                |
+| 4th   | [[rangoric-srd/spells/Air Walk\|Air Walk]]                                           | Subject treads on air as if solid (climb at 45-degree angle).    |
+| 5th   | [[rangoric-srd/spells/Control Winds\|Control Winds]]                                 | Change wind direction and speed.                                 |
+| 6th   | [[rangoric-srd/spells/Chain Lightning\|Chain Lightning]]                             | 1d6/level damage; 1 secondary bolt/level each deals half damage. |
+| 7th   | [[rangoric-srd/spells/Control Weather\|Control Weather]]                             | Changes weather in local area.                                   |
+| 7th   | [[rangoric-srd/spells/Elemental Body IV\|Elemental Body IV]] (M) (air only)          | You become a Small to Huge elemental.                            |
+| 8th   | [[rangoric-srd/spells/Whirlwind\|Whirlwind]]                                         | Cyclone deals damage and can pick up creatures.                  |
+| 9th   | [[rangoric-srd/spells/Elemental Swarm\|Elemental Swarm]] (cast as an air spell only) | Summons multiple elementals.                                     |

@@ -40,29 +40,29 @@ Each class gains a bonus feat at 1st level, and additional bonus feats at specif
 
 For the purposes of these classes, the following class features can be selected in place of bonus feats (unless noted, each may only be selected once).
 
-**Evasion (Ex):** As the [[rangoric-srd/classes/Monk#^monk-evasion|monk ability]]. *Prerequisite:* Base Reflex save +3. ^evasion
+**Evasion (Ex):** As the [[rangoric-srd/classes/Monk#^monk-evasion|monk ability]]. _Prerequisite:_ Base Reflex save +3. ^evasion
 
-**Familiar:** As the [[rangoric-srd/classes/Sorcerer#^sorcerer-familiar|sorcerer ability]]. Use spellcaster level to determine [[rangoric-srd/classes/Wizard#Familiars|familiar's]] abilities. *Prerequisite:* ability to cast arcane spells. ^familiar
+**Familiar:** As the [[rangoric-srd/classes/Sorcerer#^sorcerer-familiar|sorcerer ability]]. Use spellcaster level to determine [[rangoric-srd/classes/Wizard#Familiars|familiar's]] abilities. _Prerequisite:_ ability to cast arcane spells. ^familiar
 
 **Favored Enemy (Ex):** As the [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|ranger ability]]. May be selected more than once; each additional selection improves any one favored enemy bonus (including the one just selected) by 2. ^favored-enemy
 
-**Greater Sneak Attack (Ex):** Add +4d6 to your sneak attack damage. *Prerequisites:* [[rangoric-srd/skills/Stealth|Stealth]] 15 ranks, [[#^sneak-attack|sneak attack]] and [[#^improved-sneak-attack|improved sneak attack]]. ^greater-sneak-attack
+**Greater Sneak Attack (Ex):** Add +4d6 to your sneak attack damage. _Prerequisites:_ [[rangoric-srd/skills/Stealth|Stealth]] 15 ranks, [[#^sneak-attack|sneak attack]] and [[#^improved-sneak-attack|improved sneak attack]]. ^greater-sneak-attack
 
-**Improved Evasion (Ex):** As the [[rangoric-srd/classes/Monk#^monk-improved-evasion|monk ability]]. *Prerequisites:* Base Reflex save +7, [[#^evasion|evasion]]. ^improved-evasion
+**Improved Evasion (Ex):** As the [[rangoric-srd/classes/Monk#^monk-improved-evasion|monk ability]]. _Prerequisites:_ Base Reflex save +7, [[#^evasion|evasion]]. ^improved-evasion
 
-**Improved Sneak Attack (Ex):** Add +3d6 to your sneak attack damage. *Prerequisites:* [[rangoric-srd/skills/Stealth|Stealth]] 8 ranks and [[#^sneak-attack|sneak attack]]. ^improved-sneak-attack
+**Improved Sneak Attack (Ex):** Add +3d6 to your sneak attack damage. _Prerequisites:_ [[rangoric-srd/skills/Stealth|Stealth]] 8 ranks and [[#^sneak-attack|sneak attack]]. ^improved-sneak-attack
 
-**Smite Evil (Su):** As the [[rangoric-srd/classes/Paladin#^paladin-smite-evil|paladin ability]], once per day, plus one additional daily use per five character levels. *Prerequisite:* good alignment. ^smite-evil
+**Smite Evil (Su):** As the [[rangoric-srd/classes/Paladin#^paladin-smite-evil|paladin ability]], once per day, plus one additional daily use per five character levels. _Prerequisite:_ good alignment. ^smite-evil
 
-**Sneak Attack (Ex):** As the [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|rogue ability]], but +2d6 on damage rolls. *Prerequisites:* [[rangoric-srd/skills/Stealth|Stealth]] 1 rank. ^sneak-attack
+**Sneak Attack (Ex):** As the [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|rogue ability]], but +2d6 on damage rolls. _Prerequisites:_ [[rangoric-srd/skills/Stealth|Stealth]] 1 rank. ^sneak-attack
 
-**Turn undead (Su):** As the [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|cleric ability]]. *Prerequisite:* ability to cast divine spells. ^turn-undead
+**Turn undead (Su):** As the [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|cleric ability]]. _Prerequisite:_ ability to cast divine spells. ^turn-undead
 
-**Trap Sense (Ex):** Combines the rogue class features [[rangoric-srd/classes/Rogue#^rogue-trap-sense|trap sense]] and [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]]. *Prerequisite:* Investigation 1 rank. ^trap-sense
+**Trap Sense (Ex):** Combines the rogue class features [[rangoric-srd/classes/Rogue#^rogue-trap-sense|trap sense]] and [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]]. _Prerequisite:_ Investigation 1 rank. ^trap-sense
 
 **Uncanny Dodge (Ex):** Combines the barbarian class features [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|uncanny dodge]] and [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]]. All class levels stack to determine the minimum character level required to sneak attack the character. ^uncanny-dodge
 
-**Wild Empathy (Ex):** As the [[rangoric-srd/classes/Druid#^druid-wild-empathy|druid ability]]. *Prerequisite:* [[rangoric-srd/skills/Animal Handling|Animal Handling]] 1 rank. ^wild-empathy
+**Wild Empathy (Ex):** As the [[rangoric-srd/classes/Druid#^druid-wild-empathy|druid ability]]. _Prerequisite:_ [[rangoric-srd/skills/Animal Handling|Animal Handling]] 1 rank. ^wild-empathy
 
 You can't recreate all of the standard character classes with these generic versions, particularly classes with complicated, unique, or specialized features such as bardic music, a wizard's familiar, or a druid's wild shape ability. If your game master allows it, you might be able to select other class features in place of one or more feats.
 
@@ -72,26 +72,26 @@ You can't recreate all of the standard character classes with these generic vers
 
 | Level | Base Attack Bonus | Good Saves | Poor Save | Special    |
 | ----- | ----------------- | ---------- | --------- | ---------- |
-| 1st   | +0               | +2        | +0       | Bonus feat |
-| 2nd   | +1               | +3        | +0       | Bonus feat |
-| 3rd   | +2               | +3        | +1       | —          |
-| 4th   | +3               | +4        | +1       | Bonus feat |
-| 5th   | +3               | +4        | +1       | —          |
-| 6th   | +4               | +5        | +2       | —          |
-| 7th   | +5               | +5        | +2       | —          |
-| 8th   | +6/+1            | +6        | +2       | Bonus feat |
-| 9th   | +6/+1            | +6        | +3       | —          |
-| 10th  | +7/+2            | +7        | +3       | —          |
-| 11th  | +8/+3            | +7        | +3       | —          |
-| 12th  | +9/+4            | +8        | +4       | Bonus feat |
-| 13th  | +9/+4            | +8        | +4       | —          |
-| 14th  | +10/+5           | +9        | +4       | —          |
-| 15th  | +11/+6/+1        | +9        | +5       | —          |
-| 16th  | +12/+7/+2        | +10       | +5       | Bonus feat |
-| 17th  | +12/+7/+2        | +10       | +5       | —          |
-| 18th  | +13/+8/+3        | +11       | +6       | —          |
-| 19th  | +14/+9/+4        | +11       | +6       | —          |
-| 20th  | +15/+10/+5       | +12       | +6       | Bonus feat |
+| 1st   | +0                | +2         | +0        | Bonus feat |
+| 2nd   | +1                | +3         | +0        | Bonus feat |
+| 3rd   | +2                | +3         | +1        | —          |
+| 4th   | +3                | +4         | +1        | Bonus feat |
+| 5th   | +3                | +4         | +1        | —          |
+| 6th   | +4                | +5         | +2        | —          |
+| 7th   | +5                | +5         | +2        | —          |
+| 8th   | +6/+1             | +6         | +2        | Bonus feat |
+| 9th   | +6/+1             | +6         | +3        | —          |
+| 10th  | +7/+2             | +7         | +3        | —          |
+| 11th  | +8/+3             | +7         | +3        | —          |
+| 12th  | +9/+4             | +8         | +4        | Bonus feat |
+| 13th  | +9/+4             | +8         | +4        | —          |
+| 14th  | +10/+5            | +9         | +4        | —          |
+| 15th  | +11/+6/+1         | +9         | +5        | —          |
+| 16th  | +12/+7/+2         | +10        | +5        | Bonus feat |
+| 17th  | +12/+7/+2         | +10        | +5        | —          |
+| 18th  | +13/+8/+3         | +11        | +6        | —          |
+| 19th  | +14/+9/+4         | +11        | +6        | —          |
+| 20th  | +15/+10/+5        | +12        | +6        | Bonus feat |
 
 The expert can be a jack-of-all-trades or a master of a limited area of expertise. Based on his selection of skills and feats, he can focus on diplomatic matters, stealth, combat, wilderness survival, thievery, or any of a number of critical tasks.
 
@@ -115,26 +115,26 @@ At first glance, the expert appears similar to the [[rangoric-srd/classes/Rogue|
 
 | Level | Base Attack Bonus | Good Save | Poor Saves | Special    | Spells per Day: 0 | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th | Spells per Day: 7th | Spells per Day: 8th | Spells per Day: 9th |
 | ----- | ----------------- | --------- | ---------- | ---------- | ----------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| 1st   | +0               | +2       | +0        | Bonus feat | 4                 | 2                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
-| 2nd   | +1               | +3       | +0        | —          | 5                 | 3                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
-| 3rd   | +1               | +3       | +1        | —          | 5                 | 4                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
-| 4th   | +2               | +4       | +1        | —          | 6                 | 5                   | 2                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
-| 5th   | +2               | +4       | +1        | Bonus feat | 6                 | 5                   | 3                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
-| 6th   | +3               | +5       | +2        | —          | 6                 | 6                   | 4                   | 2                   | —                   | —                   | —                   | —                   | —                   | —                   |
-| 7th   | +3               | +5       | +2        | —          | 6                 | 6                   | 5                   | 3                   | —                   | —                   | —                   | —                   | —                   | —                   |
-| 8th   | +4               | +6       | +2        | —          | 6                 | 6                   | 5                   | 4                   | 2                   | —                   | —                   | —                   | —                   | —                   |
-| 9th   | +4               | +6       | +3        | —          | 6                 | 6                   | 6                   | 5                   | 3                   | —                   | —                   | —                   | —                   | —                   |
-| 10th  | +5               | +7       | +3        | Bonus feat | 6                 | 6                   | 6                   | 5                   | 4                   | 2                   | —                   | —                   | —                   | —                   |
-| 11th  | +5               | +7       | +3        | —          | 6                 | 6                   | 6                   | 6                   | 5                   | 3                   | —                   | —                   | —                   | —                   |
-| 12th  | +6/+1            | +8       | +4        | —          | 6                 | 6                   | 6                   | 6                   | 5                   | 4                   | 2                   | —                   | —                   | —                   |
-| 13th  | +6/+1            | +8       | +4        | —          | 6                 | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   | —                   | —                   | —                   |
-| 14th  | +7/+2            | +9       | +4        | —          | 6                 | 6                   | 6                   | 6                   | 6                   | 5                   | 4                   | 2                   | —                   | —                   |
-| 15th  | +7/+2            | +9       | +5        | Bonus feat | 6                 | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   | —                   | —                   |
-| 16th  | +8/+3            | +10      | +5        | —          | 6                 | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 4                   | 2                   | —                   |
-| 17th  | +8/+3            | +10      | +5        | —          | 6                 | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   | —                   |
-| 18th  | +9/+4            | +11      | +6        | —          | 6                 | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 4                   | 2                   |
-| 19th  | +9/+4            | +11      | +6        | —          | 6                 | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   |
-| 20th  | +10/+5           | +12      | +6        | Bonus feat | 6                 | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   |
+| 1st   | +0                | +2        | +0         | Bonus feat | 4                 | 2                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 2nd   | +1                | +3        | +0         | —          | 5                 | 3                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 3rd   | +1                | +3        | +1         | —          | 5                 | 4                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 4th   | +2                | +4        | +1         | —          | 6                 | 5                   | 2                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 5th   | +2                | +4        | +1         | Bonus feat | 6                 | 5                   | 3                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 6th   | +3                | +5        | +2         | —          | 6                 | 6                   | 4                   | 2                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 7th   | +3                | +5        | +2         | —          | 6                 | 6                   | 5                   | 3                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 8th   | +4                | +6        | +2         | —          | 6                 | 6                   | 5                   | 4                   | 2                   | —                   | —                   | —                   | —                   | —                   |
+| 9th   | +4                | +6        | +3         | —          | 6                 | 6                   | 6                   | 5                   | 3                   | —                   | —                   | —                   | —                   | —                   |
+| 10th  | +5                | +7        | +3         | Bonus feat | 6                 | 6                   | 6                   | 5                   | 4                   | 2                   | —                   | —                   | —                   | —                   |
+| 11th  | +5                | +7        | +3         | —          | 6                 | 6                   | 6                   | 6                   | 5                   | 3                   | —                   | —                   | —                   | —                   |
+| 12th  | +6/+1             | +8        | +4         | —          | 6                 | 6                   | 6                   | 6                   | 5                   | 4                   | 2                   | —                   | —                   | —                   |
+| 13th  | +6/+1             | +8        | +4         | —          | 6                 | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   | —                   | —                   | —                   |
+| 14th  | +7/+2             | +9        | +4         | —          | 6                 | 6                   | 6                   | 6                   | 6                   | 5                   | 4                   | 2                   | —                   | —                   |
+| 15th  | +7/+2             | +9        | +5         | Bonus feat | 6                 | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   | —                   | —                   |
+| 16th  | +8/+3             | +10       | +5         | —          | 6                 | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 4                   | 2                   | —                   |
+| 17th  | +8/+3             | +10       | +5         | —          | 6                 | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   | —                   |
+| 18th  | +9/+4             | +11       | +6         | —          | 6                 | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 4                   | 2                   |
+| 19th  | +9/+4             | +11       | +6         | —          | 6                 | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   |
+| 20th  | +10/+5            | +12       | +6         | Bonus feat | 6                 | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   |
 
 **Table: Spellcaster Spells Known**
 
@@ -189,26 +189,26 @@ A spellcaster must choose at 1st level whether to be an arcane spellcaster or a 
 
 | Level | Base Attack Bonus | Good Save | Poor Saves | Special    |
 | ----- | ----------------- | --------- | ---------- | ---------- |
-| 1st   | +1               | +2       | +0        | Bonus feat |
-| 2nd   | +2               | +3       | +0        | Bonus feat |
-| 3rd   | +3               | +3       | +1        | —          |
-| 4th   | +4               | +4       | +1        | Bonus feat |
-| 5th   | +5               | +4       | +1        | —          |
-| 6th   | +6/+1            | +5       | +2        | Bonus feat |
-| 7th   | +7/+2            | +5       | +2        | —          |
-| 8th   | +8/+3            | +6       | +2        | Bonus feat |
-| 9th   | +9/+4            | +6       | +3        | —          |
-| 10th  | +10/+5           | +7       | +3        | Bonus feat |
-| 11th  | +11/+6/+1        | +7       | +3        | —          |
-| 12th  | +12/+7/+2        | +8       | +4        | Bonus feat |
-| 13th  | +13/+8/+3        | +8       | +4        | —          |
-| 14th  | +14/+9/+4        | +9       | +4        | Bonus feat |
-| 15th  | +15/+10/+5       | +9       | +5        | —          |
-| 16th  | +16/+11/+6/+1    | +10      | +5        | Bonus feat |
-| 17th  | +17/+12/+7/+2    | +10      | +5        | —          |
-| 18th  | +18/+13/+8/+3    | +11      | +6        | Bonus feat |
-| 19th  | +19/+14/+9/+4    | +11      | +6        | —          |
-| 20th  | +20/+15/+10/+5   | +12      | +6        | Bonus feat |
+| 1st   | +1                | +2        | +0         | Bonus feat |
+| 2nd   | +2                | +3        | +0         | Bonus feat |
+| 3rd   | +3                | +3        | +1         | —          |
+| 4th   | +4                | +4        | +1         | Bonus feat |
+| 5th   | +5                | +4        | +1         | —          |
+| 6th   | +6/+1             | +5        | +2         | Bonus feat |
+| 7th   | +7/+2             | +5        | +2         | —          |
+| 8th   | +8/+3             | +6        | +2         | Bonus feat |
+| 9th   | +9/+4             | +6        | +3         | —          |
+| 10th  | +10/+5            | +7        | +3         | Bonus feat |
+| 11th  | +11/+6/+1         | +7        | +3         | —          |
+| 12th  | +12/+7/+2         | +8        | +4         | Bonus feat |
+| 13th  | +13/+8/+3         | +8        | +4         | —          |
+| 14th  | +14/+9/+4         | +9        | +4         | Bonus feat |
+| 15th  | +15/+10/+5        | +9        | +5         | —          |
+| 16th  | +16/+11/+6/+1     | +10       | +5         | Bonus feat |
+| 17th  | +17/+12/+7/+2     | +10       | +5         | —          |
+| 18th  | +18/+13/+8/+3     | +11       | +6         | Bonus feat |
+| 19th  | +19/+14/+9/+4     | +11       | +6         | —          |
+| 20th  | +20/+15/+10/+5    | +12       | +6         | Bonus feat |
 
 The warrior is the basic combatant of the trio of generic classes. He has the [[rangoric-srd/classes/Fighter|fighter's]] hit points, combat prowess, bonus feats, and weapon selection.
 

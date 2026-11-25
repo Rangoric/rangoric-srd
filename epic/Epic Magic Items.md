@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/overview]
 
 ###### Nonepic Magic Item
 
-  - [[rangoric-srd/magic-items/rings/Ring of Minor Universal Energy Resistance|Ring of Minor Universal Energy Resistance]]
+- [[rangoric-srd/magic-items/rings/Ring of Minor Universal Energy Resistance|Ring of Minor Universal Energy Resistance]]
 
 | d%    | Ring                                 | Market Price |
 | ----- | ------------------------------------ | ------------ |
@@ -47,21 +47,21 @@ tags: [rangoric, rangoric/overview]
 
 ###### Epic Ring Descriptions
 
-Standard epic rings are described below.  
+Standard epic rings are described below.
 
-  - [[rangoric-srd/magic-items/rings/Ring of Adamant Law|Ring of Adamant Law]]
-  - [[rangoric-srd/magic-items/rings/Ring of Chaotic Fury|Ring of Chaotic Fury]]
-  - [[rangoric-srd/magic-items/rings/Ring of Energy Immunity|Ring of Energy Immunity]]
-  - [[rangoric-srd/magic-items/rings/Ring of Protection +6|Ring of Protection (Epic Ring)]]
-  - [[rangoric-srd/magic-items/rings/Ring of Epic Wizardry V|Ring of Epic Wizardry]]
-  - [[rangoric-srd/magic-items/rings/Ring of Ineffable Evil|Ring of Ineffable Evil]]
-  - [[rangoric-srd/magic-items/rings/Ring of Ironskin|Ring of Ironskin]]
-  - [[rangoric-srd/magic-items/rings/Ring of Rapid Healing|Ring of Rapid Healing]]
-  - [[rangoric-srd/magic-items/rings/Ring of Sequestering|Ring of Sequestering]]
-  - [[rangoric-srd/magic-items/rings/Ring of Universal Energy Immunity|Ring of Universal Energy Immunity]]
-  - [[rangoric-srd/magic-items/rings/Ring of Greater Universal Energy Resistance|Ring of Greater Universal Energy Resistance]]
-  - [[rangoric-srd/magic-items/rings/Ring of Virtuous Good|Ring of Virtuous Good]]
-  - [[rangoric-srd/magic-items/rings/Ring of Weaponbreaking|Ring of Weaponbreaking]]
+- [[rangoric-srd/magic-items/rings/Ring of Adamant Law|Ring of Adamant Law]]
+- [[rangoric-srd/magic-items/rings/Ring of Chaotic Fury|Ring of Chaotic Fury]]
+- [[rangoric-srd/magic-items/rings/Ring of Energy Immunity|Ring of Energy Immunity]]
+- [[rangoric-srd/magic-items/rings/Ring of Protection +6|Ring of Protection (Epic Ring)]]
+- [[rangoric-srd/magic-items/rings/Ring of Epic Wizardry V|Ring of Epic Wizardry]]
+- [[rangoric-srd/magic-items/rings/Ring of Ineffable Evil|Ring of Ineffable Evil]]
+- [[rangoric-srd/magic-items/rings/Ring of Ironskin|Ring of Ironskin]]
+- [[rangoric-srd/magic-items/rings/Ring of Rapid Healing|Ring of Rapid Healing]]
+- [[rangoric-srd/magic-items/rings/Ring of Sequestering|Ring of Sequestering]]
+- [[rangoric-srd/magic-items/rings/Ring of Universal Energy Immunity|Ring of Universal Energy Immunity]]
+- [[rangoric-srd/magic-items/rings/Ring of Greater Universal Energy Resistance|Ring of Greater Universal Energy Resistance]]
+- [[rangoric-srd/magic-items/rings/Ring of Virtuous Good|Ring of Virtuous Good]]
+- [[rangoric-srd/magic-items/rings/Ring of Weaponbreaking|Ring of Weaponbreaking]]
 
 Epic Psionics: This special crystal ring comes in a variety of types useful only to psionic characters (characters who have power points per day). The wearer’s total power points per day are increased, depending on the ring. The points granted are not bonus points-while the ring is worn, it actually increases the wearer’s points per day, but a night’s rest is required before gaining access to the increased power point per day total. (Power points are not actually stored in the ring, as would be the case for a crystal capacitor. Instead, the ring grants power points by magnifying the manifester’s own power.)  
 A ring of epic psionics V increases the wearer’s daily power points by 43 points, a ring of epic psionics VI grants 63 power points, a ring of epic psionics VII grants 87 power points, a ring of epic psionics VIII grants 115 points, and a ring of epic psionics IX grants 147 power points.  
@@ -99,37 +99,37 @@ Manifester Level: 23rd (epic psionics V), 26th (epic psionics VI), 29th (epic ps
 
 ###### Epic Rod Descriptions
 
-Standard epic rods are described below.  
+Standard epic rods are described below.
 
-  - [[rangoric-srd/magic-items/rods/Rod of Besiegement|Rod of Besiegement]]
-  - [[rangoric-srd/magic-items/rods/Rod of Epic Absorption|Rod of Epic Absorption]]
-  - [[rangoric-srd/magic-items/rods/Rod of Epic Cancellation|Rod of Epic Cancellation]]
-  - [[rangoric-srd/magic-items/rods/Rod of Epic Might|Rod of Epic Might]]
-  - [[rangoric-srd/magic-items/rods/Rod of Epic Negation|Rod of Epic Negation]]
-  - [[rangoric-srd/magic-items/rods/Rod of Epic Rulership|Rod of Epic Rulership]]
-  - [[rangoric-srd/magic-items/rods/Rod of Epic Spellcaster|Rod of Epic Spellcaster]]
-  - [[rangoric-srd/magic-items/rods/Rod of Epic Splendor|Rod of Epic Splendor]]
-  - [[rangoric-srd/magic-items/rods/Rod of Excellent Magic|Rod of Excellent Magic]]
-  - [[rangoric-srd/magic-items/rods/Rod of Fortification|Rod of Fortification]]
-  - [[rangoric-srd/magic-items/rods/Rod of Invulnerability|Rod of Invulnerability]]
-  - [[rangoric-srd/magic-items/rods/Rod of Nightmares|Rod of Nightmares]]
-  - [[rangoric-srd/magic-items/rods/Rod of Paradise|Rod of Paradise]]
-  - [[rangoric-srd/magic-items/rods/Rod of The Path|Rod of The Path]]
-  - [[rangoric-srd/magic-items/rods/Rod of Restless Death|Rod of Restless Death]]
-  - [[rangoric-srd/magic-items/rods/Rod of Wyrm, White|Rod of Wyrm]]
+- [[rangoric-srd/magic-items/rods/Rod of Besiegement|Rod of Besiegement]]
+- [[rangoric-srd/magic-items/rods/Rod of Epic Absorption|Rod of Epic Absorption]]
+- [[rangoric-srd/magic-items/rods/Rod of Epic Cancellation|Rod of Epic Cancellation]]
+- [[rangoric-srd/magic-items/rods/Rod of Epic Might|Rod of Epic Might]]
+- [[rangoric-srd/magic-items/rods/Rod of Epic Negation|Rod of Epic Negation]]
+- [[rangoric-srd/magic-items/rods/Rod of Epic Rulership|Rod of Epic Rulership]]
+- [[rangoric-srd/magic-items/rods/Rod of Epic Spellcaster|Rod of Epic Spellcaster]]
+- [[rangoric-srd/magic-items/rods/Rod of Epic Splendor|Rod of Epic Splendor]]
+- [[rangoric-srd/magic-items/rods/Rod of Excellent Magic|Rod of Excellent Magic]]
+- [[rangoric-srd/magic-items/rods/Rod of Fortification|Rod of Fortification]]
+- [[rangoric-srd/magic-items/rods/Rod of Invulnerability|Rod of Invulnerability]]
+- [[rangoric-srd/magic-items/rods/Rod of Nightmares|Rod of Nightmares]]
+- [[rangoric-srd/magic-items/rods/Rod of Paradise|Rod of Paradise]]
+- [[rangoric-srd/magic-items/rods/Rod of The Path|Rod of The Path]]
+- [[rangoric-srd/magic-items/rods/Rod of Restless Death|Rod of Restless Death]]
+- [[rangoric-srd/magic-items/rods/Rod of Wyrm, White|Rod of Wyrm]]
 
 ### Scrolls
 
-To generate an epic scroll randomly, first roll on Table: Scroll Types to determine whether the spells are arcane or divine. An epic scroll contains 1d8 spells. For each spell, roll on Table: Epic Scroll Spell Levels to determine its level and then on the appropriate section of Table: Actual Spell Levels to determine the spell’s actual level and total metamagic level adjustments. To determine the specific metamagic level adjustments, roll on the appropriate section of Table: Metamagic Level Adjustment to Spells. To determine the spell, use the appropriate sections of the nonepic scroll tables.  
+To generate an epic scroll randomly, first roll on Table: Scroll Types to determine whether the spells are arcane or divine. An epic scroll contains 1d8 spells. For each spell, roll on Table: Epic Scroll Spell Levels to determine its level and then on the appropriate section of Table: Actual Spell Levels to determine the spell’s actual level and total metamagic level adjustments. To determine the specific metamagic level adjustments, roll on the appropriate section of Table: Metamagic Level Adjustment to Spells. To determine the spell, use the appropriate sections of the nonepic scroll tables.
 
-Table: Scroll Types   
+Table: Scroll Types
 
 | d% roll | Type   |
 | ------- | ------ |
 | 01–70   | Arcane |
 | 71–100  | Divine |
 
-Table: Epic Scroll Spell Levels  
+Table: Epic Scroll Spell Levels
 
 | d%    | Spell Level                | Spell’s Caster Level | Market Price (1) | XP Cost  |
 | ----- | -------------------------- | -------------------- | ---------------- | -------- |
@@ -145,13 +145,13 @@ Table: Epic Scroll Spell Levels
 | 98-99 | 19th                       | 30th                 | 14,250 gp        | 1,570 XP |
 | 100   | Roll again and add +10 (2) | Spell level +11      | Varies           | Varies   |
 
-1 Market price does not include price of material components or XP costs for spell.  
+1 Market price does not include price of material components or XP costs for spell.
 
 2 This result is cumulative if rolled multiple times
 
 Table: Actual Spell Level
 
-10th-Level Spell  
+10th-Level Spell
 
 | d%     | Spell Level and Metamagic Level Adjustment |
 | ------ | ------------------------------------------ |
@@ -166,7 +166,7 @@ Table: Actual Spell Level
 | 81-99  | 9th-level spell plus metamagic (1)         |
 | 100    | Any                                        |
 
-11th-Level Spell  
+11th-Level Spell
 
 | d%     | Spell Level and Metamagic Level Adjustment |
 | ------ | ------------------------------------------ |
@@ -181,7 +181,7 @@ Table: Actual Spell Level
 | 81-99  | 9th-level spell plus metamagic (2)         |
 | 100    | Any                                        |
 
-12th-Level Spell  
+12th-Level Spell
 
 | d%    | Spell Level and Metamagic Level Adjustment |
 | ----- | ------------------------------------------ |
@@ -195,7 +195,7 @@ Table: Actual Spell Level
 | 78-99 | 9th-level spell plus metamagic (3)         |
 | 100   | Any                                        |
 
-13th-Level Spell  
+13th-Level Spell
 
 | d%    | Spell Level and Metamagic Level Adjustment |
 | ----- | ------------------------------------------ |
@@ -208,7 +208,7 @@ Table: Actual Spell Level
 | 79-99 | 9th-level spell plus metamagic (4)         |
 | 100   | Any                                        |
 
-14th-Level Spell  
+14th-Level Spell
 
 | d%    | Spell Level and Metamagic Level Adjustment |
 | ----- | ------------------------------------------ |
@@ -220,7 +220,7 @@ Table: Actual Spell Level
 | 76-99 | 9th-level spell plus metamagic (5)         |
 | 100   | Any                                        |
 
-15th-Level Spell  
+15th-Level Spell
 
 | d%    | Spell Level and Metamagic Level Adjustment |
 | ----- | ------------------------------------------ |
@@ -231,7 +231,7 @@ Table: Actual Spell Level
 | 76-99 | 9th-level spell plus metamagic (6)         |
 | 100   | Any                                        |
 
-16th-Level Spell  
+16th-Level Spell
 
 | d%    | Spell Level and Metamagic Level Adjustment |
 | ----- | ------------------------------------------ |
@@ -241,7 +241,7 @@ Table: Actual Spell Level
 | 69-99 | 9th-level spell plus metamagic (7)         |
 | 100   | Any                                        |
 
-17th-Level Spell  
+17th-Level Spell
 
 | d%    | Spell Level and Metamagic Level Adjustment |
 | ----- | ------------------------------------------ |
@@ -250,7 +250,7 @@ Table: Actual Spell Level
 | 61-99 | 9th-level spell plus metamagic (8)         |
 | 100   | Any                                        |
 
-18th-Level Spell  
+18th-Level Spell
 
 | d%    | Spell Level and Metamagic Level Adjustment |
 | ----- | ------------------------------------------ |
@@ -258,7 +258,7 @@ Table: Actual Spell Level
 | 42-99 | 9th-level spell plus metamagic (9)         |
 | 100   | Any                                        |
 
-19th-Level Spell  
+19th-Level Spell
 
 | d%    | Spell Level and Metamagic Level Adjustment |
 | ----- | ------------------------------------------ |
@@ -267,7 +267,7 @@ Table: Actual Spell Level
 
 Table: Metamagic Level Adjustment to Spells
 
-Metamagic (1)  
+Metamagic (1)
 
 | d%     | Metamagic Effects         |
 | ------ | ------------------------- |
@@ -276,7 +276,7 @@ Metamagic (1)
 | 41-80  | Heighten Spell (+1 level) |
 | 81-100 | Silent Spell              |
 
-Metamagic (2)  
+Metamagic (2)
 
 | d%     | Metamagic Effects                                       |
 | ------ | ------------------------------------------------------- |
@@ -287,7 +287,7 @@ Metamagic (2)
 | 66-90  | Roll on Metamagic (1) and add Heighten Spell (+1 level) |
 | 91-100 | Roll on Metamagic (1) and add Silent Spell              |
 
-Metamagic (3)  
+Metamagic (3)
 
 | d%     | Metamagic Effects                                       |
 | ------ | ------------------------------------------------------- |
@@ -299,7 +299,7 @@ Metamagic (3)
 | 76-95  | Roll on Metamagic (2) and add Heighten Spell (+1 level) |
 | 96-100 | Roll on Metamagic (2) and add Silent Spell              |
 
-Metamagic (4)  
+Metamagic (4)
 
 | d%     | Metamagic Effects                                       |
 | ------ | ------------------------------------------------------- |
@@ -313,7 +313,7 @@ Metamagic (4)
 | 86-95  | Roll on Metamagic (3) and add Heighten Spell (+1 level) |
 | 96-100 | Roll on Metamagic (3) and add Silent Spell              |
 
-Metamagic (5)  
+Metamagic (5)
 
 | d%     | Metamagic Effects                                       |
 | ------ | ------------------------------------------------------- |
@@ -327,7 +327,7 @@ Metamagic (5)
 | 86-95  | Roll on Metamagic (4) and add Heighten Spell (+1 level) |
 | 96-100 | Roll on Metamagic (4) and add Silent Spell              |
 
-Metamagic (6)  
+Metamagic (6)
 
 | d%     | Metamagic Effects                                       |
 | ------ | ------------------------------------------------------- |
@@ -341,7 +341,7 @@ Metamagic (6)
 | 86-95  | Roll on Metamagic (5) and add Heighten Spell (+1 level) |
 | 96-100 | Roll on Metamagic (5) and add Silent Spell              |
 
-Metamagic (7)  
+Metamagic (7)
 
 | d%     | Metamagic Effects                                       |
 | ------ | ------------------------------------------------------- |
@@ -356,7 +356,7 @@ Metamagic (7)
 | 91-95  | Roll on Metamagic (6) and add Heighten Spell (+1 level) |
 | 96-100 | Roll on Metamagic (6) and add Silent Spell              |
 
-Metamagic (8)  
+Metamagic (8)
 
 | d%     | Metamagic Effects                                       |
 | ------ | ------------------------------------------------------- |
@@ -371,7 +371,7 @@ Metamagic (8)
 | 91-95  | Roll on Metamagic (7) and add Heighten Spell (+1 level) |
 | 96-100 | Roll on Metamagic (7) and add Silent Spell              |
 
-Metamagic (9)  
+Metamagic (9)
 
 | d%     | Metamagic Effects                                       |
 | ------ | ------------------------------------------------------- |
@@ -386,7 +386,7 @@ Metamagic (9)
 | 91-95  | Roll on Metamagic (8) and add Heighten Spell (+1 level) |
 | 96-100 | Roll on Metamagic (8) and add Silent Spell              |
 
-Metamagic (10)  
+Metamagic (10)
 
 | d%     | Metamagic Effects                                       |
 | ------ | ------------------------------------------------------- |
@@ -403,9 +403,9 @@ Metamagic (10)
 
 ### Staffs
 
-Staffs have 50 charges when created, and they can’t be recharged.  
+Staffs have 50 charges when created, and they can’t be recharged.
 
-Staffs use the wielder’s ability score and relevant feats to set the DC for saves against their spells in such cases where those values would be higher than the listed values for the staffs.  
+Staffs use the wielder’s ability score and relevant feats to set the DC for saves against their spells in such cases where those values would be higher than the listed values for the staffs.
 
 |        |               |              |
 | ------ | ------------- | ------------ |
@@ -426,25 +426,25 @@ Staffs use the wielder’s ability score and relevant feats to set the DC for sa
 
 ##### Epic Staff Descriptions
 
-Standard epic staffs are described below.  
+Standard epic staffs are described below.
 
-  - [[rangoric-srd/magic-items/staffs/Staff of Cosmos|Staff of Cosmos]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Domination|Staff of Domination]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Fiery Power|Staff of Fiery Power]]
-  - [[rangoric-srd/magic-items/staffs/Staff of the Hierophants (Epic)|Staff of the Hierophants]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Mighty Force|Staff of Mighty Force]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Nature’s Fury|Staff of Nature’s Fury]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Necromancy (Epic Staff)|Staff of Necromancy (Epic Staff)]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Planar Might|Staff of Planar Might]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Prism|Staff of Prism]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Rapid Barrage|Staff of Rapid Barrage]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Spheres|Staff of Spheres]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Walls|Staff of Walls]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Winter|Staff of Winter]]
+- [[rangoric-srd/magic-items/staffs/Staff of Cosmos|Staff of Cosmos]]
+- [[rangoric-srd/magic-items/staffs/Staff of Domination|Staff of Domination]]
+- [[rangoric-srd/magic-items/staffs/Staff of Fiery Power|Staff of Fiery Power]]
+- [[rangoric-srd/magic-items/staffs/Staff of the Hierophants (Epic)|Staff of the Hierophants]]
+- [[rangoric-srd/magic-items/staffs/Staff of Mighty Force|Staff of Mighty Force]]
+- [[rangoric-srd/magic-items/staffs/Staff of Nature’s Fury|Staff of Nature’s Fury]]
+- [[rangoric-srd/magic-items/staffs/Staff of Necromancy (Epic Staff)|Staff of Necromancy (Epic Staff)]]
+- [[rangoric-srd/magic-items/staffs/Staff of Planar Might|Staff of Planar Might]]
+- [[rangoric-srd/magic-items/staffs/Staff of Prism|Staff of Prism]]
+- [[rangoric-srd/magic-items/staffs/Staff of Rapid Barrage|Staff of Rapid Barrage]]
+- [[rangoric-srd/magic-items/staffs/Staff of Spheres|Staff of Spheres]]
+- [[rangoric-srd/magic-items/staffs/Staff of Walls|Staff of Walls]]
+- [[rangoric-srd/magic-items/staffs/Staff of Winter|Staff of Winter]]
 
 ### Wondrous Items
 
-Anyone can use a wondrous item unless specified otherwise in the item’s description.  
+Anyone can use a wondrous item unless specified otherwise in the item’s description.
 
 |        |                                  |              |
 | ------ | -------------------------------- | ------------ |
@@ -492,21 +492,21 @@ Anyone can use a wondrous item unless specified otherwise in the item’s descri
 
 ##### Epic Wondrous Item Descriptions
 
-Standard epic wondrous items are described below.  
+Standard epic wondrous items are described below.
 
-  - [[rangoric-srd/magic-items/wondrous-items/Amulet of Epic Natural Armor +6|Amulet of Epic Natural Armor]]
-  - [[rangoric-srd/magic-items/wondrous-items/Belt of Epic Strength +8|Belt of Epic Strength]]
-  - [[rangoric-srd/magic-items/wondrous-items/Boots of Swiftness|Boots of Swiftness]]
-  - [[rangoric-srd/magic-items/wondrous-items/Bracers of Epic Armor +11|Bracers of Epic Armor]]
-  - [[rangoric-srd/magic-items/wondrous-items/Bracers of Epic Health +8|Bracers of Epic Health]]
-  - [[rangoric-srd/magic-items/wondrous-items/Bracers of Relentless Might|Bracers of Relentless Might]]
-  - [[rangoric-srd/magic-items/wondrous-items/Cabinet of Feasting|Cabinet of Feasting]]
-  - [[rangoric-srd/magic-items/wondrous-items/Cloak of Epic Charisma +8|Cloak of Epic Charisma]]
-  - [[rangoric-srd/magic-items/wondrous-items/Cloak of Epic Resistance +6|Cloak of Epic Resistance]]
-  - [[rangoric-srd/magic-items/wondrous-items/Gate Key|Gate Key]]
-  - [[rangoric-srd/magic-items/wondrous-items/Gloves of Epic Dexterity +8|Gloves of Epic Dexterity]]
-  - [[rangoric-srd/magic-items/wondrous-items/Headband of Epic Intellect +8|Headband of Epic Intellect]]
-  - [[rangoric-srd/magic-items/wondrous-items/Horseshoes of the Peerless Steed|Horseshoes of the Peerless Steed]]
-  - [[rangoric-srd/magic-items/wondrous-items/Mantle of Epic Spell Resistance|Mantle of Epic Spell Resistance]]
-  - [[rangoric-srd/magic-items/wondrous-items/Mantle of Great Stealth|Mantle of Great Stealth]]
-  - [[rangoric-srd/magic-items/wondrous-items/Periapt of Epic Wisdom +8|Periapt of Epic Wisdom]]
+- [[rangoric-srd/magic-items/wondrous-items/Amulet of Epic Natural Armor +6|Amulet of Epic Natural Armor]]
+- [[rangoric-srd/magic-items/wondrous-items/Belt of Epic Strength +8|Belt of Epic Strength]]
+- [[rangoric-srd/magic-items/wondrous-items/Boots of Swiftness|Boots of Swiftness]]
+- [[rangoric-srd/magic-items/wondrous-items/Bracers of Epic Armor +11|Bracers of Epic Armor]]
+- [[rangoric-srd/magic-items/wondrous-items/Bracers of Epic Health +8|Bracers of Epic Health]]
+- [[rangoric-srd/magic-items/wondrous-items/Bracers of Relentless Might|Bracers of Relentless Might]]
+- [[rangoric-srd/magic-items/wondrous-items/Cabinet of Feasting|Cabinet of Feasting]]
+- [[rangoric-srd/magic-items/wondrous-items/Cloak of Epic Charisma +8|Cloak of Epic Charisma]]
+- [[rangoric-srd/magic-items/wondrous-items/Cloak of Epic Resistance +6|Cloak of Epic Resistance]]
+- [[rangoric-srd/magic-items/wondrous-items/Gate Key|Gate Key]]
+- [[rangoric-srd/magic-items/wondrous-items/Gloves of Epic Dexterity +8|Gloves of Epic Dexterity]]
+- [[rangoric-srd/magic-items/wondrous-items/Headband of Epic Intellect +8|Headband of Epic Intellect]]
+- [[rangoric-srd/magic-items/wondrous-items/Horseshoes of the Peerless Steed|Horseshoes of the Peerless Steed]]
+- [[rangoric-srd/magic-items/wondrous-items/Mantle of Epic Spell Resistance|Mantle of Epic Spell Resistance]]
+- [[rangoric-srd/magic-items/wondrous-items/Mantle of Great Stealth|Mantle of Great Stealth]]
+- [[rangoric-srd/magic-items/wondrous-items/Periapt of Epic Wisdom +8|Periapt of Epic Wisdom]]

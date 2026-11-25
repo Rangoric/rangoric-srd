@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Trapped Sealing Waxes
 
-*Chymical; Special*
+_Chymical; Special_
 
 Created to deter the interception of communications, the four trapped sealing waxes produce a variety of effects if the hardened wax seals are broken in any way other than with a specific counteragent. The waxes and counteragents by themselves are relatively inert, though the alchemical properties of the waxes are primed and set once they are melted and stamped into seals on scrolls and missives. After the wax seal cools, the only safe way to break it is by applying its counteragent. All four types of wax are below.
 

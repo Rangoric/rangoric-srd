@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Orc War Drummer
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Orc)
-  - **Hit Dice**: 4d8+4 (25 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 15 (+4 armor, +1 Dex), touch 11, flat-footed 14
-  - **Base Attack**: +3; **CMB**: +6; **CMD**: 17
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +7 melee (1d6+3/18–20) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +4 ranged (1d6+3)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +7 melee (1d6+3/18–20); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +4 ranged (1d6+3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Bard#^bardic-music|Bardic performance]] 12 rounds/day ([[rangoric-srd/classes/Bard#^countersong|countersong]], [[rangoric-srd/classes/Bard#^bard-distraction|distraction]], [[rangoric-srd/classes/Bard#^inspire-competence|inspire competence]] +2, [[rangoric-srd/classes/Bard#^inspire-courage|inspire courage]] +1, [[rangoric-srd/class-options/archetypes/bard/Savage Skald (Archetype)|inspiring blow]])
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/classes/Bard#^bardic-knowledge|bardic knowledge]] +2, [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (percussion), [[rangoric-srd/races/Orc|weapon familiarity]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-  - **Saves**: Fort +1, Ref +6, Will +4 (+4 vs. bardic performance, language-dependent, and sonic)
-  - **Abilities**: Str 17, Dex 12, Con 8, Int 12, Wis 8, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Perception|Perception]] +6, Perform (percussion) +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6
-  - **Feats**: [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment), [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Temperate hills, mountains, or underground
-  - **Organization**: Solitary, or with other orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])
-  - **Challenge Rating**: 3
-  - **Treasure**: NPC gear (combat gear: scroll of cat's grace, scroll of glitterdust, wand of cure light wounds (20 charges); other gear: masterwork chain shirt, javelins (6), masterwork scimitar, cloak of resistance +1, masterwork drums, 129 gp)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Orc)
+- **Hit Dice**: 4d8+4 (25 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 15 (+4 armor, +1 Dex), touch 11, flat-footed 14
+- **Base Attack**: +3; **CMB**: +6; **CMD**: 17
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +7 melee (1d6+3/18–20) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +4 ranged (1d6+3)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +7 melee (1d6+3/18–20); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +4 ranged (1d6+3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Bard#^bardic-music|Bardic performance]] 12 rounds/day ([[rangoric-srd/classes/Bard#^countersong|countersong]], [[rangoric-srd/classes/Bard#^bard-distraction|distraction]], [[rangoric-srd/classes/Bard#^inspire-competence|inspire competence]] +2, [[rangoric-srd/classes/Bard#^inspire-courage|inspire courage]] +1, [[rangoric-srd/class-options/archetypes/bard/Savage Skald (Archetype)|inspiring blow]])
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/classes/Bard#^bardic-knowledge|bardic knowledge]] +2, [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (percussion), [[rangoric-srd/races/Orc|weapon familiarity]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
+- **Saves**: Fort +1, Ref +6, Will +4 (+4 vs. bardic performance, language-dependent, and sonic)
+- **Abilities**: Str 17, Dex 12, Con 8, Int 12, Wis 8, Cha 14
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Perception|Perception]] +6, Perform (percussion) +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6
+- **Feats**: [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment), [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Temperate hills, mountains, or underground
+- **Organization**: Solitary, or with other orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])
+- **Challenge Rating**: 3
+- **Treasure**: NPC gear (combat gear: scroll of cat's grace, scroll of glitterdust, wand of cure light wounds (20 charges); other gear: masterwork chain shirt, javelins (6), masterwork scimitar, cloak of resistance +1, masterwork drums, 129 gp)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 An orc war drummer is an [[rangoric-srd/monsters/orc/Orc|orc]] with 4 levels of [[rangoric-srd/classes/Bard|bard]] (the [[rangoric-srd/class-options/archetypes/bard/Savage Skald (Archetype)|savage skald]] archetype), one of the orc prodigies. The rare clever or artistic orcs may use their skills to bolster comrades—or to better compete with brutish tribemates.
 
@@ -69,4 +69,4 @@ An orc war drummer speaks Common, Goblin, and Orc.
 
 ### Combat
 
-**Bard spells known** (CL 4th; concentration +6): 2nd (2/day)—*[[rangoric-srd/spells/Hold Person|hold person]]* (DC 15), *[[rangoric-srd/spells/Sound Burst|sound burst]]* (DC 14); 1st (4/day)—*[[rangoric-srd/spells/Grease|grease]]* (DC 13), *[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]* (DC 14), *[[rangoric-srd/spells/Confusion, Lesser|lesser confusion]]* (DC 14), *[[rangoric-srd/spells/Summon Monster I|summon monster I]]*; 0 (at will)—*[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Ghost Sound|ghost sound]]* (DC 12), *[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]* (DC 12), *[[rangoric-srd/spells/Read Magic|read magic]]*, *[[rangoric-srd/spells/Summon Instrument|summon instrument]]*.
+**Bard spells known** (CL 4th; concentration +6): 2nd (2/day)—_[[rangoric-srd/spells/Hold Person|hold person]]_ (DC 15), _[[rangoric-srd/spells/Sound Burst|sound burst]]_ (DC 14); 1st (4/day)—_[[rangoric-srd/spells/Grease|grease]]_ (DC 13), _[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]_ (DC 14), _[[rangoric-srd/spells/Confusion, Lesser|lesser confusion]]_ (DC 14), _[[rangoric-srd/spells/Summon Monster I|summon monster I]]_; 0 (at will)—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 12), _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_ (DC 12), _[[rangoric-srd/spells/Read Magic|read magic]]_, _[[rangoric-srd/spells/Summon Instrument|summon instrument]]_.

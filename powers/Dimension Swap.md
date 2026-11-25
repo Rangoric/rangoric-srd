@@ -33,7 +33,7 @@ Targets: You and one ally in range, or any two allies in range; see text
 Duration: Instantaneous  
 Saving Throw: Will negates (harmless, object)  
 Power Resistance: Yes (harmless, object)  
-Power Points: 3  
+Power Points: 3
 
 You instantly swap positions between your current position and that of a designated ally in range. Alternatively, you can swap the positions of any two allies in range. This power affects creatures of Large or smaller size. You can bring along objects, but not other creatures.
 

@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Musket Master
 
-*A [[rangoric-srd/classes/Gunslinger#^gunslinger-archetypes|gunslinger]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Gunslinger#^gunslinger-archetypes|gunslinger]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Pistols and other one-handed firearms are often easy to conceal and faster to load than other firearms, and do sufficient damage for most situations. But some gunslingers want a little more firepower and range. These are the musket masters; the best of these gunslingers can reload a musket with dazzling speed, potentially putting even their pistol-wielding brethren to shame.
 

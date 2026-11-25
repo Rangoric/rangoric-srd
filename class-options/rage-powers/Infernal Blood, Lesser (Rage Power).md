@@ -16,8 +16,8 @@ tags: [rangoric, rangoric/class-option]
 
 # Infernal Blood, Lesser
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su)._
 
-While raging, up to three times a day as a swift action, the barbarian can infuse her attacks with hellfire for 1 round. During this time, all of her melee attacks gain the *[[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]* weapon special ability.
+While raging, up to three times a day as a swift action, the barbarian can infuse her attacks with hellfire for 1 round. During this time, all of her melee attacks gain the _[[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]_ weapon special ability.
 
 A barbarian cannot take blood rage powers from more than one group of blood rage powers.

@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Rock Throwing
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Stone Mystery|stone]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Stone Mystery|stone]] mystery._
 
 You are an accomplished rock thrower and have a +1 racial bonus on attack rolls with thrown rocks. You can hurl rocks up to two categories smaller than your own size. The range increment for a rock is 20 feet, and you can hurl it up to 5 range increments. Damage for a hurled rock is 2d4 for a Medium creature or 2d3 for a Small creature, plus 1-1/2 your Strength bonus.

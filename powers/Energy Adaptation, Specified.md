@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/power]
 
 Psychometabolism \[see text\]  
 Level: Psion/wilder 2, psychic warrior 2  
-**Power Points:** 3  
+**Power Points:** 3
 
 As [[rangoric-srd/powers/Energy Adaptation|energy adaptation]], except you must choose one type of energy to which you gain [[rangoric-srd/monsters/abilities/Resistance|resistance]] when this power is manifested.
 

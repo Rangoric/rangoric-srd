@@ -34,7 +34,7 @@ Effect: One created astral construct
 Duration: 1 round/level (D)  
 Saving Throw: None  
 Power Resistance: No  
-Power Points: 1  
+Power Points: 1
 
 This power creates one 1st-level astral construct of solidified ectoplasm that attacks your enemies. It appears where you designate and acts immediately, on your turn. It attacks your opponents to the best of its ability. As a free action, you can mentally direct it not to attack, to attack particular enemies, or to perform other actions. The astral construct acts normally on the last round of the power’s duration and dissipates at the end of its turn.
 

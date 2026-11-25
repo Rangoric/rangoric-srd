@@ -22,7 +22,7 @@ Perks:
 - +2 Charisma
 - -2 Wisdom
 - Darkvision: Ifrits can see in the dark up to 60 feet; see [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] for how it works.
-- Spell-Like Ability: *[[rangoric-srd/spells/Burning Hands|Burning hands]]* 1/day (caster level equal to the ifrit's character level).
+- Spell-Like Ability: _[[rangoric-srd/spells/Burning Hands|Burning hands]]_ 1/day (caster level equal to the ifrit's character level).
 - Energy Resistance: Ifrits have fire resistance 5 (see [[rangoric-srd/rules/Special Abilities and Conditions#Resistance to Energy|resistance to energy]]).
 - Fire Affinity: Ifrit [[rangoric-srd/classes/Sorcerer|sorcerers]] with the [[rangoric-srd/class-options/bloodlines/Elemental Bloodline|elemental (fire) bloodline]] treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Ifrit spellcasters with the [[rangoric-srd/class-options/domains/Fire Domain|Fire domain]] use their domain powers and spells at +1 caster level.
 
@@ -46,17 +46,17 @@ Bonus Languages:
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 60 years | +4d6 | +6d6 | +8d6 |
+| --------- | --------- | ----------- | ------- |
+| 60 years  | +4d6      | +6d6        | +8d6    |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 150 years | 200 years | 250 years | +6d% years |
+| Middle Age | Old       | Venerable | Maximum Age |
+| ---------- | --------- | --------- | ----------- |
+| 150 years  | 200 years | 250 years | +6d% years  |
 
 | Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Male | 5 ft. 2 in. | +2d8 | 110 lb. | × 5 lb. |
-| Female | 5 ft. 0 in. | +2d8 | 90 lb. | × 5 lb. |
+| ------ | ----------- | --------------- | ----------- | --------------- |
+| Male   | 5 ft. 2 in. | +2d8            | 110 lb.     | × 5 lb.         |
+| Female | 5 ft. 0 in. | +2d8            | 90 lb.      | × 5 lb.         |
 
 ### Description
 
@@ -76,16 +76,16 @@ Humans whose ancestry includes beings of elemental fire such as efreet, ifrits a
 
 An ifrit can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Desert Mirage\|Desert Mirage]] | Fire affinity |
-| [[rangoric-srd/races/racial-traits/Efreeti Magic\|Efreeti Magic]] | Spell-like ability |
-| [[rangoric-srd/races/racial-traits/Elemental Vitality\|Fire in the Blood]] | Fire affinity |
-| [[rangoric-srd/races/racial-traits/Elemental Insight\|Fire Insight]] | Fire affinity |
-| [[rangoric-srd/races/racial-traits/Fire-Starter\|Fire-Starter]] | Fire affinity |
-| [[rangoric-srd/races/racial-traits/Forge-Hardened\|Forge-Hardened]] | Spell-like ability |
-| [[rangoric-srd/races/racial-traits/Hypnotic\|Hypnotic]] | Fire affinity |
-| [[rangoric-srd/races/racial-traits/Wildfire Heart\|Wildfire Heart]] | Energy resistance |
+| Trait                                                                      | Replaces           |
+| -------------------------------------------------------------------------- | ------------------ |
+| [[rangoric-srd/races/racial-traits/Desert Mirage\|Desert Mirage]]          | Fire affinity      |
+| [[rangoric-srd/races/racial-traits/Efreeti Magic\|Efreeti Magic]]          | Spell-like ability |
+| [[rangoric-srd/races/racial-traits/Elemental Vitality\|Fire in the Blood]] | Fire affinity      |
+| [[rangoric-srd/races/racial-traits/Elemental Insight\|Fire Insight]]       | Fire affinity      |
+| [[rangoric-srd/races/racial-traits/Fire-Starter\|Fire-Starter]]            | Fire affinity      |
+| [[rangoric-srd/races/racial-traits/Forge-Hardened\|Forge-Hardened]]        | Spell-like ability |
+| [[rangoric-srd/races/racial-traits/Hypnotic\|Hypnotic]]                    | Fire affinity      |
+| [[rangoric-srd/races/racial-traits/Wildfire Heart\|Wildfire Heart]]        | Energy resistance  |
 
 ### Class Bonuses
 
@@ -97,7 +97,7 @@ An ifrit gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
-| [[rangoric-srd/class-options/archetypes/sorcerer/Wishcrafter (Archetype)\|Wishcrafter]] | [[rangoric-srd/classes/Sorcerer\|Sorcerer]] |
-| [[rangoric-srd/class-options/archetypes/inquisitor/Immolator (Archetype)\|Immolator]] | [[rangoric-srd/classes/Inquisitor (Class)\|Inquisitor]] |
+| Archetype                                                                               | Class                                                   |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| [[rangoric-srd/class-options/archetypes/sorcerer/Wishcrafter (Archetype)\|Wishcrafter]] | [[rangoric-srd/classes/Sorcerer\|Sorcerer]]             |
+| [[rangoric-srd/class-options/archetypes/inquisitor/Immolator (Archetype)\|Immolator]]   | [[rangoric-srd/classes/Inquisitor (Class)\|Inquisitor]] |

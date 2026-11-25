@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Ooze Form II
 
-*Transmutation (Polymorph)*
+_Transmutation (Polymorph)_
 
-  - **Level**: Alc 6, Mag 6, Sor/Wiz 6
-  - **Components**: V, S, M (a bit of the creature whose form you plan to assume)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: Caster level minute(s)
-  - **Spell Resistance**: No
+- **Level**: Alc 6, Mag 6, Sor/Wiz 6
+- **Components**: V, S, M (a bit of the creature whose form you plan to assume)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: Caster level minute(s)
+- **Spell Resistance**: No
 
 This spell functions as [[rangoric-srd/spells/Ooze Form I|ooze form I]] except you can also assume the form of a Large ooze. You gain blindsight 30 feet and immunity to critical hits and precision damage as well.
 

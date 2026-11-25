@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, item-creation]
 
 # Craft Psionic Arms and Armor
 
-You can create psionic weapons, armor, and shields.  
+You can create psionic weapons, armor, and shields.
 
 Prerequisite: Manifester level 5th.
 

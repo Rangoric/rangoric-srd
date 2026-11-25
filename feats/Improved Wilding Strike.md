@@ -16,4 +16,4 @@ You gain greater skill with the natural power of your blows.
 
 **Prerequisites**: Str 16, [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Wilding|Wilding]], [[rangoric-srd/feats/Wilding Strike|Wilding Strike]], base attack bonus +11.
 
-**Benefit**: The damage die of your unarmed strikes increases to 1d8 (or 1d6 if you are Small). This doesn’t stack with other effects that increase the damage die of your unarmed strikes, including class levels such as the [[rangoric-srd/classes/Monk#^unarmed-strike|monk]]’s. Increases to your actual size category (such as from *[[rangoric-srd/spells/Enlarge Person|enlarge person]]*) still increase the damage die as normal.
+**Benefit**: The damage die of your unarmed strikes increases to 1d8 (or 1d6 if you are Small). This doesn’t stack with other effects that increase the damage die of your unarmed strikes, including class levels such as the [[rangoric-srd/classes/Monk#^unarmed-strike|monk]]’s. Increases to your actual size category (such as from _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_) still increase the damage die as normal.

@@ -13,12 +13,12 @@ tags: [rangoric, rangoric/monster]
 
 # Fire Elemental
 
-  - [[rangoric-srd/monsters/elemental/Fire Elemental, Small|Fire Elemental, Small]]
-  - [[rangoric-srd/monsters/elemental/Fire Elemental, Medium|Fire Elemental, Medium]]
-  - [[rangoric-srd/monsters/elemental/Fire Elemental, Large|Fire Elemental, Large]]
-  - [[rangoric-srd/monsters/elemental/Fire Elemental, Huge|Fire Elemental, Huge]]
-  - [[rangoric-srd/monsters/elemental/Fire Elemental, Greater|Fire Elemental, Greater]]
-  - [[rangoric-srd/monsters/elemental/Fire Elemental, Elder|Fire Elemental, Elder]]
+- [[rangoric-srd/monsters/elemental/Fire Elemental, Small|Fire Elemental, Small]]
+- [[rangoric-srd/monsters/elemental/Fire Elemental, Medium|Fire Elemental, Medium]]
+- [[rangoric-srd/monsters/elemental/Fire Elemental, Large|Fire Elemental, Large]]
+- [[rangoric-srd/monsters/elemental/Fire Elemental, Huge|Fire Elemental, Huge]]
+- [[rangoric-srd/monsters/elemental/Fire Elemental, Greater|Fire Elemental, Greater]]
+- [[rangoric-srd/monsters/elemental/Fire Elemental, Elder|Fire Elemental, Elder]]
 
 A fire elemental cannot enter water or any other nonflammable liquid. A body of water is an impassible barrier unless the fire elemental can step or jump over it.
 
@@ -34,9 +34,9 @@ A fire elemental is a fierce opponent that attacks its enemies directly and sava
 
 | Elemental | Height | Weight |
 | --------- | ------ | ------ |
-| Small | 4 ft. | 1 lb. |
-| Medium | 8 ft. | 2 lb. |
-| Large | 16 ft. | 4 lb. |
-| Huge | 32 ft. | 8 lb. |
-| Greater | 36 ft. | 10 lb. |
-| Elder | 40 ft. | 12 lb. |
+| Small     | 4 ft.  | 1 lb.  |
+| Medium    | 8 ft.  | 2 lb.  |
+| Large     | 16 ft. | 4 lb.  |
+| Huge      | 32 ft. | 8 lb.  |
+| Greater   | 36 ft. | 10 lb. |
+| Elder     | 40 ft. | 12 lb. |

@@ -46,28 +46,28 @@ The antipaladin’s class skills (and the key ability for each skill) are [[rang
 
 **Table: The Antipaladin** ^table-the-antipaladin
 
-| Level | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th |
-| --- | --- | --- | --- | --- | --- |
-| 1st | Aura of evil, detect good, smite good 1/day | — | — | — | — |
-| 2nd | Touch of corruption, unholy resilience | — | — | — | — |
-| 3rd | Aura of cowardice, cruelty, plague bringer | — | — | — | — |
-| 4th | Channel negative energy, smite good 2/day | 0 | — | — | — |
-| 5th | Fiendish boon | 1 | — | — | — |
-| 6th | Cruelty | 1 | — | — | — |
-| 7th | Smite good 3/day | 1 | 0 | — | — |
-| 8th | Aura of despair | 1 | 1 | — | — |
-| 9th | Cruelty | 2 | 1 | — | — |
-| 10th | Smite good 4/day | 2 | 1 | 0 | — |
-| 11th | Aura of vengeance | 2 | 1 | 1 | — |
-| 12th | Cruelty | 2 | 2 | 1 | — |
-| 13th | Smite good 5/day | 3 | 2 | 1 | 0 |
-| 14th | Aura of sin | 3 | 2 | 1 | 1 |
-| 15th | Cruelty | 3 | 2 | 2 | 1 |
-| 16th | Smite good 6/day | 3 | 3 | 2 | 1 |
-| 17th | Aura of depravity | 4 | 3 | 2 | 1 |
-| 18th | Cruelty | 4 | 3 | 2 | 2 |
-| 19th | Smite good 7/day | 4 | 3 | 3 | 2 |
-| 20th | Unholy champion | 4 | 4 | 3 | 3 |
+| Level | Special                                     | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th |
+| ----- | ------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| 1st   | Aura of evil, detect good, smite good 1/day | —                   | —                   | —                   | —                   |
+| 2nd   | Touch of corruption, unholy resilience      | —                   | —                   | —                   | —                   |
+| 3rd   | Aura of cowardice, cruelty, plague bringer  | —                   | —                   | —                   | —                   |
+| 4th   | Channel negative energy, smite good 2/day   | 0                   | —                   | —                   | —                   |
+| 5th   | Fiendish boon                               | 1                   | —                   | —                   | —                   |
+| 6th   | Cruelty                                     | 1                   | —                   | —                   | —                   |
+| 7th   | Smite good 3/day                            | 1                   | 0                   | —                   | —                   |
+| 8th   | Aura of despair                             | 1                   | 1                   | —                   | —                   |
+| 9th   | Cruelty                                     | 2                   | 1                   | —                   | —                   |
+| 10th  | Smite good 4/day                            | 2                   | 1                   | 0                   | —                   |
+| 11th  | Aura of vengeance                           | 2                   | 1                   | 1                   | —                   |
+| 12th  | Cruelty                                     | 2                   | 2                   | 1                   | —                   |
+| 13th  | Smite good 5/day                            | 3                   | 2                   | 1                   | 0                   |
+| 14th  | Aura of sin                                 | 3                   | 2                   | 1                   | 1                   |
+| 15th  | Cruelty                                     | 3                   | 2                   | 2                   | 1                   |
+| 16th  | Smite good 6/day                            | 3                   | 3                   | 2                   | 1                   |
+| 17th  | Aura of depravity                           | 4                   | 3                   | 2                   | 1                   |
+| 18th  | Cruelty                                     | 4                   | 3                   | 2                   | 2                   |
+| 19th  | Smite good 7/day                            | 4                   | 3                   | 3                   | 2                   |
+| 20th  | Unholy champion                             | 4                   | 4                   | 3                   | 3                   |
 
 ###### Class Features
 
@@ -75,9 +75,9 @@ All of the following are class features of the antipaladin.
 
 **Weapon and Armor Proficiency**: Antipaladins are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with shields (except tower shields).
 
-**Aura of Evil (Ex)**: The power of an antipaladin’s aura of evil (see the *[[rangoric-srd/spells/Detect Evil|detect evil]]* spell) is equal to his antipaladin level. A paladin who uses [[rangoric-srd/classes/Paladin#^paladin-smite-evil|smite evil]] on an antipaladin deals 2 points of damage per paladin level on his first successful attack. ^antipaladin-aura-of-evil
+**Aura of Evil (Ex)**: The power of an antipaladin’s aura of evil (see the _[[rangoric-srd/spells/Detect Evil|detect evil]]_ spell) is equal to his antipaladin level. A paladin who uses [[rangoric-srd/classes/Paladin#^paladin-smite-evil|smite evil]] on an antipaladin deals 2 points of damage per paladin level on his first successful attack. ^antipaladin-aura-of-evil
 
-**Detect Good (Sp)**: At will, an antipaladin can use *[[rangoric-srd/spells/Detect Good|detect good]]*, as the spell. An antipaladin can, as a move action, concentrate on a single item or individual within 60 feet and determine if it is good, learning the strength of its aura as if having studied it for 3 rounds. While focusing on one individual or object, the antipaladin does not detect good in any other object or individual within range. ^antipaladin-detect-good
+**Detect Good (Sp)**: At will, an antipaladin can use _[[rangoric-srd/spells/Detect Good|detect good]]_, as the spell. An antipaladin can, as a move action, concentrate on a single item or individual within 60 feet and determine if it is good, learning the strength of its aura as if having studied it for 3 rounds. While focusing on one individual or object, the antipaladin does not detect good in any other object or individual within range. ^antipaladin-detect-good
 
 **Smite Good (Su)**: Once per day, an antipaladin can call out to the dark powers to crush the forces of good. As a swift action, the antipaladin chooses one target within sight to smite. If this target is good, the antipaladin adds his Charisma bonus (if any) on his attack rolls and adds his antipaladin level on all damage rolls made against the target of his smite. If the target of smite good is an outsider with the good subtype, a good-aligned dragon, or a good creature with levels of cleric or paladin, the bonus to damage on the first successful attack increases to 2 points of damage per level the antipaladin possesses. Regardless of the target, smite good attacks automatically bypass any DR the creature might possess. ^antipaladin-smite-good
 
@@ -103,7 +103,7 @@ These abilities are not cumulative. For example, a 12th-level antipaladin’s to
 
 **Channel Negative Energy (Su)**: When an antipaladin reaches 4th level, he gains the supernatural ability to channel negative energy like a cleric (see [[rangoric-srd/combat/Combat Special Attacks#Channel Energy|channel energy]]). Using this ability consumes two uses of his touch of corruption ability. An antipaladin uses his level as his effective cleric level when channeling negative energy. This is a Charisma-based ability. ^antipaladin-channel-negative-energy
 
-**Spells**: Beginning at 4th level, an antipaladin gains the ability to cast a small number of divine spells, which are drawn from the [[rangoric-srd/spells/Antipaladin Spell List|antipaladin spell list]]. An antipaladin must choose and prepare his spells in advance. With a *[[rangoric-srd/spells/Summon Monster I|summon monster]]* spell, he can summon only evil creatures. ^antipaladin-spells
+**Spells**: Beginning at 4th level, an antipaladin gains the ability to cast a small number of divine spells, which are drawn from the [[rangoric-srd/spells/Antipaladin Spell List|antipaladin spell list]]. An antipaladin must choose and prepare his spells in advance. With a _[[rangoric-srd/spells/Summon Monster I|summon monster]]_ spell, he can summon only evil creatures. ^antipaladin-spells
 
 To prepare or cast a spell, an antipaladin must have a Charisma score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against an antipaladin’s spell is 10 + the spell level + the antipaladin’s Charisma modifier.
 
@@ -115,11 +115,11 @@ Through 3rd level, an antipaladin has no caster level. At 4th level and higher, 
 
 **Fiendish Boon (Sp)**: Upon reaching 5th level, an antipaladin receives a boon from his dark patrons. This boon can take one of two forms. Once the form is chosen, it cannot be changed. ^antipaladin-fiendish-boon
 
-The first type of bond allows the antipaladin to enhance his weapon as a standard action by calling upon the aid of a fiendish spirit for 1 minute per antipaladin level. When called, the spirit causes the weapon to shed unholy light as a torch. At 5th level, this spirit grants the weapon a +1 enhancement bonus. For every three levels beyond 5th, the weapon gains another +1 enhancement bonus, to a maximum of +6 at 20th level. These bonuses can be added to the weapon, stacking with existing weapon bonuses to a maximum of +5, or they can be used to add any of the following weapon properties: *[[rangoric-srd/magic-items/weapon-abilities/Anarchic|anarchic]]*, *[[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]*, *[[rangoric-srd/magic-items/weapon-abilities/Flaming Burst|flaming burst]]*, *[[rangoric-srd/magic-items/weapon-abilities/Keen|keen]]*, *[[rangoric-srd/magic-items/weapon-abilities/Speed|speed]]*, *[[rangoric-srd/magic-items/weapon-abilities/Unholy|unholy]]*, *[[rangoric-srd/magic-items/weapon-abilities/Vicious|vicious]]*, *[[rangoric-srd/magic-items/weapon-abilities/Vorpal|vorpal]]*, and *[[rangoric-srd/magic-items/weapon-abilities/Wounding|wounding]]*. Adding these properties consumes an amount of bonus equal to the property’s cost (see [[rangoric-srd/magic-items/Magic Armor and Weapons|Magic Armor and Weapons]]). These bonuses are added to any properties the weapon already has, but duplicate abilities do not stack. If the weapon is not magical, at least a +1 enhancement bonus must be added before any other properties can be added. The bonus and properties granted by the spirit are determined when the spirit is called and cannot be changed until the spirit is called again. The fiendish spirit imparts no bonuses if the weapon is held by anyone other than the antipaladin but resumes giving bonuses if returned to the antipaladin. These bonuses apply to only one end of a double weapon. An antipaladin can use this ability once per day at 5th level, and one additional time per day for every four levels beyond 5th, to a total of four times per day at 17th level.
+The first type of bond allows the antipaladin to enhance his weapon as a standard action by calling upon the aid of a fiendish spirit for 1 minute per antipaladin level. When called, the spirit causes the weapon to shed unholy light as a torch. At 5th level, this spirit grants the weapon a +1 enhancement bonus. For every three levels beyond 5th, the weapon gains another +1 enhancement bonus, to a maximum of +6 at 20th level. These bonuses can be added to the weapon, stacking with existing weapon bonuses to a maximum of +5, or they can be used to add any of the following weapon properties: _[[rangoric-srd/magic-items/weapon-abilities/Anarchic|anarchic]]_, _[[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]_, _[[rangoric-srd/magic-items/weapon-abilities/Flaming Burst|flaming burst]]_, _[[rangoric-srd/magic-items/weapon-abilities/Keen|keen]]_, _[[rangoric-srd/magic-items/weapon-abilities/Speed|speed]]_, _[[rangoric-srd/magic-items/weapon-abilities/Unholy|unholy]]_, _[[rangoric-srd/magic-items/weapon-abilities/Vicious|vicious]]_, _[[rangoric-srd/magic-items/weapon-abilities/Vorpal|vorpal]]_, and _[[rangoric-srd/magic-items/weapon-abilities/Wounding|wounding]]_. Adding these properties consumes an amount of bonus equal to the property’s cost (see [[rangoric-srd/magic-items/Magic Armor and Weapons|Magic Armor and Weapons]]). These bonuses are added to any properties the weapon already has, but duplicate abilities do not stack. If the weapon is not magical, at least a +1 enhancement bonus must be added before any other properties can be added. The bonus and properties granted by the spirit are determined when the spirit is called and cannot be changed until the spirit is called again. The fiendish spirit imparts no bonuses if the weapon is held by anyone other than the antipaladin but resumes giving bonuses if returned to the antipaladin. These bonuses apply to only one end of a double weapon. An antipaladin can use this ability once per day at 5th level, and one additional time per day for every four levels beyond 5th, to a total of four times per day at 17th level.
 
 If a weapon bonded with a fiendish spirit is destroyed, the antipaladin loses the use of this ability for 30 days, or until he gains a level, whichever comes first. During this 30-day period, the antipaladin takes a –1 penalty on attack and weapon damage rolls.
 
-The second type of bond allows an antipaladin to gain the service of a fiendish servant. This functions as *[[rangoric-srd/spells/Summon Monster III|summon monster III]]*, except the duration is permanent and the antipaladin can only gain the service of a single creature and that creature must either have the chaotic and evil subtypes or it must be a [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature|fiendish]] animal. Once selected, the choice is set, but it may be changed whenever the antipaladin gains a level. Upon reaching 7th level, and every two levels thereafter, the level of the *summon monster* spell increases by one, to a maximum of *[[rangoric-srd/spells/Summon Monster IX|summon monster IX]]* at 17th level.
+The second type of bond allows an antipaladin to gain the service of a fiendish servant. This functions as _[[rangoric-srd/spells/Summon Monster III|summon monster III]]_, except the duration is permanent and the antipaladin can only gain the service of a single creature and that creature must either have the chaotic and evil subtypes or it must be a [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature|fiendish]] animal. Once selected, the choice is set, but it may be changed whenever the antipaladin gains a level. Upon reaching 7th level, and every two levels thereafter, the level of the _summon monster_ spell increases by one, to a maximum of _[[rangoric-srd/spells/Summon Monster IX|summon monster IX]]_ at 17th level.
 
 Once per day, as a full-round action, an antipaladin may magically call his servant to his side. This ability is the equivalent of a spell of a level equal to one-third the antipaladin’s level. The servant immediately appears adjacent to the antipaladin. An antipaladin can use this ability once per day at 5th level, and one additional time per day for every four levels thereafter, for a total of four times per day at 17th level.
 
@@ -135,11 +135,11 @@ Should the antipaladin’s fiendish servant die or be banished, the antipaladin 
 
 **Aura of Depravity (Su)**: At 17th level, an antipaladin gains DR 5/good. Each enemy within 10 feet takes a –4 penalty on saving throws against compulsion effects. This ability functions only while the antipaladin is conscious, not if he is unconscious or dead. ^antipaladin-aura-of-depravity
 
-**Unholy Champion (Su)**: At 20th level, an antipaladin becomes a conduit for the might of the dark powers. His DR increases to 10/good. Whenever he uses smite good and successfully strikes a good outsider, the outsider is also subject to a *[[rangoric-srd/spells/Banishment|banishment]]*, using his antipaladin level as the caster level (his weapon and unholy symbol automatically count as objects that the subject hates). After the *banishment* effect and the damage from the attack is resolved, the smite immediately ends. In addition, whenever he channels negative energy or uses touch of corruption to damage a creature, he deals the maximum possible amount. ^antipaladin-unholy-champion
+**Unholy Champion (Su)**: At 20th level, an antipaladin becomes a conduit for the might of the dark powers. His DR increases to 10/good. Whenever he uses smite good and successfully strikes a good outsider, the outsider is also subject to a _[[rangoric-srd/spells/Banishment|banishment]]_, using his antipaladin level as the caster level (his weapon and unholy symbol automatically count as objects that the subject hates). After the _banishment_ effect and the damage from the attack is resolved, the smite immediately ends. In addition, whenever he channels negative energy or uses touch of corruption to damage a creature, he deals the maximum possible amount. ^antipaladin-unholy-champion
 
 **Code of Conduct**: An antipaladin must be of chaotic evil alignment and loses all class features except proficiencies if he willingly and altruistically commits good acts. This does not mean that an antipaladin cannot take actions someone else might qualify as good, only that such actions must always be in service of his own dark ends. An antipaladin’s code requires that he place his own interests and desires above all else, as well as impose tyranny, take advantage whenever possible, and punish the good and just, provided such actions don’t interfere with his goals. ^antipaladin-code-of-conduct
 
-**Associates**: While he may adventure with evil or neutral allies, an antipaladin avoids working with good characters or with anyone who consistently attempts to do good deeds. Under exceptional circumstances, an antipaladin can ally with good associates, but only to defeat them from within and bring ruin to their ranks. An antipaladin does not need an *[[rangoric-srd/spells/Atonement|atonement]]* spell during such an unusual alliance as long as his nefarious goals are met in the end—evil cares only about results. An antipaladin may accept only henchmen, followers, or cohorts who are chaotic evil. ^antipaladin-associates
+**Associates**: While he may adventure with evil or neutral allies, an antipaladin avoids working with good characters or with anyone who consistently attempts to do good deeds. Under exceptional circumstances, an antipaladin can ally with good associates, but only to defeat them from within and bring ruin to their ranks. An antipaladin does not need an _[[rangoric-srd/spells/Atonement|atonement]]_ spell during such an unusual alliance as long as his nefarious goals are met in the end—evil cares only about results. An antipaladin may accept only henchmen, followers, or cohorts who are chaotic evil. ^antipaladin-associates
 
 **Archetypes**: An antipaladin can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The antipaladin’s archetypes, with what each replaces: ^antipaladin-archetypes
 
@@ -151,7 +151,7 @@ Should the antipaladin’s fiendish servant die or be banished, the antipaladin 
 
 ###### Ex-Antipaladins
 
-An antipaladin who ceases to be chaotic evil, who willfully commits a good act, or who violates the code of conduct loses all antipaladin spells and class features (including the fiendish boon, but not weapon, armor, and shield proficiencies). He may not progress any further in levels as an antipaladin. He regains his abilities and advancement potential if he atones for his violations (see the *[[rangoric-srd/spells/Atonement|atonement]]* spell), as appropriate.
+An antipaladin who ceases to be chaotic evil, who willfully commits a good act, or who violates the code of conduct loses all antipaladin spells and class features (including the fiendish boon, but not weapon, armor, and shield proficiencies). He may not progress any further in levels as an antipaladin. He regains his abilities and advancement potential if he atones for his violations (see the _[[rangoric-srd/spells/Atonement|atonement]]_ spell), as appropriate.
 
 ###### Fallen Paladins
 

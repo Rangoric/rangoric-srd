@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Pipefox
 
-  - Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 3d10–3 (13 hp)
-  - **Initiative**: +7
-  - **Speed**: 30 ft. (6 squares), climb 20 ft.
-  - **Armor Class**: 17 (+3 Dex, +4 size), touch 17, flat-footed 14
-  - **Base Attack**: +3; **CMB**: +2; **CMD**: 8
-  - **Attack**: Bite +10 melee (1d2–5)
-  - **Full Attack**: Bite +10 melee (1d2–5)
-  - **Space/Reach**: 1 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Compression|compression]]
-  - **Saves**: Fort +2, Ref +6, Will +1
-  - **Abilities**: Str 1, Dex 16, Con 9, Int 14, Wis 11, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +19, [[rangoric-srd/skills/Theology|Theology]] +5
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 2
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 3d10–3 (13 hp)
+- **Initiative**: +7
+- **Speed**: 30 ft. (6 squares), climb 20 ft.
+- **Armor Class**: 17 (+3 Dex, +4 size), touch 17, flat-footed 14
+- **Base Attack**: +3; **CMB**: +2; **CMD**: 8
+- **Attack**: Bite +10 melee (1d2–5)
+- **Full Attack**: Bite +10 melee (1d2–5)
+- **Space/Reach**: 1 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Compression|compression]]
+- **Saves**: Fort +2, Ref +6, Will +1
+- **Abilities**: Str 1, Dex 16, Con 9, Int 14, Wis 11, Cha 14
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +19, [[rangoric-srd/skills/Theology|Theology]] +5
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 2
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A pipefox is a foot-long, furry, magical snake with the head of a fox. Often found either climbing in trees or snaking around pipes, these curious and stealthy creatures prefer to skulk about to observe and learn. Neither malicious nor particularly beneficial, pipefoxes love to gather knowledge and sometimes disseminate what they've acquired to those they find worthy.
 
@@ -75,4 +75,4 @@ Pipefoxes speak Common and Draconic.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +5): Constant—*[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]*; 3/day—*[[rangoric-srd/spells/Augury|augury]]*, *[[rangoric-srd/spells/Vanish|vanish]]*; 1/day—*[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]* (DC 14), *[[rangoric-srd/spells/Divination|divination]]*, *[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]* (self only).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +5): Constant—_[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_; 3/day—_[[rangoric-srd/spells/Augury|augury]]_, _[[rangoric-srd/spells/Vanish|vanish]]_; 1/day—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (DC 14), _[[rangoric-srd/spells/Divination|divination]]_, _[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]_ (self only).

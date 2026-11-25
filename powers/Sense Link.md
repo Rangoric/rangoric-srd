@@ -29,7 +29,7 @@ Telepathy \[Mind-Affecting\]
 **Range:** Medium (100 ft. + 10 ft./level)  
 **Target:** One willing creature  
 **Duration:** Concentration, up to 1min./level  
-**Power Points:** 1  
+**Power Points:** 1
 
 You perceive what the subject creature perceives using its sight, hearing, taste, or smell. Only one sense is linked, and you cannot switch between senses with the same manifestation.
 

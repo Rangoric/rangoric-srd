@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/racial-trait]
 
 **Race**: [[rangoric-srd/races/Duergar|Duergar]]. **Replaces**: the invisibility spell-like ability.
 
-While most duergar have the power to become invisible, a few are instead able to extinguish the light around them. Duergar with this racial trait can use *[[rangoric-srd/spells/Dust of Twilight|dust of twilight]]* once per day as a spell-like ability, using their character level as their caster level. This racial trait replaces the *[[rangoric-srd/spells/Invisibility|invisibility]]* spell-like ability.
+While most duergar have the power to become invisible, a few are instead able to extinguish the light around them. Duergar with this racial trait can use _[[rangoric-srd/spells/Dust of Twilight|dust of twilight]]_ once per day as a spell-like ability, using their character level as their caster level. This racial trait replaces the _[[rangoric-srd/spells/Invisibility|invisibility]]_ spell-like ability.

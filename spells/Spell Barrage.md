@@ -20,12 +20,12 @@ tags: [rangoric, rangoric/spell]
 
 # Spell Barrage
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Sor/Wiz 7
-  - **Components**: V
-  - **Casting Time**: 1 round
-  - **Range**: Personal
-  - **Duration**: 1 round
+- **Level**: Sor/Wiz 7
+- **Components**: V
+- **Casting Time**: 1 round
+- **Range**: Personal
+- **Duration**: 1 round
 
-On the round following the casting of this spell, the caster may cast two additional spells as *[[rangoric-srd/feats/Quicken Spell|quickened]]* spells as part of any other standard action. No other quickened spells can be used other than those granted by this spell (though the caster is not required to cast two spells as quickened). Thus, it’s possible for the caster to do a double move and release two *[[rangoric-srd/feats/Quicken Spell|quickened]]* spells; cast a single spell and release two *[[rangoric-srd/feats/Quicken Spell|quickened]]* spells, etc.
+On the round following the casting of this spell, the caster may cast two additional spells as _[[rangoric-srd/feats/Quicken Spell|quickened]]_ spells as part of any other standard action. No other quickened spells can be used other than those granted by this spell (though the caster is not required to cast two spells as quickened). Thus, it’s possible for the caster to do a double move and release two _[[rangoric-srd/feats/Quicken Spell|quickened]]_ spells; cast a single spell and release two _[[rangoric-srd/feats/Quicken Spell|quickened]]_ spells, etc.

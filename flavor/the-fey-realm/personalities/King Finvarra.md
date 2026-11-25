@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/flavor, flavor]
 
 # King Finvarra
 
-***AKA “The King from the Faerie Hills”, “Warden of the Dark Forest”***
+**_AKA “The King from the Faerie Hills”, “Warden of the Dark Forest”_**
 
 King Finvarra is the ruler of the Land of Eternal Autumn and Warden of the Dark Forest. Although he and his consort [[rangoric-srd/flavor/the-fey-realm/personalities/Queen Oonagh|Queen Oonagh]] hail from Knockma in the Faerie Hills, they now reign together over the Sidhe of the Land of Eternal Autumn. Finvarra is a ruggedly attractive [[rangoric-srd/races/Feeorin|feeorin]] appearing to be in his late fifties (by human standards). His dark brown beard and hair are lightly peppered with gray, and his weathered ruddy skin is deeply wrinkled from a life spent out among the harsh elements of the wilderness.
 

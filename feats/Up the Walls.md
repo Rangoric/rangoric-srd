@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Up the Walls
 
-You can run on walls for brief distances.  
+You can run on walls for brief distances.
 
 Prerequisite: Wis 13.
 

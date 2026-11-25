@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Beast Master
 
-*A [[rangoric-srd/classes/Ranger#^ranger-archetypes|ranger]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Ranger#^ranger-archetypes|ranger]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Some rangers, particularly those in primitive lands or who were raised by animals, have unusually strong bonds with animals. Unique among rangers, they can bond with multiple animals of any kind, creating a menagerie of wild yet loyal creatures, like a strange family. A beast master has the following class features.
 

@@ -37,24 +37,24 @@ tags: [rangoric, rangoric/monster]
 
 # Giant Ant, Worker
 
-  - Medium Vermin
-  - **Hit Dice**: 2d8 (9 hp)
-  - **Initiative**: +0
-  - **Speed**: 50 ft. (10 squares), climb 20 ft.
-  - **Armor Class**: 17 (+7 natural), touch 10, flat-footed 17
-  - **Base Attack**: +1; **CMB**: +1 (+5 grapple); **CMD**: 11 (19 vs. trip)
-  - **Attack**: Bite +1 melee (1d6)
-  - **Full Attack**: Bite +1 melee (1d6)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Improved grab
-  - **Special Qualities**: Scent, vermin traits
-  - **Saves**: Fort +3, Ref +0, Will +0
-  - **Abilities**: Str 10, Dex 10, Con 10, Int —, Wis 11, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +5 (+13 climbing)
-  - **Feats**: TrackB
-  - **Environment**: Temperate plains
-  - **Organization**: Gang (2–6) or crew (6–11 plus 1 giant ant soldier)
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Advancement**: 3–4 HD (Medium); 5–6 HD (Large)
-  - **Level Adjustment**: —
+- Medium Vermin
+- **Hit Dice**: 2d8 (9 hp)
+- **Initiative**: +0
+- **Speed**: 50 ft. (10 squares), climb 20 ft.
+- **Armor Class**: 17 (+7 natural), touch 10, flat-footed 17
+- **Base Attack**: +1; **CMB**: +1 (+5 grapple); **CMD**: 11 (19 vs. trip)
+- **Attack**: Bite +1 melee (1d6)
+- **Full Attack**: Bite +1 melee (1d6)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Improved grab
+- **Special Qualities**: Scent, vermin traits
+- **Saves**: Fort +3, Ref +0, Will +0
+- **Abilities**: Str 10, Dex 10, Con 10, Int —, Wis 11, Cha 9
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +5 (+13 climbing)
+- **Feats**: TrackB
+- **Environment**: Temperate plains
+- **Organization**: Gang (2–6) or crew (6–11 plus 1 giant ant soldier)
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Advancement**: 3–4 HD (Medium); 5–6 HD (Large)
+- **Level Adjustment**: —

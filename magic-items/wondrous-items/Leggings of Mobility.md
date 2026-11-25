@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Leggings of Mobility
 
-These leggings give their wearer the ability to *[[rangoric-srd/spells/Air Walk|air walk]]*, allowing them to move virtually anywhere.
+These leggings give their wearer the ability to _[[rangoric-srd/spells/Air Walk|air walk]]_, allowing them to move virtually anywhere.
 
-Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Air Walk|air walk]]*; Price 112,250 gp; Cost 56,125 gp + 4,490 XP.
+Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Air Walk|air walk]]_; Price 112,250 gp; Cost 56,125 gp + 4,490 XP.

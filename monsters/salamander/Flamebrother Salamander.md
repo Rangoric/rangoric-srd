@@ -41,26 +41,26 @@ tags: [rangoric, rangoric/monster]
 
 # Flamebrother Salamander
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fire|Fire]])
-  - **Hit Dice**: 4d8+8 (26 hp)
-  - **Initiative**: +1
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 19 (+1 size, +1 Dex, +7 natural), touch 12, flat-footed 18
-  - **Base Attack**: +4; **CMB**: +4 (+8 grapple); **CMD**: 15 (can't be tripped)
-  - **Attack**: Spear +6 melee (1d6+1/x3 plus 1d6 fire)
-  - **Full Attack**: Spear +6 melee (1d6+1/x3 plus 1d6 fire) and tail slap +4 melee (1d4 plus 1d6 fire)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] 1d4 plus 1d6 fire, heat, [[rangoric-srd/monsters/abilities/Grab|improved grab]]
-  - **Special Qualities**: Darkvision 60 ft., immunity to fire, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
-  - **Saves**: Fort +6, Ref +5, Will +6
-  - **Abilities**: Str 12, Dex 13, Con 14, Int 14, Wis 15, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (blacksmithing) +9, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +12
-  - **Unspent Skill Points**: 28
-  - **Feats**: [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Elemental Plane of Fire
-  - **Organization**: Solitary, pair, or cluster (3–5)
-  - **Challenge Rating**: 3
-  - **Treasure**: Standard (nonflammables only)
-  - **Alignment**: Usually evil (any)
-  - **Advancement**: 4–6 HD (Small)
-  - **Level Adjustment**: +4
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fire|Fire]])
+- **Hit Dice**: 4d8+8 (26 hp)
+- **Initiative**: +1
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 19 (+1 size, +1 Dex, +7 natural), touch 12, flat-footed 18
+- **Base Attack**: +4; **CMB**: +4 (+8 grapple); **CMD**: 15 (can't be tripped)
+- **Attack**: Spear +6 melee (1d6+1/x3 plus 1d6 fire)
+- **Full Attack**: Spear +6 melee (1d6+1/x3 plus 1d6 fire) and tail slap +4 melee (1d4 plus 1d6 fire)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] 1d4 plus 1d6 fire, heat, [[rangoric-srd/monsters/abilities/Grab|improved grab]]
+- **Special Qualities**: Darkvision 60 ft., immunity to fire, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
+- **Saves**: Fort +6, Ref +5, Will +6
+- **Abilities**: Str 12, Dex 13, Con 14, Int 14, Wis 15, Cha 13
+- **Skills**: [[rangoric-srd/skills/Craft|Craft]] (blacksmithing) +9, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +12
+- **Unspent Skill Points**: 28
+- **Feats**: [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Elemental Plane of Fire
+- **Organization**: Solitary, pair, or cluster (3–5)
+- **Challenge Rating**: 3
+- **Treasure**: Standard (nonflammables only)
+- **Alignment**: Usually evil (any)
+- **Advancement**: 4–6 HD (Small)
+- **Level Adjustment**: +4

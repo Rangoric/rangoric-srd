@@ -32,14 +32,14 @@ tags: [rangoric, rangoric/spell]
 
 # Shadow Claws
 
-*Illusion (Shadow) \[Shadow\]*
+_Illusion (Shadow) \[Shadow\]_
 
-  - **Level**: Apl 1, Blr 2, Brd 2, Mag 2, Skd 2, Sor/Wiz 2, Spi 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: Caster level minute(s)
-  - **Spell Resistance**: No
+- **Level**: Apl 1, Blr 2, Brd 2, Mag 2, Skd 2, Sor/Wiz 2, Spi 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: Caster level minute(s)
+- **Spell Resistance**: No
 
 You summon a pair of claws over your hands formed from semi-real material. This grants you two primary claw attacks dealing 1d4 points of damage if you are Medium (1d3 if Small) plus 1 point of Strength damage. A successful Fortitude saving throw negates the Strength damage (DC = this spell's DC).

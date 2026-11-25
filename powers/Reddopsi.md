@@ -27,7 +27,7 @@ Psychokinesis
 **Range:** Personal  
 **Target:** You  
 **Duration:** 10 min./level (D)  
-**Power Points:** 13  
+**Power Points:** 13
 
 When you manifest reddopsi, powers targeted against you rebound to affect the original manifester. This effect reverses powers that have only you as a target (except [[rangoric-srd/powers/Dispel Psionics|dispel psionics]] and similar powers or effects). Powers that affect an area and those that produce effects can’t be reversed. Reddopsi also can’t reverse any power with a range of touch.
 

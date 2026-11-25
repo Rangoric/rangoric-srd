@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Homunculus
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
-  - **Hit Dice**: 2d10 (11 hp)
-  - **Initiative**: +2
-  - **Speed**: 20 ft. (4 squares), fly 50 ft. (good)
-  - **Armor Class**: 14 (+2 Dex, +2 size), touch 14, flat-footed 12
-  - **Base Attack**: +2; **CMB**: +2; **CMD**: 11
-  - **Attack**: Bite +3 melee (1d4–1 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: Bite +3 melee (1d4–1 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], telepathic link
-  - **Saves**: Fort +0, Ref +4, Will +1
-  - **Abilities**: Str 8, Dex 15, Con —, Int 10, Wis 12, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +12
-  - **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Any (same as creator)
-  - **Advancement**: 3–6 HD (Tiny)
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
+- **Hit Dice**: 2d10 (11 hp)
+- **Initiative**: +2
+- **Speed**: 20 ft. (4 squares), fly 50 ft. (good)
+- **Armor Class**: 14 (+2 Dex, +2 size), touch 14, flat-footed 12
+- **Base Attack**: +2; **CMB**: +2; **CMD**: 11
+- **Attack**: Bite +3 melee (1d4–1 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: Bite +3 melee (1d4–1 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], telepathic link
+- **Saves**: Fort +0, Ref +4, Will +1
+- **Abilities**: Str 8, Dex 15, Con —, Int 10, Wis 12, Cha 7
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +12
+- **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Any (same as creator)
+- **Advancement**: 3–6 HD (Tiny)
+- **Level Adjustment**: —
 
 A homunculus is a miniature servant created by a spellcaster from his own blood. They are weak combatants but make effective spies, messengers, and scouts. A homunculus's creator determines its precise features; some are more refined looking, but most creators don't bother to improve the creature's appearance beyond the minimum necessary for functioning.
 
@@ -80,6 +80,6 @@ Homunculi land on their victims and bite with their venomous fangs.
 
 [[rangoric-srd/feats/Craft Construct|Craft Construct]], [[rangoric-srd/spells/Arcane Eye|arcane eye]], [[rangoric-srd/spells/Mirror Image|mirror image]], [[rangoric-srd/spells/Mending|mending]], caster must be at least 4th level; Price — (never sold); Cost 1,050 gp + 78 XP.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; *save* Fort DC 13; *frequency* 1/minute for 60 minutes; *effect* sleep for 1 minute; *cure* 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; _save_ Fort DC 13; _frequency_ 1/minute for 60 minutes; _effect_ sleep for 1 minute; _cure_ 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
 
 **Telepathic Link (Su)**: A homunculus cannot speak, but the process of creating one links it telepathically with its creator. A homunculus knows what its master knows and can convey to him or her everything it sees and hears, out to a distance of 1,500 feet.

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Swamp Stride
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “swamp stride”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “swamp stride”, on the Special Qualities line.
 
 The creature can move through any sort of natural difficult terrain at its normal speed while within a swamp. Magically altered terrain affects it normally. The [[rangoric-srd/monsters/Mobogo|mobogo]] has it.

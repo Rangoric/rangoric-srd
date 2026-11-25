@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/pole-arms]
 
 # Guisarme
 
-*Martial two-handed melee weapon (reach, trip).* Cost 9 gp; Dmg 1d6 (S), 2d4 (M); Critical x3; Weight 12 lb.; Type Slashing. ^stats
+_Martial two-handed melee weapon (reach, trip)._ Cost 9 gp; Dmg 1d6 (S), 2d4 (M); Critical x3; Weight 12 lb.; Type Slashing. ^stats
 
 A guisarme has reach. You can strike opponents 10 feet away with it, but you can’t use it against an adjacent foe.
 

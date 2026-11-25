@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Cave Domain
 
-*A druid domain, which a [[rangoric-srd/classes/Druid|druid]] can take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]; clerics can’t take it.*
+_A druid domain, which a [[rangoric-srd/classes/Druid|druid]] can take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]; clerics can’t take it._
 
 ## Granted Powers
 
@@ -26,14 +26,14 @@ The wonders and dark secrets of the deepest caves give you strength.
 
 ## Domain Spells
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Detect Aberration\|Detect Aberration]] | Detect presence of aberrations. |
-| 2nd | [[rangoric-srd/spells/Stone Call\|Stone Call]] | 2d6 damage to all creatures in area. |
-| 3rd | [[rangoric-srd/spells/Deeper Darkness\|Deeper Darkness]] | Object sheds supernatural shadow in 60-ft. radius. |
-| 4th | [[rangoric-srd/spells/Echolocation\|Echolocation]] | Sonic sense gives you blindsight 40 ft. |
-| 5th | [[rangoric-srd/spells/Wall of Stone\|Wall of Stone]] | Creates a stone wall that can be shaped. |
-| 6th | [[rangoric-srd/spells/Conjure Black Pudding\|Conjure Black Pudding]] (M) | Summon a black pudding. |
-| 7th | [[rangoric-srd/spells/Statue\|Statue]] (M) (looking like a stalagmite or stalactite) | Subject can become a statue at will. |
-| 8th | [[rangoric-srd/spells/Earthquake\|Earthquake]] | Intense tremor shakes 5-ft./level radius. |
-| 9th | [[rangoric-srd/spells/Imprisonment\|Imprisonment]] | Entombs subject beneath the earth. |
+| Level | Spell                                                                                | Brief Description                                  |
+| ----- | ------------------------------------------------------------------------------------ | -------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Detect Aberration\|Detect Aberration]]                         | Detect presence of aberrations.                    |
+| 2nd   | [[rangoric-srd/spells/Stone Call\|Stone Call]]                                       | 2d6 damage to all creatures in area.               |
+| 3rd   | [[rangoric-srd/spells/Deeper Darkness\|Deeper Darkness]]                             | Object sheds supernatural shadow in 60-ft. radius. |
+| 4th   | [[rangoric-srd/spells/Echolocation\|Echolocation]]                                   | Sonic sense gives you blindsight 40 ft.            |
+| 5th   | [[rangoric-srd/spells/Wall of Stone\|Wall of Stone]]                                 | Creates a stone wall that can be shaped.           |
+| 6th   | [[rangoric-srd/spells/Conjure Black Pudding\|Conjure Black Pudding]] (M)             | Summon a black pudding.                            |
+| 7th   | [[rangoric-srd/spells/Statue\|Statue]] (M) (looking like a stalagmite or stalactite) | Subject can become a statue at will.               |
+| 8th   | [[rangoric-srd/spells/Earthquake\|Earthquake]]                                       | Intense tremor shakes 5-ft./level radius.          |
+| 9th   | [[rangoric-srd/spells/Imprisonment\|Imprisonment]]                                   | Entombs subject beneath the earth.                 |

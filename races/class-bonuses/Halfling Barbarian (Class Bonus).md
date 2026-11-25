@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Halfling Barbarian
 
-*A [[rangoric-srd/races/Halfling|halfling]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Barbarian#^barbarian-class-bonuses|barbarian]] level.*
+_A [[rangoric-srd/races/Halfling|halfling]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Barbarian#^barbarian-class-bonuses|barbarian]] level._
 
 Add a +1/2 bonus to [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] or +1/3 to the bonus from the [[rangoric-srd/class-options/rage-powers/Surprise Accuracy (Rage Power)|surprise accuracy]] [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]].

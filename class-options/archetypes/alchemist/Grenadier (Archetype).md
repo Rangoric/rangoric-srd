@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Grenadier
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-archetypes|alchemist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-archetypes|alchemist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Grenadiers train to exercise their talents in the thick of battle, even when not under the influence of their mutagens. They learn methods of combining weapon attacks with their alchemical magic, and sacrifice skill with poisons in order to become more adept at using alchemical bombs or using alchemical items in conjunction with their martial skills. As an unusual side effect of their skill at handling bombs and alchemical items with increased speed, grenadiers master the ability to drink potions, elixirs, and mutagens quickly and without exposing themselves to peril while doing so. A grenadier has the following class features. The grenadier is common among hobgoblin alchemists.
 

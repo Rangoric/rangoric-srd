@@ -35,16 +35,16 @@ tags: [rangoric, rangoric/spell]
 
 # Magic Weapon
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Apl 1, Blr 1, Clr 1, Fhn 1, Inq 1, Mag 1, Msl 1, Occ 1, Pal 1, Sha 1, Sor/Wiz 1, War 1
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Weapon touched
-  - **Duration**: 1 min./level
-  - **Saving Throw**: Will negates (harmless, object)
-  - **Spell Resistance**: Yes (harmless, object)
+- **Level**: Apl 1, Blr 1, Clr 1, Fhn 1, Inq 1, Mag 1, Msl 1, Occ 1, Pal 1, Sha 1, Sor/Wiz 1, War 1
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Weapon touched
+- **Duration**: 1 min./level
+- **Saving Throw**: Will negates (harmless, object)
+- **Spell Resistance**: Yes (harmless, object)
 
 Magic weapon gives a weapon a +1 enhancement bonus on attack and damage rolls. (An enhancement bonus does not stack with a masterwork weapon’s +1 bonus on attack rolls.)
 

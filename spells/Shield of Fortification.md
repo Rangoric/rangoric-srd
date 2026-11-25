@@ -28,15 +28,15 @@ tags: [rangoric, rangoric/spell]
 
 # Shield of Fortification
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Clr 2, Inq 1, Pal 1, Psy 2
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: Fortitude negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Clr 2, Inq 1, Pal 1, Psy 2
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 minute/level
+- **Saving Throw**: Fortitude negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-You create a magical barrier that protects a target's vital areas. When the target is struck by a critical hit or a sneak attack, there is a 25% chance that the critical hit or sneak attack is negated and damage is instead rolled normally. This benefit does not stack with other effects that can turn critical hits or sneak attacks into normal attacks, such as the *fortification* armor special ability.
+You create a magical barrier that protects a target's vital areas. When the target is struck by a critical hit or a sneak attack, there is a 25% chance that the critical hit or sneak attack is negated and damage is instead rolled normally. This benefit does not stack with other effects that can turn critical hits or sneak attacks into normal attacks, such as the _fortification_ armor special ability.

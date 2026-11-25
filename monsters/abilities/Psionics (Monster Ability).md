@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Psionics (Monster Ability)
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Spell-like]] (Sp). In a stat block*: “psionics”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Spell-like]] (Sp). In a stat block_: “psionics”, on the Special Attacks line.
 
 These are spell-like abilities that a creature generates with the power of its mind. Psionic abilities are usually usable at will.
 

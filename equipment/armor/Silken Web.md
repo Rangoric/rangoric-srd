@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/armor]
 
 # Silken Web
 
-*Light armor.* Cost 100 gp; Armor Bonus 0; Maximum Dex Bonus +12; Armor Check Penalty 0; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 10 lb. ^stats
+_Light armor._ Cost 100 gp; Armor Bonus 0; Maximum Dex Bonus +12; Armor Check Penalty 0; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 10 lb. ^stats
 
 This very light and flexible cloth is woven from the silk of the fearsome ebon spider. It offers no special protection on its own, although the material is strong enough to hold enchantments. A +2 silken web suit for example, would grant its wearer a +2 enhancement bonus to his AC. Silken web clothing can also hold any magical armor quality unless otherwise specified.

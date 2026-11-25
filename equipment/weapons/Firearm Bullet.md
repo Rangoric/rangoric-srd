@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/weapon]
 
 # Firearm Bullet
 
-*Ammunition for firearms.* Cost 1 gp; Weight —; Firearm bullet, 30: Cost 30 gp, Weight 1/2 lb. ^stats
+_Ammunition for firearms._ Cost 1 gp; Weight —; Firearm bullet, 30: Cost 30 gp, Weight 1/2 lb. ^stats
 
 The ammunition of most one-handed and two-handed firearms, firearm bullets typically take the form of small balls of lead or some other metal.

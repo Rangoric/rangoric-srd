@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Regenerative Stance
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
 The barbarian can continually replenish her health. At the start of her turn, she gains 1 temporary hit point for every 4 levels she has (up to 5 hit points per round), to a maximum of 2 temporary hit points per Hit Die; they disappear when her rage ends. This is a stance rage power. A barbarian must be at least 4th level to select this rage power.

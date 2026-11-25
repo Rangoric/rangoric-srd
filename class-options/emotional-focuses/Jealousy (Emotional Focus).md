@@ -14,13 +14,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Jealousy
 
-*An [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-emotional-focus|emotional focus]] for the [[rangoric-srd/classes/Spiritualist (Class)|spiritualist]]’s [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-phantom|phantom]].*
+_An [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-emotional-focus|emotional focus]] for the [[rangoric-srd/classes/Spiritualist (Class)|spiritualist]]’s [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-phantom|phantom]]._
 
 A phantom with this emotional focus is covetous of everything—its master, those who wish to do it harm, and any who do not pay attention to it. It demands to be the center of attention at all times. The forms these phantoms take are as diverse as the forms of jealousy in life. Often they take pleasing forms, wishing to draw others in. Other times they take the form of crawling and lurching things, grasping at all they covet when they come within reach. The auras of these needy phantoms quickly change in color, going from an oily green to orange, to brownish red as they swirl through emotions in their efforts to gain the objects of their dark desires.
 
-*Skills*: The phantom gains a number of ranks in [[rangoric-srd/skills/Appraise|Appraise]] and [[rangoric-srd/skills/Deception|Deception]] equal to its number of Hit Dice. While confined in the spiritualist’s consciousness, the phantom grants the spiritualist [[rangoric-srd/feats/Skill Focus|Skill Focus]] in each of these skills.
+_Skills_: The phantom gains a number of ranks in [[rangoric-srd/skills/Appraise|Appraise]] and [[rangoric-srd/skills/Deception|Deception]] equal to its number of Hit Dice. While confined in the spiritualist’s consciousness, the phantom grants the spiritualist [[rangoric-srd/feats/Skill Focus|Skill Focus]] in each of these skills.
 
-*Good Saves*: Reflex and Will.
+_Good Saves_: Reflex and Will.
 
 **Deceitful**: The phantom gains [[rangoric-srd/feats/Skill Focus|Skill Focus]] ([[rangoric-srd/skills/Deception|Deception]] or [[rangoric-srd/skills/Imitation|Imitation]]) as a bonus feat.
 

@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Evasive
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
 The vigilante is hard to catch with area attacks. He gains the [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]] ability, and at 12th level, he gains the [[rangoric-srd/class-options/rogue-talents/Improved Evasion (Rogue Talent)|improved evasion]] ability.
 

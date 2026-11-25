@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/bows]
 
 # Greatbow
 
-*Exotic ranged weapon.* Cost 250 gp; Dmg 1d8 (S), 1d10 (M); Critical x3; Range Increment 90 ft.; Weight 5 lb.; Type Piercing. ^stats
+_Exotic ranged weapon._ Cost 250 gp; Dmg 1d8 (S), 1d10 (M); Critical x3; Range Increment 90 ft.; Weight 5 lb.; Type Piercing. ^stats
 
 Although most elven scouts and hunters prefer the smaller size and greater range of the longbow, select groups of soldiers train with greatbows, typically using them from battle platforms built high in great trees. A Medium greatbow is 6 ft. or more in height when strung, and only long hours of training will allow an archer to proficiently use this weapon.
 

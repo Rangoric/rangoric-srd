@@ -22,14 +22,14 @@ tags: [rangoric, rangoric/spell]
 
 # Glibness
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Brd 3, Mes 3, Skd 3
-  - **Components**: S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 10 min./level (D)
+- **Level**: Brd 3, Mes 3, Skd 3
+- **Components**: S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 10 min./level (D)
 
 Your speech becomes fluent and more believable. You gain a +30 bonus on [[rangoric-srd/skills/Deception|Deception]] checks made to convince another of the truth of your words. (This bonus doesn’t apply to other uses of the Deception skill, such as [[rangoric-srd/combat/Combat Special Attacks#Feint|feinting]] in combat, creating a diversion to hide, or communicating a hidden message via innuendo.)
 

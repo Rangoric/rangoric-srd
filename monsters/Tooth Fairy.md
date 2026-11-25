@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Tooth Fairy
 
-  - Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]] (Extraplanar)
-  - **Hit Dice**: 2d6–2 (5 hp)
-  - **Initiative**: +2
-  - **Speed**: 15 ft. (3 squares), fly 60 ft. (perfect)
-  - **Armor Class**: 16 (+2 Dex, +4 size), touch 16, flat-footed 14
-  - **Base Attack**: +1; **CMB**: –1 (+3 dirty trick, +7 steal); **CMD**: 6 (8 vs. steal)
-  - **Attack**: +1 pliers +8 melee (1d4–2/19–20/×2) or bite +12 melee (1d4–3 plus [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
-  - **Full Attack**: +1 pliers +8 melee (1d4–2/19–20/×2) and bite +7 melee (1d4–3 plus [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
-  - **Space/Reach**: 1 ft./0 ft. (5 ft. with pliers)
-  - **Special Attacks**: Death throes, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] (1d3 rounds, DC 11), [[rangoric-srd/monsters/abilities/Pliers|pliers]], [[rangoric-srd/monsters/abilities/Tricky Thief|tricky thief]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 2/cold iron
-  - **Saves**: Fort –1, Ref +5, Will +5
-  - **Abilities**: Str 5, Dex 14, Con 9, Int 8, Wis 15, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Athletics|Athletics]] –3 (–16 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +19
-  - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Improved Steal|Improved Steal]], [[rangoric-srd/feats/Greater Steal|Greater Steal]]
-  - **Environment**: Any urban or plains
-  - **Organization**: Solitary, pair, or gang (3–12)
-  - **Challenge Rating**: 1/4
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]] (Extraplanar)
+- **Hit Dice**: 2d6–2 (5 hp)
+- **Initiative**: +2
+- **Speed**: 15 ft. (3 squares), fly 60 ft. (perfect)
+- **Armor Class**: 16 (+2 Dex, +4 size), touch 16, flat-footed 14
+- **Base Attack**: +1; **CMB**: –1 (+3 dirty trick, +7 steal); **CMD**: 6 (8 vs. steal)
+- **Attack**: +1 pliers +8 melee (1d4–2/19–20/×2) or bite +12 melee (1d4–3 plus [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
+- **Full Attack**: +1 pliers +8 melee (1d4–2/19–20/×2) and bite +7 melee (1d4–3 plus [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
+- **Space/Reach**: 1 ft./0 ft. (5 ft. with pliers)
+- **Special Attacks**: Death throes, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] (1d3 rounds, DC 11), [[rangoric-srd/monsters/abilities/Pliers|pliers]], [[rangoric-srd/monsters/abilities/Tricky Thief|tricky thief]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 2/cold iron
+- **Saves**: Fort –1, Ref +5, Will +5
+- **Abilities**: Str 5, Dex 14, Con 9, Int 8, Wis 15, Cha 14
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Athletics|Athletics]] –3 (–16 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +19
+- **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Improved Steal|Improved Steal]], [[rangoric-srd/feats/Greater Steal|Greater Steal]]
+- **Environment**: Any urban or plains
+- **Organization**: Solitary, pair, or gang (3–12)
+- **Challenge Rating**: 1/4
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Tooth fairies are fey created when a willful child's tooth (or, rarely, a whole child) is buried in a place with strong connections to the mysterious realm of the fey. Wicked and capricious, tooth fairies delight in spreading fear and pain, and have a perverse need to steal the teeth of humanoid creatures.
 
@@ -72,7 +72,7 @@ Tooth fairys speak Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 5th; concentration +7): At will—*[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Open-Close|open/close]]*; 1/day—*[[rangoric-srd/spells/Invisibility|invisibility]]* (self only), *[[rangoric-srd/spells/Sleep|sleep]]* (DC 13).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 5th; concentration +7): At will—_[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Open-Close|open/close]]_; 1/day—_[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only), _[[rangoric-srd/spells/Sleep|sleep]]_ (DC 13).
 
 **Death Throes (Su)**: When killed, a tooth fairy explodes into a cloud of sparkling white fairy dust that clings to creatures within 5 feet. This glittery substance has a stench so foul that it sickens any creature coated by it for 1d4 rounds (Fortitude DC 10 negates). This is a poison effect. The save DC is Constitution-based.
 

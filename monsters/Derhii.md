@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Derhii
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
-  - **Hit Dice**: 7d10+21 (59 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares), climb 30 ft., fly 60 ft. (poor)
-  - **Armor Class**: 18 (+3 Dex, +6 natural, –1 size), touch 12, flat-footed 15
-  - **Base Attack**: +7; **CMB**: +13; **CMD**: 26
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Falchion|falchion]] +12 melee (2d6+7/18–20) or slam +11 melee (1d6+5) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +9 ranged (1d8+5)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Falchion|falchion]] +12/+7 melee (2d6+7/18–20); or 2 slams +11 melee (1d6+5); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +9 ranged (1d8+5)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Aerial Charge (Derhii)|Aerial charge]], [[rangoric-srd/monsters/abilities/Knockdown|knockdown]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Booming Voice|booming voice]]
-  - **Saves**: Fort +5, Ref +8, Will +8
-  - **Abilities**: Str 21, Dex 16, Con 17, Int 9, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +14
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics, Perception)
-  - **Environment**: Warm forests and mountains
-  - **Organization**: Solitary, pair, troop (3–5), or tribe (8–48)
-  - **Challenge Rating**: 5
-  - **Treasure**: Standard (masterwork falchion, 4 javelins, other treasure)
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
+- **Hit Dice**: 7d10+21 (59 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares), climb 30 ft., fly 60 ft. (poor)
+- **Armor Class**: 18 (+3 Dex, +6 natural, –1 size), touch 12, flat-footed 15
+- **Base Attack**: +7; **CMB**: +13; **CMD**: 26
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Falchion|falchion]] +12 melee (2d6+7/18–20) or slam +11 melee (1d6+5) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +9 ranged (1d8+5)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Falchion|falchion]] +12/+7 melee (2d6+7/18–20); or 2 slams +11 melee (1d6+5); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +9 ranged (1d8+5)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Aerial Charge (Derhii)|Aerial charge]], [[rangoric-srd/monsters/abilities/Knockdown|knockdown]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Booming Voice|booming voice]]
+- **Saves**: Fort +5, Ref +8, Will +8
+- **Abilities**: Str 21, Dex 16, Con 17, Int 9, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +14
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics, Perception)
+- **Environment**: Warm forests and mountains
+- **Organization**: Solitary, pair, troop (3–5), or tribe (8–48)
+- **Challenge Rating**: 5
+- **Treasure**: Standard (masterwork falchion, 4 javelins, other treasure)
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The derhii, or flying ape, is a carnivorous and dangerous form of the gentler earthbound ape. Derhii resemble gorillas with the enormous black-and-gray wings of buzzards or vultures. They stand 9 feet tall and weigh 400 pounds.
 

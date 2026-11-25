@@ -40,25 +40,25 @@ tags: [rangoric, rangoric/monster]
 
 # Ice Elemental, Greater
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Air, Cold, Elemental, Extraplanar, Water)
-  - **Hit Dice**: 13d10+52 (123 hp)
-  - **Initiative**: +8
-  - **Speed**: 20 ft. (4 squares), burrow (ice and snow only) 20 ft., swim 60 ft.
-  - **Armor Class**: 23 (+4 Dex, +1 dodge, +10 natural, –2 size), touch 13, flat-footed 18
-  - **Base Attack**: +13; **CMB**: +24; **CMD**: 39 (can't be tripped)
-  - **Attack**: Slam +20 melee (2d8+9 plus 2d6 cold)
-  - **Full Attack**: 2 slams +20 melee (2d8+9 plus 2d6 cold)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/elemental/Ice Elemental#^numbing-cold|Numbing cold]] (DC 20)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Snow Vision|snow vision]], [[rangoric-srd/monsters/elemental/Ice Elemental#^ice-glide|ice glide]], [[rangoric-srd/monsters/abilities/Icewalking|icewalking]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], vulnerable to fire
-  - **Saves**: Fort +12, Ref +14, Will +4
-  - **Abilities**: Str 28, Dex 18, Con 19, Int 8, Wis 11, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +15
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
-  - **Environment**: Any land or water (Elemental Plane of Water)
-  - **Organization**: Solitary, pair, or gang (3–8)
-  - **Challenge Rating**: 9
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Air, Cold, Elemental, Extraplanar, Water)
+- **Hit Dice**: 13d10+52 (123 hp)
+- **Initiative**: +8
+- **Speed**: 20 ft. (4 squares), burrow (ice and snow only) 20 ft., swim 60 ft.
+- **Armor Class**: 23 (+4 Dex, +1 dodge, +10 natural, –2 size), touch 13, flat-footed 18
+- **Base Attack**: +13; **CMB**: +24; **CMD**: 39 (can't be tripped)
+- **Attack**: Slam +20 melee (2d8+9 plus 2d6 cold)
+- **Full Attack**: 2 slams +20 melee (2d8+9 plus 2d6 cold)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/elemental/Ice Elemental#^numbing-cold|Numbing cold]] (DC 20)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Snow Vision|snow vision]], [[rangoric-srd/monsters/elemental/Ice Elemental#^ice-glide|ice glide]], [[rangoric-srd/monsters/abilities/Icewalking|icewalking]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], vulnerable to fire
+- **Saves**: Fort +12, Ref +14, Will +4
+- **Abilities**: Str 28, Dex 18, Con 19, Int 8, Wis 11, Cha 11
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +15
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
+- **Environment**: Any land or water (Elemental Plane of Water)
+- **Organization**: Solitary, pair, or gang (3–8)
+- **Challenge Rating**: 9
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —

@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Vampiric Mist
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Air, Water)
-  - **Hit Dice**: 4d8+12 (30 hp)
-  - **Initiative**: +8
-  - **Speed**: fly 50 ft. (perfect)
-  - **Armor Class**: 14 (+4 Dex), touch 14, flat-footed 10
-  - **Base Attack**: +3; **CMB**: —; **CMD**: —
-  - **Attack**: Touch +7 melee (bleed and blood siphon)
-  - **Full Attack**: Touch +7 melee (bleed and blood siphon)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d6)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Sense Blood|sense blood]], [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Blood Overdose|blood overdose]], [[rangoric-srd/monsters/abilities/Misty Form|misty form]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic, vulnerable to fire
-  - **Saves**: Fort +4, Ref +5, Will +5
-  - **Abilities**: Str —, Dex 19, Con 16, Int 7, Wis 13, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +11
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Temperate or warm swamps or underground
-  - **Organization**: Solitary, pair, or gang (3–6)
-  - **Challenge Rating**: 3
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Air, Water)
+- **Hit Dice**: 4d8+12 (30 hp)
+- **Initiative**: +8
+- **Speed**: fly 50 ft. (perfect)
+- **Armor Class**: 14 (+4 Dex), touch 14, flat-footed 10
+- **Base Attack**: +3; **CMB**: —; **CMD**: —
+- **Attack**: Touch +7 melee (bleed and blood siphon)
+- **Full Attack**: Touch +7 melee (bleed and blood siphon)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d6)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Sense Blood|sense blood]], [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Blood Overdose|blood overdose]], [[rangoric-srd/monsters/abilities/Misty Form|misty form]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic, vulnerable to fire
+- **Saves**: Fort +4, Ref +5, Will +5
+- **Abilities**: Str —, Dex 19, Con 16, Int 7, Wis 13, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +11
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Temperate or warm swamps or underground
+- **Organization**: Solitary, pair, or gang (3–6)
+- **Challenge Rating**: 3
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Often mistaken for a vampire in gaseous form or an unusual type of air elemental, the vampiric mist is in fact a strange form of aberrant life. With an amorphous body that consists as much of fluid as it does of air, this creature dwells in swamps or moist underground regions where its vulnerability to heat isn't as much of a concern.
 

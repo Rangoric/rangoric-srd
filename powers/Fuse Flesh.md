@@ -31,7 +31,7 @@ Psychometabolism
 **Duration:** 1 round/level  
 **Saving Throw:** Fortitude negates and Fortitude partial; see text  
 **Power Resistance:** Yes  
-**Power Points:** 11  
+**Power Points:** 11
 
 You cause the touched subject’s flesh to ripple, grow together, and fuse into a nearly seamless whole. The subject is forced into a fetal position (if humanoid), with only the vaguest outline of its folded arms and legs visible below the all-encompassing wave of flesh. The subject retains the ability to breathe, eat, and excrete, but may lose the use of its senses (see below). If the sudden transformation would prove fatal to the creature (such as fusing a swimming airbreathing subject, or a flying subject), the subject gets a +4 bonus on the save. Unless it loses the use of its senses (see below), the creature can still perform purely mental actions, such as manifesting powers.
 

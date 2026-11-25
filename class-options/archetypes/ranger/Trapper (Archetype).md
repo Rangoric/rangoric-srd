@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Trapper
 
-*A [[rangoric-srd/classes/Ranger#^ranger-archetypes|ranger]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Ranger#^ranger-archetypes|ranger]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A trapper is a ranger who focuses exclusively on traps, rather than learning conventional magic. A trapper has the following class features.
 

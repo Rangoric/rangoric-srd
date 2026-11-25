@@ -30,15 +30,15 @@ tags: [rangoric, rangoric/spell]
 
 # Polar Midnight
 
-*Transmutation \[Cold, Darkness\]*
+_Transmutation \[Cold, Darkness\]_
 
-  - **Level**: Clr 9, Drd 9, Sha 9, Wit 9
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: 30-ft. spread
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Fortitude partial
-  - **Spell Resistance**: Yes
+- **Level**: Clr 9, Drd 9, Sha 9, Wit 9
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: 30-ft. spread
+- **Duration**: 1 round/level
+- **Saving Throw**: Fortitude partial
+- **Spell Resistance**: Yes
 
-You plunge an area into the brutal chill of the arctic night. Illumination conditions are dropped by two steps (though only to darkness, not supernatural darkness), and all creatures in the area take 5d6 points of cold damage and 1d6 points of Dexterity damage per round. A successful Fortitude save each round negates the Dexterity damage but not the cold damage. Any creature that doesn't move on its turn becomes encased in a sheath of ice equivalent to *[[rangoric-srd/spells/Wall of Ice|wall of ice]]*, is helpless, and cannot breathe. Corpses in the area for longer than 1 round are transmuted into solid ice; reviving the icy corpse requires *[[rangoric-srd/spells/True Resurrection|true resurrection]]*, *[[rangoric-srd/spells/Miracle|miracle]]*, or *[[rangoric-srd/spells/Wish|wish]]*. As a move action, you may move the area of effect up to 10 feet in any direction.
+You plunge an area into the brutal chill of the arctic night. Illumination conditions are dropped by two steps (though only to darkness, not supernatural darkness), and all creatures in the area take 5d6 points of cold damage and 1d6 points of Dexterity damage per round. A successful Fortitude save each round negates the Dexterity damage but not the cold damage. Any creature that doesn't move on its turn becomes encased in a sheath of ice equivalent to _[[rangoric-srd/spells/Wall of Ice|wall of ice]]_, is helpless, and cannot breathe. Corpses in the area for longer than 1 round are transmuted into solid ice; reviving the icy corpse requires _[[rangoric-srd/spells/True Resurrection|true resurrection]]_, _[[rangoric-srd/spells/Miracle|miracle]]_, or _[[rangoric-srd/spells/Wish|wish]]_. As a move action, you may move the area of effect up to 10 feet in any direction.

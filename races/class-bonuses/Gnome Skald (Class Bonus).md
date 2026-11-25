@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Gnome Skald
 
-*A [[rangoric-srd/races/Gnome|gnome]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Skald#^skald-class-bonuses|skald]] level.*
+_A [[rangoric-srd/races/Gnome|gnome]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Skald#^skald-class-bonuses|skald]] level._
 
 Add a +1 bonus on [[rangoric-srd/rules/Concentration (Check)|concentration checks]] when casting skald spells.

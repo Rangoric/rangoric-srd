@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Improved Evasion
 
-*An [[rangoric-srd/classes/Rogue#^rogue-advanced-talents|advanced talent]] (Ex).*
+_An [[rangoric-srd/classes/Rogue#^rogue-advanced-talents|advanced talent]] (Ex)._
 
 This works like evasion, except that while the rogue still takes no damage on a successful Reflex saving throw against attacks, she henceforth takes only half damage on a failed save. A [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] rogue does not gain the benefit of improved evasion.

@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/word-of-power]
 
 # Stun
 
-*One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Power Words|Power group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]].*
+_One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Power Words|Power group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]]._
 
 **School** enchantment (compulsion) \[mind-affecting\]
 
@@ -32,7 +32,7 @@ tags: [rangoric, rangoric/word-of-power]
 This effect word causes a living creature to become stunned, whether or not the creature can hear the wordspell with this effect word. This effect word's duration depends on the target's current hit point total. Any creature that currently has 151 hit points or more is unaffected.
 
 | Hit Points | Duration   |
-|------------|------------|
+| ---------- | ---------- |
 | 50 or less | 4d4 rounds |
 | 51–100     | 2d4 rounds |
 | 101–150    | 1d4 rounds |

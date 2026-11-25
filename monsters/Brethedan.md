@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Brethedan
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 7d8+35 (66 hp)
-  - **Initiative**: +0
-  - **Speed**: 0 ft. (0 squares), fly 30 ft. (good)
-  - **Armor Class**: 17 (+8 natural, –1 size), touch 9, flat-footed 17
-  - **Base Attack**: +5; **CMB**: +10 (+14 grapple); **CMD**: 20 (can't be tripped)
-  - **Attack**: Slam +9 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: 2 slams +9 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d6+4), engulf (DC 17, 1d6 acid and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 120 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 2 (acid), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Adaptation|adaptation]], [[rangoric-srd/monsters/abilities/Combine|combine]]
-  - **Saves**: Fort +7, Ref +2, Will +9
-  - **Abilities**: Str 19, Dex 11, Con 20, Int 12, Wis 14, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +6
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)
-  - **Environment**: Any sky
-  - **Organization**: Solitary, pair, or flotilla (3–8)
-  - **Challenge Rating**: 5
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 7d8+35 (66 hp)
+- **Initiative**: +0
+- **Speed**: 0 ft. (0 squares), fly 30 ft. (good)
+- **Armor Class**: 17 (+8 natural, –1 size), touch 9, flat-footed 17
+- **Base Attack**: +5; **CMB**: +10 (+14 grapple); **CMD**: 20 (can't be tripped)
+- **Attack**: Slam +9 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: 2 slams +9 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d6+4), engulf (DC 17, 1d6 acid and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 120 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 2 (acid), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Adaptation|adaptation]], [[rangoric-srd/monsters/abilities/Combine|combine]]
+- **Saves**: Fort +7, Ref +2, Will +9
+- **Abilities**: Str 19, Dex 11, Con 20, Int 12, Wis 14, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +6
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)
+- **Environment**: Any sky
+- **Organization**: Solitary, pair, or flotilla (3–8)
+- **Challenge Rating**: 5
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Brethedans are an adaptive race of floating, telepathic creatures that live on gas giant worlds. Though highly intelligent, they disdain physical tools, likely because of the lack of raw materials available in the clouds of their vast homes. Instead, brethedans have evolved to solve problems by combining and modifying their bodies or producing tailored biological agents inside themselves. Though humanoids rarely understand the placid race's obscure and alien goals, brethedans do sometimes travel to and even colonize other gaseous worlds, and are believed to be the first creatures to have tamed oma for use as living spaceships. A typical Brethedan is 10 feet long and weighs 200 pounds.
 

@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Rusting Grasp
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Sp) of the [[rangoric-srd/class-options/mysteries/Metal Mystery|metal]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Sp) of the [[rangoric-srd/class-options/mysteries/Metal Mystery|metal]] mystery._
 
-Once per day as a standard action, you can perform a melee touch attack that rusts iron, as the *[[rangoric-srd/spells/Rusting Grasp|rusting grasp]]* spell. At 11th level, and every four levels thereafter, you can use this ability an additional time per day. You must be at least 7th level to select this revelation.
+Once per day as a standard action, you can perform a melee touch attack that rusts iron, as the _[[rangoric-srd/spells/Rusting Grasp|rusting grasp]]_ spell. At 11th level, and every four levels thereafter, you can use this ability an additional time per day. You must be at least 7th level to select this revelation.

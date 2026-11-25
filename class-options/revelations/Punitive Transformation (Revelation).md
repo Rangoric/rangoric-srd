@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Punitive Transformation
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Waves Mystery|waves]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Waves Mystery|waves]] mystery._
 
-You can transform an opponent into a harmless animal as if using *[[rangoric-srd/spells/Baleful Polymorph|baleful polymorph]]*. This transformation lasts 1 round per oracle level. Transforming another creature causes the first to immediately revert to normal. You may use this ability a number of times per day equal to your Charisma modifier. You must be at least 7th level before selecting this revelation.
+You can transform an opponent into a harmless animal as if using _[[rangoric-srd/spells/Baleful Polymorph|baleful polymorph]]_. This transformation lasts 1 round per oracle level. Transforming another creature causes the first to immediately revert to normal. You may use this ability a number of times per day equal to your Charisma modifier. You must be at least 7th level before selecting this revelation.

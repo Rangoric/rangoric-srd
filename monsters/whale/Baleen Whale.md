@@ -36,26 +36,26 @@ tags: [rangoric, rangoric/monster]
 
 # Baleen Whale
 
-  - Gargantuan Animal
-  - **Hit Dice**: 12d8+78 (132 hp)
-  - **Initiative**: +1
-  - **Speed**: Swim 40 ft. (8 squares)
-  - **Armor Class**: 16 (–4 size, +1 Dex, +9 natural), touch 7, flat-footed 15
-  - **Base Attack**: +9; **CMB**: +25; **CMD**: 36 (can't be tripped)
-  - **Attack**: Tail slap +17 melee (1d8+18)
-  - **Full Attack**: Tail slap +17 melee (1d8+18)
-  - **Space/Reach**: 20 ft./15 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: Blindsight 120 ft., hold breath, low-light vision
-  - **Saves**: Fort +14, Ref +9, Will +5
-  - **Abilities**: Str 35, Dex 13, Con 22, Int 2, Wis 12, Cha 6
-  - **Skills**: Athletics +19 (+27 swimming), Perception +19\*
-  - **Feats**: Diehard, Endurance, Skill Focus (Perception), Toughness (2)
-  - **Environment**: Warm aquatic
-  - **Organization**: Solitary
-  - **Challenge Rating**: 6
-  - **Advancement**: 13–18 HD (Gargantuan); 19–36 HD (Colossal)
-  - **Level Adjustment**: —
+- Gargantuan Animal
+- **Hit Dice**: 12d8+78 (132 hp)
+- **Initiative**: +1
+- **Speed**: Swim 40 ft. (8 squares)
+- **Armor Class**: 16 (–4 size, +1 Dex, +9 natural), touch 7, flat-footed 15
+- **Base Attack**: +9; **CMB**: +25; **CMD**: 36 (can't be tripped)
+- **Attack**: Tail slap +17 melee (1d8+18)
+- **Full Attack**: Tail slap +17 melee (1d8+18)
+- **Space/Reach**: 20 ft./15 ft.
+- **Special Attacks**: —
+- **Special Qualities**: Blindsight 120 ft., hold breath, low-light vision
+- **Saves**: Fort +14, Ref +9, Will +5
+- **Abilities**: Str 35, Dex 13, Con 22, Int 2, Wis 12, Cha 6
+- **Skills**: Athletics +19 (+27 swimming), Perception +19\*
+- **Feats**: Diehard, Endurance, Skill Focus (Perception), Toughness (2)
+- **Environment**: Warm aquatic
+- **Organization**: Solitary
+- **Challenge Rating**: 6
+- **Advancement**: 13–18 HD (Gargantuan); 19–36 HD (Colossal)
+- **Level Adjustment**: —
 
 The statistics here describe a plankton-feeding whale between 30 and 60 feet long, such as gray, humpback, and right whales.
 

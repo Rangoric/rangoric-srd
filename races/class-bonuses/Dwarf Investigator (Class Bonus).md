@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Dwarf Investigator
 
-*A [[rangoric-srd/races/Dwarf|dwarf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Investigator#^investigator-class-bonuses|investigator]] level.*
+_A [[rangoric-srd/races/Dwarf|dwarf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Investigator#^investigator-class-bonuses|investigator]] level._
 
 Gain a +1/4 bonus on [[rangoric-srd/skills/Perception|Perception]] checks when underground and +1/2 bonus to the investigator's [[rangoric-srd/classes/Investigator#^investigator-trap-sense|trap sense]] ability regarding stone traps.

@@ -34,7 +34,7 @@ Metacreativity (Creation) \[see text\]
 **Duration:** Concentration + 1 round/ level  
 **Saving Throw:** Reflex half or Fortitude half; see text  
 **Power Resistance:** No  
-**Power Points:** 5  
+**Power Points:** 5
 
 Upon manifesting this power, you choose cold, electricity, fire, or sonic. You create an immobile sheet of energy of the chosen type formed out of unstable ectoplasm. One side of the wall, selected by you, sends forth waves of energy, dealing 2d6 points of damage to creatures and objects within 10 feet and 1d6 points of damage to those beyond 10 feet but within 20 feet. In addition, anyone passing though the energy wall takes 2d6 points of damage +1 point per manifester level (maximum +20).
 

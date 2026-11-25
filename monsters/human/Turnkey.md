@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Turnkey
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 5d10+10 (37 hp)
-  - **Initiative**: +0
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 19 (+9 armor), touch 10, flat-footed 19
-  - **Base Attack**: +5; **CMB**: +8 (+10 bull rush); **CMD**: 18 (20 vs. bull rush)
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Guisarme|guisarme]] +9 melee (2d4+4/×3) or [[rangoric-srd/equipment/weapons/Spiked Gauntlet|spiked gauntlet]] +8 melee (1d4+3) or [[rangoric-srd/equipment/weapons/Sap|sap]] +8 melee (1d6+3 nonlethal)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Guisarme|guisarme]] +9 melee (2d4+4/×3); or [[rangoric-srd/equipment/weapons/Spiked Gauntlet|spiked gauntlet]] +8 melee (1d4+3); or [[rangoric-srd/equipment/weapons/Sap|sap]] +8 melee (1d6+3 nonlethal)
-  - **Space/Reach**: 5 ft./5 ft. (10 ft. with guisarme)
-  - **Special Attacks**: —
-  - **Special Qualities**: —
-  - **Saves**: Fort +5, Ref +1, Will +0
-  - **Abilities**: Str 16, Dex 11, Con 12, Int 8, Wis 9, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +2
-  - **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 3
-  - **Treasure**: NPC gear (combat gear: tanglefoot bags (2); other gear: +1 half-plate, masterwork guisarme, sap, spiked gauntlet)
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 5d10+10 (37 hp)
+- **Initiative**: +0
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 19 (+9 armor), touch 10, flat-footed 19
+- **Base Attack**: +5; **CMB**: +8 (+10 bull rush); **CMD**: 18 (20 vs. bull rush)
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Guisarme|guisarme]] +9 melee (2d4+4/×3) or [[rangoric-srd/equipment/weapons/Spiked Gauntlet|spiked gauntlet]] +8 melee (1d4+3) or [[rangoric-srd/equipment/weapons/Sap|sap]] +8 melee (1d6+3 nonlethal)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Guisarme|guisarme]] +9 melee (2d4+4/×3); or [[rangoric-srd/equipment/weapons/Spiked Gauntlet|spiked gauntlet]] +8 melee (1d4+3); or [[rangoric-srd/equipment/weapons/Sap|sap]] +8 melee (1d6+3 nonlethal)
+- **Space/Reach**: 5 ft./5 ft. (10 ft. with guisarme)
+- **Special Attacks**: —
+- **Special Qualities**: —
+- **Saves**: Fort +5, Ref +1, Will +0
+- **Abilities**: Str 16, Dex 11, Con 12, Int 8, Wis 9, Cha 10
+- **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +2
+- **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 3
+- **Treasure**: NPC gear (combat gear: tanglefoot bags (2); other gear: +1 half-plate, masterwork guisarme, sap, spiked gauntlet)
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A turnkey is a [[rangoric-srd/monsters/human/Human|human]] with 5 levels of [[rangoric-srd/classes/Warrior|warrior]]. Turnkeys are jailers and wardens, walking through prison halls and keeping the inmates in line with public beatings. Though dim-witted, most turnkeys are experienced enough to see through attempts to deceive them unless the talker is quite clever.
 

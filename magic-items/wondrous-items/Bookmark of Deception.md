@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Bookmark of Deception
 
-This bookmark alters the book that holds it so that it appears to be another book entirely, even upon a thorough reading. The apparent book is determined when the bookmark is crafted, and is usually an especially boring or commonplace book such as a legal or religious text. The bookmark also protects itself and the book with *[[rangoric-srd/spells/Nondetection|nondetection]]*.
+This bookmark alters the book that holds it so that it appears to be another book entirely, even upon a thorough reading. The apparent book is determined when the bookmark is crafted, and is usually an especially boring or commonplace book such as a legal or religious text. The bookmark also protects itself and the book with _[[rangoric-srd/spells/Nondetection|nondetection]]_.
 
-Faint illusion; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Nondetection|nondetection]]*, *[[rangoric-srd/spells/Secret Page|secret page]]*; Price 1,500 gp; Cost 750 gp.
+Faint illusion; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Nondetection|nondetection]]_, _[[rangoric-srd/spells/Secret Page|secret page]]_; Price 1,500 gp; Cost 750 gp.

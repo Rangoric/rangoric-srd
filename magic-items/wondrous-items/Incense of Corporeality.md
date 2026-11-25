@@ -24,4 +24,4 @@ Until it's lit, this bitter-smelling stick looks much like ordinary [[rangoric-s
 
 Moderate wind halves the area; strong wind disperses the smoke, making it useless while the wind lasts. A stick burns for 1 hour. If it's put out, the rest of the stick loses its power.
 
-Moderate abjuration; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]*, *[[rangoric-srd/spells/Ghostbane Dirge|ghostbane dirge]]*; Price 1,400 gp; Cost 700 gp; Weight 1/2 lb.
+Moderate abjuration; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]_, _[[rangoric-srd/spells/Ghostbane Dirge|ghostbane dirge]]_; Price 1,400 gp; Cost 700 gp; Weight 1/2 lb.

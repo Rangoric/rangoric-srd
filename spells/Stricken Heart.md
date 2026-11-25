@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Stricken Heart
 
-*Necromancy \[Death\]*
+_Necromancy \[Death\]_
 
-  - **Level**: Inq 2, Mes 2, Psy 2, Sha 3, Sor/Wiz 2, Spi 2, Wit 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Inq 2, Mes 2, Psy 2, Sha 3, Sor/Wiz 2, Spi 2, Wit 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 This spell covers your hand with a writhing black aura. As part of casting the spell, you can make a melee touch attack that deals 2d6 points of negative energy damage and causes the target to be staggered for 1 round. If the attack is a critical hit, the target is staggered for 1 minute instead. Creatures immune to precision damage are immune to the staggered effect.

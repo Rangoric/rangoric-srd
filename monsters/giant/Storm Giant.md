@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Storm Giant
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
-  - **Hit Dice**: 19d8+114 (199 hp)
-  - **Initiative**: +2
-  - **Speed**: 50 ft. (10 squares), swim 40 ft. (35 ft., swim 30 ft. in armor)
-  - **Armor Class**: 28 (+6 armor, +2 Dex, +12 natural, –2 size), touch 10, flat-footed 26
-  - **Base Attack**: +14; **CMB**: +30; **CMD**: 42
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +27 melee (4d6+21/17–20) or slam +26 melee (2d6+14) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +15 ranged (3d6+14/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +27/+22/+17 melee (4d6+21/17–20); or 2 slams +26 melee (2d6+14); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +15/+10/+5 ranged (3d6+14/×3)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], militant, [[rangoric-srd/monsters/abilities/Water Breathing|water breathing]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity
-  - **Saves**: Fort +17, Ref +8, Will +13
-  - **Abilities**: Str 39, Dex 14, Con 23, Int 16, Wis 20, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Athletics|Athletics]] +22, [[rangoric-srd/skills/Craft|Craft]] (any one) +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Perception|Perception]] +27, [[rangoric-srd/skills/Performance|Performance]] (sing) +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +24
-  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (greatsword), [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
-  - **Environment**: Any warm
-  - **Organization**: Solitary or family (2–5 plus 1 sorcerer or cleric of 7th–10th level, 1–2 rocs, 2–6 griffons, and 2–8 sharks)
-  - **Challenge Rating**: 13
-  - **Treasure**: Standard (mwk breastplate, mwk composite longbow [+14 Str bonus] with 20 arrows, mwk greatsword, other treasure)
-  - **Alignment**: Often chaotic good
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
+- **Hit Dice**: 19d8+114 (199 hp)
+- **Initiative**: +2
+- **Speed**: 50 ft. (10 squares), swim 40 ft. (35 ft., swim 30 ft. in armor)
+- **Armor Class**: 28 (+6 armor, +2 Dex, +12 natural, –2 size), touch 10, flat-footed 26
+- **Base Attack**: +14; **CMB**: +30; **CMD**: 42
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +27 melee (4d6+21/17–20) or slam +26 melee (2d6+14) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +15 ranged (3d6+14/×3)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +27/+22/+17 melee (4d6+21/17–20); or 2 slams +26 melee (2d6+14); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +15/+10/+5 ranged (3d6+14/×3)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], militant, [[rangoric-srd/monsters/abilities/Water Breathing|water breathing]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity
+- **Saves**: Fort +17, Ref +8, Will +13
+- **Abilities**: Str 39, Dex 14, Con 23, Int 16, Wis 20, Cha 15
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Athletics|Athletics]] +22, [[rangoric-srd/skills/Craft|Craft]] (any one) +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Perception|Perception]] +27, [[rangoric-srd/skills/Performance|Performance]] (sing) +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +24
+- **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (greatsword), [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
+- **Environment**: Any warm
+- **Organization**: Solitary or family (2–5 plus 1 sorcerer or cleric of 7th–10th level, 1–2 rocs, 2–6 griffons, and 2–8 sharks)
+- **Challenge Rating**: 13
+- **Treasure**: Standard (mwk breastplate, mwk composite longbow [+14 Str bonus] with 20 arrows, mwk greatsword, other treasure)
+- **Alignment**: Often chaotic good
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 Storm giants tend toward tanned complexions, though some rare specimens have violet skin, deep violet or blue-black hair, and silvery gray or purple eyes. Such violet coloration is considered to be good luck among storm giants, and those possessing it tend to become leaders among their kind. Adults are typically 21 feet tall and weigh 12,000 pounds. Storm giants can live to be 600 years old. When at rest, they prefer to wear short, loose tunics belted at the waist, sandals or bare feet, and headbands. They wear a few pieces of simple but finely crafted jewelry, with anklets (favored by barefoot giants), rings, or circlets being most common. Yet when they outfit themselves for battle, they don shimmering breastplates and wield enormous greatswords and bows.
 
@@ -76,7 +76,7 @@ Storm giants speak Auran, Common, Draconic and Giant.
 
 Storm giants use weapons and spell-like abilities instead of throwing rocks. Their composite longbows have a range increment of 180 feet.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 15th): Constant—*[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]*; 2/day—*[[rangoric-srd/spells/Control Weather|control weather]]*, *[[rangoric-srd/spells/Levitate|levitate]]*; 1/day—*[[rangoric-srd/spells/Call Lightning|call lightning]]* (DC 15), *[[rangoric-srd/spells/Chain Lightning|chain lightning]]* (DC 18).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 15th): Constant—_[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_; 2/day—_[[rangoric-srd/spells/Control Weather|control weather]]_, _[[rangoric-srd/spells/Levitate|levitate]]_; 1/day—_[[rangoric-srd/spells/Call Lightning|call lightning]]_ (DC 15), _[[rangoric-srd/spells/Chain Lightning|chain lightning]]_ (DC 18).
 
 **Militant (Ex)**: Storm giants are proficient with all simple and all martial weapons.
 

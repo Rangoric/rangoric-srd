@@ -35,7 +35,7 @@ The divine emissary’s class skills (and the key ability for each) are: [[rango
 
 Skill Points at Each Level: 4 + Int modifier.
 
-Table: The Divine Emissary  
+Table: The Divine Emissary
 
 | Level | Special                                  |
 | ----- | ---------------------------------------- |
@@ -52,7 +52,7 @@ Table: The Divine Emissary
 
 ###### Class Features
 
-All the following are features of the divine emissary prestige class.  
+All the following are features of the divine emissary prestige class.
 
 Spells per Day/Spells Known: At each divine emissary level, the character gains new spells per day (and spells known, if applicable) as if he or she had also gained a level in a spellcasting class to which he or she belonged before adding the prestige class level. If already an epic spell-caster, the character gains only the benefit noted under the Spells entry for that epic class. He or she does not, however, gain any other benefit a character of that class would have gained. If the character had more than one spellcasting class before becoming a divine emissary, the player must decide to which class to add the new level for the purpose of determining spells per day.
 

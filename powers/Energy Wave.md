@@ -33,7 +33,7 @@ Psychokinesis \[see text\]
 **Duration:** Instantaneous  
 **Saving Throw:** Reflex half or Fortitude half; see text  
 **Power Resistance:** Yes  
-**Power Points:** 13  
+**Power Points:** 13
 
 Upon manifesting this power, you choose cold, electricity, fire, or sonic. You create a flood of energy of the chosen type out of unstable ectoplasm that deals 13d6 points of damage to each creature and object in the area. This power originates at your hand and extends outward in a cone.
 

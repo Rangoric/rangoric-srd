@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Protean Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Chaos Domain|Chaos]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Chaos Domain|Chaos]] domain._
 
 ## Replacement Power
 
@@ -27,8 +27,8 @@ This power replaces the [[rangoric-srd/class-options/domains/Chaos Domain#Grante
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Confusion, Lesser\|Lesser Confusion]] | One creature is confused for 1 round. |
-| 3rd | [[rangoric-srd/spells/Displacement\|Displacement]] (M) | Attacks miss subject 50%. |
-| 6th | [[rangoric-srd/spells/Planar Binding\|Planar Binding]] (proteans only) | As lesser planar binding, but up to 12 HD. |
+| Level | Spell                                                                  | Brief Description                          |
+| ----- | ---------------------------------------------------------------------- | ------------------------------------------ |
+| 1st   | [[rangoric-srd/spells/Confusion, Lesser\|Lesser Confusion]]            | One creature is confused for 1 round.      |
+| 3rd   | [[rangoric-srd/spells/Displacement\|Displacement]] (M)                 | Attacks miss subject 50%.                  |
+| 6th   | [[rangoric-srd/spells/Planar Binding\|Planar Binding]] (proteans only) | As lesser planar binding, but up to 12 HD. |

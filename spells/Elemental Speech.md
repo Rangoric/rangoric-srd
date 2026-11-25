@@ -34,16 +34,16 @@ tags: [rangoric, rangoric/spell]
 
 # Elemental Speech
 
-*Divination \[Air, Earth, Fire, Water\]*
+_Divination \[Air, Earth, Fire, Water\]_
 
-  - **Level**: Brd 3, Clr 3, Drd 2, Hun 2, Mes 3, Skd 3, Sor/Wiz 2
-  - **Components**: V, S, M (iron filings)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 minute/level
+- **Level**: Brd 3, Clr 3, Drd 2, Hun 2, Mes 3, Skd 3, Sor/Wiz 2
+- **Components**: V, S, M (iron filings)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 minute/level
 
-This spell enables you to converse with creatures associated with a chosen element, including but not limited to true elemental creatures. This spell gains the elemental subtype based on the version of the spell you cast. *Elemental speech* does not guarantee a friendly reaction; it merely enables communication. You may converse with all creatures of the selected type with an Intelligence score of 1 or greater, even if they do not understand one another.
+This spell enables you to converse with creatures associated with a chosen element, including but not limited to true elemental creatures. This spell gains the elemental subtype based on the version of the spell you cast. _Elemental speech_ does not guarantee a friendly reaction; it merely enables communication. You may converse with all creatures of the selected type with an Intelligence score of 1 or greater, even if they do not understand one another.
 
 When cast as an air spell, you can converse in Auran and with any creature that has the air subtype or a fly speed.
 

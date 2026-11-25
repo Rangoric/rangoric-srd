@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Vampire Savage
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Augmented Humanoid, Human, Orc)
-  - **Hit Dice**: 9d12+72 (136 hp)
-  - **Initiative**: +8
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 21 (+1 deflection, +4 Dex, +1 dodge, +7 natural, –2 rage), touch 14, flat-footed 16
-  - **Base Attack**: +9; **CMB**: +19 (+23 bull rush); **CMD**: 33 (35 vs. bull rush)
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Greataxe|greataxe]] +20 melee (1d12+16/×3) or bite +19 melee (1d4+5 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) or slam +20 melee (1d4+5 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Greataxe|greataxe]] +20/+15 melee (1d12+16/×3) and bite +14 melee (1d4+5 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) and slam +15 melee (1d4+5 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^children-of-the-night|children of the night]], [[rangoric-srd/monsters/abilities/Create Spawn|create spawn]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^dominate|dominate]] (DC 20), [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (2 levels, DC 20), [[rangoric-srd/classes/Barbarian#^barbarian-rage|rage]] (24 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Animal Fury (Rage Power)|animal fury]], [[rangoric-srd/class-options/rage-powers/Bleeding Blow (Rage Power)|bleeding blow]], [[rangoric-srd/class-options/rage-powers/No Escape (Rage Power)|no escape]], [[rangoric-srd/class-options/rage-powers/Powerful Blow (Rage Power)|powerful blow]] +3)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]], orc [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +3, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (dire bat or wolf, beast shape II ), [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^gaseous-form|gaseous form]], orc blood, [[rangoric-srd/monsters/vampire/Alternate Vampire#^shadowless|shadowless]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^spider-climb|spider climb]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic and silver, DR 1/-, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and electricity 10, [[rangoric-srd/monsters/vampire/Alternate Vampire#^weaknesses|vampire weaknesses]]
-  - **Saves**: Fort +13, Ref +10, Will +8
-  - **Abilities**: Str 30, Dex 18, Con —, Int 10, Wis 14, Cha 22
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+14 jumping), [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Nature|Nature]] +12, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other vampires (see [[rangoric-srd/monsters/vampire/Alternate Vampire|Alternate Vampire]])
-  - **Challenge Rating**: 10
-  - **Treasure**: NPC gear (combat gear: potion of blur, potion of haste, potion of resist energy (fire); other gear: +1 greataxe, amulet of natural armor +1, belt of giant strength +2, cloak of resistance +1, ring of protection +1, 80 gp)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Augmented Humanoid, Human, Orc)
+- **Hit Dice**: 9d12+72 (136 hp)
+- **Initiative**: +8
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 21 (+1 deflection, +4 Dex, +1 dodge, +7 natural, –2 rage), touch 14, flat-footed 16
+- **Base Attack**: +9; **CMB**: +19 (+23 bull rush); **CMD**: 33 (35 vs. bull rush)
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Greataxe|greataxe]] +20 melee (1d12+16/×3) or bite +19 melee (1d4+5 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) or slam +20 melee (1d4+5 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Greataxe|greataxe]] +20/+15 melee (1d12+16/×3) and bite +14 melee (1d4+5 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) and slam +15 melee (1d4+5 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^children-of-the-night|children of the night]], [[rangoric-srd/monsters/abilities/Create Spawn|create spawn]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^dominate|dominate]] (DC 20), [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (2 levels, DC 20), [[rangoric-srd/classes/Barbarian#^barbarian-rage|rage]] (24 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Animal Fury (Rage Power)|animal fury]], [[rangoric-srd/class-options/rage-powers/Bleeding Blow (Rage Power)|bleeding blow]], [[rangoric-srd/class-options/rage-powers/No Escape (Rage Power)|no escape]], [[rangoric-srd/class-options/rage-powers/Powerful Blow (Rage Power)|powerful blow]] +3)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]], orc [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +3, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (dire bat or wolf, beast shape II ), [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^gaseous-form|gaseous form]], orc blood, [[rangoric-srd/monsters/vampire/Alternate Vampire#^shadowless|shadowless]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^spider-climb|spider climb]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic and silver, DR 1/-, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and electricity 10, [[rangoric-srd/monsters/vampire/Alternate Vampire#^weaknesses|vampire weaknesses]]
+- **Saves**: Fort +13, Ref +10, Will +8
+- **Abilities**: Str 30, Dex 18, Con —, Int 10, Wis 14, Cha 22
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+14 jumping), [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Nature|Nature]] +12, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any
+- **Organization**: Solitary, or with other vampires (see [[rangoric-srd/monsters/vampire/Alternate Vampire|Alternate Vampire]])
+- **Challenge Rating**: 10
+- **Treasure**: NPC gear (combat gear: potion of blur, potion of haste, potion of resist energy (fire); other gear: +1 greataxe, amulet of natural armor +1, belt of giant strength +2, cloak of resistance +1, ring of protection +1, 80 gp)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A vampire savage is a [[rangoric-srd/monsters/vampire/Alternate Vampire|half-orc vampire]] with 9 levels of [[rangoric-srd/classes/Barbarian|barbarian]]. Not all vampires clothe themselves in the trappings of civilization. Some embrace their bestial natures.
 

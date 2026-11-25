@@ -38,31 +38,31 @@ tags: [rangoric, rangoric/monster]
 
 # Giant Cockroach
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
-  - **Hit Dice**: 1d8+4 (8 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares), climb 30 ft., fly 40 ft. (poor)
-  - **Armor Class**: 14 (+1 Dex, +2 natural, +1 size), touch 12, flat-footed 13
-  - **Base Attack**: +0; **CMB**: –1; **CMD**: 10
-  - **Attack**: Bite +1 melee (1d4)
-  - **Full Attack**: Bite +1 melee (1d4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-  - **Saves**: Fort +6, Ref +1, Will +0
-  - **Abilities**: Str 11, Dex 12, Con 19, Int —, Wis 11, Cha 2
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –1, [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +9
-  - **Feats**: [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]]
-  - **Environment**: Any land
-  - **Organization**: Solitary or intrusion (2–20)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
+- **Hit Dice**: 1d8+4 (8 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares), climb 30 ft., fly 40 ft. (poor)
+- **Armor Class**: 14 (+1 Dex, +2 natural, +1 size), touch 12, flat-footed 13
+- **Base Attack**: +0; **CMB**: –1; **CMD**: 10
+- **Attack**: Bite +1 melee (1d4)
+- **Full Attack**: Bite +1 melee (1d4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
+- **Saves**: Fort +6, Ref +1, Will +0
+- **Abilities**: Str 11, Dex 12, Con 19, Int —, Wis 11, Cha 2
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –1, [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Feats**: [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]]
+- **Environment**: Any land
+- **Organization**: Solitary or intrusion (2–20)
+- **Challenge Rating**: 1/2
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 | Species                 | CR  | Size       | HD  |
-|-------------------------|-----|------------|-----|
+| ----------------------- | --- | ---------- | --- |
 | Giant hissing cockroach | 1   | Medium     | 2   |
 | Venomroach              | 3   | Large      | 3   |
 | Spitting cockroach      | 6   | Huge       | 6   |

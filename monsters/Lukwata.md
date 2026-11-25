@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Lukwata
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Aquatic)
-  - **Hit Dice**: 14d10+70 (147 hp)
-  - **Initiative**: +4
-  - **Speed**: swim 40 ft.
-  - **Armor Class**: 25 (+4 Dex, +13 natural, –2 size), touch 12, flat-footed 21
-  - **Base Attack**: +14; **CMB**: +26 (+30 grapple); **CMD**: 40
-  - **Attack**: Bite +22 melee (4d10+15/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +22 melee (4d10+15/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Capsize|Capsize]] (DC 25), [[rangoric-srd/monsters/abilities/Digest Magic|digest magic]], [[rangoric-srd/monsters/abilities/Dispelling Bite|dispelling bite]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/nonmagical weapons, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 27, [[rangoric-srd/monsters/abilities/Eldritch Encrustation|eldritch encrustation]]
-  - **Saves**: Fort +14, Ref +13, Will +8
-  - **Abilities**: Str 30, Dex 19, Con 20, Int 2, Wis 15, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +30, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +0
-  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Warm rivers, lakes, and swamps
-  - **Organization**: Solitary, pair, or school (3–8)
-  - **Challenge Rating**: 11
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Aquatic)
+- **Hit Dice**: 14d10+70 (147 hp)
+- **Initiative**: +4
+- **Speed**: swim 40 ft.
+- **Armor Class**: 25 (+4 Dex, +13 natural, –2 size), touch 12, flat-footed 21
+- **Base Attack**: +14; **CMB**: +26 (+30 grapple); **CMD**: 40
+- **Attack**: Bite +22 melee (4d10+15/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +22 melee (4d10+15/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Capsize|Capsize]] (DC 25), [[rangoric-srd/monsters/abilities/Digest Magic|digest magic]], [[rangoric-srd/monsters/abilities/Dispelling Bite|dispelling bite]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/nonmagical weapons, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 27, [[rangoric-srd/monsters/abilities/Eldritch Encrustation|eldritch encrustation]]
+- **Saves**: Fort +14, Ref +13, Will +8
+- **Abilities**: Str 30, Dex 19, Con 20, Int 2, Wis 15, Cha 11
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +30, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +0
+- **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Warm rivers, lakes, and swamps
+- **Organization**: Solitary, pair, or school (3–8)
+- **Challenge Rating**: 11
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Lukwatas slip through dark tropical waters, preying upon all who dare enter their deep jungle rivers and pools, including beasts typically considered apex predators. While scholars say the beasts favor the dark, light doesn't deter them in their relentless pursuit of prey. Their long, flat bodies are reminiscent of those of dolphins or large fish, but lukwatas' heads are distinctively eel-like. A lukwata's unusual ability to disrupt magical effects rises from the strange crystalline growths that line its throat and stomach—crystals that allow the lukwata to gain nutrients from magical items as efficiently as from flesh and blood. These same growths give the lukwata an unusually strong resistance to all manner of magic attacks.
 

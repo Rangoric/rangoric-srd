@@ -28,7 +28,7 @@ Psychometabolism
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 min./level  
-**Power Points:** 1  
+**Power Points:** 1
 
 You suffuse yourself with power, gaining 5 temporary hit points. Using this power again when an earlier manifestation has not expired merely replaces the older temporary hit points (if any remain) with the newer ones.
 

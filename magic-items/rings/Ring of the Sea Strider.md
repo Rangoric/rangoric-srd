@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Ring of the Sea Strider
 
-This ring is made of a single piece of deep blue crystal. The ring grants its wearer a swim speed of 30 feet, as well as a +8 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks to swim for having a swim speed. Furthermore, once per day as a swift action, as long as the wearer is in contact with liquid, he can use *[[rangoric-srd/spells/Dimension Door|dimension door]]* as the spell, but its starting and ending points must be connected by a contiguous mass of liquid.
+This ring is made of a single piece of deep blue crystal. The ring grants its wearer a swim speed of 30 feet, as well as a +8 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks to swim for having a swim speed. Furthermore, once per day as a swift action, as long as the wearer is in contact with liquid, he can use _[[rangoric-srd/spells/Dimension Door|dimension door]]_ as the spell, but its starting and ending points must be connected by a contiguous mass of liquid.
 
-Moderate conjuration; CL 7th; [[rangoric-srd/feats/Forge Ring|Forge Ring]], *[[rangoric-srd/spells/Dimension Door|dimension door]]*, *[[rangoric-srd/spells/Touch of the Sea|touch of the sea]]*; Price 14,000 gp; Cost 7,000 gp.
+Moderate conjuration; CL 7th; [[rangoric-srd/feats/Forge Ring|Forge Ring]], _[[rangoric-srd/spells/Dimension Door|dimension door]]_, _[[rangoric-srd/spells/Touch of the Sea|touch of the sea]]_; Price 14,000 gp; Cost 7,000 gp.

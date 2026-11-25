@@ -16,8 +16,8 @@ tags: [rangoric, rangoric/class-option]
 
 # Water Sight
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Waves Mystery|waves]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Waves Mystery|waves]] mystery._
 
-You can see through fog and mist without penalty as long as there is enough light to allow you to see normal. At 7th level, you can use any calm pool of water at least 1 foot in diameter as a scrying device, as if using the *[[rangoric-srd/spells/Scrying|scry]]* spell. At 15th level, this functions like *[[rangoric-srd/spells/Scrying, Greater|greater scrying]]*. You can use the scrying abilities for a number of rounds per day equal to your oracle level, but these rounds do not need to be consecutive.
+You can see through fog and mist without penalty as long as there is enough light to allow you to see normal. At 7th level, you can use any calm pool of water at least 1 foot in diameter as a scrying device, as if using the _[[rangoric-srd/spells/Scrying|scry]]_ spell. At 15th level, this functions like _[[rangoric-srd/spells/Scrying, Greater|greater scrying]]_. You can use the scrying abilities for a number of rounds per day equal to your oracle level, but these rounds do not need to be consecutive.
 
-*The shaman has a hex of the same name: [[rangoric-srd/class-options/hexes/Water Sight (Hex)|water sight]].*
+_The shaman has a hex of the same name: [[rangoric-srd/class-options/hexes/Water Sight (Hex)|water sight]]._

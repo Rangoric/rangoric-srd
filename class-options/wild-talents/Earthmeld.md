@@ -18,14 +18,14 @@ tags: [rangoric, rangoric/class-option]
 
 # Earthmeld
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Earth Element|earth]]
-  - **Type**: utility (Sp)
-  - **Level**: 4
-  - **Burn**: 0
-  - **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Earth Climb|earth climb]]
+- **Element**: [[rangoric-srd/class-options/elements/Earth Element|earth]]
+- **Type**: utility (Sp)
+- **Level**: 4
+- **Burn**: 0
+- **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Earth Climb|earth climb]]
 
-You meld a creature into stone, where it can listen to conversations without being detected. This functions as the *[[rangoric-srd/spells/Meld into Stone|meld into stone]]* spell, except it can work on any willing creature, not just you, and it lasts for 10 minutes per kineticist level or until you use earthmeld again. The melded creature, not you, decides when to step out of the stone.
+You meld a creature into stone, where it can listen to conversations without being detected. This functions as the _[[rangoric-srd/spells/Meld into Stone|meld into stone]]_ spell, except it can work on any willing creature, not just you, and it lasts for 10 minutes per kineticist level or until you use earthmeld again. The melded creature, not you, decides when to step out of the stone.
 
 You can accept 1 point of [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]] to increase the duration of an earthmeld until the next time you recover burn. Such increased earthmelds don’t end if you use earthmeld again, allowing you to maintain multiple earthmelds.

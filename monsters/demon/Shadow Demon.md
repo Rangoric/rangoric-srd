@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Shadow Demon
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Demon, Evil, Extraplanar, Incorporeal)
-  - **Hit Dice**: 7d10+21 (59 hp)
-  - **Initiative**: +8
-  - **Speed**: fly 40 ft. (perfect)
-  - **Armor Class**: 18 (+4 deflection, +4 Dex), touch 18, flat-footed 14
-  - **Base Attack**: +7; **CMB**: +11; **CMD**: 25
-  - **Attack**: Claw +11 melee touch (1d6 plus 1d6 cold) or bite +11 melee touch (1d8 plus 1d6 cold)
-  - **Full Attack**: 2 claws +11 melee touch (1d6 plus 1d6 cold) and bite +11 melee touch (1d8 plus 1d6 cold)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], sprint, shadow blend, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron or good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, electricity and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17, [[rangoric-srd/monsters/abilities/Sunlight Powerlessness|sunlight powerlessness]]
-  - **Saves**: Fort +5, Ref +11, Will +7
-  - **Abilities**: Str —, Dex 18, Con 17, Int 14, Wis 14, Cha 19
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +22, [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Society|Society]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +14, [[rangoric-srd/skills/Theology|Theology]] +12
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
-  - **Environment**: A chaotic evil-aligned plane
-  - **Organization**: Solitary, pair, or haunt (3–8)
-  - **Challenge Rating**: 7
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Demon, Evil, Extraplanar, Incorporeal)
+- **Hit Dice**: 7d10+21 (59 hp)
+- **Initiative**: +8
+- **Speed**: fly 40 ft. (perfect)
+- **Armor Class**: 18 (+4 deflection, +4 Dex), touch 18, flat-footed 14
+- **Base Attack**: +7; **CMB**: +11; **CMD**: 25
+- **Attack**: Claw +11 melee touch (1d6 plus 1d6 cold) or bite +11 melee touch (1d8 plus 1d6 cold)
+- **Full Attack**: 2 claws +11 melee touch (1d6 plus 1d6 cold) and bite +11 melee touch (1d8 plus 1d6 cold)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], sprint, shadow blend, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron or good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, electricity and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17, [[rangoric-srd/monsters/abilities/Sunlight Powerlessness|sunlight powerlessness]]
+- **Saves**: Fort +5, Ref +11, Will +7
+- **Abilities**: Str —, Dex 18, Con 17, Int 14, Wis 14, Cha 19
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +22, [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Society|Society]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +14, [[rangoric-srd/skills/Theology|Theology]] +12
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
+- **Environment**: A chaotic evil-aligned plane
+- **Organization**: Solitary, pair, or haunt (3–8)
+- **Challenge Rating**: 7
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Tales of demonic possession are common, used often by the ignorant to explain strange or violent behavior. While the majority of such cases are merely manifestations of madness or derangement, those that are legitimate possessions are often the work of shadow demons.
 
@@ -71,10 +71,10 @@ Shadow demons speak Abyssal and Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th): At will—*[[rangoric-srd/spells/Deeper Darkness|deeper darkness]], [[rangoric-srd/spells/Fear|fear]]* (DC 18), *[[rangoric-srd/spells/Teleport, Greater|greater teleport]]* (self only), *[[rangoric-srd/spells/Telekinesis|telekinesis]]* (DC 19); 3/day—*[[rangoric-srd/spells/Shadow Conjuration|shadow conjuration]]* (DC 18), *[[rangoric-srd/spells/Shadow Evocation|shadow evocation]]* (DC 19); 1/day—*[[rangoric-srd/spells/Magic Jar|magic jar]]* (DC 19), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 3, 1 [[rangoric-srd/monsters/demon/Shadow Demon|shadow demon]] 50%).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th): At will—_[[rangoric-srd/spells/Deeper Darkness|deeper darkness]], [[rangoric-srd/spells/Fear|fear]]_ (DC 18), _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self only), _[[rangoric-srd/spells/Telekinesis|telekinesis]]_ (DC 19); 3/day—_[[rangoric-srd/spells/Shadow Conjuration|shadow conjuration]]_ (DC 18), _[[rangoric-srd/spells/Shadow Evocation|shadow evocation]]_ (DC 19); 1/day—_[[rangoric-srd/spells/Magic Jar|magic jar]]_ (DC 19), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 3, 1 [[rangoric-srd/monsters/demon/Shadow Demon|shadow demon]] 50%).
 
 **Sprint (Ex)**: Once per minute, a shadow demon increases its fly speed to 240 feet for 1 round.
 
 **Shadow Blend (Su)**: During any conditions other than bright light, a shadow demon can disappear into the shadows as a move-equivalent action, effectively becoming invisible. Artificial illumination or light spells of 2nd level or lower do not negate this ability.
 
-**Sunlight Powerlessness (Ex)**: A shadow demon is utterly powerless in bright light or natural sunlight and flees from it. A shadow demon caught in such light cannot attack and can take only a single move or standard action. A shadow demon that is possessing a creature using *[[rangoric-srd/spells/Magic Jar|magic jar]]* is not harmed by sunlight, but if it is struck by a *[[rangoric-srd/spells/Sunbeam|sunbeam]]* or *[[rangoric-srd/spells/Sunburst|sunburst]]* spell while possessing a creature, the shadow demon is driven out of its host automatically.
+**Sunlight Powerlessness (Ex)**: A shadow demon is utterly powerless in bright light or natural sunlight and flees from it. A shadow demon caught in such light cannot attack and can take only a single move or standard action. A shadow demon that is possessing a creature using _[[rangoric-srd/spells/Magic Jar|magic jar]]_ is not harmed by sunlight, but if it is struck by a _[[rangoric-srd/spells/Sunbeam|sunbeam]]_ or _[[rangoric-srd/spells/Sunburst|sunburst]]_ spell while possessing a creature, the shadow demon is driven out of its host automatically.

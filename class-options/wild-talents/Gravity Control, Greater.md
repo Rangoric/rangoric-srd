@@ -18,12 +18,12 @@ tags: [rangoric, rangoric/class-option]
 
 # Gravity Control, Greater
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Void Element|void]]
-  - **Type**: utility (Sp)
-  - **Level**: 5
-  - **Burn**: 0
-  - **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Gravity Control|gravity control]]
+- **Element**: [[rangoric-srd/class-options/elements/Void Element|void]]
+- **Type**: utility (Sp)
+- **Level**: 5
+- **Burn**: 0
+- **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Gravity Control|gravity control]]
 
 You have greater control over gravity, as per [[rangoric-srd/class-options/wild-talents/Flame Jet, Greater|greater flame jet]].

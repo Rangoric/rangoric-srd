@@ -21,8 +21,8 @@ tags: [rangoric, rangoric/magic-item]
 
 # Beneficial Bandolier
 
-This bandolier is made of finely tanned leather. It has slots for up to 200 rounds of ammunition. Pellets and black powder are kept in tiny individual pouches, and bullets in small loops. The bandolier alters itself as needed to accommodate both. There are also places on the *beneficial bandolier* for a gunsmith's kit and a powder horn. Regardless of what quantities of these items are placed within the *beneficial bandolier*, its weight does not change.
+This bandolier is made of finely tanned leather. It has slots for up to 200 rounds of ammunition. Pellets and black powder are kept in tiny individual pouches, and bullets in small loops. The bandolier alters itself as needed to accommodate both. There are also places on the _beneficial bandolier_ for a gunsmith's kit and a powder horn. Regardless of what quantities of these items are placed within the _beneficial bandolier_, its weight does not change.
 
-As a swift action, the wearer can command a single round of ammunition from the *beneficial bandolier* to teleport into a [[rangoric-srd/equipment/Firearms|firearm]] of the appropriate type that he is wielding.
+As a swift action, the wearer can command a single round of ammunition from the _beneficial bandolier_ to teleport into a [[rangoric-srd/equipment/Firearms|firearm]] of the appropriate type that he is wielding.
 
-Moderate transmutation; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Secret Chest|secret chest]]*; Price 1,000 gp; Cost 500 gp; Weight 2 lbs.
+Moderate transmutation; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Secret Chest|secret chest]]_; Price 1,000 gp; Cost 500 gp; Weight 2 lbs.

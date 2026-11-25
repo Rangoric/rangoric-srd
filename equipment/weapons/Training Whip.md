@@ -25,7 +25,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/flails]
 
 # Training Whip
 
-*Exotic one-handed melee weapon (disarm, nonlethal, reach, trip).* Cost 5 gp; Dmg 1d2 (S), 1d3 (M); Critical x2; Weight 2 lb.; Type Slashing. ^stats
+_Exotic one-handed melee weapon (disarm, nonlethal, reach, trip)._ Cost 5 gp; Dmg 1d2 (S), 1d3 (M); Critical x2; Weight 2 lb.; Type Slashing. ^stats
 
 This short lash has a reach of only 10 feet, but is otherwise identical to a normal [[rangoric-srd/equipment/weapons/Whip|whip]]. The wielder gains a +2 circumstance bonus on [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks to push a trained animal and on [[rangoric-srd/skills/Intimidation|Intimidation]] checks made to demoralize any animal as long as the animal is within the whip's reach. When using the whip to demoralize a trained animal, the wielder may choose to fascinate the animal rather than causing it to become shaken for the same duration as the [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] condition, but the fascinate effect ends if line of sight between the wielder and the animal is broken.
 

@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Sanguine
 
-*A [[rangoric-srd/class-options/bloodlines/Bloodlines#Mutated Bloodlines|mutated bloodline]] of the [[rangoric-srd/class-options/bloodlines/Undead Bloodline|undead bloodline]], for a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] [[rangoric-srd/classes/Sorcerer|sorcerer]].*
+_A [[rangoric-srd/class-options/bloodlines/Bloodlines#Mutated Bloodlines|mutated bloodline]] of the [[rangoric-srd/class-options/bloodlines/Undead Bloodline|undead bloodline]], for a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] [[rangoric-srd/classes/Sorcerer|sorcerer]]._
 
 The power of undeath can derive from cold blood as well as hard bone.
 

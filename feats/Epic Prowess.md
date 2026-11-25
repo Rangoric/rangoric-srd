@@ -11,6 +11,6 @@ tags: [rangoric, rangoric/feat, fighter-bonus, epic]
 
 # Epic Prowess
 
-Benefit: Gain a +1 bonus on all attacks.  
+Benefit: Gain a +1 bonus on all attacks.
 
 Special: A character can gain this feat multiple times. Its effects stack.

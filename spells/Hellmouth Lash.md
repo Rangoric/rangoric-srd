@@ -28,14 +28,14 @@ tags: [rangoric, rangoric/spell]
 
 # Hellmouth Lash
 
-*Transmutation \[Acid, Electricity, Fire\]*
+_Transmutation \[Acid, Electricity, Fire\]_
 
-  - **Level**: Blr 4, Sor/Wiz 4, Wit 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level (D)
+- **Level**: Blr 4, Sor/Wiz 4, Wit 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level (D)
 
 Upon casting this spell, your tongue transforms into an energy whip weapon that can deal acid, electricity, or fire damage. You choose what type of energy damage the spell deals when you cast it. You attack with your tongue as if it were a whip, except you make touch attacks with it and it can harm creatures with armor or natural armor bonuses. You are considered proficient with this weapon. A successful touch attack with the tongue deals 1d8 points of energy damage per two caster levels (maximum of 5d8 points of damage at 10th level).
 

@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Combat Trick
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] and a [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]].*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] and a [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]]._
 
 A rogue or ninja that selects this talent or trick gains a bonus [[rangoric-srd/feats/Feats Fighter Bonus|combat feat]].

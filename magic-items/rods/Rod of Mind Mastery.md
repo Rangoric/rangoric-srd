@@ -19,9 +19,9 @@ tags: [rangoric, rangoric/magic-item]
 
 # Rod of Mind Mastery
 
-This rod is a simple, unadorned piece of clear crystal that has been magically hardened. The wielder of the rod is under a constant *[[rangoric-srd/spells/Nondetection|nondetection]]* effect, as the spell. Furthermore, the rod has the following powers.
+This rod is a simple, unadorned piece of clear crystal that has been magically hardened. The wielder of the rod is under a constant _[[rangoric-srd/spells/Nondetection|nondetection]]_ effect, as the spell. Furthermore, the rod has the following powers.
 
-- Three times per day on command, the user of the rod can use it to *[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]* as the spell.
-- Once per day as an immediate action, the wielder may determine whether someone is lying to her, as the *[[rangoric-srd/spells/Discern Lies|discern lies]]* spell.
+- Three times per day on command, the user of the rod can use it to _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ as the spell.
+- Once per day as an immediate action, the wielder may determine whether someone is lying to her, as the _[[rangoric-srd/spells/Discern Lies|discern lies]]_ spell.
 
-Moderate abjuration and divination; CL 7th; [[rangoric-srd/feats/Craft Rod|Craft Rod]], *[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]*, *[[rangoric-srd/spells/Discern Lies|discern lies]]*, *[[rangoric-srd/spells/Nondetection|nondetection]]*; Price 67,000 gp; Cost 33,500 gp.
+Moderate abjuration and divination; CL 7th; [[rangoric-srd/feats/Craft Rod|Craft Rod]], _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_, _[[rangoric-srd/spells/Discern Lies|discern lies]]_, _[[rangoric-srd/spells/Nondetection|nondetection]]_; Price 67,000 gp; Cost 33,500 gp.

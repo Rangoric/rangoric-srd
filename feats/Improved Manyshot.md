@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, fighter-bonus, epic]
 
 # Improved Manyshot
 
-Prerequisites: Dex 19, base attack bonus +21, [[rangoric-srd/feats/Feats All|Many-shot]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]]  
+Prerequisites: Dex 19, base attack bonus +21, [[rangoric-srd/feats/Feats All|Many-shot]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]]
 
 Benefits: As Manyshot, but the number of arrows the character can fire is limited only by his or her base attack bonus (two arrows, plus one arrow for every 5 points of base attack bonus above +6).
 

@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Star-Spawn of Cthulhu
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 25d8+250 (362 hp)
-  - **Initiative**: +5
-  - **Speed**: 40 ft. (8 squares), fly 60 ft. (average), swim 40 ft.
-  - **Armor Class**: 36 (+1 Dex, +27 natural, –2 size), touch 9, flat-footed 35
-  - **Base Attack**: +18; **CMB**: +36 (+38 bull rush, +40 grapple); **CMD**: 47 (49 vs. bull rush)
-  - **Attack**: Claw +32 melee (2d6+16/19–20) or tentacle +32 melee (1d8+8/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: 2 claws +32 melee (2d6+16/19–20) and 6 tentacles +27 melee (1d8+8/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 15 ft./30 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d8+8), overwhelming mind, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 15 (fire), [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] (150 ft., DC 29), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 300 ft., immortality, overwhelming mind, [[rangoric-srd/monsters/abilities/Compression|compression]], limited [[rangoric-srd/monsters/abilities/Starflight|starflight]], [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, disease and poison, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 31
-  - **Saves**: Fort +18, Ref +9, Will +25
-  - **Abilities**: Str 42, Dex 13, Con 30, Int 23, Wis 29, Cha 24
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +25, [[rangoric-srd/skills/Arcana|Arcana]] +31, [[rangoric-srd/skills/Athletics|Athletics]] +52, [[rangoric-srd/skills/Emulation|Emulation]] +32, [[rangoric-srd/skills/Intimidation|Intimidation]] +35, [[rangoric-srd/skills/Mysticism|Mysticism]] +34, [[rangoric-srd/skills/Perception|Perception]] +37, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +34, [[rangoric-srd/skills/Society|Society]] +31, [[rangoric-srd/skills/Theology|Theology]] +31
-  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Greater Vital Strike|Greater Vital Strike]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (tentacle), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, or cult (3–6)
-  - **Challenge Rating**: 20
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 25d8+250 (362 hp)
+- **Initiative**: +5
+- **Speed**: 40 ft. (8 squares), fly 60 ft. (average), swim 40 ft.
+- **Armor Class**: 36 (+1 Dex, +27 natural, –2 size), touch 9, flat-footed 35
+- **Base Attack**: +18; **CMB**: +36 (+38 bull rush, +40 grapple); **CMD**: 47 (49 vs. bull rush)
+- **Attack**: Claw +32 melee (2d6+16/19–20) or tentacle +32 melee (1d8+8/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: 2 claws +32 melee (2d6+16/19–20) and 6 tentacles +27 melee (1d8+8/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 15 ft./30 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d8+8), overwhelming mind, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 15 (fire), [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] (150 ft., DC 29), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 300 ft., immortality, overwhelming mind, [[rangoric-srd/monsters/abilities/Compression|compression]], limited [[rangoric-srd/monsters/abilities/Starflight|starflight]], [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, disease and poison, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 31
+- **Saves**: Fort +18, Ref +9, Will +25
+- **Abilities**: Str 42, Dex 13, Con 30, Int 23, Wis 29, Cha 24
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +25, [[rangoric-srd/skills/Arcana|Arcana]] +31, [[rangoric-srd/skills/Athletics|Athletics]] +52, [[rangoric-srd/skills/Emulation|Emulation]] +32, [[rangoric-srd/skills/Intimidation|Intimidation]] +35, [[rangoric-srd/skills/Mysticism|Mysticism]] +34, [[rangoric-srd/skills/Perception|Perception]] +37, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +34, [[rangoric-srd/skills/Society|Society]] +31, [[rangoric-srd/skills/Theology|Theology]] +31
+- **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Greater Vital Strike|Greater Vital Strike]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (tentacle), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
+- **Environment**: Any
+- **Organization**: Solitary, pair, or cult (3–6)
+- **Challenge Rating**: 20
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Of all the strange and malefic denizens of the void between the stars, few cause the same terror as this titanic race. They hail from a mad star whose light cannot be seen by conventional telescopes, and the smallest of these behemoths stand nearly 30 feet in height. Humanoid in shape, their immense bodies have rubbery flesh that seems to wriggle and seethe like a half-solidified ooze. Tremendous draconic wings, murderous taloned hands, and a tentacled visage that evokes the alien gaze of an octopus complete the being's monstrous shape. This malevolent race has a name, yet it is no name known to the sane. Among mortal scholars, they are known merely by the name of their greatest priest—they are the star-spawn of Cthulhu.
 
@@ -79,7 +79,7 @@ Star-spawn of cthulhus speak Aklo.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th; concentration +27): Constant—*[[rangoric-srd/spells/Mind Blank|mind blank]]*; At will—*[[rangoric-srd/spells/Dream|dream]]*, *[[rangoric-srd/spells/Insanity (Spell)|insanity]]* (DC 24), *[[rangoric-srd/spells/Nightmare (Spell)|nightmare]]* (DC 22), *[[rangoric-srd/spells/Sending|sending]]*; 3/day—*[[rangoric-srd/spells/Demand|demand]]* (DC 25); 1/day—*[[rangoric-srd/spells/Gate|gate]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th; concentration +27): Constant—_[[rangoric-srd/spells/Mind Blank|mind blank]]_; At will—_[[rangoric-srd/spells/Dream|dream]]_, _[[rangoric-srd/spells/Insanity (Spell)|insanity]]_ (DC 24), _[[rangoric-srd/spells/Nightmare (Spell)|nightmare]]_ (DC 22), _[[rangoric-srd/spells/Sending|sending]]_; 3/day—_[[rangoric-srd/spells/Demand|demand]]_ (DC 25); 1/day—_[[rangoric-srd/spells/Gate|gate]]_.
 
 **Immortality (Ex)**: A star-spawn of Cthulhu does not age, nor does it need to eat or breathe. Only violence can bring about the death of one of these creatures.
 

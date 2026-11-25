@@ -25,4 +25,4 @@ This band of raggedly stitched animal skins and teeth focuses a [[rangoric-srd/c
 
 Once per day when the wearer is attacked or has to make a saving throw against a hostile effect, she may spend 2 rounds of rage to begin a rage as an immediate action. This rage becomes active prior to resolving the attack that triggered it and lasts until the start of her next turn (at which time she may continue to rage as if she had begun the rage in the normal manner).
 
-Faint enchantment; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Rage|rage]]*; Price 8,000 gp; Cost 4,000 gp; Weight 1 lb.
+Faint enchantment; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Rage|rage]]_; Price 8,000 gp; Cost 4,000 gp; Weight 1 lb.

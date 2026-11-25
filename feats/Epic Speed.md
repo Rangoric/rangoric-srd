@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Epic Speed
 
-Prerequisites: Dex 21, [[rangoric-srd/feats/Run|Run]].  
+Prerequisites: Dex 21, [[rangoric-srd/feats/Run|Run]].
 
 Benefit: The character’s speed increases by 30 feet. This benefit does not stack with increased speed granted by magic items or nonpermanent magical effects.
 

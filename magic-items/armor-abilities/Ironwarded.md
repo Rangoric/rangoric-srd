@@ -14,11 +14,11 @@ tags: [rangoric, rangoric/magic-item]
 
 # Ironwarded
 
-A character wearing this armor is able to activate the *[[rangoric-srd/spells/Lesser Iron Ward|lesser iron ward]]* or *[[rangoric-srd/spells/Greater Iron Ward|greater iron ward]]* spell three times per day for 11 or 16 continuous rounds for each use respectively.
+A character wearing this armor is able to activate the _[[rangoric-srd/spells/Lesser Iron Ward|lesser iron ward]]_ or _[[rangoric-srd/spells/Greater Iron Ward|greater iron ward]]_ spell three times per day for 11 or 16 continuous rounds for each use respectively.
 
-| Ironward Type | Immunity | Caster Level | Market Price |
-|---|---|---|---|
-| Lesser | Metal items | 11th | +4 bonus |
-| Greater | Metal items of +3 and lower | 16th | +6 bonus |
+| Ironward Type | Immunity                    | Caster Level | Market Price |
+| ------------- | --------------------------- | ------------ | ------------ |
+| Lesser        | Metal items                 | 11th         | +4 bonus     |
+| Greater       | Metal items of +3 and lower | 16th         | +6 bonus     |
 
-CL see above; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Lesser Iron Ward|lesser iron ward]]* or *[[rangoric-srd/spells/Greater Iron Ward|greater iron ward]]* (see above); Price varies (see above).
+CL see above; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Lesser Iron Ward|lesser iron ward]]_ or _[[rangoric-srd/spells/Greater Iron Ward|greater iron ward]]_ (see above); Price varies (see above).

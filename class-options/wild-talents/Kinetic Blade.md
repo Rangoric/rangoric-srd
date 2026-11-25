@@ -18,14 +18,14 @@ tags: [rangoric, rangoric/class-option]
 
 # Kinetic Blade
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|form infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|form infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Elements#Universal|universal]]
-  - **Type**: form infusion
-  - **Level**: 1
-  - **Burn**: 1
-  - **Associated Blasts**: any
-  - **Saving Throw**: none
+- **Element**: [[rangoric-srd/class-options/elements/Elements#Universal|universal]]
+- **Type**: form infusion
+- **Level**: 1
+- **Burn**: 1
+- **Associated Blasts**: any
+- **Saving Throw**: none
 
 You form a weapon using your kinetic abilities. You create a non-reach, light or one-handed weapon in your hand formed of pure energy or elemental matter. (If you’re a telekineticist, you instead transfer the power of your kinetic blast to any object held in one hand.) The kinetic blade’s shape is purely cosmetic and doesn’t affect the damage dice, critical threat range, or critical multiplier of the kinetic blade, nor does it grant the kinetic blade any weapon special features. The object held by a telekineticist for this form infusion doesn’t prevent her from using [[rangoric-srd/classes/Kineticist#^kineticist-gather-power|gather power]].
 

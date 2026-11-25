@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Apprentice Jeweler
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 1d8 (4 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 13 (+1 armor, +2 Dex), touch 12, flat-footed 11
-  - **Base Attack**: +0; **CMB**: –1; **CMD**: 11
-  - **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] –1 melee (1d4–1/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] –1 melee (1d4–1/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: —
-  - **Saves**: Fort +0, Ref +2, Will +2
-  - **Abilities**: Str 8, Dex 15, Con 11, Int 12, Wis 10, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +5, [[rangoric-srd/skills/Craft|Craft]] (jewelry) +8, [[rangoric-srd/skills/Emulation|Emulation]] +3, [[rangoric-srd/skills/Engineering|Engineering]] +6, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Persuasion|Persuasion]] +3, [[rangoric-srd/skills/Society|Society]] +5
-  - **Feats**: [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Craft \[jewelry\])
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 1/3
-  - **Treasure**: NPC gear (combat gear: acid; other gear: padded armor, dagger, masterwork artisan's tools, 188 gp)
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 1d8 (4 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 13 (+1 armor, +2 Dex), touch 12, flat-footed 11
+- **Base Attack**: +0; **CMB**: –1; **CMD**: 11
+- **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] –1 melee (1d4–1/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] –1 melee (1d4–1/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: —
+- **Saves**: Fort +0, Ref +2, Will +2
+- **Abilities**: Str 8, Dex 15, Con 11, Int 12, Wis 10, Cha 9
+- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +5, [[rangoric-srd/skills/Craft|Craft]] (jewelry) +8, [[rangoric-srd/skills/Emulation|Emulation]] +3, [[rangoric-srd/skills/Engineering|Engineering]] +6, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Persuasion|Persuasion]] +3, [[rangoric-srd/skills/Society|Society]] +5
+- **Feats**: [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Craft \[jewelry\])
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 1/3
+- **Treasure**: NPC gear (combat gear: acid; other gear: padded armor, dagger, masterwork artisan's tools, 188 gp)
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 An apprentice jeweler is a [[rangoric-srd/monsters/human/Human|human]] with 1 level of [[rangoric-srd/classes/Expert|expert]]. An apprentice delivers orders when not practicing her craft. She usually begins her apprenticeship as a young adult, serves for 7 years, and is paid mostly in room and board at the master's home or shop. After this duration, the apprentice becomes a journeyman in the craft and is paid a daily wage by the master. Some, however may instead leave to start their own businesses with employees once they reach the journeyman stage. A typical artisan has only one apprentice at a time, but a famous or wealthy one may have multiple apprentices at once.
 

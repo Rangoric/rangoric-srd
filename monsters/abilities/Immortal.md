@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Immortal
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “immortal”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “immortal”, on the Special Qualities line.
 
 A deep one does not age. Barring death from violence, disease, or misadventure, a deep one can live forever. Deep ones are immune to effects that cause magical aging. The [[rangoric-srd/monsters/mythos/Deep One|deep one]] and the [[rangoric-srd/monsters/mythos/Elder Deep One|elder deep one]] have it.

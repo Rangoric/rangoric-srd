@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Restore Eidolon
 
-*Conjuration (Healing)*
+_Conjuration (Healing)_
 
-  - **Level**: Sum 3, SumU 3
-  - **Components**: V, S, M (diamond dust worth 100 gp or 1,000 gp, see text)
-  - **Casting Time**: 1 minute
-  - **Range**: Touch
-  - **Target**: Eidolon touched
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Sum 3, SumU 3
+- **Components**: V, S, M (diamond dust worth 100 gp or 1,000 gp, see text)
+- **Casting Time**: 1 minute
+- **Range**: Touch
+- **Target**: Eidolon touched
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-This spell functions as *[[rangoric-srd/spells/Restoration|restoration]]*, except it only affects an eidolon.
+This spell functions as _[[rangoric-srd/spells/Restoration|restoration]]_, except it only affects an eidolon.

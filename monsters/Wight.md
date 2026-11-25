@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Wight
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
-  - **Hit Dice**: 4d8+8 (26 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 15 (+1 Dex, +4 natural), touch 11, flat-footed 14
-  - **Base Attack**: +3; **CMB**: +4; **CMD**: 15
-  - **Attack**: Slam +4 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
-  - **Full Attack**: Slam +4 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Create spawn, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (1 level, DC 14)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], resurrection vulnerability
-  - **Saves**: Fort +3, Ref +2, Will +5
-  - **Abilities**: Str 12, Dex 12, Con —, Int 11, Wis 13, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +16, [[rangoric-srd/skills/Theology|Theology]] +7
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, gang (3–6), or pack (7–12)
-  - **Challenge Rating**: 3
-  - **Treasure**: Standard
-  - **Alignment**: Always lawful evil
-  - **Advancement**: 5–8 HD (Medium)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
+- **Hit Dice**: 4d8+8 (26 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 15 (+1 Dex, +4 natural), touch 11, flat-footed 14
+- **Base Attack**: +3; **CMB**: +4; **CMD**: 15
+- **Attack**: Slam +4 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
+- **Full Attack**: Slam +4 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Create spawn, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (1 level, DC 14)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], resurrection vulnerability
+- **Saves**: Fort +3, Ref +2, Will +5
+- **Abilities**: Str 12, Dex 12, Con —, Int 11, Wis 13, Cha 15
+- **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +16, [[rangoric-srd/skills/Theology|Theology]] +7
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any
+- **Organization**: Solitary, pair, gang (3–6), or pack (7–12)
+- **Challenge Rating**: 3
+- **Treasure**: Standard
+- **Alignment**: Always lawful evil
+- **Advancement**: 5–8 HD (Medium)
+- **Level Adjustment**: —
 
 Wights are humanoids who rise as undead due to necromancy, a violent death, or an extremely malevolent personality. In some cases, a wight arises when an evil undead spirit permanently bonds with a corpse, often the corpse of a slain [[rangoric-srd/classes/Warrior|warrior]]. They are barely recognizable to those who knew them in life; their flesh is twisted by evil and undeath, the eyes burn with hatred, and the teeth become beast-like. In some ways, a wight bridges the gap between a ghoul and a spectre—a warped animated corpse whose touch steals living energy.
 

@@ -22,16 +22,16 @@ tags: [rangoric, rangoric/spell]
 
 # Hold Portal
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Occ 1, Psy 1, Sor/Wiz 1
-  - **Component**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Target**: One portal, up to 20 sq. ft./level
-  - **Duration**: 1 min./level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Occ 1, Psy 1, Sor/Wiz 1
+- **Component**: V
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Target**: One portal, up to 20 sq. ft./level
+- **Duration**: 1 min./level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 This spell magically holds shut a door, gate, window, or shutter of wood, metal, or stone. The magic affects the portal just as if it were securely closed and normally locked. A knock spell or a successful dispel magic spell can negate a hold portal spell.
 

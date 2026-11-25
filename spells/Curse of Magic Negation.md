@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # Curse of Magic Negation
 
-*Abjuration \[Curse\]*
+_Abjuration \[Curse\]_
 
-  - **Level**: Clr 5, Inq 4, Mes 3, Occ 4, Psy 4, Sor/Wiz 4, Wit 4
-  - **Components**: V, S, M (powdered lead and platinum worth 250 gp)
-  - **Casting Time**: 1 round
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Target**: One creature
-  - **Duration**: 10 minute/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: No
+- **Level**: Clr 5, Inq 4, Mes 3, Occ 4, Psy 4, Sor/Wiz 4, Wit 4
+- **Components**: V, S, M (powdered lead and platinum worth 250 gp)
+- **Casting Time**: 1 round
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Target**: One creature
+- **Duration**: 10 minute/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: No
 
 You disrupt the target creature's ability to draw upon magical energies. For the duration of the spell, it gains the [[rangoric-srd/rules/spellblights/Negated|negated]] [[rangoric-srd/rules/spellblights/Spellblights|spellblight]]. Caster level checks to [[rangoric-srd/rules/spellblights/Spellblights#Removing Spellblights|remove the spellblight]] take a –5 penalty due to this spell's interference with magical energies.

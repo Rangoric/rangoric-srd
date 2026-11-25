@@ -29,13 +29,13 @@ tags: [rangoric, rangoric/spell]
 
 # Walk Through Space
 
-*Conjuration (Teleportation)*
+_Conjuration (Teleportation)_
 
-  - **Level**: Alc 6, Mag 6, Psy 7, Sor/Wiz 7, Sum 6, Wit 7
-  - **Components**: V, S, M (a wren's egg)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level
+- **Level**: Alc 6, Mag 6, Psy 7, Sor/Wiz 7, Sum 6, Wit 7
+- **Components**: V, S, M (a wren's egg)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level
 
 When under the effects of this spell, you can teleport up to 30 feet as a move action. You must end this movement in an unoccupied space that you can stand on within line of sight. Alternatively, you can spend a move action to teleport to a standing position from lying prone. Teleporting does not provoke attacks of opportunity.

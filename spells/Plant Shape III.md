@@ -23,15 +23,15 @@ tags: [rangoric, rangoric/spell]
 
 # Plant Shape III
 
-*Transmutation (Polymorph)*
+_Transmutation (Polymorph)_
 
-  - **Level**: Sor/Wiz 7
-  - **Components**: V, S, M (a piece of the creature whose form you plan to assume)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 min./level (D)
+- **Level**: Sor/Wiz 7
+- **Components**: V, S, M (a piece of the creature whose form you plan to assume)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 min./level (D)
 
-This spell functions as *[[rangoric-srd/spells/Plant Shape II|plant shape II]]* except that it also allows you to assume the form of a Huge creature of the plant type. If the form you assume has any of the following abilities, you gain the listed ability: DR, regeneration 5, and trample.
+This spell functions as _[[rangoric-srd/spells/Plant Shape II|plant shape II]]_ except that it also allows you to assume the form of a Huge creature of the plant type. If the form you assume has any of the following abilities, you gain the listed ability: DR, regeneration 5, and trample.
 
-*Huge plant*: If the form you take is that of a Huge plant, you gain a +8 size bonus to your Strength, a –2 penalty to your Dexterity, a +4 size bonus to your Constitution, and a +6 natural armor bonus.
+_Huge plant_: If the form you take is that of a Huge plant, you gain a +8 size bonus to your Strength, a –2 penalty to your Dexterity, a +4 size bonus to your Constitution, and a +6 natural armor bonus.

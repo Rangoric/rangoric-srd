@@ -11,6 +11,6 @@ tags: [rangoric, rangoric/feat, fighter-bonus, epic]
 
 # Epic Toughness
 
-Benefit: The character gains +20 hit points.  
+Benefit: The character gains +20 hit points.
 
 Special: A character can gain this feat multiple times. Its effects stack.

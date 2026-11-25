@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Unlettered Arcanist
 
-*An [[rangoric-srd/classes/Arcanist#^arcanist-archetypes|arcanist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_An [[rangoric-srd/classes/Arcanist#^arcanist-archetypes|arcanist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Some arcanists store their spells as whispered secrets within familiars instead of on paper.
 

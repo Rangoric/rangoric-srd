@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Tatami-Do
 
-*Heavy armor.* Cost 1,000 gp; Armor Bonus +7; Maximum Dex Bonus +3; Armor Check Penalty –6; Arcane Spell Failure 35%; Speed 20 ft. (2) (30 ft.), 15 ft. (2) (20 ft.); Weight 45 lb. ^stats
+_Heavy armor._ Cost 1,000 gp; Armor Bonus +7; Maximum Dex Bonus +3; Armor Check Penalty –6; Arcane Spell Failure 35%; Speed 20 ft. (2) (30 ft.), 15 ft. (2) (20 ft.); Weight 45 lb. ^stats
 
 Worn by samurai as a lighter-weight alternative to o-yoroi, tatami-do is a full-body field armor that combines both metal lamellar and kikko components into a suit of mail with a cloth backing. It typically includes a collapsible kabuto helmet or an armored hood, a set of gauntlets, and arm, shoulder, and thigh guards.

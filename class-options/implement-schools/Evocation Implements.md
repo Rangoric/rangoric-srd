@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Evocation Implements
 
-*An [[rangoric-srd/classes/Occultist#^occultist-implements|implement school]] of the [[rangoric-srd/classes/Occultist|occultist]].*
+_An [[rangoric-srd/classes/Occultist#^occultist-implements|implement school]] of the [[rangoric-srd/classes/Occultist|occultist]]._
 
 Implements focused on evocation grant the ability to create and direct energy to protect and to destroy.
 

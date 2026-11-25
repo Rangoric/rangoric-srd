@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/word-of-power]
 
 # Altered Form
 
-*One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Change Words|Change group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]].*
+_One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Change Words|Change group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]]._
 
 **School** transmutation (polymorph)
 
@@ -33,4 +33,4 @@ The target of a wordspell with this effect word receives a +2 size bonus to Stre
 
 **Boost**: The target receives three benefits instead of two.
 
-**Boost**: This wordspell can use the *[[rangoric-srd/unearthed-arcana/Words of Power/Target Words/Selected|selected]]* target word. Boosting this effect word increases its level by 1.
+**Boost**: This wordspell can use the _[[rangoric-srd/unearthed-arcana/Words of Power/Target Words/Selected|selected]]_ target word. Boosting this effect word increases its level by 1.

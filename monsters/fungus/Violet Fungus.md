@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Violet Fungus
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
-  - **Hit Dice**: 4d8+12 (30 hp)
-  - **Initiative**: –1
-  - **Speed**: 10 ft. (2 squares)
-  - **Armor Class**: 15 (–1 Dex, +6 natural), touch 9, flat-footed 15
-  - **Base Attack**: +3; **CMB**: +4; **CMD**: 13
-  - **Attack**: Tentacle +4 melee (1d4+1 plus rot)
-  - **Full Attack**: 4 tentacles +4 melee (1d4+1 plus rot)
-  - **Space/Reach**: 5 ft./10 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-  - **Saves**: Fort +7, Ref +0, Will +1
-  - **Abilities**: Str 12, Dex 8, Con 16, Int —, Wis 11, Cha 9
-  - **Skills**: —
-  - **Feats**: —
-  - **Environment**: Any underground
-  - **Organization**: Solitary, pair, grove (3–12), patch (2–4), or mixed patch (2–4 violet fungi and 3–5 shriekers)
-  - **Challenge Rating**: 3
-  - **Treasure**: Incidental
-  - **Alignment**: Always neutral
-  - **Advancement**: 3–6 HD (Medium)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
+- **Hit Dice**: 4d8+12 (30 hp)
+- **Initiative**: –1
+- **Speed**: 10 ft. (2 squares)
+- **Armor Class**: 15 (–1 Dex, +6 natural), touch 9, flat-footed 15
+- **Base Attack**: +3; **CMB**: +4; **CMD**: 13
+- **Attack**: Tentacle +4 melee (1d4+1 plus rot)
+- **Full Attack**: 4 tentacles +4 melee (1d4+1 plus rot)
+- **Space/Reach**: 5 ft./10 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
+- **Saves**: Fort +7, Ref +0, Will +1
+- **Abilities**: Str 12, Dex 8, Con 16, Int —, Wis 11, Cha 9
+- **Skills**: —
+- **Feats**: —
+- **Environment**: Any underground
+- **Organization**: Solitary, pair, grove (3–12), patch (2–4), or mixed patch (2–4 violet fungi and 3–5 shriekers)
+- **Challenge Rating**: 3
+- **Treasure**: Incidental
+- **Alignment**: Always neutral
+- **Advancement**: 3–6 HD (Medium)
+- **Level Adjustment**: —
 
 The violet fungus is one of the most notorious and feared dangers of the world's caves. A traveler can often see signs of the violet fungus in those who dwell or hunt in places where these carnivorous fungi lurk. In these folk, deep and hideous scars mar bodies where entire furrows of flesh seem scooped away—the marks of a close encounter with a violet fungus.
 
@@ -84,4 +84,3 @@ A violet fungi’s coloration ranges from purple overall to dull gray or violet 
 A violet fungus flails about with its tentacles at living creatures that come within its reach.
 
 **Rot (Ex)**: A creature struck by a violet fungus's tentacle must succeed on a DC 15 Fortitude save or the flesh around the point of contact swiftly begins to rot away, exposing raw bone with shocking swiftness. This hideous affliction causes 1d4 points of Strength damage and 1d4 points of Constitution damage. This is a poison effect. The save DC is Constitution-based.
-

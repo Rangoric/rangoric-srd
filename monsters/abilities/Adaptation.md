@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Adaptation
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “adaptation”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “adaptation”, on the Special Qualities line.
 
 A brethedan's body is extremely mutable, and can adapt to respond to virtually any situation. Once per round as a swift action that does not provoke attacks of opportunity, a brethedan can reshape its body and chemistry to adopt any of the following qualities.
 

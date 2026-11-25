@@ -39,27 +39,27 @@ tags: [rangoric, rangoric/monster]
 
 # Silver Steed
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
-  - **Hit Dice**: 10d10 (55 hp)
-  - **Initiative**: +1
-  - **Speed**: 60 ft. (12 squares), fly 70 ft. (good)
-  - **Armor Class**: 30 (–1 size, +1 Dex, +20 natural), touch 10, flat-footed 29
-  - **Base Attack**: +7; **CMB**: +18; **CMD**: 29
-  - **Attack**: Hoof +16 melee (1d8+10)
-  - **Full Attack**: 4 hooves +16 melee (1d8+10) and bite +11 melee (1d6+5)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 50/magic, flight, magic immunity, self repair
-  - **Saves**: Fort +3, Ref +4, Will +3
-  - **Abilities**: Str 30, Dex 13, Con —, Int —, Wis 10, Cha 2
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +7
-  - **Feats**: —
-  - **Environment**: Any land
-  - **Organization**: Solitary or herd (2–5)
-  - **Challenge Rating**: 9
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: 11–16 HD (Large); 17–30 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
+- **Hit Dice**: 10d10 (55 hp)
+- **Initiative**: +1
+- **Speed**: 60 ft. (12 squares), fly 70 ft. (good)
+- **Armor Class**: 30 (–1 size, +1 Dex, +20 natural), touch 10, flat-footed 29
+- **Base Attack**: +7; **CMB**: +18; **CMD**: 29
+- **Attack**: Hoof +16 melee (1d8+10)
+- **Full Attack**: 4 hooves +16 melee (1d8+10) and bite +11 melee (1d6+5)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 50/magic, flight, magic immunity, self repair
+- **Saves**: Fort +3, Ref +4, Will +3
+- **Abilities**: Str 30, Dex 13, Con —, Int —, Wis 10, Cha 2
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +7
+- **Feats**: —
+- **Environment**: Any land
+- **Organization**: Solitary or herd (2–5)
+- **Challenge Rating**: 9
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: 11–16 HD (Large); 17–30 HD (Huge)
+- **Level Adjustment**: —
 
 The fabulous silver steeds are beautifully crafted, eight-legged, silver warhorses. These steeds are highly coveted devices that can add to a warrior’s prowess in battle, or fight on their own as guardians.
 
@@ -79,7 +79,7 @@ A third command word deactivates the steed. Once deactivated, the steed remains 
 
 **Flight (Sp):** Every silver steed is capable of magical flight. The creature simply lifts off the ground at the rider’s command, with all 8 legs continuing to move as though the creature were running along solid ground.
 
-**Magic Immunity (Ex):** A silver steed is immune to all spells, spell-like abilities, and supernatural effects, except as indicated. Cold effects slow the steed, as the *[[rangoric-srd/spells/Slow|slow]]* spell, for 3 rounds unless the steed succeeds at a Fortitude save (DC equal to the amount of cold damage done to it). Magical fire effects break any slow effects on the steed.
+**Magic Immunity (Ex):** A silver steed is immune to all spells, spell-like abilities, and supernatural effects, except as indicated. Cold effects slow the steed, as the _[[rangoric-srd/spells/Slow|slow]]_ spell, for 3 rounds unless the steed succeeds at a Fortitude save (DC equal to the amount of cold damage done to it). Magical fire effects break any slow effects on the steed.
 
 **Self Repair (Sp):** The steed can heal itself by burning gems at the rate of 100 gp worth of gems per hit point regained. These gems are dropped into a special slot located at the base of the construct’s neck. A silver steed holds up to 10,000 gp worth of gems in its furnace at any given time, burning the gems as they are needed. A rider can drop gems into the slot to refill the furnace without dismounting. Reloading the furnace with up to four gems at once is a standard action.
 
@@ -87,13 +87,13 @@ The steed’s self-repair ability is quite powerful, able to even reattach sever
 
 ## Carrying Capacity
 
-A light load for a *silver steed* is anything up to 1,000 pounds; a medium load 1,001 to 2,000 pounds; and a heavy load 2,001 to 3,000 pounds. A *silver steed* can drag 10,000 pounds.
+A light load for a _silver steed_ is anything up to 1,000 pounds; a medium load 1,001 to 2,000 pounds; and a heavy load 2,001 to 3,000 pounds. A _silver steed_ can drag 10,000 pounds.
 
 ## Construction
 
 The body of a silver steed is built from pure silver, and requires a successful [[rangoric-srd/skills/Craft|Craft]] (armor or weapon smithing) check to assemble its body (DC 20). A silver steed costs 120,000 gp to create, which includes 25,000 gp for the body. Gems used for healing the steed must be purchased separately. The spirit that powers the golem is typically summoned from the Elemental Plane of Air.
 
-CL 16th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Fly|fly]]*, *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, *[[rangoric-srd/spells/Limited Wish|limited wish]]*, *[[rangoric-srd/spells/Polymorph Any Object|polymorph any object]]*; Cost 120,000 gp + 2,400 XP (the ritual drains the XP).
+CL 16th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Limited Wish|limited wish]]_, _[[rangoric-srd/spells/Polymorph Any Object|polymorph any object]]_; Cost 120,000 gp + 2,400 XP (the ritual drains the XP).
 
 ## Campaign Notes
 

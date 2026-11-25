@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, fighter-bonus, epic]
 
 # Combat Archery
 
-Prerequisites: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]].  
+Prerequisites: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]].
 
 Benefit: The character does not incur any attacks of opportunity for firing a bow when threatened.
 

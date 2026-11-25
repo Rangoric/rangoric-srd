@@ -39,7 +39,7 @@ Even if the creature is of a kind that normally advances by Hit Dice rather than
 
 **Ability Scores for Monster PCs**: While a monsters statistics give the ability scores for a typical creature of a certain kind, any “monster” creature that becomes an adventurer is definitely not typical. Therefore, when creating a PC from a creature, check to see if the creature’s entry has any ability scores of 10 or higher. If so, for each score, subtract 10 (if the score is even) or 11 (if the score is odd) to get the creature’s modifier for that ability based on its race or kind. Generate the character’s ability scores as normal, then add the racial ability modifiers to get their ability scores.
 
-*Note*: Some monsters have base ability scores other than 10 and 11. If alternate scores were used this will be indicated in the monster entry. Also, some monsters that make good PCs have their racial ability modifiers and other traits already listed in their monster entry.
+_Note_: Some monsters have base ability scores other than 10 and 11. If alternate scores were used this will be indicated in the monster entry. Also, some monsters that make good PCs have their racial ability modifiers and other traits already listed in their monster entry.
 
 For ability scores lower than 10, the procedure is different. First, determine the character’s ability scores, and compare that number to the monster’s average ability score, using either the table below that applies to Intelligence or the table that applies to the other five ability scores.
 

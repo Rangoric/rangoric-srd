@@ -23,12 +23,12 @@ tags: [rangoric, rangoric/magic-item]
 
 Soon after falling into the hands of a new owner, this piece of finely varnished cedar develops ornamental brass keys, strings, or other decorations that make it look like a stylized version of its owner's favorite type of musical instrument. It allows use of the following spells:
 
-- *[[rangoric-srd/spells/Calm Emotions|calm emotions]]* (1 charge)
-- *[[rangoric-srd/spells/Glibness|glibness]]* (1 charge)
-- *[[rangoric-srd/spells/Hypnotic Pattern|hypnotic pattern]]* (1 charge)
-- *[[rangoric-srd/spells/Pyrotechnics|pyrotechnics]]* (1 charge)
-- *[[rangoric-srd/spells/Enthrall|enthrall]]* (2 charges)
-- *[[rangoric-srd/spells/Major Image|major image]]* (2 charges)
-- *[[rangoric-srd/spells/Sculpt Sound|sculpt sound]]* (2 charges)
+- _[[rangoric-srd/spells/Calm Emotions|calm emotions]]_ (1 charge)
+- _[[rangoric-srd/spells/Glibness|glibness]]_ (1 charge)
+- _[[rangoric-srd/spells/Hypnotic Pattern|hypnotic pattern]]_ (1 charge)
+- _[[rangoric-srd/spells/Pyrotechnics|pyrotechnics]]_ (1 charge)
+- _[[rangoric-srd/spells/Enthrall|enthrall]]_ (2 charges)
+- _[[rangoric-srd/spells/Major Image|major image]]_ (2 charges)
+- _[[rangoric-srd/spells/Sculpt Sound|sculpt sound]]_ (2 charges)
 
-Moderate varied; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Calm Emotions|calm emotions]]*, *[[rangoric-srd/spells/Enthrall|enthrall]]*, *[[rangoric-srd/spells/Glibness|glibness]]*, *[[rangoric-srd/spells/Hypnotic Pattern|hypnotic pattern]]*, *[[rangoric-srd/spells/Major Image|major image]]*, *[[rangoric-srd/spells/Pyrotechnics|pyrotechnics]]*, *[[rangoric-srd/spells/Sculpt Sound|sculpt sound]]*; Price 48,800 gp; Cost 24,400 gp; Weight 5 lbs.
+Moderate varied; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Calm Emotions|calm emotions]]_, _[[rangoric-srd/spells/Enthrall|enthrall]]_, _[[rangoric-srd/spells/Glibness|glibness]]_, _[[rangoric-srd/spells/Hypnotic Pattern|hypnotic pattern]]_, _[[rangoric-srd/spells/Major Image|major image]]_, _[[rangoric-srd/spells/Pyrotechnics|pyrotechnics]]_, _[[rangoric-srd/spells/Sculpt Sound|sculpt sound]]_; Price 48,800 gp; Cost 24,400 gp; Weight 5 lbs.

@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This woolen long coat is typically worn over light armor by military commanders. A [[rangoric-srd/classes/Cavalier|cavalier]] with the [[rangoric-srd/classes/Cavalier#^cavalier-tactician|tactician]] ability may use that ability one additional time per day, and his tactician ability affects allies within 60 feet instead of 30 feet.
 
-Faint enchantment; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Heroism|heroism]]*; Price 7,000 gp; Cost 3,500 gp; Weight 5 lbs.
+Faint enchantment; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Heroism|heroism]]_; Price 7,000 gp; Cost 3,500 gp; Weight 5 lbs.

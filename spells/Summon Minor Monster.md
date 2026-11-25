@@ -36,15 +36,15 @@ tags: [rangoric, rangoric/spell]
 
 # Summon Minor Monster
 
-*Conjuration (Summoning)*
+_Conjuration (Summoning)_
 
-  - **Level**: Apl 1, Brd 1, Clr 1, Med 1, Psy 1, Skd 1, Sor/Wiz 1, Sum 1, SumU 1, Wit 1
-  - **Components**: V, S, F/DF (a tiny bag and a small candle)
-  - **Casting Time**: 1 round
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: 1d3 summoned creatures
-  - **Duration**: 1 round/level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Apl 1, Brd 1, Clr 1, Med 1, Psy 1, Skd 1, Sor/Wiz 1, Sum 1, SumU 1, Wit 1
+- **Components**: V, S, F/DF (a tiny bag and a small candle)
+- **Casting Time**: 1 round
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: 1d3 summoned creatures
+- **Duration**: 1 round/level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-This spell functions as *[[rangoric-srd/spells/Summon Monster I|summon monster I]]*, except you can summon 1d3 Tiny or smaller animals, such as bats, lizards, monkeys, rats, ravens, toads, or weasels. The summoned animals must all be the same type of creature. As with animals summoned with *[[rangoric-srd/spells/Summon Monster I|summon monster I]]*, you may apply one alignment-appropriate template to these animals.
+This spell functions as _[[rangoric-srd/spells/Summon Monster I|summon monster I]]_, except you can summon 1d3 Tiny or smaller animals, such as bats, lizards, monkeys, rats, ravens, toads, or weasels. The summoned animals must all be the same type of creature. As with animals summoned with _[[rangoric-srd/spells/Summon Monster I|summon monster I]]_, you may apply one alignment-appropriate template to these animals.

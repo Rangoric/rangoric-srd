@@ -23,15 +23,15 @@ tags: [rangoric, rangoric/spell]
 
 # Intellect Fortress III
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Psy 6
-  - **Components**: V
-  - **Casting Time**: 1 immediate action
-  - **Range**: 20 ft.
-  - **Area**: 20-ft.-radius emanation centered on you
-  - **Duration**: 1 round
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Psy 6
+- **Components**: V
+- **Casting Time**: 1 immediate action
+- **Range**: 20 ft.
+- **Area**: 20-ft.-radius emanation centered on you
+- **Duration**: 1 round
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
-This spell functions as *[[rangoric-srd/spells/Intellect Fortress II|intellect fortress II]]*, but creatures within the area who succeed at a saving throw against a fear or emotion effect suffer no effects, even if there is usually a partial effect on a successful saving throw. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].
+This spell functions as _[[rangoric-srd/spells/Intellect Fortress II|intellect fortress II]]_, but creatures within the area who succeed at a saving throw against a fear or emotion effect suffer no effects, even if there is usually a partial effect on a successful saving throw. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].

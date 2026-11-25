@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Disenchanter
 
-*A [[rangoric-srd/classes/Warpriest#^warpriest-archetypes|warpriest]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Warpriest#^warpriest-archetypes|warpriest]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 While many warpriests focus on threats to the body, the disenchanter focuses on dangers to the mind and the soul. Using the power of his patron, the disenchanter seeks to keep the powers of magic in check.
 
@@ -26,4 +26,4 @@ While many warpriests focus on threats to the body, the disenchanter focuses on 
 
 **Mystic Interference (Su)**: At 4th level, a disenchanter can channel a burst of pure abjuration magic to grant protection to himself and all allies within 30 feet. Affected creatures receive a +1 bonus on saving throws against spells and spell-like abilities for a number of rounds equal to his warpriest level. This is a sacred bonus if the warpriest is good-aligned or able to [[rangoric-srd/classes/Warpriest#^warpriest-spontaneous-casting|spontaneously cast]] cure spells, and a profane bonus if the warpriest is evil-aligned or able to spontaneously cast inflict spells. Using this ability consumes two uses of his [[rangoric-srd/classes/Warpriest#^warpriest-fervor|fervor]] ability. At 8th level and every 4 levels thereafter, the bonus granted by mystic interference increases by 1 (to a maximum of +5 at 20th level). This ability replaces [[rangoric-srd/classes/Warpriest#^warpriest-channel-energy|channel energy]].
 
-**Banish Enchantment (Su)**: At 6th level, a disenchanter learns to focus his mystic interference. As a standard action, he can consume two uses of his fervor ability to target a single creature within 30 feet with a targeted *[[rangoric-srd/spells/Dispel Magic|dispel magic]]*. This ability replaces the [[rangoric-srd/classes/Warpriest#^warpriest-bonus-feats|bonus feat]] gained at 6th level.
+**Banish Enchantment (Su)**: At 6th level, a disenchanter learns to focus his mystic interference. As a standard action, he can consume two uses of his fervor ability to target a single creature within 30 feet with a targeted _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_. This ability replaces the [[rangoric-srd/classes/Warpriest#^warpriest-bonus-feats|bonus feat]] gained at 6th level.

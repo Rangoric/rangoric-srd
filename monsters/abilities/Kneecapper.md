@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Kneecapper
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “kneecapper”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “kneecapper”, on the Special Qualities line.
 
 A nuglub has a +4 racial bonus on combat maneuver checks to trip an opponent. The [[rangoric-srd/monsters/gremlin/Nuglub|nuglub]] has it.

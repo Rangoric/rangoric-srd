@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/armor]
 
 # Haramaki
 
-*Light armor.* Cost 3 gp; Armor Bonus +1; Armor Check Penalty 0; Arcane Spell Failure 0%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 1 lb. ^stats
+_Light armor._ Cost 3 gp; Armor Bonus +1; Armor Check Penalty 0; Arcane Spell Failure 0%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 1 lb. ^stats
 
 Also called a belly-warmer, a haramaki is a simple silken sash lined with chainmail or articulated metal plates and tied about the stomach to protect it.

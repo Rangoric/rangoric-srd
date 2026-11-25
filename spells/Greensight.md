@@ -28,15 +28,15 @@ tags: [rangoric, rangoric/spell]
 
 # Greensight
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Drd 2, Hun 2, Rgr 2, Sor/Wiz 2
-  - **Components**: V, S, M (a leaf)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 10 \* caster level minute(s)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: No
+- **Level**: Drd 2, Hun 2, Rgr 2, Sor/Wiz 2
+- **Components**: V, S, M (a leaf)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 10 \* caster level minute(s)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: No
 
-The target of this spell gains the ability to see up to 60 feet through thick plant matter as though it were transparent. Greenery, leaves, and vines-even lichen, moss, and slime-offer no concealment to the recipient's sight, though her vision still can be blocked by solid wood, such as trees or wooden structures. Undergrowth does not grant concealment to a creature against a target of the effects of *greensight*.
+The target of this spell gains the ability to see up to 60 feet through thick plant matter as though it were transparent. Greenery, leaves, and vines-even lichen, moss, and slime-offer no concealment to the recipient's sight, though her vision still can be blocked by solid wood, such as trees or wooden structures. Undergrowth does not grant concealment to a creature against a target of the effects of _greensight_.

@@ -28,10 +28,10 @@ Creatures championing the season of Autumn celebrate the harvest, the end of the
 
 How these effects work is in [[rangoric-srd/races/aspects-of-nature/Aspects of Nature#Aspect of Nature Effects|Aspect of Nature Effects]].
 
-| Facet | Bonus | Penalty |
-| --- | --- | --- |
-| Autumnal Splendor | +1 to Reflex saving throws | -1 to Fortitude saving throws |
-| Darkening Skies | capable spellcasting (acid) | crude spellcasting (electricity) |
-| Falling Leaves | effective spellcasting (sonic) | ineffective spellcasting (force) |
-| The Harvest | +1 to Attack rolls 3x/day | -1 to AC 3x/day |
-| Renewal | +1 to Damage rolls 3x/day | -1 to Attack rolls 3x/day |
+| Facet             | Bonus                          | Penalty                          |
+| ----------------- | ------------------------------ | -------------------------------- |
+| Autumnal Splendor | +1 to Reflex saving throws     | -1 to Fortitude saving throws    |
+| Darkening Skies   | capable spellcasting (acid)    | crude spellcasting (electricity) |
+| Falling Leaves    | effective spellcasting (sonic) | ineffective spellcasting (force) |
+| The Harvest       | +1 to Attack rolls 3x/day      | -1 to AC 3x/day                  |
+| Renewal           | +1 to Damage rolls 3x/day      | -1 to Attack rolls 3x/day        |

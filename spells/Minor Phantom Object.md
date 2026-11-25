@@ -29,15 +29,15 @@ tags: [rangoric, rangoric/spell]
 
 # Minor Phantom Object
 
-*Illusion (Figment) \[Mind-affecting\]*
+_Illusion (Figment) \[Mind-affecting\]_
 
-  - **Level**: Mes 4, Psy 4, Sor/Wiz 4
-  - **Components**: V, S
-  - **Casting Time**: 1 minute
-  - **Range**: 0 ft.
-  - **Effect**: Phantasmal, unattended, nonmagical object of nonliving plant matter, up to 1 cu. ft./level
-  - **Duration**: 10 minutes/level (D)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Mes 4, Psy 4, Sor/Wiz 4
+- **Components**: V, S
+- **Casting Time**: 1 minute
+- **Range**: 0 ft.
+- **Effect**: Phantasmal, unattended, nonmagical object of nonliving plant matter, up to 1 cu. ft./level
+- **Duration**: 10 minutes/level (D)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
-This spell functions as the *minor creation spell*, except the object created is a semi-real phantasm. Any creature that interacts with the object may make a Will save, with success causing the object to cease to exist. A gnome casting this spell may make a Arcana check in place of any Craft check required to make a complex item.
+This spell functions as the _minor creation spell_, except the object created is a semi-real phantasm. Any creature that interacts with the object may make a Will save, with success causing the object to cease to exist. A gnome casting this spell may make a Arcana check in place of any Craft check required to make a complex item.

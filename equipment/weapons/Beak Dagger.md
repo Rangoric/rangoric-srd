@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades, weapon-group/thrown
 
 # Beak Dagger
 
-*Simple light melee weapon.* Cost 40 gp; Dmg 1d3+1 (S), 1d4+1 (M); Critical 19-20/x2; Range Increment 10 ft.; Weight 1 lb.; Type Piercing. ^stats
+_Simple light melee weapon._ Cost 40 gp; Dmg 1d3+1 (S), 1d4+1 (M); Critical 19-20/x2; Range Increment 10 ft.; Weight 1 lb.; Type Piercing. ^stats
 
 This small knife is made from a creature’s beak. Strong as normal iron, this blade is razor sharp. Primitive cultures and barbarians often employ this type of weapon.

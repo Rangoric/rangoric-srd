@@ -50,7 +50,7 @@ This is the second version of the lycanthrope template; the first is [[rangoric-
 
 A creature that catches lycanthropy becomes an afflicted lycanthrope, but shows no symptoms (and does not gain any of the template’s adjustments or abilities) until the night of the next full moon, when the victim involuntarily assumes animal form and forgets his or her own identity. The character remains in animal form until the next dawn and remembers nothing about the entire episode (or subsequent episodes) unless he makes a DC 20 Will save, in which case he becomes aware of his condition.
 
-A *[[rangoric-srd/spells/Remove Disease|remove disease]]* or *[[rangoric-srd/spells/Heal (Spell)|heal]]* spell cast by a [[rangoric-srd/classes/Cleric|cleric]] of 12th level or higher cures the affliction, provided the character receives the spell within 3 days of the infecting lycanthrope’s attack. Alternatively, consuming a dose of [[rangoric-srd/rules/afflictions/Wolfsbane|wolfsbane]] gives an afflicted lycanthrope a new Fortitude save to recover from lycanthropy.
+A _[[rangoric-srd/spells/Remove Disease|remove disease]]_ or _[[rangoric-srd/spells/Heal (Spell)|heal]]_ spell cast by a [[rangoric-srd/classes/Cleric|cleric]] of 12th level or higher cures the affliction, provided the character receives the spell within 3 days of the infecting lycanthrope’s attack. Alternatively, consuming a dose of [[rangoric-srd/rules/afflictions/Wolfsbane|wolfsbane]] gives an afflicted lycanthrope a new Fortitude save to recover from lycanthropy.
 
 #### Lycanthropic Player Characters
 

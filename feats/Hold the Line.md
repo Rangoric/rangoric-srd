@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat]
 
 # Hold the Line
 
-Prerequisites: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], base attack bonus +2.  
+Prerequisites: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], base attack bonus +2.
 
 Benefit: You may make an attack of opportunity against a [[rangoric-srd/combat/Combat Special Attacks#Charge|charging]] opponent who enters an area you threaten.  Your attack of opportunity happens immediately before the charge attack is resolved.
 

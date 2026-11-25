@@ -39,30 +39,30 @@ tags: [rangoric, rangoric/monster]
 
 # Gloomwing
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Extraplanar)
-  - **Hit Dice**: 5d10+10 (37 hp)
-  - **Initiative**: +3
-  - **Speed**: 10 ft. (2 squares), fly 40 ft. (good)
-  - **Armor Class**: 19 (+3 Dex, +7 natural, –1 size), touch 12, flat-footed 16
-  - **Base Attack**: +5; **CMB**: +8; **CMD**: 21
-  - **Attack**: Bite +6 melee (1d8+2) or claw +6 melee (1d6+2)
-  - **Full Attack**: Bite +6 melee (1d8+2) and 2 claws +6 melee (1d6+2)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Confusion (Gloomwing)|Confusion]], [[rangoric-srd/monsters/abilities/Implant (Gloomwing)|implant]], [[rangoric-srd/monsters/abilities/Pheromones|pheromones]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
-  - **Saves**: Fort +3, Ref +7, Will +5
-  - **Abilities**: Str 15, Dex 17, Con 15, Int 2, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +7 (+11 in dim light)
-  - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (confusion), [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Hover|Hover]]
-  - **Environment**: Any (Plane of Shadow)
-  - **Organization**: Solitary
-  - **Challenge Rating**: 4
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Extraplanar)
+- **Hit Dice**: 5d10+10 (37 hp)
+- **Initiative**: +3
+- **Speed**: 10 ft. (2 squares), fly 40 ft. (good)
+- **Armor Class**: 19 (+3 Dex, +7 natural, –1 size), touch 12, flat-footed 16
+- **Base Attack**: +5; **CMB**: +8; **CMD**: 21
+- **Attack**: Bite +6 melee (1d8+2) or claw +6 melee (1d6+2)
+- **Full Attack**: Bite +6 melee (1d8+2) and 2 claws +6 melee (1d6+2)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Confusion (Gloomwing)|Confusion]], [[rangoric-srd/monsters/abilities/Implant (Gloomwing)|implant]], [[rangoric-srd/monsters/abilities/Pheromones|pheromones]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
+- **Saves**: Fort +3, Ref +7, Will +5
+- **Abilities**: Str 15, Dex 17, Con 15, Int 2, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +7 (+11 in dim light)
+- **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (confusion), [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Hover|Hover]]
+- **Environment**: Any (Plane of Shadow)
+- **Organization**: Solitary
+- **Challenge Rating**: 4
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
-Gloomwings are strange, moth-like natives of the Plane of Shadow. Despite their appearance, they are not vermin and possess a crude but serviceable intelligence. While gloomwings can be conjured via spells like *lesser planar ally* or *lesser planar binding* to serve as guardians or even mounts, occasionally a gloomwing will slip through a tear in the fabric of the planes and make the journey to the Material Plane on its own. A gloomwing loose on the Material Plane is active for 2 to 3 hours at dawn and again for 2 to 3 hours at dusk, preferring to spend the remaining hours of the day hiding in abandoned buildings, caves, or deep canyons or foliage where the shadows are thickest. During its periods of activity, it flies through the sky on the hunt for creatures to attack and implant its eggs in—the gloomwing does not need to eat, leaving this urge to propagate its species as its primary drive.
+Gloomwings are strange, moth-like natives of the Plane of Shadow. Despite their appearance, they are not vermin and possess a crude but serviceable intelligence. While gloomwings can be conjured via spells like _lesser planar ally_ or _lesser planar binding_ to serve as guardians or even mounts, occasionally a gloomwing will slip through a tear in the fabric of the planes and make the journey to the Material Plane on its own. A gloomwing loose on the Material Plane is active for 2 to 3 hours at dawn and again for 2 to 3 hours at dusk, preferring to spend the remaining hours of the day hiding in abandoned buildings, caves, or deep canyons or foliage where the shadows are thickest. During its periods of activity, it flies through the sky on the hunt for creatures to attack and implant its eggs in—the gloomwing does not need to eat, leaving this urge to propagate its species as its primary drive.
 
 For all the dangers a gloomwing presents, it is the creature's young that pose the gravest threat. These creatures are known as tenebrous worms, and despite being the larval form of the adult gloomwing, are much more dangerous creatures. The fact that a gloomwing can lay several eggs a day if presented with enough living hosts makes them dangerous not for what they can inflict themselves, but for what they can spawn.
 

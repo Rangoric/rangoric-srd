@@ -29,7 +29,7 @@ Psychometabolism
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 min./level (D)  
-**Power Points:** 15  
+**Power Points:** 15
 
 Your body and all your equipment are subsumed by your shadow. As a living shadow, you blend perfectly into any other shadow and vanish in darkness. You appear as an unattached shadow in areas of full light.
 

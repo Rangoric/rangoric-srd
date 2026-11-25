@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Hydra Traits
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “hydra traits”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “hydra traits”, on the Special Qualities line.
 
 A hydra can be killed by severing all of its heads or slaying its body. Any attack that is not an attempt to sever a head affects the body, including area attacks or attacks that cause piercing or bludgeoning damage. To sever a head, an opponent must make a [[rangoric-srd/combat/Combat Maneuvers#Sunder|sunder]] attempt with a slashing weapon targeting a head. A head is considered a separate weapon with hardness 0 and hit points equal to the hydra’s HD. To sever a head, an opponent must inflict enough damage to reduce the head’s hit points to 0 or less. Severing a head deals damage to the hydra’s body equal to the hydra’s current HD. A hydra can’t attack with a severed head, but takes no other penalties.
 

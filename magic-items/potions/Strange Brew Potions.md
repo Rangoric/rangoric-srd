@@ -23,7 +23,7 @@ Some alchemists, through research, apprenticeship, guild membership or out-and-o
 
 The market prices for these brews both deadly and strange are considerably higher than typical potions for several reasons. They are incredibly rare, as relatively few alchemists possess the secret of creating them, and of this number, still fewer are willing to risk censure or worse from their brethren for selling them to outsiders. Finally, when they do work—however horrible the side effects may be—they represent more powerful potions than those found in the open market.
 
-Certain strange brews may be more common or morally acceptable in specific cultures. For example, drow spellcasters may be actually encouraged to create *[[rangoric-srd/magic-items/potions/Spider’s Kiss|spider’s kiss]]* draughts by their masters, while a lawful human undertaking the same project would be regarded as an abomination by her peers. Such factors may make a strange brew less costly in locales where society is more tolerant of such creations.
+Certain strange brews may be more common or morally acceptable in specific cultures. For example, drow spellcasters may be actually encouraged to create _[[rangoric-srd/magic-items/potions/Spider’s Kiss|spider’s kiss]]_ draughts by their masters, while a lawful human undertaking the same project would be regarded as an abomination by her peers. Such factors may make a strange brew less costly in locales where society is more tolerant of such creations.
 
 ## Strange Brews in the Campaign
 
@@ -31,7 +31,7 @@ Certain strange brews may be more common or morally acceptable in specific cultu
 
 There are a variety of ways a GM might introduce strange brews into the campaign. In any of these cases the characters may readily discover the benefits of a newly-encountered potion, but learn of its drawbacks only much later.
 
-The characters may discover them while investigating or ransacking the lab of an enemy spellcaster. Alternatively, they may discover notes describing the brewing of certain potions in the spellcaster’s notes. Or perhaps the characters encounter opponents using *strange brew* potions in battle. Ogre shamans may slather themselves with *[[rangoric-srd/magic-items/potions/Unguent of the Bear|unguent of the bear]]* before wading into battle, or gnolls may pack a surprising punch with a few swigs of *[[rangoric-srd/magic-items/potions/Spider’s Kiss|spider’s kiss]]*. Characters may well acquire doses of their own to play with once these foes are defeated, perhaps to their regret.
+The characters may discover them while investigating or ransacking the lab of an enemy spellcaster. Alternatively, they may discover notes describing the brewing of certain potions in the spellcaster’s notes. Or perhaps the characters encounter opponents using _strange brew_ potions in battle. Ogre shamans may slather themselves with _[[rangoric-srd/magic-items/potions/Unguent of the Bear|unguent of the bear]]_ before wading into battle, or gnolls may pack a surprising punch with a few swigs of _[[rangoric-srd/magic-items/potions/Spider’s Kiss|spider’s kiss]]_. Characters may well acquire doses of their own to play with once these foes are defeated, perhaps to their regret.
 
 If you’d like a strange brew to take more of a center stage in your adventures, perhaps one of the characters, or an NPC of the party’s acquaintance, is exposed and addicted to a certain strange brew as a blackmail measure by a rival or enemy. The characters may find themselves in a race against time to discover a remedy before some truly horrible side effect manifests itself.
 
@@ -49,7 +49,7 @@ You can get some ideas from the drawbacks of [[rangoric-srd/magic-items/Intellig
 
 **Curse of Hyde**: Repeated doses are required to avoid horrible side effects or mutations—and over time, more doses are required to stave off this fate. This is a death spiral with few escape routes, especially if you rule that only doses from the same batch of potion are effective in negating the side effects—a finite supply that grows smaller with every dose taken.
 
-**Insanity**: Using the potion has a destabilizing effect on the imbiber’s mental health, and repeated Will checks are required to maintain sanity while under the potion’s influence. Failure causes the character to enter a battle rage and attack everyone nearby, suffer from the effects of a *[[rangoric-srd/spells/Confusion|confusion]]* spell, change alignment or exhibit some other abnormal mental behavior.
+**Insanity**: Using the potion has a destabilizing effect on the imbiber’s mental health, and repeated Will checks are required to maintain sanity while under the potion’s influence. Failure causes the character to enter a battle rage and attack everyone nearby, suffer from the effects of a _[[rangoric-srd/spells/Confusion|confusion]]_ spell, change alignment or exhibit some other abnormal mental behavior.
 
 **Mark of the Beast**: Repeated use of a potion conferring some ability attributed to an animal or unpleasant magical beast eventually causes the imbiber to mutate into that beast or gain some of its less pleasant physical features (giant ant eyes, the amphibious skin of a frog, a squid beak for a mouth, and the like).
 

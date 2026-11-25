@@ -25,16 +25,16 @@ tags: [rangoric, rangoric/star]
 
 # Star of Justice
 
-*[[rangoric-srd/rules/star magic/Star Magic|Star]]* \[Mind-Affecting\]
+_[[rangoric-srd/rules/star magic/Star Magic|Star]]_ \[Mind-Affecting\]
 
-  - **Call Level**: 1st ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
-  - **Aspect**: Ascendant in winter, descendant in summer, on the horizon in spring and autumn ([[rangoric-srd/rules/star magic/Star Magic#^seasons|seasons]])
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: One creature
-  - **Duration**: 1 hour or until used
-  - **Saving Throw**: Will negates (see text)
-  - **Spell Resistance**: Yes
+- **Call Level**: 1st ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
+- **Aspect**: Ascendant in winter, descendant in summer, on the horizon in spring and autumn ([[rangoric-srd/rules/star magic/Star Magic#^seasons|seasons]])
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: One creature
+- **Duration**: 1 hour or until used
+- **Saving Throw**: Will negates (see text)
+- **Spell Resistance**: Yes
 
 The target must answer one yes-or-no question per call level with the whole truth as it knows it. It makes a separate Will save against each question; on a success it can answer as it likes. You aren't told whether any save succeeded.

@@ -27,7 +27,7 @@ Psychometabolism
 **Range:** Personal  
 **Target:** You  
 **Duration:** Instantaneous  
-**Power Points:** 3  
+**Power Points:** 3
 
 You gain the powerful charging ability of a lion. When you [[rangoric-srd/combat/Combat Special Attacks#Charge|charge]], you can make a full attack in the same round.
 

@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Spell Shield
 
-*A [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]] (Su).*
+_A [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]] (Su)._
 
 The magus can expend a point from his arcane pool as an immediate action to grant himself a shield bonus to AC equal to his Intelligence bonus until the end of his next turn.

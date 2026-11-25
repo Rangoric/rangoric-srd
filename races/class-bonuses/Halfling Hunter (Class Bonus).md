@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Halfling Hunter
 
-*A [[rangoric-srd/races/Halfling|halfling]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Hunter#^hunter-class-bonuses|hunter]] level.*
+_A [[rangoric-srd/races/Halfling|halfling]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Hunter#^hunter-class-bonuses|hunter]] level._
 
 The hunter's [[rangoric-srd/classes/Hunter#^hunter-animal-companion|animal companion]] gains a +1/4 luck bonus on saving throws. If the hunter replaces her animal companion, the new animal companion gains this bonus.

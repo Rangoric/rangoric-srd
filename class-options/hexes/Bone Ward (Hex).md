@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Bone Ward
 
-*A [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]] (Su) of the [[rangoric-srd/class-options/spirits/Bones Spirit|bones spirit]].*
+_A [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]] (Su) of the [[rangoric-srd/class-options/spirits/Bones Spirit|bones spirit]]._
 
 A shaman touches a willing creature (including herself) and grants a bone ward. The warded creature becomes encircled by a group of flying bones that grant it a +2 deflection bonus to AC for a number of rounds equal to the shaman's level. At 8th level, the ward increases to +3 and lasts for 1 minute. At 16th level, the bonus increases to +4 and lasts for 1 hour. Once the bone ward ends, the creature cannot be the target of the hex again for 24 hours.

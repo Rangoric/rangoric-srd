@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Sluggishness
 
-*A mesmerist’s [[rangoric-srd/classes/Mesmerist#^mesmerist-bold-stare|bold stare]] improvement (Su).*
+_A mesmerist’s [[rangoric-srd/classes/Mesmerist#^mesmerist-bold-stare|bold stare]] improvement (Su)._
 
 The target of the hypnotic stare has all of its speeds reduced by 5 feet (to a minimum of 5 feet), and the hypnotic stare penalty also applies to the target’s Reflex saving throws.

@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Eldritch Scion
 
-*A [[rangoric-srd/classes/Magus#^magus-archetypes|magus]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Magus#^magus-archetypes|magus]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Unlike typical magi, eldritch scions do not study tomes of magic or spend time learning to combine martial and magical skills. Rather, eldritch scions find that their spells and abilities come to them instinctively.
 

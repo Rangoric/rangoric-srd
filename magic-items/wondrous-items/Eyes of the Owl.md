@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/magic-item]
 
 These magical goggles are decorated with owl motifs, including clusters of feathers over the eyes. The wearer gains [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]].
 
-Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Beast Shape I|beast shape I]]*; Price 4,000 gp; Cost 2,000 gp.
+Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Beast Shape I|beast shape I]]_; Price 4,000 gp; Cost 2,000 gp.

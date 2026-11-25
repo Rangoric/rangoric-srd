@@ -34,7 +34,7 @@ Area: Cone-shaped burst centered on you
 Duration: Instantaneous  
 Saving Throw: Reflex half  
 Power Resistance: Yes  
-Power Points: 11  
+Power Points: 11
 
 Your mouth spews forth vitriolic acid that deals 11d6 points of acid damage to any targets in the area.
 

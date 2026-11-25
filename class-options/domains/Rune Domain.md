@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Rune Domain
 
-*A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
+_A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]]._
 
 **Subdomains**: [[rangoric-srd/class-options/domains/Language Subdomain|Language]], [[rangoric-srd/class-options/domains/Wards Subdomain|Wards]].
 
@@ -31,14 +31,14 @@ In strange and eldritch runes you find potent magic. You gain [[rangoric-srd/fea
 
 ## Domain Spells
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Erase\|Erase]] | Mundane or magical writing vanishes. |
-| 2nd | [[rangoric-srd/spells/Secret Page\|Secret Page]] | Changes one page to hide its real content. |
-| 3rd | [[rangoric-srd/spells/Glyph of Warding\|Glyph of Warding]] | Inscription harms those who pass it. |
-| 4th | [[rangoric-srd/spells/Explosive Runes\|Explosive Runes]] | Deals 6d6 damage when read. |
-| 5th | [[rangoric-srd/spells/Planar Binding, Lesser\|Lesser Planar Binding]] | Traps extraplanar creature of 6 HD or less until it performs a task. |
-| 6th | [[rangoric-srd/spells/Glyph of Warding, Greater\|Greater Glyph of Warding]] | As glyph of warding, but up to 10d8 damage or 6th-level spell. |
-| 7th | [[rangoric-srd/spells/Instant Summons\|Instant Summons]] | Prepared object appears in your hand. |
-| 8th | [[rangoric-srd/spells/Symbol of Death\|Symbol of Death]] | Triggered rune slays nearby creatures. |
-| 9th | [[rangoric-srd/spells/Teleportation Circle\|Teleportation Circle]] | Circle teleports any creature inside to designated spot. |
+| Level | Spell                                                                       | Brief Description                                                    |
+| ----- | --------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Erase\|Erase]]                                        | Mundane or magical writing vanishes.                                 |
+| 2nd   | [[rangoric-srd/spells/Secret Page\|Secret Page]]                            | Changes one page to hide its real content.                           |
+| 3rd   | [[rangoric-srd/spells/Glyph of Warding\|Glyph of Warding]]                  | Inscription harms those who pass it.                                 |
+| 4th   | [[rangoric-srd/spells/Explosive Runes\|Explosive Runes]]                    | Deals 6d6 damage when read.                                          |
+| 5th   | [[rangoric-srd/spells/Planar Binding, Lesser\|Lesser Planar Binding]]       | Traps extraplanar creature of 6 HD or less until it performs a task. |
+| 6th   | [[rangoric-srd/spells/Glyph of Warding, Greater\|Greater Glyph of Warding]] | As glyph of warding, but up to 10d8 damage or 6th-level spell.       |
+| 7th   | [[rangoric-srd/spells/Instant Summons\|Instant Summons]]                    | Prepared object appears in your hand.                                |
+| 8th   | [[rangoric-srd/spells/Symbol of Death\|Symbol of Death]]                    | Triggered rune slays nearby creatures.                               |
+| 9th   | [[rangoric-srd/spells/Teleportation Circle\|Teleportation Circle]]          | Circle teleports any creature inside to designated spot.             |

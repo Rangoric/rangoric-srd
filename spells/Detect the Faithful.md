@@ -30,15 +30,15 @@ tags: [rangoric, rangoric/spell]
 
 # Detect the Faithful
 
-*Divination*
+_Divination_
 
-  - **Level**: Apl 1, Clr 1, Drd 1, Hun 1, Inq 1, Pal 1, Rgr 1
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: 60 ft.
-  - **Area**: Cone-shaped emanation
-  - **Duration**: Concentration, up to 1 minute/level
-  - **Spell Resistance**: No
+- **Level**: Apl 1, Clr 1, Drd 1, Hun 1, Inq 1, Pal 1, Rgr 1
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: 60 ft.
+- **Area**: Cone-shaped emanation
+- **Duration**: Concentration, up to 1 minute/level
+- **Spell Resistance**: No
 
 You can detect other worshipers of your deity (mortal worshipers, outsider servants, and so on). The amount of information revealed depends on how long you focus on a particular area or subject.
 

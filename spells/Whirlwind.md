@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Whirlwind
 
-*Evocation \[Air\]*
+_Evocation \[Air\]_
 
-  - **Level**: Air 8, Drd 8, Sha 8
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Long (400 ft. + 40 ft./level)
-  - **Effect**: Cyclone 10 ft. wide at base, 30 ft. wide at top, and 30 ft. tall
-  - **Duration**: 1 round/level (D)
-  - **Saving Throw**: Reflex negates; see text
-  - **Spell Resistance**: Yes
+- **Level**: Air 8, Drd 8, Sha 8
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Long (400 ft. + 40 ft./level)
+- **Effect**: Cyclone 10 ft. wide at base, 30 ft. wide at top, and 30 ft. tall
+- **Duration**: 1 round/level (D)
+- **Saving Throw**: Reflex negates; see text
+- **Spell Resistance**: Yes
 
 This spell creates a powerful cyclone of raging wind that moves through the air, along the ground, or over water at a speed of 60 feet per round. You can concentrate on controlling the cyclone’s every movement or specify a simple program. Directing the cyclone’s movement or changing its programmed movement is a standard action for you. The cyclone always moves during your turn. If the cyclone exceeds the spell’s range, it moves in a random, uncontrolled fashion for 1d3 rounds and then dissipates. (You can’t regain control of the cyclone, even if comes back within range.)
 

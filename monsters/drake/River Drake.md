@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # River Drake
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Aquatic, Water)
-  - **Hit Dice**: 4d12+8 (34 hp)
-  - **Initiative**: +7
-  - **Speed**: 20 ft. (4 squares), fly 60 ft. (average), swim 30 ft.
-  - **Armor Class**: 16 (+3 Dex, +3 natural), touch 13, flat-footed 13
-  - **Base Attack**: +4; **CMB**: +7; **CMD**: 20
-  - **Attack**: Bite +7 melee (2d4+3) or tail slap +7 melee (1d4+1)
-  - **Full Attack**: Bite +7 melee (2d4+3) and tail slap +2 melee (1d4+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Caustic Mucus|Caustic mucus]], [[rangoric-srd/monsters/abilities/Pounce|pounce]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Speed Surge|speed surge]], immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 20
-  - **Saves**: Fort +6, Ref +7, Will +4
-  - **Abilities**: Str 17, Dex 16, Con 15, Int 8, Wis 10, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Temperate rivers or lakes
-  - **Organization**: Solitary, pair, or rampage (3–12)
-  - **Challenge Rating**: 3
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Aquatic, Water)
+- **Hit Dice**: 4d12+8 (34 hp)
+- **Initiative**: +7
+- **Speed**: 20 ft. (4 squares), fly 60 ft. (average), swim 30 ft.
+- **Armor Class**: 16 (+3 Dex, +3 natural), touch 13, flat-footed 13
+- **Base Attack**: +4; **CMB**: +7; **CMD**: 20
+- **Attack**: Bite +7 melee (2d4+3) or tail slap +7 melee (1d4+1)
+- **Full Attack**: Bite +7 melee (2d4+3) and tail slap +2 melee (1d4+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Caustic Mucus|Caustic mucus]], [[rangoric-srd/monsters/abilities/Pounce|pounce]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Speed Surge|speed surge]], immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 20
+- **Saves**: Fort +6, Ref +7, Will +4
+- **Abilities**: Str 17, Dex 16, Con 15, Int 8, Wis 10, Cha 9
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Temperate rivers or lakes
+- **Organization**: Solitary, pair, or rampage (3–12)
+- **Challenge Rating**: 3
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Preying upon fish and fishermen with equal ease, river drakes are scourges of freshwater expanses. They are thought to be related to black dragons, as evidenced by their acidic spit, water affinity, viciousness, and preference for rotten meat.
 

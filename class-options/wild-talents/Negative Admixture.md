@@ -18,14 +18,14 @@ tags: [rangoric, rangoric/class-option]
 
 # Negative Admixture
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#^composite-blasts|composite blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#^composite-blasts|composite blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Void Element|void]]
-  - **Type**: composite blast (Sp)
-  - **Level**: —
-  - **Burn**: 2
-  - **Prerequisites**: [[rangoric-srd/class-options/wild-talents/Negative Blast|negative blast]], any other energy simple blast
-  - **Blast Type**: energy
-  - **Damage**: see text
+- **Element**: [[rangoric-srd/class-options/elements/Void Element|void]]
+- **Type**: composite blast (Sp)
+- **Level**: —
+- **Burn**: 2
+- **Prerequisites**: [[rangoric-srd/class-options/wild-talents/Negative Blast|negative blast]], any other energy simple blast
+- **Blast Type**: energy
+- **Damage**: see text
 
 Choose another simple energy blast you know. Negative admixture’s damage is half negative energy, and half the chosen blast’s type.

@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Centipede, Giant
 
-*An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature ([[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede|monstrous centipede]]).*
+_An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature ([[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede|monstrous centipede]])._
 
 - **Size**: Small
 - **Speed**: 20 ft., climb 20 ft.

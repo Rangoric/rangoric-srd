@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/feat]
 
 You can marshal vast armies of the undead to serve you.
 
-**Prerequisites**: [[rangoric-srd/feats/Spell Focus|Spell Focus]] (necromancy), ability to cast *[[rangoric-srd/spells/Animate Dead|animate dead]]* or *[[rangoric-srd/spells/Command Undead|command undead]]*.
+**Prerequisites**: [[rangoric-srd/feats/Spell Focus|Spell Focus]] (necromancy), ability to cast _[[rangoric-srd/spells/Animate Dead|animate dead]]_ or _[[rangoric-srd/spells/Command Undead|command undead]]_.
 
-**Benefit**: When you cast *animate dead* or use [[rangoric-srd/combat/Combat Special Attacks#^channel-energy|channel energy]] to command undead, you count as four levels higher for how many Hit Dice of undead you can control. When you cast *command undead*, its duration is doubled.
+**Benefit**: When you cast _animate dead_ or use [[rangoric-srd/combat/Combat Special Attacks#^channel-energy|channel energy]] to command undead, you count as four levels higher for how many Hit Dice of undead you can control. When you cast _command undead_, its duration is doubled.

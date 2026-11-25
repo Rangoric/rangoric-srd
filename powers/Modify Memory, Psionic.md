@@ -34,6 +34,6 @@ Telepathy (Compulsion) \[Mind-Affecting\]
 **Duration:** Permanent  
 **Saving Throw:** Will negates  
 **Power Resistance:** Yes  
-**Power Points:** 7  
+**Power Points:** 7
 
 As the [[rangoric-srd/spells/Modify Memory|modify memory]] spell, except as noted here.

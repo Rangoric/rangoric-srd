@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Protection Blessing
 
-*A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Protection Domain|Protection domain]].*
+_A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Protection Domain|Protection domain]]._
 
 **Increased Defense (minor)**: At 1st level, you can gain a +1 sacred bonus on saving throws and a +1 sacred bonus to AC for 1 minute. The bonus increases to +2 at 10th level and +3 at 20th level.
 

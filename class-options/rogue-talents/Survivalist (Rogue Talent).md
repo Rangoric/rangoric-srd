@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Survivalist
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]].*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]]._
 
 A rogue with this talent adds Medicine and Fieldcraft to her list of class skills.

@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Muse
 
-Armors and shields with the *muse* enchantment are similar to those with the *inspiration* enchantment. In addition to being able to increase the wearer’s Performance skill, a bard with such an item receives a +5 insight bonus to all [[rangoric-srd/classes/Bard#^bardic-knowledge|bardic knowledge]] checks, a +2 competence bonus to all Craft checks, and is able to cast *[[rangoric-srd/spells/Legend Lore|legend lore]]* once per day as a standard action.
+Armors and shields with the _muse_ enchantment are similar to those with the _inspiration_ enchantment. In addition to being able to increase the wearer’s Performance skill, a bard with such an item receives a +5 insight bonus to all [[rangoric-srd/classes/Bard#^bardic-knowledge|bardic knowledge]] checks, a +2 competence bonus to all Craft checks, and is able to cast _[[rangoric-srd/spells/Legend Lore|legend lore]]_ once per day as a standard action.
 
-Moderate enchantment; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Enthrall|enthrall]]*, *[[rangoric-srd/spells/Legend Lore|legend lore]]*; Price +2 bonus.
+Moderate enchantment; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Enthrall|enthrall]]_, _[[rangoric-srd/spells/Legend Lore|legend lore]]_; Price +2 bonus.

@@ -29,10 +29,10 @@ This tome reeks of decomposing flesh or some even fouler stench. Grave mold clin
 
 ## Spells
 
-- **3rd**: *[[rangoric-srd/spells/Blood Biography|blood biography]]*, *[[rangoric-srd/spells/Ray of Exhaustion|ray of exhaustion]]*<sup>S</sup>, *[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]*<sup>S</sup>, *[[rangoric-srd/spells/Vitriolic Mist|vitriolic mist]]*
-- **2nd**: *[[rangoric-srd/spells/Command Undead|command undead]]*<sup>S</sup>, *[[rangoric-srd/spells/Create Treasure Map|create treasure map]]*, *[[rangoric-srd/spells/Ghoul Touch|ghoul touch]]*<sup>S</sup>, *[[rangoric-srd/spells/Spectral Hand|spectral hand]]*<sup>S</sup>, *[[rangoric-srd/spells/Stone Call|stone call]]*, *[[rangoric-srd/spells/Web|web]]*
-- **1st**: *[[rangoric-srd/spells/Burning Hands|burning hands]]*, *[[rangoric-srd/spells/Chill Touch|chill touch]]*<sup>S</sup>, *[[rangoric-srd/spells/Disguise Self|disguise self]]*, *[[rangoric-srd/spells/Mage Armor|mage armor]]*, *[[rangoric-srd/spells/Protection from Good|protection from good]]*, *[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]*<sup>S</sup>, *[[rangoric-srd/spells/Sculpt Corpse|sculpt corpse]]*<sup>S</sup>, *[[rangoric-srd/spells/Shield|shield]]*, *[[rangoric-srd/spells/True Strike|true strike]]*, *[[rangoric-srd/spells/Ventriloquism|ventriloquism]]*
-- **0**: standard plus *penumbra*
+- **3rd**: _[[rangoric-srd/spells/Blood Biography|blood biography]]_, _[[rangoric-srd/spells/Ray of Exhaustion|ray of exhaustion]]_<sup>S</sup>, _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_<sup>S</sup>, _[[rangoric-srd/spells/Vitriolic Mist|vitriolic mist]]_
+- **2nd**: _[[rangoric-srd/spells/Command Undead|command undead]]_<sup>S</sup>, _[[rangoric-srd/spells/Create Treasure Map|create treasure map]]_, _[[rangoric-srd/spells/Ghoul Touch|ghoul touch]]_<sup>S</sup>, _[[rangoric-srd/spells/Spectral Hand|spectral hand]]_<sup>S</sup>, _[[rangoric-srd/spells/Stone Call|stone call]]_, _[[rangoric-srd/spells/Web|web]]_
+- **1st**: _[[rangoric-srd/spells/Burning Hands|burning hands]]_, _[[rangoric-srd/spells/Chill Touch|chill touch]]_<sup>S</sup>, _[[rangoric-srd/spells/Disguise Self|disguise self]]_, _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Protection from Good|protection from good]]_, _[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]_<sup>S</sup>, _[[rangoric-srd/spells/Sculpt Corpse|sculpt corpse]]_<sup>S</sup>, _[[rangoric-srd/spells/Shield|shield]]_, _[[rangoric-srd/spells/True Strike|true strike]]_, _[[rangoric-srd/spells/Ventriloquism|ventriloquism]]_
+- **0**: standard plus _penumbra_
 
 ## Preparation Ritual
 

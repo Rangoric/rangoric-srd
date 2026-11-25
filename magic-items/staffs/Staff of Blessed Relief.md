@@ -23,8 +23,8 @@ tags: [rangoric, rangoric/magic-item]
 
 This simple wooden staff is given to young clergy when they first set out into the world to spread the charity of their faith. The staff allows use of the following spells:
 
-- *[[rangoric-srd/spells/Create Water|Create water]]* (1 charge)
-- *[[rangoric-srd/spells/Stabilize (Spell)|Stabilize]]* (1 charge)
-- *[[rangoric-srd/spells/Bless|Bless]]* (2 charges)
+- _[[rangoric-srd/spells/Create Water|Create water]]_ (1 charge)
+- _[[rangoric-srd/spells/Stabilize (Spell)|Stabilize]]_ (1 charge)
+- _[[rangoric-srd/spells/Bless|Bless]]_ (2 charges)
 
-Faint conjuration; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Bless|bless]]*, *[[rangoric-srd/spells/Create Water|create water]]*, *[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]*; Price 7,200 gp; Cost 3,600 gp; Weight 5 lbs.
+Faint conjuration; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Create Water|create water]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_; Price 7,200 gp; Cost 3,600 gp; Weight 5 lbs.

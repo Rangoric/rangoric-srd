@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Envious Urge
 
-*Enchantment (Compulsion) \[Emotion, Mind-affecting\]*
+_Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
 
-  - **Level**: Brd 4, Mes 4, Psy 6, Skd 4, Sor/Wiz 6
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Targets**: One creature/level, no two of which can be more than 30 ft. apart
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 4, Mes 4, Psy 6, Skd 4, Sor/Wiz 6
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Targets**: One creature/level, no two of which can be more than 30 ft. apart
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 You fill creatures with feelings of seething envy. Affected targets turn upon the nearest creature (whether an ally or enemy) and attempt to disarm it of a valuable weapon, steal something it is holding, or grapple it and strip it of something it prizes (your choice). Affected targets can attempt a new Will save each round as a free action to end this effect.

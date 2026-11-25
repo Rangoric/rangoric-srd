@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # True Strike
 
-*Divination*
+_Divination_
 
-  - **Level**: Alc 1, Blr 1, Inq 1, Mag 1, Med 1, Psy 1, Sor/Wiz 1
-  - **Components**: V, F
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: See text
+- **Level**: Alc 1, Blr 1, Inq 1, Mag 1, Med 1, Psy 1, Sor/Wiz 1
+- **Components**: V, F
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: See text
 
 You gain temporary, intuitive insight into the immediate future during your next attack. Your next single attack roll (if it is made before the end of the next round) gains a +20 insight bonus. Additionally, you are not affected by the miss chance that applies to attackers trying to strike a concealed target.
 
-*Focus*: A small wooden replica of an archery target.
+_Focus_: A small wooden replica of an archery target.

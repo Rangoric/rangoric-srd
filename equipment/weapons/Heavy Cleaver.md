@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/axes]
 
 # Heavy Cleaver
 
-*Martial two-handed melee weapon.* Cost 35 gp; Dmg 1d8 (S), 1d10 (M); Critical 18-20/x2; Weight 20 lb.; Type Slashing. ^stats
+_Martial two-handed melee weapon._ Cost 35 gp; Dmg 1d8 (S), 1d10 (M); Critical 18-20/x2; Weight 20 lb.; Type Slashing. ^stats
 
 This weapon consists of a long, straight, heavy, single-edged blade, and has a long hilt designed for two hands. This weapon is wielded more like an axe than a sword.

@@ -38,7 +38,7 @@ Levels: Most deities are 20 HD outsiders with 30 to 50 character levels as well.
 Character levels above 20th confer some, but not all, of the benefits of normal levels. Deities gain all the class features for all their levels. The deity also gains the normal Hit Die for that class, plus additional skill points as if the deity had a level in that class normally. The deity gains an ability bonus every four levels, and a feat every three levels.  
 Beyond character level 20th, deities’ attack and saving throw bonuses increase at new rates. Deities gain a +1 epic attack bonus at 21st level and every other level thereafter. No deity can have more than four attacks derived strictly from its base attack bonus.  Deities also gain a +1 bonus on saving throws at 22nd level and every other level thereafter.
 
-Hit Points: Deities receive maximum hit points for each Hit Die.  
+Hit Points: Deities receive maximum hit points for each Hit Die.
 
 Speed: Deities can move much more quickly than mortals. A deity’s base land speed depends on its form (biped or quadruped) and its size, as shown on the following table. Some deities are exceptions, with speeds faster or slower than the norm.
 
@@ -69,7 +69,7 @@ Attacks: A deity’s Hit Dice and type and character level determine its base at
 
 Bypassing Damage Reduction: As outsiders with alignment subtypes, the natural attacks of deities, as well as any weapons they wield, are considered aligned the same as the deity for the purposes of bypassing [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
-Always Maximize Roll: Greater deities (rank 16-20) automatically get the best result possible on any check, saving throw, attack roll, or damage roll. Calculate success, failure, or other effects accordingly. When a greater deity makes a check, attack, or save assume a 20 was rolled and calculate success or failure from there. A d20 should still be rolled and used to check for a threat of a critical hit.  This quality means that greater deities never need the [[rangoric-srd/feats/Maximize Spell|Maximize Spell]] feat, because their spells have maximum effect already.  
+Always Maximize Roll: Greater deities (rank 16-20) automatically get the best result possible on any check, saving throw, attack roll, or damage roll. Calculate success, failure, or other effects accordingly. When a greater deity makes a check, attack, or save assume a 20 was rolled and calculate success or failure from there. A d20 should still be rolled and used to check for a threat of a critical hit.  This quality means that greater deities never need the [[rangoric-srd/feats/Maximize Spell|Maximize Spell]] feat, because their spells have maximum effect already.
 
 Saving Throws: A deity’s outsider Hit Dice and character level determine its base saving throw bonuses. A deity gets its divine rank as a divine bonus on all saving throws. Deities of rank 1 or higher do not automatically fail on a natural saving throw roll of 1.
 
@@ -181,24 +181,24 @@ Remote Communication: As a standard action, a deity of rank 1 or higher can send
 Godly Realm: Each deity of rank 1 or higher has a location that serves as a workplace, personal residence, audience chamber, and sometimes as a retreat or fortress. A deity is at its most powerful within its godly realm. A deity has at least modest control over the environment within its realm, controlling the temperature and minor elements of the environment. The radius of this control is a function of the deity’s rank and whether the realm is located on an Outer Plane or some other plane (including the Material Plane).
 
 |             | --- Radius of Control --- | --- Radius of Control --- |
-| ----------- | -------------------------- | -------------------------- |
-| Divine Rank | Outer Plane                | Material Plane             |
-| 1-5         | 100 ft./rank               | 100 ft./rank               |
-| 6-10        | 1 mile                     | 100 ft./rank               |
-| 11-15       | 10 miles                   | 100 ft./rank               |
-| 16-20       | 100 miles                  | 100 ft./rank               |
+| ----------- | ------------------------- | ------------------------- |
+| Divine Rank | Outer Plane               | Material Plane            |
+| 1-5         | 100 ft./rank              | 100 ft./rank              |
+| 6-10        | 1 mile                    | 100 ft./rank              |
+| 11-15       | 10 miles                  | 100 ft./rank              |
+| 16-20       | 100 miles                 | 100 ft./rank              |
 
 Within this area, the deity can set any temperature that is normal for the plane where the realm is located (for the Material Plane, any temperature from -20ºF to 120ºF), and fill the area with scents and sounds as the deity sees fit. Sounds can be no louder than one hundred humans could make, but not intelligible speech or harmful sound. The deity’s ability to create scents is similar. Deities of rank 6 or higher can create the sounds of intelligible speech. A demigod or lesser deity can erect buildings and alter the landscape, but must do so through its own labor, through magic, or through its divine powers. A deity of rank 6 or higher not only has control over the environment, but also controls links to the Astral Plane. Manipulating a realm’s astral links renders teleportation and similar effects useless within the realm. The deity can designate certain locales within the realm where astral links remain intact. Likewise, the deity can block off the realm from planar portals or designate locations where portals are possible. A deity of rank 11 or higher can also apply the enhanced magic or impeded magic trait to up to four groups of spells (schools, domains, or spells with the same descriptor). The enhanced magic trait enables a metamagic feat to be applied to a group of spells without requiring higher-level spell slots. Many deities apply the enhanced magic trait to their domain spells, making them maximized (as the [[rangoric-srd/feats/Maximize Spell|Maximize Spell]] feat) within the boundaries of their realm. The impeded magic trait doesn’t affect the deity’s spells and spell-like abilities.  
 In addition, a deity of rank 11 or higher can erect buildings as desired and alter terrain within ten miles to become any terrain type found on the Material Plane. These buildings and alterations are manifestations of the deity’s control over the realm.  
 A greater deity (rank 16 or higher) also can perform any one of the following acts:
 
-  - Change or apply a gravity trait within the realm.
+- Change or apply a gravity trait within the realm.
 
-  - Change or apply an elemental or energy trait within the realm.
+- Change or apply an elemental or energy trait within the realm.
 
-  - Change or apply a time trait within the realm.
+- Change or apply a time trait within the realm.
 
-  - Apply the limited magic trait to a particular school, domain, or spell descriptor within the area, preventing such spells and spell-like abilities from functioning. The greater deity’s own spells and spell-like abilities are not limited by these restrictions.
+- Apply the limited magic trait to a particular school, domain, or spell descriptor within the area, preventing such spells and spell-like abilities from functioning. The greater deity’s own spells and spell-like abilities are not limited by these restrictions.
 
 Once a deity sets the conditions in its realm, they are permanent, though the deity can change them. As a standard action, the deity can specify a new environmental condition. The change gradually takes effect over the next 10 minutes. Changing astral links, planar traits, or terrain requires more effort, and the deity must labor for a year and a day to change them. During this time, the deity must spend 8 hours a day on the project. During the remaining 16 hours of each day, the deity can perform any action it desires, so long as it remains within the realm. The astral links, planar traits, and terrain remain unchanged until the labor is complete.
 

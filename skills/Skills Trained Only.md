@@ -13,10 +13,10 @@ tags: [rangoric, rangoric/overview]
 
 ## Trained Only
 
-  - [[rangoric-srd/skills/Emulation|Emulation]]
-  - [[rangoric-srd/skills/Engineering|Engineering]]
-  - [[rangoric-srd/skills/Linguistics|Linguistics]]
-  - [[rangoric-srd/skills/Medicine|Medicine]]
-  - [[rangoric-srd/skills/Meditation|Meditation]]
-  - [[rangoric-srd/skills/Mysticism|Mysticism]]
-  - [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]]
+- [[rangoric-srd/skills/Emulation|Emulation]]
+- [[rangoric-srd/skills/Engineering|Engineering]]
+- [[rangoric-srd/skills/Linguistics|Linguistics]]
+- [[rangoric-srd/skills/Medicine|Medicine]]
+- [[rangoric-srd/skills/Meditation|Meditation]]
+- [[rangoric-srd/skills/Mysticism|Mysticism]]
+- [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]]

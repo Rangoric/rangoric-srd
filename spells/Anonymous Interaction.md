@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Anonymous Interaction
 
-*Enchantment (Compulsion) \[Mind-affecting\]*
+_Enchantment (Compulsion) \[Mind-affecting\]_
 
-  - **Level**: Brd 2, Mes 2, Psy 2, Skd 2, Wit 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature/level, no two of which can be more than 30 ft. apart
-  - **Duration**: Permanent (see text)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 2, Mes 2, Psy 2, Skd 2, Wit 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature/level, no two of which can be more than 30 ft. apart
+- **Duration**: Permanent (see text)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 You cause the targets to forget all but the most general information about you. If they saw you or interacted with you, they still remember your presence and your general shape (such as humanoid), as well as the gist of your interactions with them (such as "She was asking about the queen"), but they don't remember specifically what you said, details of your appearance, or any identifying information about you. This spell targets any memories of you in the minute preceding its casting, but is otherwise permanent.

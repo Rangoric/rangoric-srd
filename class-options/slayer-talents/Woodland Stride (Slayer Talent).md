@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Woodland Stride
 
-*An [[rangoric-srd/classes/Slayer#^slayer-advanced-talents|advanced talent]] (Ex).*
+_An [[rangoric-srd/classes/Slayer#^slayer-advanced-talents|advanced talent]] (Ex)._
 
 A slayer with this talent gains the ranger's woodland stride:
 

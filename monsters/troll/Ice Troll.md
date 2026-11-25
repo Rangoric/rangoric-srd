@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Ice Troll
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Cold, Giant)
-  - **Hit Dice**: 6d8+18 (45 hp)
-  - **Initiative**: +4
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 17 (+4 Dex, +4 natural, –1 size), touch 13, flat-footed 13
-  - **Base Attack**: +4; **CMB**: +9; **CMD**: 23
-  - **Attack**: [[rangoric-srd/equipment/weapons/Battleaxe|Battleaxe]] +7 melee (2d6+4) or bite +7 melee (1d6+2) or claw +7 melee (1d4+2) or bite +7 melee (1d6+4) or claw +7 melee (1d4+4)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Battleaxe|Battleaxe]] +7 melee (2d6+4) and bite +2 melee (1d6+2) and claw +2 melee (1d4+2); or bite +7 melee (1d6+4) and 2 claws +7 melee (1d4+4)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws, 1d6+6)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or fire), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, vulnerable to fire
-  - **Saves**: Fort +8, Ref +8, Will +2
-  - **Abilities**: Str 19, Dex 18, Con 16, Int 9, Wis 10, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +9
-  - **Feats**: [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Cold mountains or underground
-  - **Organization**: Solitary or band (3–6)
-  - **Challenge Rating**: 4
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Cold, Giant)
+- **Hit Dice**: 6d8+18 (45 hp)
+- **Initiative**: +4
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 17 (+4 Dex, +4 natural, –1 size), touch 13, flat-footed 13
+- **Base Attack**: +4; **CMB**: +9; **CMD**: 23
+- **Attack**: [[rangoric-srd/equipment/weapons/Battleaxe|Battleaxe]] +7 melee (2d6+4) or bite +7 melee (1d6+2) or claw +7 melee (1d4+2) or bite +7 melee (1d6+4) or claw +7 melee (1d4+4)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Battleaxe|Battleaxe]] +7 melee (2d6+4) and bite +2 melee (1d6+2) and claw +2 melee (1d4+2); or bite +7 melee (1d6+4) and 2 claws +7 melee (1d4+4)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws, 1d6+6)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or fire), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, vulnerable to fire
+- **Saves**: Fort +8, Ref +8, Will +2
+- **Abilities**: Str 19, Dex 18, Con 16, Int 9, Wis 10, Cha 7
+- **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +9
+- **Feats**: [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Cold mountains or underground
+- **Organization**: Solitary or band (3–6)
+- **Challenge Rating**: 4
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Ice trolls are somewhat smaller than normal trolls, but they possess greater intelligence and cunning and are just as voraciously hungry. They display the typical hunched posture of trolls, combined with long arms tipped with sharp claws and the distinctive troll underbite. Like normal trolls, ice trolls possess amazing regenerative powers that enable them to recover from almost any wound. Unlike most trolls, ice trolls often use weapons in battle, but in the heat of combat, they often cast aside weapons in favor of their rending claws. An ice troll stands about 10 feet tall and weighs up to 900 pounds.
 

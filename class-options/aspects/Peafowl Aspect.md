@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Peafowl Aspect
 
-*A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). Peafowl are popular ornamental birds due to their spectacular colors, and they are often symbols of royalty or the divine.*
+_A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). Peafowl are popular ornamental birds due to their spectacular colors, and they are often symbols of royalty or the divine._
 
 **Minor Form**: You gain a +2 enhancement bonus to your Charisma score.
 

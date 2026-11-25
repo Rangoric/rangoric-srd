@@ -29,14 +29,14 @@ tags: [rangoric, rangoric/spell]
 
 # Warding Weapon
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Blr 1, Mag 1, Occ 1, Psy 2, Sor/Wiz 2, Sum 2, SumU 2
-  - **Components**: V, S, F (one melee weapon you are proficient in and you are holding)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level
+- **Level**: Blr 1, Mag 1, Occ 1, Psy 2, Sor/Wiz 2, Sum 2, SumU 2
+- **Components**: V, S, F (one melee weapon you are proficient in and you are holding)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level
 
 The focus of this spell flies upward above your head and takes a defensive position within your space. It lunges at opponents, as if guided by a martially trained hand, parrying and turning back melee attacks aimed at you, but does not strike back at any opponent nor does it damage them. The weapon serves only as a defense. While it protects you, you can cast spells without provoking attacks of opportunity, without the need to cast them defensively.
 

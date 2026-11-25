@@ -15,8 +15,8 @@ tags: [rangoric, rangoric/spell]
 
 # Enforcer III
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Sor/Wiz 8
+- **Level**: Sor/Wiz 8
 
-As *[[rangoric-srd/spells/Enforcer I|enforcer I]]*, except that the spell level is considered to be 9 for purposes of determining the save DC, if any.
+As _[[rangoric-srd/spells/Enforcer I|enforcer I]]_, except that the spell level is considered to be 9 for purposes of determining the save DC, if any.

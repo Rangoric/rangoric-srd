@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Reactive Countersong
 
-Prerequisite: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/skills/Performance|Performance]] 27 ranks, bardic music class feature.  
+Prerequisite: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/skills/Performance|Performance]] 27 ranks, bardic music class feature.
 
 Benefit: The character can begin a countersong at any time, even when it isn’t his or her turn (much like a wizard who has readied a counterspell action), though the character doesn’t have to ready an action to do so. The character can’t use Reactive Countersong at the same time he or she isusing another bardic music ability (though the character could stop the other bardic music ability to begin Reactive Countersong if so desired).
 

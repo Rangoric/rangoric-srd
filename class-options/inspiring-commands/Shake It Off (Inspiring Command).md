@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Shake It Off
 
-*A [[rangoric-srd/prestige-classes/Battle Herald#^battle-herald-inspiring-command|battle herald inspiring command]] (Ex); it affects only a certain number of allies.*
+_A [[rangoric-srd/prestige-classes/Battle Herald#^battle-herald-inspiring-command|battle herald inspiring command]] (Ex); it affects only a certain number of allies._
 
 One ally subject to an ongoing condition may attempt a new saving throw to negate the effects with a bonus equal to the battle herald's inspiring command bonus. This ability does not help against instantaneous effects, effects that require recurring saving throws to avoid additional penalties (such as diseases and poisons), or effects that do not allow a saving throw.

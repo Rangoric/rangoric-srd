@@ -32,7 +32,7 @@ Area: See text
 Duration: Up to 1 min./level; see text (D)  
 Saving Throw: None  
 Power Resistance: No  
-Power Points: 9  
+Power Points: 9
 
 You can emulate a [[rangoric-srd/powers/Far Hand|far hand]] effect at any distance while simultaneously emulating [[rangoric-srd/powers/Clairvoyant Sense|clairvoyant sens]]e to target your far hand; see the appropriate power descriptions. Clairtangent hand’s duration is up to 1 minute per level when used with a far hand effect.
 

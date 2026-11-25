@@ -35,7 +35,7 @@ Telepathy \[Mind-Affecting\]
 **Duration:** 10 min./level  
 **Saving Throw:** None; see text  
 **Power Resistance:** Yes (harmless)  
-**Power Points:** 1  
+**Power Points:** 1
 
 You forge a telepathic bond with your target. You can communicate telepathically through the bond even if you do not share a common language. No special power or influence is established as a result of the bond. Once the bond is formed, it works over any distance (although not from one plane to another).
 

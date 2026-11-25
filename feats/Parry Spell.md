@@ -17,4 +17,4 @@ You can throw an enemy spell back at its caster.
 
 **Prerequisites**: [[rangoric-srd/skills/Mysticism|Mysticism]] 15 ranks, [[rangoric-srd/feats/Improved Counterspell|Improved Counterspell]].
 
-**Benefit**: Whenever you counter a spell, it turns back on its caster, exactly as with the *[[rangoric-srd/spells/Spell Turning|spell turning]]* spell.
+**Benefit**: Whenever you counter a spell, it turns back on its caster, exactly as with the _[[rangoric-srd/spells/Spell Turning|spell turning]]_ spell.

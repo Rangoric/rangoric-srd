@@ -27,14 +27,14 @@ tags: [rangoric, rangoric/spell]
 
 # Contact Other Plane
 
-*Divination*
+_Divination_
 
-  - **Level**: Alc 5, Occ 4, Psy 5, Sor/Wiz 5, Spi 5, Sum 4, SumU 5, Wit 5
-  - **Components**: V
-  - **Casting Time**: 10 minutes
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: Concentration
+- **Level**: Alc 5, Occ 4, Psy 5, Sor/Wiz 5, Spi 5, Sum 4, SumU 5, Wit 5
+- **Components**: V
+- **Casting Time**: 10 minutes
+- **Range**: Personal
+- **Target**: You
+- **Duration**: Concentration
 
 You send your mind to another plane of existence (an Elemental Plane or some plane farther removed) in order to receive advice and information from powers there. (See the accompanying table for possible consequences and results of the attempt.) The powers reply in a language you understand, but they resent such contact and give only brief answers to your questions. (All questions are answered with “yes,” “no,” “maybe,” “never,” “irrelevant,” or some other one-word answer.)
 
@@ -57,14 +57,14 @@ On rare occasions, this divination may be blocked by an act of certain deities o
 | Outer Plane, intermediate deity | DC 14/4 weeks          | 01–73       | 74–81      | 82–98   | 99–100        |
 | Outer Plane, greater deity      | DC 16/5 weeks          | 01–88       | 89–90      | 91–99   | 100           |
 
-*Avoid Int/Cha Decrease*: You must succeed on an Intelligence check against this DC to avoid a decrease in Intelligence and Charisma. If the check fails, your Intelligence and Charisma scores each fall to 8 for the stated duration, and you become unable to cast arcane spells. If you lose Intelligence and Charisma, the effect strikes as soon as the first question is asked, and no answer is received. (The entries in parentheses are for questions that pertain to the appropriate Elemental Plane.)
+_Avoid Int/Cha Decrease_: You must succeed on an Intelligence check against this DC to avoid a decrease in Intelligence and Charisma. If the check fails, your Intelligence and Charisma scores each fall to 8 for the stated duration, and you become unable to cast arcane spells. If you lose Intelligence and Charisma, the effect strikes as soon as the first question is asked, and no answer is received. (The entries in parentheses are for questions that pertain to the appropriate Elemental Plane.)
 
-*Results of a Successful Contact*: d% is rolled for the result shown on the table:
+_Results of a Successful Contact_: d% is rolled for the result shown on the table:
 
-*True Answer*: You get a true, one-word answer. Questions that cannot be answered in this way are answered randomly.
+_True Answer_: You get a true, one-word answer. Questions that cannot be answered in this way are answered randomly.
 
-*Don’t Know*: The entity tells you that it doesn’t know.
+_Don’t Know_: The entity tells you that it doesn’t know.
 
-*Lie*: The entity intentionally lies to you.
+_Lie_: The entity intentionally lies to you.
 
-*Random Answer*: The entity tries to lie but doesn’t know the answer, so it makes one up.
+_Random Answer_: The entity tries to lie but doesn’t know the answer, so it makes one up.

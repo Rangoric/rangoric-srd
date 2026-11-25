@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Dragoon
 
-*A [[rangoric-srd/classes/Fighter#^fighter-archetypes|fighter]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Fighter#^fighter-archetypes|fighter]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 These gallant lancers serve in the vanguard of many armies or as knights-errant. They are born leaders and masters of the mounted charge.
 

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Resist Level Drain
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “resist level drain”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “resist level drain”, on the Special Qualities line.
 
 A dhampir takes no penalties from energy draining effects, though he can still be killed if he accrues more negative levels then he has Hit Dice. After 24 hours, any negative levels a dhampir takes are removed without the need for an additional saving throw. The [[rangoric-srd/monsters/Dhampir|dhampir]] has it.

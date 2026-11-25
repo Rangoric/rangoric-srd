@@ -25,17 +25,17 @@ tags: [rangoric, rangoric/star]
 
 # Star of Hate
 
-*[[rangoric-srd/rules/star magic/Star Magic|Star]]* \[Mind-Affecting\]
+_[[rangoric-srd/rules/star magic/Star Magic|Star]]_ \[Mind-Affecting\]
 
-  - **Call Level**: 1st ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
-  - **Aspect**: Ascendant in autumn, descendant in spring, on the horizon in summer and winter ([[rangoric-srd/rules/star magic/Star Magic#^seasons|seasons]])
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Area**: 10-ft.-radius spread
-  - **Duration**: 10 min./level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Call Level**: 1st ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
+- **Aspect**: Ascendant in autumn, descendant in spring, on the horizon in summer and winter ([[rangoric-srd/rules/star magic/Star Magic#^seasons|seasons]])
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Area**: 10-ft.-radius spread
+- **Duration**: 10 min./level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 Each creature in the area that fails its save is filled with a murderous rage and turns on the nearest target it can justify attacking. A creature that succeeds feels only a flash of bitterness.
 

@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Morlock
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
-  - **Hit Dice**: 3d10+6 (22 hp)
-  - **Initiative**: +8
-  - **Speed**: 40 ft. (8 squares), climb 30 ft.
-  - **Armor Class**: 15 (+4 Dex, +1 natural), touch 14, flat-footed 11
-  - **Base Attack**: +3; **CMB**: +5; **CMD**: 19
-  - **Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +5 melee (1d6+2) or bite +5 melee (1d4+1)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +5 melee (1d6+2) and bite +0 melee (1d4+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Leap attack, [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] +1d6, swarming
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], expert climber, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease and poison, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
-  - **Saves**: Fort +3, Ref +9, Will +5
-  - **Abilities**: Str 14, Dex 19, Con 15, Int 5, Wis 14, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +8 (+12 in caverns)
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
-  - **Environment**: Any underground
-  - **Organization**: Solitary, pair, band (3–6), or tribe (7–18)
-  - **Challenge Rating**: 2
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
+- **Hit Dice**: 3d10+6 (22 hp)
+- **Initiative**: +8
+- **Speed**: 40 ft. (8 squares), climb 30 ft.
+- **Armor Class**: 15 (+4 Dex, +1 natural), touch 14, flat-footed 11
+- **Base Attack**: +3; **CMB**: +5; **CMD**: 19
+- **Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +5 melee (1d6+2) or bite +5 melee (1d4+1)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +5 melee (1d6+2) and bite +0 melee (1d4+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Leap attack, [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] +1d6, swarming
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], expert climber, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease and poison, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
+- **Saves**: Fort +3, Ref +9, Will +5
+- **Abilities**: Str 14, Dex 19, Con 15, Int 5, Wis 14, Cha 6
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +8 (+12 in caverns)
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
+- **Environment**: Any underground
+- **Organization**: Solitary, pair, band (3–6), or tribe (7–18)
+- **Challenge Rating**: 2
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Degenerate humans long lost from the world of light, morlocks have regressed through years of subterranean dwelling into ravenous, barely thinking beasts of the endless night. They no longer remember the civilized lives their ancestors led, although many morlock tribes still dwell in the shattered ruins of their ancient homes. Ironically, in many cases morlocks worship the statues left behind by these ancestors as their gods. Morlock priests of such ancestor worship have access to the domains of Darkness, Earth, Madness, and Strength. A typical morlock stands just over 5 feet tall and weighs roughly 150 pounds.
 
@@ -71,7 +71,7 @@ Morlocks speak Undercommon.
 
 ### Combat
 
-**Expert Climber (Ex)**: A morlock can cling to cave walls and even ceilings as long as the surface has hand- and footholds. In effect, a morlock is treated as constantly being under a nonmagical version of the spell *[[rangoric-srd/spells/Spider Climb|spider climb]]*, save that it cannot cling to smooth surfaces. This ability doubles the normal +8 racial bonus to Athletics checks normally afforded creatures with a climb speed to a +16 racial bonus.
+**Expert Climber (Ex)**: A morlock can cling to cave walls and even ceilings as long as the surface has hand- and footholds. In effect, a morlock is treated as constantly being under a nonmagical version of the spell _[[rangoric-srd/spells/Spider Climb|spider climb]]_, save that it cannot cling to smooth surfaces. This ability doubles the normal +8 racial bonus to Athletics checks normally afforded creatures with a climb speed to a +16 racial bonus.
 
 **Leap Attack (Ex)**: As a standard action, a morlock may make a single attack during a jump. It can make this attack at any point along the course of the leap—the start, the end, or while in mid-air. While jumping, a morlock does not provoke attacks of opportunity for leaving a threatened square.
 

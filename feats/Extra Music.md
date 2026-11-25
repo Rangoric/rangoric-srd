@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat]
 
 # Extra Music
 
-Prerequisite: Bardic music.  
+Prerequisite: Bardic music.
 
 Benefit: You can use your bardic music four extra times per day.
 

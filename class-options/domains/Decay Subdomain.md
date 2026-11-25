@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Decay Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Plant Domain|Plant]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Plant Domain|Plant]] domain._
 
 ## Replacement Power
 
@@ -27,8 +27,8 @@ This power replaces the [[rangoric-srd/class-options/domains/Plant Domain#Grante
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 3rd | [[rangoric-srd/spells/Contagion\|Contagion]] | Infects subject with chosen disease. |
-| 4th | [[rangoric-srd/spells/Poison\|Poison]] | Touch deals 1d10 Con damage, repeats in 1 min. |
-| 6th | [[rangoric-srd/spells/Harm\|Harm]] | Deals 10 points/level damage to target. |
+| Level | Spell                                        | Brief Description                              |
+| ----- | -------------------------------------------- | ---------------------------------------------- |
+| 3rd   | [[rangoric-srd/spells/Contagion\|Contagion]] | Infects subject with chosen disease.           |
+| 4th   | [[rangoric-srd/spells/Poison\|Poison]]       | Touch deals 1d10 Con damage, repeats in 1 min. |
+| 6th   | [[rangoric-srd/spells/Harm\|Harm]]           | Deals 10 points/level damage to target.        |

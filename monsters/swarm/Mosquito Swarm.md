@@ -40,25 +40,25 @@ tags: [rangoric, rangoric/monster]
 
 # Mosquito Swarm
 
-  - Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]] (Swarm)
-  - **Hit Dice**: 7d8 (31 hp)
-  - **Initiative**: +1
-  - **Speed**: 5 ft. (1 square), fly 40 ft. (good)
-  - **Armor Class**: 15 (+1 Dex, +4 size), touch 15, flat-footed 14
-  - **Base Attack**: +5; **CMB**: —; **CMD**: —
-  - **Attack**: Swarm (2d6 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Bleed|bleed]])
-  - **Full Attack**: Swarm (2d6 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Bleed|bleed]])
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d6), [[rangoric-srd/monsters/abilities/Disease|disease]] ([[rangoric-srd/rules/afflictions/Malaria|malaria]], DC 13), [[rangoric-srd/monsters/abilities/Distraction|distraction]] (DC 13)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects and weapon damage
-  - **Saves**: Fort +5, Ref +3, Will +3
-  - **Abilities**: Str 1, Dex 13, Con 10, Int —, Wis 12, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Perception|Perception]] +9
-  - **Feats**: —
-  - **Environment**: Tropical swamps
-  - **Organization**: Solitary, pair, fury (3–6 swarms), or scourge (7–12 swarms)
-  - **Challenge Rating**: 3
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]] (Swarm)
+- **Hit Dice**: 7d8 (31 hp)
+- **Initiative**: +1
+- **Speed**: 5 ft. (1 square), fly 40 ft. (good)
+- **Armor Class**: 15 (+1 Dex, +4 size), touch 15, flat-footed 14
+- **Base Attack**: +5; **CMB**: —; **CMD**: —
+- **Attack**: Swarm (2d6 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Bleed|bleed]])
+- **Full Attack**: Swarm (2d6 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Bleed|bleed]])
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d6), [[rangoric-srd/monsters/abilities/Disease|disease]] ([[rangoric-srd/rules/afflictions/Malaria|malaria]], DC 13), [[rangoric-srd/monsters/abilities/Distraction|distraction]] (DC 13)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects and weapon damage
+- **Saves**: Fort +5, Ref +3, Will +3
+- **Abilities**: Str 1, Dex 13, Con 10, Int —, Wis 12, Cha 9
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Perception|Perception]] +9
+- **Feats**: —
+- **Environment**: Tropical swamps
+- **Organization**: Solitary, pair, fury (3–6 swarms), or scourge (7–12 swarms)
+- **Challenge Rating**: 3
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —

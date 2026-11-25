@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Evolutionist
 
-*A [[rangoric-srd/classes/Summoner#^summoner-archetypes|summoner]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Summoner#^summoner-archetypes|summoner]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Changing an eidolon's evolutions is normally a slow process. As a summoner progresses in levels, his control over his eidolon's abilities increases. But an evolutionist possesses greater power over his eidolon's form, and is able to evolve his eidolon and its abilities to meet any challenge or face any threat as it comes up, seemingly on a whim.
 
@@ -26,4 +26,4 @@ Changing an eidolon's evolutions is normally a slow process. As a summoner progr
 
 **Evolve Base Form (Su)**: Starting at 8th level, whenever he gains a level, the evolutionist can change his eidolon's [[rangoric-srd/classes/Summoner#^summoner-base-forms|base form]] to a new base form. Once chosen, this base form is set until the evolutionist gains another summoner level. This ability replaces [[rangoric-srd/classes/Summoner#^summoner-transposition|transposition]].
 
-**Transmogrify (Sp)**: At 12th level, the evolutionist can cast *[[rangoric-srd/spells/Transmogrify|transmogrify]]* as a spell-like ability once per day without the need for a material component. This ability has a casting time of 1 minute. This ability replaces [[rangoric-srd/classes/Summoner#^summoner-greater-shield-ally|greater shield ally]].
+**Transmogrify (Sp)**: At 12th level, the evolutionist can cast _[[rangoric-srd/spells/Transmogrify|transmogrify]]_ as a spell-like ability once per day without the need for a material component. This ability has a casting time of 1 minute. This ability replaces [[rangoric-srd/classes/Summoner#^summoner-greater-shield-ally|greater shield ally]].

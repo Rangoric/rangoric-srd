@@ -55,17 +55,17 @@ Oracle Curse: goblin [[rangoric-srd/classes/Oracle|oracles]] can take the [[rang
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 12 years | +1d4 | +1d6 | +2d6 |
+| --------- | --------- | ----------- | ------- |
+| 12 years  | +1d4      | +1d6        | +2d6    |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 20 years | 30 years | 40 years | +1d20 years |
+| Middle Age | Old      | Venerable | Maximum Age |
+| ---------- | -------- | --------- | ----------- |
+| 20 years   | 30 years | 40 years  | +1d20 years |
 
 | Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Male | 2 ft. 8 in. | +2d4 | 30 lb. | × 1 lb. |
-| Female | 2 ft. 6 in. | +2d4 | 25 lb. | × 1 lb. |
+| ------ | ----------- | --------------- | ----------- | --------------- |
+| Male   | 2 ft. 8 in. | +2d4            | 30 lb.      | × 1 lb.         |
+| Female | 2 ft. 6 in. | +2d4            | 25 lb.      | × 1 lb.         |
 
 ### Description
 
@@ -91,15 +91,15 @@ Goblin babies are almost completely self-sufficient not long after birth, and su
 
 A goblin can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Cave Crawler\|Cave Crawler]] | Fast |
-| [[rangoric-srd/races/racial-traits/City Scavenger\|City Scavenger]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Eat Anything\|Eat Anything]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Hard Head, Big Teeth\|Hard Head, Big Teeth]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Over-Sized Ears\|Over-Sized Ears]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Tree Runner\|Tree Runner]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Weapon Familiarity (Goblin Trait)\|Weapon Familiarity]] | Skilled |
+| Trait                                                                                      | Replaces |
+| ------------------------------------------------------------------------------------------ | -------- |
+| [[rangoric-srd/races/racial-traits/Cave Crawler\|Cave Crawler]]                            | Fast     |
+| [[rangoric-srd/races/racial-traits/City Scavenger\|City Scavenger]]                        | Skilled  |
+| [[rangoric-srd/races/racial-traits/Eat Anything\|Eat Anything]]                            | Skilled  |
+| [[rangoric-srd/races/racial-traits/Hard Head, Big Teeth\|Hard Head, Big Teeth]]            | Skilled  |
+| [[rangoric-srd/races/racial-traits/Over-Sized Ears\|Over-Sized Ears]]                      | Skilled  |
+| [[rangoric-srd/races/racial-traits/Tree Runner\|Tree Runner]]                              | Skilled  |
+| [[rangoric-srd/races/racial-traits/Weapon Familiarity (Goblin Trait)\|Weapon Familiarity]] | Skilled  |
 
 ### Subtypes
 
@@ -123,8 +123,8 @@ A goblin gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
+| Archetype                                                                                        | Class                                         |
+| ------------------------------------------------------------------------------------------------ | --------------------------------------------- |
 | [[rangoric-srd/class-options/archetypes/alchemist/Winged Marauder (Archetype)\|Winged Marauder]] | [[rangoric-srd/classes/Alchemist\|Alchemist]] |
-| [[rangoric-srd/class-options/archetypes/alchemist/Fire Bomber (Archetype)\|Fire Bomber]] | [[rangoric-srd/classes/Alchemist\|Alchemist]] |
-| [[rangoric-srd/class-options/archetypes/barbarian/Feral Gnasher (Archetype)\|Feral Gnasher]] | [[rangoric-srd/classes/Barbarian\|Barbarian]] |
+| [[rangoric-srd/class-options/archetypes/alchemist/Fire Bomber (Archetype)\|Fire Bomber]]         | [[rangoric-srd/classes/Alchemist\|Alchemist]] |
+| [[rangoric-srd/class-options/archetypes/barbarian/Feral Gnasher (Archetype)\|Feral Gnasher]]     | [[rangoric-srd/classes/Barbarian\|Barbarian]] |

@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Attic Whisperer
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
-  - **Hit Dice**: 6d8+18 (45 hp)
-  - **Initiative**: +8
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 19 (+4 Dex, +1 dodge, +3 natural, +1 size), touch 16, flat-footed 14
-  - **Base Attack**: +4; **CMB**: +2; **CMD**: 17
-  - **Attack**: Bite +9 melee (1d4–1 plus steal breath) or touch +4 melee touch (steal voice)
-  - **Full Attack**: Bite +9 melee (1d4–1 plus steal breath) and touch +4 melee touch (steal voice)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., sobs (10 ft.), [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-  - **Saves**: Fort +5, Ref +6, Will +8
-  - **Abilities**: Str 9, Dex 19, Con —, Int 14, Wis 16, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +17
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any urban or ruins
-  - **Organization**: Solitary, pair, or chorus (3–8)
-  - **Challenge Rating**: 4
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
+- **Hit Dice**: 6d8+18 (45 hp)
+- **Initiative**: +8
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 19 (+4 Dex, +1 dodge, +3 natural, +1 size), touch 16, flat-footed 14
+- **Base Attack**: +4; **CMB**: +2; **CMD**: 17
+- **Attack**: Bite +9 melee (1d4–1 plus steal breath) or touch +4 melee touch (steal voice)
+- **Full Attack**: Bite +9 melee (1d4–1 plus steal breath) and touch +4 melee touch (steal voice)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., sobs (10 ft.), [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
+- **Saves**: Fort +5, Ref +6, Will +8
+- **Abilities**: Str 9, Dex 19, Con —, Int 14, Wis 16, Cha 17
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +17
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any urban or ruins
+- **Organization**: Solitary, pair, or chorus (3–8)
+- **Challenge Rating**: 4
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 An attic whisperer spawns as the result of a lonely or neglected child's death. Rather than animating the body of the dead youth, the creature rises from an amalgam of old toys, clothing, dust, and other objects associated with the departed—icons of the child's neglect. The widely varying materials that fuse together to form these creatures lead to attic whisperers with vastly different appearances. Attic whisperers linger in the places where they were formed, typically old homes, orphanages, schools, debtors' prisons, workhouses, and similar places where children might be discarded. When an attic whisperer first forms, it does so without a skull—this does not impact the creature's abilities in any way, but it usually seeks out a small animal's skull as a form of decoration soon after it manifests.
 

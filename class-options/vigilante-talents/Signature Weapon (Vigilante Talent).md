@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Signature Weapon
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
 The vigilante must select one type of weapon (such as longsword or crossbow) when he gains this talent. He gains [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] as a bonus feat for his selected weapon type. If he already has the [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] feat with the selected weapon, he can immediately swap it for another feat for which he qualified at the level he chose Weapon Focus in the selected weapon.
 

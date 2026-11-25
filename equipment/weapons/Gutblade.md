@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades]
 
 # Gutblade
 
-*Simple light melee weapon.* Cost 5 gp; Dmg 1d3 (S), 1d4 (M); Critical 18-20/x2; Weight 1 lb.; Type Piercing. ^stats
+_Simple light melee weapon._ Cost 5 gp; Dmg 1d3 (S), 1d4 (M); Critical 18-20/x2; Weight 1 lb.; Type Piercing. ^stats
 
 A tiny weapon, the gutblade is a single-edged dagger with an arrow shaped tip and a sharp backward sweeping hook on the front of the blade. Designed by barbarian tribes for skinning and gutting, this blade often sees use as a secondary weapon in battle.

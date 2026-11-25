@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Spark Shower
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “spark shower”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “spark shower”, on the Special Attacks line.
 
 As a standard action, a rune giant can cause a shower of sparks to erupt out of one of the runes on its body. These sparks function as a breath weapon (30-ft. cone; 10d6 fire and 10d6 electricity damage; Reflex DC 29 half; usable once every 1d4 rounds). The save DC is Constitution-based. The [[rangoric-srd/monsters/giant/Rune Giant|rune giant]] has it.

@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/double, weapon-group/flails]
 
 # Dire Flail
 
-*Exotic two-handed melee weapon (double, disarm, trip).* Cost 90 gp; Dmg 1d6/1d6 (S), 1d8/1d8 (M); Critical x2; Weight 10 lb.; Type Bludgeoning. ^stats
+_Exotic two-handed melee weapon (double, disarm, trip)._ Cost 90 gp; Dmg 1d6/1d6 (S), 1d8/1d8 (M); Critical x2; Weight 10 lb.; Type Bludgeoning. ^stats
 
 A dire flail is a double weapon. You can fight with it as if fighting with two weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons, just as if you were using a one-handed weapon and a light weapon. A creature wielding a dire flail in one hand can’t use it as a double weapon— only one end of the weapon can be used in any given round.
 

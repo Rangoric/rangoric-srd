@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # Curse, Major
 
-*Necromancy \[Curse\]*
+_Necromancy \[Curse\]_
 
-  - **Level**: Clr 5, Mes 4, Occ 5, Psy 6, Sha 5, Sor/Wiz 6, Spi 5, Wit 5
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: Permanent
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Clr 5, Mes 4, Occ 5, Psy 6, Sha 5, Sor/Wiz 6, Spi 5, Wit 5
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: Permanent
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
-This spell functions as *[[rangoric-srd/spells/Bestow Curse|bestow curse]]*, except the DC to remove the curse is equal to the save DC + 5.
+This spell functions as _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_, except the DC to remove the curse is equal to the save DC + 5.

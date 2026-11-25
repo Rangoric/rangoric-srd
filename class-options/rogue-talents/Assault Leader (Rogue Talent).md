@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Assault Leader
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex).*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex)._
 
 Once per day, when the character misses with an attack on a flanked opponent, she can designate a single ally who is also flanking the target that her attack missed. That ally can make a single melee attack against the opponent as an immediate action.

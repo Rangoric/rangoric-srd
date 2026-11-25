@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Woodweave Coat
 
-*Medium armor.* Cost 1,500 gp; Armor Bonus +4; Maximum Dex Bonus +3; Armor Check Penalty –3; Arcane Spell Failure 25%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 15 lb. ^stats
+_Medium armor._ Cost 1,500 gp; Armor Bonus +4; Maximum Dex Bonus +3; Armor Check Penalty –3; Arcane Spell Failure 25%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 15 lb. ^stats
 
 Made from woven strips of specially treated wood, this armor is favored by many elven rangers and scouts. Although made of wood, it has the hardness and hit points of normal steel. This armor may be worn by druids without penalty.

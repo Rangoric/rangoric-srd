@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Tarrasque
 
-  - Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 30d10+360 (525 hp)
-  - **Initiative**: +7
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 40 (+3 Dex, +35 natural, –8 size), touch 5, flat-footed 37
-  - **Base Attack**: +30; **CMB**: +53 (+57 grapple); **CMD**: 66
-  - **Attack**: Bite +37 melee (4d8+15/15–20/×3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +37 melee (1d12+15) or gore +37 melee (1d10+15) or tail slap +37 melee (3d8+7) or spine +25 ranged (2d10+15/×3)
-  - **Full Attack**: Bite +37 melee (4d8+15/15–20/×3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +37 melee (1d12+15) and 2 gores +37 melee (1d10+15) and tail slap +32 melee (3d8+7); or 6 spines +25 ranged (2d10+15/×3)
-  - **Space/Reach**: 30 ft./30 ft. (60 ft. with tail slap)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Frightful Presence|Frightful presence]] (300 ft., DC 27), rush, spines, [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (6d6+22 plus 6d6 acid, AC 27, hp 52)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 40, carapace, powerful leaper, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/epic, immunity to ability damage, acid, bleed, disease, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]], fire, mind-affecting effects, paralysis, permanent wounds, petrification, poison and polymorph, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 36
-  - **Saves**: Fort +31, Ref +22, Will +12
-  - **Abilities**: Str 41, Dex 16, Con 34, Int 3, Wis 15, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, [[rangoric-srd/skills/Athletics|Athletics]] +15 (+43 jumping), [[rangoric-srd/skills/Perception|Perception]] +43
-  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]]
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 25
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: 49+ HD (Colossal)
-  - **Level Adjustment**: —
+- Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 30d10+360 (525 hp)
+- **Initiative**: +7
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 40 (+3 Dex, +35 natural, –8 size), touch 5, flat-footed 37
+- **Base Attack**: +30; **CMB**: +53 (+57 grapple); **CMD**: 66
+- **Attack**: Bite +37 melee (4d8+15/15–20/×3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +37 melee (1d12+15) or gore +37 melee (1d10+15) or tail slap +37 melee (3d8+7) or spine +25 ranged (2d10+15/×3)
+- **Full Attack**: Bite +37 melee (4d8+15/15–20/×3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +37 melee (1d12+15) and 2 gores +37 melee (1d10+15) and tail slap +32 melee (3d8+7); or 6 spines +25 ranged (2d10+15/×3)
+- **Space/Reach**: 30 ft./30 ft. (60 ft. with tail slap)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Frightful Presence|Frightful presence]] (300 ft., DC 27), rush, spines, [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (6d6+22 plus 6d6 acid, AC 27, hp 52)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 40, carapace, powerful leaper, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/epic, immunity to ability damage, acid, bleed, disease, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]], fire, mind-affecting effects, paralysis, permanent wounds, petrification, poison and polymorph, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 36
+- **Saves**: Fort +31, Ref +22, Will +12
+- **Abilities**: Str 41, Dex 16, Con 34, Int 3, Wis 15, Cha 14
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, [[rangoric-srd/skills/Athletics|Athletics]] +15 (+43 jumping), [[rangoric-srd/skills/Perception|Perception]] +43
+- **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]]
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 25
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: 49+ HD (Colossal)
+- **Level Adjustment**: —
 
 The legendary tarrasque is among the world's most destructive monsters. Thankfully, it spends most of its time in a deep torpor in an unknown cavern in a remote corner of the world—yet when it wakens, kingdoms die.
 

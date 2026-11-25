@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic, wild]
 
 # Colossal Wild Shape
 
-Prerequisite: The ability to wild shape into a Gargantuan creature.  
+Prerequisite: The ability to wild shape into a Gargantuan creature.
 
 Benefit: The character can use his or her wild shape to take the shape of a Colossal animal.
 

@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Sabosan
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
-  - **Hit Dice**: 7d10+14 (52 hp)
-  - **Initiative**: +8
-  - **Speed**: 30 ft. (6 squares), fly 40 ft. (good)
-  - **Armor Class**: 18 (+4 Dex, +4 natural), touch 14, flat-footed 14
-  - **Base Attack**: +7; **CMB**: +10; **CMD**: 24
-  - **Attack**: Bite +10 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]]) or claw +10 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +10 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]]) and 2 claws +10 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d4), [[rangoric-srd/monsters/abilities/Blood Drain|blood drain]] (1 Constitution), [[rangoric-srd/monsters/abilities/Dust Cloud|dust cloud]], [[rangoric-srd/monsters/abilities/Fell Shriek|fell shriek]], [[rangoric-srd/monsters/abilities/Powerful Charge|powerful charge]] (claw, 2d6+6)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +4, Ref +9, Will +6
-  - **Abilities**: Str 16, Dex 18, Con 15, Int 9, Wis 13, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +14
-  - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Warm forests or underground
-  - **Organization**: Solitary, hunting party (2–6), or clan (7–12)
-  - **Challenge Rating**: 5
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
+- **Hit Dice**: 7d10+14 (52 hp)
+- **Initiative**: +8
+- **Speed**: 30 ft. (6 squares), fly 40 ft. (good)
+- **Armor Class**: 18 (+4 Dex, +4 natural), touch 14, flat-footed 14
+- **Base Attack**: +7; **CMB**: +10; **CMD**: 24
+- **Attack**: Bite +10 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]]) or claw +10 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +10 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]]) and 2 claws +10 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d4), [[rangoric-srd/monsters/abilities/Blood Drain|blood drain]] (1 Constitution), [[rangoric-srd/monsters/abilities/Dust Cloud|dust cloud]], [[rangoric-srd/monsters/abilities/Fell Shriek|fell shriek]], [[rangoric-srd/monsters/abilities/Powerful Charge|powerful charge]] (claw, 2d6+6)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +4, Ref +9, Will +6
+- **Abilities**: Str 16, Dex 18, Con 15, Int 9, Wis 13, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +14
+- **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Warm forests or underground
+- **Organization**: Solitary, hunting party (2–6), or clan (7–12)
+- **Challenge Rating**: 5
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Sabosan are an intelligent and evil race of batlike humanoids that dwell in warm and isolated forests or deep underground in vast caverns.
 

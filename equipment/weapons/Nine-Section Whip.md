@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/flails, weapon-group/monk, easter
 
 # Nine-Section Whip
 
-*Exotic one-handed melee weapon (blocking, distracting, monk, trip).* Cost 8 gp; Dmg 1d6 (S), 1d8 (M); Critical 19–20/x2; Weight 3 lb.; Type Bludgeoning. ^stats
+_Exotic one-handed melee weapon (blocking, distracting, monk, trip)._ Cost 8 gp; Dmg 1d6 (S), 1d8 (M); Critical 19–20/x2; Weight 3 lb.; Type Bludgeoning. ^stats
 
 The nine-section whip consists of steel bars linked together. The final bar is a 6-inch weighted spike. This weapon can be wielded as a single-handed weapon, a two-handed weapon, or in pairs.
 

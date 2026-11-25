@@ -35,7 +35,7 @@ The guardian paramount’s class skills (and the key ability for each skill) are
 
 Skill Points at Each Level: 4 + Int modifier.
 
-Table: The Guardian Paramount   
+Table: The Guardian Paramount
 
 | Level | Special                                           |
 | ----- | ------------------------------------------------- |
@@ -52,7 +52,7 @@ Table: The Guardian Paramount
 
 ###### Class Features
 
-The following are class features of the guardian paramount prestige class.  
+The following are class features of the guardian paramount prestige class.
 
 Weapon and Armor Proficiency: A guardian paramount is proficient with all simple and martial weapons, all armor, and shields.
 

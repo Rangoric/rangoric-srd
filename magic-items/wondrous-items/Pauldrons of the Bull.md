@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 These steel pauldrons are engraved with images of charging bulls. When their wearer makes a bull rush combat maneuver, she can make the check twice and take the better result. Furthermore, they grant a +2 enhancement bonus to CMD against bull rushes.
 
-Faint abjuration; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*; Price 10,000 gp; Cost 5,000 gp; Weight 3 lbs.
+Faint abjuration; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_; Price 10,000 gp; Cost 5,000 gp; Weight 3 lbs.

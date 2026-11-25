@@ -31,20 +31,20 @@ tags: [rangoric, rangoric/spell]
 
 # Continual Flame
 
-*Evocation \[Light\]*
+_Evocation \[Light\]_
 
-  - **Level**: Clr 3, Inq 3, Occ 2, Psy 3, Sor/Wiz 2
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Object touched
-  - **Effect**: Magical, heatless flame
-  - **Duration**: Permanent
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Clr 3, Inq 3, Occ 2, Psy 3, Sor/Wiz 2
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Object touched
+- **Effect**: Magical, heatless flame
+- **Duration**: Permanent
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn’t use oxygen. A continual flame can be covered and hidden but not smothered or quenched.
 
 Light spells counter and dispel darkness spells of an equal or lower level.
 
-*Material Component*: You sprinkle ruby dust (worth 50 gp) on the item that is to carry the flame.
+_Material Component_: You sprinkle ruby dust (worth 50 gp) on the item that is to carry the flame.

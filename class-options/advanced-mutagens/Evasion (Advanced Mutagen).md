@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Evasion
 
-*A [[rangoric-srd/prestige-classes/Master Chymist#^master-chymist-advanced-mutagen|master chymist’s advanced mutagen]] (Ex).*
+_A [[rangoric-srd/prestige-classes/Master Chymist#^master-chymist-advanced-mutagen|master chymist’s advanced mutagen]] (Ex)._
 
 This mutagen functions as the rogue’s [[rangoric-srd/rules/Special Abilities and Conditions#Evasion and Improved Evasion|evasion]] ability, except that it only applies in the chymist’s mutagenic form.

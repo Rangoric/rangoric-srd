@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Swim-By Attack
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “swim-by attack”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “swim-by attack”, on the Special Attacks line.
 
 Extremely quick in the water, a siyokoy gains Spring Attack as a bonus feat when swimming. The [[rangoric-srd/monsters/Siyokoy|siyokoy]] has it.

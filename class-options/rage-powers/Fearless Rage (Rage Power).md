@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Fearless Rage
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
 While raging, the barbarian is immune to the [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] and [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] conditions. A barbarian must be at least 12th level before selecting this rage power.

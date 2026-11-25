@@ -28,7 +28,7 @@ Clairsentience
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 round  
-**Power Points:** 5  
+**Power Points:** 5
 
 You project a field of improbability around yourself, creating a fleeting protective shell. You gain a +4 deflection bonus to Armor Class.
 

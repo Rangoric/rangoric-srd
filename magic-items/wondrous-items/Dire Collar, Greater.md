@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Dire Collar, Greater
 
-This collar functions as a *[[rangoric-srd/magic-items/wondrous-items/Dire Collar|dire collar]]*, except that the animal wearing it gains the benefit of an *[[rangoric-srd/spells/Animal Growth|animal growth]]* spell for 1 minute.
+This collar functions as a _[[rangoric-srd/magic-items/wondrous-items/Dire Collar|dire collar]]_, except that the animal wearing it gains the benefit of an _[[rangoric-srd/spells/Animal Growth|animal growth]]_ spell for 1 minute.
 
-Moderate transmutation; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Animal Growth|animal growth]]*; Price 14,000 gp; Cost 7,000 gp; Weight 2 lbs.
+Moderate transmutation; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Animal Growth|animal growth]]_; Price 14,000 gp; Cost 7,000 gp; Weight 2 lbs.

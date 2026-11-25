@@ -22,11 +22,11 @@ tags: [rangoric, rangoric/spell]
 
 # Persistent Image
 
-*Illusion (Figment)*
+_Illusion (Figment)_
 
-  - **Level**: Brd 5, Med 4, Mes 5, Occ 5, Psy 5, Skd 5, Sor/Wiz 5
-  - **Duration**: 1 min./level (D)
+- **Level**: Brd 5, Med 4, Mes 5, Occ 5, Psy 5, Skd 5, Sor/Wiz 5
+- **Duration**: 1 min./level (D)
 
 This spell functions like [[rangoric-srd/spells/Spells S|silent image]], except that the figment includes visual, auditory, olfactory, and thermal components, and the figment follows a script determined by you. The figment follows that script without your having to concentrate on it. The illusion can include intelligible speech if you wish.
 
-*Material Component*: A bit of fleece and several grains of sand.
+_Material Component_: A bit of fleece and several grains of sand.

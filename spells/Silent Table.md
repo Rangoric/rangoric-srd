@@ -30,15 +30,15 @@ tags: [rangoric, rangoric/spell]
 
 # Silent Table
 
-*Illusion (Glamer)*
+_Illusion (Glamer)_
 
-  - **Level**: Brd 2, Clr 2, Mes 2, Psy 2, Skd 2, Sor/Wiz 2, Wit 2
-  - **Components**: V
-  - **Casting Time**: 1 round
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Area**: 5-ft.-diameter emanation centered on an object or a point in space
-  - **Duration**: 1 minute/level (D)
-  - **Saving Throw**: None (object)
-  - **Spell Resistance**: No (object)
+- **Level**: Brd 2, Clr 2, Mes 2, Psy 2, Skd 2, Sor/Wiz 2, Wit 2
+- **Components**: V
+- **Casting Time**: 1 round
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Area**: 5-ft.-diameter emanation centered on an object or a point in space
+- **Duration**: 1 minute/level (D)
+- **Saving Throw**: None (object)
+- **Spell Resistance**: No (object)
 
 You protect an area against casual eavesdropping. Sounds and sonic effects that originate inside the area are muffled for anyone outside the area; Perception DCs to hear or understand sounds leaving the area increase by 20, and any saving throw DCs of these effects decrease by 2. The spell does not affect sounds that enter the area or the Perception checks of creatures inside it.

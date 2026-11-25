@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Ego Whip I
 
-*Enchantment (Compulsion) \[Emotion, Mind-Affecting\]*
+_Enchantment (Compulsion) \[Emotion, Mind-Affecting\]_
 
-  - **Level**: Psy 3
-  - **Components**: S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will partial
-  - **Spell Resistance**: Yes
+- **Level**: Psy 3
+- **Components**: S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: 1 round/level
+- **Saving Throw**: Will partial
+- **Spell Resistance**: Yes
 
 You can use your psychic power to overwhelm the target's ego, leaving the target feeling hopeless and unsure of itself. Choose Intelligence, Wisdom, or Charisma. The target takes a -2 penalty to that ability score, and is also staggered for the first round it's affected. A successful Will save negates the staggered effect and reduces the duration of the penalty to 1 round.

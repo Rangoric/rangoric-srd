@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Human Paladin
 
-*A [[rangoric-srd/races/Human|human]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Paladin#^paladin-class-bonuses|paladin]] level.*
+_A [[rangoric-srd/races/Human|human]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Paladin#^paladin-class-bonuses|paladin]] level._
 
 The paladin gains [[rangoric-srd/rules/Special Abilities and Conditions#Resistance to Energy|energy resistance]] 1 against acid, cold, electricity, or fire. For each paladin level after the first, increase her resistance to one of these energy types by 1 (maximum 10 for any one type).

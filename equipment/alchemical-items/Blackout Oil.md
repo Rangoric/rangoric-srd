@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Blackout Oil
 
-*Unguent; Special*
+_Unguent; Special_
 
 Blackout oil douses normal and magical flames and lights upon contact, making it a highly useful product for thieves and firefighters alike. This greasy black liquid is icy-cold to touch, and it snuffs out normal fires or torches upon impact or splashing. It can cancel out magical fires if their caster level is lower than its caster level. If used as a weapon directly against Fire-related creatures, it acts as a contact poison or acid of extreme cold, inflicting 1d6 points of damage on impact (save for half) or 1d4 if only contacted within the splash zone.
 

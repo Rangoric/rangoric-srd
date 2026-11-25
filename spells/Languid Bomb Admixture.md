@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Languid Bomb Admixture
 
-*Enchantment (Compulsion) \[Mind-affecting\]*
+_Enchantment (Compulsion) \[Mind-affecting\]_
 
-  - **Level**: Alc 5
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates (special, see below)
-  - **Spell Resistance**: Yes
+- **Level**: Alc 5
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates (special, see below)
+- **Spell Resistance**: Yes
 
 Upon drinking an extract created with this formula, you make a significant change to your magical reserve that modifies the nature of all [[rangoric-srd/classes/Alchemist#^alchemist-bomb|bombs]] you create and throw during this extract's duration. This effect on your magical reserve has no effect on any [[rangoric-srd/classes/Alchemist#^alchemist-discovery|discoveries]] that you use to modify your bombs, but you can only have one admixture effect (formulae with the words “bomb admixture” in their titles) active at a time. If you drink another bomb admixture, the effects of the former bomb admixture end and the those of the new one become active.
 

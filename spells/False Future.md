@@ -34,15 +34,15 @@ tags: [rangoric, rangoric/spell]
 
 # False Future
 
-*Illusion (Glamer)*
+_Illusion (Glamer)_
 
-  - **Level**: Brd 3, Clr 4, Med 3, Mes 3, Psy 4, Skd 3, Sor/Wiz 5, Spi 4, Wit 4
-  - **Components**: V, S, M (crushed jade worth 100 gp)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature or object touched
-  - **Duration**: Caster level hour(s)
-  - **Saving Throw**: Will negates or Will disbelief (see text)
-  - **Spell Resistance**: Yes
+- **Level**: Brd 3, Clr 4, Med 3, Mes 3, Psy 4, Skd 3, Sor/Wiz 5, Spi 4, Wit 4
+- **Components**: V, S, M (crushed jade worth 100 gp)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature or object touched
+- **Duration**: Caster level hour(s)
+- **Saving Throw**: Will negates or Will disbelief (see text)
+- **Spell Resistance**: Yes
 
-You interfere with attempts to predict the target's future by preventing divinations from revealing what the target will do and what will befall the target while under the spell's effects. Instead of the target's true actions or experiences, divinations resolve as if the target will experience some different future you describe as you cast *false future*. The target creature can attempt a Will save to avoid the initial effect, and creatures using divinations get a Will save to disbelieve the illusion. This spell doesn't prevent divinations cast after the duration's end from determining what the subject actually did during the time you obscured using *false future*. *False future* can't be detected by *[[rangoric-srd/spells/Detect Magic|detect magic]]* or *[[rangoric-srd/spells/Identify|identify]]*, but *[[rangoric-srd/spells/Detect Magic, Greater|greater detect magic]]* can detect it.
+You interfere with attempts to predict the target's future by preventing divinations from revealing what the target will do and what will befall the target while under the spell's effects. Instead of the target's true actions or experiences, divinations resolve as if the target will experience some different future you describe as you cast _false future_. The target creature can attempt a Will save to avoid the initial effect, and creatures using divinations get a Will save to disbelieve the illusion. This spell doesn't prevent divinations cast after the duration's end from determining what the subject actually did during the time you obscured using _false future_. _False future_ can't be detected by _[[rangoric-srd/spells/Detect Magic|detect magic]]_ or _[[rangoric-srd/spells/Identify|identify]]_, but _[[rangoric-srd/spells/Detect Magic, Greater|greater detect magic]]_ can detect it.

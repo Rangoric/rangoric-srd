@@ -29,18 +29,18 @@ tags: [rangoric, rangoric/spell]
 
 # Create Doorway and Sideroad
 
-*Conjuration (Creation)*
+_Conjuration (Creation)_
 
-  - **Level**: Drd 8, Fey Roads 8, Sor/Wiz 9
-  - **Components**: V, S, M, F/DF, XP
-  - **Casting Time**: One day
-  - **Range**: Touch
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Drd 8, Fey Roads 8, Sor/Wiz 9
+- **Components**: V, S, M, F/DF, XP
+- **Casting Time**: One day
+- **Range**: Touch
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-As the *[[rangoric-srd/spells/Create Doorway and Backroad|create doorway and backroad]]* spell, but this spell builds a *doorway* and *[[rangoric-srd/rules/Fey Roads and Doorways#Fey Roads|sideroad]]* specifically to the fey realm. The *sideroad* can traverse dimensional boundaries, allowing travel between the fey realm and the mortal world.
+As the _[[rangoric-srd/spells/Create Doorway and Backroad|create doorway and backroad]]_ spell, but this spell builds a _doorway_ and _[[rangoric-srd/rules/Fey Roads and Doorways#Fey Roads|sideroad]]_ specifically to the fey realm. The _sideroad_ can traverse dimensional boundaries, allowing travel between the fey realm and the mortal world.
 
-*Material Component*: Powdered sapphire worth at least 3,000 gp.
+_Material Component_: Powdered sapphire worth at least 3,000 gp.
 
-*XP*: 5,000 XP.
+_XP_: 5,000 XP.

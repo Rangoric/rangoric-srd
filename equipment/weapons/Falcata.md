@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades]
 
 # Falcata
 
-*Exotic one-handed melee weapon.* Cost 18 gp; Dmg 1d6 (S), 1d8 (M); Critical 19–20/x3; Weight 4 lb.; Type Slashing. ^stats
+_Exotic one-handed melee weapon._ Cost 18 gp; Dmg 1d6 (S), 1d8 (M); Critical 19–20/x3; Weight 4 lb.; Type Slashing. ^stats
 
 This heavy blade has a single sharp, concave edge and a hook-shaped hilt. Its shape distributes the weight to give it the momentum of an axe with the cutting edge of a sword.

@@ -42,7 +42,7 @@ Each character begins play with 1 hero point, regardless of her level. In additi
 
 **Heroic Acts**: Whenever a character performs an exceptionally heroic act, she can be awarded a hero point. This might include anything from slaying an evil dragon when the rest of the group has fled to rescuing townsfolk from a burning building despite being terribly wounded. It does not have to be related to combat. Convincing the reticent king to send troops to help with a bandit problem or successfully jumping a wide chasm might earn a character a hero point, depending on the circumstances. A hero point should only be awarded if the character involved did not spend a hero point to accomplish the task.
 
-**Return from the Dead**: When a character dies, she does not lose any hero points she has accumulated. If she died with no hero points remaining, she gains 1 hero point when she is brought back from the dead through powerful magic, such as *[[rangoric-srd/spells/Raise Dead|raise dead]]* or *[[rangoric-srd/spells/Resurrection|resurrection]]*.
+**Return from the Dead**: When a character dies, she does not lose any hero points she has accumulated. If she died with no hero points remaining, she gains 1 hero point when she is brought back from the dead through powerful magic, such as _[[rangoric-srd/spells/Raise Dead|raise dead]]_ or _[[rangoric-srd/spells/Resurrection|resurrection]]_.
 
 **Maximum Hero Points**: Characters can have no more than 3 hero points at any one time. Excess hero points are lost. ^hero-points-maximum
 
@@ -70,7 +70,7 @@ Hero points can be spent at any time and do not require an action to use (althou
 
 **Feats**
 
-Every feat with the tag *hero-feat*, from the [[rangoric-srd/feats/Feats Index.base|Feats Index]]:
+Every feat with the tag _hero-feat_, from the [[rangoric-srd/feats/Feats Index.base|Feats Index]]:
 
 ![[rangoric-srd/feats/Feats Index.base#hero-feat]]
 
@@ -80,19 +80,19 @@ Every feat with the tag *hero-feat*, from the [[rangoric-srd/feats/Feats Index.b
 
 **Spells that grant hero points**
 
-- *[[rangoric-srd/spells/Heroic Fortune|heroic fortune]]*: 1 hero point to a creature touched, for 1 round per level.
-- *[[rangoric-srd/spells/Heroic Fortune, Mass|mass heroic fortune]]*: the same for several creatures.
-- *[[rangoric-srd/spells/Malediction|malediction]]*: hero points from a dying creature.
+- _[[rangoric-srd/spells/Heroic Fortune|heroic fortune]]_: 1 hero point to a creature touched, for 1 round per level.
+- _[[rangoric-srd/spells/Heroic Fortune, Mass|mass heroic fortune]]_: the same for several creatures.
+- _[[rangoric-srd/spells/Malediction|malediction]]_: hero points from a dying creature.
 
 **Spells that take them away**
 
-- *[[rangoric-srd/spells/Severed Fate|severed fate]]*: the target can’t use hero points.
-- *[[rangoric-srd/spells/Unravel Destiny|unravel destiny]]*: a penalty for every hero point the target has.
+- _[[rangoric-srd/spells/Severed Fate|severed fate]]_: the target can’t use hero points.
+- _[[rangoric-srd/spells/Unravel Destiny|unravel destiny]]_: a penalty for every hero point the target has.
 
 **Magic items**
 
 - [[rangoric-srd/magic-items/wondrous-items/Elixir of Luck|*elixir of luck*]]: 3 hero points for 1 hour.
-- [[rangoric-srd/magic-items/weapons/Hero’s Blade|*hero’s blade*]]: a *+2 longsword* holding 6 hero points.
+- [[rangoric-srd/magic-items/weapons/Hero’s Blade|*hero’s blade*]]: a _+2 longsword_ holding 6 hero points.
 - [[rangoric-srd/magic-items/weapons/Reaver’s Scythe|*reaver’s scythe*]]: a hero point for each kill.
 - [[rangoric-srd/magic-items/rings/Ring of Heroes|*ring of heroes*]]: Luck of Heroes, or one last hero point.
-- [[rangoric-srd/magic-items/staffs/Staff of Fortune|*staff of fortune*]]: *heroic fortune* and *mass heroic fortune*.
+- [[rangoric-srd/magic-items/staffs/Staff of Fortune|*staff of fortune*]]: _heroic fortune_ and _mass heroic fortune_.

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Vines
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “vines”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “vines”, on the Special Attacks line.
 
 A hangman tree's vines are primary attacks that deal bludgeoning damage. When a hangman tree grapples a foe with its vines, the tree does not gain the grappled condition. A hangman tree that uses swallow whole transfers a pinned creature from a vine to inside its trunk. The [[rangoric-srd/monsters/Hangman Tree|hangman tree]] has it.

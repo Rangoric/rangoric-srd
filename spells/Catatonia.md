@@ -31,18 +31,18 @@ tags: [rangoric, rangoric/spell]
 
 # Catatonia
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Alc 2, Brd 2, Clr 3, Med 2, Mes 2, Psy 3, Skd 2, Sor/Wiz 3, Spi 2, Wit 3
-  - **Components**: S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Willing creature touched
-  - **Duration**: Caster level hour(s)
-  - **Spell Resistance**: Yes
+- **Level**: Alc 2, Brd 2, Clr 3, Med 2, Mes 2, Psy 3, Skd 2, Sor/Wiz 3, Spi 2, Wit 3
+- **Components**: S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Willing creature touched
+- **Duration**: Caster level hour(s)
+- **Spell Resistance**: Yes
 
 You touch the target and place it into a deathlike state that persists for the duration. The target appears to be dead, and any creature that interacts with the target must succeed at a DC 20 Medicine check to recognize it is actually alive.
 
 Until the spell ends, the target counts as if it were dead for the purpose of resolving any effects that target or affect only living creatures, but it doesn't count as undead. The subject is helpless, and can still be killed normally.
 
-Any effect that would bring the creature back to life or animate it as an undead fails, but ends the *catatonia*. The target can be affected by spells that affect only objects, including *[[rangoric-srd/spells/Animate Objects|animate objects]]* (if the creature is Small) and *[[rangoric-srd/spells/Teleport Object|teleport object]]*. However, anything that would cause the body to change form (such as *shrink* item) fails and ends the *catatonia*. This doesn't prevent the effects of spells that simply deal damage or otherwise destroy objects.
+Any effect that would bring the creature back to life or animate it as an undead fails, but ends the _catatonia_. The target can be affected by spells that affect only objects, including _[[rangoric-srd/spells/Animate Objects|animate objects]]_ (if the creature is Small) and _[[rangoric-srd/spells/Teleport Object|teleport object]]_. However, anything that would cause the body to change form (such as _shrink_ item) fails and ends the _catatonia_. This doesn't prevent the effects of spells that simply deal damage or otherwise destroy objects.

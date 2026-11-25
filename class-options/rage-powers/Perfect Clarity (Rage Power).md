@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Perfect Clarity
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
 While in the calm stance, the barbarian can roll twice for any miss chances or Will saving throws to disbelieve illusions, taking the better result. A barbarian must have the [[rangoric-srd/class-options/rage-powers/Calm Stance (Rage Power)|calm stance]] rage power to select this rage power.

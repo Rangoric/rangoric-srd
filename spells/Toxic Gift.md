@@ -28,15 +28,15 @@ tags: [rangoric, rangoric/spell]
 
 # Toxic Gift
 
-*Necromancy \[Poison\]*
+_Necromancy \[Poison\]_
 
-  - **Level**: Apl 2, Occ 3, Sor/Wiz 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Living creature touched
-  - **Duration**: Instantaneous; see text
-  - **Saving Throw**: Fortitude negates (see text)
-  - **Spell Resistance**: Yes
+- **Level**: Apl 2, Occ 3, Sor/Wiz 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Living creature touched
+- **Duration**: Instantaneous; see text
+- **Saving Throw**: Fortitude negates (see text)
+- **Spell Resistance**: Yes
 
 You can cast this spell only if you are currently poisoned. You draw upon the poison in your body and duplicate its effects in the target, which is affected by the same poison you are, except it uses this spell's DC instead of the poison's normal DC. If you are affected by more than one poison, you must choose one to afflict upon the target.

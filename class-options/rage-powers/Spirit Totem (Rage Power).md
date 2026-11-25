@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Spirit Totem
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su)._
 
 While raging, the spirits that surround the barbarian make it difficult for her enemies to see her. The spirits grant the barbarian a 20% miss chance against ranged attacks and melee attacks made by creatures that are not adjacent to the barbarian (typically due to reach).
 

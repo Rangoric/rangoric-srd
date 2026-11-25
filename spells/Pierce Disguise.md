@@ -29,13 +29,13 @@ tags: [rangoric, rangoric/spell]
 
 # Pierce Disguise
 
-*Divination*
+_Divination_
 
-  - **Level**: Brd 3, Med 3, Occ 3, Psy 3, Sha 3, Skd 3, Sor/Wiz 3, Wit 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 minute/level
+- **Level**: Brd 3, Med 3, Occ 3, Psy 3, Sha 3, Skd 3, Sor/Wiz 3, Wit 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 minute/level
 
 You see through magical disguises (whether illusions or polymorph effects) of the same spell level or lower. This allows you to see the true forms of creatures magically disguised by such methods. The true form appears as a ghostly overlay on the creature's disguised appearance.

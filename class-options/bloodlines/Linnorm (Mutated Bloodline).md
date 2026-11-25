@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Linnorm
 
-*A [[rangoric-srd/class-options/bloodlines/Bloodlines#Mutated Bloodlines|mutated bloodline]] of the [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|draconic bloodline]], for a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] [[rangoric-srd/classes/Sorcerer|sorcerer]].*
+_A [[rangoric-srd/class-options/bloodlines/Bloodlines#Mutated Bloodlines|mutated bloodline]] of the [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|draconic bloodline]], for a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] [[rangoric-srd/classes/Sorcerer|sorcerer]]._
 
 Your draconic heritage stems from a mighty, primordial [[rangoric-srd/monsters/linnorm/Linnorm|linnorm]] rather than from the more common, somewhat civilized dragons.
 

@@ -34,16 +34,16 @@ tags: [rangoric, rangoric/spell]
 
 # Blood Scent
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 3, Apl 2, Blr 3, Clr 3, Drd 3, Hun 2, Inq 3, Psy 3, Rgr 2, Sor/Wiz 3, Wit 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Targets**: One creature/2 levels, no two of which can be more than 30 ft. apart
-  - **Duration**: 1 minute/level (D)
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Alc 3, Apl 2, Blr 3, Clr 3, Drd 3, Hun 2, Inq 3, Psy 3, Rgr 2, Sor/Wiz 3, Wit 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Targets**: One creature/2 levels, no two of which can be more than 30 ft. apart
+- **Duration**: 1 minute/level (D)
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 You greatly magnify the target's ability to smell the presence of blood. The target is considered to have the scent universal monster ability, but only for purposes of detecting and pinpointing injured creatures (below full hit points). Creatures below half their full hit points or suffering bleed damage are considered strong scents for this ability.
 

@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Dragon Yapper
 
-*A [[rangoric-srd/classes/Bard#^bard-archetypes|bard]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Kobold|kobolds]].*
+_A [[rangoric-srd/classes/Bard#^bard-archetypes|bard]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Kobold|kobolds]]._
 
 Kobolds' yammering songs distract opponents in combat, hindering their ability to attack.
 

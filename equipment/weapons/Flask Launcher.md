@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/crossbows]
 
 # Flask Launcher
 
-*Martial ranged weapon.* Cost 50 gp; Critical 19-20/x2; Range Increment 60 ft.; Weight 8 lb.; Type Slashing. ^stats
+_Martial ranged weapon._ Cost 50 gp; Critical 19-20/x2; Range Increment 60 ft.; Weight 8 lb.; Type Slashing. ^stats
 
 The flask launcher is a basic light crossbow design fitted with a slotted tube along the top. The tube is padded to help protect the vial ammunition inside from damage and to keep it from slipping out while carried.
 

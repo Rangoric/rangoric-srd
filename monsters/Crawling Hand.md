@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Crawling Hand
 
-  - Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
-  - **Hit Dice**: 1d8+5 (9 hp)
-  - **Initiative**: +0
-  - **Speed**: 40 ft. (8 squares), climb 40 ft.
-  - **Armor Class**: 14 (+4 size), touch 14, flat-footed 14
-  - **Base Attack**: +0; **CMB**: –4 (+0 grapple); **CMD**: 7
-  - **Attack**: Claw +5 melee (1d1+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Claw +5 melee (1d1+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 1 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Mark Quarry|Mark quarry]], [[rangoric-srd/monsters/abilities/Strangle|strangle]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-  - **Saves**: Fort +2, Ref +0, Will +2
-  - **Abilities**: Str 13, Dex 11, Con —, Int 2, Wis 11, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +12
-  - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Any land
-  - **Organization**: Solitary or gang (2–5)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: None
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
+- **Hit Dice**: 1d8+5 (9 hp)
+- **Initiative**: +0
+- **Speed**: 40 ft. (8 squares), climb 40 ft.
+- **Armor Class**: 14 (+4 size), touch 14, flat-footed 14
+- **Base Attack**: +0; **CMB**: –4 (+0 grapple); **CMD**: 7
+- **Attack**: Claw +5 melee (1d1+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Claw +5 melee (1d1+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 1 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Mark Quarry|Mark quarry]], [[rangoric-srd/monsters/abilities/Strangle|strangle]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
+- **Saves**: Fort +2, Ref +0, Will +2
+- **Abilities**: Str 13, Dex 11, Con —, Int 2, Wis 11, Cha 14
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +12
+- **Feats**: [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Any land
+- **Organization**: Solitary or gang (2–5)
+- **Challenge Rating**: 1/2
+- **Treasure**: None
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Some say the origins of the crawling hand lie in the experiments of demented necromancers contracted to construct tiny assassins. Other tales tell of gruesome prosthetics sparked to life by evil magic, which then developed primitive sentience and vengefully strangled their hosts. Regardless, the crawling hand is an efficient killing tool.
 

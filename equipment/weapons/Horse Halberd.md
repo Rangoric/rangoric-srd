@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/pole-arms]
 
 # Horse Halberd
 
-*Exotic one-handed melee weapon.* Cost 5 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 2 lb.; Type Piercing. ^stats
+_Exotic one-handed melee weapon._ Cost 5 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 2 lb.; Type Piercing. ^stats
 
-(*Ma Ji*): The horse halberd is a strange framework of sharpened wooden rods that form a tonfa-like device that is strapped to the user’s arm, and therefore cannot be disarmed. Horse halberds are always used in pairs.
+(_Ma Ji_): The horse halberd is a strange framework of sharpened wooden rods that form a tonfa-like device that is strapped to the user’s arm, and therefore cannot be disarmed. Horse halberds are always used in pairs.

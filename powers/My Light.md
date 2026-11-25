@@ -30,7 +30,7 @@ Psychokinesis \[Light\]
 **Range:** Personal  
 **Effect:** 20-ft. cone of light emanating from you  
 **Duration:** 10 min./level (D)  
-**Power Points:** 1  
+**Power Points:** 1
 
 Your eyes beam forth a 20-foot cone of light. You and other creatures can see normally in the light. If you walk into an area filled with psionic or magical darkness, my light goes dark while you stay within that area.
 

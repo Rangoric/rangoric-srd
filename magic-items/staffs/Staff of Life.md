@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/magic-item]
 
 Made of thick oak shod in gold, this staff allows use of the following spells:
 
-  - [[rangoric-srd/spells/Heal (Spell)|Heal]] (1 charge)
-  - [[rangoric-srd/spells/Resurrection|Resurrection]] (5 charges)
+- [[rangoric-srd/spells/Heal (Spell)|Heal]] (1 charge)
+- [[rangoric-srd/spells/Resurrection|Resurrection]] (5 charges)
 
 Moderate conjuration; CL 13th; Craft Staff, heal, resurrection; Price 155,750 gp.

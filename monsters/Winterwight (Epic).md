@@ -61,7 +61,7 @@ Organization: Solitary or pair    
 Challenge Rating: 23      
 Treasure: Standard      
 Alignment: Always chaotic evil      
-Advancement: 33-42 HD (Medium-size); 43-55 HD (Huge)      
+Advancement: 33-42 HD (Medium-size); 43-55 HD (Huge)    
 
 Winterwights speak Common and Infernal.
 
@@ -73,9 +73,9 @@ Rend (Ex): If the winterwight hits with both of its claws, it latches onto the o
 
 Blightfire (Su): When a winterwight deals Damage to a living opponent, a night-black flame begins to burn on the opponent’s body. If the opponent fails a Fortitude save (DC 35), it takes 4 points of permanent Constitution [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]]. The opponent must continue to save every round for the next 4 rounds (5 rounds total) to avoid being permanently drained of an additional 4 points of Constitution per round. The creature regains 10 lost hit points whenever it drains 4 points of Constitution, gaining any excess hit points as temporary hit points. These temporary hit points last a maximum of 1 hour. If the opponent is slain by blightfire, only icy fragments of the victim remain. The save DC is Charisma-based.
 
-Spell-Like Abilities: Caster level 23rd; save DC 19 + spell level. The save DCs are Charisma-based.  
+Spell-Like Abilities: Caster level 23rd; save DC 19 + spell level. The save DCs are Charisma-based.
 
-At will - [[rangoric-srd/spells/Cone of Cold|cone of cold]], [[rangoric-srd/spells/Control Weather|control weather]], [[rangoric-srd/spells/Dimension Door|dimension door]], [[rangoric-srd/spells/Spell Immunity|spell immunity]] ([[rangoric-srd/spells/Fireball|fireball]]), [[rangoric-srd/spells/Sleet Storm|sleet storm]] (a winterwight is immune to the effects of a sleet storm spell), [[rangoric-srd/spells/Wall of Ice|wall of ice]].  
+At will - [[rangoric-srd/spells/Cone of Cold|cone of cold]], [[rangoric-srd/spells/Control Weather|control weather]], [[rangoric-srd/spells/Dimension Door|dimension door]], [[rangoric-srd/spells/Spell Immunity|spell immunity]] ([[rangoric-srd/spells/Fireball|fireball]]), [[rangoric-srd/spells/Sleet Storm|sleet storm]] (a winterwight is immune to the effects of a sleet storm spell), [[rangoric-srd/spells/Wall of Ice|wall of ice]].
 
 Undead Traits: Immune to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/rules/Afflictions#Disease|disease]], death, effects, necromantic effects, mind-affecting effects, and any effect requiring a Fortitude save unless it also works on objects. Not subject to critical hits, subdual damage, ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]]. Negative energy heals. Not at risk of death from massive damage, but destroyed at 0 hit points or less. Darkvision 60 ft. Cannot be raised; resurrection works only if creature is willing.
 

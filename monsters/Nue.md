@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Nue
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 12d10+60 (126 hp)
-  - **Initiative**: +9
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 24 (+5 Dex, +1 dodge, +9 natural, –1 size), touch 15, flat-footed 18
-  - **Base Attack**: +12; **CMB**: +19; **CMD**: 35 (39 vs. trip)
-  - **Attack**: Bite +17 melee (2d6+6 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) or bite +17 melee (1d4+6 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or claw +17 melee (1d6+6)
-  - **Full Attack**: Bite +17 melee (2d6+6 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) and bite +17 melee (1d4+6 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and 2 claws +17 melee (1d6+6)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Energy Drain|Energy drain]] (2 levels, DC 16), [[rangoric-srd/monsters/abilities/Pounce|pounce]], [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Cloud Form|cloud form]]
-  - **Saves**: Fort +13, Ref +13, Will +7
-  - **Abilities**: Str 22, Dex 21, Con 20, Int 7, Wis 17, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +11
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
-  - **Environment**: Warm forests or mountains
-  - **Organization**: Solitary, pair, or ambush (3–6)
-  - **Challenge Rating**: 10
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 12d10+60 (126 hp)
+- **Initiative**: +9
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 24 (+5 Dex, +1 dodge, +9 natural, –1 size), touch 15, flat-footed 18
+- **Base Attack**: +12; **CMB**: +19; **CMD**: 35 (39 vs. trip)
+- **Attack**: Bite +17 melee (2d6+6 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) or bite +17 melee (1d4+6 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or claw +17 melee (1d6+6)
+- **Full Attack**: Bite +17 melee (2d6+6 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) and bite +17 melee (1d4+6 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and 2 claws +17 melee (1d6+6)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Energy Drain|Energy drain]] (2 levels, DC 16), [[rangoric-srd/monsters/abilities/Pounce|pounce]], [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Cloud Form|cloud form]]
+- **Saves**: Fort +13, Ref +13, Will +7
+- **Abilities**: Str 22, Dex 21, Con 20, Int 7, Wis 17, Cha 10
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +11
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
+- **Environment**: Warm forests or mountains
+- **Organization**: Solitary, pair, or ambush (3–6)
+- **Challenge Rating**: 10
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 This strange creature has the body of a tiger, the head of a fanged monkey, and a poisonous viper for a tail. Though some call it a chimera and treat it as an exotic specimen of that creature, it is a completely different breed of beast.
 
@@ -75,8 +75,8 @@ Nues speak Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +12): 3/day—*[[rangoric-srd/spells/Contagion|contagion]]* (DC 14), *[[rangoric-srd/spells/Hold Person|hold person]]* (DC 13); 1/day—*[[rangoric-srd/spells/Nightmare (Spell)|nightmare]]* (DC 15), *[[rangoric-srd/spells/Shout|shout]]* (DC 14), *[[rangoric-srd/spells/Waves of Fatigue|waves of fatigue]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +12): 3/day—_[[rangoric-srd/spells/Contagion|contagion]]_ (DC 14), _[[rangoric-srd/spells/Hold Person|hold person]]_ (DC 13); 1/day—_[[rangoric-srd/spells/Nightmare (Spell)|nightmare]]_ (DC 15), _[[rangoric-srd/spells/Shout|shout]]_ (DC 14), _[[rangoric-srd/spells/Waves of Fatigue|waves of fatigue]]_.
 
 **[[rangoric-srd/monsters/abilities/Cloud Form|Cloud Form]] (Su)**: A nue can change into the form of a 10-foot black cloud or back to its normal form as a standard action. A nue in cloud form is otherwise treated as if under the effects of gaseous form, except that it obscures vision like fog cloud.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Nue Venom|Nue Venom]]: Bite—injury; *save* Fort DC 21; *frequency* 1/round for 6 rounds; *effect* 1d4 Str damage; *cure* 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Nue Venom|Nue Venom]]: Bite—injury; _save_ Fort DC 21; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Str damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.

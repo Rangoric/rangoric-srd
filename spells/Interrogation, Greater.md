@@ -28,15 +28,15 @@ tags: [rangoric, rangoric/spell]
 
 # Interrogation, Greater
 
-*Necromancy \[Evil, Pain\]*
+_Necromancy \[Evil, Pain\]_
 
-  - **Level**: Inq 4, Psy 4
-  - **Components**: V, S
-  - **Casting Time**: 1 round
-  - **Range**: Touch
-  - **Target**: Living creature touched
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Inq 4, Psy 4
+- **Components**: V, S
+- **Casting Time**: 1 round
+- **Range**: Touch
+- **Target**: Living creature touched
+- **Duration**: 1 minute/level
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
-This spell functions as *[[rangoric-srd/spells/Interrogation|interrogation]]*, except you may ask one question per caster level and the spell deals damage equal to 1d8 points plus your Wisdom bonus if the target doesn't answer a question.
+This spell functions as _[[rangoric-srd/spells/Interrogation|interrogation]]_, except you may ask one question per caster level and the spell deals damage equal to 1d8 points plus your Wisdom bonus if the target doesn't answer a question.

@@ -31,7 +31,7 @@ Psychoportation
 **Duration:** 1 round/level; see text  
 **Saving Throw:** Will negates  
 **Power Resistance:** Yes  
-**Power Points:** 5  
+**Power Points:** 5
 
 The subject of the power hops forward in time 1 round for every manifester level you have. In effect, the subject seems to disappear in a shimmer of silver energy, then reappear after the duration of this power expires. The subject reappears in exactly the same orientation and condition as before. From the subject’s point of view, no time has passed at all.
 

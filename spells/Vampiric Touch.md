@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Vampiric Touch
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Apl 3, Blr 3, Mag 3, Med 3, Mes 3, Psy 3, Sor/Wiz 3, Spi 3, Wit 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Living creature touched
-  - **Duration**: Instantaneous/1 hour; see text
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Apl 3, Blr 3, Mag 3, Med 3, Mes 3, Psy 3, Sor/Wiz 3, Spi 3, Wit 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Living creature touched
+- **Duration**: Instantaneous/1 hour; see text
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 You must succeed on a melee touch attack. Your touch deals 1d6 points of damage per two caster levels (maximum 10d6). You gain temporary hit points equal to the damage you deal. However, you can’t gain more than the subject’s current hit points +10, which is enough to kill the subject. The temporary hit points disappear 1 hour later.

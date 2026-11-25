@@ -37,11 +37,11 @@ A lich has all the base creature’s statistics and special abilities except as 
 
 **Special Attacks**: A lich retains all the base creature’s special attacks and gains those described below. Save DCs are equal to 10 + 1/2 lich’s HD + lich’s Cha modifier unless otherwise noted.
 
-*Fear Aura (Su)*: Liches are shrouded in a dreadful aura of death and evil. Creatures of less than 5 HD in a 60-foot radius that look at the lich must succeed on a Will save or be affected as though by a [[rangoric-srd/spells/Fear|fear]] spell from a sorcerer of the lich’s level. A creature that successfully saves cannot be affected again by the same lich’s aura for 24 hours.
+_Fear Aura (Su)_: Liches are shrouded in a dreadful aura of death and evil. Creatures of less than 5 HD in a 60-foot radius that look at the lich must succeed on a Will save or be affected as though by a [[rangoric-srd/spells/Fear|fear]] spell from a sorcerer of the lich’s level. A creature that successfully saves cannot be affected again by the same lich’s aura for 24 hours.
 
-*Paralyzing Touch (Su)*: Any living creature a lich hits with its touch attack must succeed on a Fortitude save or be permanently [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]]. [[rangoric-srd/spells/Remove Paralysis|Remove paralysis]] or any spell that can remove a curse can free the victim (see the [[rangoric-srd/spells/Bestow Curse|bestow curse]] spell description). The effect cannot be [[rangoric-srd/spells/Dispel Magic|dispelled]]. Anyone paralyzed by a lich seems dead, though a DC 20 [[rangoric-srd/skills/Perception|Perception]] check or a DC 15 [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] check reveals that the victim is still alive.
+_Paralyzing Touch (Su)_: Any living creature a lich hits with its touch attack must succeed on a Fortitude save or be permanently [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]]. [[rangoric-srd/spells/Remove Paralysis|Remove paralysis]] or any spell that can remove a curse can free the victim (see the [[rangoric-srd/spells/Bestow Curse|bestow curse]] spell description). The effect cannot be [[rangoric-srd/spells/Dispel Magic|dispelled]]. Anyone paralyzed by a lich seems dead, though a DC 20 [[rangoric-srd/skills/Perception|Perception]] check or a DC 15 [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] check reveals that the victim is still alive.
 
-*Spells*: A lich can cast any spells it could cast while alive.
+_Spells_: A lich can cast any spells it could cast while alive.
 
 **Special Qualities**: A lich retains all the base creature’s special qualities and gains those described below.
 
@@ -81,4 +81,4 @@ The most common form of phylactery is a sealed metal box containing strips of pa
 
 Pathfinder’s version of this template is [[rangoric-srd/monsters/lich/Alternate Lich|Alternate Lich]]. Also in this folder:
 
-  - [[rangoric-srd/monsters/lich/Alternate Lich|Alternate Lich]]
+- [[rangoric-srd/monsters/lich/Alternate Lich|Alternate Lich]]

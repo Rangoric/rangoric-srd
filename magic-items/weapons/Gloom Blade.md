@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Gloom Blade
 
-As black as coal, this short sword grows more potent the farther it is kept from light. It acts as a *+1 short sword* when in dim light. In darkness, it acts as *+2 short sword*. When surrounded by supernatural darkness, such as in an area of *[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]*, it acts a *+2 short sword* and bestows the benefit of the [[rangoric-srd/feats/Blind-Fight|Blind-Fight]] feat to its wielder. In daylight or bright illumination, the sword temporarily loses all its magical enhancement bonuses and acts as a masterwork weapon, though it resumes its magical functions once it is no longer in the bright light.
+As black as coal, this short sword grows more potent the farther it is kept from light. It acts as a _+1 short sword_ when in dim light. In darkness, it acts as _+2 short sword_. When surrounded by supernatural darkness, such as in an area of _[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_, it acts a _+2 short sword_ and bestows the benefit of the [[rangoric-srd/feats/Blind-Fight|Blind-Fight]] feat to its wielder. In daylight or bright illumination, the sword temporarily loses all its magical enhancement bonuses and acts as a masterwork weapon, though it resumes its magical functions once it is no longer in the bright light.
 
-Strong evocation; CL 13th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]*; Price 8,810 gp; Cost 4,560 gp.
+Strong evocation; CL 13th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_; Price 8,810 gp; Cost 4,560 gp.

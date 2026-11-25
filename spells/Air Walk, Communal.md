@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Air Walk, Communal
 
-*Transmutation \[Air\]*
+_Transmutation \[Air\]_
 
-  - **Level**: Alc 5, Clr 5, Drd 5, Hun 5, Occ 5
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creatures touched
-  - **Duration**: 10 min./level
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Alc 5, Clr 5, Drd 5, Hun 5, Occ 5
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creatures touched
+- **Duration**: 10 min./level
+- **Saving Throw**: None
+- **Spell Resistance**: Yes (harmless)
 
-This spell functions like *[[rangoric-srd/spells/Air Walk|air walk]]*, except [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 10-minute intervals among the creatures touched.
+This spell functions like _[[rangoric-srd/spells/Air Walk|air walk]]_, except [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 10-minute intervals among the creatures touched.

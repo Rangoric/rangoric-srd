@@ -31,7 +31,7 @@ Target: One Medium or smaller creature with humanoid physiology
 Duration: Concentration, up to 1 min./level  
 Saving Throw: Fortitude negates  
 Power Resistance: Yes  
-Power Points: 7  
+Power Points: 7
 
 You psychokinetically control the actions of any humanoid (including undead or outsiders with a humanoid physiology) that is within range and to which you have line of sight. Control body doesn’t require mental contact with the subject, since you are actually forcing limb movements independent of the target’s mind. You can force the subject to stand up, sit down, walk, turn around, and so on, but operating the vocal cords is too difficult. You can also hold the subject immobile, rendering it [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]]. You cannot force the subject to manifest powers, cast spells, or use any special ability that is not a function of just its body movements. If you lose line of sight to the subject, the effect of this power ends.
 

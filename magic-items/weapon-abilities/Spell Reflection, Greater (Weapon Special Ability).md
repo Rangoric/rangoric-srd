@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Spell Reflection, Greater
 
-These weapons are similar to *spell reflecting* weapons, except that they are able to reflect three spells per day from any school.
+These weapons are similar to _spell reflecting_ weapons, except that they are able to reflect three spells per day from any school.
 
-Strong abjuration; CL 15th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Spell Turning|spell turning]]*; Price +5 bonus.
+Strong abjuration; CL 15th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Spell Turning|spell turning]]_; Price +5 bonus.

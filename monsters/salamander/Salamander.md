@@ -11,9 +11,9 @@ tags: [rangoric, rangoric/monster]
 
 # Salamander
 
-  - [[rangoric-srd/monsters/salamander/Flamebrother Salamander|Flamebrother Salamander]]
-  - [[rangoric-srd/monsters/salamander/Average Salamander|Average Salamander]]
-  - [[rangoric-srd/monsters/salamander/Noble Salamander|Noble Salamander]]
+- [[rangoric-srd/monsters/salamander/Flamebrother Salamander|Flamebrother Salamander]]
+- [[rangoric-srd/monsters/salamander/Average Salamander|Average Salamander]]
+- [[rangoric-srd/monsters/salamander/Noble Salamander|Noble Salamander]]
 
 Salamanders speak Ignan. Some average salamanders and all nobles also speak Common.
 
@@ -27,11 +27,11 @@ If a salamander has damage reduction, its natural weapons are treated as magic w
 
 **Improved Grab (Ex)**: To use this ability, a salamander must hit a creature of up to one size larger than itself with its tail slap attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can constrict.
 
-**Spell-Like Abilities**: (Noble salamanders only) Caster level 15th. The save DCs are Charisma-based.  
+**Spell-Like Abilities**: (Noble salamanders only) Caster level 15th. The save DCs are Charisma-based.
 
-3/day - [[rangoric-srd/spells/Burning Hands|burning hands]] (DC 13), [[rangoric-srd/spells/Fireball|fireball]] (DC 15), [[rangoric-srd/spells/Flaming Sphere|flaming sphere]] (DC 14), [[rangoric-srd/spells/Wall of Fire|wall of fire]] (DC 16);  
+3/day - [[rangoric-srd/spells/Burning Hands|burning hands]] (DC 13), [[rangoric-srd/spells/Fireball|fireball]] (DC 15), [[rangoric-srd/spells/Flaming Sphere|flaming sphere]] (DC 14), [[rangoric-srd/spells/Wall of Fire|wall of fire]] (DC 16);
 
-1/day - [[rangoric-srd/spells/Dispel Magic|dispel magic]], [[rangoric-srd/spells/Summon Monster VII|summon monster VII]] (Huge fire elemental).  
+1/day - [[rangoric-srd/spells/Dispel Magic|dispel magic]], [[rangoric-srd/spells/Summon Monster VII|summon monster VII]] (Huge fire elemental).
 
 **Skills**: Salamanders have a +4 racial bonus on [[rangoric-srd/skills/Craft|Craft]] (blacksmithing) checks.
 

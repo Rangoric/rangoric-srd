@@ -20,8 +20,8 @@ tags: [rangoric, rangoric/spell]
 
 # Deactivate
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Brd 1, Clr 1, Drd 1, Hun 1, Skd 1, Sor/Wiz 1
+- **Level**: Brd 1, Clr 1, Drd 1, Hun 1, Skd 1, Sor/Wiz 1
 
-As *[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, except that the maximum bonus on the dispel check is +5 instead of +10, and the only option available to the caster is a targeted dispel to suppress the effects of a single magic item.
+As _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, except that the maximum bonus on the dispel check is +5 instead of +10, and the only option available to the caster is a targeted dispel to suppress the effects of a single magic item.

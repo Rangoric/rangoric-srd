@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Ghost Attack
 
-Your deadly strikes against incorporeal foes always find their mark.  
+Your deadly strikes against incorporeal foes always find their mark.
 
 Prerequisite: Base attack bonus +3.
 

@@ -22,7 +22,7 @@ Perks:
 - +2 Wisdom
 - -2 Charisma
 - Darkvision: Oreads can see in the dark up to 60 feet; see [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] for how it works.
-- Spell-Like Ability: *[[rangoric-srd/spells/Magic Stone|Magic stone]]* 1/day (caster level equal to the oread's character level).
+- Spell-Like Ability: _[[rangoric-srd/spells/Magic Stone|Magic stone]]_ 1/day (caster level equal to the oread's character level).
 - Energy Resistance: Oreads have acid resistance 5 (see [[rangoric-srd/rules/Special Abilities and Conditions#Resistance to Energy|resistance to energy]]).
 - Earth Affinity: Oread [[rangoric-srd/classes/Sorcerer|sorcerers]] with the [[rangoric-srd/class-options/bloodlines/Elemental Bloodline|elemental (earth) bloodline]] treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Oread spellcasters with the [[rangoric-srd/class-options/domains/Earth Domain|Earth domain]] use their domain powers and spells at +1 caster level.
 
@@ -47,17 +47,17 @@ Bonus Languages:
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 60 years | +4d6 | +6d6 | +8d6 |
+| --------- | --------- | ----------- | ------- |
+| 60 years  | +4d6      | +6d6        | +8d6    |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 150 years | 200 years | 250 years | +6d% years |
+| Middle Age | Old       | Venerable | Maximum Age |
+| ---------- | --------- | --------- | ----------- |
+| 150 years  | 200 years | 250 years | +6d% years  |
 
 | Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Male | 4 ft. 0 in. | +2d6 | 150 lb. | × 7 lb. |
-| Female | 3 ft. 9 in. | +2d6 | 120 lb. | × 7 lb. |
+| ------ | ----------- | --------------- | ----------- | --------------- |
+| Male   | 4 ft. 0 in. | +2d6            | 150 lb.     | × 7 lb.         |
+| Female | 3 ft. 9 in. | +2d6            | 120 lb.     | × 7 lb.         |
 
 ### Description
 
@@ -77,16 +77,16 @@ Oreads are humans whose ancestry includes the touch of an elemental being of ear
 
 An oread can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Crystalline Form\|Crystalline Form]] | Earth affinity |
-| [[rangoric-srd/races/racial-traits/Elemental Insight\|Earth Insight]] | Earth affinity |
-| [[rangoric-srd/races/racial-traits/Ferrous Growth\|Ferrous Growth]] | Spell-like ability |
-| [[rangoric-srd/races/racial-traits/Fertile Soil\|Fertile Soil]] | Earth affinity |
-| [[rangoric-srd/races/racial-traits/Granite Skin\|Granite Skin]] | Energy resistance |
-| [[rangoric-srd/races/racial-traits/Mountain-Born\|Mountain-Born]] | Spell-like ability |
-| [[rangoric-srd/races/racial-traits/Elemental Vitality\|Stone in the Blood]] | Earth affinity |
-| [[rangoric-srd/races/racial-traits/Treacherous Earth\|Treacherous Earth]] | Spell-like ability |
+| Trait                                                                       | Replaces           |
+| --------------------------------------------------------------------------- | ------------------ |
+| [[rangoric-srd/races/racial-traits/Crystalline Form\|Crystalline Form]]     | Earth affinity     |
+| [[rangoric-srd/races/racial-traits/Elemental Insight\|Earth Insight]]       | Earth affinity     |
+| [[rangoric-srd/races/racial-traits/Ferrous Growth\|Ferrous Growth]]         | Spell-like ability |
+| [[rangoric-srd/races/racial-traits/Fertile Soil\|Fertile Soil]]             | Earth affinity     |
+| [[rangoric-srd/races/racial-traits/Granite Skin\|Granite Skin]]             | Energy resistance  |
+| [[rangoric-srd/races/racial-traits/Mountain-Born\|Mountain-Born]]           | Spell-like ability |
+| [[rangoric-srd/races/racial-traits/Elemental Vitality\|Stone in the Blood]] | Earth affinity     |
+| [[rangoric-srd/races/racial-traits/Treacherous Earth\|Treacherous Earth]]   | Spell-like ability |
 
 ### Class Bonuses
 
@@ -98,7 +98,7 @@ An oread gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
+| Archetype                                                                                     | Class                                       |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------- |
 | [[rangoric-srd/class-options/archetypes/summoner/Shaitan Binder (Archetype)\|Shaitan Binder]] | [[rangoric-srd/classes/Summoner\|Summoner]] |
-| [[rangoric-srd/class-options/archetypes/monk/Student of Stone (Archetype)\|Student of Stone]] | [[rangoric-srd/classes/Monk\|Monk]] |
+| [[rangoric-srd/class-options/archetypes/monk/Student of Stone (Archetype)\|Student of Stone]] | [[rangoric-srd/classes/Monk\|Monk]]         |

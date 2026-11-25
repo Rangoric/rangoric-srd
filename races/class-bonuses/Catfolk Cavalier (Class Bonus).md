@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Catfolk Cavalier
 
-*A [[rangoric-srd/races/Catfolk|catfolk]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Cavalier#^cavalier-class-bonuses|cavalier]] level.*
+_A [[rangoric-srd/races/Catfolk|catfolk]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Cavalier#^cavalier-class-bonuses|cavalier]] level._
 
 Add +1/4 to the cavalier's [[rangoric-srd/classes/Cavalier#^cavalier-banner|banner]] bonus.

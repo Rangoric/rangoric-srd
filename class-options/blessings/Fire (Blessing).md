@@ -15,8 +15,8 @@ tags: [rangoric, rangoric/class-option]
 
 # Fire Blessing
 
-*A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Fire Domain|Fire domain]].*
+_A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Fire Domain|Fire domain]]._
 
-**Fire Strike (minor)**: At 1st level, you can touch one weapon and enhance it with the grandeur of fire. For 1 minute, this weapon glows red-hot and deals an additional 1d4 points of fire damage with each hit. This additional damage doesn’t stack with the additional damage from the *[[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]* or *[[rangoric-srd/magic-items/weapon-abilities/Flaming Burst|flaming burst]]* weapon special abilities.
+**Fire Strike (minor)**: At 1st level, you can touch one weapon and enhance it with the grandeur of fire. For 1 minute, this weapon glows red-hot and deals an additional 1d4 points of fire damage with each hit. This additional damage doesn’t stack with the additional damage from the _[[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]_ or _[[rangoric-srd/magic-items/weapon-abilities/Flaming Burst|flaming burst]]_ weapon special abilities.
 
-**Armor of Flame (major)**: At 10th level, you can touch an ally to wreath it in flames. This works as *[[rangoric-srd/spells/Fire Shield|fire shield]]* (warm shield only) with a duration of 1 minute.
+**Armor of Flame (major)**: At 10th level, you can touch an ally to wreath it in flames. This works as _[[rangoric-srd/spells/Fire Shield|fire shield]]_ (warm shield only) with a duration of 1 minute.

@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/armor]
 
 # Klar
 
-*Shield.* Cost 12 gp; Shield Bonus +1; Armor Check Penalty –1; Arcane Spell Failure 5%; Weight 6 lb. ^stats
+_Shield._ Cost 12 gp; Shield Bonus +1; Armor Check Penalty –1; Arcane Spell Failure 5%; Weight 6 lb. ^stats
 
 The traditional form of this tribal weapon is a short metal blade bound to the skull of a large horned lizard, but a skilled smith can craft one entirely out of metal. A traditional klar counts as a [[rangoric-srd/equipment/armor/Light Wooden Shield|light wooden shield]] with [[rangoric-srd/equipment/armor/Shield Spikes|shield spikes]]; a metal klar counts as a [[rangoric-srd/equipment/armor/Light Steel Shield|light steel shield]] with [[rangoric-srd/equipment/armor/Shield Spikes|shield spikes]].

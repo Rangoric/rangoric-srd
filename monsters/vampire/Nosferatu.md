@@ -47,28 +47,28 @@ tags: [rangoric, rangoric/monster]
 
 # Nosferatu
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Augmented Humanoid, Human)
-  - **Hit Dice**: 9d8+27 (71 hp)
-  - **Initiative**: +11
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 30 (+4 armor, +1 deflection, +6 Dex, +1 dodge, +8 natural), touch 18, flat-footed 23
-  - **Base Attack**: +6; **CMB**: +9; **CMD**: 28
-  - **Attack**: Claw +14 melee (1d6+3)
-  - **Full Attack**: 2 claws +14 melee (1d6+3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1d4 Con and 1d4 Wis), [[rangoric-srd/monsters/vampire/Nosferatu#^dominate|dominate]] (DC 17), [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] +5d6, [[rangoric-srd/monsters/abilities/Telekinesis|telekinesis]] (DC 17)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 60 ft., [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/classes/Rogue#^rogue-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|trap sense]] +3, [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Bleeding Attack (Rogue Talent)|bleeding attack]] +5, [[rangoric-srd/class-options/rogue-talents/Fast Stealth (Rogue Talent)|fast stealth]], [[rangoric-srd/class-options/rogue-talents/Stand Up (Rogue Talent)|stand up]], [[rangoric-srd/class-options/rogue-talents/Surprise Attack (Rogue Talent)|surprise attack]]), [[rangoric-srd/monsters/vampire/Nosferatu#^spider-climb|spider climb]], [[rangoric-srd/monsters/vampire/Nosferatu#^swarm-form|swarm form]], [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +4, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/wood and piercing, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, electricity 10 and sonic 10, [[rangoric-srd/monsters/vampire/Nosferatu#^weaknesses|vampire weaknesses]]
-  - **Saves**: Fort +7, Ref +16, Will +7
-  - **Abilities**: Str 16, Dex 24, Con —, Int 16, Wis 16, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +15, [[rangoric-srd/skills/Emulation|Emulation]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Society|Society]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +30, [[rangoric-srd/skills/Theology|Theology]] +12
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Sense Motive), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
-  - **Environment**: Any urban or ruins
-  - **Organization**: Solitary
-  - **Challenge Rating**: 10
-  - **Treasure**: NPC gear (wand of scorching ray [10 charges], +2 leather armor, belt of incredible dexterity +2, cloak of resistance +1, ring of protection +1, other treasure)
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Augmented Humanoid, Human)
+- **Hit Dice**: 9d8+27 (71 hp)
+- **Initiative**: +11
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 30 (+4 armor, +1 deflection, +6 Dex, +1 dodge, +8 natural), touch 18, flat-footed 23
+- **Base Attack**: +6; **CMB**: +9; **CMD**: 28
+- **Attack**: Claw +14 melee (1d6+3)
+- **Full Attack**: 2 claws +14 melee (1d6+3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1d4 Con and 1d4 Wis), [[rangoric-srd/monsters/vampire/Nosferatu#^dominate|dominate]] (DC 17), [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] +5d6, [[rangoric-srd/monsters/abilities/Telekinesis|telekinesis]] (DC 17)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 60 ft., [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/classes/Rogue#^rogue-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|trap sense]] +3, [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Bleeding Attack (Rogue Talent)|bleeding attack]] +5, [[rangoric-srd/class-options/rogue-talents/Fast Stealth (Rogue Talent)|fast stealth]], [[rangoric-srd/class-options/rogue-talents/Stand Up (Rogue Talent)|stand up]], [[rangoric-srd/class-options/rogue-talents/Surprise Attack (Rogue Talent)|surprise attack]]), [[rangoric-srd/monsters/vampire/Nosferatu#^spider-climb|spider climb]], [[rangoric-srd/monsters/vampire/Nosferatu#^swarm-form|swarm form]], [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +4, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/wood and piercing, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, electricity 10 and sonic 10, [[rangoric-srd/monsters/vampire/Nosferatu#^weaknesses|vampire weaknesses]]
+- **Saves**: Fort +7, Ref +16, Will +7
+- **Abilities**: Str 16, Dex 24, Con —, Int 16, Wis 16, Cha 16
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +15, [[rangoric-srd/skills/Emulation|Emulation]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Society|Society]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +30, [[rangoric-srd/skills/Theology|Theology]] +12
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Sense Motive), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
+- **Environment**: Any urban or ruins
+- **Organization**: Solitary
+- **Challenge Rating**: 10
+- **Treasure**: NPC gear (wand of scorching ray [10 charges], +2 leather armor, belt of incredible dexterity +2, cloak of resistance +1, ring of protection +1, other treasure)
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The nosferatu above is a human nosferatu with 9 levels of [[rangoric-srd/classes/Rogue|rogue]].
 
@@ -112,13 +112,13 @@ Reducing a nosferatu's hit points to 0 incapacitates it but doesn't always destr
 
 **[[rangoric-srd/monsters/abilities/Blood Drain|Blood Drain]] (Ex)**: A nosferatu can suck blood from a [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]], willing, or grappled living victim with its fangs by making a successful grapple check. If it pins the foe, it drains blood, draining 1d4 points of Constitution and Wisdom each round the pin is maintained. On each round it drains blood, the nosferatu gains 5 temporary hit points that last for 1 hour (up to a maximum number of temporary hit points equal to its full normal hit points).
 
-**Dominate (Su)**: A nosferatu can crush a humanoid opponent's will as a standard action. Anyone the nosferatu targets must succeed at a Will save or fall instantly under the nosferatu's influence, as though by a *[[rangoric-srd/spells/Dominate Person|dominate person]]* spell (caster level 12th). This ability has a range of 30 feet. At the GM's discretion, some nosferatu (such as a very old one or with an unusually strong bloodline) might be able to affect different creature types with this power. ^dominate
+**Dominate (Su)**: A nosferatu can crush a humanoid opponent's will as a standard action. Anyone the nosferatu targets must succeed at a Will save or fall instantly under the nosferatu's influence, as though by a _[[rangoric-srd/spells/Dominate Person|dominate person]]_ spell (caster level 12th). This ability has a range of 30 feet. At the GM's discretion, some nosferatu (such as a very old one or with an unusually strong bloodline) might be able to affect different creature types with this power. ^dominate
 
-**[[rangoric-srd/monsters/abilities/Telekinesis|Telekinesis]] (Su)**: As a standard action, a nosferatu can use *[[rangoric-srd/spells/Telekinesis|telekinesis]]* (caster level 12th).
+**[[rangoric-srd/monsters/abilities/Telekinesis|Telekinesis]] (Su)**: As a standard action, a nosferatu can use _[[rangoric-srd/spells/Telekinesis|telekinesis]]_ (caster level 12th).
 
 **Special Qualities (Ex)**: A nosferatu gains the following.
 
-**Spider Climb (Ex)**: A nosferatu can climb sheer surfaces as though under the effects of a *[[rangoric-srd/spells/Spider Climb|spider climb]]* spell. ^spider-climb
+**Spider Climb (Ex)**: A nosferatu can climb sheer surfaces as though under the effects of a _[[rangoric-srd/spells/Spider Climb|spider climb]]_ spell. ^spider-climb
 
 **Swarm Form (Su)**: As a standard action, a nosferatu can change into a bat swarm, centipede swarm, rat swarm, or spider swarm. The nosferatu gains the natural weapons and extraordinary special attacks of the swarm it has transformed into. The swarm has the same number of hit points as the nosferatu. While in swarm form, a nosferatu can't use its claw attacks or any of its special attacks. It retains the defensive abilities, weaknesses, and special qualities it gains from being a nosferatu, counts as an undead creature, and can use any of the swarm's abilities and defenses. It can remain in swarm form until it assumes another form or until the next sunrise. ^swarm-form
 

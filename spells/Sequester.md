@@ -27,19 +27,19 @@ tags: [rangoric, rangoric/spell]
 
 # Sequester
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Psy 7, Sor/Wiz 7, Sum 5, SumU 6
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: One willing creature or object (up to a 2-ft. cube/level) touched
-  - **Duration**: One day/level (D)
-  - **Saving Throw**: None or Will negates (object)
-  - **Spell Resistance**: No or Yes (object)
+- **Level**: Psy 7, Sor/Wiz 7, Sum 5, SumU 6
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: One willing creature or object (up to a 2-ft. cube/level) touched
+- **Duration**: One day/level (D)
+- **Saving Throw**: None or Will negates (object)
+- **Spell Resistance**: No or Yes (object)
 
 When cast, this spell not only prevents divination spells from working to detect or locate the creature or object affected by sequester, it also renders the affected creature or object [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] to any form of sight or seeing (as the invisibility spell). The spell does not prevent the subject from being discovered through tactile means or through the use of devices. Creatures affected by sequester become comatose and are effectively in a state of suspended animation until the spell wears off or is dispelled.
 
-*Note*: The Will save prevents an attended or magical object from being sequestered. There is no save to see the sequestered creature or object or to detect it with a divination spell.
+_Note_: The Will save prevents an attended or magical object from being sequestered. There is no save to see the sequestered creature or object or to detect it with a divination spell.
 
-*Material Component*: A basilisk eyelash, gum arabic, and a dram of whitewash.
+_Material Component_: A basilisk eyelash, gum arabic, and a dram of whitewash.

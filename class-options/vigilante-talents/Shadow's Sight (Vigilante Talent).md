@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Shadow's Sight
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
 The vigilante gains [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]] and [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 feet. If he already had darkvision, its range increases by 30 feet.

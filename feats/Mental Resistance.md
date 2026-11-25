@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat]
 
 # Mental Resistance
 
-Your mind is armored against mental intrusion.  
+Your mind is armored against mental intrusion.
 
 Prerequisite: Base Will save bonus +2.
 

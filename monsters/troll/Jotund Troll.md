@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Jotund Troll
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
-  - **Hit Dice**: 16d8+144 (216 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 30 (–1 Dex, +23 natural, –2 size), touch 7, flat-footed 30
-  - **Base Attack**: +12; **CMB**: +24 (+28 grapple); **CMD**: 33
-  - **Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +20 melee (2d6+10/19–20) or bite +20 melee (2d6+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +20 melee (1d8+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or rock +10 ranged (2d8+15)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +20/+15/+10 melee (2d6+10/19–20) and bite +15 melee (2d6+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and claw +15 melee (1d8+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]); or rock +10 ranged (2d8+15)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/All-Seeing Attacks|All-seeing attacks]], [[rangoric-srd/monsters/abilities/Cacophonous Roar|cacophonous roar]], [[rangoric-srd/monsters/abilities/Fast Swallow|fast swallow]], [[rangoric-srd/monsters/abilities/Rock Throwing|rock throwing]] (120 ft.), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (4d6+15 bludgeoning, AC 21, 21 hp)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 10 (acid or fire), [[rangoric-srd/monsters/abilities/Multiple Minds|multiple minds]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to confusion and insanity effects
-  - **Saves**: Fort +16, Ref +6, Will +13
-  - **Abilities**: Str 31, Dex 8, Con 29, Int 10, Wis 17, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +29, [[rangoric-srd/skills/Investigation|Investigation]] +4, [[rangoric-srd/skills/Perception|Perception]] +26
-  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (club), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
-  - **Environment**: Cold hills or mountains
-  - **Organization**: Solitary or war party (1 jotund troll plus 2–5 hill giants or 3–12 ogres)
-  - **Challenge Rating**: 15
-  - **Treasure**: Standard (club, other treasure)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
+- **Hit Dice**: 16d8+144 (216 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 30 (–1 Dex, +23 natural, –2 size), touch 7, flat-footed 30
+- **Base Attack**: +12; **CMB**: +24 (+28 grapple); **CMD**: 33
+- **Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +20 melee (2d6+10/19–20) or bite +20 melee (2d6+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +20 melee (1d8+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or rock +10 ranged (2d8+15)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +20/+15/+10 melee (2d6+10/19–20) and bite +15 melee (2d6+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and claw +15 melee (1d8+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]); or rock +10 ranged (2d8+15)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/All-Seeing Attacks|All-seeing attacks]], [[rangoric-srd/monsters/abilities/Cacophonous Roar|cacophonous roar]], [[rangoric-srd/monsters/abilities/Fast Swallow|fast swallow]], [[rangoric-srd/monsters/abilities/Rock Throwing|rock throwing]] (120 ft.), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (4d6+15 bludgeoning, AC 21, 21 hp)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 10 (acid or fire), [[rangoric-srd/monsters/abilities/Multiple Minds|multiple minds]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to confusion and insanity effects
+- **Saves**: Fort +16, Ref +6, Will +13
+- **Abilities**: Str 31, Dex 8, Con 29, Int 10, Wis 17, Cha 6
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +29, [[rangoric-srd/skills/Investigation|Investigation]] +4, [[rangoric-srd/skills/Perception|Perception]] +26
+- **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (club), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
+- **Environment**: Cold hills or mountains
+- **Organization**: Solitary or war party (1 jotund troll plus 2–5 hill giants or 3–12 ogres)
+- **Challenge Rating**: 15
+- **Treasure**: Standard (club, other treasure)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Jotund trolls are gigantic, nine-headed horrors. Prowling frigid moors and marshes, these rapacious creatures have the same insatiable appetites of common trolls but require much more sustenance because of their excessive size. Jotund trolls stand 30 feet tall and weigh roughly 25,000 pounds. They can live for up to 100 years.
 

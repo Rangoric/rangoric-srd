@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Sewer Troll
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
-  - **Hit Dice**: 3d8+6 (19 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 14 (+2 Dex, +2 natural), touch 12, flat-footed 12
-  - **Base Attack**: +2; **CMB**: +3; **CMD**: 15
-  - **Attack**: Bite +3 melee (1d6+1) or claw +3 melee (1d4+1)
-  - **Full Attack**: Bite +3 melee (1d6+1) and 2 claws +3 melee (1d4+1)
-  - **Space/Reach**: 5 ft./5 ft. (10 ft. with claws)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws, 1d6+1), sneak attack +1d6
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 2 (acid or fire), [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
-  - **Saves**: Fort +5, Ref +3, Will +0
-  - **Abilities**: Str 13, Dex 14, Con 15, Int 6, Wis 9, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +2, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +6 (+9 underground)
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
-  - **Environment**: Any underground
-  - **Organization**: Solitary or gang (2–5)
-  - **Challenge Rating**: 2
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
+- **Hit Dice**: 3d8+6 (19 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 14 (+2 Dex, +2 natural), touch 12, flat-footed 12
+- **Base Attack**: +2; **CMB**: +3; **CMD**: 15
+- **Attack**: Bite +3 melee (1d6+1) or claw +3 melee (1d4+1)
+- **Full Attack**: Bite +3 melee (1d6+1) and 2 claws +3 melee (1d4+1)
+- **Space/Reach**: 5 ft./5 ft. (10 ft. with claws)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws, 1d6+1), sneak attack +1d6
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 2 (acid or fire), [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
+- **Saves**: Fort +5, Ref +3, Will +0
+- **Abilities**: Str 13, Dex 14, Con 15, Int 6, Wis 9, Cha 6
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +2, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +6 (+9 underground)
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
+- **Environment**: Any underground
+- **Organization**: Solitary or gang (2–5)
+- **Challenge Rating**: 2
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Sewer trolls are close relations to both common [[rangoric-srd/monsters/troll/Troll|trolls]] and scrags. They are much smaller, however, only weighing around 200 pounds and reaching up to 6 feet tall. Like normal trolls, sewer trolls possess regenerative powers that allow them to recover from almost any wound and even regrow limbs, though these powers can be thwarted by fire or acid. Their regeneration is significantly slower than a normal troll's, however.
 

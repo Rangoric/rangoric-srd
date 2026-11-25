@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/weapon, eastern]
 
 # Iron-Tipped Distance Arrows
 
-*Ammunition (20) for bows.* Cost 1 gp; Weight 4 lb. ^stats
+_Ammunition (20) for bows._ Cost 1 gp; Weight 4 lb. ^stats
 
 Used tactically for long-range attacks on troops, these arrows are fitted with heavy iron heads. While these heads help them travel great distances, they make the arrows less effective at dealing damage. Iron-tipped distance arrows increase their bow's range increment by 10 feet but take a –1 penalty on damage dealt per range increment (minimum 1 point of damage). They are sold in leather quivers in quantities of 20.

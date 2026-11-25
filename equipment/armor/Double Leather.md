@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Double Leather
 
-*Light armor.* Cost 20 gp; Armor Bonus +3; Maximum Dex Bonus +4; Armor Check Penalty –3; Arcane Spell Failure 20%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 20 lb. ^stats
+_Light armor._ Cost 20 gp; Armor Bonus +3; Maximum Dex Bonus +4; Armor Check Penalty –3; Arcane Spell Failure 20%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 20 lb. ^stats
 
 This armor is made from two layers of leather. The inner side is softer, usually made from deer or moose. The outer layer is tanned and strengthened, giving it greater durability. Barbarians often decorate this armor with animal skins or furs to denote their tribe and rank.

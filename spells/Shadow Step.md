@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Shadow Step
 
-*Illusion (Shadow) \[Shadow\]*
+_Illusion (Shadow) \[Shadow\]_
 
-  - **Level**: Brd 4, Psy 4, Skd 4, Sor/Wiz 4, Spi 4, Wit 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Target**: You
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Brd 4, Psy 4, Skd 4, Sor/Wiz 4, Spi 4, Wit 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Target**: You
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 To use this spell, you must be in an area of dim light or darkness. You enter a shadow or area of darkness, which transports you along a coiling path of shadowstuff to another dim or dark location within range.

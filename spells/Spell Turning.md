@@ -27,14 +27,14 @@ tags: [rangoric, rangoric/spell]
 
 # Spell Turning
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Luck 7, Magic 7, Psy 7, Sor/Wiz 7, Sum 5, SumU 6
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: Until expended or 10 min./level
+- **Level**: Luck 7, Magic 7, Psy 7, Sor/Wiz 7, Sum 5, SumU 6
+- **Components**: V, S, M/DF
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: Until expended or 10 min./level
 
 Spells and spell-like effects targeted on you are turned back upon the original caster. The abjuration turns only spells that have you as a target. Effect and area spells are not affected. Spell turning also fails to stop touch range spells.
 
@@ -53,4 +53,4 @@ Roll randomly to determine the result.
 | 81–97  | Both turning effects are rendered nonfunctional for 1d4 minutes. |
 | 98–100 | Both of you go through a rift into another plane.                |
 
-*Arcane Material Component*: A small silver mirror.
+_Arcane Material Component_: A small silver mirror.

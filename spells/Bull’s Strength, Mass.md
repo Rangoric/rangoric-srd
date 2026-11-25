@@ -24,10 +24,10 @@ tags: [rangoric, rangoric/spell]
 
 # Bull’s Strength, Mass
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Clr 6, Drd 6, Hun 6, Mag 6, Psy 6, Sha 6, Sor/Wiz 6, Sum 4, SumU 6
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Targets**: One creature/level, no two of which can be more than 30 ft. apart
+- **Level**: Clr 6, Drd 6, Hun 6, Mag 6, Psy 6, Sha 6, Sor/Wiz 6, Sum 4, SumU 6
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Targets**: One creature/level, no two of which can be more than 30 ft. apart
 
 This spell functions like [[rangoric-srd/spells/Bull’s Strength|bull’s strength]], except that it affects multiple creatures.

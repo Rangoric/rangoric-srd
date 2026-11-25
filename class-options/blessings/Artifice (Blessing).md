@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Artifice Blessing
 
-*A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Artifice Domain|Artifice domain]].*
+_A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Artifice Domain|Artifice domain]]._
 
 **Crafter’s Wrath (minor)**: At 1st level, you can touch one melee weapon and grant it greater power to harm and destroy crafted objects. For 1 minute, whenever this weapon deals damage to constructs or objects, it bypasses hardness and damage reduction.
 

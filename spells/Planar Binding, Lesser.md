@@ -31,18 +31,18 @@ tags: [rangoric, rangoric/spell]
 
 # Planar Binding, Lesser
 
-*Conjuration (Calling) \[see text\]*
+_Conjuration (Calling) \[see text\]_
 
-  - **Level**: Med 4, Occ 5, Psy 5, Sor/Wiz 5, Sum 4, SumU 5
-  - **Components**: V, S
-  - **Casting Time**: 10 minutes
-  - **Range**: Close (25 ft. + 5 ft./2 levels); see text
-  - **Target**: One elemental or outsider with 6 HD or less
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: No and Yes; see text
+- **Level**: Med 4, Occ 5, Psy 5, Sor/Wiz 5, Sum 4, SumU 5
+- **Components**: V, S
+- **Casting Time**: 10 minutes
+- **Range**: Close (25 ft. + 5 ft./2 levels); see text
+- **Target**: One elemental or outsider with 6 HD or less
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates
+- **Spell Resistance**: No and Yes; see text
 
-*Casting this spell attempts a dangerous act*: to lure a creature from another plane to a specifically prepared trap, which must lie within the spell’s range. The called creature is held in the trap until it agrees to perform one service in return for its freedom.
+_Casting this spell attempts a dangerous act_: to lure a creature from another plane to a specifically prepared trap, which must lie within the spell’s range. The called creature is held in the trap until it agrees to perform one service in return for its freedom.
 
 To create the trap, you must use a magic circle spell, focused inward. The kind of creature to be bound must be known and stated. If you wish to call a specific individual, you must use that individual’s proper name in casting the spell.
 

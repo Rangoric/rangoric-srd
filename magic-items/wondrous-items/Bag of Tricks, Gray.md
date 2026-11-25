@@ -25,10 +25,10 @@ Animals produced are always random, and only one may exist at a time. Up to ten 
 
 Faint conjuration; CL 3rd; Craft Wondrous Item, summon nature’s ally II; Price 900 gp.
 
-| d% | Animal |
-| --- | --- |
-| 01–30 | Bat |
-| 31–60 | Rat |
-| 61–75 | Cat |
-| 76–90 | Weasel |
+| d%     | Animal |
+| ------ | ------ |
+| 01–30  | Bat    |
+| 31–60  | Rat    |
+| 61–75  | Cat    |
+| 76–90  | Weasel |
 | 91–100 | Badger |

@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Cloak of the Duskwalker
 
-This dark, velvety cloak billows with a dramatic flourish in its wearer's wake. The cloak grants its wearer [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]]. Once per day, on command, the wearer can surround herself with darkness, as the *[[rangoric-srd/spells/Darkness|darkness]]* spell. While this darkness is active, the cloak also grants the wearer [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 feet as well as [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]].
+This dark, velvety cloak billows with a dramatic flourish in its wearer's wake. The cloak grants its wearer [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]]. Once per day, on command, the wearer can surround herself with darkness, as the _[[rangoric-srd/spells/Darkness|darkness]]_ spell. While this darkness is active, the cloak also grants the wearer [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 feet as well as [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]].
 
-Faint illusion; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Darkness|darkness]]*, *[[rangoric-srd/spells/Darkvision|darkvision]]*; Price 10,000 gp; Cost 5,000 gp; Weight 1 lb.
+Faint illusion; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Darkness|darkness]]_, _[[rangoric-srd/spells/Darkvision|darkvision]]_; Price 10,000 gp; Cost 5,000 gp; Weight 1 lb.

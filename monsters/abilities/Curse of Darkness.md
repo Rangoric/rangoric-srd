@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Curse of Darkness
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “curse of darkness”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “curse of darkness”, on the Special Attacks line.
 
 With a touch, an owb can make bright light unbearable to the victim. Any creature touched must succeed at a DC 17 Fortitude save or gain the light blindness weakness. This ability also robs the victim of its coloration, leaving the creature and its equipment in washed-out shades of gray. This effect can be removed with break enchantment or remove curse, unless the target has the dark folk subtype, in which case the effect can only be removed by wish or similar magic. The save DC is Charisma-based. The [[rangoric-srd/monsters/Owb|owb]] has it.

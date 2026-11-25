@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Resounding Blow
 
-*Evocation \[Sonic\]*
+_Evocation \[Sonic\]_
 
-  - **Level**: Apl 4, Inq 5, Pal 4
-  - **Components**: V
-  - **Casting Time**: 1 swift action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Fortitude partial; see text
-  - **Spell Resistance**: No
+- **Level**: Apl 4, Inq 5, Pal 4
+- **Components**: V
+- **Casting Time**: 1 swift action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level
+- **Saving Throw**: Fortitude partial; see text
+- **Spell Resistance**: No
 
 You must have a melee weapon in hand to cast this spell. On a successful melee attack, your weapon resounds with a thunderous clash. The target takes 1d6 points of sonic damage. Your weapon is not harmed by this attack.
 
@@ -44,4 +44,4 @@ If you are using your judgment ability or smite ability against the target, it i
 
 On a successful critical hit, the target is stunned for 1 round and deafened for 1d6 rounds. A successful Fortitude save negates the stunning and deafening effects. If you are also using judgment or smite, your foe makes only a single save against all effects.
 
-This spell immediately ends if your weapon leaves your hand. *Resounding blow* stacks with the *[[rangoric-srd/magic-items/weapon-abilities/Thundering|thundering]]* weapon property.
+This spell immediately ends if your weapon leaves your hand. _Resounding blow_ stacks with the _[[rangoric-srd/magic-items/weapon-abilities/Thundering|thundering]]_ weapon property.

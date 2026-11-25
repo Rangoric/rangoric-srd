@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/magic-item]
 
 Each of these items is a small feather that has a power to suit a special need. The kinds of tokens are described below. Each token is usable once.
 
-*Anchor*: A token useful to moor a craft in water so as to render it immobile for up to one day.
+_Anchor_: A token useful to moor a craft in water so as to render it immobile for up to one day.
 
 Moderate conjuration; CL 12th; Craft Wondrous Item, major creation; Price 50 gp.

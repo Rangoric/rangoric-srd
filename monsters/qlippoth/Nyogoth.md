@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Nyogoth
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Evil, Extraplanar, Qlippoth)
-  - **Hit Dice**: 10d10+70 (125 hp)
-  - **Initiative**: +5
-  - **Speed**: 5 ft. (1 square), fly 30 ft. (good)
-  - **Armor Class**: 24 (+5 Dex, +9 natural), touch 15, flat-footed 19
-  - **Base Attack**: +10; **CMB**: +13; **CMD**: 28 (can't be tripped)
-  - **Attack**: Bite +15 melee (1d6+3/19–20 plus 1d4 acid) or bite +15 melee (2d6+3/19–20 plus 1d4 acid)
-  - **Full Attack**: 4 bites +15 melee (1d6+3/19–20 plus 1d4 acid) and bite +15 melee (2d6+3/19–20 plus 1d4 acid)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Horrific Appearance|Horrific appearance]] (DC 18), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Acid Spray|acid spray]], [[rangoric-srd/monsters/abilities/Flight|flight]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/lawful, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, cold, poison and mind-affecting effects, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10 and fire 10
-  - **Saves**: Fort +14, Ref +12, Will +7
-  - **Abilities**: Str 16, Dex 21, Con 24, Int 9, Wis 19, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +22, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +18, [[rangoric-srd/skills/Theology|Theology]] +12
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any (a chaotic evil-aligned plane: the [[rangoric-srd/rules/planes/The Abyss|Abyss]])
-  - **Organization**: Solitary or brood (2–8)
-  - **Challenge Rating**: 10
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Evil, Extraplanar, Qlippoth)
+- **Hit Dice**: 10d10+70 (125 hp)
+- **Initiative**: +5
+- **Speed**: 5 ft. (1 square), fly 30 ft. (good)
+- **Armor Class**: 24 (+5 Dex, +9 natural), touch 15, flat-footed 19
+- **Base Attack**: +10; **CMB**: +13; **CMD**: 28 (can't be tripped)
+- **Attack**: Bite +15 melee (1d6+3/19–20 plus 1d4 acid) or bite +15 melee (2d6+3/19–20 plus 1d4 acid)
+- **Full Attack**: 4 bites +15 melee (1d6+3/19–20 plus 1d4 acid) and bite +15 melee (2d6+3/19–20 plus 1d4 acid)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Horrific Appearance|Horrific appearance]] (DC 18), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Acid Spray|acid spray]], [[rangoric-srd/monsters/abilities/Flight|flight]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/lawful, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, cold, poison and mind-affecting effects, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10 and fire 10
+- **Saves**: Fort +14, Ref +12, Will +7
+- **Abilities**: Str 16, Dex 21, Con 24, Int 9, Wis 19, Cha 16
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +22, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +18, [[rangoric-srd/skills/Theology|Theology]] +12
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any (a chaotic evil-aligned plane: the [[rangoric-srd/rules/planes/The Abyss|Abyss]])
+- **Organization**: Solitary or brood (2–8)
+- **Challenge Rating**: 10
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The nyogoth's role on the [[rangoric-srd/rules/planes/The Abyss|Abyss]] is that of a scavenger. Essentially mobile clumps of buoyant intestines, these writhing creatures squirt through the air in convulsive movements like an octopus gliding through water, and are constantly on the search for anything smaller than one of their many mouths (either the relatively small ones that pinch and gasp at the tips of their intestinal limbs or the larger gaping one at their cores). They can subsist on the waste and filth left behind by other denizens of the [[rangoric-srd/rules/planes/The Abyss|Abyss]], but particularly enjoy feeding on still-living creatures.
 
@@ -70,7 +70,7 @@ A typical nyogoth is 5 feet in diameter and weighs 260 pounds, although they are
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +13): At will—*[[rangoric-srd/spells/Acid Arrow|acid arrow]]*; 7/day—*[[rangoric-srd/spells/Fear|fear]]* (DC 17), *[[rangoric-srd/spells/Protection from Law|protection from law]]*; 1/day—*[[rangoric-srd/spells/Acid Fog|acid fog]]*, *[[rangoric-srd/spells/Dimension Door|dimension door]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +13): At will—_[[rangoric-srd/spells/Acid Arrow|acid arrow]]_; 7/day—_[[rangoric-srd/spells/Fear|fear]]_ (DC 17), _[[rangoric-srd/spells/Protection from Law|protection from law]]_; 1/day—_[[rangoric-srd/spells/Acid Fog|acid fog]]_, _[[rangoric-srd/spells/Dimension Door|dimension door]]_.
 
 **[[rangoric-srd/monsters/abilities/Acid Spray|Acid Spray]] (Su)**: A nyogoth's body is full of highly corrosive digestive fluid. Every time a nyogoth is damaged by a piercing or slashing weapon, all creatures adjacent to the nyogoth take 1d6 points of acid damage (2d6 acid damage if the attack is a critical hit).
 

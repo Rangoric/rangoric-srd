@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Taotieh
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
-  - **Hit Dice**: 14d10+30 (107 hp)
-  - **Initiative**: +2
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 28 (+2 Dex, +17 natural, –1 size), touch 11, flat-footed 26
-  - **Base Attack**: +14; **CMB**: +25 (+29 grapple); **CMD**: 37 (41 vs. trip)
-  - **Attack**: Bite +23 melee (1d8+10 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +23 melee (1d6+10 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +23 melee (1d8+10 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +23 melee (1d6+10 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +23, 1d6+10), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (suffocation, AC 18, hardness 8, 25 hp)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10, electricity 10 and fire 10, vulnerable to sonic
-  - **Saves**: Fort +4, Ref +6, Will +6
-  - **Abilities**: Str 30, Dex 15, Con —, Int —, Wis 14, Cha 1
-  - **Skills**: —
-  - **Feats**: —
-  - **Environment**: Any
-  - **Organization**: Solitary or pair
-  - **Challenge Rating**: 11
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
+- **Hit Dice**: 14d10+30 (107 hp)
+- **Initiative**: +2
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 28 (+2 Dex, +17 natural, –1 size), touch 11, flat-footed 26
+- **Base Attack**: +14; **CMB**: +25 (+29 grapple); **CMD**: 37 (41 vs. trip)
+- **Attack**: Bite +23 melee (1d8+10 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +23 melee (1d6+10 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +23 melee (1d8+10 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +23 melee (1d6+10 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +23, 1d6+10), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (suffocation, AC 18, hardness 8, 25 hp)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10, electricity 10 and fire 10, vulnerable to sonic
+- **Saves**: Fort +4, Ref +6, Will +6
+- **Abilities**: Str 30, Dex 15, Con —, Int —, Wis 14, Cha 1
+- **Skills**: —
+- **Feats**: —
+- **Environment**: Any
+- **Organization**: Solitary or pair
+- **Challenge Rating**: 11
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Symbols of power but also of gluttony, taotiehs are guardian constructs formed of stone and built around a pocket of extradimensional space. Taotiehs are used to ward sacred or secluded areas from enemies and trespassers. Their semblance to tigers extends even to the animal's abilities in combat, as taotiehs are feared for their vicious attacks. The extradimensional space at the core of a taotieh allows the construct to swallow opponents of its own size and then shunt its victims into an airless pocket of space inside. A creature capable of existing without air could well spend an eternity inside a taotieh if it couldn't smash its way out or escape via plane-traversing magic, in which case it must wait for outside forces to slay its captor. Tales abound of great treasures and even greater dangers being unleashed upon a taotieh's destruction.
 
@@ -69,4 +69,4 @@ Symbols of power but also of gluttony, taotiehs are guardian constructs formed o
 
 ### Construction
 
-CL 14th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, *[[rangoric-srd/spells/Limited Wish|limited wish]]*, *[[rangoric-srd/spells/Plane Shift|plane shift]]*, creator must be caster level 14th; Skill [[rangoric-srd/skills/Craft|Craft]] (sculpture) or [[rangoric-srd/skills/Craft|Craft]] (stonemasonry) DC 25; Price 105,000 gp; Cost 55,000 gp.
+CL 14th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Limited Wish|limited wish]]_, _[[rangoric-srd/spells/Plane Shift|plane shift]]_, creator must be caster level 14th; Skill [[rangoric-srd/skills/Craft|Craft]] (sculpture) or [[rangoric-srd/skills/Craft|Craft]] (stonemasonry) DC 25; Price 105,000 gp; Cost 55,000 gp.

@@ -27,17 +27,17 @@ tags: [rangoric, rangoric/spell]
 
 # Fork Path
 
-*Conjuration (Creation, Calling)*
+_Conjuration (Creation, Calling)_
 
-  - **Level**: Fey Roads 5, Sor/Wiz 6
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: Cloud spreads 30 ft. high, 20 ft. wide
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Fey Roads 5, Sor/Wiz 6
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: Cloud spreads 30 ft. high, 20 ft. wide
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-This spell enables the caster to create a fork in the *[[rangoric-srd/rules/Fey Roads and Doorways#Paths|fey path]]* laid before him. The newly created path is considered a *fey path* for future travel in the fey realm. The caster sprinkles the material components along the edge of the path, delineating the direction the new path should head.
+This spell enables the caster to create a fork in the _[[rangoric-srd/rules/Fey Roads and Doorways#Paths|fey path]]_ laid before him. The newly created path is considered a _fey path_ for future travel in the fey realm. The caster sprinkles the material components along the edge of the path, delineating the direction the new path should head.
 
-*Material Component*: A half-pound of *[[rangoric-srd/rules/Faercana#^magic-sand|magic sand]]* mixed with gold dust worth at least 200 gp.
+_Material Component_: A half-pound of _[[rangoric-srd/rules/Faercana#^magic-sand|magic sand]]_ mixed with gold dust worth at least 200 gp.

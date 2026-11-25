@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Sunlight Powerlessness
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “sunlight powerlessness”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “sunlight powerlessness”, on the Special Qualities line.
 
-If the creature is in sunlight (but not in an area of *[[rangoric-srd/spells/Daylight|daylight]]* or similar spells), it cannot attack and is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]].
+If the creature is in sunlight (but not in an area of _[[rangoric-srd/spells/Daylight|daylight]]_ or similar spells), it cannot attack and is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]].

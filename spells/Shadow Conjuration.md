@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Shadow Conjuration
 
-*Illusion (Shadow)*
+_Illusion (Shadow)_
 
-  - **Level**: Brd 4, Mes 4, Skd 4, Sor/Wiz 4, Spi 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: See text
-  - **Effect**: See text
-  - **Duration**: See text
-  - **Saving Throw**: Will disbelief (if interacted with); varies; see text
-  - **Spell Resistance**: Yes; see text
+- **Level**: Brd 4, Mes 4, Skd 4, Sor/Wiz 4, Spi 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: See text
+- **Effect**: See text
+- **Duration**: See text
+- **Saving Throw**: Will disbelief (if interacted with); varies; see text
+- **Spell Resistance**: Yes; see text
 
 You use material from the Plane of Shadow to shape quasi-real illusions of one or more creatures, objects, or forces. Shadow conjuration can mimic any sorcerer or wizard conjuration (summoning) or conjuration (creation) spell of 3rd level or lower.
 

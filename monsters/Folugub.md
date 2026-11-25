@@ -58,7 +58,7 @@ Full **Attack:** Tongue +6 melee touch (liquefy crystal) and bite +1 melee (2d4)
 Treasure: None     
 **Alignment:** Always neutral     
 **Advancement:** 5-6 HD (Medium); 7-14 HD (Large)     
-**Level Adjustment:** -     
+**Level Adjustment:** -   
 
 #### Combat
 

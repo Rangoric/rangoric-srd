@@ -29,15 +29,15 @@ tags: [rangoric, rangoric/spell]
 
 # Shared Wrath
 
-*Enchantment (Compulsion) \[Emotion, Mind-affecting\]*
+_Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
 
-  - **Level**: Inq 4
-  - **Components**: V, S, M (a thorny vine)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Targets**: Up to one creature/level, no two of which can be more than 30 ft. apart
-  - **Duration**: 1 minute
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Inq 4
+- **Components**: V, S, M (a thorny vine)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Targets**: Up to one creature/level, no two of which can be more than 30 ft. apart
+- **Duration**: 1 minute
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-This spell functions as *[[rangoric-srd/spells/Wrath|wrath]]*, except that you grant multiple creatures the bonuses against your designated foe. All subjects of *shared wrath* receive their bonuses against the same creature.
+This spell functions as _[[rangoric-srd/spells/Wrath|wrath]]_, except that you grant multiple creatures the bonuses against your designated foe. All subjects of _shared wrath_ receive their bonuses against the same creature.

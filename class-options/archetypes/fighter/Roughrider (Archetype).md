@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Roughrider
 
-*A [[rangoric-srd/classes/Fighter#^fighter-archetypes|fighter]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Fighter#^fighter-archetypes|fighter]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Roughriders study and practice the fine points of mounted combat, drilling endlessly with warbeasts—from noble thoroughbreds to trained monsters—to form a perfect synergy between rider and steed.
 

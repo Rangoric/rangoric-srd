@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/double, weapon-group/pol
 
 # Heaven Lotus Phoenix Tail Polearm
 
-*Exotic two-handed melee weapon (reach, double).* Cost 150 gp; Dmg 1d6/1d6 (S), 1d8/1d8 (M); Critical x3; Range Increment 20 ft.; Weight 11 lb.; Type Piercing and slashing. ^stats
+_Exotic two-handed melee weapon (reach, double)._ Cost 150 gp; Dmg 1d6/1d6 (S), 1d8/1d8 (M); Critical x3; Range Increment 20 ft.; Weight 11 lb.; Type Piercing and slashing. ^stats
 
-(*Tian He Feng Wei Tang*): An extremely elaborate and rare martial arts weapon, the heaven lotus phoenix tail has a large, sharp, and exceedingly ornate head affixed to one end of a pole, and a sharp, crescent-shaped spade head affixed to the other. A heaven lotus phoenix tail is a double weapon. When using it as a double weapon, the wielder incurs all of the normal attack penalties associated with fighting with two weapons (although the off-hand weapon is considered light). A creature using a heaven lotus phoenix tail in one hand cannot use it as a double weapon.
+(_Tian He Feng Wei Tang_): An extremely elaborate and rare martial arts weapon, the heaven lotus phoenix tail has a large, sharp, and exceedingly ornate head affixed to one end of a pole, and a sharp, crescent-shaped spade head affixed to the other. A heaven lotus phoenix tail is a double weapon. When using it as a double weapon, the wielder incurs all of the normal attack penalties associated with fighting with two weapons (although the off-hand weapon is considered light). A creature using a heaven lotus phoenix tail in one hand cannot use it as a double weapon.

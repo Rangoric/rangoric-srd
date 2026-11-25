@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Monkey Aspect
 
-*A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The monkey is a climbing trickster who specializes in mobility and manual agility.*
+_A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The monkey is a climbing trickster who specializes in mobility and manual agility._
 
 **Minor Form**: You gain a +4 competence bonus on Athletics checks to climb.
 

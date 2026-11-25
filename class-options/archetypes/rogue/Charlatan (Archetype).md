@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Charlatan
 
-*A [[rangoric-srd/classes/Rogue#^rogue-archetypes|rogue]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Rogue#^rogue-archetypes|rogue]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A charlatan is a master of lies and deception. Whether creating simple cons or elaborately woven hoaxes capable of swaying the masses and those in positions of power, a charlatan is often a purveyor of snake-oil, forgeries, and rumormongering.
 

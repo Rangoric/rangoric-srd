@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Bloodfire
 
-*Evocation \[Fire\]*
+_Evocation \[Fire\]_
 
-  - **Level**: Sor/Wiz 5
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Targets**: One target within range
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Reflex for half
-  - **Spell Resistance**: No
+- **Level**: Sor/Wiz 5
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Targets**: One target within range
+- **Duration**: Instantaneous
+- **Saving Throw**: Reflex for half
+- **Spell Resistance**: No
 
 Through this spell, the caster is able to spray his blood in a flaming stream to strike one target. The material component of this spell is the caster’s own blood, which is spilled in copious quantities.
 

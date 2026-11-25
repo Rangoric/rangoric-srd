@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Epic Inspiration
 
-Prerequisites: Cha 25, [[rangoric-srd/skills/Performance|Performance]] 27 ranks, bardic music class feature.  
+Prerequisites: Cha 25, [[rangoric-srd/skills/Performance|Performance]] 27 ranks, bardic music class feature.
 
 Benefit: All competence bonuses, dodge bonuses, and morale bonuses granted by the character’s bardic music ability increase by +1.  If you have the inspire greatness bardic music ability, it grants one additional bonus HD.
 

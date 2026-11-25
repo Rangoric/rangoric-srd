@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Magic Vestment
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Clr 3, Inq 3, Occ 3, Sha 3, Strength 3, War 3
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Armor or shield touched
-  - **Duration**: 1 hour/level
-  - **Saving Throw**: Will negates (harmless, object)
-  - **Spell Resistance**: Yes (harmless, object)
+- **Level**: Clr 3, Inq 3, Occ 3, Sha 3, Strength 3, War 3
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Armor or shield touched
+- **Duration**: 1 hour/level
+- **Saving Throw**: Will negates (harmless, object)
+- **Spell Resistance**: Yes (harmless, object)
 
 You imbue a suit of armor or a shield with an enhancement bonus of +1 per four caster levels (maximum +5 at 20th level).
 

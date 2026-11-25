@@ -23,8 +23,8 @@ Armor for a horse (a Large nonhumanoid creature) costs four times as much as arm
 | Medium  | 30 ft.              | 35 ft.              | 40 ft.              |
 | Heavy   | 30 ft. (1)          | 35 ft. (1)          | 40 ft. (1)          |
 
-1 *A mount wearing heavy armor moves at only triple its normal speed  
-when running instead of quadruple.*
+1 _A mount wearing heavy armor moves at only triple its normal speed  
+when running instead of quadruple._
 
 Flying mounts can’t fly in medium or heavy barding.
 

@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Astradaemon
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Daemon, Evil, Extraplanar)
-  - **Hit Dice**: 17d10+119 (212 hp)
-  - **Initiative**: +7
-  - **Speed**: 90 ft. (18 squares), fly 90 ft. (good)
-  - **Armor Class**: 29 (+7 Dex, +1 dodge, +12 natural, –1 size), touch 17, flat-footed 21
-  - **Base Attack**: +17; **CMB**: +23; **CMD**: 41
-  - **Attack**: Bite +23 melee (2d6+5 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] and [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +23 melee (1d8+5 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) or tail slap +23 melee (1d12+2 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
-  - **Full Attack**: Bite +23 melee (2d6+5 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] and [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +23 melee (1d8+5 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) and tail slap +18 melee (1d12+2 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
-  - **Space/Reach**: 10 ft./10 ft. (15 ft. with tail)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Devour Soul (Astradaemon)|Devour soul]], [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (1 level, DC 25), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., deathwatch, true seeing, [[rangoric-srd/monsters/abilities/Soul Siphon|soul siphon]] (10 ft.), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., displacement, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good and silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, death effects, disease and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 27
-  - **Saves**: Fort +12, Ref +17, Will +14
-  - **Abilities**: Str 21, Dex 25, Con 24, Int 14, Wis 15, Cha 24
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +24, [[rangoric-srd/skills/Athletics|Athletics]] +5 (+29 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +27, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +22, [[rangoric-srd/skills/Intimidation|Intimidation]] +27, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +23, [[rangoric-srd/skills/Theology|Theology]] +22
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any (a neutral evil-aligned plane: Abaddon, or the Astral Plane)
-  - **Organization**: Solitary, pair, or pack (3–6)
-  - **Challenge Rating**: 16
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Daemon, Evil, Extraplanar)
+- **Hit Dice**: 17d10+119 (212 hp)
+- **Initiative**: +7
+- **Speed**: 90 ft. (18 squares), fly 90 ft. (good)
+- **Armor Class**: 29 (+7 Dex, +1 dodge, +12 natural, –1 size), touch 17, flat-footed 21
+- **Base Attack**: +17; **CMB**: +23; **CMD**: 41
+- **Attack**: Bite +23 melee (2d6+5 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] and [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +23 melee (1d8+5 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) or tail slap +23 melee (1d12+2 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
+- **Full Attack**: Bite +23 melee (2d6+5 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] and [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +23 melee (1d8+5 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) and tail slap +18 melee (1d12+2 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
+- **Space/Reach**: 10 ft./10 ft. (15 ft. with tail)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Devour Soul (Astradaemon)|Devour soul]], [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (1 level, DC 25), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., deathwatch, true seeing, [[rangoric-srd/monsters/abilities/Soul Siphon|soul siphon]] (10 ft.), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., displacement, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good and silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, death effects, disease and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 27
+- **Saves**: Fort +12, Ref +17, Will +14
+- **Abilities**: Str 21, Dex 25, Con 24, Int 14, Wis 15, Cha 24
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +24, [[rangoric-srd/skills/Athletics|Athletics]] +5 (+29 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +27, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +22, [[rangoric-srd/skills/Intimidation|Intimidation]] +27, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +23, [[rangoric-srd/skills/Theology|Theology]] +22
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any (a neutral evil-aligned plane: Abaddon, or the Astral Plane)
+- **Organization**: Solitary, pair, or pack (3–6)
+- **Challenge Rating**: 16
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Astradaemons live out their existence in search of souls to harvest. These deadly creatures are ravening planar predators, openly hunting throughout the void for souls on which to feed. These voracious creatures are the personifications of death resulting from negative energy or level drain. Their vile touch drains life force from their enemies, and even perishing near them sates their thirst for life and souls.
 
@@ -69,7 +69,7 @@ Astradaemons speak Abyssal and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 17th; concentration +24): Constant—*[[rangoric-srd/spells/Deathwatch|deathwatch]]*, *[[rangoric-srd/spells/Displacement|displacement]], [[rangoric-srd/spells/True Seeing|true seeing]]*; At will—*[[rangoric-srd/spells/Enervation|enervation]]*, *[[rangoric-srd/spells/Fear|fear]]* (DC21), *[[rangoric-srd/spells/Teleport, Greater|greater teleport]]* (self plus 50 lbs. of objects only), *[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]*; 3/day—*[[rangoric-srd/spells/Locate Creature|locate creature]]*, *[[rangoric-srd/spells/Plane Shift|plane shift]]* (DC 24); 1/day—*[[rangoric-srd/spells/Energy Drain|energy drain]]* (DC 24), *[[rangoric-srd/spells/Finger of Death|finger of death]]* (DC 24), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 6, 1d3 derghodaemons 50%).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 17th; concentration +24): Constant—_[[rangoric-srd/spells/Deathwatch|deathwatch]]_, _[[rangoric-srd/spells/Displacement|displacement]], [[rangoric-srd/spells/True Seeing|true seeing]]_; At will—_[[rangoric-srd/spells/Enervation|enervation]]_, _[[rangoric-srd/spells/Fear|fear]]_ (DC21), _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_; 3/day—_[[rangoric-srd/spells/Locate Creature|locate creature]]_, _[[rangoric-srd/spells/Plane Shift|plane shift]]_ (DC 24); 1/day—_[[rangoric-srd/spells/Energy Drain|energy drain]]_ (DC 24), _[[rangoric-srd/spells/Finger of Death|finger of death]]_ (DC 24), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 6, 1d3 derghodaemons 50%).
 
 **[[rangoric-srd/monsters/abilities/Devour Soul (Astradaemon)|Devour Soul]] (Su)**: As a standard action, an astradaemon that begins its turn with a grappled opponent can attempt to draw out and consume the soul of its victim, killing it instantly. This ability only works on living creatures, which may resist with a DC 25 Fortitude saving throw. The save is Constitution-based. For every 5 HD of the slain creature, the daemon gains a +1 profane bonus on attacks, saving throws, and checks for 24 hours. This ability does not consume all of the soul, and pieces of it still exist after the daemon completes its feast (enough to be able to resurrect the slain victim normally).
 

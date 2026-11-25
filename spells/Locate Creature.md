@@ -31,11 +31,11 @@ tags: [rangoric, rangoric/spell]
 
 # Locate Creature
 
-*Divination*
+_Divination_
 
-  - **Level**: Brd 4, Fhn 4, Med 3, Mes 4, Msl 4, Occ 4, Psy 4, Skd 4, Sor/Wiz 4, Spi 4, Sum 3, SumU 4, Wit 4
-  - **Components**: V, S, M
-  - **Duration**: 10 min./level
+- **Level**: Brd 4, Fhn 4, Med 3, Mes 4, Msl 4, Occ 4, Psy 4, Skd 4, Sor/Wiz 4, Spi 4, Sum 3, SumU 4, Wit 4
+- **Components**: V, S, M
+- **Duration**: 10 min./level
 
 This spell functions like [[rangoric-srd/spells/Locate Object|locate object]], except this spell locates a known or familiar creature.
 
@@ -45,4 +45,4 @@ The spell can locate a creature of a specific kind or a specific creature known 
 
 Running water blocks the spell. It cannot detect objects. It can be fooled by mislead, nondetection, and polymorph spells.
 
-*Material Component*: A bit of fur from a bloodhound.
+_Material Component_: A bit of fur from a bloodhound.

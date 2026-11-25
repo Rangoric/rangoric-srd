@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This thick burgundy cloak is trimmed with mithral plates and cut to fit handsomely over heavy armor. As a full-round action, the wearer can spin in his space, damaging each creature within 5 feet. This attack uses the wearer's highest base attack bonus against each creature, and deals 2d6 damage on a hit. The wearer is considered proficient with this attack. Furthermore, the cloak can be magically enhanced like a melee weapon, adding the cost of the melee weapon property to the cloak's cost.
 
-Faint illusion and transmutation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Blade Barrier|blade barrier]]*; Price 20,000 gp; Cost 10,000 gp; Weight 1 lb.
+Faint illusion and transmutation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Blade Barrier|blade barrier]]_; Price 20,000 gp; Cost 10,000 gp; Weight 1 lb.

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Elf Bloodrager
 
-*An [[rangoric-srd/races/Elf|elf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Bloodrager#^bloodrager-class-bonuses|bloodrager]] level.*
+_An [[rangoric-srd/races/Elf|elf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Bloodrager#^bloodrager-class-bonuses|bloodrager]] level._
 
 Add 1 foot to the bloodrager's base speed. In combat, this only has an effect for every five increases in base speed. This bonus stacks with the bloodrager's [[rangoric-srd/classes/Bloodrager#^bloodrager-fast-movement|fast movement]] class feature, and applies under the same conditions as that feature.

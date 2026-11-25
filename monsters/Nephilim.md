@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Nephilim
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Native)
-  - **Hit Dice**: 11d10+44 (104 hp)
-  - **Initiative**: +2
-  - **Speed**: 40 ft. (8 squares) (30 ft. in armor) Melee +1 longsword +18/+13/+8 (2d6+11/17-20) or 2 slams +17 (1d6+7)
-  - **Armor Class**: 22 (+6 armor, +2 Dex, +5 natural, –1 size), touch 11, flat-footed 20
-  - **Base Attack**: +11; **CMB**: +19 (+23 sunder); **CMD**: 31 (33 vs. sunder)
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Spear|spear]] +13 ranged (2d6+7/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Spear|spear]] +13/+8/+3 ranged (2d6+7/×3)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Crushing Blow (Nephilim)|Crushing blow]], [[rangoric-srd/monsters/abilities/Mortal Challenge|mortal challenge]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Soul of Sorrow|soul of sorrow]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
-  - **Saves**: Fort +13, Ref +7, Will +10
-  - **Abilities**: Str 25, Dex 15, Con 18, Int 14, Wis 16, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Persuasion|Persuasion]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Society|Society]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +9, [[rangoric-srd/skills/Theology|Theology]] +11
-  - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Greater Sunder|Greater Sunder]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (longsword), [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quick Draw|Quick Draw]]
-  - **Environment**: Warm hills
-  - **Organization**: Solitary, pair, or tribe (3–8)
-  - **Challenge Rating**: 8
-  - **Treasure**: Double (masterwork breastplate, +1 longsword, 4 masterwork spears, other treasure)
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Native)
+- **Hit Dice**: 11d10+44 (104 hp)
+- **Initiative**: +2
+- **Speed**: 40 ft. (8 squares) (30 ft. in armor) Melee +1 longsword +18/+13/+8 (2d6+11/17-20) or 2 slams +17 (1d6+7)
+- **Armor Class**: 22 (+6 armor, +2 Dex, +5 natural, –1 size), touch 11, flat-footed 20
+- **Base Attack**: +11; **CMB**: +19 (+23 sunder); **CMD**: 31 (33 vs. sunder)
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Spear|spear]] +13 ranged (2d6+7/×3)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Spear|spear]] +13/+8/+3 ranged (2d6+7/×3)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Crushing Blow (Nephilim)|Crushing blow]], [[rangoric-srd/monsters/abilities/Mortal Challenge|mortal challenge]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Soul of Sorrow|soul of sorrow]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
+- **Saves**: Fort +13, Ref +7, Will +10
+- **Abilities**: Str 25, Dex 15, Con 18, Int 14, Wis 16, Cha 17
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Persuasion|Persuasion]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Society|Society]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +9, [[rangoric-srd/skills/Theology|Theology]] +11
+- **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Greater Sunder|Greater Sunder]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (longsword), [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quick Draw|Quick Draw]]
+- **Environment**: Warm hills
+- **Organization**: Solitary, pair, or tribe (3–8)
+- **Challenge Rating**: 8
+- **Treasure**: Double (masterwork breastplate, +1 longsword, 4 masterwork spears, other treasure)
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The nephilim are the offspring of demigods who bred with humans. This joining resulted in a race of giant-sized beings possessed of a shard of divine power and the mortal consciousness of humans. A nephilim stands 11 feet tall and weighs 1,100 pounds. Its divine heritage grants it a lifespan of almost 600 years.
 

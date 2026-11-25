@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/magic-item]
 
 A talisman works as described under [[rangoric-srd/magic-items/Magic Item Basics#^talismans|Talismans]] in the rules for magic items on the body. A lesser talisman has only enough magic to protect its wearer once, after which it crumbles to dust.
 
-The first time the wearer dies, he is automatically affected by *[[rangoric-srd/spells/Breath of Life|breath of life]]*.
+The first time the wearer dies, he is automatically affected by _[[rangoric-srd/spells/Breath of Life|breath of life]]_.
 
-Moderate conjuration; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Breath of Life|breath of life]]*; Price 3,500 gp; Cost 1,750 gp; Weight 1 lb.
+Moderate conjuration; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Breath of Life|breath of life]]_; Price 3,500 gp; Cost 1,750 gp; Weight 1 lb.

@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/feat]
 
 The minions of your divine patrons stand ready to answer your call.
 
-**Prerequisites**: [[rangoric-srd/classes/Cleric#^cleric-aura|Aura]] class feature, ability to cast *[[rangoric-srd/spells/Summon Monster I|summon monster]]*.
+**Prerequisites**: [[rangoric-srd/classes/Cleric#^cleric-aura|Aura]] class feature, ability to cast _[[rangoric-srd/spells/Summon Monster I|summon monster]]_.
 
-**Benefit**: When using *[[rangoric-srd/spells/Summon Monster I|summon monster]]* to summon creatures whose alignment subtype or subtypes exactly match your aura, you may cast the spell as a standard action instead of with a casting time of 1 round.
+**Benefit**: When using _[[rangoric-srd/spells/Summon Monster I|summon monster]]_ to summon creatures whose alignment subtype or subtypes exactly match your aura, you may cast the spell as a standard action instead of with a casting time of 1 round.

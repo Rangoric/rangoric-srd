@@ -20,4 +20,4 @@ If the wielder of a melee weapon with this property is fighting a creature with 
 
 The wielder gains no temporary hit points from the energy drain, and the negative levels inflicted by such a weapon can never become permanent. They all disappear as soon as the weapon’s wielder is defeated in combat, or after 24 hours if the victim successfully flees.
 
-Strong necromancy; CL 17th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Energy Drain|energy drain]]*; Price +4 bonus.
+Strong necromancy; CL 17th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Energy Drain|energy drain]]_; Price +4 bonus.

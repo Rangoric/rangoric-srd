@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Tooth of the Narwhal
 
-This *+3 rapier*, when used on the open sea or within 100 feet of the coast, grants its wielder the use of the [[rangoric-srd/feats/Combat Expertise|Combat Expertise]] feat and deals +1d6 points of bonus damage.
+This _+3 rapier_, when used on the open sea or within 100 feet of the coast, grants its wielder the use of the [[rangoric-srd/feats/Combat Expertise|Combat Expertise]] feat and deals +1d6 points of bonus damage.
 
-Moderate evocation; CL 11th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Divine Power|divine power]]* or caster must be a 7th-level druid; Price 55,815 gp; Weight 3 lb.
+Moderate evocation; CL 11th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Divine Power|divine power]]_ or caster must be a 7th-level druid; Price 55,815 gp; Weight 3 lb.

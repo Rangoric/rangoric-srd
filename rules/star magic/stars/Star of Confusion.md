@@ -25,17 +25,17 @@ tags: [rangoric, rangoric/star]
 
 # Star of Confusion
 
-*[[rangoric-srd/rules/star magic/Star Magic|Star]]* \[Mind-Affecting\]
+_[[rangoric-srd/rules/star magic/Star Magic|Star]]_ \[Mind-Affecting\]
 
-  - **Call Level**: 1st ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
-  - **Aspect**: Ascendant in autumn, descendant in spring, on the horizon in summer and winter ([[rangoric-srd/rules/star magic/Star Magic#^seasons|seasons]])
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: One creature or object
-  - **Duration**: 1 hour/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Call Level**: 1st ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
+- **Aspect**: Ascendant in autumn, descendant in spring, on the horizon in summer and winter ([[rangoric-srd/rules/star magic/Star Magic#^seasons|seasons]])
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: One creature or object
+- **Duration**: 1 hour/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 The light muddles whatever you touch.
 

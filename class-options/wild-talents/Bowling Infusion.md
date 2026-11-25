@@ -18,13 +18,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Bowling Infusion
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|substance infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|substance infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Elements**: [[rangoric-srd/class-options/elements/Aether Element|aether]] or [[rangoric-srd/class-options/elements/Earth Element|earth]]
-  - **Type**: substance infusion
-  - **Level**: 2
-  - **Burn**: 2
-  - **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Earth Blast|earth]], [[rangoric-srd/class-options/wild-talents/Magma Blast|magma]], [[rangoric-srd/class-options/wild-talents/Metal Blast|metal]], [[rangoric-srd/class-options/wild-talents/Mud Blast|mud]], [[rangoric-srd/class-options/wild-talents/Telekinetic Blast|telekinetic]]
-  - **Saving Throw**: none
+- **Elements**: [[rangoric-srd/class-options/elements/Aether Element|aether]] or [[rangoric-srd/class-options/elements/Earth Element|earth]]
+- **Type**: substance infusion
+- **Level**: 2
+- **Burn**: 2
+- **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Earth Blast|earth]], [[rangoric-srd/class-options/wild-talents/Magma Blast|magma]], [[rangoric-srd/class-options/wild-talents/Metal Blast|metal]], [[rangoric-srd/class-options/wild-talents/Mud Blast|mud]], [[rangoric-srd/class-options/wild-talents/Telekinetic Blast|telekinetic]]
+- **Saving Throw**: none
 
 You bowl your foes over with the sheer mass of your kinetic blast. Attempt a [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] combat maneuver check against each target damaged by your infused blast, using your Constitution modifier instead of your Strength modifier to determine your [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Bonus|Combat Maneuver Bonus]].

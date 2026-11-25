@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Claws
 
-*A 1-point evolution (Ex) for an [[rangoric-srd/classes/Unchained Summoner|unchained summoner]]’s eidolon.*
+_A 1-point evolution (Ex) for an [[rangoric-srd/classes/Unchained Summoner|unchained summoner]]’s eidolon._
 
-The eidolon has a pair of vicious claws at the ends of its limbs, giving it two claw attacks. These attacks are primary attacks. The claws deal 1d4 points of damage (1d6 if Large, 1d8 if Huge). The eidolon must have the [[rangoric-srd/class-options/evolutions/Limbs (Evolution)|limbs]] evolution to take this evolution. This evolution can be selected more than once, up to the number of limbs evolutions the eidolon possesses. This evolution can be applied to any number of limbs (arms) evolutions, but no more than one limbs (legs) evolution. *Requirements*: Agathion, daemon, demon, devil, div, elemental, protean, or psychopomp subtype.
+The eidolon has a pair of vicious claws at the ends of its limbs, giving it two claw attacks. These attacks are primary attacks. The claws deal 1d4 points of damage (1d6 if Large, 1d8 if Huge). The eidolon must have the [[rangoric-srd/class-options/evolutions/Limbs (Evolution)|limbs]] evolution to take this evolution. This evolution can be selected more than once, up to the number of limbs evolutions the eidolon possesses. This evolution can be applied to any number of limbs (arms) evolutions, but no more than one limbs (legs) evolution. _Requirements_: Agathion, daemon, demon, devil, div, elemental, protean, or psychopomp subtype.

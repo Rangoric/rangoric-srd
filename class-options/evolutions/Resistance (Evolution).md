@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Resistance
 
-*A 1-point evolution (Ex) for a [[rangoric-srd/classes/Summoner|summoner]]’s or [[rangoric-srd/classes/Unchained Summoner|unchained summoner]]’s eidolon.*
+_A 1-point evolution (Ex) for a [[rangoric-srd/classes/Summoner|summoner]]’s or [[rangoric-srd/classes/Unchained Summoner|unchained summoner]]’s eidolon._
 
 An eidolon’s form takes on a resiliency to one particular energy type, which is usually reflected in its physical body (ashen hide for fire, icy breath for cold, and so on). Pick one energy type (acid, cold, electricity, fire, or sonic). The eidolon gains resist 5 against that energy type. This [[rangoric-srd/rules/Special Abilities and Conditions#Resistance to Energy|resistance]] increases by 5 for every 5 levels the summoner possesses, to a maximum of 15 at 10th level. This evolution can be selected more than once. Its effects do not stack. Each time an eidolon selects this evolution, it applies to a different energy type.

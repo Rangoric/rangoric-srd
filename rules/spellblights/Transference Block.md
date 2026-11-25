@@ -12,8 +12,8 @@ tags: [rangoric, rangoric/spellblight]
 
 # Transference Block
 
-*Major [[rangoric-srd/rules/spellblights/Spellblights#^table-major-spellblights|spellblight]]*
+_Major [[rangoric-srd/rules/spellblights/Spellblights#^table-major-spellblights|spellblight]]_
 
 A spellcaster with transference block has difficulty targeting allies with spell effects. Anytime she casts a spell on an ally, she must make a [[rangoric-srd/rules/Concentration (Check)|concentration check]] (DC 15 + twice the spell’s level) or the spell is lost.
 
-Transference block can be cured by spending 1 hour in an *[[rangoric-srd/spells/Antimagic Field|antimagic field]]*.
+Transference block can be cured by spending 1 hour in an _[[rangoric-srd/spells/Antimagic Field|antimagic field]]_.

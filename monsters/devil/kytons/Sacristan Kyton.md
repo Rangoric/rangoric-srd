@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Sacristan Kyton
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Evil, Extraplanar, Kyton, Lawful)
-  - **Hit Dice**: 12d10+60 (126 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 22 (+3 Dex, +9 natural), touch 13, flat-footed 19
-  - **Base Attack**: +12; **CMB**: +17 (+19 bull rush); **CMD**: 30 (32 vs. bull rush)
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Spiked Chain|spiked chain]] +18 melee (2d4+7) or claw +17 melee (1d4+5)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Spiked Chain|spiked chain]] +18/+13/+8 melee (2d4+7); or 2 claws +17 melee (1d4+5)
-  - **Space/Reach**: 5 ft./5 ft. (10 ft. with spiked chain)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Shadow Scream|Shadow scream]], [[rangoric-srd/monsters/abilities/Unnerving Gaze (Sacristan Kyton)|unnerving gaze]] (30 ft., DC 18)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (good spells and weapons, silver), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/silver or good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21
-  - **Saves**: Fort +13, Ref +7, Will +10
-  - **Abilities**: Str 20, Dex 16, Con 21, Int 13, Wis 14, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +18
-  - **Feats**: [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Any (Plane of Shadow)
-  - **Organization**: Solitary, pair, bodyguard (1d4 plus 1 kyton of lower CR [usually an ostiarius]), or entourage (2d6 plus 1 kyton of higher CR)
-  - **Challenge Rating**: 10
-  - **Treasure**: Standard
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Evil, Extraplanar, Kyton, Lawful)
+- **Hit Dice**: 12d10+60 (126 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 22 (+3 Dex, +9 natural), touch 13, flat-footed 19
+- **Base Attack**: +12; **CMB**: +17 (+19 bull rush); **CMD**: 30 (32 vs. bull rush)
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Spiked Chain|spiked chain]] +18 melee (2d4+7) or claw +17 melee (1d4+5)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Spiked Chain|spiked chain]] +18/+13/+8 melee (2d4+7); or 2 claws +17 melee (1d4+5)
+- **Space/Reach**: 5 ft./5 ft. (10 ft. with spiked chain)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Shadow Scream|Shadow scream]], [[rangoric-srd/monsters/abilities/Unnerving Gaze (Sacristan Kyton)|unnerving gaze]] (30 ft., DC 18)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (good spells and weapons, silver), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/silver or good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21
+- **Saves**: Fort +13, Ref +7, Will +10
+- **Abilities**: Str 20, Dex 16, Con 21, Int 13, Wis 14, Cha 15
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +18
+- **Feats**: [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Any (Plane of Shadow)
+- **Organization**: Solitary, pair, bodyguard (1d4 plus 1 kyton of lower CR [usually an ostiarius]), or entourage (2d6 plus 1 kyton of higher CR)
+- **Challenge Rating**: 10
+- **Treasure**: Standard
+- **Alignment**: Usually lawful evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Every kyton considers itself some manner of artiste, working and reworking its avant-garde visions in various mediums—flesh, minds, darkness, and others both natural and fragile. But for every masterpiece, there are countless failures. Sacristans number among the most useful failures of the kyton race.
 

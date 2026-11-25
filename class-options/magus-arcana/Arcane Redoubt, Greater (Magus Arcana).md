@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Arcane Redoubt, Greater
 
-*A [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]] (Su).*
+_A [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]] (Su)._
 
 Whenever the magus uses his [[rangoric-srd/class-options/magus-arcana/Arcane Redoubt (Magus Arcana)|arcane redoubt]] magus arcana, he may spend an additional point from his arcane pool in order to apply his shield bonus to AC (including any enhancement bonus) as a bonus on Reflex saves until the beginning of his next turn. If he is targeted with an effect requiring a Reflex save while using this power, he may spend 2 points from his arcane pool as an immediate action to grant himself evasion, or 4 points to grant himself improved evasion. The magus must have the arcane redoubt magus arcana and be at least 12th level to select this magus arcana.

@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Hyena
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 2d8+4 (13 hp)
-  - **Initiative**: +2
-  - **Speed**: 50 ft. (10 squares)
-  - **Armor Class**: 14 (+2 Dex, +2 natural), touch 12, flat-footed 12
-  - **Base Attack**: +1; **CMB**: +3; **CMD**: 15 (19 vs. trip)
-  - **Attack**: Bite +3 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Trip|trip]])
-  - **Full Attack**: Bite +3 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Trip|trip]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +5, Ref +5, Will +1
-  - **Abilities**: Str 14, Dex 15, Con 15, Int 2, Wis 13, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +6 (+10 in tall grass)
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Warm plains; warm deserts
-  - **Organization**: Solitary, pair, or pack (3–12)
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 3 HD (Medium); 4–5 HD (Large)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 2d8+4 (13 hp)
+- **Initiative**: +2
+- **Speed**: 50 ft. (10 squares)
+- **Armor Class**: 14 (+2 Dex, +2 natural), touch 12, flat-footed 12
+- **Base Attack**: +1; **CMB**: +3; **CMD**: 15 (19 vs. trip)
+- **Attack**: Bite +3 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Trip|trip]])
+- **Full Attack**: Bite +3 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Trip|trip]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +5, Ref +5, Will +1
+- **Abilities**: Str 14, Dex 15, Con 15, Int 2, Wis 13, Cha 6
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +6 (+10 in tall grass)
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Warm plains; warm deserts
+- **Organization**: Solitary, pair, or pack (3–12)
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 3 HD (Medium); 4–5 HD (Large)
+- **Level Adjustment**: —
 
 Hyenas are pack hunters infamous for their cunning and their unnerving, laughter-like vocalizations. They are largely scavengers, but aren't above supplementing their diet of carrion with fresh prey.
 

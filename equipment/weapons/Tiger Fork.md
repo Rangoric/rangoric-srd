@@ -24,8 +24,8 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/monk, weapon-group/pole-
 
 # Tiger Fork
 
-*Martial two-handed melee weapon (brace, monk).* Cost 15 gp; Dmg 1d8 (S), 1d10 (M); Critical x2; Range Increment 20 ft.; Weight 15 lb.; Type Piercing. ^stats
+_Martial two-handed melee weapon (brace, monk)._ Cost 15 gp; Dmg 1d8 (S), 1d10 (M); Critical x2; Range Increment 20 ft.; Weight 15 lb.; Type Piercing. ^stats
 
-(*Hu Cha*): Named because it was historically used to hunt tigers, the tiger fork is a large trident with heavy tines.
+(_Hu Cha_): Named because it was historically used to hunt tigers, the tiger fork is a large trident with heavy tines.
 
 A tiger fork is a [[rangoric-srd/equipment/Equipment Weapons#^weapon-brace|brace]] weapon. A tiger fork is a special [[rangoric-srd/classes/Monk|monk]] weapon.

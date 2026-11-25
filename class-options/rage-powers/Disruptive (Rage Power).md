@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Disruptive
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
 When raging, the barbarian gains [[rangoric-srd/feats/Disruptive|Disruptive]] as a bonus feat.
 

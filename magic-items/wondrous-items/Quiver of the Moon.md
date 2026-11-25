@@ -20,4 +20,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This item is often decorated with images of the moon in its various phases. If this container is exposed to the light of the moon when it is at its zenith, it fills with one score (20) of alchemical silver arrows. The arrows are of masterwork quality. Each of these arrows disintegrates 24 hours after being removed from the quiver.
 
-Moderate conjuration; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Minor Creation|minor creation]]*, 1 lb. of silver (this is in addition to the gp cost); Price 1,200 gp; Weight 2 lbs.
+Moderate conjuration; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Minor Creation|minor creation]]_, 1 lb. of silver (this is in addition to the gp cost); Price 1,200 gp; Weight 2 lbs.

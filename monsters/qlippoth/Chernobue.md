@@ -39,36 +39,36 @@ tags: [rangoric, rangoric/monster]
 
 # Chernobue
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Evil, Extraplanar, Qlippoth)
-  - **Hit Dice**: 12d10+84 (150 hp)
-  - **Initiative**: +4
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 27 (+4 Dex, +14 natural, –1 size), touch 13, flat-footed 23
-  - **Base Attack**: +12; **CMB**: +21; **CMD**: 35 (39 vs. trip)
-  - **Attack**: Slam +19 melee (1d6+8/19–20 plus 1 Con damage) or bite +19 melee (2d6+8 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or tentacle +19 melee (1d6+4)
-  - **Full Attack**: 2 slams +19 melee (1d6+8/19–20 plus 1 Con damage) and bite +19 melee (2d6+8 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and 2 tentacles +14 melee (1d6+4)
-  - **Space/Reach**: 10 ft./5 ft. (10 ft. with slams and tentacles)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Horrific Appearance|Horrific appearance]] (DC 20), [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], misfortune (30 ft.), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/lawful, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, poison and mind-affecting effects, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23, [[rangoric-srd/monsters/abilities/Light Vulnerability|light vulnerability]]
-  - **Saves**: Fort +15, Ref +10, Will +11
-  - **Abilities**: Str 26, Dex 18, Con 24, Int 13, Wis 17, Cha 19
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Athletics|Athletics]] +8 (+12 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +19, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +16
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (slam), [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (darkness), [[rangoric-srd/feats/Vital Strike|Vital Strike]]
-  - **Environment**: Any (a chaotic evil-aligned plane: the [[rangoric-srd/rules/planes/The Abyss|Abyss]])
-  - **Organization**: Solitary, pair, or gang (3–6)
-  - **Challenge Rating**: 12
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Evil, Extraplanar, Qlippoth)
+- **Hit Dice**: 12d10+84 (150 hp)
+- **Initiative**: +4
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 27 (+4 Dex, +14 natural, –1 size), touch 13, flat-footed 23
+- **Base Attack**: +12; **CMB**: +21; **CMD**: 35 (39 vs. trip)
+- **Attack**: Slam +19 melee (1d6+8/19–20 plus 1 Con damage) or bite +19 melee (2d6+8 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or tentacle +19 melee (1d6+4)
+- **Full Attack**: 2 slams +19 melee (1d6+8/19–20 plus 1 Con damage) and bite +19 melee (2d6+8 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and 2 tentacles +14 melee (1d6+4)
+- **Space/Reach**: 10 ft./5 ft. (10 ft. with slams and tentacles)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Horrific Appearance|Horrific appearance]] (DC 20), [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], misfortune (30 ft.), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/lawful, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, poison and mind-affecting effects, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23, [[rangoric-srd/monsters/abilities/Light Vulnerability|light vulnerability]]
+- **Saves**: Fort +15, Ref +10, Will +11
+- **Abilities**: Str 26, Dex 18, Con 24, Int 13, Wis 17, Cha 19
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Athletics|Athletics]] +8 (+12 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +19, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +16
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (slam), [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (darkness), [[rangoric-srd/feats/Vital Strike|Vital Strike]]
+- **Environment**: Any (a chaotic evil-aligned plane: the [[rangoric-srd/rules/planes/The Abyss|Abyss]])
+- **Organization**: Solitary, pair, or gang (3–6)
+- **Challenge Rating**: 12
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The thick, orange poison injected by a chernobue is semi-alive. As soon as the poisoned victim is cured of the poison (by making a save, being targeted with an effect like neutralize poison, or enduring the full duration of the poison), the orange fluid bursts from the victim's body, causing 1d6 Charisma damage and rendering the victim [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] for 2d6 rounds unless he makes a final DC 23 Fortitude save.
 
-The chernobue is a living manifestation of the vile fecundity of the [[rangoric-srd/rules/planes/The Abyss|Abyss]]—a monstrous, alien pregnancy made flesh. By infecting creatures with the Abyssal taint they carry, they spread pain and misfortune wherever they flop and writhe—and with their *[[rangoric-srd/spells/Plane Shift|plane shift]]* ability, they are ready to spread their filth throughout the multiverse. A chernobue is 13 feet long and weighs 500 pounds.
+The chernobue is a living manifestation of the vile fecundity of the [[rangoric-srd/rules/planes/The Abyss|Abyss]]—a monstrous, alien pregnancy made flesh. By infecting creatures with the Abyssal taint they carry, they spread pain and misfortune wherever they flop and writhe—and with their _[[rangoric-srd/spells/Plane Shift|plane shift]]_ ability, they are ready to spread their filth throughout the multiverse. A chernobue is 13 feet long and weighs 500 pounds.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +16): Constant—*[[rangoric-srd/spells/Air Walk|air walk]]*, *[[rangoric-srd/spells/Arcane Sight|arcane sight]]*; At will—*[[rangoric-srd/spells/Chaos Hammer|chaos hammer]]* (DC 18), *[[rangoric-srd/spells/Darkness|darkness]]*; 3/day—*[[rangoric-srd/spells/Confusion|confusion]]* (DC 18), quickened *[[rangoric-srd/spells/Darkness|darkness]]*, *[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, *[[rangoric-srd/spells/Protection from Law|protection from law]]*; 1/day—*[[rangoric-srd/spells/Plane Shift|plane shift]]* (DC 21).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +16): Constant—_[[rangoric-srd/spells/Air Walk|air walk]]_, _[[rangoric-srd/spells/Arcane Sight|arcane sight]]_; At will—_[[rangoric-srd/spells/Chaos Hammer|chaos hammer]]_ (DC 18), _[[rangoric-srd/spells/Darkness|darkness]]_; 3/day—_[[rangoric-srd/spells/Confusion|confusion]]_ (DC 18), quickened _[[rangoric-srd/spells/Darkness|darkness]]_, _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Protection from Law|protection from law]]_; 1/day—_[[rangoric-srd/spells/Plane Shift|plane shift]]_ (DC 21).
 
 **Aura of Misfortune (Su)**: A chernobue radiates an aura of evil malaise to a radius of 30 feet. All lawful or good creatures in this area take a –1 penalty on attack rolls and weapon damage rolls. Lawful good creatures take a –3 penalty and upon first entering the aura must make a DC 20 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for as long as they remain in the area. This ability is Charisma-based.
 
@@ -76,4 +76,4 @@ The chernobue is a living manifestation of the vile fecundity of the [[rangoric-
 
 **[[rangoric-srd/monsters/abilities/Light Vulnerability|Light Vulnerability]] (Ex)**: A chernobue within an area of bright light takes 1 point of Constitution damage per minute it remains in the area.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Su)**: [[rangoric-srd/rules/afflictions/Chernobue Venom|Chernobue Venom]]: Bite—injury; *save* Fort DC 23; *frequency* 1/round for 6 rounds; *effect* 1d2 Con drain; *cure* 1 save. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Su)**: [[rangoric-srd/rules/afflictions/Chernobue Venom|Chernobue Venom]]: Bite—injury; _save_ Fort DC 23; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con drain; _cure_ 1 save. The save DC is Constitution-based.

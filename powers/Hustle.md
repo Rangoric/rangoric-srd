@@ -28,7 +28,7 @@ Psychometabolism
 **Range:** Personal  
 **Target:** You  
 **Effect:** 1 extra move action  
-**Power Points:** Egoist 5, psychic warrior 3  
+**Power Points:** Egoist 5, psychic warrior 3
 
 You gain an additional move action in the current round. Taking a full round’s worth of attacks and then using this power to move away from your foe does provoke attacks of opportunity.
 

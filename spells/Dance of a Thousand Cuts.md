@@ -22,13 +22,13 @@ tags: [rangoric, rangoric/spell]
 
 # Dance of a Thousand Cuts
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Brd 6, Skd 6
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level
+- **Level**: Brd 6, Skd 6
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level
 
-This spell functions as *[[rangoric-srd/spells/Dance of a Hundred Cuts|dance of a hundred cuts]]*, except you also gain the benefits of *[[rangoric-srd/spells/Haste|haste]]*.
+This spell functions as _[[rangoric-srd/spells/Dance of a Hundred Cuts|dance of a hundred cuts]]_, except you also gain the benefits of _[[rangoric-srd/spells/Haste|haste]]_.

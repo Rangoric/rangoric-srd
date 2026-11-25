@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/close, weapon-group/monk, weapon-
 
 # Dan Bong
 
-*Exotic light melee weapon (blocking, monk).* Cost 1 sp; Dmg 1d2 (S), 1d3 (M); Critical 19–20/x2; Range Increment 10 ft.; Weight —; Type Bludgeoning. ^stats
+_Exotic light melee weapon (blocking, monk)._ Cost 1 sp; Dmg 1d2 (S), 1d3 (M); Critical 19–20/x2; Range Increment 10 ft.; Weight —; Type Bludgeoning. ^stats
 
 These short, blunt sticks are held in the hands to enhance unarmed martial techniques. They provide the wielder with the ability to lock an opponent and target pressure points that grant her a +2 bonus on her combat maneuver checks to [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]].
 

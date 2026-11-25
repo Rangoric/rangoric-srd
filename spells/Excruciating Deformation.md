@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Excruciating Deformation
 
-*Transmutation (Polymorph) \[Evil, Pain\]*
+_Transmutation (Polymorph) \[Evil, Pain\]_
 
-  - **Level**: Blr 3, Psy 3, Sor/Wiz 3, Wit 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Fortitude partial
-  - **Spell Resistance**: Yes
+- **Level**: Blr 3, Psy 3, Sor/Wiz 3, Wit 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 round/level
+- **Saving Throw**: Fortitude partial
+- **Spell Resistance**: Yes
 
 Your touch attack causes your target to become painfully malformed. Its limbs twist and buckle, while its body contorts uncontrollably, shifting and warping. Each round the target suffers excruciating pain and takes 2d6 points of nonlethal damage, 1 point of Dexterity damage, and 1 point of Constitution damage, and its speed is reduced by 10 feet. Once per round as a free action on its turn, the target can attempt a new Fortitude saving throw to resist the spell for 1 round.

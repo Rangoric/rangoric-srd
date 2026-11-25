@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Primalist
 
-*A [[rangoric-srd/classes/Bloodrager#^bloodrager-archetypes|bloodrager]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Bloodrager#^bloodrager-archetypes|bloodrager]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 While bloodrage powers come from the very essence of a bloodrager's being and are often strict and immutable, some bloodragers tap into ancient traditions and primitive wisdom to enhance their rages with something more primal. The primalist mixes his bloodline with more traditional rage powers.
 

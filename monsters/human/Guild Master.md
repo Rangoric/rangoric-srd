@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Guild Master
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 11d8+11 (60 hp)
-  - **Initiative**: +9
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 22 (+5 armor, +5 Dex, +2 shield), touch 15, flat-footed 17
-  - **Base Attack**: +8; **CMB**: +7; **CMD**: 22
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Rapier|rapier]] +15 melee (1d6+6/18–20) or [[rangoric-srd/equipment/weapons/Sap|sap]] +13 melee (1d6+5 nonlethal) or +1 [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +14 ranged (1d8+1/19–20)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Rapier|rapier]] +15/+10 melee (1d6+6/18–20); or [[rangoric-srd/equipment/weapons/Sap|sap]] +13/+8 melee (1d6+5 nonlethal); or +1 [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +14/+9 ranged (1d8+1/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +6d6 plus 6 [[rangoric-srd/monsters/abilities/Bleed|bleed]], [[rangoric-srd/classes/Rogue#^rogue-debilitating-injury|debilitating injury]]
-  - **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-evasion|Evasion]], [[rangoric-srd/classes/Rogue#^rogue-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +3, [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] ([[rangoric-srd/class-options/rogue-talents/Bleeding Attack (Rogue Talent)|bleeding attack]], combat trick, [[rangoric-srd/class-options/rogue-talents/Resiliency (Rogue Talent)|resiliency]], [[rangoric-srd/class-options/rogue-talents/Slippery Mind (Rogue Talent)|slippery mind]], [[rangoric-srd/class-options/rogue-talents/Trap Spotter (Rogue Talent)|trap spotter]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +5, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (rapier, sap), [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]] ([[rangoric-srd/skills/Engineering|Engineering]], [[rangoric-srd/skills/Imitation|Imitation]])
-  - **Saves**: Fort +5, Ref +13, Will +8
-  - **Abilities**: Str 8, Dex 20, Con 12, Int 10, Wis 14, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Deception|Deception]] +22, [[rangoric-srd/skills/Engineering|Engineering]] +30, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +18, [[rangoric-srd/skills/Imitation|Imitation]] +18, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Perception|Perception]] +15 (+20 to find traps), [[rangoric-srd/skills/Persuasion|Persuasion]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +10, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +25
-  - **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Rapid Reload|Rapid Reload]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Stealth), [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (rapier)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 10
-  - **Treasure**: NPC gear (combat gear: feather token (whip); other gear: +1 mithral chain shirt, +1 buckler, +1 light crossbow with 10 bolts, +1 rapier, sap, belt of incredible dexterity +2, cloak of resistance +1, elixir of truth, goggles of minute seeing, disguise kit, masterwork thieves' tools)
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 11d8+11 (60 hp)
+- **Initiative**: +9
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 22 (+5 armor, +5 Dex, +2 shield), touch 15, flat-footed 17
+- **Base Attack**: +8; **CMB**: +7; **CMD**: 22
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Rapier|rapier]] +15 melee (1d6+6/18–20) or [[rangoric-srd/equipment/weapons/Sap|sap]] +13 melee (1d6+5 nonlethal) or +1 [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +14 ranged (1d8+1/19–20)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Rapier|rapier]] +15/+10 melee (1d6+6/18–20); or [[rangoric-srd/equipment/weapons/Sap|sap]] +13/+8 melee (1d6+5 nonlethal); or +1 [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +14/+9 ranged (1d8+1/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +6d6 plus 6 [[rangoric-srd/monsters/abilities/Bleed|bleed]], [[rangoric-srd/classes/Rogue#^rogue-debilitating-injury|debilitating injury]]
+- **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-evasion|Evasion]], [[rangoric-srd/classes/Rogue#^rogue-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +3, [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] ([[rangoric-srd/class-options/rogue-talents/Bleeding Attack (Rogue Talent)|bleeding attack]], combat trick, [[rangoric-srd/class-options/rogue-talents/Resiliency (Rogue Talent)|resiliency]], [[rangoric-srd/class-options/rogue-talents/Slippery Mind (Rogue Talent)|slippery mind]], [[rangoric-srd/class-options/rogue-talents/Trap Spotter (Rogue Talent)|trap spotter]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +5, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (rapier, sap), [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]] ([[rangoric-srd/skills/Engineering|Engineering]], [[rangoric-srd/skills/Imitation|Imitation]])
+- **Saves**: Fort +5, Ref +13, Will +8
+- **Abilities**: Str 8, Dex 20, Con 12, Int 10, Wis 14, Cha 14
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Deception|Deception]] +22, [[rangoric-srd/skills/Engineering|Engineering]] +30, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +18, [[rangoric-srd/skills/Imitation|Imitation]] +18, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Perception|Perception]] +15 (+20 to find traps), [[rangoric-srd/skills/Persuasion|Persuasion]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +10, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +25
+- **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Rapid Reload|Rapid Reload]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Stealth), [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (rapier)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 10
+- **Treasure**: NPC gear (combat gear: feather token (whip); other gear: +1 mithral chain shirt, +1 buckler, +1 light crossbow with 10 bolts, +1 rapier, sap, belt of incredible dexterity +2, cloak of resistance +1, elixir of truth, goggles of minute seeing, disguise kit, masterwork thieves' tools)
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A guild master is a [[rangoric-srd/monsters/human/Human|human]] with 11 levels of [[rangoric-srd/classes/Rogue|rogue]]. Guild masters are crime lords par excellence. They are masters of every criminal art and have worked their way up from being common hoods to become cunning masterminds of their own organization. Guild masters can serve as spies, assassins, or master safecrackers, or as bandit lords or shady merchant princes.
 

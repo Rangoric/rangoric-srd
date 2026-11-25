@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Perfect Fall
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
 As long as there is a wall or another surface within arm’s reach, the vigilante never takes falling damage. Even if no surface is available, he takes only half damage from falling and lands on his feet.

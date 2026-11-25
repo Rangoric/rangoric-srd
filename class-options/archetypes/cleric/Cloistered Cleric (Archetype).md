@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Cloistered Cleric
 
-*A [[rangoric-srd/classes/Cleric#^cleric-archetypes|cleric]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Cleric#^cleric-archetypes|cleric]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Cloistered clerics typically live in a temple and rarely interact with the outside world. They are bookish and well learned in the lore of the faith, paying less attention to its magical and martial aspects. A cloistered cleric has the following class features.
 

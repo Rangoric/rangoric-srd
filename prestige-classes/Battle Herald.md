@@ -49,18 +49,18 @@ The battle herald’s class skills (and the key ability for each skill) are [[ra
 
 **Table: The Battle Herald** ^table-the-battle-herald
 
-| Level | Special |
-| --- | --- |
-| 1st | 1st inspiring command (+1), improved leadership, voice of authority |
-| 2nd | Easy march |
-| 3rd | 2nd inspiring command |
-| 4th | Inspiring command (+2), inspire greatness |
-| 5th | 3rd inspiring command, banner |
-| 6th | Teamwork feat |
-| 7th | 4th inspiring command (+3), demanding challenge |
-| 8th | Persistent commands |
-| 9th | 5th inspiring command, inspire last stand |
-| 10th | Complex commands, inspiring command (+4) |
+| Level | Special                                                             |
+| ----- | ------------------------------------------------------------------- |
+| 1st   | 1st inspiring command (+1), improved leadership, voice of authority |
+| 2nd   | Easy march                                                          |
+| 3rd   | 2nd inspiring command                                               |
+| 4th   | Inspiring command (+2), inspire greatness                           |
+| 5th   | 3rd inspiring command, banner                                       |
+| 6th   | Teamwork feat                                                       |
+| 7th   | 4th inspiring command (+3), demanding challenge                     |
+| 8th   | Persistent commands                                                 |
+| 9th   | 5th inspiring command, inspire last stand                           |
+| 10th  | Complex commands, inspiring command (+4)                            |
 
 ###### Class Features
 

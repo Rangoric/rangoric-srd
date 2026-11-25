@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Teleportation Circle
 
-*Conjuration (Teleportation)*
+_Conjuration (Teleportation)_
 
-  - **Level**: Psy 9, Sor/Wiz 9, Sum 6, Wit 9
-  - **Components**: V, M
-  - **Casting Time**: 10 minutes
-  - **Range**: 0 ft.
-  - **Effect**: 5-ft.-radius circle that teleports those who activate it
-  - **Duration**: 10 min./level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Psy 9, Sor/Wiz 9, Sum 6, Wit 9
+- **Components**: V, M
+- **Casting Time**: 10 minutes
+- **Range**: 0 ft.
+- **Effect**: 5-ft.-radius circle that teleports those who activate it
+- **Duration**: 10 min./level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 You create a circle on the floor or other horizontal surface that teleports, as greater teleport, any creature who stands on it to a designated spot. Once you designate the destination for the circle, you can’t change it. The spell fails if you attempt to set the circle to teleport creatures into a solid object, to a place with which you are not familiar and have no clear description, or to another plane.
 
@@ -44,6 +44,6 @@ The circle itself is subtle and nearly impossible to notice. If you intend to ke
 
 Teleportation circle can be made permanent with a permanency spell. A permanent teleportation circle that is disabled becomes inactive for 10 minutes, then can be triggered again as normal.
 
-*Note*: Magic traps such as teleportation circle are hard to detect and disable. A rogue (only) can use the [[rangoric-srd/skills/Investigation|Investigation]] skill to find the circle and [[rangoric-srd/skills/Engineering|Engineering]] to thwart it. The DC in each case is 25 + spell level, or 34 in the case of teleportation circle.
+_Note_: Magic traps such as teleportation circle are hard to detect and disable. A rogue (only) can use the [[rangoric-srd/skills/Investigation|Investigation]] skill to find the circle and [[rangoric-srd/skills/Engineering|Engineering]] to thwart it. The DC in each case is 25 + spell level, or 34 in the case of teleportation circle.
 
-*Material Component*: Amber dust to cover the area of the circle (cost 1,000 gp).
+_Material Component_: Amber dust to cover the area of the circle (cost 1,000 gp).

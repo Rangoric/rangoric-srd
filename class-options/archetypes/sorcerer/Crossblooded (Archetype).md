@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Crossblooded
 
-*A [[rangoric-srd/classes/Sorcerer#^sorcerer-archetypes|sorcerer]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Sorcerer#^sorcerer-archetypes|sorcerer]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A crossblooded bloodline combines the powers of two distinct heritages. In most cases, sorcerers with this bloodline are the offspring of two sorcerers from different ancestries, but occasionally a crossblooded sorcerer arises from the conjunction of other powers. A draconic sorcerer who is also the culmination of a great destiny, an abyssal sorcerer from a family that dealt with devils, and an arcane sorcerer raised from birth by fey are all possible sources for crossblooded bloodlines.
 
@@ -27,7 +27,7 @@ A crossblooded [[rangoric-srd/classes/Sorcerer|sorcerer]] selects two different 
 
 **Bonus Spells**: A crossblooded sorcerer may select her bonus spells from either of her bloodlines. The sorcerer also has the choice to learn a lower-level bonus spell she did not choose in place of the higher-level bonus spell she would normally gain. Lower-level bonus spells learned this way always use the spell level that they would be if the sorcerer had learned them with the appropriate bonus spell.
 
-**Example**: A 3rd-level [[rangoric-srd/class-options/bloodlines/Aberrant Bloodline|aberrant]]/[[rangoric-srd/class-options/bloodlines/Abyssal Bloodline|abyssal]] crossblooded sorcerer has the choice of learning *[[rangoric-srd/spells/Cause Fear|cause fear]]* or *[[rangoric-srd/spells/Enlarge Person|enlarge person]]* as her bloodline bonus spell. If she selected *[[rangoric-srd/spells/Cause Fear|cause fear]]* as her 3rd-level bonus spell, at 5th level she could use her new bonus spell to learn *[[rangoric-srd/spells/Enlarge Person|enlarge person]]* instead of *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]* or *[[rangoric-srd/spells/See Invisibility|see invisibility]]*, and she would add it to her list of 1st-level spells known (just as if she had learned it as her 3rd-level bonus spell).
+**Example**: A 3rd-level [[rangoric-srd/class-options/bloodlines/Aberrant Bloodline|aberrant]]/[[rangoric-srd/class-options/bloodlines/Abyssal Bloodline|abyssal]] crossblooded sorcerer has the choice of learning _[[rangoric-srd/spells/Cause Fear|cause fear]]_ or _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ as her bloodline bonus spell. If she selected _[[rangoric-srd/spells/Cause Fear|cause fear]]_ as her 3rd-level bonus spell, at 5th level she could use her new bonus spell to learn _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ instead of _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_ or _[[rangoric-srd/spells/See Invisibility|see invisibility]]_, and she would add it to her list of 1st-level spells known (just as if she had learned it as her 3rd-level bonus spell).
 
 **Bonus Feat**: A crossblooded sorcerer combines the bonus feat lists from both of her bloodlines and may select her bloodline bonus feats from this combined list.
 

@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Contract Killer
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf)
-  - **Hit Dice**: 11d8+33 (86 hp)
-  - **Initiative**: +9
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 21 (+5 armor, +1 deflection, +5 Dex), touch 16, flat-footed 16
-  - **Base Attack**: +8; **CMB**: +10; **CMD**: 26
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Rapier|rapier]] +15 melee (1d6+6/15–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +14 ranged (1d4+2/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Rapier|rapier]] +15/+10 melee (1d6+6/15–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +14/+9 ranged (1d4+2/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +6d6, [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/classes/Rogue#^rogue-debilitating-injury|debilitating injury]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/classes/Rogue#^rogue-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +3, [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Bleeding Attack (Rogue Talent)|bleeding attack]] +6, [[rangoric-srd/class-options/rogue-talents/Combat Trick (Rogue Talent)|combat trick]], [[rangoric-srd/class-options/rogue-talents/Crippling Strike (Rogue Talent)|crippling strike]], [[rangoric-srd/class-options/rogue-talents/Fast Stealth (Rogue Talent)|fast stealth]], [[rangoric-srd/class-options/rogue-talents/Surprise Attack (Rogue Talent)|surprise attack]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +5, [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (rapier), [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]] ([[rangoric-srd/skills/Engineering|Engineering]], [[rangoric-srd/skills/Perception|Perception]])
-  - **Saves**: Fort +5, Ref +13, Will +5 (+2 vs. enchantments)
-  - **Abilities**: Str 14, Dex 20, Con 12, Int 12, Wis 12, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Engineering|Engineering]] +21, [[rangoric-srd/skills/Imitation|Imitation]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Society|Society]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +19
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (rapier), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Stand Still|Stand Still]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (rapier)
-  - **Environment**: Temperate forest
-  - **Organization**: Solitary, or with other elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])
-  - **Challenge Rating**: 10
-  - **Treasure**: NPC gear (combat gear: elixir of hiding, potion of cure serious wounds, potion of invisibility, antitoxin, blue whinnis poison (4); other gear: +2 studded leather, +1 rapier, masterwork dagger, belt of incredible dexterity +2, cloak of resistance +1, ring of protection +1, masterwork thieves' tools, sunrods (3), 617 gp)
-  - **Alignment**: Neutral evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf)
+- **Hit Dice**: 11d8+33 (86 hp)
+- **Initiative**: +9
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 21 (+5 armor, +1 deflection, +5 Dex), touch 16, flat-footed 16
+- **Base Attack**: +8; **CMB**: +10; **CMD**: 26
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Rapier|rapier]] +15 melee (1d6+6/15–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +14 ranged (1d4+2/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Rapier|rapier]] +15/+10 melee (1d6+6/15–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +14/+9 ranged (1d4+2/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +6d6, [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/classes/Rogue#^rogue-debilitating-injury|debilitating injury]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/classes/Rogue#^rogue-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +3, [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Bleeding Attack (Rogue Talent)|bleeding attack]] +6, [[rangoric-srd/class-options/rogue-talents/Combat Trick (Rogue Talent)|combat trick]], [[rangoric-srd/class-options/rogue-talents/Crippling Strike (Rogue Talent)|crippling strike]], [[rangoric-srd/class-options/rogue-talents/Fast Stealth (Rogue Talent)|fast stealth]], [[rangoric-srd/class-options/rogue-talents/Surprise Attack (Rogue Talent)|surprise attack]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +5, [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (rapier), [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]] ([[rangoric-srd/skills/Engineering|Engineering]], [[rangoric-srd/skills/Perception|Perception]])
+- **Saves**: Fort +5, Ref +13, Will +5 (+2 vs. enchantments)
+- **Abilities**: Str 14, Dex 20, Con 12, Int 12, Wis 12, Cha 8
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Engineering|Engineering]] +21, [[rangoric-srd/skills/Imitation|Imitation]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Society|Society]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +19
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (rapier), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Stand Still|Stand Still]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (rapier)
+- **Environment**: Temperate forest
+- **Organization**: Solitary, or with other elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])
+- **Challenge Rating**: 10
+- **Treasure**: NPC gear (combat gear: elixir of hiding, potion of cure serious wounds, potion of invisibility, antitoxin, blue whinnis poison (4); other gear: +2 studded leather, +1 rapier, masterwork dagger, belt of incredible dexterity +2, cloak of resistance +1, ring of protection +1, masterwork thieves' tools, sunrods (3), 617 gp)
+- **Alignment**: Neutral evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A contract killer is an [[rangoric-srd/monsters/elf/Elf|elf]] with 11 levels of [[rangoric-srd/classes/Rogue|rogue]]. The contract killer uses stealth and poison to kill his latest target.
 

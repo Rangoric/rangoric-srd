@@ -20,7 +20,7 @@ Your connection to the hungering undead shapes your magic.
 
 **Class Skill**: [[rangoric-srd/skills/Stealth|Stealth]].
 
-**Bonus Spells**: *[[rangoric-srd/spells/Ray of Enfeeblement|Ray of enfeeblement]]* (3rd), *[[rangoric-srd/spells/Feast of Ashes|feast of ashes]]* (5th), *[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]* (7th), *[[rangoric-srd/spells/Fear|fear]]* (9th), *[[rangoric-srd/spells/Hungry Earth|hungry earth]]* (11th), *[[rangoric-srd/spells/Move Earth|move earth]]* (13th), *[[rangoric-srd/spells/Control Undead|control undead]]* (15th), *[[rangoric-srd/spells/Unholy Aura|unholy aura]]* (17th), *[[rangoric-srd/spells/Wail of the Banshee|wail of the banshee]]* (19th). *[[rangoric-srd/spells/Wail of the Banshee|wail of the banshee]]* (19th).
+**Bonus Spells**: _[[rangoric-srd/spells/Ray of Enfeeblement|Ray of enfeeblement]]_ (3rd), _[[rangoric-srd/spells/Feast of Ashes|feast of ashes]]_ (5th), _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_ (7th), _[[rangoric-srd/spells/Fear|fear]]_ (9th), _[[rangoric-srd/spells/Hungry Earth|hungry earth]]_ (11th), _[[rangoric-srd/spells/Move Earth|move earth]]_ (13th), _[[rangoric-srd/spells/Control Undead|control undead]]_ (15th), _[[rangoric-srd/spells/Unholy Aura|unholy aura]]_ (17th), _[[rangoric-srd/spells/Wail of the Banshee|wail of the banshee]]_ (19th). _[[rangoric-srd/spells/Wail of the Banshee|wail of the banshee]]_ (19th).
 
 **Bonus Feats**: [[rangoric-srd/feats/Arcane Strike|Arcane Strike]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Theology), [[rangoric-srd/feats/Spell Focus|Spell Focus]] (necromancy), [[rangoric-srd/feats/Toughness|Toughness]], Warren Digger, [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]].
 
@@ -36,7 +36,7 @@ If you're a ghoul with this bloodline, instead of gaining this ability, your lev
 
 **Leathery Skin (Ex)**: At 3rd level, you gain cold resistance 5 and a +1 natural armor bonus to AC. At 9th level, your cold resistance increases to 10 and natural armor bonus increases to +2. At 15th level, your natural armor bonus increases to +4.
 
-**Ravenous Frenzy (Ex)**: At 9th level, you gain the benefits of *[[rangoric-srd/spells/Haste|haste]]* for a number of rounds per day equal to your sorcerer level. These rounds don't need to be consecutive. Each time you hit a creature with two or more claw attacks during a full attack while affected by this ability, that creature takes 1d4 points of [[rangoric-srd/rules/conditions/Bleed (Condition)|bleed]] damage.
+**Ravenous Frenzy (Ex)**: At 9th level, you gain the benefits of _[[rangoric-srd/spells/Haste|haste]]_ for a number of rounds per day equal to your sorcerer level. These rounds don't need to be consecutive. Each time you hit a creature with two or more claw attacks during a full attack while affected by this ability, that creature takes 1d4 points of [[rangoric-srd/rules/conditions/Bleed (Condition)|bleed]] damage.
 
 **Earth Crawler (Su)**: At 15th level, you gain a burrow speed of 30 feet. Additionally, as long as you are surrounded by at least 5 feet of dirt or natural stone on all sides, you gain fast healing 10. You can heal a number of hit points per day equal to 10 × your sorcerer level with this ability.
 

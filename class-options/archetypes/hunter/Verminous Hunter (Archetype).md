@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Verminous Hunter
 
-*A [[rangoric-srd/classes/Hunter#^hunter-archetypes|hunter]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Hunter#^hunter-archetypes|hunter]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A verminous hunter calls on the ceaseless, single-minded dedication of vermin to hunt and overwhelm her prey. Where other hunters invoke the cunning, animalistic powers of the alpha predators, she calls on the powers of the lowest life forms, reaching out to the spider instead of the monkey, the mantis instead of the snake, or the moth instead of the owl.
 

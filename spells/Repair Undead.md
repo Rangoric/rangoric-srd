@@ -24,15 +24,15 @@ tags: [rangoric, rangoric/spell]
 
 # Repair Undead
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Sor/Wiz 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: One undead creature touched (see text)
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will half (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Sor/Wiz 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: One undead creature touched (see text)
+- **Duration**: Instantaneous
+- **Saving Throw**: Will half (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 When you touch an undead creature, you channel negative energy that heals 1d8 points of damage + 1 point per caster level (maximum +5). This spell has no effect on living creatures, except those that are healed by negative energy are also healed by the spell.

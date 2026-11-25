@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Underground Chemist
 
-*A [[rangoric-srd/classes/Rogue#^rogue-archetypes|rogue]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Rogue#^rogue-archetypes|rogue]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Underground chemists are part of the fetid underbelly of the alchemical world. While underground chemists can't hold a candle to dedicated alchemists, their use of alchemical substances and potions makes them tricky and dangerous.
 

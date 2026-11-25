@@ -31,7 +31,7 @@ Area: 40-ft.-radius emanation centered on you
 Duration: 24 hours  
 Saving Throw: None  
 Power Resistance: No  
-Power Points: 7  
+Power Points: 7
 
 You immediately become aware of any attempt to observe you by means of a clairsentience (scrying) power or divination (scrying) spell. The power’s effect radiates from you and moves as you move. You know the location of every psionic or magical sensor within the power’s area.
 

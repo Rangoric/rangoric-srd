@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Philter of Wildscent
 
-*Ingestible; Special*
+_Ingestible; Special_
 
 The Philter of Wildscent neutralizes the normal scent of a person and instead has his or her perspiration and skin smelling like fresh pine and cedar and other natural woodland scents. Animals can no longer scent the person or track him or her by scent. This also reduces checks to track this person ([[rangoric-srd/skills/Fieldcraft|Fieldcraft]], -4) and increases their [[rangoric-srd/skills/Stealth|Stealth]] checks (+4) in woodlands. Both of these are circumstance modifiers. The effect lasts for 1d8 hours.
 

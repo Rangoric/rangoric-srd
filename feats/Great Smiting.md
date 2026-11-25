@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Great Smiting
 
-Prerequisites: Cha 25, smite ability (from class feature or domain granted power).  
+Prerequisites: Cha 25, smite ability (from class feature or domain granted power).
 
 Benefit: Whenever the character makes a successful smite attack, add twice the appropriate level to damage (rather than just the character’s level).
 

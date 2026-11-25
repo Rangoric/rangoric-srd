@@ -34,7 +34,7 @@ Telepathy \[Mind-Affecting, Language-Dependent\]
 **Effect:** Mental message delivered to subject  
 **Saving Throw:** None  
 **Power Resistance:** Yes  
-**Power Points:** 1  
+**Power Points:** 1
 
 You send a telepathic message of up to ten words to any living creature within range. Missive is strictly a one-way exchange from you to the subject. If you do not share a common language, the subject “hears” meaningless mental syllables.
 

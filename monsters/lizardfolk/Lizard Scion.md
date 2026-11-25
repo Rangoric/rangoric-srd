@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Lizard Scion
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Reptilian)
-  - **Hit Dice**: 7d8+14 (45 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares), swim 30 ft.
-  - **Armor Class**: 17 (+8 natural, –1 size), touch 9, flat-footed 17
-  - **Base Attack**: +5; **CMB**: +9; **CMD**: 19
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Trident|trident]] +9 melee (2d6+3) or bite +10 melee (1d8+1) or claw +7 melee (1d6+3) or bite +5 melee (1d8+1) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Javelin|javelin]] +5 ranged (1d8+3)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Trident|trident]] +9 melee (2d6+3) and bite +5 melee (1d8+1); or 2 claws +7 melee (1d6+3) and bite +5 melee (1d8+1); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Javelin|javelin]] +5 ranged (1d8+3)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Rage|Blood rage]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Hold Breath|Hold breath]], [[rangoric-srd/monsters/abilities/Lizardfolk Blood|lizardfolk blood]]
-  - **Saves**: Fort +7, Ref +2, Will +3
-  - **Abilities**: Str 16, Dex 11, Con 14, Int 9, Wis 12, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Perception|Perception]] +5
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (trident)
-  - **Environment**: Temperate swamps
-  - **Organization**: Solitary, band (with 3–12 lizardfolk), or tribe (with 13–60 lizardfolk)
-  - **Challenge Rating**: 5
-  - **Treasure**: NPC gear (mwk trident, 2 mwk javelins)
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Reptilian)
+- **Hit Dice**: 7d8+14 (45 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares), swim 30 ft.
+- **Armor Class**: 17 (+8 natural, –1 size), touch 9, flat-footed 17
+- **Base Attack**: +5; **CMB**: +9; **CMD**: 19
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Trident|trident]] +9 melee (2d6+3) or bite +10 melee (1d8+1) or claw +7 melee (1d6+3) or bite +5 melee (1d8+1) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Javelin|javelin]] +5 ranged (1d8+3)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Trident|trident]] +9 melee (2d6+3) and bite +5 melee (1d8+1); or 2 claws +7 melee (1d6+3) and bite +5 melee (1d8+1); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Javelin|javelin]] +5 ranged (1d8+3)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Rage|Blood rage]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Hold Breath|Hold breath]], [[rangoric-srd/monsters/abilities/Lizardfolk Blood|lizardfolk blood]]
+- **Saves**: Fort +7, Ref +2, Will +3
+- **Abilities**: Str 16, Dex 11, Con 14, Int 9, Wis 12, Cha 11
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Perception|Perception]] +5
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (trident)
+- **Environment**: Temperate swamps
+- **Organization**: Solitary, band (with 3–12 lizardfolk), or tribe (with 13–60 lizardfolk)
+- **Challenge Rating**: 5
+- **Treasure**: NPC gear (mwk trident, 2 mwk javelins)
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Every few generations, a lizard scion is born to a lizardfolk tribe. With twice the life span of a typical lizardfolk and a large and muscular stature, a scion typically rises to become the leader of her tribe. Lizardfolk show great—often unquestioning—devotion to scions, believing they are blessings from the spirits and divine in nature. In many ways, tribes see them as living monuments to the lost greatness of their people, singing songs of an era when every lizardfolk was as large and impressive as the scion.
 

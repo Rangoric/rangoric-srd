@@ -25,4 +25,4 @@ These white leather bracers have delicate elven runes etched upon them, one read
 
 For the duration of the effect, the wearer takes a –2 penalty on attack rolls against any target other than his sworn enemy. These bonuses and penalties last for 24 hours or until the sworn enemy is slain or destroyed by the wearer, whichever comes first. If the wearer fails to slay the target of his oath, these bracers cannot be used again until 7 days have passed.
 
-Strong evocation; CL 15th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Shout|shout]]*, creator must be an [[rangoric-srd/races/Elf|elf]]; Price 25,000 gp; Cost 12,500 gp; Weight 1 lb.
+Strong evocation; CL 15th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Shout|shout]]_, creator must be an [[rangoric-srd/races/Elf|elf]]; Price 25,000 gp; Cost 12,500 gp; Weight 1 lb.

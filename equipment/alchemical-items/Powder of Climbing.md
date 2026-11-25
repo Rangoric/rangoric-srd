@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Powder of Climbing
 
-*Powder; Special*
+_Powder; Special_
 
 When blown onto a surface, the simply named powder of climbing absorbs moisture, oils and other surface hazards and makes a wall or surface easier to climb. This powder simply provides an added +2 circumstance bonus to an [[rangoric-srd/skills/Athletics|Athletics]] check to climb.
 

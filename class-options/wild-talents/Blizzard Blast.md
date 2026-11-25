@@ -18,14 +18,14 @@ tags: [rangoric, rangoric/class-option]
 
 # Blizzard Blast
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#^composite-blasts|composite blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#^composite-blasts|composite blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Elements**: [[rangoric-srd/class-options/elements/Air Element|air]] and [[rangoric-srd/class-options/elements/Water Element|water]]
-  - **Type**: composite blast (Sp)
-  - **Level**: —
-  - **Burn**: 2
-  - **Prerequisites**: [[rangoric-srd/class-options/wild-talents/Air Blast|air blast]], [[rangoric-srd/class-options/wild-talents/Cold Blast|cold blast]]
-  - **Blast Type**: physical
-  - **Damage**: half piercing, half cold
+- **Elements**: [[rangoric-srd/class-options/elements/Air Element|air]] and [[rangoric-srd/class-options/elements/Water Element|water]]
+- **Type**: composite blast (Sp)
+- **Level**: —
+- **Burn**: 2
+- **Prerequisites**: [[rangoric-srd/class-options/wild-talents/Air Blast|air blast]], [[rangoric-srd/class-options/wild-talents/Cold Blast|cold blast]]
+- **Blast Type**: physical
+- **Damage**: half piercing, half cold
 
 You unleash a directed blizzard at a single target.

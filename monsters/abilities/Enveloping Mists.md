@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Enveloping Mists
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “enveloping mists”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “enveloping mists”, on the Special Attacks line.
 
 A hungry fog can [[rangoric-srd/monsters/abilities/Engulf|engulf]] foes. A creature engulfed by a hungry fog does not gain the pinned condition and may move normally—such a creature is not in danger of suffocating, but as long as it begins its turn engulfed, it is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] in addition to the damage the attack causes. The save DC to avoid the enveloping mists is Constitution-based. The [[rangoric-srd/monsters/ooze/Hungry Fog|hungry fog]] has it.

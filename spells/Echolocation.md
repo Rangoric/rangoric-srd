@@ -30,13 +30,13 @@ tags: [rangoric, rangoric/spell]
 
 # Echolocation
 
-*Transmutation \[Sonic\]*
+_Transmutation \[Sonic\]_
 
-  - **Level**: Alc 4, Brd 4, Drd 4, Hun 4, Occ 4, Psy 5, Skd 4, Sor/Wiz 5
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 10 minutes/level
+- **Level**: Alc 4, Brd 4, Drd 4, Hun 4, Occ 4, Psy 5, Skd 4, Sor/Wiz 5
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 10 minutes/level
 
-You can perceive the world by creating high-pitched noises and listening to their echoes. This gives you blindsight to a range of 40 feet. The echo-producing noises are too high-pitched to be heard by most creatures, and can only be detected by dragons, other creatures with this ability (such as bats), and creatures with hearing-based blindsense or blindsight. You cannot use this ability if you are deaf, and cannot detect anything in an area of *[[rangoric-srd/spells/Silence|silence]]*.
+You can perceive the world by creating high-pitched noises and listening to their echoes. This gives you blindsight to a range of 40 feet. The echo-producing noises are too high-pitched to be heard by most creatures, and can only be detected by dragons, other creatures with this ability (such as bats), and creatures with hearing-based blindsense or blindsight. You cannot use this ability if you are deaf, and cannot detect anything in an area of _[[rangoric-srd/spells/Silence|silence]]_.

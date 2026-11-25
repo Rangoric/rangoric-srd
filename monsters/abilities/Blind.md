@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Blind
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “blind”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “blind”, on the Special Qualities line.
 
 Bugganes are blind. They are immune to gaze attacks, visual effects, illusions, and other attack forms that rely on sight. The [[rangoric-srd/monsters/Buggane|buggane]] has it.

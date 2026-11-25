@@ -21,12 +21,12 @@ tags: [rangoric, rangoric/spell]
 
 # Minions of Death
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Sor/Wiz 8
-  - **Components**: V, S, M, F
-  - **Duration**: Instantaneous (see text)
+- **Level**: Sor/Wiz 8
+- **Components**: V, S, M, F
+- **Duration**: Instantaneous (see text)
 
-As *[[rangoric-srd/spells/Circle of Death|circle of death]]*, except that slain creatures are animated as zombies on the following round, per *[[rangoric-srd/spells/Animate Dead|animate dead]]*. On the second round after minions of death is cast, the zombies act normally. After the zombies have acted for one round per level of the caster, they crumble to dust. The zombies created by this spell do not count against the normal control limits of the caster.
+As _[[rangoric-srd/spells/Circle of Death|circle of death]]_, except that slain creatures are animated as zombies on the following round, per _[[rangoric-srd/spells/Animate Dead|animate dead]]_. On the second round after minions of death is cast, the zombies act normally. After the zombies have acted for one round per level of the caster, they crumble to dust. The zombies created by this spell do not count against the normal control limits of the caster.
 
-*Arcane focus:* the skull of a lich.
+_Arcane focus:_ the skull of a lich.

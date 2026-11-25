@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This bright red strip of cloth, stitched with images of a cheering crowd throwing garlands toward a chariot, fits across the wearer's shoulders and then diagonally down his chest to reach his opposite hip. The wearer treats his fighter level as 4 higher than normal for the purpose of the [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] and [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] class features.
 
-Moderate abjuration; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Cat’s Grace|cat's grace]]*, *[[rangoric-srd/spells/Remove Fear|remove fear]]*; Price 4,000 gp; Cost 2,000 gp; Weight 1 lb.
+Moderate abjuration; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_, _[[rangoric-srd/spells/Remove Fear|remove fear]]_; Price 4,000 gp; Cost 2,000 gp; Weight 1 lb.

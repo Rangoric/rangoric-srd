@@ -26,17 +26,17 @@ tags: [rangoric, rangoric/constellation]
 
 # The Sword
 
-*[[rangoric-srd/rules/star magic/Star Magic|Constellation]]*
+_[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 
-  - **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Destruction|Destruction]], [[rangoric-srd/rules/star magic/stars/Star of Hope|Hope]], [[rangoric-srd/rules/star magic/stars/Star of Wind|Wind]]
-  - **Call Level**: 5th ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Effect**: A longsword
-  - **Duration**: 5 rounds/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Destruction|Destruction]], [[rangoric-srd/rules/star magic/stars/Star of Hope|Hope]], [[rangoric-srd/rules/star magic/stars/Star of Wind|Wind]]
+- **Call Level**: 5th ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Effect**: A longsword
+- **Duration**: 5 rounds/level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 A +2 [[rangoric-srd/magic-items/weapon-abilities/Keen|keen]] [[rangoric-srd/magic-items/weapon-abilities/Shining|shining]] longsword appears in your hand. You're proficient with it while it lasts, if you weren't already. It vanishes if it leaves your hands for more than 1 round.
 

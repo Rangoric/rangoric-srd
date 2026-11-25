@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # Sirocco
 
-*Evocation \[Air, Fire\]*
+_Evocation \[Air, Fire\]_
 
-  - **Level**: Drd 6, Hun 6, Mag 6, Occ 6, Sor/Wiz 6
-  - **Components**: V, S, M/DF (handful of fine sand cast into the air)
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Area**: Cylinder (20-ft. radius, 60 ft. high)
-  - **Duration**: 1 round/level (D)
-  - **Saving Throw**: Fortitude partial, see text
-  - **Spell Resistance**: Yes
+- **Level**: Drd 6, Hun 6, Mag 6, Occ 6, Sor/Wiz 6
+- **Components**: V, S, M/DF (handful of fine sand cast into the air)
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Area**: Cylinder (20-ft. radius, 60 ft. high)
+- **Duration**: 1 round/level (D)
+- **Saving Throw**: Fortitude partial, see text
+- **Spell Resistance**: Yes
 
-A blast of furnace-hot wind blasts downward, inflicting 4d6 fire damage +1 point per caster level to all creatures in the area and knocking them prone. A successful Fortitude save halves the fire damage and negates being knocked prone. Flying creatures forced into the ground by the powerful downdraft take damage as if they fell unless they make a DC 15 Acrobatics check, in which case they remain at their original altitude. Any creature that takes damage from a sirocco becomes fatigued (or exhausted, if already fatigued, such as from a previous round of exposure to a *sirocco* spell). Creatures with the water subtype take a –4 penalty on all saving throws against this spell and take double normal damage.
+A blast of furnace-hot wind blasts downward, inflicting 4d6 fire damage +1 point per caster level to all creatures in the area and knocking them prone. A successful Fortitude save halves the fire damage and negates being knocked prone. Flying creatures forced into the ground by the powerful downdraft take damage as if they fell unless they make a DC 15 Acrobatics check, in which case they remain at their original altitude. Any creature that takes damage from a sirocco becomes fatigued (or exhausted, if already fatigued, such as from a previous round of exposure to a _sirocco_ spell). Creatures with the water subtype take a –4 penalty on all saving throws against this spell and take double normal damage.

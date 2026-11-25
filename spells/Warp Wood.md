@@ -26,16 +26,16 @@ tags: [rangoric, rangoric/spell]
 
 # Warp Wood
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Drd 2, Hun 2, Occ 2, Sha 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: 1 Small wooden object/level, all within a 20-ft. radius
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates (object)
-  - **Spell Resistance**: Yes (object)
+- **Level**: Drd 2, Hun 2, Occ 2, Sha 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: 1 Small wooden object/level, all within a 20-ft. radius
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates (object)
+- **Spell Resistance**: Yes (object)
 
 You cause wood to bend and warp, permanently destroying its straightness, form, and strength. A warped door springs open (or becomes stuck, requiring a Strength check to open, at your option). A boat or ship springs a leak. Warped ranged weapons are useless. A warped melee weapon causes a –4 penalty on attack rolls.
 

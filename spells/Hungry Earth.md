@@ -26,16 +26,16 @@ tags: [rangoric, rangoric/spell]
 
 # Hungry Earth
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Drd 5, Hun 5, Sor/Wiz 5, Wit 5
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Area**: 20-foot-radius spread
-  - **Duration**: 1 round/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Drd 5, Hun 5, Sor/Wiz 5, Wit 5
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Area**: 20-foot-radius spread
+- **Duration**: 1 round/level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 The ground attempts to pull creatures beneath its surface as if hungry for the flesh of mortals.
 

@@ -33,16 +33,16 @@ tags: [rangoric, rangoric/spell]
 
 # Dream
 
-*Illusion (Phantasm) \[Mind-Affecting\]*
+_Illusion (Phantasm) \[Mind-Affecting\]_
 
-  - **Level**: Alc 5, Brd 5, Med 3, Mes 4, Psy 4, Skd 5, Sor/Wiz 5, Spi 5
-  - **Components**: V, S
-  - **Casting Time**: 1 minute
-  - **Range**: Unlimited
-  - **Target**: One living creature touched
-  - **Duration**: See text
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Alc 5, Brd 5, Med 3, Mes 4, Psy 4, Skd 5, Sor/Wiz 5, Spi 5
+- **Components**: V, S
+- **Casting Time**: 1 minute
+- **Range**: Unlimited
+- **Target**: One living creature touched
+- **Duration**: See text
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 You, or a messenger touched by you, sends a phantasmal message to others in the form of a dream. At the beginning of the spell, you must name the recipient or identify him or her by some title that leaves no doubt as to identity. The messenger then enters a trance, appears in the intended recipient’s dream, and delivers the message. The message can be of any length, and the recipient remembers it perfectly upon waking. The communication is one-way. The recipient cannot ask questions or offer information, nor can the messenger gain any information by observing the dreams of the recipient.
 

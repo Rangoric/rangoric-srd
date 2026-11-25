@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Fire Element
 
-*An [[rangoric-srd/class-options/elements/Elements|element]] a [[rangoric-srd/classes/Kineticist|kineticist]] can choose with [[rangoric-srd/classes/Kineticist#^kineticist-elemental-focus|elemental focus]] or [[rangoric-srd/classes/Kineticist#^kineticist-expanded-element|expanded element]].*
+_An [[rangoric-srd/class-options/elements/Elements|element]] a [[rangoric-srd/classes/Kineticist|kineticist]] can choose with [[rangoric-srd/classes/Kineticist#^kineticist-elemental-focus|elemental focus]] or [[rangoric-srd/classes/Kineticist#^kineticist-expanded-element|expanded element]]._
 
 Kineticists who focus on the element of fire are called pyrokineticists. Pyrokineticists wield elemental fire as a potent weapon, and they possess a powerful offense. (The psionic [[rangoric-srd/psionics/Pyrokineticist|pyrokineticist]] prestige class is something else.)
 

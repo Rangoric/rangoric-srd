@@ -21,4 +21,4 @@ tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades]
 
 # Longsword
 
-*Martial one-handed melee weapon.* Cost 15 gp; Dmg 1d6 (S), 1d8 (M); Critical 19–20/x2; Weight 4 lb.; Type Slashing. ^stats
+_Martial one-handed melee weapon._ Cost 15 gp; Dmg 1d6 (S), 1d8 (M); Critical 19–20/x2; Weight 4 lb.; Type Slashing. ^stats

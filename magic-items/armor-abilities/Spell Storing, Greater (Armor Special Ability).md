@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Spell Storing, Greater
 
-These items are similar to *spell storing* armors except that they can hold multiple spells totaling up to six spell levels (0 level spells count as ½ a level). For example, a *greater spell storing* tower shield could store one 6th-level spell or three 2nd-level spells. Only one spell can be cast from the item at a time. *Greater spell storing* items can hold either arcane or divinely cast spells, but not both kinds concurrently.
+These items are similar to _spell storing_ armors except that they can hold multiple spells totaling up to six spell levels (0 level spells count as ½ a level). For example, a _greater spell storing_ tower shield could store one 6th-level spell or three 2nd-level spells. Only one spell can be cast from the item at a time. _Greater spell storing_ items can hold either arcane or divinely cast spells, but not both kinds concurrently.
 
 Strong evocation; CL 17th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], creator must be a caster of at least 17th level; Price +3 bonus.

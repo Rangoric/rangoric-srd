@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Leshy Swarm
 
-*Conjuration (Summoning)*
+_Conjuration (Summoning)_
 
-  - **Level**: Brd 3, Drd 3, Hun 3, Skd 3, Sor/Wiz 3, Sum 3, SumU 3
-  - **Components**: V, S, M, M/DF (a bundle of seeds)
-  - **Casting Time**: 1 round
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: 10-ft.-square swarm of leshys
-  - **Duration**: Caster level round(s)
-  - **Spell Resistance**: No
+- **Level**: Brd 3, Drd 3, Hun 3, Skd 3, Sor/Wiz 3, Sum 3, SumU 3
+- **Components**: V, S, M, M/DF (a bundle of seeds)
+- **Casting Time**: 1 round
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: 10-ft.-square swarm of leshys
+- **Duration**: Caster level round(s)
+- **Spell Resistance**: No
 
 You call out to nearby nature spirits and grant them temporary plant bodies. These creatures are similar to leshys, except they are Tiny and far more simpleminded. The swarm uses the statistics for a rat swarm, except it does not carry a disease or have scent. The leshy swarm has darkvision with a range of 60 feet and is immune to electricity, mind-affecting effects, paralysis, poison, polymorph, sleep effects, sonic, and stunning.
 

@@ -16,8 +16,8 @@ tags: [rangoric, rangoric/class-option]
 
 # Gaze of Flames
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Flame Mystery|flame]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Flame Mystery|flame]] mystery._
 
-You can see through fire, fog, and smoke without penalty as long as the light is sufficient to allow you to see normally. At 7th level, you can gaze through any source of flame within 10 feet per oracle level, as if using *[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairvoyance]]*. You can use this ability for a number of rounds per day equal to your oracle level, but these rounds do not need to be consecutive.
+You can see through fire, fog, and smoke without penalty as long as the light is sufficient to allow you to see normally. At 7th level, you can gaze through any source of flame within 10 feet per oracle level, as if using _[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairvoyance]]_. You can use this ability for a number of rounds per day equal to your oracle level, but these rounds do not need to be consecutive.
 
-*The shaman has a hex of the same name: [[rangoric-srd/class-options/hexes/Gaze of Flames (Hex)|gaze of flames]].*
+_The shaman has a hex of the same name: [[rangoric-srd/class-options/hexes/Gaze of Flames (Hex)|gaze of flames]]._

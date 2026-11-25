@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Scheming Fencer
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 11d10+33 (98 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares), climb 20 ft.
-  - **Armor Class**: 25 (+7 armor, +6 Dex, +2 natural), touch 16, flat-footed 19
-  - **Base Attack**: +11; **CMB**: +14 (+16 disarm); **CMD**: 30 (+32 vs. disarm)
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Rapier|rapier]] +19 melee (1d6+8/15–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +18 melee (1d4+5/19–20) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +19 ranged (1d4+5/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +19 ranged (1d8+2/×3)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Rapier|rapier]] +19/+14/+9 melee (1d6+8/15–20) and [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +18/+13 melee (1d4+5/19–20); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +19 ranged (1d4+5/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +19/+14/+9 ranged (1d8+2/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (light blades +2, bows +1)
-  - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +3, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 3
-  - **Saves**: Fort +10, Ref +10, Will +6 (+3 vs. fear)
-  - **Abilities**: Str 16, Dex 23, Con 14, Int 13, Wis 10, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Deception|Deception]] +10, Perform (sing) +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Society|Society]] +5
-  - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Double Slice|Double Slice]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (rapier), [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Sickening Critical|Sickening Critical]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Two-Weapon Rend|Two-Weapon Rend]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (rapier), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (rapier)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 10
-  - **Treasure**: NPC gear (combat gear: potion of barkskin, potion of bull's strength, potion of cat's grace, potions of cure moderate wounds (2), potions of protection from good (CL 2nd) (2), silversheen; other gear: +1 breastplate, +1 rapier, daggers (3), masterwork composite longbow (+1 Str) with 20 arrows, masterwork dagger, belt of incredible dexterity +2, cloak of resistance +1, slippers of spider climbing, 121 gp)
-  - **Alignment**: Chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 11d10+33 (98 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares), climb 20 ft.
+- **Armor Class**: 25 (+7 armor, +6 Dex, +2 natural), touch 16, flat-footed 19
+- **Base Attack**: +11; **CMB**: +14 (+16 disarm); **CMD**: 30 (+32 vs. disarm)
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Rapier|rapier]] +19 melee (1d6+8/15–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +18 melee (1d4+5/19–20) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +19 ranged (1d4+5/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +19 ranged (1d8+2/×3)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Rapier|rapier]] +19/+14/+9 melee (1d6+8/15–20) and [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +18/+13 melee (1d4+5/19–20); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +19 ranged (1d4+5/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +19/+14/+9 ranged (1d8+2/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (light blades +2, bows +1)
+- **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +3, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 3
+- **Saves**: Fort +10, Ref +10, Will +6 (+3 vs. fear)
+- **Abilities**: Str 16, Dex 23, Con 14, Int 13, Wis 10, Cha 8
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Deception|Deception]] +10, Perform (sing) +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Society|Society]] +5
+- **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Double Slice|Double Slice]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (rapier), [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Sickening Critical|Sickening Critical]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Two-Weapon Rend|Two-Weapon Rend]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (rapier), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (rapier)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 10
+- **Treasure**: NPC gear (combat gear: potion of barkskin, potion of bull's strength, potion of cat's grace, potions of cure moderate wounds (2), potions of protection from good (CL 2nd) (2), silversheen; other gear: +1 breastplate, +1 rapier, daggers (3), masterwork composite longbow (+1 Str) with 20 arrows, masterwork dagger, belt of incredible dexterity +2, cloak of resistance +1, slippers of spider climbing, 121 gp)
+- **Alignment**: Chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A scheming fencer is a [[rangoric-srd/monsters/human/Human|human]] with 11 levels of [[rangoric-srd/classes/Fighter|fighter]]. Cosmopolitan patrons hire scheming fencers as either bodyguards or enforcers. Groups of these warriors can also serve as soldiers, guards, and protectors.
 

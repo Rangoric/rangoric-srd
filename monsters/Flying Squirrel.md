@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Flying Squirrel
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 1d8–1 (3 hp)
-  - **Initiative**: +2
-  - **Speed**: 20 ft. (4 squares), fly 40 ft. (clumsy)
-  - **Armor Class**: 14 (+2 Dex, +2 size), touch 14, flat-footed 12
-  - **Base Attack**: +0; **CMB**: +0; **CMD**: 6 (10 vs. trip)
-  - **Attack**: Bite +4 melee (1d3–4)
-  - **Full Attack**: Bite +4 melee (1d3–4)
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Glide|glide]]
-  - **Saves**: Fort +1, Ref +4, Will +1
-  - **Abilities**: Str 3, Dex 15, Con 8, Int 1, Wis 12, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+5 jumping)
-  - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics)
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary or pair
-  - **Challenge Rating**: 1/3
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 1d8–1 (3 hp)
+- **Initiative**: +2
+- **Speed**: 20 ft. (4 squares), fly 40 ft. (clumsy)
+- **Armor Class**: 14 (+2 Dex, +2 size), touch 14, flat-footed 12
+- **Base Attack**: +0; **CMB**: +0; **CMD**: 6 (10 vs. trip)
+- **Attack**: Bite +4 melee (1d3–4)
+- **Full Attack**: Bite +4 melee (1d3–4)
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Glide|glide]]
+- **Saves**: Fort +1, Ref +4, Will +1
+- **Abilities**: Str 3, Dex 15, Con 8, Int 1, Wis 12, Cha 6
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+5 jumping)
+- **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics)
+- **Environment**: Temperate forests
+- **Organization**: Solitary or pair
+- **Challenge Rating**: 1/3
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Although not capable of actual flight, a flying squirrel possesses a furry membrane stretching between its wrists and ankles, allowing it to glide for long distances.
 

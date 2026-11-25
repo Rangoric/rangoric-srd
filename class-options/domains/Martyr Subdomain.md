@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Martyr Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Nobility Domain|Nobility]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Nobility Domain|Nobility]] domain._
 
 ## Replacement Power
 
@@ -27,7 +27,7 @@ This power replaces the [[rangoric-srd/class-options/domains/Nobility Domain#Gra
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 2nd | [[rangoric-srd/spells/Shield Other\|Shield Other]] (F) | You take half of subject’s damage. |
-| 6th | [[rangoric-srd/spells/Sacrificial Oath\|Sacrificial Oath]] | Take damage for an ally for many rounds. |
+| Level | Spell                                                      | Brief Description                        |
+| ----- | ---------------------------------------------------------- | ---------------------------------------- |
+| 2nd   | [[rangoric-srd/spells/Shield Other\|Shield Other]] (F)     | You take half of subject’s damage.       |
+| 6th   | [[rangoric-srd/spells/Sacrificial Oath\|Sacrificial Oath]] | Take damage for an ally for many rounds. |

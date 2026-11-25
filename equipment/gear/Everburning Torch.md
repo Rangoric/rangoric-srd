@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/gear]
 
 # Everburning Torch
 
-This otherwise normal torch has a *[[rangoric-srd/spells/Continual Flame|continual flame]]* spell cast upon it. An everburning torch clearly illuminates a 20-foot radius and provides shadowy illumination out to a 40-foot radius.
+This otherwise normal torch has a _[[rangoric-srd/spells/Continual Flame|continual flame]]_ spell cast upon it. An everburning torch clearly illuminates a 20-foot radius and provides shadowy illumination out to a 40-foot radius.
 
 Price 110 gp; Weight 1 lb.

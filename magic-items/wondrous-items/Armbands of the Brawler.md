@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 These scarred and worn armbands have clearly seen rough use, and are constructed out of coarse leather and fastened with thick leather straps. They grant their wearer a +1 competence bonus on [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks and checks to break a grapple.
 
-Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*; Price 500 gp; Cost 250 gp; Weight 1 lb.
+Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_; Price 500 gp; Cost 250 gp; Weight 1 lb.

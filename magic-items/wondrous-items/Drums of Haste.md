@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Drums of Haste
 
-This set of kettle drums is carried on a shoulder strap and played one-handed using a single two-sided mallet. By making a DC 20 [[rangoric-srd/skills/Performance|Performance]] (percussion) check, the bearer can grant the effects of a *[[rangoric-srd/spells/Haste|haste]]* spell on up to 5 creatures. The drums can affect up to 25 creatures per day.
+This set of kettle drums is carried on a shoulder strap and played one-handed using a single two-sided mallet. By making a DC 20 [[rangoric-srd/skills/Performance|Performance]] (percussion) check, the bearer can grant the effects of a _[[rangoric-srd/spells/Haste|haste]]_ spell on up to 5 creatures. The drums can affect up to 25 creatures per day.
 
-Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Haste|haste]]*; Price 45,000 gp; Cost 22,500 gp; Weight 5 lbs.
+Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Haste|haste]]_; Price 45,000 gp; Cost 22,500 gp; Weight 5 lbs.

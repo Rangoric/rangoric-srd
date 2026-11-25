@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat]
 
 # Chaotic Mind
 
-The turbulence of your thoughts prevents others from gaining insight into your actions.  
+The turbulence of your thoughts prevents others from gaining insight into your actions.
 
 Prerequisite: Chaotic alignment, Cha 15.
 

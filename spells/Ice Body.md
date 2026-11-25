@@ -26,14 +26,14 @@ tags: [rangoric, rangoric/spell]
 
 # Ice Body
 
-*Transmutation \[Cold\]*
+_Transmutation \[Cold\]_
 
-  - **Level**: Sha 7, Sor/Wiz 7, Wit 7
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 minute/level (D)
+- **Level**: Sha 7, Sor/Wiz 7, Wit 7
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 minute/level (D)
 
 Your form transmutes into living ice, granting you several abilities. You gain the cold subtype and damage reduction 5/magic. You are immune to ability score damage, blindness, critical hits, deafness, disease, drowning, electricity, poison, stunning, and all spells or attacks that affect your physiology or respiration, because you have no physiology or respiration while this spell is in effect. You cannot drink (and thus can't use potions) or play wind instruments.
 

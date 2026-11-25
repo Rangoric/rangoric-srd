@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Protection Domain
 
-*A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
+_A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]]._
 
 **Subdomains**: [[rangoric-srd/class-options/domains/Defense Subdomain|Defense]], [[rangoric-srd/class-options/domains/Purity Subdomain|Purity]].
 
@@ -31,14 +31,14 @@ Your faith is your greatest source of protection, and you can use that faith to 
 
 ## Domain Spells
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Sanctuary\|Sanctuary]] | Opponents can’t attack you, and you can’t attack. |
-| 2nd | [[rangoric-srd/spells/Shield Other\|Shield Other]] (F) | You take half of subject’s damage. |
-| 3rd | [[rangoric-srd/spells/Protection from Energy\|Protection from Energy]] | Absorb 12 points/level of damage from one kind of energy. |
-| 4th | [[rangoric-srd/spells/Spell Immunity\|Spell Immunity]] | Subject is immune to one spell per four levels. |
-| 5th | [[rangoric-srd/spells/Spell Resistance\|Spell Resistance]] | Subject gains SR 12 + level. |
-| 6th | [[rangoric-srd/spells/Antimagic Field\|Antimagic Field]] | Negates magic within 10 ft. |
-| 7th | [[rangoric-srd/spells/Repulsion\|Repulsion]] | Creatures can’t approach you. |
-| 8th | [[rangoric-srd/spells/Mind Blank\|Mind Blank]] | Subject is immune to mental/emotional magic and scrying. |
-| 9th | [[rangoric-srd/spells/Prismatic Sphere\|Prismatic Sphere]] | As prismatic wall, but surrounds on all sides. |
+| Level | Spell                                                                  | Brief Description                                         |
+| ----- | ---------------------------------------------------------------------- | --------------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Sanctuary\|Sanctuary]]                           | Opponents can’t attack you, and you can’t attack.         |
+| 2nd   | [[rangoric-srd/spells/Shield Other\|Shield Other]] (F)                 | You take half of subject’s damage.                        |
+| 3rd   | [[rangoric-srd/spells/Protection from Energy\|Protection from Energy]] | Absorb 12 points/level of damage from one kind of energy. |
+| 4th   | [[rangoric-srd/spells/Spell Immunity\|Spell Immunity]]                 | Subject is immune to one spell per four levels.           |
+| 5th   | [[rangoric-srd/spells/Spell Resistance\|Spell Resistance]]             | Subject gains SR 12 + level.                              |
+| 6th   | [[rangoric-srd/spells/Antimagic Field\|Antimagic Field]]               | Negates magic within 10 ft.                               |
+| 7th   | [[rangoric-srd/spells/Repulsion\|Repulsion]]                           | Creatures can’t approach you.                             |
+| 8th   | [[rangoric-srd/spells/Mind Blank\|Mind Blank]]                         | Subject is immune to mental/emotional magic and scrying.  |
+| 9th   | [[rangoric-srd/spells/Prismatic Sphere\|Prismatic Sphere]]             | As prismatic wall, but surrounds on all sides.            |

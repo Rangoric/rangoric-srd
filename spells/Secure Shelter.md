@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Secure Shelter
 
-*Conjuration (Creation)*
+_Conjuration (Creation)_
 
-  - **Level**: Brd 4, Skd 4, Sor/Wiz 4, Wit 4
-  - **Components**: V, S, M, F; see text
-  - **Casting Time**: 10 minutes
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: 20-ft.-square structure
-  - **Duration**: 2 hours/level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Brd 4, Skd 4, Sor/Wiz 4, Wit 4
+- **Components**: V, S, M, F; see text
+- **Casting Time**: 10 minutes
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: 20-ft.-square structure
+- **Duration**: 2 hours/level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You conjure a sturdy cottage or lodge made of material that is common in the area where the spell is cast. The floor is level, clean, and dry. In all respects the lodging resembles a normal cottage, with a sturdy door, two shuttered windows, and a small fireplace.
 
@@ -48,6 +48,6 @@ The door, shutters, and even chimney are secure against intrusion, the former tw
 
 The secure shelter contains rude furnishings —eight bunks, a trestle table, eight stools, and a writing desk.
 
-*Material Component*: A square chip of stone, crushed lime, a few grains of sand, a sprinkling of water, and several splinters of wood. These must be augmented by the components of the unseen servant spell (string and a bit of wood) if this benefit is to be included.
+_Material Component_: A square chip of stone, crushed lime, a few grains of sand, a sprinkling of water, and several splinters of wood. These must be augmented by the components of the unseen servant spell (string and a bit of wood) if this benefit is to be included.
 
-*Focus*: The focus of the alarm spell (silver wire and a tiny bell) if this benefit is to be included.
+_Focus_: The focus of the alarm spell (silver wire and a tiny bell) if this benefit is to be included.

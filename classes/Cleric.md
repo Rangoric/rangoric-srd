@@ -45,31 +45,31 @@ The cleric’s class skills (and the key ability for each skill) are [[rangoric-
 
 **Table: The Cleric** ^table-the-cleric
 
-| Level | Special               | Spells per Day (1): 0 | Spells per Day (1): 1st | Spells per Day (1): 2nd | Spells per Day (1): 3rd | Spells per Day (1): 4th | Spells per Day (1): 5th | Spells per Day (1): 6th | Spells per Day (1): 7th | Spells per Day (1): 8th | Spells per Day (1): 9th |
-| ----- | --------------------- | --------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
-| 1st   | Aura, channel energy 1d6, turn or rebuke undead, domains, orisons | 3 | 1+1 | — | — | — | — | — | — | — | — |
-| 2nd   | — | 4 | 2+1 | — | — | — | — | — | — | — | — |
-| 3rd   | Channel energy 2d6 | 4 | 2+1 | 1+1 | — | — | — | — | — | — | — |
-| 4th   | — | 5 | 3+1 | 2+1 | — | — | — | — | — | — | — |
-| 5th   | Channel energy 3d6 | 5 | 3+1 | 2+1 | 1+1 | — | — | — | — | — | — |
-| 6th   | — | 5 | 3+1 | 3+1 | 2+1 | — | — | — | — | — | — |
-| 7th   | Channel energy 4d6 | 6 | 4+1 | 3+1 | 2+1 | 1+1 | — | — | — | — | — |
-| 8th   | — | 6 | 4+1 | 3+1 | 3+1 | 2+1 | — | — | — | — | — |
-| 9th   | Channel energy 5d6 | 6 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | — | — | — | — |
-| 10th  | — | 6 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | — | — | — | — |
-| 11th  | Channel energy 6d6 | 6 | 5+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | — | — | — |
-| 12th  | — | 6 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | — | — | — |
-| 13th  | Channel energy 7d6 | 6 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | — | — |
-| 14th  | — | 6 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | — | — |
-| 15th  | Channel energy 8d6 | 6 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 | — |
-| 16th  | — | 6 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 | — |
-| 17th  | Channel energy 9d6 | 6 | 5+1 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 2+1 | 1+1 |
-| 18th  | — | 6 | 5+1 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 |
-| 19th  | Channel energy 10d6 | 6 | 5+1 | 5+1 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 3+1 | 3+1 |
-| 20th  | — | 6 | 5+1 | 5+1 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 4+1 | 4+1 |
+| Level | Special                                                           | Spells per Day (1): 0 | Spells per Day (1): 1st | Spells per Day (1): 2nd | Spells per Day (1): 3rd | Spells per Day (1): 4th | Spells per Day (1): 5th | Spells per Day (1): 6th | Spells per Day (1): 7th | Spells per Day (1): 8th | Spells per Day (1): 9th |
+| ----- | ----------------------------------------------------------------- | --------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
+| 1st   | Aura, channel energy 1d6, turn or rebuke undead, domains, orisons | 3                     | 1+1                     | —                       | —                       | —                       | —                       | —                       | —                       | —                       | —                       |
+| 2nd   | —                                                                 | 4                     | 2+1                     | —                       | —                       | —                       | —                       | —                       | —                       | —                       | —                       |
+| 3rd   | Channel energy 2d6                                                | 4                     | 2+1                     | 1+1                     | —                       | —                       | —                       | —                       | —                       | —                       | —                       |
+| 4th   | —                                                                 | 5                     | 3+1                     | 2+1                     | —                       | —                       | —                       | —                       | —                       | —                       | —                       |
+| 5th   | Channel energy 3d6                                                | 5                     | 3+1                     | 2+1                     | 1+1                     | —                       | —                       | —                       | —                       | —                       | —                       |
+| 6th   | —                                                                 | 5                     | 3+1                     | 3+1                     | 2+1                     | —                       | —                       | —                       | —                       | —                       | —                       |
+| 7th   | Channel energy 4d6                                                | 6                     | 4+1                     | 3+1                     | 2+1                     | 1+1                     | —                       | —                       | —                       | —                       | —                       |
+| 8th   | —                                                                 | 6                     | 4+1                     | 3+1                     | 3+1                     | 2+1                     | —                       | —                       | —                       | —                       | —                       |
+| 9th   | Channel energy 5d6                                                | 6                     | 4+1                     | 4+1                     | 3+1                     | 2+1                     | 1+1                     | —                       | —                       | —                       | —                       |
+| 10th  | —                                                                 | 6                     | 4+1                     | 4+1                     | 3+1                     | 3+1                     | 2+1                     | —                       | —                       | —                       | —                       |
+| 11th  | Channel energy 6d6                                                | 6                     | 5+1                     | 4+1                     | 4+1                     | 3+1                     | 2+1                     | 1+1                     | —                       | —                       | —                       |
+| 12th  | —                                                                 | 6                     | 5+1                     | 4+1                     | 4+1                     | 3+1                     | 3+1                     | 2+1                     | —                       | —                       | —                       |
+| 13th  | Channel energy 7d6                                                | 6                     | 5+1                     | 5+1                     | 4+1                     | 4+1                     | 3+1                     | 2+1                     | 1+1                     | —                       | —                       |
+| 14th  | —                                                                 | 6                     | 5+1                     | 5+1                     | 4+1                     | 4+1                     | 3+1                     | 3+1                     | 2+1                     | —                       | —                       |
+| 15th  | Channel energy 8d6                                                | 6                     | 5+1                     | 5+1                     | 5+1                     | 4+1                     | 4+1                     | 3+1                     | 2+1                     | 1+1                     | —                       |
+| 16th  | —                                                                 | 6                     | 5+1                     | 5+1                     | 5+1                     | 4+1                     | 4+1                     | 3+1                     | 3+1                     | 2+1                     | —                       |
+| 17th  | Channel energy 9d6                                                | 6                     | 5+1                     | 5+1                     | 5+1                     | 5+1                     | 4+1                     | 4+1                     | 3+1                     | 2+1                     | 1+1                     |
+| 18th  | —                                                                 | 6                     | 5+1                     | 5+1                     | 5+1                     | 5+1                     | 4+1                     | 4+1                     | 3+1                     | 3+1                     | 2+1                     |
+| 19th  | Channel energy 10d6                                               | 6                     | 5+1                     | 5+1                     | 5+1                     | 5+1                     | 5+1                     | 4+1                     | 4+1                     | 3+1                     | 3+1                     |
+| 20th  | —                                                                 | 6                     | 5+1                     | 5+1                     | 5+1                     | 5+1                     | 5+1                     | 4+1                     | 4+1                     | 4+1                     | 4+1                     |
 
-1 *In addition to the stated number of spells per day for 1st- through 9th-level spells, a cleric gets a domain spell for each spell level, starting at 1st.  
-The “+1” in the entries on this table represents that spell. Domain spells are in addition to any bonus spells the cleric may receive for having a high Wisdom score.*
+1 _In addition to the stated number of spells per day for 1st- through 9th-level spells, a cleric gets a domain spell for each spell level, starting at 1st.  
+The “+1” in the entries on this table represents that spell. Domain spells are in addition to any bonus spells the cleric may receive for having a high Wisdom score._
 
 ###### Class Features
 
@@ -125,4 +125,4 @@ Each attempt to [[rangoric-srd/combat/Combat Special Attacks#Turn or Rebuke Unde
 
 ###### Ex-Clerics
 
-A cleric who grossly violates the code of conduct required by his god loses all spells and class features, except for armor and shield proficiencies and proficiency with simple weapons. He cannot thereafter gain levels as a cleric of that god until he atones (see the *[[rangoric-srd/spells/Atonement|atonement]]* spell description).
+A cleric who grossly violates the code of conduct required by his god loses all spells and class features, except for armor and shield proficiencies and proficiency with simple weapons. He cannot thereafter gain levels as a cleric of that god until he atones (see the _[[rangoric-srd/spells/Atonement|atonement]]_ spell description).

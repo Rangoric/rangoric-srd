@@ -28,6 +28,6 @@ Manifesting Time: 1 standard action
 Range: Personal  
 Target: You  
 Duration: 1 hour/level  
-Power Points: Psion/wilder 5, psychic warrior 3  
+Power Points: Psion/wilder 5, psychic warrior 3
 
 As the [[rangoric-srd/spells/Darkvision|darkvision]] spell, except as noted here.

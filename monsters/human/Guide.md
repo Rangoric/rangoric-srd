@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Guide
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 9d8 (40 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 17 (+5 armor, +2 Dex), touch 12, flat-footed 15
-  - **Base Attack**: +6; **CMB**: +6; **CMD**: 18
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] +7 melee (1d6) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +6 melee (1d4/19–20) or +1 [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +9 ranged (1d8+1/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] +9 ranged (1d6) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +8 ranged (1d4/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] +7/+2 melee (1d6); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +6/+1 melee (1d4/19–20); or +1 [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +9 ranged (1d8+1/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] +9 ranged (1d6); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +8 ranged (1d4/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: —
-  - **Saves**: Fort +3, Ref +5, Will +8
-  - **Abilities**: Str 10, Dex 14, Con 10, Int 11, Wis 14, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +16, [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +17, [[rangoric-srd/skills/Linguistics|Linguistics]] +9, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Society|Society]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +13
-  - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Far Shot|Far Shot]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling, Fieldcraft)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 7
-  - **Treasure**: NPC gear (combat gear: potion of spider climb, smokestick, tanglefoot bags (2); other gear: +1 chain shirt, +1 light crossbow with 20 bolts, dagger, masterwork shortspear, climber's kit, heavy horse (combat trained) with studded leather barding and horseshoes of speed, tindertwigs (5), 5 gp)
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 9d8 (40 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 17 (+5 armor, +2 Dex), touch 12, flat-footed 15
+- **Base Attack**: +6; **CMB**: +6; **CMD**: 18
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] +7 melee (1d6) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +6 melee (1d4/19–20) or +1 [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +9 ranged (1d8+1/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] +9 ranged (1d6) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +8 ranged (1d4/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] +7/+2 melee (1d6); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +6/+1 melee (1d4/19–20); or +1 [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +9 ranged (1d8+1/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] +9 ranged (1d6); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +8 ranged (1d4/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: —
+- **Saves**: Fort +3, Ref +5, Will +8
+- **Abilities**: Str 10, Dex 14, Con 10, Int 11, Wis 14, Cha 8
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +16, [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +17, [[rangoric-srd/skills/Linguistics|Linguistics]] +9, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Society|Society]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +13
+- **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Far Shot|Far Shot]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling, Fieldcraft)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 7
+- **Treasure**: NPC gear (combat gear: potion of spider climb, smokestick, tanglefoot bags (2); other gear: +1 chain shirt, +1 light crossbow with 20 bolts, dagger, masterwork shortspear, climber's kit, heavy horse (combat trained) with studded leather barding and horseshoes of speed, tindertwigs (5), 5 gp)
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A guide is a [[rangoric-srd/monsters/human/Human|human]] with 9 levels of [[rangoric-srd/classes/Expert|expert]]. Guides are trailblazers and pathfinders, master trackers and experts at finding their way through the wilderness. They are outriders and scouts par excellence, but they leave the heavy fighting to others, preferring to snipe from long range while keeping well out of harm's way.
 

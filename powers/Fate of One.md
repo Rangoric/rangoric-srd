@@ -27,7 +27,7 @@ Clairsentience
 **Range:** Personal  
 **Target:** You  
 **Duration:** Instantaneous  
-**Power Points:** 13  
+**Power Points:** 13
 
 Your limited omniscience allows you to reroll a saving throw, attack roll, or skill check. Whatever the result of the reroll, you must use it even if it is worse than the original roll.
 

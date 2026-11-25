@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Poacher
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 3d10+9 (30 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 14 (+3 armor, +1 Dex), touch 11, flat-footed 13
-  - **Base Attack**: +3; **CMB**: +6; **CMD**: 17
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Handaxe|handaxes]] +6 melee (1d6+3/×3) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +5 ranged (1d10/19–20)
-  - **Full Attack**: 2 [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Handaxe|handaxes]] +6 melee (1d6+3/×3); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +5 ranged (1d10/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (animals +2)
-  - **Special Qualities**: [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|Favored terrain]] (forest +2), [[rangoric-srd/classes/Ranger#^ranger-track|track]] +1, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +2
-  - **Saves**: Fort +5, Ref +4, Will +2
-  - **Abilities**: Str 17, Dex 12, Con 14, Int 10, Wis 13, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Nature|Nature]] +6, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +7
-  - **Feats**: [[rangoric-srd/feats/Double Slice|Double Slice]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (handaxe)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 2
-  - **Treasure**: NPC gear (combat gear: potion of bull's strength, potions of cure light wounds (2), potion of hide from animals; other gear: masterwork studded leather, masterwork handaxes (2), masterwork heavy crossbow with 20 bolts, 63 gp)
-  - **Alignment**: Chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 3d10+9 (30 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 14 (+3 armor, +1 Dex), touch 11, flat-footed 13
+- **Base Attack**: +3; **CMB**: +6; **CMD**: 17
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Handaxe|handaxes]] +6 melee (1d6+3/×3) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +5 ranged (1d10/19–20)
+- **Full Attack**: 2 [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Handaxe|handaxes]] +6 melee (1d6+3/×3); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +5 ranged (1d10/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (animals +2)
+- **Special Qualities**: [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|Favored terrain]] (forest +2), [[rangoric-srd/classes/Ranger#^ranger-track|track]] +1, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +2
+- **Saves**: Fort +5, Ref +4, Will +2
+- **Abilities**: Str 17, Dex 12, Con 14, Int 10, Wis 13, Cha 8
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Nature|Nature]] +6, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +7
+- **Feats**: [[rangoric-srd/feats/Double Slice|Double Slice]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (handaxe)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 2
+- **Treasure**: NPC gear (combat gear: potion of bull's strength, potions of cure light wounds (2), potion of hide from animals; other gear: masterwork studded leather, masterwork handaxes (2), masterwork heavy crossbow with 20 bolts, 63 gp)
+- **Alignment**: Chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A poacher is a [[rangoric-srd/monsters/human/Human|human]] with 3 levels of [[rangoric-srd/classes/Ranger|ranger]]. Poachers hunt animals for meat or trophies in areas where hunting is forbidden.
 

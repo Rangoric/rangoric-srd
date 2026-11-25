@@ -26,15 +26,15 @@ tags: [rangoric, rangoric/spell]
 
 # Flash Fire
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Sor/Wiz 3, Wit 3
-  - **Components**: V, S, M (a pinch of powdered fool's gold)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: 1 firearm
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates (object); see text
-  - **Spell Resistance**: Yes (object); see text
+- **Level**: Sor/Wiz 3, Wit 3
+- **Components**: V, S, M (a pinch of powdered fool's gold)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: 1 firearm
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates (object); see text
+- **Spell Resistance**: Yes (object); see text
 
 The [[rangoric-srd/equipment/Firearms|firearm]] fires with a blinding flash, even if the firearm is not currently loaded. Every creature within 15 feet of the creature carrying the weapon must succeed at a Fortitude save or be blinded for 1d4 rounds. The creature carrying the firearm takes a –4 penalty on this saving throw. If the firearm is loaded, the ammunition is wasted.

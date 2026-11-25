@@ -23,4 +23,4 @@ Wrought from cold iron, this rod allows its wielder to escape from even the tigh
 
 The rod's wielder gains a +5 competence bonus on [[rangoric-srd/skills/Escape Artist|Escape Artist]] checks when restrained by nonmagical and inanimate means, such as ropes or manacles. The rod's owner does not need to be holding the rod to gains this bonus; it must merely be on the owner's person.
 
-Faint evocation; CL 5th; [[rangoric-srd/feats/Craft Rod|Craft Rod]], *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*, *[[rangoric-srd/spells/Cat’s Grace|cat's grace]]*, *[[rangoric-srd/spells/Shatter|shatter]]*; Price 15,000 gp; Cost 7,500 gp.
+Faint evocation; CL 5th; [[rangoric-srd/feats/Craft Rod|Craft Rod]], _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_, _[[rangoric-srd/spells/Shatter|shatter]]_; Price 15,000 gp; Cost 7,500 gp.

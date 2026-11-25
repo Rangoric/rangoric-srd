@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Blinded
 
-*A [[rangoric-srd/classes/Antipaladin#^antipaladin-cruelty|cruelty]], available from 12th level.*
+_A [[rangoric-srd/classes/Antipaladin#^antipaladin-cruelty|cruelty]], available from 12th level._
 
 The target is [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 1 round per level of the antipaladin.

@@ -25,13 +25,13 @@ tags: [rangoric, rangoric/spell]
 
 # Beastspeak
 
-*Divination*
+_Divination_
 
-  - **Level**: Drd 2, Hun 2, Sha 2, Wit 2
-  - **Components**: S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 10 minutes/level
+- **Level**: Drd 2, Hun 2, Sha 2, Wit 2
+- **Components**: S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 10 minutes/level
 
 When you're in the form of an animal (such as when you are using wild shape or are affected by a polymorph effect), you can speak normally, including when you cast spells with verbal components, and you sound like your normal self when you speak. You can cast this spell while in animal form, using animal-appropriate somatic components.

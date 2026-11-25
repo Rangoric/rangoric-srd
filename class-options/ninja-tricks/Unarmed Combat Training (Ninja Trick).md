@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Unarmed Combat Training
 
-*A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]].*
+_A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]]._
 
 A ninja who selects this ninja trick gains [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]] as a bonus feat.

@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/armor]
 
 # Spaulders
 
-*Armor extra.* Cost 10 gp; Maximum Dex Bonus –2; Armor Check Penalty –1; Arcane Spell Failure 20%; Weight 3 lb. ^stats
+_Armor extra._ Cost 10 gp; Maximum Dex Bonus –2; Armor Check Penalty –1; Arcane Spell Failure 20%; Weight 3 lb. ^stats
 
 Spaulders (which almost always come in pairs) are components of a full suit of plate armor, and cover the wearer’s outer shoulders and upper arms. They are built out of interlocking plates that allow a person full arm mobility, and are either bolted directly into armor or attached to a doublet through a number of eyelets. Some adventurers who prefer not to wear heavy, cumbersome armor attach spaulders to leather or hide tunics.
 

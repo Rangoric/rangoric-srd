@@ -21,4 +21,4 @@ Crafted from pure ice and strung with hair from the mane of a unicorn, this migh
 
 Three times per day (but no more than once per round), the wielder can draw upon the bow’s enormous power to imbue a single arrow with the power to deal an additional 10d6 points of cold damage on impact, with a Fort save (DC 17) for half damage.
 
-Strong evocation; CL 12th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Cone of Cold|cone of cold]]*; Price 152,800 gp; Cost 76,400 gp + 6,112 XP.
+Strong evocation; CL 12th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Cone of Cold|cone of cold]]_; Price 152,800 gp; Cost 76,400 gp + 6,112 XP.

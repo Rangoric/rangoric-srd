@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Catfolk Ranger
 
-*A [[rangoric-srd/races/Catfolk|catfolk]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Ranger#^ranger-class-bonuses|ranger]] level.*
+_A [[rangoric-srd/races/Catfolk|catfolk]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Ranger#^ranger-class-bonuses|ranger]] level._
 
 Choose a weapon from the following list: [[rangoric-srd/races/racial-traits/Cat's Claws|claws]], kukri, longbow, longsword, short spear, or shortbow. Add +1/2 on critical hit confirmation rolls made while using that weapon (maximum bonus of +4). This bonus does not stack with [[rangoric-srd/feats/Critical Focus|Critical Focus]].

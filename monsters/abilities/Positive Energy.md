@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Positive Energy
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “positive energy”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “positive energy”, on the Special Attacks line.
 
 A jyoti's natural weapons and any weapons it wields strike as if they were ghost touch weapons. In addition, any weapon (natural or manufactured) a jyoti uses deals +1d6 fire damage on a hit. The [[rangoric-srd/monsters/Jyoti|jyoti]] has it.

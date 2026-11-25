@@ -35,15 +35,15 @@ tags: [rangoric, rangoric/spell]
 
 # Inflict Pain, Mass
 
-*Enchantment \[MindAffecting, Pain\]*
+_Enchantment \[MindAffecting, Pain\]_
 
-  - **Level**: Apl 4, Inq 5, Med 4, Mes 5, Occ 5, Psy 6, Sor/Wiz 7, Spi 5, Wit 7
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature/level, no two of which can be more than 30 ft. apart.
-  - **Duration**: Caster level round(s)
-  - **Saving Throw**: Will partial; see text
-  - **Spell Resistance**: Yes
+- **Level**: Apl 4, Inq 5, Med 4, Mes 5, Occ 5, Psy 6, Sor/Wiz 7, Spi 5, Wit 7
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature/level, no two of which can be more than 30 ft. apart.
+- **Duration**: Caster level round(s)
+- **Saving Throw**: Will partial; see text
+- **Spell Resistance**: Yes
 
 This spell functions like [[rangoric-srd/spells/Inflict Pain (Spell)|inflict pain]] except as noted above.

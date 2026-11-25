@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Serpentfolk Hunter
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
-  - **Hit Dice**: 7d10+28 (66 hp)
-  - **Initiative**: +7
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 20 (+3 Dex, +7 natural), touch 13, flat-footed 17
-  - **Base Attack**: +7; **CMB**: +13; **CMD**: 26
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +14 melee (1d6+6/18–20) or bite +13 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or +1 [[rangoric-srd/equipment/weapons/Composite Shortbow|composite shortbow]] +12 ranged (1d6+7/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +14/+9 melee (1d6+6/18–20) and bite +8 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Poison|poison]]); or +1 [[rangoric-srd/equipment/weapons/Composite Shortbow|composite shortbow]] +12/+7 ranged (1d6+7/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (archery), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (humans +2), [[rangoric-srd/monsters/abilities/Poison|poison]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/classes/Ranger#^ranger-track|track]] +1, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +1, immunity to mind-affecting effects, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and poison, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17
-  - **Saves**: Fort +10, Ref +10, Will +4
-  - **Abilities**: Str 22, Dex 17, Con 19, Int 8, Wis 11, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +5, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +14, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6 (+7 to identify or follow tracks), [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Nature|Nature]] +3, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +12
-  - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (composite shortbow)
-  - **Environment**: Any land (usually jungles or underground)
-  - **Organization**: Solitary, or with other serpentfolk (see [[rangoric-srd/monsters/serpentfolk/Serpentfolk|Serpentfolk]])
-  - **Challenge Rating**: 6
-  - **Treasure**: NPC gear (combat gear: +1 human-bane arrows (4), potions of cure moderate wounds (2); other gear: +1 composite shortbow with 20 arrows, masterwork scimitar, 95 gp)
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
+- **Hit Dice**: 7d10+28 (66 hp)
+- **Initiative**: +7
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 20 (+3 Dex, +7 natural), touch 13, flat-footed 17
+- **Base Attack**: +7; **CMB**: +13; **CMD**: 26
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +14 melee (1d6+6/18–20) or bite +13 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or +1 [[rangoric-srd/equipment/weapons/Composite Shortbow|composite shortbow]] +12 ranged (1d6+7/×3)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +14/+9 melee (1d6+6/18–20) and bite +8 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Poison|poison]]); or +1 [[rangoric-srd/equipment/weapons/Composite Shortbow|composite shortbow]] +12/+7 ranged (1d6+7/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (archery), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (humans +2), [[rangoric-srd/monsters/abilities/Poison|poison]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/classes/Ranger#^ranger-track|track]] +1, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +1, immunity to mind-affecting effects, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and poison, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17
+- **Saves**: Fort +10, Ref +10, Will +4
+- **Abilities**: Str 22, Dex 17, Con 19, Int 8, Wis 11, Cha 8
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +5, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +14, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6 (+7 to identify or follow tracks), [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Nature|Nature]] +3, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +12
+- **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (composite shortbow)
+- **Environment**: Any land (usually jungles or underground)
+- **Organization**: Solitary, or with other serpentfolk (see [[rangoric-srd/monsters/serpentfolk/Serpentfolk|Serpentfolk]])
+- **Challenge Rating**: 6
+- **Treasure**: NPC gear (combat gear: +1 human-bane arrows (4), potions of cure moderate wounds (2); other gear: +1 composite shortbow with 20 arrows, masterwork scimitar, 95 gp)
+- **Alignment**: Usually neutral evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A serpentfolk hunter is a [[rangoric-srd/monsters/serpentfolk/Serpentfolk|serpentfolk]] with 2 levels of [[rangoric-srd/classes/Ranger|ranger]]. Serpentfolk hunters are adept at sneaking through the shadows of their subterranean homes to slay those who dare to cross into its borders, as well as at tracking their prey into the dangerous brightness of the world above.
 

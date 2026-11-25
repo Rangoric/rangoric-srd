@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Star Chart
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Heavens Mystery|heavens]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Heavens Mystery|heavens]] mystery._
 
-Your copious notes contain a working model of the night sky expressed in artistic scribbles and arcane mathematical formulae. Once per day, you may spend 10 minutes contemplating your star chart to gain the benefit of the spell *[[rangoric-srd/spells/Commune|commune]]*. You must be at least 7th level to select this revelation.
+Your copious notes contain a working model of the night sky expressed in artistic scribbles and arcane mathematical formulae. Once per day, you may spend 10 minutes contemplating your star chart to gain the benefit of the spell _[[rangoric-srd/spells/Commune|commune]]_. You must be at least 7th level to select this revelation.

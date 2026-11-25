@@ -30,16 +30,16 @@ tags: [rangoric, rangoric/spell]
 
 # Gust of Wind
 
-*Evocation \[Air\]*
+_Evocation \[Air\]_
 
-  - **Level**: Blr 2, Drd 2, Hun 2, Mag 2, Occ 2, Sor/Wiz 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: 60 ft.
-  - **Effect**: Line-shaped gust of severe wind emanating out from you to the extreme of the range
-  - **Duration**: 1 round
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Blr 2, Drd 2, Hun 2, Mag 2, Occ 2, Sor/Wiz 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: 60 ft.
+- **Effect**: Line-shaped gust of severe wind emanating out from you to the extreme of the range
+- **Duration**: 1 round
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
 This spell creates a severe blast of air (approximately 50 mph) that originates from you, affecting all creatures in its path.
 

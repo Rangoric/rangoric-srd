@@ -12,6 +12,6 @@ tags: [rangoric, rangoric/feat]
 
 # Second Sight (Feat)
 
-You can see *fey masked* creatures and *fey doorways* when others cannot.
+You can see _fey masked_ creatures and _fey doorways_ when others cannot.
 
-**Benefit**: The character has the ability to see fey *[[rangoric-srd/rules/Fey Roads and Doorways#Doorways|doorways]]* and fey under the influence of the *[[rangoric-srd/spells/Fey Mask|fey mask]]* spell. All masked creatures seen using this ability appear as ghostly images, allowing objects and creatures beyond to be seen as well. The character can also see creatures through a *doorway* that would normally be unseen. In the case of seeing people through a *doorway*, they appear superimposed over the local surroundings, not in that of their location.
+**Benefit**: The character has the ability to see fey _[[rangoric-srd/rules/Fey Roads and Doorways#Doorways|doorways]]_ and fey under the influence of the _[[rangoric-srd/spells/Fey Mask|fey mask]]_ spell. All masked creatures seen using this ability appear as ghostly images, allowing objects and creatures beyond to be seen as well. The character can also see creatures through a _doorway_ that would normally be unseen. In the case of seeing people through a _doorway_, they appear superimposed over the local surroundings, not in that of their location.

@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Centipede
 
-*A [[rangoric-srd/class-options/archetypes/hunter/Verminous Hunter (Archetype)|vermin focus]] (Su), which a verminous hunter takes in place of the [[rangoric-srd/classes/Hunter#^hunter-animal-focus|animal focus]].*
+_A [[rangoric-srd/class-options/archetypes/hunter/Verminous Hunter (Archetype)|vermin focus]] (Su), which a verminous hunter takes in place of the [[rangoric-srd/classes/Hunter#^hunter-animal-focus|animal focus]]._
 
 The creature gains a +2 competence bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks to climb and a +2 bonus to [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] against [[rangoric-srd/monsters/abilities/Pull|pull]], [[rangoric-srd/monsters/abilities/Push|push]], [[rangoric-srd/combat/Combat Maneuvers#Reposition|reposition]], and [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] combat maneuvers. These bonuses increase to +4 at 8th level and +6 at 15th level.

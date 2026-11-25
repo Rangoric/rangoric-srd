@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Multi-Headed
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “multi-headed”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “multi-headed”, on the Special Qualities line.
 
 All three of a gorynych's heads can act independently of each other. When it makes a full attack, each head can either bite or use its breath weapon, in any combination (two bites and one breath, three breaths and no bites, and so on). The [[rangoric-srd/monsters/Gorynych|gorynych]] has it.

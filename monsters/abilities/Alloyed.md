@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Alloyed
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “alloyed”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “alloyed”, on the Special Qualities line.
 
 A cannon golem's slam and cannon attacks count as adamantine, cold iron, and silver for the purpose of overcoming damage reduction. The [[rangoric-srd/monsters/golem/Cannon Golem|cannon golem]] has it.

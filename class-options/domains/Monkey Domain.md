@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Monkey Domain
 
-*A druid domain, which a [[rangoric-srd/classes/Druid|druid]] can take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]; clerics can’t take it.*
+_A druid domain, which a [[rangoric-srd/classes/Druid|druid]] can take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]; clerics can’t take it._
 
 ## Granted Powers
 
@@ -26,14 +26,14 @@ The balanced wisdom, skill, agility, and playfulness of the monkey are the model
 
 ## Domain Spells
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Beguiling Gift\|Beguiling Gift]] (F) | Subject immediately accepts an offered item and uses it. |
-| 2nd | [[rangoric-srd/spells/Spider Climb\|Spider Climb]] (M) | Grants ability to walk on walls and ceilings. |
-| 3rd | [[rangoric-srd/spells/Cacophonous Call\|Cacophonous Call]] (M) | Nauseates target. |
-| 4th | [[rangoric-srd/spells/Freedom of Movement\|Freedom of Movement]] (M) | Subject moves normally despite impediments. |
-| 5th | [[rangoric-srd/spells/Summon Nature’s Ally V\|Summon Nature’s Ally V]] (dire ape or girallon only) | Calls creature to fight. |
-| 6th | [[rangoric-srd/spells/Confusion\|Confusion]] | Subjects behave oddly for 1 round/level. |
-| 7th | [[rangoric-srd/spells/Animal Shapes\|Animal Shapes]] (apes and monkeys only) | One ally/level polymorphs into chosen animal. |
-| 8th | [[rangoric-srd/spells/Clenched Fist\|Clenched Fist]] | Large hand provides cover, pushes, or attacks your foes. |
-| 9th | [[rangoric-srd/spells/Foresight\|Foresight]] | “Sixth sense” warns of impending danger. |
+| Level | Spell                                                                                              | Brief Description                                        |
+| ----- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Beguiling Gift\|Beguiling Gift]] (F)                                         | Subject immediately accepts an offered item and uses it. |
+| 2nd   | [[rangoric-srd/spells/Spider Climb\|Spider Climb]] (M)                                             | Grants ability to walk on walls and ceilings.            |
+| 3rd   | [[rangoric-srd/spells/Cacophonous Call\|Cacophonous Call]] (M)                                     | Nauseates target.                                        |
+| 4th   | [[rangoric-srd/spells/Freedom of Movement\|Freedom of Movement]] (M)                               | Subject moves normally despite impediments.              |
+| 5th   | [[rangoric-srd/spells/Summon Nature’s Ally V\|Summon Nature’s Ally V]] (dire ape or girallon only) | Calls creature to fight.                                 |
+| 6th   | [[rangoric-srd/spells/Confusion\|Confusion]]                                                       | Subjects behave oddly for 1 round/level.                 |
+| 7th   | [[rangoric-srd/spells/Animal Shapes\|Animal Shapes]] (apes and monkeys only)                       | One ally/level polymorphs into chosen animal.            |
+| 8th   | [[rangoric-srd/spells/Clenched Fist\|Clenched Fist]]                                               | Large hand provides cover, pushes, or attacks your foes. |
+| 9th   | [[rangoric-srd/spells/Foresight\|Foresight]]                                                       | “Sixth sense” warns of impending danger.                 |

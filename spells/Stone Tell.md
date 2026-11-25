@@ -25,14 +25,14 @@ tags: [rangoric, rangoric/spell]
 
 # Stone Tell
 
-*Divination*
+_Divination_
 
-  - **Level**: Drd 6, Hun 6, Psy 6, Sha 7
-  - **Components**: V, S, DF
-  - **Casting Time**: 10 minutes
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 min./level
+- **Level**: Drd 6, Hun 6, Psy 6, Sha 7
+- **Components**: V, S, DF
+- **Casting Time**: 10 minutes
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 min./level
 
 You gain the ability to speak with stones, which relate to you who or what has touched them as well as revealing what is covered or concealed behind or under them. The stones relate complete descriptions if asked. A stone’s perspective, perception, and knowledge may prevent the stone from providing the details you are looking for.
 

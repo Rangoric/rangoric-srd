@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades]
 
 # Cinqueda
 
-*Martial light melee weapon.* Cost 15 gp; Dmg 1d4 (S), 2d3 (M); Critical x3; Weight 3 lb.; Type Piercing. ^stats
+_Martial light melee weapon._ Cost 15 gp; Dmg 1d4 (S), 2d3 (M); Critical x3; Weight 3 lb.; Type Piercing. ^stats
 
 This is the classic “five-finger” Italian shortsword. The base of its blade is as broad as a hand, tapering quickly up to a narrow point.

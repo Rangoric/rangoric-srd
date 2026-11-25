@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, metapsionic]
 
 # Burrowing Power
 
-Your powers sometimes bypass barriers.  
+Your powers sometimes bypass barriers.
 
 Benefit: To use this feat, you must expend your psionic focus. You can attempt to manifest your powers against targets that are sheltered behind a [[rangoric-srd/spells/Wall of Force|wall or force]] effect. Your power briefly skips through the Astral Plane to bypass the barrier.
 

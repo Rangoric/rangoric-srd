@@ -53,18 +53,18 @@ The white alchemist’s class skills (and the key ability for each skill) are [[
 
 **Table: The White Alchemist** ^table-the-white-alchemist
 
-| Level | Special | Spells per Day |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/feats/Craft Toxins\|Craft Toxins]] | +1 level of existing class |
-| 2nd | — | +1 level of existing class |
-| 3rd | [[rangoric-srd/feats/Brew Ingestibles\|Brew Ingestibles]] | +1 level of existing class |
-| 4th | — | +1 level of existing class |
-| 5th | [[rangoric-srd/feats/Craft Powders & Dusts\|Craft Powders & Dusts]] | +1 level of existing class |
-| 6th | — | +1 level of existing class |
-| 7th | [[rangoric-srd/feats/Craft Unguents\|Craft Unguents]] | +1 level of existing class |
-| 8th | Enhance medicinals | +1 level of existing class |
-| 9th | [[rangoric-srd/feats/Craft Wondrous Item\|Craft Wondrous Item]] | +1 level of existing class |
-| 10th | Perfect medicinals | +1 level of existing class |
+| Level | Special                                                             | Spells per Day             |
+| ----- | ------------------------------------------------------------------- | -------------------------- |
+| 1st   | [[rangoric-srd/feats/Craft Toxins\|Craft Toxins]]                   | +1 level of existing class |
+| 2nd   | —                                                                   | +1 level of existing class |
+| 3rd   | [[rangoric-srd/feats/Brew Ingestibles\|Brew Ingestibles]]           | +1 level of existing class |
+| 4th   | —                                                                   | +1 level of existing class |
+| 5th   | [[rangoric-srd/feats/Craft Powders & Dusts\|Craft Powders & Dusts]] | +1 level of existing class |
+| 6th   | —                                                                   | +1 level of existing class |
+| 7th   | [[rangoric-srd/feats/Craft Unguents\|Craft Unguents]]               | +1 level of existing class |
+| 8th   | Enhance medicinals                                                  | +1 level of existing class |
+| 9th   | [[rangoric-srd/feats/Craft Wondrous Item\|Craft Wondrous Item]]     | +1 level of existing class |
+| 10th  | Perfect medicinals                                                  | +1 level of existing class |
 
 ###### Class Features
 
@@ -76,11 +76,11 @@ All of the following are class features of the white alchemist prestige class.
 
 **Bonus Feats**: At 1st level and at every odd level thereafter, white alchemists gain a bonus item creation feat tied to their specialties: 1st, [[rangoric-srd/feats/Craft Toxins|Craft Toxins]]; 3rd, [[rangoric-srd/feats/Brew Ingestibles|Brew Ingestibles]]; 5th, [[rangoric-srd/feats/Craft Powders & Dusts|Craft Powders & Dusts]]; 7th, [[rangoric-srd/feats/Craft Unguents|Craft Unguents]]; 9th, [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]]. If the character does not meet the prerequisites for the feat, it cannot be used until they are met (a character may have knowledge of [[rangoric-srd/feats/Create Alchana|Create Alchana]] but cannot use it until she gains [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], etc.) ^white-alchemist-bonus-feats
 
-*Important:* These feats are in addition to the feats a character of any class gets as she rises in level. The white alchemist is not limited to the list given here when choosing those feats.
+_Important:_ These feats are in addition to the feats a character of any class gets as she rises in level. The white alchemist is not limited to the list given here when choosing those feats.
 
 **Medicinals**: The white alchemist can boost the efficacy of any healing or curative substances, whether they are herbal, alchemical, or magical in nature (potions, herbal restoratives, [[rangoric-srd/actions/First Aid|first aid]] with a [[rangoric-srd/equipment/gear/Healer's Kit|healer’s kit]], etc.), due to expanded knowledge of healing and the body. ^white-alchemist-medicinals
 
-- *Enhance* (8th level): The curative gains a +1 per die of effectiveness for hit point restoration or it provides the victim a +1 competence bonus on an additional Fortitude save. ^white-alchemist-enhance-medicinals
-- *Perfect* (10th level): The curative operates at maximum efficiency and provides the best amount of healing or medicine it is designed to do (totally negate a poison, maximize a healing draught’s effects, etc.). ^white-alchemist-perfect-medicinals
+- _Enhance_ (8th level): The curative gains a +1 per die of effectiveness for hit point restoration or it provides the victim a +1 competence bonus on an additional Fortitude save. ^white-alchemist-enhance-medicinals
+- _Perfect_ (10th level): The curative operates at maximum efficiency and provides the best amount of healing or medicine it is designed to do (totally negate a poison, maximize a healing draught’s effects, etc.). ^white-alchemist-perfect-medicinals
 
 **Note on Stonecrafting**: As white alchemists are focused on adapting, perfecting, and healing organic and living matter, they can only create the following Alchana Stones (after gaining [[rangoric-srd/feats/Create Greater Alchana|Create Greater Alchana]] and its prerequisites): [[rangoric-srd/equipment/alchemical-items/Alchemist’s Stone|Alchemist’s Stone]], [[rangoric-srd/equipment/alchemical-items/Healer’s Stone|Healer’s Stone]] (the Five Stones are alchemy’s greater alchana; see [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Alchana|Alchana]]). ^white-alchemist-stonecrafting

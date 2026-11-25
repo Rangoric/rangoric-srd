@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Vine Strike
 
-*Conjuration (Creation)*
+_Conjuration (Creation)_
 
-  - **Level**: Alc 2, Apl 2, Blr 2, Drd 2, Hun 2, Rgr 2, Sor/Wiz 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: Caster level minute(s)
-  - **Saving Throw**: Reflex negates (see text)
-  - **Spell Resistance**: Yes
+- **Level**: Alc 2, Apl 2, Blr 2, Drd 2, Hun 2, Rgr 2, Sor/Wiz 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: Caster level minute(s)
+- **Saving Throw**: Reflex negates (see text)
+- **Spell Resistance**: Yes
 
 Bristles burst from your body, lodging in your opponent and blossoming into entangling vines as you pummel your target. While this spell is in effect, one of your natural attacks or unarmed strikes deals an additional 1d6 points of damage, and each creature hit with that natural weapon or unarmed strike must succeed at a Reflex save or be entangled for the duration of the spell; on a successful Reflex save, the creature is immune to the entangled effect for 1 round. A creature entangled by this spell can spend a standard action to remove the vines, but can be entangled again by further unarmed strikes.

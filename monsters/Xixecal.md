@@ -65,7 +65,7 @@ Organization: Solitary or in the company of 1d4+1 old white dragons    
 Challenge Rating: 36      
 Treasure: Standard      
 Alignment: Always chaotic evil      
-Advancement: 73-150 HD (Colossal)      
+Advancement: 73-150 HD (Colossal)    
 
 A xixecal’s natural weapons are treated as epic, evil, and chaotic-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
@@ -75,11 +75,11 @@ Rend (Ex): If the xixecal hits with both claw attacks, it latches onto the oppon
 
 Cold (Su): A hit from a xixecal’s melee attack induces numbing cold. The opponent must succeed at a Fortitude save (DC 58) or be affected as though by a [[rangoric-srd/spells/Slow|slow]] spell for 10 rounds. The DC is Charisma-based.
 
-Spell-Like Abilities: Caster level 36th; save DC 22 + spell level. The DC is Charisma-based.  
+Spell-Like Abilities: Caster level 36th; save DC 22 + spell level. The DC is Charisma-based.
 
-At will - [[rangoric-srd/spells/Blasphemy|blasphemy]], [[rangoric-srd/spells/Cone of Cold|cone of cold]], [[rangoric-srd/spells/Desecrate|desecrate]], [[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Dominate Monster|dominate monster]], [[rangoric-srd/spells/Hold Person|hold person]], [[rangoric-srd/spells/Invisibility, Greater|greater invisibility]], [[rangoric-srd/spells/Unholy Aura|unholy aura]], [[rangoric-srd/spells/Wall of Ice|wall of ice]];  
+At will - [[rangoric-srd/spells/Blasphemy|blasphemy]], [[rangoric-srd/spells/Cone of Cold|cone of cold]], [[rangoric-srd/spells/Desecrate|desecrate]], [[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Dominate Monster|dominate monster]], [[rangoric-srd/spells/Hold Person|hold person]], [[rangoric-srd/spells/Invisibility, Greater|greater invisibility]], [[rangoric-srd/spells/Unholy Aura|unholy aura]], [[rangoric-srd/spells/Wall of Ice|wall of ice]];
 
-5/day - [[rangoric-srd/spells/Haste|haste]], [[rangoric-srd/spells/Meteor Swarm|meteor swarm]].  
+5/day - [[rangoric-srd/spells/Haste|haste]], [[rangoric-srd/spells/Meteor Swarm|meteor swarm]].
 
 Breath Weapon (Su): Cone of cold, 300 feet, 3/day, damage 12d6, Fort half DC 61. The DC is Constitution-based.
 

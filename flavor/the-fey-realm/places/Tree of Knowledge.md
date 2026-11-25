@@ -21,12 +21,12 @@ The Tree of Knowledge is in reality an enormous [[rangoric-srd/monsters/Treant|t
 
 **Personalities:** [[rangoric-srd/flavor/the-fey-realm/personalities/King Eberelgolan|King Eberelgolan]]; [[rangoric-srd/flavor/the-fey-realm/personalities/Queen Verenestra|Queen Verenestra]]; the Tree-speaker
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* King Eberelgolan knows as much about FaerieLand as Queen Titania or Queen Maeve, though some say he knows more because he can speak with all creatures of Nature quite easily.
+_Common:_ King Eberelgolan knows as much about FaerieLand as Queen Titania or Queen Maeve, though some say he knows more because he can speak with all creatures of Nature quite easily.
 
-*Uncommon:* Queen Verenestra lives within the heartwood of Eberelgolan.
+_Uncommon:_ Queen Verenestra lives within the heartwood of Eberelgolan.
 
-*Rare:* Queen Verenestra, through her symbiotic union with Eberelgolan, often imparts her knowledge to help dispense wisdom and guidance to fey of their region.
+_Rare:_ Queen Verenestra, through her symbiotic union with Eberelgolan, often imparts her knowledge to help dispense wisdom and guidance to fey of their region.
 
-*Obscure:* King Eberelgolan hides a *doorway* to the Great Stone Ring beneath his roots.
+_Obscure:_ King Eberelgolan hides a _doorway_ to the Great Stone Ring beneath his roots.

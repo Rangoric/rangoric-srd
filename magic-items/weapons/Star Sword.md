@@ -20,4 +20,4 @@ This +2 [[rangoric-srd/magic-items/weapon-abilities/Keen|keen]] [[rangoric-srd/m
 
 The sword won't stay parted from its rightful wielder: if it is stolen, it returns to the wielder within a day. The wielder can give it away freely, and whoever receives it that way becomes its rightful wielder.
 
-CL 11th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/rules/star magic/constellations/The Sword|The Sword]]*, *[[rangoric-srd/rules/star magic/stars/Star of Light|Star of Light]]*, *[[rangoric-srd/spells/Keen Edge|keen edge]]*; Price 33,000 gp; Cost 15,500 gp + 1,320 XP.
+CL 11th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/rules/star magic/constellations/The Sword|The Sword]]_, _[[rangoric-srd/rules/star magic/stars/Star of Light|Star of Light]]_, _[[rangoric-srd/spells/Keen Edge|keen edge]]_; Price 33,000 gp; Cost 15,500 gp + 1,320 XP.

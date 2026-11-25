@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Honor Guard
 
-*A [[rangoric-srd/classes/Cavalier#^cavalier-archetypes|cavalier]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Cavalier#^cavalier-archetypes|cavalier]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Certain cavaliers are trained not as advance combatants, but as loyal guards, standing as firm defenders in the face of threats to their chosen charge. These honor guards are sometimes merely ornamental, performing their functions on a ceremonial basis, but a surprising number are capable, deadly opponents, able to take down a threat long before their liege knows of the danger. To be an honor guard is to constantly place one's self in harm's way, and to always be willing to lay down one's life at a moment's notice.
 

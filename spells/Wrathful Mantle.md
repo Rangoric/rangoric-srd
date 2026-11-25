@@ -29,15 +29,15 @@ tags: [rangoric, rangoric/spell]
 
 # Wrathful Mantle
 
-*Evocation \[Force, Light\]*
+_Evocation \[Force, Light\]_
 
-  - **Level**: Clr 3, Pal 3
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch or 5 ft.; see text
-  - **Target**: Creature touched or all creatures within 5 ft.; see text
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Clr 3, Pal 3
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch or 5 ft.; see text
+- **Target**: Creature touched or all creatures within 5 ft.; see text
+- **Duration**: 1 minute/level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-A shimmering mantle of light shrouds the subject, casting light like a torch. The subject of the spell gains a +1 resistance bonus on all saving throws per four caster levels (maximum +5 at 20th level). The subject can end the *wrathful mantle* at any time as a swift action to deal 2d8 points of force damage to all creatures within 5 feet.
+A shimmering mantle of light shrouds the subject, casting light like a torch. The subject of the spell gains a +1 resistance bonus on all saving throws per four caster levels (maximum +5 at 20th level). The subject can end the _wrathful mantle_ at any time as a swift action to deal 2d8 points of force damage to all creatures within 5 feet.

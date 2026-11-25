@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Strength Domain
 
-*A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
+_A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]]._
 
 **Subdomains**: [[rangoric-srd/class-options/domains/Ferocity Subdomain|Ferocity]], [[rangoric-srd/class-options/domains/Resolve Subdomain|Resolve]].
 
@@ -31,14 +31,14 @@ In strength and brawn there is truth—your faith gives you incredible might and
 
 ## Domain Spells
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Enlarge Person\|Enlarge Person]] | Humanoid creature doubles in size. |
-| 2nd | [[rangoric-srd/spells/Bull’s Strength\|Bull’s Strength]] | Subject gains +4 to Str for 1 min./level. |
-| 3rd | [[rangoric-srd/spells/Magic Vestment\|Magic Vestment]] | Armor or shield gains +1 enhancement per four levels. |
-| 4th | [[rangoric-srd/spells/Spell Immunity\|Spell Immunity]] | Subject is immune to one spell per four levels. |
-| 5th | [[rangoric-srd/spells/Righteous Might\|Righteous Might]] | Your size increases, and you gain combat bonuses. |
-| 6th | [[rangoric-srd/spells/Stoneskin\|Stoneskin]] (M) | Ignore 10 points of damage per attack. |
-| 7th | [[rangoric-srd/spells/Grasping Hand\|Grasping Hand]] | Large hand provides cover, pushes, or [[rangoric-srd/combat/Combat Maneuvers#Grapple\|grapples]]. |
-| 8th | [[rangoric-srd/spells/Clenched Fist\|Clenched Fist]] | Large hand provides cover, pushes, or attacks your foes. |
-| 9th | [[rangoric-srd/spells/Crushing Hand\|Crushing Hand]] | Large hand provides cover, pushes, or crushes your foes. |
+| Level | Spell                                                    | Brief Description                                                                                 |
+| ----- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Enlarge Person\|Enlarge Person]]   | Humanoid creature doubles in size.                                                                |
+| 2nd   | [[rangoric-srd/spells/Bull’s Strength\|Bull’s Strength]] | Subject gains +4 to Str for 1 min./level.                                                         |
+| 3rd   | [[rangoric-srd/spells/Magic Vestment\|Magic Vestment]]   | Armor or shield gains +1 enhancement per four levels.                                             |
+| 4th   | [[rangoric-srd/spells/Spell Immunity\|Spell Immunity]]   | Subject is immune to one spell per four levels.                                                   |
+| 5th   | [[rangoric-srd/spells/Righteous Might\|Righteous Might]] | Your size increases, and you gain combat bonuses.                                                 |
+| 6th   | [[rangoric-srd/spells/Stoneskin\|Stoneskin]] (M)         | Ignore 10 points of damage per attack.                                                            |
+| 7th   | [[rangoric-srd/spells/Grasping Hand\|Grasping Hand]]     | Large hand provides cover, pushes, or [[rangoric-srd/combat/Combat Maneuvers#Grapple\|grapples]]. |
+| 8th   | [[rangoric-srd/spells/Clenched Fist\|Clenched Fist]]     | Large hand provides cover, pushes, or attacks your foes.                                          |
+| 9th   | [[rangoric-srd/spells/Crushing Hand\|Crushing Hand]]     | Large hand provides cover, pushes, or crushes your foes.                                          |

@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Flumph
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 2d8 (9 hp)
-  - **Initiative**: +3
-  - **Speed**: 5 ft. (1 square), fly 20 ft. (perfect)
-  - **Armor Class**: 18 (+3 Dex, +4 natural, +1 size), touch 14, flat-footed 15
-  - **Base Attack**: +1; **CMB**: +0; **CMD**: 13
-  - **Attack**: Sting +5 melee (1d4 plus acid injection)
-  - **Full Attack**: Sting +5 melee (1d4 plus acid injection)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Stench Spray|Stench spray]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
-  - **Saves**: Fort +0, Ref +3, Will +5
-  - **Abilities**: Str 10, Dex 16, Con 11, Int 10, Wis 14, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +2, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +11
-  - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any land or underground
-  - **Organization**: Solitary, pair, or colony (4–16)
-  - **Challenge Rating**: 1
-  - **Treasure**: Standard
-  - **Alignment**: Usually lawful good
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 2d8 (9 hp)
+- **Initiative**: +3
+- **Speed**: 5 ft. (1 square), fly 20 ft. (perfect)
+- **Armor Class**: 18 (+3 Dex, +4 natural, +1 size), touch 14, flat-footed 15
+- **Base Attack**: +1; **CMB**: +0; **CMD**: 13
+- **Attack**: Sting +5 melee (1d4 plus acid injection)
+- **Full Attack**: Sting +5 melee (1d4 plus acid injection)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Stench Spray|Stench spray]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
+- **Saves**: Fort +0, Ref +3, Will +5
+- **Abilities**: Str 10, Dex 16, Con 11, Int 10, Wis 14, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +2, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +11
+- **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any land or underground
+- **Organization**: Solitary, pair, or colony (4–16)
+- **Challenge Rating**: 1
+- **Treasure**: Standard
+- **Alignment**: Usually lawful good
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Come from distant stars to protect unprepared worlds from cosmic horrors, flumphs are jellyfish-like creatures that float in the air and hunt with acidic spikes growing from their undersides. Gentle at heart, flumphs understand that their appearance often terrifies viewers, and thus conceal themselves and observe neighboring settlements from afar, only revealing themselves when absolutely necessary. They also know full well the limitations of their fragile forms, and rather than directly opposing the horrors they seek to defeat, they prefer to recruit and advise heroes to tackle these dangerous tasks instead.
 

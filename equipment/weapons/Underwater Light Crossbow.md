@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/crossbows]
 
 # Underwater Light Crossbow
 
-*Simple ranged weapon.* Cost 70 gp; Dmg 1d6 (S), 1d8 (M); Critical 19–20/x2; Range Increment 80 ft.; Weight 4 lb.; Type Piercing. ^stats
+_Simple ranged weapon._ Cost 70 gp; Dmg 1d6 (S), 1d8 (M); Critical 19–20/x2; Range Increment 80 ft.; Weight 4 lb.; Type Piercing. ^stats
 
 An underwater light crossbow functions like its normal counterpart above water (the [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]]), and can be used underwater. When fired underwater, the crossbow has a range increment of 20 feet. Anyone proficient with a normal [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] can use an underwater light crossbow.

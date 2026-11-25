@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Water Element
 
-*An [[rangoric-srd/class-options/elements/Elements|element]] a [[rangoric-srd/classes/Kineticist|kineticist]] can choose with [[rangoric-srd/classes/Kineticist#^kineticist-elemental-focus|elemental focus]] or [[rangoric-srd/classes/Kineticist#^kineticist-expanded-element|expanded element]].*
+_An [[rangoric-srd/class-options/elements/Elements|element]] a [[rangoric-srd/classes/Kineticist|kineticist]] can choose with [[rangoric-srd/classes/Kineticist#^kineticist-elemental-focus|elemental focus]] or [[rangoric-srd/classes/Kineticist#^kineticist-expanded-element|expanded element]]._
 
 Kineticists who focus on the element of water are called hydrokineticists. Hydrokineticists master the flow of water or the numbing chill of cold, and they are known for their versatility and flowing forms, like the ever-changing currents.
 

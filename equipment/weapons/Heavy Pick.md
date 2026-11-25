@@ -21,4 +21,4 @@ tags: [rangoric, rangoric/weapon, weapon-group/axes]
 
 # Heavy Pick
 
-*Martial one-handed melee weapon.* Cost 8 gp; Dmg 1d4 (S), 1d6 (M); Critical x4; Weight 6 lb.; Type Piercing. ^stats
+_Martial one-handed melee weapon._ Cost 8 gp; Dmg 1d4 (S), 1d6 (M); Critical x4; Weight 6 lb.; Type Piercing. ^stats

@@ -31,7 +31,7 @@ Psychokinesis
 **Duration:** Concentration, up to 1 min./level  
 **Saving Throw:** None  
 **Power Resistance:** Yes  
-**Power Points:** 1  
+**Power Points:** 1
 
 You can excite the structure of a nonpsionic, nonmagical object, heating it to the point of combustion over time. The agitation grows more intense in the second and third rounds after you manifest the power, as described below.
 

@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Giant Tortoise
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 3d8+9 (22 hp)
-  - **Initiative**: –2
-  - **Speed**: 10 ft. (2 squares)
-  - **Armor Class**: 16 (–2 Dex, +8 natural), touch 8, flat-footed 16
-  - **Base Attack**: +2; **CMB**: +4; **CMD**: 12 (16 vs. trip)
-  - **Attack**: Bite +4 melee (1d6+3)
-  - **Full Attack**: Bite +4 melee (1d6+3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Buoyant|buoyant]], [[rangoric-srd/monsters/abilities/Shell|shell]], [[rangoric-srd/monsters/abilities/Slow and Steady|slow and steady]]
-  - **Saves**: Fort +8, Ref +1, Will +2
-  - **Abilities**: Str 14, Dex 7, Con 16, Int 2, Wis 13, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +7 (+3 for sound–based checks)
-  - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]]
-  - **Environment**: Warm deserts or islands
-  - **Organization**: Solitary, pair, or herd (6–12)
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 3d8+9 (22 hp)
+- **Initiative**: –2
+- **Speed**: 10 ft. (2 squares)
+- **Armor Class**: 16 (–2 Dex, +8 natural), touch 8, flat-footed 16
+- **Base Attack**: +2; **CMB**: +4; **CMD**: 12 (16 vs. trip)
+- **Attack**: Bite +4 melee (1d6+3)
+- **Full Attack**: Bite +4 melee (1d6+3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Buoyant|buoyant]], [[rangoric-srd/monsters/abilities/Shell|shell]], [[rangoric-srd/monsters/abilities/Slow and Steady|slow and steady]]
+- **Saves**: Fort +8, Ref +1, Will +2
+- **Abilities**: Str 14, Dex 7, Con 16, Int 2, Wis 13, Cha 9
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +7 (+3 for sound–based checks)
+- **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]]
+- **Environment**: Warm deserts or islands
+- **Organization**: Solitary, pair, or herd (6–12)
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Giant tortoises typically live on tropical islands without large predators. Despite their impressive shells, their slow speed makes them easy prey, especially for vermin and other creatures that consume their eggs. Tortoises are herbivores, and can survive for months or even years without food or water. Despite being poor swimmers, their buoyancy and long necks capable mean they can survive for significant periods at sea.
 

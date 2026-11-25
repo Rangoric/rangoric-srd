@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 This eye-catching rod is bedecked with glittering spangles. The wielder gains a +5 competence bonus on [[rangoric-srd/skills/Deception|Deception]] and [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] checks, as well as on opposed Charisma checks to give commands to charmed creatures.
 
-A *rod of beguiling* allows a [[rangoric-srd/classes/Bard|bard]]'s [[rangoric-srd/classes/Bard#^bard-fascinate|fascinate]], suggestion, and mass suggestion bardic performance to take effect as if she were 5 levels higher, and grants a +5 bonus on a bard's [[rangoric-srd/skills/Performance|Performance]] checks when using distraction.
+A _rod of beguiling_ allows a [[rangoric-srd/classes/Bard|bard]]'s [[rangoric-srd/classes/Bard#^bard-fascinate|fascinate]], suggestion, and mass suggestion bardic performance to take effect as if she were 5 levels higher, and grants a +5 bonus on a bard's [[rangoric-srd/skills/Performance|Performance]] checks when using distraction.
 
-Faint abjuration; CL 5th; [[rangoric-srd/feats/Craft Rod|Craft Rod]], *hypnosis*; Price 18,000 gp; Cost 9,000 gp.
+Faint abjuration; CL 5th; [[rangoric-srd/feats/Craft Rod|Craft Rod]], _hypnosis_; Price 18,000 gp; Cost 9,000 gp.

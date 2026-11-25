@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Dwarf Arcanist
 
-*A [[rangoric-srd/races/Dwarf|dwarf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Arcanist#^arcanist-class-bonuses|arcanist]] level.*
+_A [[rangoric-srd/races/Dwarf|dwarf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Arcanist#^arcanist-class-bonuses|arcanist]] level._
 
 Add 1/4 to the arcanist's effective class level when determining the effects of the [[rangoric-srd/class-options/arcanist-exploits/Arcane Barrier (Exploit)|arcane barrier]] and [[rangoric-srd/class-options/arcanist-exploits/Arcane Weapon (Exploit)|arcane weapon]] [[rangoric-srd/classes/Arcanist#^arcanist-exploits|arcanist exploits]].

@@ -37,28 +37,28 @@ tags: [rangoric, rangoric/monster]
 
 # Ethereal Filcher
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 5d8 (22 hp)
-  - **Initiative**: +8
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 17 (+4 Dex, +3 natural), touch 14, flat-footed 13
-  - **Base Attack**: +3; **CMB**: +3; **CMD**: 18
-  - **Attack**: Bite +3 melee (1d4)
-  - **Full Attack**: Bite +3 melee (1d4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]]
-  - **Saves**: Fort +1, Ref +5, Will +5
-  - **Abilities**: Str 10, Dex 18, Con 11, Int 7, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +12
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
-  - **Environment**: Underground
-  - **Organization**: Solitary
-  - **Challenge Rating**: 3
-  - **Treasure**: No coins; standard goods; double items
-  - **Alignment**: Usually neutral
-  - **Advancement**: 6–7 HD (Medium); 8–15 HD (Large)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 5d8 (22 hp)
+- **Initiative**: +8
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 17 (+4 Dex, +3 natural), touch 14, flat-footed 13
+- **Base Attack**: +3; **CMB**: +3; **CMD**: 18
+- **Attack**: Bite +3 melee (1d4)
+- **Full Attack**: Bite +3 melee (1d4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]]
+- **Saves**: Fort +1, Ref +5, Will +5
+- **Abilities**: Str 10, Dex 18, Con 11, Int 7, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +12
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
+- **Environment**: Underground
+- **Organization**: Solitary
+- **Challenge Rating**: 3
+- **Treasure**: No coins; standard goods; double items
+- **Alignment**: Usually neutral
+- **Advancement**: 6–7 HD (Medium); 8–15 HD (Large)
+- **Level Adjustment**: —
 
 Ethereal filchers are bizarre-looking creatures with a penchant for snatching trinkets from passersby. Their ability to move quickly between the Ethereal Plane and the Material Plane makes them spectacular pickpockets.
 

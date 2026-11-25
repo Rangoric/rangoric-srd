@@ -18,9 +18,9 @@ tags: [rangoric, rangoric/spell]
 
 # Shieldbreaker
 
-*Evocation \[Force\]*
+_Evocation \[Force\]_
 
-  - **Level**: Sor/Wiz 5
-  - **Saving Throw**: Fortitude negates (object, see text)
+- **Level**: Sor/Wiz 5
+- **Saving Throw**: Fortitude negates (object, see text)
 
-As *[[rangoric-srd/spells/Magic Missile|magic missile]]*, except only a single missile is fired. This missile deals 2d4+4 damage to the target shield (ignore hardness). The missile also ignores *[[rangoric-srd/spells/Shield|shield]]* spell effects, dispels a *[[rangoric-srd/spells/Shield|shield]]* spell if active, and causes a *[[rangoric-srd/magic-items/wondrous-items/Brooch of Shielding|brooch of shielding]]* to shatter unless it makes a successful Fortitude Save.
+As _[[rangoric-srd/spells/Magic Missile|magic missile]]_, except only a single missile is fired. This missile deals 2d4+4 damage to the target shield (ignore hardness). The missile also ignores _[[rangoric-srd/spells/Shield|shield]]_ spell effects, dispels a _[[rangoric-srd/spells/Shield|shield]]_ spell if active, and causes a _[[rangoric-srd/magic-items/wondrous-items/Brooch of Shielding|brooch of shielding]]_ to shatter unless it makes a successful Fortitude Save.

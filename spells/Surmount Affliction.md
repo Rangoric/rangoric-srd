@@ -24,13 +24,13 @@ tags: [rangoric, rangoric/spell]
 
 # Surmount Affliction
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Clr 2, Inq 2, Spi 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: You
-  - **Target**: Personal
-  - **Duration**: 1 round/level
+- **Level**: Clr 2, Inq 2, Spi 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: You
+- **Target**: Personal
+- **Duration**: 1 round/level
 
 You temporarily overcome one harmful condition. This does not end the effect causing the condition; it just suspends that condition's effect for the duration of the spell. You can surmount any one of the following conditions: blinded, confused, dazed, dazzled, deafened, fatigued, frightened, paralyzed, shaken, or sickened.

@@ -21,12 +21,12 @@ The Floating Court is a collection of boats and barges lashed together to serve 
 
 **Personalities:** The king of the Eerie Swamps
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* The flat-bottomed boats used in the Floating Court are the best choice when seeking transportation through the swamps.
+_Common:_ The flat-bottomed boats used in the Floating Court are the best choice when seeking transportation through the swamps.
 
-*Uncommon:* There are a few fey *doorways* that open into similar smaller floating “boat cities” in other parts of the swamp and mortal worlds.
+_Uncommon:_ There are a few fey _doorways_ that open into similar smaller floating “boat cities” in other parts of the swamp and mortal worlds.
 
-*Rare:* An enormous doorway guardian sleeps below the Floating Court, waiting to be summoned by the king.
+_Rare:_ An enormous doorway guardian sleeps below the Floating Court, waiting to be summoned by the king.
 
-*Obscure:* -
+_Obscure:_ -

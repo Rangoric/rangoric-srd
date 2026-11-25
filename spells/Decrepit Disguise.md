@@ -30,15 +30,15 @@ tags: [rangoric, rangoric/spell]
 
 # Decrepit Disguise
 
-*Illusion (Glamer)*
+_Illusion (Glamer)_
 
-  - **Level**: Brd 1, Med 1, Mes 1, Occ 1, Psy 1, Skd 1, Sor/Wiz 1
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One object of no more than 10 cu. ft./level
-  - **Duration**: Caster level day(s)
-  - **Saving Throw**: None (object) or Will disbelief (if interacted with)
-  - **Spell Resistance**: No
+- **Level**: Brd 1, Med 1, Mes 1, Occ 1, Psy 1, Skd 1, Sor/Wiz 1
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One object of no more than 10 cu. ft./level
+- **Duration**: Caster level day(s)
+- **Saving Throw**: None (object) or Will disbelief (if interacted with)
+- **Spell Resistance**: No
 
-You make an object seem like a worthless version of itself. A masterwork or magic sword could seem to be a useless, rusting, discarded blade, and a luxurious throne could appear to be a decrepit wooden chair. If used against an attended object, the wielder can immediately attempt a Will save to disbelieve the effect. *Decrepit disguise* counters and dispels *[[rangoric-srd/spells/Quintessence (Spell)|quintessence]]*. *Decrepit disguise* can be made permanent with a *[[rangoric-srd/spells/Permanency|permanency]]* spell by a caster of 9th level or higher for the cost of 500 gp.
+You make an object seem like a worthless version of itself. A masterwork or magic sword could seem to be a useless, rusting, discarded blade, and a luxurious throne could appear to be a decrepit wooden chair. If used against an attended object, the wielder can immediately attempt a Will save to disbelieve the effect. _Decrepit disguise_ counters and dispels _[[rangoric-srd/spells/Quintessence (Spell)|quintessence]]_. _Decrepit disguise_ can be made permanent with a _[[rangoric-srd/spells/Permanency|permanency]]_ spell by a caster of 9th level or higher for the cost of 500 gp.

@@ -50,18 +50,18 @@ The master chymist’s class skills (and the key ability for each skill) are [[r
 
 **Table: The Master Chymist**
 
-| Level | Special | Extracts per Day |
-| ----- | ------- | ---------------- |
-| 1st | Bomb-thrower, mutagenic form, mutate 2/day | — |
-| 2nd | Advanced mutagen | +1 level of alchemist |
-| 3rd | Brutality (+2) | +1 level of alchemist |
-| 4th | Advanced mutagen | — |
-| 5th | Mutate 3/day | +1 level of alchemist |
-| 6th | Advanced mutagen | +1 level of alchemist |
-| 7th | Brutality (+4) | +1 level of alchemist |
-| 8th | Advanced mutagen, mutate 4/day | — |
-| 9th | Brutality (+6) | +1 level of alchemist |
-| 10th | Advanced mutagen, mutate 5/day | +1 level of alchemist |
+| Level | Special                                    | Extracts per Day      |
+| ----- | ------------------------------------------ | --------------------- |
+| 1st   | Bomb-thrower, mutagenic form, mutate 2/day | —                     |
+| 2nd   | Advanced mutagen                           | +1 level of alchemist |
+| 3rd   | Brutality (+2)                             | +1 level of alchemist |
+| 4th   | Advanced mutagen                           | —                     |
+| 5th   | Mutate 3/day                               | +1 level of alchemist |
+| 6th   | Advanced mutagen                           | +1 level of alchemist |
+| 7th   | Brutality (+4)                             | +1 level of alchemist |
+| 8th   | Advanced mutagen, mutate 4/day             | —                     |
+| 9th   | Brutality (+6)                             | +1 level of alchemist |
+| 10th  | Advanced mutagen, mutate 5/day             | +1 level of alchemist |
 
 ###### Class Features
 
@@ -75,7 +75,7 @@ All of the following are class features of the master chymist prestige class.
 
 **Mutagenic Form (Ex)**: A master chymist’s mutagenic form is an alter ego that has a different personality than her normal form, an outgrowth of the mental changes caused by the mutagenic potions she has consumed over the course of her career. The mutagenic form shares memories and basic goals with the chymist’s normal personality but goes about meeting those goals in a different manner. The mutagenic form is often ugly and monstrous and may even appear to be a different race or gender than her normal form; they may look as different as two unrelated people. Indeed, the mutagenic form often has his or her own name, and may attempt to maintain independent relationships and strongholds (though the alter ego’s limited time in existence often makes this difficult). The mutagenic form even has his or her own alignment (which is selected by the player, but must be different from the master chymist’s normal alignment). The change in alignment only affects the master chymist while in her mutagenic form. ^master-chymist-mutagenic-form
 
-**Mutate (Su)**: At 1st level, as a result of repeated exposure to her mutagens, the master chymist can now assume a mutagenic form twice per day without imbibing her mutagen. In this form, she gains all the bonuses and penalties of her [[rangoric-srd/classes/Alchemist#^alchemist-mutagen|mutagen]] and adds together her alchemist and master chymist levels together to determine her effective alchemist level for the duration of this form. Using a mutagen also forces the chymist into this form. Taking a mutagen or using the mutate ability again while in her mutagenic form works normally (with the new mutagen’s modifiers replacing the current modifiers, and the longer duration taking precedent). The chymist remains in her mutagenic form until its duration expires, her magic is interrupted (as with an *[[rangoric-srd/spells/Antimagic Field|antimagic field]]*), or she expends another use of her mutate ability. ^master-chymist-mutate
+**Mutate (Su)**: At 1st level, as a result of repeated exposure to her mutagens, the master chymist can now assume a mutagenic form twice per day without imbibing her mutagen. In this form, she gains all the bonuses and penalties of her [[rangoric-srd/classes/Alchemist#^alchemist-mutagen|mutagen]] and adds together her alchemist and master chymist levels together to determine her effective alchemist level for the duration of this form. Using a mutagen also forces the chymist into this form. Taking a mutagen or using the mutate ability again while in her mutagenic form works normally (with the new mutagen’s modifiers replacing the current modifiers, and the longer duration taking precedent). The chymist remains in her mutagenic form until its duration expires, her magic is interrupted (as with an _[[rangoric-srd/spells/Antimagic Field|antimagic field]]_), or she expends another use of her mutate ability. ^master-chymist-mutate
 
 A chymist may be forced to take her mutagenic form against her will by stress or damage. Anytime the character is in her normal form and has daily uses of the mutate ability available, she may be forced to switch after suffering a critical hit or failing a Fortitude save. In these situations the chymist must make a DC 25 Will save; if she fails, on her next turn she uses a standard action to change to her mutagenic form (which counts as a use of the mutate ability). ^master-chymist-mutate-2
 

@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/weapon]
 
 # Ironshod Arrows
 
-*Ammunition (20) for composite longbows (strength rating +2 or more).* Cost 10 gp; Dmg 1d8 (S), 1d10 (M); Critical 19-20/x3; Range Increment –60 ft.; Weight 20 lb.; Type Piercing. ^stats
+_Ammunition (20) for composite longbows (strength rating +2 or more)._ Cost 10 gp; Dmg 1d8 (S), 1d10 (M); Critical 19-20/x3; Range Increment –60 ft.; Weight 20 lb.; Type Piercing. ^stats
 
 The shaft of this arrow is composed of solid steel or cold iron, making it very heavy—so much that these arrows can only be fired from a composite longbow with a Strength rating of +2 or better. Even then the arrow’s range is greatly diminished, but it possesses great penetrating power.

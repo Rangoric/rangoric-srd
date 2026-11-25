@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Suffocation, Mass
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Psy 9, Sor/Wiz 9, Wit 9
-  - **Components**: V, S, M (a vial containing a bit of the caster's breath)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One living creature/2 levels (no two of which may be more than 30 feet apart)
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Fortitude partial
-  - **Spell Resistance**: Yes
+- **Level**: Psy 9, Sor/Wiz 9, Wit 9
+- **Components**: V, S, M (a vial containing a bit of the caster's breath)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One living creature/2 levels (no two of which may be more than 30 feet apart)
+- **Duration**: 1 round/level
+- **Saving Throw**: Fortitude partial
+- **Spell Resistance**: Yes
 
 This spell functions as suffocation except as noted above. Note that the duration of this spell is much longer, forcing those suffering from the effect to make far more Fortitude saves to stave off eventual suffocation.

@@ -88,11 +88,11 @@ Second, the character might view the trait as a strength. A character might call
 
 Finally, the character might not acknowledge the trait at all. A character might adopt this attitude toward a trait for several reasons, each suggesting something different about the character's background and personality.
 
-  - The character might not be aware of the trait; for example, a nearsighted character might not realize that others see better at a distance because his impairment is mild and the onset was so gradual that he never noticed the change.
+- The character might not be aware of the trait; for example, a nearsighted character might not realize that others see better at a distance because his impairment is mild and the onset was so gradual that he never noticed the change.
 
-  - The character might be aware of the trait but not want to admit that he possesses it. For example, an abrasive character might realize that his mannerisms affect others, yet find more solace in putting the blame on those whom he offends rather than on himself.
+- The character might be aware of the trait but not want to admit that he possesses it. For example, an abrasive character might realize that his mannerisms affect others, yet find more solace in putting the blame on those whom he offends rather than on himself.
 
-  - The character might know but simply not care.
+- The character might know but simply not care.
 
 ##### Trait Descriptions
 

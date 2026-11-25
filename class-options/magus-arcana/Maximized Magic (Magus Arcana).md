@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Maximized Magic
 
-*A [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]] (Su).*
+_A [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]] (Su)._
 
 The magus can cast one spell per day as if it were modified by the [[rangoric-srd/feats/Maximize Spell|Maximize Spell]] feat. This does not increase the casting time or the level of the spell. The magus must be at least 12th level before selecting this magus arcana.

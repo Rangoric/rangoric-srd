@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/double, weapon-group/flails]
 
 # Balled Chain
 
-*Exotic two-handed melee weapon (double, trip, disarm).* Cost 20 gp; Dmg 1d6/1d6 (S), 1d8/1d8 (M); Critical x2; Weight 18 lb.; Type Bludgeoning and piercing. ^stats
+_Exotic two-handed melee weapon (double, trip, disarm)._ Cost 20 gp; Dmg 1d6/1d6 (S), 1d8/1d8 (M); Critical x2; Weight 18 lb.; Type Bludgeoning and piercing. ^stats
 
 Similar to a spiked chain, a balled chain has a large morning star head attached to each end. A balled chain has reach and can strike at opponents 10 feet away. In addition, unlike many other weapons with reach, the balled chain can be used against adjacent foes.
 

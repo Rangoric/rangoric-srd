@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Werearmor
 
-This *+3* suit of *[[rangoric-srd/magic-items/armor-abilities/Weightless (Armor Special Ability)|weightless]]* [[rangoric-srd/equipment/armor/Chainmail|chainmail]] magically camouflages itself when worn to look like simple clothing. If the wearer of this armor ever changes shape, either through means of polymorphing type magic or through lycanthropy, the armor reshapes and resizes itself to fit his new form. In addition, the armor can camouflage itself when it changes shape, appearing as fur, hide, scales, or whatever is appropriate for the form taken.
+This _+3_ suit of _[[rangoric-srd/magic-items/armor-abilities/Weightless (Armor Special Ability)|weightless]]_ [[rangoric-srd/equipment/armor/Chainmail|chainmail]] magically camouflages itself when worn to look like simple clothing. If the wearer of this armor ever changes shape, either through means of polymorphing type magic or through lycanthropy, the armor reshapes and resizes itself to fit his new form. In addition, the armor can camouflage itself when it changes shape, appearing as fur, hide, scales, or whatever is appropriate for the form taken.
 
-Moderate enchantment; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Levitate|levitate]]*, *[[rangoric-srd/spells/Alter Self|alter self]]*; Price 36,300 gp; Cost 18,300 gp + 1,440 XP.
+Moderate enchantment; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Levitate|levitate]]_, _[[rangoric-srd/spells/Alter Self|alter self]]_; Price 36,300 gp; Cost 18,300 gp + 1,440 XP.

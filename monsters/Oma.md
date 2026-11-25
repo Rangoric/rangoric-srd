@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Oma
 
-  - Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 20d10+180 (290 hp)
-  - **Initiative**: –2
-  - **Speed**: fly 200 ft. (average)
-  - **Armor Class**: 30 (–2 Dex, +30 natural, –8 size), touch 0, flat-footed 30
-  - **Base Attack**: +20; **CMB**: +49 (+51 bull rush, +53 grapple); **CMD**: 57 (59 vs. bull rush, can't be tripped)
-  - **Attack**: Bite +33 melee (4d6+21 plus 2d6 electricity and [[rangoric-srd/monsters/abilities/Grab|grab]]) or tail slap +33 melee (4d6+10)
-  - **Full Attack**: Bite +33 melee (4d6+21 plus 2d6 electricity and [[rangoric-srd/monsters/abilities/Grab|grab]]) and tail slap +28 melee (4d6+10)
-  - **Space/Reach**: 30 ft./30 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Capsize|Capsize]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (6d6 acid damage, AC 25, 29 hp)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Carrier|carrier]], [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Starflight|starflight]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, electricity and fire
-  - **Saves**: Fort +23, Ref +10, Will +7
-  - **Abilities**: Str 52, Dex 7, Con 29, Int 2, Wis 12, Cha 5
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –10, [[rangoric-srd/skills/Perception|Perception]] +24
-  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
-  - **Environment**: Gas giants or vacuum
-  - **Organization**: Solitary, pair, or pod (3–6)
-  - **Challenge Rating**: 16
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 20d10+180 (290 hp)
+- **Initiative**: –2
+- **Speed**: fly 200 ft. (average)
+- **Armor Class**: 30 (–2 Dex, +30 natural, –8 size), touch 0, flat-footed 30
+- **Base Attack**: +20; **CMB**: +49 (+51 bull rush, +53 grapple); **CMD**: 57 (59 vs. bull rush, can't be tripped)
+- **Attack**: Bite +33 melee (4d6+21 plus 2d6 electricity and [[rangoric-srd/monsters/abilities/Grab|grab]]) or tail slap +33 melee (4d6+10)
+- **Full Attack**: Bite +33 melee (4d6+21 plus 2d6 electricity and [[rangoric-srd/monsters/abilities/Grab|grab]]) and tail slap +28 melee (4d6+10)
+- **Space/Reach**: 30 ft./30 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Capsize|Capsize]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (6d6 acid damage, AC 25, 29 hp)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Carrier|carrier]], [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Starflight|starflight]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, electricity and fire
+- **Saves**: Fort +23, Ref +10, Will +7
+- **Abilities**: Str 52, Dex 7, Con 29, Int 2, Wis 12, Cha 5
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –10, [[rangoric-srd/skills/Perception|Perception]] +24
+- **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
+- **Environment**: Gas giants or vacuum
+- **Organization**: Solitary, pair, or pod (3–6)
+- **Challenge Rating**: 16
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Oma soar through gas giants and the vast gulfs between planets on magical electromagnetic fields, feeding on cosmic materials strained from planetary rings and atmospheres with their energy baleen. Anything ingested by an oma is eventually sequestered in a surprisingly habitable second stomach before being excreted, and some alien creatures use oma as living starships, using telepathy to guide the colossi through the void.
 

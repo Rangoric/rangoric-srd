@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Pech
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]] (Earth)
-  - **Hit Dice**: 6d6+6 (27 hp)
-  - **Initiative**: +1
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 16 (+1 Dex, +4 natural, +1 size), touch 12, flat-footed 15
-  - **Base Attack**: +3; **CMB**: +6; **CMD**: 17
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Heavy Pick|heavy pick]] +9 melee (1d4+6/×4)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Heavy Pick|heavy pick]] +9 melee (1d4+6/×4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Earth Mastery|Earth mastery]], [[rangoric-srd/monsters/abilities/Pech Magic|pech magic]], [[rangoric-srd/monsters/abilities/Stone Knowledge|stone knowledge]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to petrification, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 14, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
-  - **Saves**: Fort +5, Ref +6, Will +6
-  - **Abilities**: Str 19, Dex 12, Con 13, Int 12, Wis 13, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Craft|Craft]] (stonemasonry) +14, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +10, [[rangoric-srd/skills/Engineering|Engineering]] +10, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Profession|Profession]] (miner) +14, [[rangoric-srd/skills/Stealth|Stealth]] +14
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Any underground (Plane of Earth)
-  - **Organization**: Solitary, pair, gang (3–4), pack (5–10), or tribe (11–40 plus 50% noncombatants, 1–4 fighters of 2nd–4th level, and 1–2 druids of 2nd–4th level)
-  - **Challenge Rating**: 3
-  - **Treasure**: Standard (masterwork heavy pick, other treasure)
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]] (Earth)
+- **Hit Dice**: 6d6+6 (27 hp)
+- **Initiative**: +1
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 16 (+1 Dex, +4 natural, +1 size), touch 12, flat-footed 15
+- **Base Attack**: +3; **CMB**: +6; **CMD**: 17
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Heavy Pick|heavy pick]] +9 melee (1d4+6/×4)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Heavy Pick|heavy pick]] +9 melee (1d4+6/×4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Earth Mastery|Earth mastery]], [[rangoric-srd/monsters/abilities/Pech Magic|pech magic]], [[rangoric-srd/monsters/abilities/Stone Knowledge|stone knowledge]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to petrification, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 14, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
+- **Saves**: Fort +5, Ref +6, Will +6
+- **Abilities**: Str 19, Dex 12, Con 13, Int 12, Wis 13, Cha 12
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Craft|Craft]] (stonemasonry) +14, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +10, [[rangoric-srd/skills/Engineering|Engineering]] +10, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Profession|Profession]] (miner) +14, [[rangoric-srd/skills/Stealth|Stealth]] +14
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Any underground (Plane of Earth)
+- **Organization**: Solitary, pair, gang (3–4), pack (5–10), or tribe (11–40 plus 50% noncombatants, 1–4 fighters of 2nd–4th level, and 1–2 druids of 2nd–4th level)
+- **Challenge Rating**: 3
+- **Treasure**: Standard (masterwork heavy pick, other treasure)
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Untold ages ago, the pechs served forgotten masters in the deepest caverns of the world. In time, their masters moved on, leaving the pechs bereft of guidance. Some sought refuge in seemingly safer tunnels nearer the surface. The unspeakable horrors they encountered there transformed them into derros over the course of several generations. Those pechs that stayed close to their ancestral caverns survive to this day, though in such small numbers and in such isolation that few of the surface world know of their existence.
 
@@ -70,7 +70,7 @@ The typical pech stands only 3-1/2 feet tall, but its dense flesh gives it a wei
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +11): 3/day—*[[rangoric-srd/spells/Stone Shape|stone shape]]*, *[[rangoric-srd/spells/Stone Tell|stone tell]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +11): 3/day—_[[rangoric-srd/spells/Stone Shape|stone shape]]_, _[[rangoric-srd/spells/Stone Tell|stone tell]]_.
 
 **[[rangoric-srd/monsters/abilities/Earth Mastery|Earth Mastery]] (Ex)**: A pech gains a +1 bonus on attack and damage rolls if both it and its foes are touching the ground. If an opponent is airborne or waterborne, the pech takes a –4 penalty on attack and damage rolls. These modifiers are not precalculated into the statistics here.
 

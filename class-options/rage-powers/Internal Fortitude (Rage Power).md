@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Internal Fortitude
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
 While raging, the barbarian is immune to the [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] and [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] conditions. A barbarian must be at least 8th level before selecting this rage power.

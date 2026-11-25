@@ -42,44 +42,44 @@ tags: [rangoric, rangoric/monster]
 
 # Ogre
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
-  - **Hit Dice**: 4d8+12 (30 hp)
-  - **Initiative**: –1
-  - **Speed**: 30 ft. (6 squares) (40 ft. base)
-  - **Armor Class**: 17 (+4 armor, –1 Dex, +5 natural, –1 size), touch 8, flat-footed 17
-  - **Base Attack**: +3; **CMB**: +9; **CMD**: 18
-  - **Attack**: [[rangoric-srd/equipment/weapons/Greatclub|Greatclub]] +7 melee (2d8+7) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +1 ranged (1d8+5)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Greatclub|Greatclub]] +7 melee (2d8+7); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +1 ranged (1d8+5)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
-  - **Saves**: Fort +6, Ref +0, Will +3
-  - **Abilities**: Str 21, Dex 8, Con 15, Int 6, Wis 10, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Perception|Perception]] +5
-  - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Temperate or cold hills; temperate hills (Merrow: Temperate aquatic)
-  - **Organization**: Solitary, pair, gang (3–4), family (5–16), or band (5–8)
-  - **Challenge Rating**: 3
-  - **Treasure**: Standard (hide armor, greatclub, 4 javelins, other treasure)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: +2
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
+- **Hit Dice**: 4d8+12 (30 hp)
+- **Initiative**: –1
+- **Speed**: 30 ft. (6 squares) (40 ft. base)
+- **Armor Class**: 17 (+4 armor, –1 Dex, +5 natural, –1 size), touch 8, flat-footed 17
+- **Base Attack**: +3; **CMB**: +9; **CMD**: 18
+- **Attack**: [[rangoric-srd/equipment/weapons/Greatclub|Greatclub]] +7 melee (2d8+7) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +1 ranged (1d8+5)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Greatclub|Greatclub]] +7 melee (2d8+7); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +1 ranged (1d8+5)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
+- **Saves**: Fort +6, Ref +0, Will +3
+- **Abilities**: Str 21, Dex 8, Con 15, Int 6, Wis 10, Cha 7
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Perception|Perception]] +5
+- **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Temperate or cold hills; temperate hills (Merrow: Temperate aquatic)
+- **Organization**: Solitary, pair, gang (3–4), family (5–16), or band (5–8)
+- **Challenge Rating**: 3
+- **Treasure**: Standard (hide armor, greatclub, 4 javelins, other treasure)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: +2
 
 **Also in this entry:**
 
-  - [[rangoric-srd/monsters/ogre/Ogre, 4th-Level Barbarian|Ogre, 4th-Level Barbarian]]
-  - Schemers: [[rangoric-srd/monsters/ogre/Ogre Priest|Ogre Priest]] (CR 4), [[rangoric-srd/monsters/ogre/Ogre Stalker|Ogre Stalker]] (CR 4)
-  - Bruisers: [[rangoric-srd/monsters/ogre/Ogre Brute|Ogre Brute]] (CR 6), [[rangoric-srd/monsters/ogre/Ogre Boss|Ogre Boss]] (CR 7)
-  - Devourers: [[rangoric-srd/monsters/ogre/Ogre Mancatcher|Ogre Mancatcher]] (CR 8), [[rangoric-srd/monsters/ogre/Ogre Glutton|Ogre Glutton]] (CR 11)
-  - Hunters: [[rangoric-srd/monsters/ogre/Ogre Hunter|Ogre Hunter]] (CR 9)
-  - Destroyers: [[rangoric-srd/monsters/ogre/Ogre Destroyer|Ogre Destroyer]] (CR 10)
-  - Kings: [[rangoric-srd/monsters/ogre/Ogre King|Ogre King]] (CR 13)
-  - [[rangoric-srd/monsters/ogre/Freshwater Merrow|Freshwater Merrow]] (CR 3)
-  - [[rangoric-srd/monsters/ogre/Ogrekin|Ogrekin]] (CR 2)
-  - [[rangoric-srd/monsters/ogre/Saltwater Merrow|Saltwater Merrow]] (CR 6)
-  - [[rangoric-srd/monsters/ogre/Troggle|Troggle]] (CR 4)
-  - [[rangoric-srd/monsters/ogre/Troggle Raider|Troggle Raider]] (CR 6)
-  - Templates: [[rangoric-srd/monsters/ogre/Giantkin Ogre|Giantkin Ogre]], [[rangoric-srd/monsters/ogre/Pickin Ogre|Pickin Ogre]], [[rangoric-srd/monsters/ogre/Shaggra Ogre|Shaggra Ogre]], [[rangoric-srd/monsters/ogre/Thicken Ogre|Thicken Ogre]]
+- [[rangoric-srd/monsters/ogre/Ogre, 4th-Level Barbarian|Ogre, 4th-Level Barbarian]]
+- Schemers: [[rangoric-srd/monsters/ogre/Ogre Priest|Ogre Priest]] (CR 4), [[rangoric-srd/monsters/ogre/Ogre Stalker|Ogre Stalker]] (CR 4)
+- Bruisers: [[rangoric-srd/monsters/ogre/Ogre Brute|Ogre Brute]] (CR 6), [[rangoric-srd/monsters/ogre/Ogre Boss|Ogre Boss]] (CR 7)
+- Devourers: [[rangoric-srd/monsters/ogre/Ogre Mancatcher|Ogre Mancatcher]] (CR 8), [[rangoric-srd/monsters/ogre/Ogre Glutton|Ogre Glutton]] (CR 11)
+- Hunters: [[rangoric-srd/monsters/ogre/Ogre Hunter|Ogre Hunter]] (CR 9)
+- Destroyers: [[rangoric-srd/monsters/ogre/Ogre Destroyer|Ogre Destroyer]] (CR 10)
+- Kings: [[rangoric-srd/monsters/ogre/Ogre King|Ogre King]] (CR 13)
+- [[rangoric-srd/monsters/ogre/Freshwater Merrow|Freshwater Merrow]] (CR 3)
+- [[rangoric-srd/monsters/ogre/Ogrekin|Ogrekin]] (CR 2)
+- [[rangoric-srd/monsters/ogre/Saltwater Merrow|Saltwater Merrow]] (CR 6)
+- [[rangoric-srd/monsters/ogre/Troggle|Troggle]] (CR 4)
+- [[rangoric-srd/monsters/ogre/Troggle Raider|Troggle Raider]] (CR 6)
+- Templates: [[rangoric-srd/monsters/ogre/Giantkin Ogre|Giantkin Ogre]], [[rangoric-srd/monsters/ogre/Pickin Ogre|Pickin Ogre]], [[rangoric-srd/monsters/ogre/Shaggra Ogre|Shaggra Ogre]], [[rangoric-srd/monsters/ogre/Thicken Ogre|Thicken Ogre]]
 
 Stories are told of ogres—horrendous stories of brutality and savagery, cannibalism and torture. Of rape and dismemberment, necrophilia, incest, mutilation, and all manners of hideous murder. Those who have not encountered ogres know the stories as warnings. Those who have survived such encounters know these tales to be tame compared to the truth.
 

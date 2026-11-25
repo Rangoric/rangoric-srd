@@ -34,7 +34,7 @@ Area: Cone-shaped emanation centered on you
 Duration: 1 min./level (D)  
 Saving Throw: Will negates  
 Power Resistance: Yes  
-Power Points: 1  
+Power Points: 1
 
 You broadcast a mental compulsion that convinces one or more creatures of 4 Hit Dice or less that they are [[rangoric-srd/rules/Special Abilities and Conditions#^disabled|disabled]]. Creatures with the fewest HD are affected first. Among creatures with equal Hit Dice, those who are closest to the power’s point of origin are affected first. Hit Dice that are not sufficient to affect a creature are wasted. Creatures that are rendered [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] or are destroyed when they reach 0 hit points cannot be affected.
 

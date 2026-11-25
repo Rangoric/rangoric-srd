@@ -35,26 +35,26 @@ tags: [rangoric, rangoric/monster]
 
 # Bear, Polar
 
-  - Large Animal
-  - **Hit Dice**: 8d8+32 (68 hp)
-  - **Initiative**: +1
-  - **Speed**: 40 ft. (8 squares), swim 30 ft.
-  - **Armor Class**: 15 (–1 size, +1 Dex, +5 natural), touch 10, flat-footed 14
-  - **Base Attack**: +6; **CMB**: +15 (+19 grapple); **CMD**: 26 (30 vs. trip)
-  - **Attack**: Claw +13 (1d8+8)
-  - **Full Attack**: 2 claws +13 melee (1d8+8) and bite +8 melee (2d6+4)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: Improved grab
-  - **Special Qualities**: Low-light vision, scent
-  - **Saves**: Fort +10, Ref +7, Will +3
-  - **Abilities**: Str 27, Dex 13, Con 19, Int 2, Wis 12, Cha 6
-  - **Skills**: Athletics +12 (+20 swimming), Perception +10, Stealth +1\*
-  - **Feats**: Endurance, Run, Track
-  - **Environment**: Cold plains
-  - **Organization**: Solitary or pair
-  - **Challenge Rating**: 4
-  - **Advancement**: 9–12 HD (Large)
-  - **Level Adjustment**: —
+- Large Animal
+- **Hit Dice**: 8d8+32 (68 hp)
+- **Initiative**: +1
+- **Speed**: 40 ft. (8 squares), swim 30 ft.
+- **Armor Class**: 15 (–1 size, +1 Dex, +5 natural), touch 10, flat-footed 14
+- **Base Attack**: +6; **CMB**: +15 (+19 grapple); **CMD**: 26 (30 vs. trip)
+- **Attack**: Claw +13 (1d8+8)
+- **Full Attack**: 2 claws +13 melee (1d8+8) and bite +8 melee (2d6+4)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: Improved grab
+- **Special Qualities**: Low-light vision, scent
+- **Saves**: Fort +10, Ref +7, Will +3
+- **Abilities**: Str 27, Dex 13, Con 19, Int 2, Wis 12, Cha 6
+- **Skills**: Athletics +12 (+20 swimming), Perception +10, Stealth +1\*
+- **Feats**: Endurance, Run, Track
+- **Environment**: Cold plains
+- **Organization**: Solitary or pair
+- **Challenge Rating**: 4
+- **Advancement**: 9–12 HD (Large)
+- **Level Adjustment**: —
 
 These long, lean carnivores are slightly taller than brown bears.
 

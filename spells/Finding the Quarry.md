@@ -26,17 +26,17 @@ tags: [rangoric, rangoric/spell]
 
 # Finding the Quarry
 
-*Divination*
+_Divination_
 
-  - **Level**: Hun 3, Rgr 3
-  - **Components**: V, S, M
-  - **Casting Time**: 10 minutes
-  - **Range**: Unlimited
-  - **Target**: One Person
-  - **Duration**: Permanent (D)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Hun 3, Rgr 3
+- **Components**: V, S, M
+- **Casting Time**: 10 minutes
+- **Range**: Unlimited
+- **Target**: One Person
+- **Duration**: Permanent (D)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
-You can smell them. Hear them. Taste them on your tongue. By casting *finding the quarry*, you attune your senses to one person and one person only. You must have seen the person with your own eyes and been within 10 ft. of them at some point in order to cast this spell, as it requires at least a passing familiarity. The person need not be near you or in the area in order for you to cast the spell. A successful casting means you can track your prey anywhere on your material plane, though not through astral or extradimensional planes. While this spell is in effect, you cannot cast any other spells (though you can use magical items) until you dispel *finding the quarry*.
+You can smell them. Hear them. Taste them on your tongue. By casting _finding the quarry_, you attune your senses to one person and one person only. You must have seen the person with your own eyes and been within 10 ft. of them at some point in order to cast this spell, as it requires at least a passing familiarity. The person need not be near you or in the area in order for you to cast the spell. A successful casting means you can track your prey anywhere on your material plane, though not through astral or extradimensional planes. While this spell is in effect, you cannot cast any other spells (though you can use magical items) until you dispel _finding the quarry_.
 
 Material components: A piece of string.

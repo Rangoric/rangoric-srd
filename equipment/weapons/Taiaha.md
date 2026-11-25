@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/double, weapon-group/hammers]
 
 # Taiaha
 
-*Exotic one-handed melee weapon (double).* Cost 10 gp; Dmg 1d8/1d4 (S), 1d10/1d6 (M); Critical x2/x3; Weight 8 lb.; Type Bludgeoning or piercing. ^stats
+_Exotic one-handed melee weapon (double)._ Cost 10 gp; Dmg 1d8/1d4 (S), 1d10/1d6 (M); Critical x2/x3; Weight 8 lb.; Type Bludgeoning or piercing. ^stats
 
 A taiaha is a long, heavy stick, club-shaped at one end and tipped with a wooden or metal spear point at the other. You wield it with a combination of solid strikes with the club and fending motions with the spear. A taiaha can be wielded as a martial weapon that deals 1d8/×2 bludgeoning damage.

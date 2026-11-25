@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Answering
 
-If the wielder of an *answering* weapon is using the [[rangoric-srd/class-options/deeds/Opportune Parry and Riposte (Deed)|opportune parry and riposte]] deed, the weapon's enhancement bonus increases by 4 (to a maximum of +5).
+If the wielder of an _answering_ weapon is using the [[rangoric-srd/class-options/deeds/Opportune Parry and Riposte (Deed)|opportune parry and riposte]] deed, the weapon's enhancement bonus increases by 4 (to a maximum of +5).
 
-Moderate enchantment; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Good Hope|good hope]]*, creator must have the opportune parry and riposte deed; Price +1 bonus.
+Moderate enchantment; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Good Hope|good hope]]_, creator must have the opportune parry and riposte deed; Price +1 bonus.

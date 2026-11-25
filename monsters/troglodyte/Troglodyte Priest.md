@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Troglodyte Priest
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Reptilian)
-  - **Hit Dice**: 5d8+8 (30 hp)
-  - **Initiative**: –1
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 19 (+4 armor, –1 Dex, +6 natural), touch 9, flat-footed 19
-  - **Base Attack**: +3; **CMB**: +8; **CMD**: 17
-  - **Attack**: +1 obsidian spiked gauntlet +10 melee (1d4+6) or bite +8 melee (1d4+5) or claw +8 melee (1d4+5) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +2 ranged (1d6+5)
-  - **Full Attack**: +1 obsidian spiked gauntlet +10 melee (1d4+6) and bite +3 melee (1d4+5) and claw +3 melee (1d4+5); or bite +8 melee (1d4+5) and 2 claws +8 melee (1d4+5); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +2 ranged (1d6+5)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 4/day (DC 14, 2d6), [[rangoric-srd/class-options/domains/Demon Subdomain|fury of the Abyss]] (+1, 5/day), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Strength Domain|feat of strength]] (+3 Str, 1/day)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 90 ft., [[rangoric-srd/monsters/abilities/Stench|stench]] (30 ft., DC 14, 10 rounds)
-  - **Saves**: Fort +7, Ref +0, Will +5
-  - **Abilities**: Str 20, Dex 9, Con 12, Int 10, Wis 15, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Medicine|Medicine]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +1 (+5 in rocky areas), [[rangoric-srd/skills/Theology|Theology]] +6
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Improved Channel|Improved Channel]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spiked gauntlet)
-  - **Environment**: Any underground
-  - **Organization**: Solitary, or with other troglodytes (see [[rangoric-srd/monsters/troglodyte/Troglodyte|Troglodyte]])
-  - **Challenge Rating**: 3
-  - **Treasure**: NPC gear (combat gear: potions of cure moderate wounds (2), scroll of spiritual weapon, wand of cure light wounds (20 charges), thunderstone; other gear: masterwork hide armor, javelins (6), masterwork obsidian spiked gauntlet, wooden holy symbol, 96 gp)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Reptilian)
+- **Hit Dice**: 5d8+8 (30 hp)
+- **Initiative**: –1
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 19 (+4 armor, –1 Dex, +6 natural), touch 9, flat-footed 19
+- **Base Attack**: +3; **CMB**: +8; **CMD**: 17
+- **Attack**: +1 obsidian spiked gauntlet +10 melee (1d4+6) or bite +8 melee (1d4+5) or claw +8 melee (1d4+5) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +2 ranged (1d6+5)
+- **Full Attack**: +1 obsidian spiked gauntlet +10 melee (1d4+6) and bite +3 melee (1d4+5) and claw +3 melee (1d4+5); or bite +8 melee (1d4+5) and 2 claws +8 melee (1d4+5); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +2 ranged (1d6+5)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 4/day (DC 14, 2d6), [[rangoric-srd/class-options/domains/Demon Subdomain|fury of the Abyss]] (+1, 5/day), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Strength Domain|feat of strength]] (+3 Str, 1/day)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 90 ft., [[rangoric-srd/monsters/abilities/Stench|stench]] (30 ft., DC 14, 10 rounds)
+- **Saves**: Fort +7, Ref +0, Will +5
+- **Abilities**: Str 20, Dex 9, Con 12, Int 10, Wis 15, Cha 13
+- **Skills**: [[rangoric-srd/skills/Medicine|Medicine]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +1 (+5 in rocky areas), [[rangoric-srd/skills/Theology|Theology]] +6
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Improved Channel|Improved Channel]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spiked gauntlet)
+- **Environment**: Any underground
+- **Organization**: Solitary, or with other troglodytes (see [[rangoric-srd/monsters/troglodyte/Troglodyte|Troglodyte]])
+- **Challenge Rating**: 3
+- **Treasure**: NPC gear (combat gear: potions of cure moderate wounds (2), scroll of spiritual weapon, wand of cure light wounds (20 charges), thunderstone; other gear: masterwork hide armor, javelins (6), masterwork obsidian spiked gauntlet, wooden holy symbol, 96 gp)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A troglodyte priest is a [[rangoric-srd/monsters/troglodyte/Troglodyte|troglodyte]] with 3 levels of [[rangoric-srd/classes/Cleric|cleric]], one of the troglodyte holy ones. Troglodyte divine spellcasters act as spiritual advisors for their tribes. Troglodyte clerics usually worship demon lords, particularly those associated with caverns and reptiles.
 
@@ -75,4 +75,4 @@ A troglodyte priest speaks Draconic.
 
 **Domain Spell-Like Abilities** (CL 3rd; concentration +5): 5/day—[[rangoric-srd/class-options/domains/Strength Domain|strength surge]] (+1).
 
-**Cleric spells prepared** (CL 3rd; concentration +5): 2nd—*[[rangoric-srd/spells/Amplify Stench|amplify stench]]*, *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]* <sup>D</sup>, *[[rangoric-srd/spells/Hold Person|hold person]]* (DC 14); 1st—*[[rangoric-srd/spells/Bless|bless]]*, *[[rangoric-srd/spells/Command|command]]* (DC 13), *[[rangoric-srd/spells/Doom|doom]]* <sup>D</sup> (DC 13), *[[rangoric-srd/spells/Magic Weapon|magic weapon]]*; 0 (at will)—*[[rangoric-srd/spells/Bleed|bleed]]* (DC 12), *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Guidance|guidance]]*, *[[rangoric-srd/spells/Spark|spark]]*; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Evil Domain|Evil]] ([[rangoric-srd/class-options/domains/Demon Subdomain|Demon subdomain]]), [[rangoric-srd/class-options/domains/Strength Domain|Strength]].
+**Cleric spells prepared** (CL 3rd; concentration +5): 2nd—_[[rangoric-srd/spells/Amplify Stench|amplify stench]]_, _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_ <sup>D</sup>, _[[rangoric-srd/spells/Hold Person|hold person]]_ (DC 14); 1st—_[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Command|command]]_ (DC 13), _[[rangoric-srd/spells/Doom|doom]]_ <sup>D</sup> (DC 13), _[[rangoric-srd/spells/Magic Weapon|magic weapon]]_; 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 12), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Spark|spark]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Evil Domain|Evil]] ([[rangoric-srd/class-options/domains/Demon Subdomain|Demon subdomain]]), [[rangoric-srd/class-options/domains/Strength Domain|Strength]].

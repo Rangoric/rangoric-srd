@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Shulsaga
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Extraplanar)
-  - **Hit Dice**: 4d10 (22 hp)
-  - **Initiative**: +8
-  - **Speed**: 30 ft. (6 squares), fly 60 ft. (perfect)
-  - **Armor Class**: 16 (+4 Dex, +2 natural), touch 14, flat-footed 12
-  - **Base Attack**: +4; **CMB**: +5; **CMD**: 19
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Trident|trident]] +6 melee (1d8+1) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Longbow|longbow]] +9 ranged (1d8/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Trident|trident]] +6 melee (1d8+1); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Longbow|longbow]] +9 ranged (1d8/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Astral Recoil|Astral recoil]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Disk Rider|disk rider]], [[rangoric-srd/monsters/abilities/Sense Rift|sense rift]]
-  - **Saves**: Fort +1, Ref +8, Will +7
-  - **Abilities**: Str 12, Dex 19, Con 10, Int 13, Wis 16, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +11, [[rangoric-srd/skills/Theology|Theology]] +8
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]]
-  - **Environment**: Any (Astral Plane)
-  - **Organization**: Solitary, pair, hunting party (3−6), warband (7−22)
-  - **Challenge Rating**: 3
-  - **Treasure**: Standard (mwk longbow, mwk trident, other treasure)
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Extraplanar)
+- **Hit Dice**: 4d10 (22 hp)
+- **Initiative**: +8
+- **Speed**: 30 ft. (6 squares), fly 60 ft. (perfect)
+- **Armor Class**: 16 (+4 Dex, +2 natural), touch 14, flat-footed 12
+- **Base Attack**: +4; **CMB**: +5; **CMD**: 19
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Trident|trident]] +6 melee (1d8+1) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Longbow|longbow]] +9 ranged (1d8/×3)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Trident|trident]] +6 melee (1d8+1); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Longbow|longbow]] +9 ranged (1d8/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Astral Recoil|Astral recoil]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Disk Rider|disk rider]], [[rangoric-srd/monsters/abilities/Sense Rift|sense rift]]
+- **Saves**: Fort +1, Ref +8, Will +7
+- **Abilities**: Str 12, Dex 19, Con 10, Int 13, Wis 16, Cha 13
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +11, [[rangoric-srd/skills/Theology|Theology]] +8
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]]
+- **Environment**: Any (Astral Plane)
+- **Organization**: Solitary, pair, hunting party (3−6), warband (7−22)
+- **Challenge Rating**: 3
+- **Treasure**: Standard (mwk longbow, mwk trident, other treasure)
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Natives of the Astral Plane, shulsagas wish only to be left in peace to ride and hunt the wild voids. Life is rarely so easy, though, as predatory outsiders, mortal travelers, and souls making their passage to the Outer Planes constantly trespass upon the shulsagas' home plane. Proud and territorial, the disk-riders use their intimate understanding of astral forces to drive interlopers from their territory.
 
@@ -70,7 +70,7 @@ A shulsaga is born genderless. It reaches maturity when it's a century old, and 
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +1): 3/day—*[[rangoric-srd/spells/Floating Disk|floating disk]]* (see below), *[[rangoric-srd/spells/Shield|shield]]*, *[[rangoric-srd/spells/Spiritual Weapon|spiritual weapon]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +1): 3/day—_[[rangoric-srd/spells/Floating Disk|floating disk]]_ (see below), _[[rangoric-srd/spells/Shield|shield]]_, _[[rangoric-srd/spells/Spiritual Weapon|spiritual weapon]]_.
 
 **[[rangoric-srd/monsters/abilities/Astral Recoil|Astral Recoil]] (Su)**: As a full-round action, a shulsaga that touches a silver cord (such as that created by the spell astral projection) can cause the cord to recoil. The astral projecting creature must succeed at a DC 15 Will saving throw or be snapped back to its body, ending the spell effect but not harming the spellcaster. The save DC is Wisdom-based.
 

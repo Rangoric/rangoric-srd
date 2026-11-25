@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Lorelei
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Aquatic)
-  - **Hit Dice**: 12d8+108 (162 hp)
-  - **Initiative**: +5
-  - **Speed**: 20 ft. (4 squares), climb 20 ft., swim 20 ft.
-  - **Armor Class**: 27 (+1 Dex, +17 natural, –1 size), touch 10, flat-footed 26
-  - **Base Attack**: +9; **CMB**: +19; **CMD**: 30 (can't be tripped)
-  - **Attack**: Tentacle +18 melee (1d8+9 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: 4 tentacles +18 melee (1d8+9 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 10 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Murmur|Murmur]], [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Vortex|vortex]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Freeze|freeze]], [[rangoric-srd/monsters/abilities/Water Dependency|water dependency]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sonic, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10
-  - **Saves**: Fort +13, Ref +5, Will +13
-  - **Abilities**: Str 28, Dex 13, Con 29, Int 11, Wis 16, Cha 20
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +21, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +18 (+26 in rocky areas)
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacle)
-  - **Environment**: Any coastlines
-  - **Organization**: Solitary
-  - **Challenge Rating**: 12
-  - **Treasure**: None
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Aquatic)
+- **Hit Dice**: 12d8+108 (162 hp)
+- **Initiative**: +5
+- **Speed**: 20 ft. (4 squares), climb 20 ft., swim 20 ft.
+- **Armor Class**: 27 (+1 Dex, +17 natural, –1 size), touch 10, flat-footed 26
+- **Base Attack**: +9; **CMB**: +19; **CMD**: 30 (can't be tripped)
+- **Attack**: Tentacle +18 melee (1d8+9 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: 4 tentacles +18 melee (1d8+9 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 10 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Murmur|Murmur]], [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Vortex|vortex]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Freeze|freeze]], [[rangoric-srd/monsters/abilities/Water Dependency|water dependency]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sonic, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10
+- **Saves**: Fort +13, Ref +5, Will +13
+- **Abilities**: Str 28, Dex 13, Con 29, Int 11, Wis 16, Cha 20
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +21, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +18 (+26 in rocky areas)
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacle)
+- **Environment**: Any coastlines
+- **Organization**: Solitary
+- **Challenge Rating**: 12
+- **Treasure**: None
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A lorelei resembles an enormous, stony sea anemone with a humanlike face covering much of its body. Noted for their magical murmurs that entrance sailors, the creatures lurk near rocky shoals barely concealed by crashing waves or rushing rivers, eager to lure humanoids to their deaths.
 
@@ -72,7 +72,7 @@ Loreleis speak Aquan and Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +17): At will—*[[rangoric-srd/spells/Ghost Sound|ghost sound]]* (DC 15), *[[rangoric-srd/spells/Speak with Dead|speak with dead]]* (DC 18), *[[rangoric-srd/spells/Ventriloquism|ventriloquism]]* (DC 16), *[[rangoric-srd/spells/Whispering Wind|whispering wind]]*; 3/day—*[[rangoric-srd/spells/Command Undead|command undead]]* (DC 17), *[[rangoric-srd/spells/Control Water|control water]]*, *[[rangoric-srd/spells/Fog Cloud|fog cloud]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +17): At will—_[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 15), _[[rangoric-srd/spells/Speak with Dead|speak with dead]]_ (DC 18), _[[rangoric-srd/spells/Ventriloquism|ventriloquism]]_ (DC 16), _[[rangoric-srd/spells/Whispering Wind|whispering wind]]_; 3/day—_[[rangoric-srd/spells/Command Undead|command undead]]_ (DC 17), _[[rangoric-srd/spells/Control Water|control water]]_, _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_.
 
 **[[rangoric-srd/monsters/abilities/Murmur|Murmur]] (Su)**: A lorelei's murmur has the power to infect the minds of those that hear it. This effect even influences undead creatures despite their usual immunity to mind-affecting effects. When a lorelei murmurs, all creatures aside from other lorelei within a 300-foot spread must succeed on a DC 20 Will saving throw or become captivated. A creature that successfully saves is not subject to the same lorelei's song for 24 hours. A victim under the effects of the murmur moves toward the lorelei using the most direct means available. If the path leads them into a dangerous area such as through fire or off a cliff, that creature receives a second saving throw to end the effect before moving into peril. Affected creatures can take no actions other than to defend themselves. A victim within 5 feet of the lorelei simply stands and offers no resistance to its attacks. This effect continues for as long as the lorelei murmurs and for 1 round thereafter. This is a sonic mind-affecting charm effect. The save DC is Charisma-based.
 

@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Erase
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Brd 1, Occ 1, Psy 1, Skd 1, Sor/Wiz 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One scroll or two pages
-  - **Duration**: Instantaneous
-  - **Saving Throw**: See text
-  - **Spell Resistance**: No
+- **Level**: Brd 1, Occ 1, Psy 1, Skd 1, Sor/Wiz 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One scroll or two pages
+- **Duration**: Instantaneous
+- **Saving Throw**: See text
+- **Spell Resistance**: No
 
 Erase removes writings of either magical or mundane nature from a scroll or from one or two pages of paper, parchment, or similar surfaces. With this spell, you can remove explosive runes, a glyph of warding, a sepia snake sigil, or an arcane mark, but not illusory script or a symbol spell. Nonmagical writing is automatically erased if you touch it and no one else is holding it. Otherwise, the chance of erasing nonmagical writing is 90%.
 

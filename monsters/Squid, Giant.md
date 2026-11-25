@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Squid, Giant
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]] (Aquatic)
-  - **Hit Dice**: 12d8+48 (102 hp)
-  - **Initiative**: +7
-  - **Speed**: swim 60 ft., jet 260 ft.
-  - **Armor Class**: 20 (+3 Dex, +9 natural, –2 size), touch 11, flat-footed 17
-  - **Base Attack**: +9; **CMB**: +18 (+22 grapple); **CMD**: 31
-  - **Attack**: Bite +19 melee (2d6+7) or arms +14 melee (1d6+7) or tentacle +17 melee (4d6+3/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +14 melee (2d6+7) and 2 arms +14 melee (1d6+7) and tentacles +12 melee (4d6+3/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 15 ft./15 ft. (30 ft. with arms and tentacles)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (4d6+10)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], ink cloud (20-ft. radius)
-  - **Saves**: Fort +14, Ref +13, Will +5
-  - **Abilities**: Str 25, Dex 17, Con 19, Int 2, Wis 12, Cha 2
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Perception|Perception]] +22
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (tentacle), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any ocean
-  - **Organization**: Solitary
-  - **Challenge Rating**: 9
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 13–18 HD (Huge); 19–36 HD (Gargantuan)
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]] (Aquatic)
+- **Hit Dice**: 12d8+48 (102 hp)
+- **Initiative**: +7
+- **Speed**: swim 60 ft., jet 260 ft.
+- **Armor Class**: 20 (+3 Dex, +9 natural, –2 size), touch 11, flat-footed 17
+- **Base Attack**: +9; **CMB**: +18 (+22 grapple); **CMD**: 31
+- **Attack**: Bite +19 melee (2d6+7) or arms +14 melee (1d6+7) or tentacle +17 melee (4d6+3/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +14 melee (2d6+7) and 2 arms +14 melee (1d6+7) and tentacles +12 melee (4d6+3/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 15 ft./15 ft. (30 ft. with arms and tentacles)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (4d6+10)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], ink cloud (20-ft. radius)
+- **Saves**: Fort +14, Ref +13, Will +5
+- **Abilities**: Str 25, Dex 17, Con 19, Int 2, Wis 12, Cha 2
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Perception|Perception]] +22
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (tentacle), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any ocean
+- **Organization**: Solitary
+- **Challenge Rating**: 9
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 13–18 HD (Huge); 19–36 HD (Gargantuan)
+- **Level Adjustment**: —
 
 The giant squid is a legendary beast capable of feeding on humans with ease. Hunger has been known to drive these normally deep-dwelling creatures up to the ocean surface where anything they encounter is potential prey. A giant squid is 45 feet long and weighs 1,500 pounds.
 

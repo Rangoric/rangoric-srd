@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Vigilant Bodyguard
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 3d8+3 (20 hp)
-  - **Initiative**: +5
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 20 (+4 armor, +1 Dex, +1 dodge, +4 Wis), touch 16, flat-footed 18
-  - **Base Attack**: +2; **CMB**: +5; **CMD**: 20
-  - **Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +5 melee (1d6+2) or [[rangoric-srd/equipment/weapons/Nunchaku|nunchaku]] +4 melee (1d6+2) or unarmed strike flurry of blows +3 melee (1d6+2) or [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +3 ranged (1d2+2)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +5 melee (1d6+2); or [[rangoric-srd/equipment/weapons/Nunchaku|nunchaku]] +4 melee (1d6+2); or unarmed strike flurry of blows +3/+3 melee (1d6+2); or [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +3 ranged (1d2+2)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (3/day, DC 15)
-  - **Special Qualities**: [[rangoric-srd/classes/Monk#^monk-evasion|Evasion]], [[rangoric-srd/classes/Monk#^monk-fast-movement|fast movement]], [[rangoric-srd/classes/Monk#^monk-maneuver-training|maneuver training]]
-  - **Saves**: Fort +4, Ref +4, Will +7 (+2 vs. enchantments)
-  - **Abilities**: Str 14, Dex 13, Con 12, Int 10, Wis 19, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +6 (+10 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +7
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (unarmed strike)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 2
-  - **Treasure**: NPC gear (combat gear: potions of cure light wounds (3), potion of mage armor, potion of magic weapon, potion of owl's wisdom, smokesticks (3); other gear: dagger, nunchaku, shuriken (20), bracers of armor +1, 30 gp)
-  - **Alignment**: Lawful neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 3d8+3 (20 hp)
+- **Initiative**: +5
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 20 (+4 armor, +1 Dex, +1 dodge, +4 Wis), touch 16, flat-footed 18
+- **Base Attack**: +2; **CMB**: +5; **CMD**: 20
+- **Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +5 melee (1d6+2) or [[rangoric-srd/equipment/weapons/Nunchaku|nunchaku]] +4 melee (1d6+2) or unarmed strike flurry of blows +3 melee (1d6+2) or [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +3 ranged (1d2+2)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +5 melee (1d6+2); or [[rangoric-srd/equipment/weapons/Nunchaku|nunchaku]] +4 melee (1d6+2); or unarmed strike flurry of blows +3/+3 melee (1d6+2); or [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +3 ranged (1d2+2)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (3/day, DC 15)
+- **Special Qualities**: [[rangoric-srd/classes/Monk#^monk-evasion|Evasion]], [[rangoric-srd/classes/Monk#^monk-fast-movement|fast movement]], [[rangoric-srd/classes/Monk#^monk-maneuver-training|maneuver training]]
+- **Saves**: Fort +4, Ref +4, Will +7 (+2 vs. enchantments)
+- **Abilities**: Str 14, Dex 13, Con 12, Int 10, Wis 19, Cha 8
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +6 (+10 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +7
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (unarmed strike)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 2
+- **Treasure**: NPC gear (combat gear: potions of cure light wounds (3), potion of mage armor, potion of magic weapon, potion of owl's wisdom, smokesticks (3); other gear: dagger, nunchaku, shuriken (20), bracers of armor +1, 30 gp)
+- **Alignment**: Lawful neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A vigilant bodyguard is a [[rangoric-srd/monsters/human/Human|human]] with 3 levels of [[rangoric-srd/classes/Monk|monk]]. Some monk orders hire out vigilant bodyguards to princelings, merchants, and priests with compatible interests and philosophies.
 

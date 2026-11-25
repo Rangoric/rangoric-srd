@@ -20,7 +20,7 @@ A sample trap; how traps work, and what each line means, is in [[rangoric-srd/ru
 - **Type**: magic
 - **[[rangoric-srd/skills/Investigation|Investigation]]**: DC 29 to find
 - **[[rangoric-srd/skills/Engineering|Engineering]]**: DC 29 to disable
-- **Trigger**: proximity (*[[rangoric-srd/spells/Alarm|alarm]]*)
+- **Trigger**: proximity (_[[rangoric-srd/spells/Alarm|alarm]]_)
 - **Reset**: none
 - **Duration**: 1d6 rounds
-- **Effect**: spell effect (heightened *[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]*, 8d6 electricity damage, DC 16 Reflex save for half); multiple targets (all targets in a 60-ft.-square chamber)
+- **Effect**: spell effect (heightened _[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_, 8d6 electricity damage, DC 16 Reflex save for half); multiple targets (all targets in a 60-ft.-square chamber)

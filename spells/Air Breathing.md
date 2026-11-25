@@ -35,15 +35,15 @@ tags: [rangoric, rangoric/spell]
 
 # Air Breathing
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 3, Blr 3, Clr 3, Drd 3, Hun 3, Mag 3, Psy 3, Sor/Wiz 3, Sum 3, SumU 3
-  - **Components**: V, S, M/DF (flower or piece of grass)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Living aquatic creatures touched
-  - **Duration**: 2 hours/level; see text
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Alc 3, Blr 3, Clr 3, Drd 3, Hun 3, Mag 3, Psy 3, Sor/Wiz 3, Sum 3, SumU 3
+- **Components**: V, S, M/DF (flower or piece of grass)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Living aquatic creatures touched
+- **Duration**: 2 hours/level; see text
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 The transmuted creatures can breathe air freely. Divide the duration evenly among all the creatures you touch. The spell doesn't make creatures unable to breathe water.

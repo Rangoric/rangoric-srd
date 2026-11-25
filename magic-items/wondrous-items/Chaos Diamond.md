@@ -20,10 +20,10 @@ tags: [rangoric, rangoric/magic-item]
 
 This lustrous gemstone is uncut and about the size of a human fist. The gem grants its possessor the following powers:
 
-  - Confusion, lesser
-  - Magic circle against law
-  - Word of chaos
-  - Cloak of chaos
+- Confusion, lesser
+- Magic circle against law
+- Word of chaos
+- Cloak of chaos
 
 Each power is usable 1d4 times per day. (The DM rolls secretly each day for each power separately).
 

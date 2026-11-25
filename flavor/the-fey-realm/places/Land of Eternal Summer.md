@@ -26,12 +26,12 @@ Wildlife in the region finds the absence of people and higher temperatures prefe
 
 **Seasons:** Spring passes nearly unnoticed in the Land of Eternal Summer, manifesting as small shoots of growth in vegetation, while winter merely gets a slight dip in the ambient temperature.
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* Those desiring to harvest *magic sand* often establish a base camp in the Land of Eternal Summer, and make daily trips into the Sands of Time.
+_Common:_ Those desiring to harvest _magic sand_ often establish a base camp in the Land of Eternal Summer, and make daily trips into the Sands of Time.
 
-*Uncommon:* The Pixie Court has been seen circling near the border with the Big Rock Mountains for several days, which suggests to many that they see some threat building in the adjacent region.
+_Uncommon:_ The Pixie Court has been seen circling near the border with the Big Rock Mountains for several days, which suggests to many that they see some threat building in the adjacent region.
 
-*Rare:* -
+_Rare:_ -
 
-*Obscure:* The Abatwa are a very wise people who love to share the information they have with other people, as long as they look like children or pregnant women.
+_Obscure:_ The Abatwa are a very wise people who love to share the information they have with other people, as long as they look like children or pregnant women.

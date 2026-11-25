@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/natural]
 
 # Serrated Horncaps
 
-*Exotic light melee weapon.* Cost 75 gp; Dmg 1d10 (S), 1d10 (M); Critical 19-20/x2; Weight 5 lb.; Type Slashing. ^stats
+_Exotic light melee weapon._ Cost 75 gp; Dmg 1d10 (S), 1d10 (M); Critical 19-20/x2; Weight 5 lb.; Type Slashing. ^stats
 
 These razor-lined horncaps must be specifically fitted to each individual minotaur. Existing horncaps can be retrofitted for a cost of 10 gp. When a minotaur is wearing serrated horncaps, his gore attack deals 1d10 points of damage and threatens a critical on a 19-20. In addition, he adds an additional 1d6 points of damage when using his powerful charge ability.

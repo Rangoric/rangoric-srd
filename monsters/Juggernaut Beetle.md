@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Juggernaut Beetle
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 20d10+100 (210 hp)
-  - **Initiative**: –1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 29 (–1 Dex, +22 natural, –2 size), touch 7, flat-footed 29
-  - **Base Attack**: +20; **CMB**: +32 (+34 bull rush); **CMD**: 41 (43 vs. bull rush or trip)
-  - **Attack**: Bite +28 melee (4d10+15/19–20)
-  - **Full Attack**: Bite +28 melee (4d10+15/19–20)
-  - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (60-ft. cone, 8d6 acid damage, Reflex DC 25 half, usable once every 1d4 rounds), [[rangoric-srd/monsters/abilities/Trample|trample]] (2d8+15, DC 30)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Selective Mind|selective mind]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid and mind-affecting effects, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-  - **Saves**: Fort +17, Ref +11, Will +7
-  - **Abilities**: Str 31, Dex 9, Con 20, Int 2, Wis 13, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +23, [[rangoric-srd/skills/Perception|Perception]] +14
-  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Stunning Critical|Stunning Critical]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
-  - **Environment**: Any underground
-  - **Organization**: Single or pair
-  - **Challenge Rating**: 14
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 20d10+100 (210 hp)
+- **Initiative**: –1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 29 (–1 Dex, +22 natural, –2 size), touch 7, flat-footed 29
+- **Base Attack**: +20; **CMB**: +32 (+34 bull rush); **CMD**: 41 (43 vs. bull rush or trip)
+- **Attack**: Bite +28 melee (4d10+15/19–20)
+- **Full Attack**: Bite +28 melee (4d10+15/19–20)
+- **Space/Reach**: 15 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (60-ft. cone, 8d6 acid damage, Reflex DC 25 half, usable once every 1d4 rounds), [[rangoric-srd/monsters/abilities/Trample|trample]] (2d8+15, DC 30)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Selective Mind|selective mind]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid and mind-affecting effects, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
+- **Saves**: Fort +17, Ref +11, Will +7
+- **Abilities**: Str 31, Dex 9, Con 20, Int 2, Wis 13, Cha 8
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +23, [[rangoric-srd/skills/Perception|Perception]] +14
+- **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Stunning Critical|Stunning Critical]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
+- **Environment**: Any underground
+- **Organization**: Single or pair
+- **Challenge Rating**: 14
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 One duergar steers a juggernaut while two riders attack.
 

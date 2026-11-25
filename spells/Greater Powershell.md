@@ -16,9 +16,9 @@ tags: [rangoric, rangoric/spell]
 
 # Greater Powershell
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Sor/Wiz 5
-  - **Duration**: 3 rounds/level (D)
+- **Level**: Sor/Wiz 5
+- **Duration**: 3 rounds/level (D)
 
-As *[[rangoric-srd/spells/Powershell|powershell]]*, except that the protection is increased to SR 25 and up to three spells or spell-like abilities can be blocked.
+As _[[rangoric-srd/spells/Powershell|powershell]]_, except that the protection is increased to SR 25 and up to three spells or spell-like abilities can be blocked.

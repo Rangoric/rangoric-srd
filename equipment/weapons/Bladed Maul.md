@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/hammers]
 
 # Bladed Maul
 
-*Martial two-handed melee weapon.* Cost 9 gp; Dmg 1d8 (S), 1d10 (M); Critical x2; Weight 10 lb.; Type Bludgeoning or slashing. ^stats
+_Martial two-handed melee weapon._ Cost 9 gp; Dmg 1d8 (S), 1d10 (M); Critical x2; Weight 10 lb.; Type Bludgeoning or slashing. ^stats
 
 The bladed maul is actually a whole class of weapons that consist of a sword-shaped cudgel or maul set with blades made of natural materials, like pieces of obsidian or sharks’ teeth. Like most cudgels, the body of the weapon is some form of hardwood and the majority of this weapon’s damage comes from crashing blows.
 

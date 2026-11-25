@@ -33,7 +33,7 @@ Psychokinesis \[see text\]
 **Duration:** Instantaneous  
 **Saving Throw:** None  
 **Power Resistance:** Yes  
-**Power Points:** 1  
+**Power Points:** 1
 
 Upon manifesting this power, you choose cold, electricity, fire, or sonic. You create a ray of energy of the chosen type that shoots forth from your fingertip and strikes a target within range, dealing 1d6 points of damage, if you succeed on a ranged touch attack with the ray.
 

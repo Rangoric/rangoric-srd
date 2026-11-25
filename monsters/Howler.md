@@ -37,30 +37,31 @@ change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---
+
 # Howler
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Evil, Extraplanar)
-  - **Hit Dice**: 5d10+10 (37 hp)
-  - **Initiative**: +6
-  - **Speed**: 60 ft. (12 squares)
-  - **Armor Class**: 15 (+2 Dex, +4 natural, –1 size), touch 11, flat-footed 13
-  - **Base Attack**: +5; **CMB**: +10; **CMD**: 22
-  - **Attack**: Bite +13 melee (1d8+4) or quills +3 melee (1d4+2 plus pain)
-  - **Full Attack**: Bite +8 melee (1d8+4) and quills +3 melee (1d4+2 plus pain)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: Howl
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., quill defense
-  - **Saves**: Fort +6, Ref +6, Will +3
-  - **Abilities**: Str 18, Dex 15, Con 15, Int 6, Wis 14, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +12 (+24 jumping), [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +6
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Lands of a chaotic evil-aligned plane
-  - **Organization**: Solitary or pack (2–4)
-  - **Challenge Rating**: 3
-  - **Treasure**: Incidental
-  - **Alignment**: Always chaotic evil
-  - **Advancement**: 7–9 HD (Large); 11–18 HD (Huge)
-  - **Level Adjustment**: +3 (cohort)
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Evil, Extraplanar)
+- **Hit Dice**: 5d10+10 (37 hp)
+- **Initiative**: +6
+- **Speed**: 60 ft. (12 squares)
+- **Armor Class**: 15 (+2 Dex, +4 natural, –1 size), touch 11, flat-footed 13
+- **Base Attack**: +5; **CMB**: +10; **CMD**: 22
+- **Attack**: Bite +13 melee (1d8+4) or quills +3 melee (1d4+2 plus pain)
+- **Full Attack**: Bite +8 melee (1d8+4) and quills +3 melee (1d4+2 plus pain)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: Howl
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., quill defense
+- **Saves**: Fort +6, Ref +6, Will +3
+- **Abilities**: Str 18, Dex 15, Con 15, Int 6, Wis 14, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +12 (+24 jumping), [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +6
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Lands of a chaotic evil-aligned plane
+- **Organization**: Solitary or pack (2–4)
+- **Challenge Rating**: 3
+- **Treasure**: Incidental
+- **Alignment**: Always chaotic evil
+- **Advancement**: 7–9 HD (Large); 11–18 HD (Huge)
+- **Level Adjustment**: +3 (cohort)
 
 The howler is a native to the chaotic evil planes, Outer Planes where madness is the norm and cruelty is expected and often rewarded. The howler prowls these realms, serving the role of a hungry predator like a lion or tiger, save for the fact that the typical howler is much more intelligent than a big cat. Worse, howlers have little interest in eating their prey—they need not feed to live, but rather enjoy the process of stalking, mauling, and killing living creatures. In a way, the act of inflicting intense pain and madness upon mortal life is what fills a howler's life instead of the desire to feed.
 
@@ -76,7 +77,7 @@ Although intelligent, a howler requires training before it can bear a rider in c
 
 **Howl (Su)**: A howler's constant howling is a grating, exhausting baying that can drive listeners insane. All beings other than outsiders within 120 feet of a howling howler must succeed on a DC 12 Will save or become cursed by the creature's howl. Once a creature becomes cursed in this way, she takes no additional penalty for being exposed to additional howlers' howls until the current howler curse is lifted. This is a sonic mind-affecting effect. The save DC is Charisma-based.
 
-[[rangoric-srd/rules/afflictions/Howler Howl|Howler Howl]]: Howl—curse; *save* Fort DC 12 negates; *frequency* 1/hour; *effect* 1 Wis damage; *cure* 1 save. The save DC is Charisma-based.
+[[rangoric-srd/rules/afflictions/Howler Howl|Howler Howl]]: Howl—curse; _save_ Fort DC 12 negates; _frequency_ 1/hour; _effect_ 1 Wis damage; _cure_ 1 save. The save DC is Charisma-based.
 
 **Pain (Ex)**: Whenever a creature takes damage from a howler's quill attack or its quill defense, that creature must make a DC 14 Reflex save or a quill breaks off in its flesh, causing the target to become [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] until the quill is removed. Removing one quill requires a DC 15 Medicine check made as a full-round action. For every 5 by which the check is exceeded, one additional quill can be removed. On a failed check, a quill is still removed, but the process deals 1d4+1 points of damage to the victim. The save DC is Dexterity-based.
 

@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 Each of these items is a small feather that has a power to suit a special need. The kinds of tokens are described below. Each token is usable once.
 
-*Bird*: A token that can be used to deliver a small written message unerringly to a designated target as would a carrier pigeon. The token lasts as long as it takes to carry the message.
+_Bird_: A token that can be used to deliver a small written message unerringly to a designated target as would a carrier pigeon. The token lasts as long as it takes to carry the message.
 
 Moderate conjuration; CL 12th; Craft Wondrous Item, major creation; Price 300 gp.

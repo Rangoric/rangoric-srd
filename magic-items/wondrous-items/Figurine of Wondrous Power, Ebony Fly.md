@@ -21,6 +21,6 @@ Each of the several kinds of figurines of wondrous power appears to be a miniatu
 
 If a figurine of wondrous power is broken or destroyed in its statuette form, it is forever ruined. All magic is lost, its power departed. If slain in animal form, the figurine simply reverts to a statuette that can be used again at a later time.
 
-*Ebony Fly*: When animated, an ebony fly is the size of a pony and has all the statistics of a hippogriff but can make no attacks. The item can be used three times per week for up to 12 hours per use. When 12 hours have passed or when the command word is spoken, the ebony fly again becomes a tiny statuette.
+_Ebony Fly_: When animated, an ebony fly is the size of a pony and has all the statistics of a hippogriff but can make no attacks. The item can be used three times per week for up to 12 hours per use. When 12 hours have passed or when the command word is spoken, the ebony fly again becomes a tiny statuette.
 
 Moderate transmutation; CL 11th; Craft Wondrous Item, animate objects; Price 10,000 gp.

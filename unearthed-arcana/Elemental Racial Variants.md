@@ -14,21 +14,21 @@ tags: [rangoric, rangoric/overview]
 
 **[[#Races Of Air|Races of Air]]**  
 [[#Air Gnomes|Air Gnomes]]  
-[[#Air Goblins|Air Goblins]]  
+[[#Air Goblins|Air Goblins]]
 
 **[[#Races Of Earth|Races of Earth]]**  
 [[#Earth Dwarves|Earth Dwarves]]  
-[[#Earth Kobolds|Earth Kobolds]]  
+[[#Earth Kobolds|Earth Kobolds]]
 
 **[[#Races Of Fire|Races of Fire]]**  
 [[#Fire Elves|Fire Elves]]  
 [[#Fire Half-Elves|Fire Half-Elves]]  
-[[#Fire Hobgoblins|Fire Hobgoblins]]  
+[[#Fire Hobgoblins|Fire Hobgoblins]]
 
 **[[#Races Of Water|Races of Water]]**  
 [[#Water Half-Orcs|Water Half-Orcs]]  
 [[#Water Halflings|Water Halflings]]  
-[[#Water Orcs|Water Orcs]]  
+[[#Water Orcs|Water Orcs]]
 
 The d20 cosmology has six Inner Planes, four of which correspond to the classic elements: [[rangoric-srd/rules/Planes|air]], [[rangoric-srd/rules/Planes|earth]], [[rangoric-srd/rules/Planes|fire]], and [[rangoric-srd/rules/Planes|water]]. You can link races to various elements without making them extraplanar creatures. In fact, you can create an entire philosophical system based on various combinations of element types and their relative strengths.
 

@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This metal helm is made to look like the wearer has large fangs and other features resembling those of a fearsome predator. If the wearer is a [[rangoric-srd/classes/Barbarian|barbarian]], she can use the [[rangoric-srd/class-options/rage-powers/Intimidating Glare (Rage Power)|intimidating glare]] [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] whenever she rages. The helm has no effect if the wearer is not a barbarian (or another class with the [[rangoric-srd/classes/Barbarian#^barbarian-rage|rage]] class feature).
 
-Faint necromancy; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Cause Fear|cause fear]]*; Price 5,000 gp; Cost 2,500 gp; Weight 4 lbs.
+Faint necromancy; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Cause Fear|cause fear]]_; Price 5,000 gp; Cost 2,500 gp; Weight 4 lbs.

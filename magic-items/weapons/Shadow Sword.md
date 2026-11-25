@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Shadow Sword
 
-This *+2 longsword* is crafted from the essence of the Plane of Shadow. It is perfectly invisible in natural darkness and shadows, and can be placed and retrieved in the wielder’s shadow, just as if the shadow was a sheath. An assassin’s [[rangoric-srd/rules/Special Abilities and Conditions#Death Attacks|death attack]] performed with a *shadow sword* adds +4 to the target’s DC to resist the death effect.
+This _+2 longsword_ is crafted from the essence of the Plane of Shadow. It is perfectly invisible in natural darkness and shadows, and can be placed and retrieved in the wielder’s shadow, just as if the shadow was a sheath. An assassin’s [[rangoric-srd/rules/Special Abilities and Conditions#Death Attacks|death attack]] performed with a _shadow sword_ adds +4 to the target’s DC to resist the death effect.
 
-Moderate illusion [shadow]; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Shadow Conjuration|shadow conjuration]]*; Price 40,315 gp; Cost 20,158 gp + 1,613 XP.
+Moderate illusion [shadow]; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Shadow Conjuration|shadow conjuration]]_; Price 40,315 gp; Cost 20,158 gp + 1,613 XP.

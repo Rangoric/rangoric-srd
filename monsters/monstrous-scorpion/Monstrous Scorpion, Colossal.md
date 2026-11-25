@@ -37,24 +37,24 @@ tags: [rangoric, rangoric/monster]
 
 # Monstrous Scorpion, Colossal
 
-  - Colossal Vermin
-  - **Hit Dice**: 40d8+120 (300 hp)
-  - **Initiative**: –1
-  - **Speed**: 50 ft. (10 squares)
-  - **Armor Class**: 26 (–8 size, –1 Dex, +25 natural), touch 1, flat-footed 26
-  - **Base Attack**: +30; **CMB**: +50 (+54 grapple); **CMD**: 59 (71 vs. trip)
-  - **Attack**: Claw +34 melee (2d8+12)
-  - **Full Attack**: 2 claws +34 melee (2d8+12) and sting +29 melee (2d8+6 plus poison)
-  - **Space/Reach**: 40 ft./30 ft.
-  - **Special Attacks**: Constrict 2d8+12, improved grab, poison
-  - **Special Qualities**: Darkvision 60 ft., tremorsense 60 ft., vermin traits
-  - **Saves**: Fort +25, Ref +12, Will +13
-  - **Abilities**: Str 35, Dex 8, Con 16, Int —, Wis 10, Cha 2
-  - **Skills**: Athletics +59, Perception +4, Stealth –12
-  - **Feats**: —
-  - **Environment**: Warm deserts
-  - **Organization**: Solitary
-  - **Challenge Rating**: 12
-  - **Treasure**: 1/10 coins; 50% goods; 50% items
-  - **Advancement**: 41–60 HD (Colossal)
-  - **Level Adjustment**: —
+- Colossal Vermin
+- **Hit Dice**: 40d8+120 (300 hp)
+- **Initiative**: –1
+- **Speed**: 50 ft. (10 squares)
+- **Armor Class**: 26 (–8 size, –1 Dex, +25 natural), touch 1, flat-footed 26
+- **Base Attack**: +30; **CMB**: +50 (+54 grapple); **CMD**: 59 (71 vs. trip)
+- **Attack**: Claw +34 melee (2d8+12)
+- **Full Attack**: 2 claws +34 melee (2d8+12) and sting +29 melee (2d8+6 plus poison)
+- **Space/Reach**: 40 ft./30 ft.
+- **Special Attacks**: Constrict 2d8+12, improved grab, poison
+- **Special Qualities**: Darkvision 60 ft., tremorsense 60 ft., vermin traits
+- **Saves**: Fort +25, Ref +12, Will +13
+- **Abilities**: Str 35, Dex 8, Con 16, Int —, Wis 10, Cha 2
+- **Skills**: Athletics +59, Perception +4, Stealth –12
+- **Feats**: —
+- **Environment**: Warm deserts
+- **Organization**: Solitary
+- **Challenge Rating**: 12
+- **Treasure**: 1/10 coins; 50% goods; 50% items
+- **Advancement**: 41–60 HD (Colossal)
+- **Level Adjustment**: —

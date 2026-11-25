@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Web
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “web (+8 ranged, DC 16, 5 hp)”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “web (+8 ranged, DC 16, 5 hp)”, on the Special Attacks line.
 
 Creatures with the web ability can use webs to support themselves and up to one additional creature of the same size. In addition, such creatures can throw a web up to eight times per day. This is similar to an attack with a [[rangoric-srd/equipment/weapons/Net|net]] but has a maximum range of 50 feet, with a range increment of 10 feet, and is effective against targets up to one size category larger than the web spinner. An [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]] target can escape with a successful [[rangoric-srd/skills/Escape Artist|Escape Artist]] check or burst the web with a Strength check. Both are standard actions with a DC equal to 10 + 1/2 the creature's Hit Dice + the creature's Constitution modifier. Attempts to burst a web by those caught in it take a –4 penalty.
 

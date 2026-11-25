@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/overview]
 
 ### Pyrokineticist
 
-Hit Die: d8.  
+Hit Die: d8.
 
 **[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
 
@@ -25,7 +25,7 @@ Hit Die: d8.
 
 ###### Requirements
 
-To qualify to become a pyrokineticist, a character must fulfill all the following criteria.  
+To qualify to become a pyrokineticist, a character must fulfill all the following criteria.
 
 Alignment: Any chaotic.
 
@@ -39,11 +39,11 @@ Special: Must have set fire to a structure of any size just to watch it burn.
 
 ###### Class Skills
 
-The pyrokineticist’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), and [[rangoric-srd/skills/Psionics (Skill)|Psionics]] (Int).  
+The pyrokineticist’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), and [[rangoric-srd/skills/Psionics (Skill)|Psionics]] (Int).
 
 Skill Points at Each Level: 2 + Int modifier.
 
-Table: The Pyrokineticist   
+Table: The Pyrokineticist
 
 | Level | Special                     |
 | ----- | --------------------------- |
@@ -60,7 +60,7 @@ Table: The Pyrokineticist
 
 ###### Class Features
 
-All the following are class features of the pyrokineticist prestige class.  
+All the following are class features of the pyrokineticist prestige class.
 
 Weapon and Armor Proficiency: Pyrokineticists gain no proficiency with any weapon or armor.
 

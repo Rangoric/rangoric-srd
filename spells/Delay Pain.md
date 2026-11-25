@@ -34,15 +34,15 @@ tags: [rangoric, rangoric/spell]
 
 # Delay Pain
 
-*Enchantment \[Emotion\]*
+_Enchantment \[Emotion\]_
 
-  - **Level**: Blr 2, Brd 2, Clr 2, Inq 2, Mes 2, Psy 2, Skd 2, Sor/Wiz 2, Wit 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: 1 hour/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Blr 2, Brd 2, Clr 2, Inq 2, Mes 2, Psy 2, Skd 2, Sor/Wiz 2, Wit 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: 1 hour/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
-You override the target's ability to feel pain. Pain effects (such as *[[rangoric-srd/spells/Pain Strike|pain strike]]*\*\* and *[[rangoric-srd/spells/Symbol of Pain|symbol of pain]]*) do not affect the target until this spell's duration has expired. This does not negate any physical damage, ability damage, or ability drain that a pain effect has already done, but it does negate ongoing penalties from pain while the spell lasts.
+You override the target's ability to feel pain. Pain effects (such as _[[rangoric-srd/spells/Pain Strike|pain strike]]_\*\* and _[[rangoric-srd/spells/Symbol of Pain|symbol of pain]]_) do not affect the target until this spell's duration has expired. This does not negate any physical damage, ability damage, or ability drain that a pain effect has already done, but it does negate ongoing penalties from pain while the spell lasts.

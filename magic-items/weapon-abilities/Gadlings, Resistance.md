@@ -23,4 +23,4 @@ Magical gadlings are quite common amongst those who can afford them. In most tou
 
 **Gadlings of Resistance**: Once per day, these gadlings can grant their wearer a +1 morale bonus to all saving throws for 10 minutes. Twelve carved stone gadlings must be attached to a gauntlet in order to enchant it in this manner.
 
-Faint abjuration; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Bless|bless]]*; Price 10,880 gp; Cost 5,400 gp + 432 XP.
+Faint abjuration; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Bless|bless]]_; Price 10,880 gp; Cost 5,400 gp + 432 XP.

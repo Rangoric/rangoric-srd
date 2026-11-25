@@ -34,7 +34,7 @@ Effect: Sounds; see text
 Duration: 1 round/level (D)  
 Saving Throw: None  
 Power Resistance: No  
-Power Points: 1  
+Power Points: 1
 
 You create a volume of sound that rises, recedes, approaches, or remains at a fixed place. You choose what type of sound the power creates when manifesting it and cannot thereafter change its basic character. The volume of sound created, however, depends on your level. You can produce as much noise as four normal humans per manifester level (maximum twenty humans). Thus, talking, singing, shouting, walking, marching, or running sounds can be created. The noise produced can be virtually any type of sound within the volume limit. A horde of rats running and squeaking is about the same volume as eight humans running and shouting. A roaring lion is equal to the noise from sixteen humans, while a roaring dire lion is equal to the noise from twenty humans.
 

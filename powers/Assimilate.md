@@ -31,7 +31,7 @@ Target: One living creature touched
 Duration: Instantaneous and 1 hour; see text  
 Saving Throw: Fortitude half  
 Power Resistance: Yes  
-Power Points: 17  
+Power Points: 17
 
 Your pointing finger turns black as obsidian. A creature touched by you is partially assimilated into your form and takes 20d6 points of damage. Any creature reduced to 0 or fewer hit points by this power is killed, entirely assimilated into your form, leaving behind only a trace of fine dust. An assimilated creature’s equipment is unaffected.
 

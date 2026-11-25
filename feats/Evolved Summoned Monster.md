@@ -16,9 +16,9 @@ tags: [rangoric, rangoric/feat]
 
 The creatures you summon have evolved to have even greater abilities.
 
-**Prerequisites**: [[rangoric-srd/feats/Augment Summoning|Augment Summoning]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration), ability to cast *[[rangoric-srd/spells/Summon Monster I|summon monster I]]*.
+**Prerequisites**: [[rangoric-srd/feats/Augment Summoning|Augment Summoning]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration), ability to cast _[[rangoric-srd/spells/Summon Monster I|summon monster I]]_.
 
-**Benefit**: Each time you cast a *summon monster* spell, you can select a [[rangoric-srd/class-options/evolutions/Evolutions#Summoner Evolutions|1-point evolution]] from those available to a summoner’s eidolon. Your summoned creature gains this evolution. The summoned creature must conform to any limitations of the evolution. (For instance, only a creature with a reach of 10 feet or more can have the [[rangoric-srd/class-options/evolutions/Pull (Evolution)|pull]] evolution.) Evolutions that grant additional attacks or enhance existing attacks can be applied only to Medium or larger summoned creatures.
+**Benefit**: Each time you cast a _summon monster_ spell, you can select a [[rangoric-srd/class-options/evolutions/Evolutions#Summoner Evolutions|1-point evolution]] from those available to a summoner’s eidolon. Your summoned creature gains this evolution. The summoned creature must conform to any limitations of the evolution. (For instance, only a creature with a reach of 10 feet or more can have the [[rangoric-srd/class-options/evolutions/Pull (Evolution)|pull]] evolution.) Evolutions that grant additional attacks or enhance existing attacks can be applied only to Medium or larger summoned creatures.
 
 If you summon more than one creature with a single spell, only one creature gains this evolution.
 

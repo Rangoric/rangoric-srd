@@ -34,7 +34,7 @@ Area: 30-ft.-radius emanation centered on you
 Duration: 10 min./level (D)  
 Saving Throw: None  
 Power Resistance: No  
-Power Points: 3  
+Power Points: 3
 
 While the duration of this power lasts, you become aware of the presence of any creatures with hostile intent within 30 feet of you, and their direction from you (but not their specific location). The power detects active aggression, as opposed to vigilance. In addition, while this power is active you cannot be surprised or caught flatfooted by creatures that are susceptible to mind-affecting powers.
 

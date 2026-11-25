@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Augnagar
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Evil, Extraplanar, Qlippoth)
-  - **Hit Dice**: 14d10+126 (203 hp)
-  - **Initiative**: +3
-  - **Speed**: 50 ft. (10 squares), climb 50 ft., fly 50 ft. (average)
-  - **Armor Class**: 29 (–1 Dex, +22 natural, –2 size), touch 7, flat-footed 29
-  - **Base Attack**: +14; **CMB**: +27; **CMD**: 36 (44 vs. trip)
-  - **Attack**: Bite +23 melee (2d6+11 plus 1d8 bleed and rotting curse) or claw +23 melee (1d8+11 plus 1d8 bleed)
-  - **Full Attack**: Bite +23 melee (2d6+11 plus 1d8 bleed and rotting curse) and 3 claws +23 melee (1d8+11 plus 1d8 bleed)
-  - **Space/Reach**: 15ft./15 ft. (30 ft. with claws)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Horrific Appearance|Horrific appearance]] (DC 21), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], true seeing, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/lawful, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, poison and mind-affecting effects, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, electricity 10 and fire 10
-  - **Saves**: Fort +18, Ref +10, Will +9
-  - **Abilities**: Str 32, Dex 9, Con 28, Int 5, Wis 20, Cha 19
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +24
-  - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
-  - **Environment**: Any (a chaotic evil-aligned plane: the [[rangoric-srd/rules/planes/The Abyss|Abyss]])
-  - **Organization**: Solitary
-  - **Challenge Rating**: 14
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Evil, Extraplanar, Qlippoth)
+- **Hit Dice**: 14d10+126 (203 hp)
+- **Initiative**: +3
+- **Speed**: 50 ft. (10 squares), climb 50 ft., fly 50 ft. (average)
+- **Armor Class**: 29 (–1 Dex, +22 natural, –2 size), touch 7, flat-footed 29
+- **Base Attack**: +14; **CMB**: +27; **CMD**: 36 (44 vs. trip)
+- **Attack**: Bite +23 melee (2d6+11 plus 1d8 bleed and rotting curse) or claw +23 melee (1d8+11 plus 1d8 bleed)
+- **Full Attack**: Bite +23 melee (2d6+11 plus 1d8 bleed and rotting curse) and 3 claws +23 melee (1d8+11 plus 1d8 bleed)
+- **Space/Reach**: 15ft./15 ft. (30 ft. with claws)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Horrific Appearance|Horrific appearance]] (DC 21), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], true seeing, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/lawful, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, poison and mind-affecting effects, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, electricity 10 and fire 10
+- **Saves**: Fort +18, Ref +10, Will +9
+- **Abilities**: Str 32, Dex 9, Con 28, Int 5, Wis 20, Cha 19
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +24
+- **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
+- **Environment**: Any (a chaotic evil-aligned plane: the [[rangoric-srd/rules/planes/The Abyss|Abyss]])
+- **Organization**: Solitary
+- **Challenge Rating**: 14
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The immense augnagar is relatively slow-witted. As an outsider, it does not need to eat to survive, yet it remains ravenous and feeds on anything it can overpower. The augnagar prefers the taste of well-rotted flesh— particularly rotted demon flesh—and the horrific curse its bite imparts flavors its meals perfectly. Yet the augnagar's favorite feast is of a much more cannibalistic type. These creatures find the flesh of their own kind to be the greatest delicacy. When an augnagar feeds upon enough of its own kind, it grows enormously bloated such that it can no longer fly, at which point it uses its clawed tails to tear its body apart in a frenzy of self-destruction. From this storm of torn fat and shredded viscera emerges a fully grown thulgant qlippoth—a creature similar in shape to an augnagar, yet much more intelligent and even more dangerous.
 
@@ -70,7 +70,7 @@ Augnagars speak Abyssal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 14th; concentration +18): Constant—*[[rangoric-srd/spells/True Seeing|true seeing]]*; 3/day—*[[rangoric-srd/spells/Dimension Door|dimension door]]*, *[[rangoric-srd/spells/Protection from Law|protection from law]]*; 1/day—*[[rangoric-srd/spells/Waves of Exhaustion|waves of exhaustion]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 14th; concentration +18): Constant—_[[rangoric-srd/spells/True Seeing|true seeing]]_; 3/day—_[[rangoric-srd/spells/Dimension Door|dimension door]]_, _[[rangoric-srd/spells/Protection from Law|protection from law]]_; 1/day—_[[rangoric-srd/spells/Waves of Exhaustion|waves of exhaustion]]_.
 
 **[[rangoric-srd/monsters/abilities/Horrific Appearance|Horrific Appearance]] (Su)**: Creatures that succumb to an augnagar's horrific appearance are driven momentarily insane. This results in 2 points of Charisma damage and leaves the victim [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1d3 rounds.
 

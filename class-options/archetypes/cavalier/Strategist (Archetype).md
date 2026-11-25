@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Strategist
 
-*A [[rangoric-srd/classes/Cavalier#^cavalier-archetypes|cavalier]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Cavalier#^cavalier-archetypes|cavalier]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Some cavaliers make a lifelong mission out of their exceptional ability to direct troops on the battlefield, combining tactical insight with a preternatural skill at improving the teamwork of their allies in order to win the day. Such strategists are masters at learning the strengths and weaknesses of those they fight alongside, and at employing those observations at the most opportune moments. The best of them are also skilled at determining the strengths and weaknesses of their enemies, as well as at countering some of those strengths with their own formidable abilities.
 

@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Unavoidable Strike
 
-You can make an unarmed strike or use a natural weapon against your foe as if delivering a touch attack.  
+You can make an unarmed strike or use a natural weapon against your foe as if delivering a touch attack.
 
 Prerequisite: Str 13, [[rangoric-srd/feats/Psionic Fist (Feat)|Psionic Fist]], base attack bonus +5.
 

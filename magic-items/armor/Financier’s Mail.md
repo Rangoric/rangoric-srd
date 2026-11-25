@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Financier’s Mail
 
-These suits of *+1* [[rangoric-srd/equipment/armor/Heraldic Coin Armor|heraldic coin armor]] were crafted by priests of a long forgotten god of wealth and trickery, and were among the first *[[rangoric-srd/magic-items/armor-abilities/Firm Faith (Armor Special Ability)|firm faith]]* armors ever made. They retain their basic form, although the coins that make up the armor all bear the face of some deity, which winces with attacks and smiles upon victory (or a good joke).
+These suits of _+1_ [[rangoric-srd/equipment/armor/Heraldic Coin Armor|heraldic coin armor]] were crafted by priests of a long forgotten god of wealth and trickery, and were among the first _[[rangoric-srd/magic-items/armor-abilities/Firm Faith (Armor Special Ability)|firm faith]]_ armors ever made. They retain their basic form, although the coins that make up the armor all bear the face of some deity, which winces with attacks and smiles upon victory (or a good joke).
 
-Moderate transmutation; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Spiritual Weapon|spiritual weapon]]*, *[[rangoric-srd/spells/Prayer|prayer]]*; Price 17,650 gp.
+Moderate transmutation; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Spiritual Weapon|spiritual weapon]]_, _[[rangoric-srd/spells/Prayer|prayer]]_; Price 17,650 gp.

@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Bat Shaman
 
-*A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 The bat shaman's totem is the agile bat, flitting and turning with incredible speed through even the most convoluted mazes. Her enemies do not know when she will appear, and when she does, she strikes fast and hard before disappearing into the night.
 
@@ -31,9 +31,9 @@ The bat shaman's totem is the agile bat, flitting and turning with incredible sp
 
 **Totem Transformation (Su)**: At 2nd level, a bat shaman may adopt an aspect of the bat while retaining her normal form. This ability functions as the [[rangoric-srd/class-options/archetypes/druid/Ape Shaman (Archetype)|ape shaman ability]], but the druid may select from the following sets of bonuses and abilities: movement (fly speed 30 ft. \[average\]; the druid must be at least 5th level to select this bonus), natural weapons (bite \[1d4 for a Medium shaman\]), or senses ([[rangoric-srd/rules/Special Abilities and Conditions#Blindsight and Blindsense|blindsense]] 20 ft.).
 
-While using totem transformation, the bat shaman may speak normally and can cast *[[rangoric-srd/spells/Speak with Animals|speak with animals]]* (bats only) at will. This ability replaces [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]].
+While using totem transformation, the bat shaman may speak normally and can cast _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_ (bats only) at will. This ability replaces [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]].
 
-**Totemic Summons (Su)**: At 5th level, a bat shaman may cast *[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature's ally]]* as a standard action when summoning bats, and these summoned creatures gain temporary hit points equal to her druid level. This ability otherwise functions as the [[rangoric-srd/class-options/archetypes/druid/Ape Shaman (Archetype)|ape shaman ability]].
+**Totemic Summons (Su)**: At 5th level, a bat shaman may cast _[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature's ally]]_ as a standard action when summoning bats, and these summoned creatures gain temporary hit points equal to her druid level. This ability otherwise functions as the [[rangoric-srd/class-options/archetypes/druid/Ape Shaman (Archetype)|ape shaman ability]].
 
 **Wild Shape (Su)**: At 6th level, a bat shaman's [[rangoric-srd/classes/Druid#^druid-wild-shape|wild shape]] ability functions at her druid level –2. If she takes on the form of a bat, she instead uses her druid level + 2.
 

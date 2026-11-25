@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Silvanshee
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Agathion, Extraplanar, Good)
-  - **Hit Dice**: 2d10+2 (13 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares), fly 90 ft. (good)
-  - **Armor Class**: 15 (+2 Dex, +1 natural, +2 size), touch 14, flat-footed 13
-  - **Base Attack**: +2; **CMB**: +2; **CMD**: 8 (12 vs. trip)
-  - **Attack**: Bite +6 melee (1d3–4) or claw +6 melee (1d2–4)
-  - **Full Attack**: Bite +6 melee (1d3–4) and 2 claws +6 melee (1d2–4)
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Heroic Strength|Heroic strength]], [[rangoric-srd/monsters/abilities/Pounce|pounce]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Cat's Luck (Silvanshee)|cat's luck]], [[rangoric-srd/monsters/abilities/Flight|flight]], lay on hands (1d6, 1/day, always as a 2nd-level paladin), [[rangoric-srd/monsters/abilities/Spectral Mist|spectral mist]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/evil or silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and sonic 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 13
-  - **Saves**: Fort +5, Ref +6, Will +2
-  - **Abilities**: Str 3, Dex 15, Con 12, Int 10, Wis 12, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +19, [[rangoric-srd/skills/Theology|Theology]] +5
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any land (a neutral good-aligned plane: [[rangoric-srd/rules/planes/Nirvana|Nirvana]])
-  - **Organization**: Solitary, pair, or clowder (3–10)
-  - **Challenge Rating**: 2
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral good
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Agathion, Extraplanar, Good)
+- **Hit Dice**: 2d10+2 (13 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares), fly 90 ft. (good)
+- **Armor Class**: 15 (+2 Dex, +1 natural, +2 size), touch 14, flat-footed 13
+- **Base Attack**: +2; **CMB**: +2; **CMD**: 8 (12 vs. trip)
+- **Attack**: Bite +6 melee (1d3–4) or claw +6 melee (1d2–4)
+- **Full Attack**: Bite +6 melee (1d3–4) and 2 claws +6 melee (1d2–4)
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Heroic Strength|Heroic strength]], [[rangoric-srd/monsters/abilities/Pounce|pounce]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Cat's Luck (Silvanshee)|cat's luck]], [[rangoric-srd/monsters/abilities/Flight|flight]], lay on hands (1d6, 1/day, always as a 2nd-level paladin), [[rangoric-srd/monsters/abilities/Spectral Mist|spectral mist]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/evil or silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and sonic 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 13
+- **Saves**: Fort +5, Ref +6, Will +2
+- **Abilities**: Str 3, Dex 15, Con 12, Int 10, Wis 12, Cha 13
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +19, [[rangoric-srd/skills/Theology|Theology]] +5
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any land (a neutral good-aligned plane: [[rangoric-srd/rules/planes/Nirvana|Nirvana]])
+- **Organization**: Solitary, pair, or clowder (3–10)
+- **Challenge Rating**: 2
+- **Treasure**: Standard
+- **Alignment**: Usually neutral good
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Silvanshees are curious but reclusive cat agathions. Unobtrusive and able to blend in among normal animals (unlike the more anthropomorphic agathions), they are the eyes and ears of the good planes in the mortal world. Most roam hills, forests, and plains, keeping an eye out for evil influences. They can be taken as familiars by 7th-level good spellcasters who utilize the Improved Familiar feat and meet the proper prerequisites. As familiars, silvanshees act as moral guides and steer their mortal allies toward corruptive forces that must be eliminated. In some mortal lands, they are called cat sìth or cath sidhe, and are believed to be disguised witches or fairies—and not necessarily benign creatures, which only encourages silvanshees to avoid strangers.
 
@@ -72,7 +72,7 @@ Silvanshees speak Celestial, Draconic and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 2nd; concentration +3): Constant—*[[rangoric-srd/spells/Know Direction|know direction]]*, *[[rangoric-srd/spells/Speak with Animals|speak with animals]]*; At will—*[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]*, *[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]*; 1/day—*[[rangoric-srd/spells/Dimension Door|dimension door]]* (self plus 5 lbs. of objects only); 1/week—*[[rangoric-srd/spells/Commune|commune]]* (6 questions, CL 12th).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 2nd; concentration +3): Constant—_[[rangoric-srd/spells/Know Direction|know direction]]_, _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_; At will—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_; 1/day—_[[rangoric-srd/spells/Dimension Door|dimension door]]_ (self plus 5 lbs. of objects only); 1/week—_[[rangoric-srd/spells/Commune|commune]]_ (6 questions, CL 12th).
 
 **[[rangoric-srd/monsters/abilities/Cat's Luck (Silvanshee)|Cat's Luck]] (Su)**: A silvanshee adds its Charisma modifier as a luck bonus on all its saving throws. Once per day as a standard action, it can also grant this bonus to one ally within 30 feet for 10 minutes.
 

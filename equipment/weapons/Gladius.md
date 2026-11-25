@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades]
 
 # Gladius
 
-*Martial light melee weapon (performance).* Cost 15 gp; Dmg 1d4 (S), 1d6 (M); Critical 19–20/x2; Weight 3 lb.; Type Piercing or slashing. ^stats
+_Martial light melee weapon (performance)._ Cost 15 gp; Dmg 1d4 (S), 1d6 (M); Critical 19–20/x2; Weight 3 lb.; Type Piercing or slashing. ^stats
 
 The gladius is the favorite short sword of gladiators, with a heavier blade than the standard short sword. It serves well as a slashing weapon. Feats and abilities that affect [[rangoric-srd/equipment/weapons/Short Sword|short swords]] apply to the gladius.
 

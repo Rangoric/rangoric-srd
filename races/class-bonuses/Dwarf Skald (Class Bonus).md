@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Dwarf Skald
 
-*A [[rangoric-srd/races/Dwarf|dwarf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Skald#^skald-class-bonuses|skald]] level.*
+_A [[rangoric-srd/races/Dwarf|dwarf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Skald#^skald-class-bonuses|skald]] level._
 
 Reduce the [[rangoric-srd/equipment/Equipment Armor#^arcane-spell-failure|arcane spell failure]] chance for casting skald spells when wearing heavy armor by 1%. Once the total reduction reaches 10%, the skald also receives [[rangoric-srd/feats/Armor Proficiency (Heavy)|Armor Proficiency (Heavy)]] (if the skald does not already possess it).

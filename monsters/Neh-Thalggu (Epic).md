@@ -63,7 +63,7 @@ Organization: Solitary   
 Challenge Rating: 26      
 Treasure: Triple standard      
 Alignment: Usually chaotic neutral, neutral evil, or chaotic evil      
-Advancement: 33-66 HD (Gargantuan); 67-112 HD (Colossal)      
+Advancement: 33-66 HD (Gargantuan); 67-112 HD (Colossal)    
 
 A creature whose brain has been harvested by a brain collector cannot be raised, reincarnated, or resurrected while the brain is in the creature, because the collector preserves and draws upon the soul and basic personality of the creature for as long as it retains the brain. Neh-thalggus’ own language is a silent sign language “spoken” with their writhing head-tentacles. They can also communicate telepathically with any creature that has a language within 100 feet.
 

@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Nependis
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
-  - **Hit Dice**: 12d10+48 (114 hp)
-  - **Initiative**: +6
-  - **Speed**: 40 ft. (8 squares), climb 30 ft.
-  - **Armor Class**: 21 (+2 Dex, +10 natural, –1 size), touch 11, flat-footed 19
-  - **Base Attack**: +12; **CMB**: +23 (+27 grapple); **CMD**: 35
-  - **Attack**: Claw +21 melee (1d6+10 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or gore +21 melee (2d6+10)
-  - **Full Attack**: 2 claws +21 melee (1d6+10 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and gore +21 melee (2d6+10)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Abduct|Abduct]], [[rangoric-srd/monsters/abilities/Roar|roar]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Ferocity|ferocity]]
-  - **Saves**: Fort +10, Ref +10, Will +11
-  - **Abilities**: Str 31, Dex 15, Con 18, Int 7, Wis 12, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, [[rangoric-srd/skills/Athletics|Athletics]] +18 (+26 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +17
-  - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary, pair, or troop (3–6)
-  - **Challenge Rating**: 9
-  - **Treasure**: None
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
+- **Hit Dice**: 12d10+48 (114 hp)
+- **Initiative**: +6
+- **Speed**: 40 ft. (8 squares), climb 30 ft.
+- **Armor Class**: 21 (+2 Dex, +10 natural, –1 size), touch 11, flat-footed 19
+- **Base Attack**: +12; **CMB**: +23 (+27 grapple); **CMD**: 35
+- **Attack**: Claw +21 melee (1d6+10 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or gore +21 melee (2d6+10)
+- **Full Attack**: 2 claws +21 melee (1d6+10 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and gore +21 melee (2d6+10)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Abduct|Abduct]], [[rangoric-srd/monsters/abilities/Roar|roar]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Ferocity|ferocity]]
+- **Saves**: Fort +10, Ref +10, Will +11
+- **Abilities**: Str 31, Dex 15, Con 18, Int 7, Wis 12, Cha 6
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, [[rangoric-srd/skills/Athletics|Athletics]] +18 (+26 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +17
+- **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
+- **Environment**: Temperate forests
+- **Organization**: Solitary, pair, or troop (3–6)
+- **Challenge Rating**: 9
+- **Treasure**: None
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Fiercely territorial, the brutish nependises drive away any other large predators from their hunting grounds, even others of their kind. Only mated pairs caring for a litter tolerate each other, and even they separate once the offspring are old enough to fend for themselves. Nependises favors intelligent prey, fey in particular, both for the taste and the thrill of the hunt. They ambush opponents by jumping down from trees, grabbing the creatures, then retreating to find a safe place to eat. When challenged in its territory, a nependis drops from the trees, roars, then fights on foot. A nependis's sharp hooves allow it to climb trees as well as a great cat, leaving telltale scars in the bark.
 

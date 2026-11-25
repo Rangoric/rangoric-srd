@@ -25,9 +25,9 @@ tags: [rangoric, rangoric/spell]
 
 # Deep Slumber
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Brd 3, Mes 3, Occ 3, Psy 3, Sha 3, Skd 3, Sor/Wiz 3, Wit 3
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Level**: Brd 3, Mes 3, Occ 3, Psy 3, Sha 3, Skd 3, Sor/Wiz 3, Wit 3
+- **Range**: Close (25 ft. + 5 ft./2 levels)
 
 This spell functions like [[rangoric-srd/spells/Sleep|sleep]], except that it affects 10 HD of creatures.

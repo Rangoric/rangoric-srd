@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Undercutting Axe
 
-This *+1 giant-bane battleaxe* feels unusually heavy, as if it were made from something far heavier than mere wood and steel. Once per day its wearer can, as a swift action after a successful attack roll, invoke a maximized *[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]* on the creature struck (11 point Strength penalty, 7 rounds, Fortitude DC 16 for half).
+This _+1 giant-bane battleaxe_ feels unusually heavy, as if it were made from something far heavier than mere wood and steel. Once per day its wearer can, as a swift action after a successful attack roll, invoke a maximized _[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]_ on the creature struck (11 point Strength penalty, 7 rounds, Fortitude DC 16 for half).
 
-Moderate necromancy; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Maximize Spell|Maximize Spell]], *[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]*, *[[rangoric-srd/spells/Summon Monster I|summon monster I]]*; Price 23,310 gp; Cost 11,810 gp; Weight 6 lbs.
+Moderate necromancy; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Maximize Spell|Maximize Spell]], _[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]_, _[[rangoric-srd/spells/Summon Monster I|summon monster I]]_; Price 23,310 gp; Cost 11,810 gp; Weight 6 lbs.

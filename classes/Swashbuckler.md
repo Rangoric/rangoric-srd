@@ -43,28 +43,28 @@ The swashbuckler’s class skills (and the key ability for each skill) are [[ran
 
 **Table: The Swashbuckler** ^table-the-swashbuckler
 
-| Level | Special |
-| --- | --- |
-| 1st | Deeds, panache, swashbuckler finesse |
-| 2nd | Charmed life 3/day |
-| 3rd | Deeds, nimble +1 |
-| 4th | Bonus feat |
-| 5th | Swashbuckler weapon training +1 |
-| 6th | Charmed life 4/day |
-| 7th | Deeds, nimble +2 |
-| 8th | Bonus feat |
-| 9th | Swashbuckler weapon training +2 |
-| 10th | Charmed life 5/day |
-| 11th | Deeds, nimble +3 |
-| 12th | Bonus feat |
-| 13th | Swashbuckler weapon training +3 |
-| 14th | Charmed life 6/day |
-| 15th | Deeds, nimble +4 |
-| 16th | Bonus feat |
-| 17th | Swashbuckler weapon training +4 |
-| 18th | Charmed life 7/day |
-| 19th | Deeds, nimble +5 |
-| 20th | Bonus feat, swashbuckler weapon mastery |
+| Level | Special                                 |
+| ----- | --------------------------------------- |
+| 1st   | Deeds, panache, swashbuckler finesse    |
+| 2nd   | Charmed life 3/day                      |
+| 3rd   | Deeds, nimble +1                        |
+| 4th   | Bonus feat                              |
+| 5th   | Swashbuckler weapon training +1         |
+| 6th   | Charmed life 4/day                      |
+| 7th   | Deeds, nimble +2                        |
+| 8th   | Bonus feat                              |
+| 9th   | Swashbuckler weapon training +2         |
+| 10th  | Charmed life 5/day                      |
+| 11th  | Deeds, nimble +3                        |
+| 12th  | Bonus feat                              |
+| 13th  | Swashbuckler weapon training +3         |
+| 14th  | Charmed life 6/day                      |
+| 15th  | Deeds, nimble +4                        |
+| 16th  | Bonus feat                              |
+| 17th  | Swashbuckler weapon training +4         |
+| 18th  | Charmed life 7/day                      |
+| 19th  | Deeds, nimble +5                        |
+| 20th  | Bonus feat, swashbuckler weapon mastery |
 
 ###### Class Features
 

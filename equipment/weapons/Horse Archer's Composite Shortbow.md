@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/bows]
 
 # Horse Archer's Composite Shortbow
 
-*Exotic ranged weapon.* Cost 135 gp; Dmg 1d4 (S), 1d6 (M); Critical x3; Range Increment 90 ft.; Weight 2 lb.; Type Piercing. ^stats
+_Exotic ranged weapon._ Cost 135 gp; Dmg 1d4 (S), 1d6 (M); Critical x3; Range Increment 90 ft.; Weight 2 lb.; Type Piercing. ^stats
 
 This shortbow is designed to be fired from the back of any mount. Its unique balance and design make it especially stable in such a circumstance, reducing the penalties for firing to -2 instead of -4 if your mount is making a double move, or -4 instead of -8 if your mount is running. If used in combination with the Mounted Archery feat, the double move penalty is eliminated, and a -2 penalty is assessed instead of the -4 for a mount that is running. Composite horse archer’s bows follow all of the normal rules for composite bows, including strength ratings. Taking the Exotic Weapon Proficiency (horse archer’s bow) feat grants the wielder proficiency with either the longbow or the shortbow and with their component forms.

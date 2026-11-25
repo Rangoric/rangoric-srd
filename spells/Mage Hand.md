@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # Mage Hand
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Brd 0, Mag 0, Med 0, Mes 0, Occ 0, Psy 0, Skd 0, Sor/Wiz 0, Spi 0, Sum 0, SumU 0
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One nonmagical, unattended object weighing up to 5 lb.
-  - **Duration**: Concentration
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Brd 0, Mag 0, Med 0, Mes 0, Occ 0, Psy 0, Skd 0, Sor/Wiz 0, Spi 0, Sum 0, SumU 0
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One nonmagical, unattended object weighing up to 5 lb.
+- **Duration**: Concentration
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You point your finger at an object and can lift it and move it at will from a distance. As a move action, you can propel the object as far as 15 feet in any direction, though the spell ends if the distance between you and the object ever exceeds the spell’s range.

@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Drums of Lethargy
 
-This set of kettle drums appears to be *drums of haste*. When a creature plays the drums, it affects all creatures (including the creature playing the drums) as though subject to a *[[rangoric-srd/spells/Slow|slow]]* spell. A DC 14 Will save negates the effect. No [[rangoric-srd/skills/Performance|Performance]] check is needed to create the *[[rangoric-srd/spells/Slow|slow]]* effect.
+This set of kettle drums appears to be _drums of haste_. When a creature plays the drums, it affects all creatures (including the creature playing the drums) as though subject to a _[[rangoric-srd/spells/Slow|slow]]_ spell. A DC 14 Will save negates the effect. No [[rangoric-srd/skills/Performance|Performance]] check is needed to create the _[[rangoric-srd/spells/Slow|slow]]_ effect.
 
-Faint transmutation; CL 5th; Intended magic item: *drums of haste*.
+Faint transmutation; CL 5th; Intended magic item: _drums of haste_.

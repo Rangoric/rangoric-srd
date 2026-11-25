@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Talented
 
-You can overchannel powers with less cost to yourself.  
+You can overchannel powers with less cost to yourself.
 
 Prerequisite: [[rangoric-srd/feats/Overchannel|Overchannel]].
 

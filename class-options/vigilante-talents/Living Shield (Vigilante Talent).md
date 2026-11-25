@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Living Shield
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
 As an immediate action whenever the vigilante is [[rangoric-srd/combat/Combat Maneuvers#Grapple|grappling]] a creature and is targeted by an attack, he can attempt a combat maneuver check against the target of his grapple (this combat maneuver check doesn’t count as a grapple combat maneuver check). If he succeeds, the creature he is grappling becomes the new target of the attack. If the check fails, the creature escapes the grapple and the vigilante is the target of the attack as normal.
 

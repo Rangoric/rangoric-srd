@@ -28,7 +28,7 @@ Manifesting Time: 1 standard action
 Range: Personal  
 Target: You  
 Duration: 1 hour/level (D)  
-Power Points: 9  
+Power Points: 9
 
 Your body automatically adapts to hostile environments. You can adapt to underwater, extremely hot, extremely cold, or airless environments, allowing you to survive as if you were a creature native to that environment. You can breathe and move (though penalties to movement and attacks, if any for a particular environment, remain), and you take no damage simply from being in that environment. You need not specify what environment you are adapting to when you manifest this power; simply activate it, and your body will instantly adapt to any hostile environment as needed throughout the duration.
 

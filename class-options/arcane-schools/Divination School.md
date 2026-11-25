@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Divination School
 
-*An [[rangoric-srd/classes/Wizard#^wizard-arcane-school|arcane school]].*
+_An [[rangoric-srd/classes/Wizard#^wizard-arcane-school|arcane school]]._
 
 Diviners are masters of remote viewing, prophecies, and using magic to explore the world.
 
@@ -23,4 +23,4 @@ Diviners are masters of remote viewing, prophecies, and using magic to explore t
 
 **Diviner's Fortune (Sp)**: When you activate this school power, you can touch any creature as a standard action to give it an insight bonus on all of its attack rolls, skill checks, ability checks, and saving throws equal to 1/2 your wizard level (minimum +1) for 1 round. You can use this ability a number of times per day equal to 3 + your Intelligence modifier.
 
-**Scrying Adept (Su)**: At 8th level, you are always aware when you are being observed via magic, as if you had a permanent *[[rangoric-srd/spells/Detect Scrying|detect scrying]]*. In addition, whenever you scry on a subject, treat the subject as one step more familiar to you. Very familiar subjects get a –10 penalty on their save to avoid your scrying attempts.
+**Scrying Adept (Su)**: At 8th level, you are always aware when you are being observed via magic, as if you had a permanent _[[rangoric-srd/spells/Detect Scrying|detect scrying]]_. In addition, whenever you scry on a subject, treat the subject as one step more familiar to you. Very familiar subjects get a –10 penalty on their save to avoid your scrying attempts.

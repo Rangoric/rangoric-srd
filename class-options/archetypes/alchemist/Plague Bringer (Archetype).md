@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Plague Bringer
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-archetypes|alchemist]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Ratfolk|ratfolk]].*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-archetypes|alchemist]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Ratfolk|ratfolk]]._
 
 The plague bringer sees disease as the ultimate weapon, and has worked tirelessly to master new diseases and disease-delivery systems. A plague bringer feels no more remorse at unleashing his armaments on his enemies than an archer does when firing an arrow in the heat of battle. Disease is a tool, and the plague bringer is its master. A plague bringer has the following class features.
 

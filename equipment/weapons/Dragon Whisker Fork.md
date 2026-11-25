@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/pole-arms, weapon-group/
 
 # Dragon Whisker Fork
 
-*Martial two-handed melee weapon (trip).* Cost 20 gp; Dmg 2d3 (S), 2d4 (M); Critical x2; Range Increment 20 ft.; Weight 7 lb.; Type Piercing. ^stats
+_Martial two-handed melee weapon (trip)._ Cost 20 gp; Dmg 2d3 (S), 2d4 (M); Critical x2; Range Increment 20 ft.; Weight 7 lb.; Type Piercing. ^stats
 
-(*Long Xu Cho*): A slender, two-handed trident, the dragon whisker fork’s two side tines are wavy and extend horizontally from the weapon, while the central tine is typically wide and flat.
+(_Long Xu Cho_): A slender, two-handed trident, the dragon whisker fork’s two side tines are wavy and extend horizontally from the weapon, while the central tine is typically wide and flat.

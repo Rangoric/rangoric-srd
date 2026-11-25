@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Hieracosphinx
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 8d10+16 (60 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares), fly 60 ft. (poor)
-  - **Armor Class**: 17 (+2 Dex, +6 natural, –1 size), touch 11, flat-footed 15
-  - **Base Attack**: +8; **CMB**: +13; **CMD**: 25 (29 vs. trip)
-  - **Attack**: Bite +11 melee (1d10+4) or claw +11 melee (1d6+4)
-  - **Full Attack**: Bite +11 melee (1d10+4) and 2 claws +11 melee (1d6+4)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +11, 1d6+4), shriek
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
-  - **Saves**: Fort +8, Ref +8, Will +4
-  - **Abilities**: Str 19, Dex 14, Con 15, Int 6, Wis 15, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, [[rangoric-srd/skills/Perception|Perception]] +16
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Warm hills; warm deserts
-  - **Organization**: Solitary, pair, or flock (3–8)
-  - **Challenge Rating**: 5
-  - **Treasure**: Incidental
-  - **Alignment**: Always chaotic evil
-  - **Advancement**: 10–14 HD (Large); 15–27 HD (Huge)
-  - **Level Adjustment**: +3 (cohort)
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 8d10+16 (60 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares), fly 60 ft. (poor)
+- **Armor Class**: 17 (+2 Dex, +6 natural, –1 size), touch 11, flat-footed 15
+- **Base Attack**: +8; **CMB**: +13; **CMD**: 25 (29 vs. trip)
+- **Attack**: Bite +11 melee (1d10+4) or claw +11 melee (1d6+4)
+- **Full Attack**: Bite +11 melee (1d10+4) and 2 claws +11 melee (1d6+4)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +11, 1d6+4), shriek
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
+- **Saves**: Fort +8, Ref +8, Will +4
+- **Abilities**: Str 19, Dex 14, Con 15, Int 6, Wis 15, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, [[rangoric-srd/skills/Perception|Perception]] +16
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Warm hills; warm deserts
+- **Organization**: Solitary, pair, or flock (3–8)
+- **Challenge Rating**: 5
+- **Treasure**: Incidental
+- **Alignment**: Always chaotic evil
+- **Advancement**: 10–14 HD (Large); 15–27 HD (Huge)
+- **Level Adjustment**: +3 (cohort)
 
 The least intelligent of the common sphinxes, hieracosphinxes are a cowardly, cruel-hearted lot. All are male. They despise the larger and cleverer androsphinxes and criosphinxes. Toward gynosphinxes they hold a twisted mix of a lust and hate, simultaneously envying their beauty and power while craving them as mates. Hieracosphinxes attack other sphinxes whenever they have them at a disadvantage. Male sphinxes of other species they tear to shreds or drive away, whereas they prefer to leave gynosphinxes ravaged but alive. The other species of sphinx likewise hold nothing but disdain for hieracosphinxes, and typically attack these vile beasts on sight.
 

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Weapon Intuition
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “weapon intuition”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “weapon intuition”, on the Special Attacks line.
 
 The creature is proficient with simple and martial melee weapons. The [[rangoric-srd/monsters/Jackalwere|jackalwere]] has it.

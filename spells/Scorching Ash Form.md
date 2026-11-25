@@ -24,12 +24,12 @@ tags: [rangoric, rangoric/spell]
 
 # Scorching Ash Form
 
-*Transmutation \[Fire\]*
+_Transmutation \[Fire\]_
 
-  - **Level**: Alc 4, Sor/Wiz 4
-  - **Components**: S, M (a bit of gauze and a handful of ashes)
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Alc 4, Sor/Wiz 4
+- **Components**: S, M (a bit of gauze and a handful of ashes)
+- **Duration**: 1 minute/level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-This spell functions like *[[rangoric-srd/spells/Gaseous Form|gaseous form]]*, except the target becomes a visible swirl of hot ash and smoke instead of harmless translucent gas. The target gains the fire subtype. Any creature that begins its turn sharing a space with the target takes 2d6 points of fire damage and must make a Fortitude save (DC 15, + 1 per previous check) or suffer the effects of smoke inhalation .
+This spell functions like _[[rangoric-srd/spells/Gaseous Form|gaseous form]]_, except the target becomes a visible swirl of hot ash and smoke instead of harmless translucent gas. The target gains the fire subtype. Any creature that begins its turn sharing a space with the target takes 2d6 points of fire damage and must make a Fortitude save (DC 15, + 1 per previous check) or suffer the effects of smoke inhalation .

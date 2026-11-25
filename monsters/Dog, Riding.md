@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Dog, Riding
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 2d8+4 (13 hp)
-  - **Initiative**: +2
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 13 (+2 Dex, +1 natural), touch 12, flat-footed 11
-  - **Base Attack**: +1; **CMB**: +3; **CMD**: 15 (19 vs. trip)
-  - **Attack**: Bite +3 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Trip|trip]])
-  - **Full Attack**: Bite +3 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Trip|trip]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +5, Ref +5, Will +1
-  - **Abilities**: Str 15, Dex 15, Con 15, Int 2, Wis 12, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +2 (+10 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +1 (+5 scent tracking), [[rangoric-srd/skills/Perception|Perception]] +8
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, or pack (3–12)
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 2d8+4 (13 hp)
+- **Initiative**: +2
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 13 (+2 Dex, +1 natural), touch 12, flat-footed 11
+- **Base Attack**: +1; **CMB**: +3; **CMD**: 15 (19 vs. trip)
+- **Attack**: Bite +3 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Trip|trip]])
+- **Full Attack**: Bite +3 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Trip|trip]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +5, Ref +5, Will +1
+- **Abilities**: Str 15, Dex 15, Con 15, Int 2, Wis 12, Cha 6
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +2 (+10 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +1 (+5 scent tracking), [[rangoric-srd/skills/Perception|Perception]] +8
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any
+- **Organization**: Solitary, pair, or pack (3–12)
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Larger dogs (known to Small races like halflings and gnomes as riding dogs) include hardier breeds such as huskies, mastiffs, and wolfhounds. A riding dog can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on a DC 10 Animal Handling check.
 

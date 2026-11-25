@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Celestial Blood, Lesser
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su)._
 
 While raging, the barbarian’s melee attacks are considered good-aligned weapons for the purpose of bypassing damage reduction. Furthermore, when she deals damage with a melee attack to an evil outsider, she deals an additional 1d6 points of damage.
 

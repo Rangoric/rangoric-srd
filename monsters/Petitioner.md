@@ -42,28 +42,28 @@ tags: [rangoric, rangoric/monster]
 
 # Petitioner
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Extraplanar)
-  - **Hit Dice**: 2d10+5 (16 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 10, touch 10, flat-footed 10
-  - **Base Attack**: +2; **CMB**: +2; **CMD**: 12
-  - **Attack**: Slam +2 melee (1d4)
-  - **Full Attack**: Slam +2 melee (1d4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., petitioner traits, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-  - **Saves**: Fort +4, Ref +3, Will +0
-  - **Abilities**: Str 11, Dex 10, Con 13, Int 10, Wis 11, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (any two) +5, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +5, [[rangoric-srd/skills/Theology|Theology]] +5
-  - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Any (Outer Planes)
-  - **Organization**: Solitary, pair, group (3–12), or army (13 or more)
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: —
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Extraplanar)
+- **Hit Dice**: 2d10+5 (16 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 10, touch 10, flat-footed 10
+- **Base Attack**: +2; **CMB**: +2; **CMD**: 12
+- **Attack**: Slam +2 melee (1d4)
+- **Full Attack**: Slam +2 melee (1d4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., petitioner traits, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
+- **Saves**: Fort +4, Ref +3, Will +0
+- **Abilities**: Str 11, Dex 10, Con 13, Int 10, Wis 11, Cha 10
+- **Skills**: [[rangoric-srd/skills/Craft|Craft]] (any two) +5, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +5, [[rangoric-srd/skills/Theology|Theology]] +5
+- **Feats**: [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Any (Outer Planes)
+- **Organization**: Solitary, pair, group (3–12), or army (13 or more)
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: —
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The petitioner above is a human petitioner.
 

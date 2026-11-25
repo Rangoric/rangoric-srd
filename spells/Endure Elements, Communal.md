@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Endure Elements, Communal
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Alc 3, Clr 2, Drd 2, Hun 2, Pal 2, Psy 2, Rgr 2, Sor/Wiz 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creatures touched
-  - **Duration**: 24 hours
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Alc 3, Clr 2, Drd 2, Hun 2, Pal 2, Psy 2, Rgr 2, Sor/Wiz 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creatures touched
+- **Duration**: 24 hours
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-This spell functions like *[[rangoric-srd/spells/Endure Elements|endure elements]]*, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-hour increments among the creatures touched.
+This spell functions like _[[rangoric-srd/spells/Endure Elements|endure elements]]_, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-hour increments among the creatures touched.

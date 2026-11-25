@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Immediate Change
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-social-talent|social talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-social-talent|social talent]] (Ex)._
 
 The vigilante can change identities as a move action, and he no longer needs to spend extra time to adjust his appearance and persona.
 

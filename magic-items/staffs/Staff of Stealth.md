@@ -23,9 +23,9 @@ tags: [rangoric, rangoric/magic-item]
 
 This twisted, dark gray staff allows use of the following spells:
 
-- *[[rangoric-srd/spells/Disguise Self|disguise self]]* (1 charge)
-- *[[rangoric-srd/spells/Invisibility|invisibility]]* (1 charge)
-- *[[rangoric-srd/spells/Nondetection|nondetection]]* (1 charge)
-- *[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]* (2 charges)
+- _[[rangoric-srd/spells/Disguise Self|disguise self]]_ (1 charge)
+- _[[rangoric-srd/spells/Invisibility|invisibility]]_ (1 charge)
+- _[[rangoric-srd/spells/Nondetection|nondetection]]_ (1 charge)
+- _[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]_ (2 charges)
 
-Moderate illusion; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Disguise Self|disguise self]]*, *[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]*, *[[rangoric-srd/spells/Invisibility|invisibility]]*, *[[rangoric-srd/spells/Nondetection|nondetection]]*; Price 39,300 gp; Cost 19,650 gp; Weight 5 lbs.
+Moderate illusion; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Disguise Self|disguise self]]_, _[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Nondetection|nondetection]]_; Price 39,300 gp; Cost 19,650 gp; Weight 5 lbs.

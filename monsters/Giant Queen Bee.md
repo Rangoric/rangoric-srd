@@ -38,31 +38,31 @@ tags: [rangoric, rangoric/monster]
 
 # Giant Queen Bee
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
-  - **Hit Dice**: 7d8+28 (59 hp)
-  - **Initiative**: +0
-  - **Speed**: 20 ft. (4 squares), fly 60 ft. (good)
-  - **Armor Class**: 17 (+8 natural, –1 size), touch 9, flat-footed 17
-  - **Base Attack**: +5; **CMB**: +10; **CMD**: 20 (28 vs. trip)
-  - **Attack**: Sting +8 melee (1d8+6 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: Sting +8 melee (1d8+6 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects, vulnerable to smoke
-  - **Saves**: Fort +9, Ref +2, Will +3
-  - **Abilities**: Str 19, Dex 11, Con 18, Int —, Wis 12, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2
-  - **Feats**: —
-  - **Environment**: Temperate or warm plains
-  - **Organization**: Solitary or colony (1 queen and 3–18 giant bees)
-  - **Challenge Rating**: 5
-  - **Treasure**: Incidental (royal jelly)
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
+- **Hit Dice**: 7d8+28 (59 hp)
+- **Initiative**: +0
+- **Speed**: 20 ft. (4 squares), fly 60 ft. (good)
+- **Armor Class**: 17 (+8 natural, –1 size), touch 9, flat-footed 17
+- **Base Attack**: +5; **CMB**: +10; **CMD**: 20 (28 vs. trip)
+- **Attack**: Sting +8 melee (1d8+6 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: Sting +8 melee (1d8+6 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects, vulnerable to smoke
+- **Saves**: Fort +9, Ref +2, Will +3
+- **Abilities**: Str 19, Dex 11, Con 18, Int —, Wis 12, Cha 13
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2
+- **Feats**: —
+- **Environment**: Temperate or warm plains
+- **Organization**: Solitary or colony (1 queen and 3–18 giant bees)
+- **Challenge Rating**: 5
+- **Treasure**: Incidental (royal jelly)
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Bulbous and robust in comparison to others of the same species, giant queen bees are immense, fertile females, easily identified by their larger size and lighter stripes. They grow to 12 feet in length and weigh 140 pounds.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Queen Bee Venom|Giant Queen Bee Venom]]: Sting—injury; *save* Fort DC 17; *frequency* 1/round for 4 rounds; *effect* 1d2 Con; *cure* 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Queen Bee Venom|Giant Queen Bee Venom]]: Sting—injury; _save_ Fort DC 17; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Con; _cure_ 2 consecutive saves.

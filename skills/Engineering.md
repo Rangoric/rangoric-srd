@@ -34,13 +34,13 @@ If the check succeeds, you disable the device. If it fails by 4 or less, you hav
 You also can rig simple devices such as saddles or wagon wheels to work normally for a while and then fail or fall off some time later (usually after 1d4 rounds or minutes of use).
 
 | Device    | Time       | Engineering DC (1) | Example                                                     |
-| --------- | ---------- | --------------------- | ----------------------------------------------------------- |
-| Simple    | 1 round    | 10                    | Jam a lock                                                  |
-| Tricky    | 1d4 rounds | 15                    | Sabotage a wagon wheel                                      |
-| Difficult | 2d4 rounds | 20                    | Disarm a trap, reset a trap                                 |
-| Wicked    | 2d4 rounds | 25                    | Disarm a complex trap, cleverly sabotage a clockwork device |
+| --------- | ---------- | ------------------ | ----------------------------------------------------------- |
+| Simple    | 1 round    | 10                 | Jam a lock                                                  |
+| Tricky    | 1d4 rounds | 15                 | Sabotage a wagon wheel                                      |
+| Difficult | 2d4 rounds | 20                 | Disarm a trap, reset a trap                                 |
+| Wicked    | 2d4 rounds | 25                 | Disarm a complex trap, cleverly sabotage a clockwork device |
 
-1 *If you attempt to leave behind no trace of your tampering, add 5 to the DC.*
+1 _If you attempt to leave behind no trace of your tampering, add 5 to the DC._
 
 **Action**: The amount of time needed to make an Engineering check depends on the task, as noted above. Disabling a simple device takes 1 round and is a full-round action. An intricate or complex device requires 1d4 or 2d4 rounds.
 
@@ -70,9 +70,9 @@ The character can rush his or her Engineering attempt, reducing the amount of ti
 
 | Reduce to              | DC Modifier |
 | ---------------------- | ----------- |
-| 1 round                | +20        |
-| Move-equivalent action | +50        |
-| Free action            | +100       |
+| 1 round                | +20         |
+| Move-equivalent action | +50         |
+| Free action            | +100        |
 
 ## Unlocks
 
@@ -80,7 +80,7 @@ You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill
 
 **5 Ranks**: Reduce the time required to disarm a trap or open a lock by taking a –5 penalty on your Engineering check for each step by which you reduce the time required: 2d4 rounds, 1d4 rounds, 1 round, a standard action, a move action, a swift action.
 
-**10 Ranks**: You can disarm magical traps at a –10 penalty even if you lack the trapfinding ability. If you possess the trapfinding ability, when attempting to disable magic traps, you never trigger them, even if you perform the trigger action (such as looking at a *symbol*). If you fail the check, you can still trigger the trap, and you can't use this ability to bypass it.
+**10 Ranks**: You can disarm magical traps at a –10 penalty even if you lack the trapfinding ability. If you possess the trapfinding ability, when attempting to disable magic traps, you never trigger them, even if you perform the trigger action (such as looking at a _symbol_). If you fail the check, you can still trigger the trap, and you can't use this ability to bypass it.
 
 **15 Ranks**: When attacked by a trap, you can attempt a Engineering check as an immediate action (adding your trap sense bonus, if any) opposed by the trap's attack roll or its save DC. If you succeed, you take half damage (or no damage if you exceed the DC by at least 10).
 

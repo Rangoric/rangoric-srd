@@ -30,16 +30,16 @@ tags: [rangoric, rangoric/spell]
 
 # Wall of Nausea
 
-*Illusion (Pattern) \[Mind-affecting\]*
+_Illusion (Pattern) \[Mind-affecting\]_
 
-  - **Level**: Brd 3, Psy 3, Skd 3, Sor/Wiz 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: Transparent wall whose area is up to one 10-ft. square/level
-  - **Duration**: 1 round/level
-  - **Saving Throw**: See text
-  - **Spell Resistance**: No
+- **Level**: Brd 3, Psy 3, Skd 3, Sor/Wiz 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: Transparent wall whose area is up to one 10-ft. square/level
+- **Duration**: 1 round/level
+- **Saving Throw**: See text
+- **Spell Resistance**: No
 
 You create a transparent, shimmering wall through which creatures and objects appear to be wildly distorted to viewers. Any creature that passes through the wall is immediately assailed by overwhelming vertigo, becoming nauseated for 1 round unless it succeeds at a Fortitude save; if nauseated, the creature must also succeed at a DC 12 Acrobatics check or fall prone. Creatures gain partial concealment (20% miss chance) against creatures on the other side of the wall.
 

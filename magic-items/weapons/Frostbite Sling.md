@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Frostbite Sling
 
-This *+1 frost sling* is crafted of blue-dyed leather. In lieu of adding cold damage to normal ammunition, three times per day wielder may create and hurl a magical snowball with the sling instead. This ranged touch attack has a maximum range of 40 feet, deals 1d6+6 points of nonlethal cold damage, and leaves the target [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]]. The fatigued condition ends when the target recovers from the nonlethal damage. This effect cannot make the target [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]] even if it is already fatigued.
+This _+1 frost sling_ is crafted of blue-dyed leather. In lieu of adding cold damage to normal ammunition, three times per day wielder may create and hurl a magical snowball with the sling instead. This ranged touch attack has a maximum range of 40 feet, deals 1d6+6 points of nonlethal cold damage, and leaves the target [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]]. The fatigued condition ends when the target recovers from the nonlethal damage. This effect cannot make the target [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]] even if it is already fatigued.
 
-Moderate evocation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Frostbite|frostbite]]*; Price 9,380 gp; Cost 4,840 gp.
+Moderate evocation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Frostbite|frostbite]]_; Price 9,380 gp; Cost 4,840 gp.

@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/magic-item]
 
 These gloves grant the wearer greater control over his summoned creatures. As long as he wears the gloves, creatures conjured by the wearer can understand him as if they shared a common language. This communication is not two-way and does not grant the wearer the ability to understand the creature.
 
-Three times per day, the wearer can attempt to take control of a summoned creature within 50 feet as if using *[[rangoric-srd/spells/Control Summoned Creature|control summoned creature]]* (Will DC 16).
+Three times per day, the wearer can attempt to take control of a summoned creature within 50 feet as if using _[[rangoric-srd/spells/Control Summoned Creature|control summoned creature]]_ (Will DC 16).
 
-Moderate enchantment; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]*, *[[rangoric-srd/spells/Control Summoned Creature|control summoned creature]]*; Price 30,000 gp; Cost 15,000 gp.
+Moderate enchantment; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, _[[rangoric-srd/spells/Control Summoned Creature|control summoned creature]]_; Price 30,000 gp; Cost 15,000 gp.

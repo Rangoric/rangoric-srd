@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Wild Hunter
 
-*A [[rangoric-srd/classes/Ranger#^ranger-archetypes|ranger]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Ranger#^ranger-archetypes|ranger]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A wild hunter seeks to emulate the animals around him to keep him safe while he tracks his prey. Instead of studying the traits and behaviors of a favored enemy, a wild hunter studies those of various animals, incorporating those attributes into his hunting strategy.
 

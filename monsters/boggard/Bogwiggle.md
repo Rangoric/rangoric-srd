@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Bogwiggle
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Aquatic)
-  - **Hit Dice**: 3d8+3 (16 hp)
-  - **Initiative**: +5
-  - **Speed**: 30 ft. (6 squares), swim 40 ft.
-  - **Armor Class**: 12 (+1 Dex, +1 size), touch 12, flat-footed 11
-  - **Base Attack**: +2; **CMB**: +2; **CMD**: 13
-  - **Attack**: Bite +4 melee (1d4+1) or tongue –1 melee touch (sticky tongue)
-  - **Full Attack**: Bite +4 melee (1d4+1) and tongue –1 melee touch (sticky tongue)
-  - **Space/Reach**: 5 ft./5 ft. (10 ft. with tongue)
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], swamp stride
-  - **Saves**: Fort +2, Ref +2, Will +4
-  - **Abilities**: Str 13, Dex 12, Con 13, Int 3, Wis 12, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +1 (+5 in swamps), [[rangoric-srd/skills/Stealth|Stealth]] +9 (+17 in swamps)
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Temperate swamps
-  - **Organization**: Solitary, pair, or pack (3–6)
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Aquatic)
+- **Hit Dice**: 3d8+3 (16 hp)
+- **Initiative**: +5
+- **Speed**: 30 ft. (6 squares), swim 40 ft.
+- **Armor Class**: 12 (+1 Dex, +1 size), touch 12, flat-footed 11
+- **Base Attack**: +2; **CMB**: +2; **CMD**: 13
+- **Attack**: Bite +4 melee (1d4+1) or tongue –1 melee touch (sticky tongue)
+- **Full Attack**: Bite +4 melee (1d4+1) and tongue –1 melee touch (sticky tongue)
+- **Space/Reach**: 5 ft./5 ft. (10 ft. with tongue)
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], swamp stride
+- **Saves**: Fort +2, Ref +2, Will +4
+- **Abilities**: Str 13, Dex 12, Con 13, Int 3, Wis 12, Cha 6
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +1 (+5 in swamps), [[rangoric-srd/skills/Stealth|Stealth]] +9 (+17 in swamps)
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Temperate swamps
+- **Organization**: Solitary, pair, or pack (3–6)
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Also known as toad-hounds, bogwiggles are the stunted, degenerate spawn of [[rangoric-srd/monsters/boggard/Boggard|boggard]] [[rangoric-srd/monsters/boggard/Boggard#^priest-kings|priest-kings]]—these are the young who survived their meals of poisonous dragonflies, but failed to develop properly. They appear to be dog-sized tadpoles that have stopped halfway through the transformation to full-fledged frogs. A single set of long legs sprouts from a bogwiggle's bulbous body, and a frilled, whiplike tail protrudes from its back. Barely more intelligent than ordinary dogs, bogwiggles spend the majority of their short, violent lives serving as hunting companions and guard animals for their capricious, toadlike masters.
 

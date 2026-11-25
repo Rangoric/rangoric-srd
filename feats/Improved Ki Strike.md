@@ -11,6 +11,6 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Improved Ki Strike
 
-Prerequisites: Wis 21, Ki strike (adamantine).  
+Prerequisites: Wis 21, Ki strike (adamantine).
 
 Benefit: The character’s unarmed strikes are treated as epic magic weapons for the purposes of damage reduction.

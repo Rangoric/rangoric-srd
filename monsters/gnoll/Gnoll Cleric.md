@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Gnoll Cleric
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Gnoll)
-  - **Hit Dice**: 13d8+37 (95 hp)
-  - **Initiative**: –1
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 22 (+10 armor, +1 deflection, –1 Dex, +2 natural), touch 10, flat-footed 22
-  - **Base Attack**: +9; **CMB**: +13; **CMD**: 23
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Falchion|falchion]] +15 melee (2d4+7/18–20) or +1 [[rangoric-srd/equipment/weapons/Spear|spear]] +14 melee (1d8+5/×3) or +1 [[rangoric-srd/equipment/weapons/Spear|spear]] +9 ranged (1d8+5/×3)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Falchion|falchion]] +15/+10 melee (2d4+7/18–20) and +1 [[rangoric-srd/equipment/weapons/Spear|spear]] +14/+9 melee (1d8+5/×3); or +1 [[rangoric-srd/equipment/weapons/Spear|spear]] +9 ranged (1d8+5/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 7/day (DC 17, 6d6), [[rangoric-srd/class-options/domains/Strength Domain|might of the gods]] (+11, 11 rounds/day), [[rangoric-srd/class-options/domains/Evil Domain|scythe of evil]] (5 rounds, 1/day), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Strength Domain|feat of strength]] (+11 Str, 1/day)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine (110 hp)
-  - **Saves**: Fort +13, Ref +3, Will +13
-  - **Abilities**: Str 18, Dex 8, Con 14, Int 8, Wis 16, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Mysticism|Mysticism]] +10, [[rangoric-srd/skills/Perception|Perception]] +8
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Selective Channeling|Selective Channeling]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (falchion)
-  - **Environment**: Warm plains or desert
-  - **Organization**: Solitary, or with other gnolls (see [[rangoric-srd/monsters/gnoll/Gnoll|Gnoll]])
-  - **Challenge Rating**: 12
-  - **Treasure**: NPC gear (combat gear: wand of cure moderate wounds (20 charges); other gear: +2 chainmail, +1 falchion, +1 spear, amulet of natural armor +1, cloak of resistance +1, headband of alluring charisma +2, ring of protection +1, silver holy symbol, granite and diamond dust (worth 750 gp), 448 gp)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Gnoll)
+- **Hit Dice**: 13d8+37 (95 hp)
+- **Initiative**: –1
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 22 (+10 armor, +1 deflection, –1 Dex, +2 natural), touch 10, flat-footed 22
+- **Base Attack**: +9; **CMB**: +13; **CMD**: 23
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Falchion|falchion]] +15 melee (2d4+7/18–20) or +1 [[rangoric-srd/equipment/weapons/Spear|spear]] +14 melee (1d8+5/×3) or +1 [[rangoric-srd/equipment/weapons/Spear|spear]] +9 ranged (1d8+5/×3)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Falchion|falchion]] +15/+10 melee (2d4+7/18–20) and +1 [[rangoric-srd/equipment/weapons/Spear|spear]] +14/+9 melee (1d8+5/×3); or +1 [[rangoric-srd/equipment/weapons/Spear|spear]] +9 ranged (1d8+5/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 7/day (DC 17, 6d6), [[rangoric-srd/class-options/domains/Strength Domain|might of the gods]] (+11, 11 rounds/day), [[rangoric-srd/class-options/domains/Evil Domain|scythe of evil]] (5 rounds, 1/day), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Strength Domain|feat of strength]] (+11 Str, 1/day)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine (110 hp)
+- **Saves**: Fort +13, Ref +3, Will +13
+- **Abilities**: Str 18, Dex 8, Con 14, Int 8, Wis 16, Cha 14
+- **Skills**: [[rangoric-srd/skills/Mysticism|Mysticism]] +10, [[rangoric-srd/skills/Perception|Perception]] +8
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Selective Channeling|Selective Channeling]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (falchion)
+- **Environment**: Warm plains or desert
+- **Organization**: Solitary, or with other gnolls (see [[rangoric-srd/monsters/gnoll/Gnoll|Gnoll]])
+- **Challenge Rating**: 12
+- **Treasure**: NPC gear (combat gear: wand of cure moderate wounds (20 charges); other gear: +2 chainmail, +1 falchion, +1 spear, amulet of natural armor +1, cloak of resistance +1, headband of alluring charisma +2, ring of protection +1, silver holy symbol, granite and diamond dust (worth 750 gp), 448 gp)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A gnoll cleric is a [[rangoric-srd/monsters/gnoll/Gnoll|gnoll]] with 11 levels of [[rangoric-srd/classes/Cleric|cleric]], one of the gnoll devotees.
 
@@ -79,4 +79,4 @@ A gnoll cleric speaks Gnoll.
 
 **Domain Spell-Like Abilities** (CL 11th; concentration +14): 6/day—[[rangoric-srd/class-options/domains/Strength Domain|strength surge]] (+5), [[rangoric-srd/class-options/domains/Evil Domain|touch of evil]] (5 rounds).
 
-**Cleric spells prepared** (CL 11th; concentration +14): 6th—*[[rangoric-srd/spells/Stoneskin|stoneskin]]* <sup>D</sup>, *[[rangoric-srd/spells/Summon Monster VI|summon monster VI]]*; 5th—*[[rangoric-srd/spells/Breath of Life|breath of life]]*, *[[rangoric-srd/spells/Righteous Might|righteous might]]* <sup>D</sup>, *[[rangoric-srd/spells/Slay Living|slay living]]* (DC 18); 4th—*[[rangoric-srd/spells/Confusion|confusion]]* (DC 17), *[[rangoric-srd/spells/Divine Power|divine power]]*, *[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]*, *[[rangoric-srd/spells/Unholy Blight|unholy blight]]* <sup>D</sup> (DC 17); 3rd—*[[rangoric-srd/spells/Bestow Curse|bestow curse]]* (DC 16), *[[rangoric-srd/spells/Blindness-Deafness|blindness]]* (DC 16), *[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]*, *[[rangoric-srd/spells/Magic Vestment|magic vestment]]* <sup>D</sup>, *[[rangoric-srd/spells/Vision of Hell|vision of hell]]* (DC 16), *[[rangoric-srd/spells/Wind Wall|wind wall]]*; 2nd—*[[rangoric-srd/spells/Aid|aid]]*, *[[rangoric-srd/spells/Blinding Ray|blinding ray]]* (DC 15), *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]* <sup>D</sup>, *[[rangoric-srd/spells/Death Knell|death knell]]* (DC 15), *[[rangoric-srd/spells/Hold Person|hold person]]* (DC 15), *[[rangoric-srd/spells/Sound Burst|sound burst]]* (DC 15); 1st—*[[rangoric-srd/spells/Cause Fear|cause fear]]* (DC 14), *[[rangoric-srd/spells/Enlarge Person|enlarge person]]* (DC 14), *[[rangoric-srd/spells/Entropic Shield|entropic shield]]*, *[[rangoric-srd/spells/Forbid Action|forbid action]]* (DC 14), *[[rangoric-srd/spells/Murderous Command|murderous command]]* (DC 14), *[[rangoric-srd/spells/Protection from Good|protection from good]]* <sup>D</sup>; 0 (at will)—*[[rangoric-srd/spells/Bleed|bleed]]* (DC 13), *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Read Magic|read magic]]*, *[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]*; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Evil Domain|Evil]], [[rangoric-srd/class-options/domains/Strength Domain|Strength]].
+**Cleric spells prepared** (CL 11th; concentration +14): 6th—_[[rangoric-srd/spells/Stoneskin|stoneskin]]_ <sup>D</sup>, _[[rangoric-srd/spells/Summon Monster VI|summon monster VI]]_; 5th—_[[rangoric-srd/spells/Breath of Life|breath of life]]_, _[[rangoric-srd/spells/Righteous Might|righteous might]]_ <sup>D</sup>, _[[rangoric-srd/spells/Slay Living|slay living]]_ (DC 18); 4th—_[[rangoric-srd/spells/Confusion|confusion]]_ (DC 17), _[[rangoric-srd/spells/Divine Power|divine power]]_, _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_, _[[rangoric-srd/spells/Unholy Blight|unholy blight]]_ <sup>D</sup> (DC 17); 3rd—_[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (DC 16), _[[rangoric-srd/spells/Blindness-Deafness|blindness]]_ (DC 16), _[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]_, _[[rangoric-srd/spells/Magic Vestment|magic vestment]]_ <sup>D</sup>, _[[rangoric-srd/spells/Vision of Hell|vision of hell]]_ (DC 16), _[[rangoric-srd/spells/Wind Wall|wind wall]]_; 2nd—_[[rangoric-srd/spells/Aid|aid]]_, _[[rangoric-srd/spells/Blinding Ray|blinding ray]]_ (DC 15), _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_ <sup>D</sup>, _[[rangoric-srd/spells/Death Knell|death knell]]_ (DC 15), _[[rangoric-srd/spells/Hold Person|hold person]]_ (DC 15), _[[rangoric-srd/spells/Sound Burst|sound burst]]_ (DC 15); 1st—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (DC 14), _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ (DC 14), _[[rangoric-srd/spells/Entropic Shield|entropic shield]]_, _[[rangoric-srd/spells/Forbid Action|forbid action]]_ (DC 14), _[[rangoric-srd/spells/Murderous Command|murderous command]]_ (DC 14), _[[rangoric-srd/spells/Protection from Good|protection from good]]_ <sup>D</sup>; 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 13), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Evil Domain|Evil]], [[rangoric-srd/class-options/domains/Strength Domain|Strength]].

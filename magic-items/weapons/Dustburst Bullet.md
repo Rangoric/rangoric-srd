@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Dustburst Bullet
 
-This gritty and irregular *+1 sling bullet* explodes into a cloud of choking dust when it successfully strikes its target. This fills a 5-foot cube and follows the target for 1d6 rounds before dispersing. Any creature ending its turn in the cloud must make a DC 13 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] and [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 1 round.
+This gritty and irregular _+1 sling bullet_ explodes into a cloud of choking dust when it successfully strikes its target. This fills a 5-foot cube and follows the target for 1d6 rounds before dispersing. Any creature ending its turn in the cloud must make a DC 13 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] and [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 1 round.
 
-Faint conjuration; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]*; Price 196 gp; Cost 98 gp; Weight 1/2 lb.
+Faint conjuration; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]_; Price 196 gp; Cost 98 gp; Weight 1/2 lb.

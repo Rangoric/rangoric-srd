@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Deep Impact
 
-You can strike your foe with a melee weapon as if making a touch attack.  
+You can strike your foe with a melee weapon as if making a touch attack.
 
 Prerequisite: Str 13, [[rangoric-srd/feats/Psionic Weapon|Psionic Weapon]], base attack bonus +5.
 

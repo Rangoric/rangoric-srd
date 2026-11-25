@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/feat]
 
 When you dispel an enemy's magical defenses, those defenses crash down with debilitating effects.
 
-**Prerequisites**: Ability to cast *[[rangoric-srd/spells/Dispel Magic|dispel magic]]* or *[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]*, caster level 11th.
+**Prerequisites**: Ability to cast _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_ or _[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]_, caster level 11th.
 
 **Benefit**: When you succeed at a targeted dispel check against an opponent, it must succeed at a Fortitude save (DC equal to the dispelling spell’s DC) or be [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] until the start of your next turn. On a successful save, it is [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] until the start of your next turn instead.

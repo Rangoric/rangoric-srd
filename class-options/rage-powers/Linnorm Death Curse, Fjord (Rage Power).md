@@ -15,10 +15,10 @@ tags: [rangoric, rangoric/class-option]
 
 # Linnorm Death Curse, Fjord
 
-*A [[rangoric-srd/class-options/rage-powers/Rage Powers|rage power]] (Su) of the [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|barbarian]] and the [[rangoric-srd/classes/Skald#^skald-rage-powers|skald]].*
+_A [[rangoric-srd/class-options/rage-powers/Rage Powers|rage power]] (Su) of the [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|barbarian]] and the [[rangoric-srd/classes/Skald#^skald-rage-powers|skald]]._
 
 The character channels the power of a fjord linnorm. The character's melee attacks deal an additional 1 point of cold damage. If the character is knocked [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] or killed by an attack or spell, the attacker suffers the curse of drowning (Will negates).
 
 A character must be at least 4th level to select this rage power.
 
-*Curse of Drowning*: *save* Will DC 10 + 1/2 character's level + character's Charisma bonus; *effect* target is unable to breathe water (even with magic), can hold its breath only half as long as normal, and is [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] whenever it holds its breath.
+_Curse of Drowning_: _save_ Will DC 10 + 1/2 character's level + character's Charisma bonus; _effect_ target is unable to breathe water (even with magic), can hold its breath only half as long as normal, and is [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] whenever it holds its breath.

@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Oblivion Inquisition
 
-*An [[rangoric-srd/class-options/inquisitions/Inquisitions|inquisition]], which an [[rangoric-srd/classes/Inquisitor (Class)|inquisitor]] can choose in place of a domain with her [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-domain|Domain]] feature.*
+_An [[rangoric-srd/class-options/inquisitions/Inquisitions|inquisition]], which an [[rangoric-srd/classes/Inquisitor (Class)|inquisitor]] can choose in place of a domain with her [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-domain|Domain]] feature._
 
 ## Granted Powers
 
@@ -23,4 +23,4 @@ Some inquisitors believe that without faith there is only oblivion. But there ar
 
 **Life Anchor (Su)**: You gain a 10-foot-radius aura that helps dying creatures cling to life. Within this aura, a dying creature (including yourself) adds your Wisdom bonus to it stabilization checks (in addition to any other modifiers to stabilization checks).
 
-**Stare of Oblivion (Sp)**: At 8th level, you can use *[[rangoric-srd/spells/Feeblemind|feeblemind]]* as a [[rangoric-srd/rules/Special Abilities and Conditions#Gaze Attacks|gaze attack]] against one creature (Will negates). This effect lasts 1d4 rounds. You can use this ability once per day at 8th level, and one additional time per day for every four levels beyond 8th.
+**Stare of Oblivion (Sp)**: At 8th level, you can use _[[rangoric-srd/spells/Feeblemind|feeblemind]]_ as a [[rangoric-srd/rules/Special Abilities and Conditions#Gaze Attacks|gaze attack]] against one creature (Will negates). This effect lasts 1d4 rounds. You can use this ability once per day at 8th level, and one additional time per day for every four levels beyond 8th.

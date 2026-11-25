@@ -27,7 +27,7 @@ Psychometabolism
 **Range:** Personal  
 **Effect:** Duplicate of yourself  
 **Duration:** 1 round/level (D)  
-**Power Points:** 13  
+**Power Points:** 13
 
 You can divide yourself, creating a duplicate that comes into existence 5 feet away. Your duplicate thinks and acts exactly as you do and follows your orders, although it will not do anything you wouldn’t do yourself. Your duplicate has all your abilities but none of your psionic or magical equipment (it does possess a duplicate of all your mundane equipment, clothing, armor, and implements, as well as mundane versions of any psionic or magical equipment you have). You and your duplicate evenly split your power points, your remaining usages of pertinent special abilities for the day, and so on. You retain your psionic focus, if you maintain such when this power is manifested. Treat your duplicate as yourself with two [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|negative levels]] for the purpose of determining the powers to which the duplicate has access (while the duration of this power lasts, those negative levels cannot be removed by any means). Your duplicate has all other physical traits you had at the time you manifest this power. Powers, spells, or other effects affecting you when you manifest this power do not transfer to your duplicate.
 

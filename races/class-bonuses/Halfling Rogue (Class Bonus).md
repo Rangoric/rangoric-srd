@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Halfling Rogue
 
-*A [[rangoric-srd/races/Halfling|halfling]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Rogue#^rogue-class-bonuses|rogue]] level.*
+_A [[rangoric-srd/races/Halfling|halfling]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Rogue#^rogue-class-bonuses|rogue]] level._
 
 Choose a weapon from the following list: [[rangoric-srd/equipment/weapons/Sling|sling]], [[rangoric-srd/equipment/weapons/Dagger|dagger]], or any weapon with "halfling" in its name. Add a +1/2 bonus on critical hit confirmation rolls with that weapon (maximum bonus +4). This bonus does not stack with [[rangoric-srd/feats/Critical Focus|Critical Focus]].

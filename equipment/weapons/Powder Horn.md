@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/weapon]
 
 # Powder Horn
 
-*Accessory for firearms.* Cost 3 gp; Weight 1 lb. ^stats
+_Accessory for firearms._ Cost 3 gp; Weight 1 lb. ^stats
 
 Typically crafted from animal horn, but increasingly crafted from metal in a wide variety of shapes, a powder horn can hold up to 10 doses of black powder. A powder horn protects black powder stored within in it from exposure to fire, electricity, firearm misfires, and water.

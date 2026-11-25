@@ -25,4 +25,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This belt has a large steel buckle, usually depicting the image of a giant. The belt grants the wearer an enhancement bonus to two physical ability scores (Strength, Dexterity, or Constitution) of +2, +4, or +6. Treat this as a temporary ability bonus for the first 24 hours the belt is worn. These bonuses are chosen when the belt is created and cannot be changed.
 
-Strong transmutation; CL 12th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Bear’s Endurance|bear's endurance]]*, *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*, and/or *[[rangoric-srd/spells/Cat’s Grace|cat's grace]]*; Price 40,000 gp; Cost 20,000 gp; Weight 1 lb.
+Strong transmutation; CL 12th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Bear’s Endurance|bear's endurance]]_, _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, and/or _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_; Price 40,000 gp; Cost 20,000 gp; Weight 1 lb.

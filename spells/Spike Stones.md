@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Spike Stones
 
-*Transmutation \[Earth\]*
+_Transmutation \[Earth\]_
 
-  - **Level**: Drd 4, Earth 4, Hun 4, Sha 4
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Area**: One 20-ft. square/level
-  - **Duration**: 1 hour/level (D)
-  - **Saving Throw**: Reflex partial
-  - **Spell Resistance**: Yes
+- **Level**: Drd 4, Earth 4, Hun 4, Sha 4
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Area**: One 20-ft. square/level
+- **Duration**: 1 hour/level (D)
+- **Saving Throw**: Reflex partial
+- **Spell Resistance**: Yes
 
 Rocky ground, stone floors, and similar surfaces shape themselves into long, sharp points that blend into the background.
 
@@ -50,4 +50,4 @@ Any creature that takes damage from this spell must also succeed on a Reflex sav
 
 Spike stones is a magic trap that can’t be disabled with the [[rangoric-srd/skills/Engineering|Engineering]] skill.
 
-*Note*: Magic traps such as spike stones are hard to detect. A rogue (only) can use the [[rangoric-srd/skills/Investigation|Investigation]] skill to find spike stones. The DC is 25 + spell level, or DC 29 for spike stones.
+_Note_: Magic traps such as spike stones are hard to detect. A rogue (only) can use the [[rangoric-srd/skills/Investigation|Investigation]] skill to find spike stones. The DC is 25 + spell level, or DC 29 for spike stones.

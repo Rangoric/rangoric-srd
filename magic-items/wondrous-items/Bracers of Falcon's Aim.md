@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Bracers of Falcon's Aim
 
-Each of these crimson leather bracers is emblazoned with the image of a soaring golden falcon scanning the ground for easy prey. Once per day, on command, the wearer gains the benefits of *[[rangoric-srd/spells/Aspect of the Falcon|aspect of the falcon]]* for 1 minute. The wearer must wear these bracers continuously for 24 hours before activating this ability.
+Each of these crimson leather bracers is emblazoned with the image of a soaring golden falcon scanning the ground for easy prey. Once per day, on command, the wearer gains the benefits of _[[rangoric-srd/spells/Aspect of the Falcon|aspect of the falcon]]_ for 1 minute. The wearer must wear these bracers continuously for 24 hours before activating this ability.
 
-Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Aspect of the Falcon|aspect of the falcon]]*; Price 4,000 gp; Cost 2,000 gp; Weight 1 lb.
+Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Aspect of the Falcon|aspect of the falcon]]_; Price 4,000 gp; Cost 2,000 gp; Weight 1 lb.

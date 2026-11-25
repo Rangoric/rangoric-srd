@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Magmin
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Elemental, Extraplanar, Fire)
-  - **Hit Dice**: 4d10+8 (30 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 17 (+6 natural, +1 size), touch 11, flat-footed 17
-  - **Base Attack**: +4; **CMB**: +5; **CMD**: 15
-  - **Attack**: Touch +7 melee (1 fire plus [[rangoric-srd/monsters/abilities/Burn|burn]]) or slam +7 melee (1d6+2 plus 1 fire and [[rangoric-srd/monsters/abilities/Burn|burn]])
-  - **Full Attack**: Touch +7 melee (1 fire plus [[rangoric-srd/monsters/abilities/Burn|burn]]); or slam +7 melee (1d6+2 plus 1 fire and [[rangoric-srd/monsters/abilities/Burn|burn]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (1d6, DC 14)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., searing aura (20 ft., DC 14), heated flesh, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability]] to cold
-  - **Saves**: Fort +6, Ref +4, Will +3
-  - **Abilities**: Str 15, Dex 11, Con 15, Int 8, Wis 10, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +11
-  - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Any land (Elemental Plane of Fire)
-  - **Organization**: Solitary, gang (2–8), or squad (6–10)
-  - **Challenge Rating**: 3
-  - **Treasure**: Standard
-  - **Alignment**: Always chaotic neutral
-  - **Advancement**: 3–4 HD (Small); 5–6 HD (Medium)
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Elemental, Extraplanar, Fire)
+- **Hit Dice**: 4d10+8 (30 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 17 (+6 natural, +1 size), touch 11, flat-footed 17
+- **Base Attack**: +4; **CMB**: +5; **CMD**: 15
+- **Attack**: Touch +7 melee (1 fire plus [[rangoric-srd/monsters/abilities/Burn|burn]]) or slam +7 melee (1d6+2 plus 1 fire and [[rangoric-srd/monsters/abilities/Burn|burn]])
+- **Full Attack**: Touch +7 melee (1 fire plus [[rangoric-srd/monsters/abilities/Burn|burn]]); or slam +7 melee (1d6+2 plus 1 fire and [[rangoric-srd/monsters/abilities/Burn|burn]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (1d6, DC 14)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., searing aura (20 ft., DC 14), heated flesh, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability]] to cold
+- **Saves**: Fort +6, Ref +4, Will +3
+- **Abilities**: Str 15, Dex 11, Con 15, Int 8, Wis 10, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +11
+- **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Any land (Elemental Plane of Fire)
+- **Organization**: Solitary, gang (2–8), or squad (6–10)
+- **Challenge Rating**: 3
+- **Treasure**: Standard
+- **Alignment**: Always chaotic neutral
+- **Advancement**: 3–4 HD (Small); 5–6 HD (Medium)
+- **Level Adjustment**: —
 
 While magmins populate the Plane of Fire, they sometimes slip through elemental rifts into the Material Plane. These rifts usually occur in places of searing heat, such as volcanoes or underground rivers of magma, or in places of strong, unpredictable magic. The latter scenario usually results in more problematic entrances, as magmins tend to accidently set fire to any nearby flammable objects.
 

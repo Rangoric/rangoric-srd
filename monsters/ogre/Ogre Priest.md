@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Ogre Priest
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
-  - **Hit Dice**: 6d8+24 (51 hp)
-  - **Initiative**: –2
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 19 (+6 armor, –2 Dex, +6 natural, –1 size), touch 7, flat-footed 19
-  - **Base Attack**: +4; **CMB**: +12; **CMD**: 20
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +11 melee (3d6+10/19–20) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +1 ranged (1d8+7)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +11 melee (3d6+10/19–20); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +1 ranged (1d8+7)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 1/day (DC 9, 1d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Strength Domain|feat of strength]] (+2 Str, 1/day)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/class-options/domains/Madness Domain|insanity]] 1
-  - **Saves**: Fort +11, Ref –1, Will +6
-  - **Abilities**: Str 25, Dex 6, Con 19, Int 8, Wis 12, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Mysticism|Mysticism]] +4, [[rangoric-srd/skills/Perception|Perception]] +6
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Temperate or cold hills
-  - **Organization**: Solitary, or with other ogres (see [[rangoric-srd/monsters/ogre/Ogre|Ogre]])
-  - **Challenge Rating**: 4
-  - **Treasure**: NPC gear (combat gear: potion of cure light wounds, potion of invisibility, scroll of cure moderate wounds, alchemist's fire (2); other gear: masterwork breastplate, javelins (3), masterwork greatsword, amulet of natural armor +1, unholy symbol, 157 gp)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
+- **Hit Dice**: 6d8+24 (51 hp)
+- **Initiative**: –2
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 19 (+6 armor, –2 Dex, +6 natural, –1 size), touch 7, flat-footed 19
+- **Base Attack**: +4; **CMB**: +12; **CMD**: 20
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +11 melee (3d6+10/19–20) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +1 ranged (1d8+7)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +11 melee (3d6+10/19–20); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +1 ranged (1d8+7)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 1/day (DC 9, 1d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Strength Domain|feat of strength]] (+2 Str, 1/day)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/class-options/domains/Madness Domain|insanity]] 1
+- **Saves**: Fort +11, Ref –1, Will +6
+- **Abilities**: Str 25, Dex 6, Con 19, Int 8, Wis 12, Cha 7
+- **Skills**: [[rangoric-srd/skills/Mysticism|Mysticism]] +4, [[rangoric-srd/skills/Perception|Perception]] +6
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Temperate or cold hills
+- **Organization**: Solitary, or with other ogres (see [[rangoric-srd/monsters/ogre/Ogre|Ogre]])
+- **Challenge Rating**: 4
+- **Treasure**: NPC gear (combat gear: potion of cure light wounds, potion of invisibility, scroll of cure moderate wounds, alchemist's fire (2); other gear: masterwork breastplate, javelins (3), masterwork greatsword, amulet of natural armor +1, unholy symbol, 157 gp)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 An ogre priest is an [[rangoric-srd/monsters/ogre/Ogre|ogre]] with 2 levels of [[rangoric-srd/classes/Cleric|cleric]], one of the ogre schemers. Ogres belittle those who value smarts over strength, but clever ogres find their own paths to power.
 
@@ -71,4 +71,4 @@ An ogre priest speaks Giant.
 
 **Domain Spell-Like Abilities** (CL 2nd; concentration +3): 4/day—[[rangoric-srd/class-options/domains/Strength Domain|strength surge]] (+1), [[rangoric-srd/class-options/domains/Madness Domain|vision of madness]] (+1/–1).
 
-**Cleric spells prepared** (CL 2nd; concentration +3): 1st—*[[rangoric-srd/spells/Bless|bless]]*, *[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]*, *[[rangoric-srd/spells/Divine Favor|divine favor]]*, *[[rangoric-srd/spells/Enlarge Person|enlarge person]]* <sup>D</sup>; 0 (at will)—*[[rangoric-srd/spells/Create Water|create water]]*, *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Mending|mending]]*, *[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]*; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Madness Domain|Madness]], [[rangoric-srd/class-options/domains/Strength Domain|Strength]].
+**Cleric spells prepared** (CL 2nd; concentration +3): 1st—_[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Divine Favor|divine favor]]_, _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ <sup>D</sup>; 0 (at will)—_[[rangoric-srd/spells/Create Water|create water]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Mending|mending]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Madness Domain|Madness]], [[rangoric-srd/class-options/domains/Strength Domain|Strength]].

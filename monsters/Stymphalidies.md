@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Stymphalidies
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 9d10+45 (94 hp)
-  - **Initiative**: +6
-  - **Speed**: 20 ft. (4 squares), fly 120 ft. (poor)
-  - **Armor Class**: 22 (+2 Dex, +11 natural, –1 size), touch 11, flat-footed 20
-  - **Base Attack**: +9; **CMB**: +16; **CMD**: 28
-  - **Attack**: Bite +14 melee (1d8+6 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]]) or talon +14 melee (1d6+6) or wing +14 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]]) or wing razors +10 ranged (2d6+6 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
-  - **Full Attack**: Bite +14 melee (1d8+6 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]]) and 2 talons +14 melee (1d6+6) and 2 wings +9 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]]); or 2 wing razors +10 ranged (2d6+6 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d6), [[rangoric-srd/monsters/abilities/Glare|glare]], [[rangoric-srd/monsters/abilities/Wing Razors|wing razors]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic and adamantine, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, vulnerable to sonic
-  - **Saves**: Fort +11, Ref +10, Will +5
-  - **Abilities**: Str 22, Dex 15, Con 20, Int 2, Wis 15, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Perception|Perception]] +12
-  - **Feats**: [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Warm plains or coastlines
-  - **Organization**: Solitary, pair, or flight (3–9)
-  - **Challenge Rating**: 8
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 9d10+45 (94 hp)
+- **Initiative**: +6
+- **Speed**: 20 ft. (4 squares), fly 120 ft. (poor)
+- **Armor Class**: 22 (+2 Dex, +11 natural, –1 size), touch 11, flat-footed 20
+- **Base Attack**: +9; **CMB**: +16; **CMD**: 28
+- **Attack**: Bite +14 melee (1d8+6 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]]) or talon +14 melee (1d6+6) or wing +14 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]]) or wing razors +10 ranged (2d6+6 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
+- **Full Attack**: Bite +14 melee (1d8+6 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]]) and 2 talons +14 melee (1d6+6) and 2 wings +9 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]]); or 2 wing razors +10 ranged (2d6+6 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d6), [[rangoric-srd/monsters/abilities/Glare|glare]], [[rangoric-srd/monsters/abilities/Wing Razors|wing razors]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic and adamantine, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, vulnerable to sonic
+- **Saves**: Fort +11, Ref +10, Will +5
+- **Abilities**: Str 22, Dex 15, Con 20, Int 2, Wis 15, Cha 17
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Perception|Perception]] +12
+- **Feats**: [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Warm plains or coastlines
+- **Organization**: Solitary, pair, or flight (3–9)
+- **Challenge Rating**: 8
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Man-eating birds of prey, the rare creatures known as stymphalidies stalk plains and coastlines, shredding warm-blooded animals and unwary travelers with their steely-bladed feathers and daggerlike beaks. From a distance, stymphalidies might easily be mistaken for cranes, ibises, or other long-necked birds, though in full sunlight their gleaming feathers and the haze of blood lingering from past meals are impossible to mistake.
 

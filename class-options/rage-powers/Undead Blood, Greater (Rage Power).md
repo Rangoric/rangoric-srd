@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Undead Blood, Greater
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su)._
 
 While raging, the barbarian gains cold resistance 10, as well as DR 10/— against nonlethal damage.
 

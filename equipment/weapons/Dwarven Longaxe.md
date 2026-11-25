@@ -25,6 +25,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/axes]
 
 # Dwarven Longaxe
 
-*Exotic two-handed melee weapon (reach).* Cost 50 gp; Dmg 1d10 (S), 1d12 (M); Critical x3; Weight 14 lb.; Type Slashing. ^stats
+_Exotic two-handed melee weapon (reach)._ Cost 50 gp; Dmg 1d10 (S), 1d12 (M); Critical x3; Weight 14 lb.; Type Slashing. ^stats
 
 These ornate and heavy blades are mounted atop a long, steel-shod haft for greater reach. They are rare among cave-dwelling dwarves but common in mountain dwarf clans that commonly feud with giants.

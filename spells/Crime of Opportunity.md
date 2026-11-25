@@ -29,15 +29,15 @@ tags: [rangoric, rangoric/spell]
 
 # Crime of Opportunity
 
-*Enchantment (Compulsion) \[MindAffecting\]*
+_Enchantment (Compulsion) \[MindAffecting\]_
 
-  - **Level**: Apl 1, Mes 1
-  - **Components**: V, S, M (a slit purse)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: 1 round(s)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Apl 1, Mes 1
+- **Components**: V, S, M (a slit purse)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: 1 round(s)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 You awaken a sudden criminal impulse in the target, compelling it to commit a criminal act as if affected by the [[rangoric-srd/spells/Crime Wave|crime wave]] spell.

@@ -45,18 +45,18 @@ The reflecting master’s class skill (and its key ability) is [[rangoric-srd/sk
 
 **Table: The Reflecting Master** ^table-the-reflecting-master
 
-| Level | Special | Spells per Day |
-| --- | --- | --- |
-| 1st | Mirror magic | +1 level of existing class |
-| 2nd | Enhanced proficiency | +1 level of existing class |
-| 3rd | Shatter darkness | +1 level of existing class |
-| 4th | Enhanced proficiency | +1 level of existing class |
-| 5th | Mirror dependence | +1 level of existing class |
-| 6th | Enhanced proficiency | +1 level of existing class |
-| 7th | Enduring spells | +1 level of existing class |
-| 8th | Enhanced proficiency | +1 level of existing class |
-| 9th | Bonded mirror | +1 level of existing class |
-| 10th | Enhanced proficiency | +1 level of existing class |
+| Level | Special              | Spells per Day             |
+| ----- | -------------------- | -------------------------- |
+| 1st   | Mirror magic         | +1 level of existing class |
+| 2nd   | Enhanced proficiency | +1 level of existing class |
+| 3rd   | Shatter darkness     | +1 level of existing class |
+| 4th   | Enhanced proficiency | +1 level of existing class |
+| 5th   | Mirror dependence    | +1 level of existing class |
+| 6th   | Enhanced proficiency | +1 level of existing class |
+| 7th   | Enduring spells      | +1 level of existing class |
+| 8th   | Enhanced proficiency | +1 level of existing class |
+| 9th   | Bonded mirror        | +1 level of existing class |
+| 10th  | Enhanced proficiency | +1 level of existing class |
 
 ###### Class Features
 
@@ -76,10 +76,10 @@ All of the following are class features of the reflecting master prestige class.
 
 If a character does not choose to take the same proficiency improvement consecutively, he may never return to the prior proficiency. If, for example, the first proficiency the character takes is for absorption, and his second proficiency is for reflection, the character may never again gain additional proficiency in absorption. The wise reflecting master focuses his training on one aspect of his career.
 
-**Shatter Darkness (Su)**: At 3rd level, any spell that would inhibit the light available to the mirror mage is automatically dispelled on the round following its casting. Thus, a *[[rangoric-srd/spells/Darkness|darkness]]* spell cast on the mage would be effective for exactly one round, at the end of which it dissipates. This ability is automatic; as a mirror mage grows in power, he becomes more resistant to such an easy defeat. ^reflecting-master-shatter-darkness
+**Shatter Darkness (Su)**: At 3rd level, any spell that would inhibit the light available to the mirror mage is automatically dispelled on the round following its casting. Thus, a _[[rangoric-srd/spells/Darkness|darkness]]_ spell cast on the mage would be effective for exactly one round, at the end of which it dissipates. This ability is automatic; as a mirror mage grows in power, he becomes more resistant to such an easy defeat. ^reflecting-master-shatter-darkness
 
 **Mirror Dependence**: At 5th level, the mirror mage is completely dependent on his mirrors. Regardless of his previous spellcasting career, the reflecting master must now prepare all of his spells using his mirrors. ^reflecting-master-mirror-dependence
 
-**Enduring Spells (Ex)**: While most mirror mages lose all of the spells stored in their mirrors at dawn of the following day, those who approach the highest levels of this prestige class are able to retain one spell in one mirror each day. At 7th level, when dawn comes and wipes clean the spells locked in this mage’s mirrors, the highest-level spell still stored within the mage’s largest mirror (the reflecting master may choose which mirror if there are two of the largest size) stays in the mirror until the *following* dawn. ^reflecting-master-enduring-spells
+**Enduring Spells (Ex)**: While most mirror mages lose all of the spells stored in their mirrors at dawn of the following day, those who approach the highest levels of this prestige class are able to retain one spell in one mirror each day. At 7th level, when dawn comes and wipes clean the spells locked in this mage’s mirrors, the highest-level spell still stored within the mage’s largest mirror (the reflecting master may choose which mirror if there are two of the largest size) stays in the mirror until the _following_ dawn. ^reflecting-master-enduring-spells
 
 **Bonded Mirror (Ex)**: At 9th level, the largest mirror the reflecting master owns becomes intimately bonded to its master’s magical aura. The mirror master may, at his discretion, take any hit point damage that would have been dealt to the mirror himself. This allows a reflecting master to protect at least one mirror from disaster, providing him with a supply of spells if all else fails. ^reflecting-master-bonded-mirror

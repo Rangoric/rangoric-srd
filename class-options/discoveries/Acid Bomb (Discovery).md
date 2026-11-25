@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Acid Bomb
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]]\*.*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]]\*._
 
 When the alchemist creates a bomb, he can choose to have it inflict acid damage. Creatures that take a direct hit from an acid bomb take an additional 1d6 points of acid damage 1 round later.

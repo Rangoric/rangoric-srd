@@ -28,13 +28,13 @@ tags: [rangoric, rangoric/spell]
 
 # Blood Armor
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 2, Blr 2, Psy 2, Sor/Wiz 2, Sum 2, SumU 2, Wit 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 minute/level
+- **Level**: Alc 2, Blr 2, Psy 2, Sor/Wiz 2, Sum 2, SumU 2, Wit 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 minute/level
 
 Your blood becomes as hard as iron upon contact with air. Each time you take at least 5 points of piercing or slashing damage, your armor gains a +1 enhancement bonus to your AC. An outfit of regular clothing counts as armor that grants no AC bonus for the purpose of this spell. This enhancement bonus stacks with itself to a maximum enhancement bonus of +5. This spell has no effect while underwater or in environments that lack air.

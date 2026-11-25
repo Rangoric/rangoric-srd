@@ -40,43 +40,43 @@ tags: [rangoric, rangoric/monster]
 
 # Shaitan
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Earth, Extraplanar)
-  - **Hit Dice**: 9d10+36 (85 hp)
-  - **Initiative**: +5
-  - **Speed**: 20 ft. (4 squares), burrow 60 ft., climb 20 ft.
-  - **Armor Class**: 20 (+1 Dex, +10 natural, –1 size), touch 10, flat-footed 19
-  - **Base Attack**: +9; **CMB**: +15; **CMD**: 26
-  - **Attack**: Slam +13 melee (2d6+5) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +14 melee (1d8+7/18–20)
-  - **Full Attack**: 2 slams +13 melee (2d6+5); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +14/+9 melee (1d8+7/18–20)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: Earth mastery, metalmorph, stone [[rangoric-srd/monsters/abilities/Curse|curse]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., stone glide, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity
-  - **Saves**: Fort +10, Ref +4, Will +8
-  - **Abilities**: Str 20, Dex 13, Con 19, Int 14, Wis 14, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +25, [[rangoric-srd/skills/Craft|Craft]] (gemcutting) +14, [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Engineering|Engineering]] +14, [[rangoric-srd/skills/Mysticism|Mysticism]] +14, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (glitterdust)
-  - **Environment**: Any (Elemental Plane of Earth)
-  - **Organization**: Solitary, pair, company (3–6), or band (7–12)
-  - **Challenge Rating**: 7
-  - **Treasure**: Standard (masterwork scimitar, other treasure)
-  - **Alignment**: Usually lawful neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Earth, Extraplanar)
+- **Hit Dice**: 9d10+36 (85 hp)
+- **Initiative**: +5
+- **Speed**: 20 ft. (4 squares), burrow 60 ft., climb 20 ft.
+- **Armor Class**: 20 (+1 Dex, +10 natural, –1 size), touch 10, flat-footed 19
+- **Base Attack**: +9; **CMB**: +15; **CMD**: 26
+- **Attack**: Slam +13 melee (2d6+5) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +14 melee (1d8+7/18–20)
+- **Full Attack**: 2 slams +13 melee (2d6+5); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +14/+9 melee (1d8+7/18–20)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: Earth mastery, metalmorph, stone [[rangoric-srd/monsters/abilities/Curse|curse]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., stone glide, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity
+- **Saves**: Fort +10, Ref +4, Will +8
+- **Abilities**: Str 20, Dex 13, Con 19, Int 14, Wis 14, Cha 15
+- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +25, [[rangoric-srd/skills/Craft|Craft]] (gemcutting) +14, [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Engineering|Engineering]] +14, [[rangoric-srd/skills/Mysticism|Mysticism]] +14, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (glitterdust)
+- **Environment**: Any (Elemental Plane of Earth)
+- **Organization**: Solitary, pair, company (3–6), or band (7–12)
+- **Challenge Rating**: 7
+- **Treasure**: Standard (masterwork scimitar, other treasure)
+- **Alignment**: Usually lawful neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Shaitans are boastful and proud genies from the Elemental Plane of Earth with flesh of metal, gems, or stone. A shaitan stands about 11 feet tall and weighs roughly 5,000 pounds.
 
-Some shaitans are noble. Often called pashas, they have 18 Hit Dice and gain the spell-like ability *[[rangoric-srd/spells/Earthquake|earthquake]]*, usable once per day, as well as the ability to grant up to three *[[rangoric-srd/spells/Wish|wishes]]* per day (nongenies only). A noble shaitan's caster level for its spell-like abilities is 18th. Noble shaitans are CR 13.
+Some shaitans are noble. Often called pashas, they have 18 Hit Dice and gain the spell-like ability _[[rangoric-srd/spells/Earthquake|earthquake]]_, usable once per day, as well as the ability to grant up to three _[[rangoric-srd/spells/Wish|wishes]]_ per day (nongenies only). A noble shaitan's caster level for its spell-like abilities is 18th. Noble shaitans are CR 13.
 
 Shaitans speak Aquan, Auran, Common, Ignan and Terran.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th): At will—*[[rangoric-srd/spells/Meld into Stone|meld into stone]], [[rangoric-srd/spells/Plane Shift|plane shift]]* (willing targets to elemental planes, Astral Plane, or Material Plane only), *[[rangoric-srd/spells/Soften Earth and Stone|soften earth and stone]], [[rangoric-srd/spells/Stone Shape|stone shape]], [[rangoric-srd/spells/Veil|veil]]* (self only); 3/day—quickened *[[rangoric-srd/spells/Glitterdust|glitterdust]]* (DC 14), *[[rangoric-srd/spells/Stoneskin|stoneskin]]*, *[[rangoric-srd/spells/Rusting Grasp|rusting grasp]], [[rangoric-srd/spells/Stone Tell|stone tell]], [[rangoric-srd/spells/Wall of Stone|wall of stone]]*; 1/day—*[[rangoric-srd/spells/Transmute Mud to Rock|transmute mud to rock]]*, *[[rangoric-srd/spells/Transmute Rock to Mud|transmute rock to mud]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th): At will—_[[rangoric-srd/spells/Meld into Stone|meld into stone]], [[rangoric-srd/spells/Plane Shift|plane shift]]_ (willing targets to elemental planes, Astral Plane, or Material Plane only), _[[rangoric-srd/spells/Soften Earth and Stone|soften earth and stone]], [[rangoric-srd/spells/Stone Shape|stone shape]], [[rangoric-srd/spells/Veil|veil]]_ (self only); 3/day—quickened _[[rangoric-srd/spells/Glitterdust|glitterdust]]_ (DC 14), _[[rangoric-srd/spells/Stoneskin|stoneskin]]_, _[[rangoric-srd/spells/Rusting Grasp|rusting grasp]], [[rangoric-srd/spells/Stone Tell|stone tell]], [[rangoric-srd/spells/Wall of Stone|wall of stone]]_; 1/day—_[[rangoric-srd/spells/Transmute Mud to Rock|transmute mud to rock]]_, _[[rangoric-srd/spells/Transmute Rock to Mud|transmute rock to mud]]_.
 
 **Earth Mastery (Ex)**: A shaitan gains a +1 bonus on attack and damage rolls and a +2 bonus on opposed Strength-based checks if both it and its foe are touching the ground. It takes a –4 penalty on attack and damage rolls against airborne or waterborne opponents.
 
 **Metalmorph (Su)**: As a standard action, a shaitan may touch a single metal object of no more than 10 pounds and transform it into any other metal for 1 day.
 
-**Stone Curse (Su)**: If a shaitan wins a bull rush check by 5 or more and pushes its target into a stone barrier, the target must make a DC 19 Reflex save or be forced into the barrier as if the target had cast *[[rangoric-srd/spells/Meld into Stone|meld into stone]]* until the victim makes a successful DC 19 Fortitude save as a full-round action to exit the stone. The save DCs are Strength-based.
+**Stone Curse (Su)**: If a shaitan wins a bull rush check by 5 or more and pushes its target into a stone barrier, the target must make a DC 19 Reflex save or be forced into the barrier as if the target had cast _[[rangoric-srd/spells/Meld into Stone|meld into stone]]_ until the victim makes a successful DC 19 Fortitude save as a full-round action to exit the stone. The save DCs are Strength-based.
 
 **Stone Glide (Su)**: This functions as the [[rangoric-srd/monsters/elemental/Earth Elemental|earth elemental]]'s [[rangoric-srd/monsters/abilities/Earth Glide|earth glide]] ability, except the shaitan can move through stone, dirt, crystal, or metal.

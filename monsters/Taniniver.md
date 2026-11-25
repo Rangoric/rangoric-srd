@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Taniniver
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]]
-  - **Hit Dice**: 20d12+140 (270 hp)
-  - **Initiative**: +4
-  - **Speed**: 30 ft. (6 squares), fly 200 ft. (clumsy)
-  - **Armor Class**: 33 (+25 natural, –2 size), touch 8, flat-footed 33
-  - **Base Attack**: +20; **CMB**: +33; **CMD**: 43 (can't be tripped)
-  - **Attack**: Bite +30 melee (4d6+11 plus [[rangoric-srd/monsters/abilities/Disease|disease]]) or claw +30 melee (2d8+11 plus [[rangoric-srd/monsters/abilities/Disease|disease]]) or tail slap +29 melee (2d8+5 plus [[rangoric-srd/monsters/abilities/Disease|disease]])
-  - **Full Attack**: Bite +30 melee (4d6+11 plus [[rangoric-srd/monsters/abilities/Disease|disease]]) and 2 claws +30 melee (2d8+11 plus [[rangoric-srd/monsters/abilities/Disease|disease]]) and tail slap +24 melee (2d8+5 plus [[rangoric-srd/monsters/abilities/Disease|disease]])
-  - **Space/Reach**: 15 ft./10 ft. (15 ft. with bite)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (60-ft. cone, 1d6 Str drain plus [[rangoric-srd/rules/afflictions/Mummy Rot|mummy rot]], Fortitude DC 27 negates, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Disease|disease]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., deathwatch, [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] (180 ft., DC 25), [[rangoric-srd/monsters/abilities/Negative Energy Affinity|negative energy affinity]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/good and magic, immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], sleep and visual effects, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 30, cold 30, electricity 30 and fire 30, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 29
-  - **Saves**: Fort +21, Ref +12, Will +15
-  - **Abilities**: Str 33, Dex 11, Con 25, Int 18, Wis 17, Cha 20
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –12, [[rangoric-srd/skills/Arcana|Arcana]] +27, [[rangoric-srd/skills/Deception|Deception]] +28, [[rangoric-srd/skills/Emulation|Emulation]] +28, [[rangoric-srd/skills/Intimidation|Intimidation]] +28, [[rangoric-srd/skills/Medicine|Medicine]] +26, [[rangoric-srd/skills/Mysticism|Mysticism]] +27, [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +26, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +27
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Sickening Critical|Sickening Critical]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
-  - **Environment**: Any land or underground
-  - **Organization**: Solitary
-  - **Challenge Rating**: 18
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]]
+- **Hit Dice**: 20d12+140 (270 hp)
+- **Initiative**: +4
+- **Speed**: 30 ft. (6 squares), fly 200 ft. (clumsy)
+- **Armor Class**: 33 (+25 natural, –2 size), touch 8, flat-footed 33
+- **Base Attack**: +20; **CMB**: +33; **CMD**: 43 (can't be tripped)
+- **Attack**: Bite +30 melee (4d6+11 plus [[rangoric-srd/monsters/abilities/Disease|disease]]) or claw +30 melee (2d8+11 plus [[rangoric-srd/monsters/abilities/Disease|disease]]) or tail slap +29 melee (2d8+5 plus [[rangoric-srd/monsters/abilities/Disease|disease]])
+- **Full Attack**: Bite +30 melee (4d6+11 plus [[rangoric-srd/monsters/abilities/Disease|disease]]) and 2 claws +30 melee (2d8+11 plus [[rangoric-srd/monsters/abilities/Disease|disease]]) and tail slap +24 melee (2d8+5 plus [[rangoric-srd/monsters/abilities/Disease|disease]])
+- **Space/Reach**: 15 ft./10 ft. (15 ft. with bite)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (60-ft. cone, 1d6 Str drain plus [[rangoric-srd/rules/afflictions/Mummy Rot|mummy rot]], Fortitude DC 27 negates, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Disease|disease]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., deathwatch, [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] (180 ft., DC 25), [[rangoric-srd/monsters/abilities/Negative Energy Affinity|negative energy affinity]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/good and magic, immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], sleep and visual effects, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 30, cold 30, electricity 30 and fire 30, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 29
+- **Saves**: Fort +21, Ref +12, Will +15
+- **Abilities**: Str 33, Dex 11, Con 25, Int 18, Wis 17, Cha 20
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –12, [[rangoric-srd/skills/Arcana|Arcana]] +27, [[rangoric-srd/skills/Deception|Deception]] +28, [[rangoric-srd/skills/Emulation|Emulation]] +28, [[rangoric-srd/skills/Intimidation|Intimidation]] +28, [[rangoric-srd/skills/Medicine|Medicine]] +26, [[rangoric-srd/skills/Mysticism|Mysticism]] +27, [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +26, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +27
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Sickening Critical|Sickening Critical]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
+- **Environment**: Any land or underground
+- **Organization**: Solitary
+- **Challenge Rating**: 18
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Taninivers are a degenerate race of diseased dragons. A taniniver's body is alive but constantly rotting. Wracked by never-ending pain, with the stench of its own decaying flesh so strong it nearly overwhelms the vile creature's enhanced senses, the foul taniniver spends most of its time in magical research to reverse the progression of its diseases or, failing that, to stave off further deterioration. Taninivers often ally with cults of undeath or dragonkind.
 
@@ -67,7 +67,7 @@ Taninivers speak Common, Draconic and Undercommon.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th; concentration +25): Constant—*[[rangoric-srd/spells/Deathwatch|deathwatch]]*; 3/day—*[[rangoric-srd/spells/Animate Dead|animate dead]]*, *[[rangoric-srd/spells/Inflict Serious Wounds|inflict serious wounds]]* (DC 18); 1/day—*[[rangoric-srd/spells/Eyebite|eyebite]]* (DC 21), *[[rangoric-srd/spells/Horrid Wilting|horrid wilting]]* (DC 23), *[[rangoric-srd/spells/Symbol of Pain|symbol of pain]]* (DC 20).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th; concentration +25): Constant—_[[rangoric-srd/spells/Deathwatch|deathwatch]]_; 3/day—_[[rangoric-srd/spells/Animate Dead|animate dead]]_, _[[rangoric-srd/spells/Inflict Serious Wounds|inflict serious wounds]]_ (DC 18); 1/day—_[[rangoric-srd/spells/Eyebite|eyebite]]_ (DC 21), _[[rangoric-srd/spells/Horrid Wilting|horrid wilting]]_ (DC 23), _[[rangoric-srd/spells/Symbol of Pain|symbol of pain]]_ (DC 20).
 
 **[[rangoric-srd/monsters/abilities/Breath Weapon|Breath Weapon]] (Ex)**: A taniniver's breath weapon is a hideous gray cloud of disease particles. Any creature in the area must succeed at a DC 27 Fortitude save or contract [[rangoric-srd/rules/afflictions/Mummy Rot|mummy rot]]. The disease is contracted immediately (the onset period does not apply) and is an instantaneous effect. Ongoing saving throws against the disease use the dragon's breath weapon DC. The save DC is Constitution-based.
 

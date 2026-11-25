@@ -32,7 +32,7 @@ Metacreativity (Creation)
 **Duration:** Instantaneous  
 **Saving Throw:** None  
 **Power Resistance:** No  
-**Power Points:** 3  
+**Power Points:** 3
 
 Thousands of tiny crystal shards spray forth in an arc from your hand. These razorlike crystals slice everything in their path. Anyone caught in the cone takes 3d4 points of slashing damage.
 

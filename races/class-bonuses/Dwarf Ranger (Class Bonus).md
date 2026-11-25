@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Dwarf Ranger
 
-*A [[rangoric-srd/races/Dwarf|dwarf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Ranger#^ranger-class-bonuses|ranger]] level.*
+_A [[rangoric-srd/races/Dwarf|dwarf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Ranger#^ranger-class-bonuses|ranger]] level._
 
 Add a +1/2 bonus on wild empathy checks to influence animals and magical beasts that live underground.

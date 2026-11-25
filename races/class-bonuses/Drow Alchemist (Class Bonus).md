@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Drow Alchemist
 
-*A [[rangoric-srd/races/Drow|drow]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Alchemist#^alchemist-class-bonuses|alchemist]] level.*
+_A [[rangoric-srd/races/Drow|drow]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Alchemist#^alchemist-class-bonuses|alchemist]] level._
 
 Add +10 minutes to the duration of the alchemist's [[rangoric-srd/classes/Alchemist#^alchemist-mutagen|mutagens]].

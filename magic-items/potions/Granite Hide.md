@@ -16,8 +16,8 @@ tags: [rangoric, rangoric/magic-item]
 
 # Granite Hide
 
-*A [[rangoric-srd/magic-items/potions/Strange Brew Potions|strange brew]].*
+_A [[rangoric-srd/magic-items/potions/Strange Brew Potions|strange brew]]._
 
-Upon quaffing this grainy chalky-tasting orange liquid, the imbiber’s skin hardens and thickens, becoming pliable but tough granite (treat as the *[[rangoric-srd/spells/Stoneskin|stoneskin]]* spell). The potion lasts for 1 hour. Unfortunately, after it wears off the user takes 1d6 points of Dexterity damage (temporary damage, no save). Additionally, the imbiber must make a Fortitude check (DC is a cumulative +3 for each dose beginning at DC 12). If the save fails, the potion does not wear off. Instead the imbiber’s joints grow increasingly stiff and he loses a permanent 1d4 Dexterity per day. When Dexterity reaches zero the unfortunate user becomes a prisoner trapped in a lifeless stone shell.
+Upon quaffing this grainy chalky-tasting orange liquid, the imbiber’s skin hardens and thickens, becoming pliable but tough granite (treat as the _[[rangoric-srd/spells/Stoneskin|stoneskin]]_ spell). The potion lasts for 1 hour. Unfortunately, after it wears off the user takes 1d6 points of Dexterity damage (temporary damage, no save). Additionally, the imbiber must make a Fortitude check (DC is a cumulative +3 for each dose beginning at DC 12). If the save fails, the potion does not wear off. Instead the imbiber’s joints grow increasingly stiff and he loses a permanent 1d4 Dexterity per day. When Dexterity reaches zero the unfortunate user becomes a prisoner trapped in a lifeless stone shell.
 
-CL 7th; [[rangoric-srd/feats/Brew Potion|Brew Potion]], *[[rangoric-srd/spells/Stoneskin|stoneskin]]*; Price 2,350 gp.
+CL 7th; [[rangoric-srd/feats/Brew Potion|Brew Potion]], _[[rangoric-srd/spells/Stoneskin|stoneskin]]_; Price 2,350 gp.

@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/pole-arms]
 
 # Glaive
 
-*Martial two-handed melee weapon (reach).* Cost 8 gp; Dmg 1d8 (S), 1d10 (M); Critical x3; Weight 10 lb.; Type Slashing. ^stats
+_Martial two-handed melee weapon (reach)._ Cost 8 gp; Dmg 1d8 (S), 1d10 (M); Critical x3; Weight 10 lb.; Type Slashing. ^stats
 
 A glaive has reach. You can strike opponents 10 feet away with it, but you can’t use it against an adjacent foe.

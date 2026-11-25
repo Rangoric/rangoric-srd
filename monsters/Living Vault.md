@@ -55,7 +55,7 @@ Organization: Solitary    
 Challenge Rating: 33      
 Treasure: Standard (see text)      
 Alignment: Neutral      
-Advancement: None      
+Advancement: None    
 
 To access a vault, its creator must call the vault from where it is sequestered through the use of a [[rangoric-srd/spells/Sending|sending]] spell. The vault has no obvious opening; however, items can be stored and retrieved by naming them (the living vault provides an inventory to its creator on request). The item to be stored appears to sink into the living vault’s form as if made of mud. Likewise, items retrieved pop out of the living vault’s form. Storing and retrieving items in this fashion takes one round per transaction. Creatures other than the vault’s master who wish to access the inventory must destroy the vault to do so. If a vault is destroyed, all the objects and creatures stored within immediately emerge.
 

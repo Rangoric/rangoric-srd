@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Commanding Voice
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “commanding voice”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “commanding voice”, on the Special Attacks line.
 
 A void oni gains a +4 racial bonus on the save DC of any charm or compulsion effects it uses against humanoids. The [[rangoric-srd/monsters/onis/Void Yai|void yai]] has it.

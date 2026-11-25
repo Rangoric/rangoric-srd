@@ -23,17 +23,17 @@ tags: [rangoric, rangoric/spell]
 
 # Hidden Message
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Sor/Wiz 3
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature/2 levels
-  - **Duration**: See text
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Sor/Wiz 3
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature/2 levels
+- **Duration**: See text
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 After casting this spell, the caster designates a number of people (up to the limit of one per 2 levels) within the spell’s range to hear a message of no more than twenty-five words. The chosen creatures gain no special ability to understand the caster’s message, though they do hear it clearly and as though the caster were speaking directly to them in a quiet area. Any creature not selected by the caster to understand the message hears something completely unrelated to the actual words the caster speaks. This secondary message is also determined by the caster, and may easily be part of a continuing conversation.
 
-For example, a necromancer at a dinner party discovers a plot to kill the local merchant. Casting *hidden message*, she designates her companions as the spell’s targets. She then tells them from where she is sitting, “The blond man in the dark red doublet is planning to kill the merchant who hired us. Let’s surprise him during dessert.” Anyone else sitting near her at the table would hear, “Why, this meal is almost as good as the one I had when I was training under that great wizard.”
+For example, a necromancer at a dinner party discovers a plot to kill the local merchant. Casting _hidden message_, she designates her companions as the spell’s targets. She then tells them from where she is sitting, “The blond man in the dark red doublet is planning to kill the merchant who hired us. Let’s surprise him during dessert.” Anyone else sitting near her at the table would hear, “Why, this meal is almost as good as the one I had when I was training under that great wizard.”

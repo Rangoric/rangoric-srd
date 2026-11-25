@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Incendiary Cloud
 
-*Conjuration (Creation) \[Fire\]*
+_Conjuration (Creation) \[Fire\]_
 
-  - **Level**: Fire 8, Sor/Wiz 8, Sum 6
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Effect**: Cloud spreads in 20-ft. radius, 20 ft. high
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Reflex half; see text
-  - **Spell Resistance**: No
+- **Level**: Fire 8, Sor/Wiz 8, Sum 6
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Effect**: Cloud spreads in 20-ft. radius, 20 ft. high
+- **Duration**: 1 round/level
+- **Saving Throw**: Reflex half; see text
+- **Spell Resistance**: No
 
 An incendiary cloud spell creates a cloud of roiling smoke shot through with white-hot embers. The smoke obscures all sight as a fog cloud does. In addition, the white-hot embers within the cloud deal 4d6 points of fire damage to everything within the cloud on your turn each round. All targets can make Reflex saves each round to take half damage.
 

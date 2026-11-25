@@ -16,8 +16,8 @@ tags: [rangoric, rangoric/magic-item]
 
 # Eagle Charm +4
 
-*A [[rangoric-srd/magic-items/charms/Charms|charm]], worn on a [[rangoric-srd/magic-items/charms/Charm Bracelet|charm bracelet]].*
+_A [[rangoric-srd/magic-items/charms/Charms|charm]], worn on a [[rangoric-srd/magic-items/charms/Charm Bracelet|charm bracelet]]._
 
-This eagle-shaped *charm* is carved from a small piece of moonstone. The figure has its wings fully extended, and the torso is drilled through with a silver rod and loop. A Charisma enhancement bonus of +2, +4, or +6 is granted by the *charm*.
+This eagle-shaped _charm_ is carved from a small piece of moonstone. The figure has its wings fully extended, and the torso is drilled through with a silver rod and loop. A Charisma enhancement bonus of +2, +4, or +6 is granted by the _charm_.
 
-CL 6th; [[rangoric-srd/feats/Craft Charms and Bracelets|Craft Charms and Bracelets]], *[[rangoric-srd/spells/Eagle’s Splendor|eagle’s splendor]]*; Price 16,000 gp.
+CL 6th; [[rangoric-srd/feats/Craft Charms and Bracelets|Craft Charms and Bracelets]], _[[rangoric-srd/spells/Eagle’s Splendor|eagle’s splendor]]_; Price 16,000 gp.

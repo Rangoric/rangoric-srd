@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Spirit Walk
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Bones Mystery|bones]] and [[rangoric-srd/class-options/mysteries/Ancestor Mystery|ancestor]] mysteries.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Bones Mystery|bones]] and [[rangoric-srd/class-options/mysteries/Ancestor Mystery|ancestor]] mysteries._
 
 As a standard action, you can become incorporeal and invisible. While in this form, you can move in any direction and through any object (except for those made of force). You can take no action other than to move while in this form. You remain in this form for a number of rounds equal to your oracle level, but you can end this effect prematurely with a standard action. You can use this ability once per day at 11th level, and twice per day at 15th level. You must be at least 11th level to select this revelation.

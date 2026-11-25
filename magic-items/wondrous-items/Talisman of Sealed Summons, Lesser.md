@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/magic-item]
 
 A talisman works as described under [[rangoric-srd/magic-items/Magic Item Basics#^talismans|Talismans]] in the rules for magic items on the body. A lesser talisman has only enough magic to protect its wearer once, after which it crumbles to dust.
 
-The first time the wearer is hit by a natural attack from an evil summoned creature, he is automatically affected by *[[rangoric-srd/spells/Protection from Evil|protection from evil]]*. Versions against chaotic, lawful and good summoned creatures are much less common.
+The first time the wearer is hit by a natural attack from an evil summoned creature, he is automatically affected by _[[rangoric-srd/spells/Protection from Evil|protection from evil]]_. Versions against chaotic, lawful and good summoned creatures are much less common.
 
-Faint abjuration; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Protection from Evil|protection from evil]]*; Price 450 gp; Cost 225 gp; Weight 1 lb.
+Faint abjuration; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Protection from Evil|protection from evil]]_; Price 450 gp; Cost 225 gp; Weight 1 lb.

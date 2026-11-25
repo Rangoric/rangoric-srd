@@ -24,7 +24,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/flails, weapon-group/monk, easter
 
 # Kyoketsu Shoge
 
-*Exotic two-handed melee weapon (disarm, grapple, monk, reach).* Cost 6 gp; Dmg 1d3 (S), 1d4 (M); Critical x2; Range Increment 20 ft.; Weight 1 lb.; Type Bludgeoning, slashing, or piercing. ^stats
+_Exotic two-handed melee weapon (disarm, grapple, monk, reach)._ Cost 6 gp; Dmg 1d3 (S), 1d4 (M); Critical x2; Range Increment 20 ft.; Weight 1 lb.; Type Bludgeoning, slashing, or piercing. ^stats
 
 This weapon consists of a foot-long double-edged blade, with another smaller, curved hook-blade sticking out the side like a rooster's spur. The blade is strung to a large iron hoop with 10-foot length of rope. The blade can be used as an off-hand melee weapon or thrown like a dagger, while the rope and circlet can be whipped around and swung at opponents as a bludgeoning reach weapon.
 

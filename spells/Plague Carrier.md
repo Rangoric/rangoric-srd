@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Plague Carrier
 
-*Necromancy \[Disease, Evil\]*
+_Necromancy \[Disease, Evil\]_
 
-  - **Level**: Clr 4, Drd 4, Hun 4, Sor/Wiz 5, Wit 5
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 hour/level
-  - **Saving Throw**: Fortitude negates (harmless)
-  - **Spell Resistance**: Yes
+- **Level**: Clr 4, Drd 4, Hun 4, Sor/Wiz 5, Wit 5
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 hour/level
+- **Saving Throw**: Fortitude negates (harmless)
+- **Spell Resistance**: Yes
 
 The target's natural attacks carry [[rangoric-srd/rules/afflictions/Filth Fever|filth fever]] (DC 10 + 1/2 of the creature's Hit Dice + creature's Con modifier)

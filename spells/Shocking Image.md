@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Shocking Image
 
-*Illusion (Figment) \[Electricity\]*
+_Illusion (Figment) \[Electricity\]_
 
-  - **Level**: Blr 4, Brd 4, Mes 4, Occ 4, Skd 4, Sor/Wiz 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: See text
+- **Level**: Blr 4, Brd 4, Mes 4, Occ 4, Skd 4, Sor/Wiz 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 minute/level
+- **Saving Throw**: None
+- **Spell Resistance**: See text
 
-This spell works like *[[rangoric-srd/spells/Mirror Image|mirror image]]*, except the illusory doubles it creates discharge an electric shock when destroyed. An opponent that uses a melee attack to destroy one of your images takes 2d6 points of electricity damage. You must overcome a target's spell resistance the first time you deal this electricity damage to it. Failure renders the target immune to damage from this spell.
+This spell works like _[[rangoric-srd/spells/Mirror Image|mirror image]]_, except the illusory doubles it creates discharge an electric shock when destroyed. An opponent that uses a melee attack to destroy one of your images takes 2d6 points of electricity damage. You must overcome a target's spell resistance the first time you deal this electricity damage to it. Failure renders the target immune to damage from this spell.

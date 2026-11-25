@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Shining Knight
 
-*A [[rangoric-srd/classes/Paladin#^paladin-archetypes|paladin]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Paladin#^paladin-archetypes|paladin]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 While paladins often are seen mounted atop a loyal steed, the shining knight is the true symbol of mounted bravery. They are never far from their steeds and are always clad in brightly polished armor. The shining knight has the following class features.
 

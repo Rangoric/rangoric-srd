@@ -13,13 +13,13 @@ tags: [rangoric, rangoric/overview]
 
 ### Universal Items
 
-This is a catchall category for any psionic item that doesn’t fall into the other groups. Anyone can use a universal item (unless specified otherwise in the description).  
+This is a catchall category for any psionic item that doesn’t fall into the other groups. Anyone can use a universal item (unless specified otherwise in the description).
 
 Physical Description: Varies.
 
 Activation: Usually command thought, but details vary from item to item.
 
-**Table: Minor Universal Items**  
+**Table: Minor Universal Items**
 
 | d%     | Item                            | Market Price |
 | ------ | ------------------------------- | ------------ |
@@ -53,7 +53,7 @@ Activation: Usually command thought, but details vary from item to item.
 | 95-97  | Torc of free will               | 6,000 gp     |
 | 98-100 | Boots of skating                | 7,000 gp     |
 
-**Table: Major Universal Items**  
+**Table: Major Universal Items**
 
 | d%     | Item                           | Market Price |
 | ------ | ------------------------------ | ------------ |
@@ -72,7 +72,7 @@ Activation: Usually command thought, but details vary from item to item.
 | 93-97  | Skin of iron                   | 129,600 gp   |
 | 98-100 | Skin of the psion              | 151,000 gp   |
 
-Table: Medium Universal Items   
+Table: Medium Universal Items
 
 | d%     | Item                                 | Market Price |
 | ------ | ------------------------------------ | ------------ |
@@ -123,71 +123,71 @@ Universal items can be configured to do just about anything.
 
 Standard universal items are described below.
 
-  - [[rangoric-srd/magic-items/universal-items/Amulet of Catapsi|Amulet of Catapsi]]
-  - [[rangoric-srd/magic-items/universal-items/Boots of Landing|Boots of Landing]]
-  - [[rangoric-srd/magic-items/universal-items/Boots of Skating|Boots of Skating]]
-  - [[rangoric-srd/magic-items/universal-items/Boots of Stomping|Boots of Stomping]]
-  - [[rangoric-srd/magic-items/universal-items/Boots of Temporal Acceleration|Boots of Temporal Acceleration]]
-  - [[rangoric-srd/magic-items/universal-items/Crawling Tattoos|Crawling Tattoos]]
-  - [[rangoric-srd/magic-items/universal-items/Crawling Tattoo of Energy Bolt|Crawling Tattoo of Energy Bolt]]
-  - [[rangoric-srd/magic-items/universal-items/Crystal Anchor|Crystal Anchor]]
-  - [[rangoric-srd/magic-items/universal-items/Comprehension Crystal Anchor|Comprehension Crystal Anchor]]
-  - [[rangoric-srd/magic-items/universal-items/Creation Crystal Anchor|Creation Crystal Anchor]]
-  - [[rangoric-srd/magic-items/universal-items/Energy Crystal Anchor|Energy Crystal Anchor]]
-  - [[rangoric-srd/magic-items/universal-items/Ghost Crystal Anchor|Ghost Crystal Anchor]]
-  - [[rangoric-srd/magic-items/universal-items/Mind Crystal Anchor|Mind Crystal Anchor]]
-  - [[rangoric-srd/magic-items/universal-items/Travel Crystal Anchor|Travel Crystal Anchor]]
-  - [[rangoric-srd/magic-items/universal-items/Crystal Masks|Crystal Masks]]
-  - [[rangoric-srd/magic-items/universal-items/Crystal Mask of Discernment|Crystal Mask of Discernment]]
-  - [[rangoric-srd/magic-items/universal-items/Crystal Mask of Dread|Crystal Mask of Dread]]
-  - [[rangoric-srd/magic-items/universal-items/Crystal Mask of Insightful Detection|Crystal Mask of Insightful Detection]]
-  - [[rangoric-srd/magic-items/universal-items/Crystal Mask of Knowledge|Crystal Mask of Knowledge]]
-  - [[rangoric-srd/magic-items/universal-items/Crystal Mask of Languages|Crystal Mask of Languages]]
-  - [[rangoric-srd/magic-items/universal-items/Crystal Mask of Mindarmor|Crystal Mask of Mindarmor]]
-  - [[rangoric-srd/magic-items/universal-items/Crystal Mask of Psionic Craft|Crystal Mask of Psionic Craft]]
-  - [[rangoric-srd/magic-items/universal-items/Eyes of Expanded Vision|Eyes of Expanded Vision]]
-  - [[rangoric-srd/magic-items/universal-items/Eyes of Power Leech|Eyes of Power Leech]]
-  - [[rangoric-srd/magic-items/universal-items/Eyes of Power Leech, Vampiric|Eyes of Power Leech, Vampiric]]
-  - [[rangoric-srd/magic-items/universal-items/Gloves of Object Reading|Gloves of Object Reading]]
-  - [[rangoric-srd/magic-items/universal-items/Gloves of Titan’s Grip|Gloves of Titan’s Grip]]
-  - [[rangoric-srd/magic-items/universal-items/Mirror of Mind Switch|Mirror of Mind Switch]]
-  - [[rangoric-srd/magic-items/universal-items/Mirror of Suggestion|Mirror of Suggestion]]
-  - [[rangoric-srd/magic-items/universal-items/Mirror of Time Hop|Mirror of Time Hop]]
-  - [[rangoric-srd/magic-items/universal-items/Pearl, Brain Lock|Pearl, Brain Lock]]
-  - [[rangoric-srd/magic-items/universal-items/Pearl, Breath Crisis|Pearl, Breath Crisis]]
-  - [[rangoric-srd/magic-items/universal-items/Pearl, Mind Seed|Pearl, Mind Seed]]
-  - [[rangoric-srd/magic-items/universal-items/Pearl, Personality Parasite|Pearl, Personality Parasite]]
-  - [[rangoric-srd/magic-items/universal-items/Psionatrix|Psionatrix]]
-  - [[rangoric-srd/magic-items/universal-items/Psionatrix of metacreativity|Psionatrix of metacreativity]]
-  - [[rangoric-srd/magic-items/universal-items/Psionatrix of psychokinesis|Psionatrix of psychokinesis]]
-  - [[rangoric-srd/magic-items/universal-items/Psionatrix of psychometabolism|Psionatrix of psychometabolism]]
-  - [[rangoric-srd/magic-items/universal-items/Psionatrix of psychoportation|Psionatrix of psychoportation]]
-  - [[rangoric-srd/magic-items/universal-items/Psionatrix of telepathy|Psionatrix of telepathy]]
-  - [[rangoric-srd/magic-items/universal-items/Psionic Restraints, Lesser|Psionic Restraints]]
-  - [[rangoric-srd/magic-items/universal-items/Psychoactive Skins|Psychoactive Skins]]
-  - [[rangoric-srd/magic-items/universal-items/Skin of the Claw|Skin of the Claw]]
-  - [[rangoric-srd/magic-items/universal-items/Skin of the Defender|Skin of the Defender]]
-  - [[rangoric-srd/magic-items/universal-items/Skin of Fiery Response|Skin of Fiery Response]]
-  - [[rangoric-srd/magic-items/universal-items/Skin of the Hero|Skin of the Hero]]
-  - [[rangoric-srd/magic-items/universal-items/Skin of Iron|Skin of Iron]]
-  - [[rangoric-srd/magic-items/universal-items/Skin of Nimbleness|Skin of Nimbleness]]
-  - [[rangoric-srd/magic-items/universal-items/Skin of Proteus|Skin of Proteus]]
-  - [[rangoric-srd/magic-items/universal-items/Skin of the Psion|Skin of the Psion]]
-  - [[rangoric-srd/magic-items/universal-items/Skin of the Spider|Skin of the Spider]]
-  - [[rangoric-srd/magic-items/universal-items/Skin of the Troll|Skin of the Troll]]
-  - [[rangoric-srd/magic-items/universal-items/Ring of Self-Sufficiency|Ring of Self-Sufficiency]]
-  - [[rangoric-srd/magic-items/universal-items/Shards +1|Shards]]
-  - [[rangoric-srd/magic-items/universal-items/Third Eyes|Third Eyes]]
-  - [[rangoric-srd/magic-items/universal-items/Conceal|Conceal]]
-  - [[rangoric-srd/magic-items/universal-items/Concentrate|Concentrate]]
-  - [[rangoric-srd/magic-items/universal-items/Dominate|Dominate]]
-  - [[rangoric-srd/magic-items/universal-items/Expose|Expose]]
-  - [[rangoric-srd/magic-items/universal-items/Gather|Gather]]
-  - [[rangoric-srd/magic-items/universal-items/Penetrate|Penetrate]]
-  - [[rangoric-srd/magic-items/universal-items/Powerthieve|Powerthieve]]
-  - [[rangoric-srd/magic-items/universal-items/Repudiate|Repudiate]]
-  - [[rangoric-srd/magic-items/universal-items/Sense|Sense]]
-  - [[rangoric-srd/magic-items/universal-items/View|View]]
-  - [[rangoric-srd/magic-items/universal-items/Torc of Free Will|Torc of Free Will]]
-  - [[rangoric-srd/magic-items/universal-items/Torc of Leech Freedom|Torc of Leech Freedom]]
-  - [[rangoric-srd/magic-items/universal-items/Torc of Power Preservation|Torc of Power Preservation]]
+- [[rangoric-srd/magic-items/universal-items/Amulet of Catapsi|Amulet of Catapsi]]
+- [[rangoric-srd/magic-items/universal-items/Boots of Landing|Boots of Landing]]
+- [[rangoric-srd/magic-items/universal-items/Boots of Skating|Boots of Skating]]
+- [[rangoric-srd/magic-items/universal-items/Boots of Stomping|Boots of Stomping]]
+- [[rangoric-srd/magic-items/universal-items/Boots of Temporal Acceleration|Boots of Temporal Acceleration]]
+- [[rangoric-srd/magic-items/universal-items/Crawling Tattoos|Crawling Tattoos]]
+- [[rangoric-srd/magic-items/universal-items/Crawling Tattoo of Energy Bolt|Crawling Tattoo of Energy Bolt]]
+- [[rangoric-srd/magic-items/universal-items/Crystal Anchor|Crystal Anchor]]
+- [[rangoric-srd/magic-items/universal-items/Comprehension Crystal Anchor|Comprehension Crystal Anchor]]
+- [[rangoric-srd/magic-items/universal-items/Creation Crystal Anchor|Creation Crystal Anchor]]
+- [[rangoric-srd/magic-items/universal-items/Energy Crystal Anchor|Energy Crystal Anchor]]
+- [[rangoric-srd/magic-items/universal-items/Ghost Crystal Anchor|Ghost Crystal Anchor]]
+- [[rangoric-srd/magic-items/universal-items/Mind Crystal Anchor|Mind Crystal Anchor]]
+- [[rangoric-srd/magic-items/universal-items/Travel Crystal Anchor|Travel Crystal Anchor]]
+- [[rangoric-srd/magic-items/universal-items/Crystal Masks|Crystal Masks]]
+- [[rangoric-srd/magic-items/universal-items/Crystal Mask of Discernment|Crystal Mask of Discernment]]
+- [[rangoric-srd/magic-items/universal-items/Crystal Mask of Dread|Crystal Mask of Dread]]
+- [[rangoric-srd/magic-items/universal-items/Crystal Mask of Insightful Detection|Crystal Mask of Insightful Detection]]
+- [[rangoric-srd/magic-items/universal-items/Crystal Mask of Knowledge|Crystal Mask of Knowledge]]
+- [[rangoric-srd/magic-items/universal-items/Crystal Mask of Languages|Crystal Mask of Languages]]
+- [[rangoric-srd/magic-items/universal-items/Crystal Mask of Mindarmor|Crystal Mask of Mindarmor]]
+- [[rangoric-srd/magic-items/universal-items/Crystal Mask of Psionic Craft|Crystal Mask of Psionic Craft]]
+- [[rangoric-srd/magic-items/universal-items/Eyes of Expanded Vision|Eyes of Expanded Vision]]
+- [[rangoric-srd/magic-items/universal-items/Eyes of Power Leech|Eyes of Power Leech]]
+- [[rangoric-srd/magic-items/universal-items/Eyes of Power Leech, Vampiric|Eyes of Power Leech, Vampiric]]
+- [[rangoric-srd/magic-items/universal-items/Gloves of Object Reading|Gloves of Object Reading]]
+- [[rangoric-srd/magic-items/universal-items/Gloves of Titan’s Grip|Gloves of Titan’s Grip]]
+- [[rangoric-srd/magic-items/universal-items/Mirror of Mind Switch|Mirror of Mind Switch]]
+- [[rangoric-srd/magic-items/universal-items/Mirror of Suggestion|Mirror of Suggestion]]
+- [[rangoric-srd/magic-items/universal-items/Mirror of Time Hop|Mirror of Time Hop]]
+- [[rangoric-srd/magic-items/universal-items/Pearl, Brain Lock|Pearl, Brain Lock]]
+- [[rangoric-srd/magic-items/universal-items/Pearl, Breath Crisis|Pearl, Breath Crisis]]
+- [[rangoric-srd/magic-items/universal-items/Pearl, Mind Seed|Pearl, Mind Seed]]
+- [[rangoric-srd/magic-items/universal-items/Pearl, Personality Parasite|Pearl, Personality Parasite]]
+- [[rangoric-srd/magic-items/universal-items/Psionatrix|Psionatrix]]
+- [[rangoric-srd/magic-items/universal-items/Psionatrix of metacreativity|Psionatrix of metacreativity]]
+- [[rangoric-srd/magic-items/universal-items/Psionatrix of psychokinesis|Psionatrix of psychokinesis]]
+- [[rangoric-srd/magic-items/universal-items/Psionatrix of psychometabolism|Psionatrix of psychometabolism]]
+- [[rangoric-srd/magic-items/universal-items/Psionatrix of psychoportation|Psionatrix of psychoportation]]
+- [[rangoric-srd/magic-items/universal-items/Psionatrix of telepathy|Psionatrix of telepathy]]
+- [[rangoric-srd/magic-items/universal-items/Psionic Restraints, Lesser|Psionic Restraints]]
+- [[rangoric-srd/magic-items/universal-items/Psychoactive Skins|Psychoactive Skins]]
+- [[rangoric-srd/magic-items/universal-items/Skin of the Claw|Skin of the Claw]]
+- [[rangoric-srd/magic-items/universal-items/Skin of the Defender|Skin of the Defender]]
+- [[rangoric-srd/magic-items/universal-items/Skin of Fiery Response|Skin of Fiery Response]]
+- [[rangoric-srd/magic-items/universal-items/Skin of the Hero|Skin of the Hero]]
+- [[rangoric-srd/magic-items/universal-items/Skin of Iron|Skin of Iron]]
+- [[rangoric-srd/magic-items/universal-items/Skin of Nimbleness|Skin of Nimbleness]]
+- [[rangoric-srd/magic-items/universal-items/Skin of Proteus|Skin of Proteus]]
+- [[rangoric-srd/magic-items/universal-items/Skin of the Psion|Skin of the Psion]]
+- [[rangoric-srd/magic-items/universal-items/Skin of the Spider|Skin of the Spider]]
+- [[rangoric-srd/magic-items/universal-items/Skin of the Troll|Skin of the Troll]]
+- [[rangoric-srd/magic-items/universal-items/Ring of Self-Sufficiency|Ring of Self-Sufficiency]]
+- [[rangoric-srd/magic-items/universal-items/Shards +1|Shards]]
+- [[rangoric-srd/magic-items/universal-items/Third Eyes|Third Eyes]]
+- [[rangoric-srd/magic-items/universal-items/Conceal|Conceal]]
+- [[rangoric-srd/magic-items/universal-items/Concentrate|Concentrate]]
+- [[rangoric-srd/magic-items/universal-items/Dominate|Dominate]]
+- [[rangoric-srd/magic-items/universal-items/Expose|Expose]]
+- [[rangoric-srd/magic-items/universal-items/Gather|Gather]]
+- [[rangoric-srd/magic-items/universal-items/Penetrate|Penetrate]]
+- [[rangoric-srd/magic-items/universal-items/Powerthieve|Powerthieve]]
+- [[rangoric-srd/magic-items/universal-items/Repudiate|Repudiate]]
+- [[rangoric-srd/magic-items/universal-items/Sense|Sense]]
+- [[rangoric-srd/magic-items/universal-items/View|View]]
+- [[rangoric-srd/magic-items/universal-items/Torc of Free Will|Torc of Free Will]]
+- [[rangoric-srd/magic-items/universal-items/Torc of Leech Freedom|Torc of Leech Freedom]]
+- [[rangoric-srd/magic-items/universal-items/Torc of Power Preservation|Torc of Power Preservation]]

@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Obfuscate Story
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex).*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex)._
 
 While another individual attempts to give an account of an event, the rogue makes an opposed [[rangoric-srd/skills/Persuasion|Persuasion]] check to deftly interject comments or statements over the course of the storytelling that cause the individual to muddle his ability to recall accurate or specific details. If the rogue succeeds, her target remains unaware that the rogue's interjections caused the confusion. However, if she fails, the target is allowed a [[rangoric-srd/skills/Sense Motive|Sense Motive]] check (DC equal to the rogue's failed Persuasion check) to figure out that she made deliberate attempts to confuse the story.

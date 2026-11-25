@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Phycomid
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
-  - **Hit Dice**: 6d8+12 (39 hp)
-  - **Initiative**: +0
-  - **Speed**: 10 ft. (2 squares)
-  - **Armor Class**: 17 (+6 natural, +1 size), touch 11, flat-footed 17
-  - **Base Attack**: +4; **CMB**: +0; **CMD**: 10 (can't be tripped)
-  - **Attack**: Acid pellet +5 ranged touch (2d6 acid plus [[rangoric-srd/monsters/abilities/Spores (Fungus Leshy)|spores]])
-  - **Full Attack**: Acid pellet +5 ranged touch (2d6 acid plus [[rangoric-srd/monsters/abilities/Spores (Fungus Leshy)|spores]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Tremorsense|Tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-  - **Saves**: Fort +7, Ref +2, Will +2
-  - **Abilities**: Str 5, Dex 10, Con 15, Int —, Wis 11, Cha 1
-  - **Skills**: —
-  - **Feats**: —
-  - **Environment**: Any underground
-  - **Organization**: Solitary or infestation (2–8)
-  - **Challenge Rating**: 4
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
+- **Hit Dice**: 6d8+12 (39 hp)
+- **Initiative**: +0
+- **Speed**: 10 ft. (2 squares)
+- **Armor Class**: 17 (+6 natural, +1 size), touch 11, flat-footed 17
+- **Base Attack**: +4; **CMB**: +0; **CMD**: 10 (can't be tripped)
+- **Attack**: Acid pellet +5 ranged touch (2d6 acid plus [[rangoric-srd/monsters/abilities/Spores (Fungus Leshy)|spores]])
+- **Full Attack**: Acid pellet +5 ranged touch (2d6 acid plus [[rangoric-srd/monsters/abilities/Spores (Fungus Leshy)|spores]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Tremorsense|Tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
+- **Saves**: Fort +7, Ref +2, Will +2
+- **Abilities**: Str 5, Dex 10, Con 15, Int —, Wis 11, Cha 1
+- **Skills**: —
+- **Feats**: —
+- **Environment**: Any underground
+- **Organization**: Solitary or infestation (2–8)
+- **Challenge Rating**: 4
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 - **Contracted**: injury or ingested
 - **Effect**: 1d2 Constitution damage
@@ -80,4 +80,4 @@ Because of the filthy environment in which this fungus thrives, goblins are one 
 
 **Spores (Ex)**: Any creature that takes damage from a phycomid's acid pellet (or consumes even a small portion of the fungus) becomes exposed to the fungus's spores. These spores grow quickly in living creatures. This affliction is a disease effect, although its course runs much faster than most diseases and is more poison-like in its speed, and like a poison, the spores “burn out” after a short period. A creature that is slain by a phycomid spore infestation bursts open in 1d4 rounds as a fully grown new phycomid emerges. The save DC is Constitution-based.
 
-[[rangoric-srd/rules/afflictions/Phycomid Spores|Phycomid Spores]]: injury or ingested; *save* Fort DC 15; *frequency* 1/round for 6 rounds; *effect* 1d2 Con damage; *cure* 1 save.
+[[rangoric-srd/rules/afflictions/Phycomid Spores|Phycomid Spores]]: injury or ingested; _save_ Fort DC 15; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con damage; _cure_ 1 save.

@@ -19,13 +19,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Fated Champion
 
-*A [[rangoric-srd/classes/Skald#^skald-archetypes|skald]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Skald#^skald-archetypes|skald]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Many cultures see fate as a limit that is both stifling and unwanted, regardless of the destiny that lurks in the days and years ahead. Among cultures where skalds are the keepers of lore and wisdom, there are those who learn to read the winds of fate and take up the mantle of the fated champion, knowing and embracing their destined paths with strength borne of conviction.
 
 **Watcher of the Weave (Ex)**: At 2nd level, a fated champion learns to see the tapestry of events moments before it is woven. He gains an insight bonus on initiative checks equal to 1/2 his skald level. This ability replaces [[rangoric-srd/classes/Skald#^skald-well-versed|well-versed]].
 
-**Far Seer (Su)**: At 5th level, a fated champion learns a method of spell kenning that is especially suited for divining and understanding the future, but not for directly harming opponents. For the purpose of determining what level spell slot he expends when using [[rangoric-srd/classes/Skald#^skald-spell-kenning|spell kenning]], the skald treats the spell level of spells that predict the future (such as *[[rangoric-srd/spells/Augury|augury]]* and *[[rangoric-srd/spells/Divination|divination]]*) as one spell level lower (minimum spell level 1st), and treats the spell level of spells that deal damage as one spell level higher. This alters the [[rangoric-srd/classes/Skald#^skald-spell-kenning|spell kenning]] class feature.
+**Far Seer (Su)**: At 5th level, a fated champion learns a method of spell kenning that is especially suited for divining and understanding the future, but not for directly harming opponents. For the purpose of determining what level spell slot he expends when using [[rangoric-srd/classes/Skald#^skald-spell-kenning|spell kenning]], the skald treats the spell level of spells that predict the future (such as _[[rangoric-srd/spells/Augury|augury]]_ and _[[rangoric-srd/spells/Divination|divination]]_) as one spell level lower (minimum spell level 1st), and treats the spell level of spells that deal damage as one spell level higher. This alters the [[rangoric-srd/classes/Skald#^skald-spell-kenning|spell kenning]] class feature.
 
 **Shield of Foresight (Su)**: At 10th level, a fated champion's certainty of his own fate grants him the ability to stare down fear and remain unbowed. When using [[rangoric-srd/classes/Skald#^skald-raging-song|raging song]], he is immune to fear effects, and allies affected by his raging song gain a +5 bonus on saves attempted against fear effects. This ability replaces the [[rangoric-srd/classes/Skald#^skald-dirge-of-doom|dirge of doom]] raging song.
 

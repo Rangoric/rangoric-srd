@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Ancient Lorekeeper
 
-*An [[rangoric-srd/classes/Oracle#^oracle-archetypes|oracle]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Elf|elves]].*
+_An [[rangoric-srd/classes/Oracle#^oracle-archetypes|oracle]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Elf|elves]]._
 
 The ancient lorekeeper is a repository for all the beliefs and vast knowledge of an elven people. She shows a strong interest in and understanding of histories and creation legends at a young age, and as she matures her calling to serve as the memory of her long-lived people becomes clear to all who know her. An ancient lorekeeper has the following class features.
 

@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Giant Chameleon
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 4d8+16 (34 hp)
-  - **Initiative**: +6
-  - **Speed**: 40 ft. (8 squares), climb 40 ft.
-  - **Armor Class**: 14 (+2 Dex, +3 natural, –1 size), touch 11, flat-footed 12
-  - **Base Attack**: +3; **CMB**: +7 (+11 grapple); **CMD**: 19 (23 vs. trip)
-  - **Attack**: Bite +5 melee (2d6+4) or tongue +5 melee touch (grab)
-  - **Full Attack**: Bite +5 melee (2d6+4); or tongue +5 melee touch (grab)
-  - **Space/Reach**: 10 ft./10 ft. (15 ft. with tongue)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Tongue|Tongue]], pull ([[rangoric-srd/monsters/abilities/Tongue|tongue]], 5 ft.)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
-  - **Saves**: Fort +8, Ref +6, Will +1
-  - **Abilities**: Str 16, Dex 15, Con 18, Int 2, Wis 11, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +18 (+28 when still)
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
-  - **Environment**: Warm forests and mountains
-  - **Organization**: Solitary, pair, or blend (3–6)
-  - **Challenge Rating**: 3
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 4d8+16 (34 hp)
+- **Initiative**: +6
+- **Speed**: 40 ft. (8 squares), climb 40 ft.
+- **Armor Class**: 14 (+2 Dex, +3 natural, –1 size), touch 11, flat-footed 12
+- **Base Attack**: +3; **CMB**: +7 (+11 grapple); **CMD**: 19 (23 vs. trip)
+- **Attack**: Bite +5 melee (2d6+4) or tongue +5 melee touch (grab)
+- **Full Attack**: Bite +5 melee (2d6+4); or tongue +5 melee touch (grab)
+- **Space/Reach**: 10 ft./10 ft. (15 ft. with tongue)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Tongue|Tongue]], pull ([[rangoric-srd/monsters/abilities/Tongue|tongue]], 5 ft.)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
+- **Saves**: Fort +8, Ref +6, Will +1
+- **Abilities**: Str 16, Dex 15, Con 18, Int 2, Wis 11, Cha 7
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +18 (+28 when still)
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
+- **Environment**: Warm forests and mountains
+- **Organization**: Solitary, pair, or blend (3–6)
+- **Challenge Rating**: 3
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 These large lizards have the ability to shift the pigments in their skin to match their surroundings. A giant chameleon is typically 11 feet long and weighs 160 pounds.
 

@@ -33,19 +33,19 @@ tags: [rangoric, rangoric/spell]
 
 # Sleet Storm
 
-*Conjuration (Creation) \[Cold\]*
+_Conjuration (Creation) \[Cold\]_
 
-  - **Level**: Blr 3, Drd 3, Hun 3, Mag 3, Sha 3, Sor/Wiz 3, Wit 3
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Long (400 ft. + 40 ft./level)
-  - **Area**: Cylinder (40-ft. radius, 20 ft. high)
-  - **Duration**: 1 round/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Blr 3, Drd 3, Hun 3, Mag 3, Sha 3, Sor/Wiz 3, Wit 3
+- **Components**: V, S, M/DF
+- **Casting Time**: 1 standard action
+- **Range**: Long (400 ft. + 40 ft./level)
+- **Area**: Cylinder (40-ft. radius, 20 ft. high)
+- **Duration**: 1 round/level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 Driving sleet blocks all sight (even darkvision) within it and causes the ground in the area to be icy. A creature can walk within or through the area of sleet at half normal speed with a DC 10 [[rangoric-srd/skills/Acrobatics|Acrobatics]] check. Failure means it can’t move in that round, while failure by 5 or more means it falls (see the Acrobatics skill for details).
 
 The sleet extinguishes torches and small fires.
 
-*Arcane Material Component*: A pinch of dust and a few drops of water.
+_Arcane Material Component_: A pinch of dust and a few drops of water.

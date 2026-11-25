@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This tiny glass bead transforms itself into a small (2-foot-tall) pile of burning logs whenever its command word is spoken. The fire burns for 8 hours or until extinguished, at which point it turns back into a bead. The owner of the item must wait twice as long as the fire burned before he can order the bead to become a campfire again.
 
-Faint evocation; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Produce Flame|produce flame]]*; Price 720 gp; Cost 360 gp.
+Faint evocation; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Produce Flame|produce flame]]_; Price 720 gp; Cost 360 gp.

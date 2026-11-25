@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/thrown]
 
 # Flutegun
 
-*Exotic ranged weapon.* Cost 15 gp; Range Increment 30 ft.; Weight 3 lb.; Type Piercing. ^stats
+_Exotic ranged weapon._ Cost 15 gp; Range Increment 30 ft.; Weight 3 lb.; Type Piercing. ^stats
 
 A favorite weapon of bardic assassins, this ordinary-looking flute contains a hidden blowgun mechanism. This is an exotic ranged weapon that can be played as a flute and used as a missile weapon at the same time. The needles fired by the flutegun do no damage, but can deliver a potent dose of poison. The gun only holds one needle at a time, but can be reloaded while playing with a successful [[rangoric-srd/skills/Performance|Performance]] check (DC 10). The total [[rangoric-srd/skills/Performance|Performance]] check becomes the DC for any opposed [[rangoric-srd/skills/Perception|Perception]] checks to notice the reloading.

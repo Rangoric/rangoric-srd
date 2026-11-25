@@ -38,25 +38,25 @@ tags: [rangoric, rangoric/monster]
 
 # Advanced Megaraptor Skeleton
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
-  - **Hit Dice**: 12d12 (78 hp)
-  - **Initiative**: +7
-  - **Speed**: 60 ft. (12 squares)
-  - **Armor Class**: 14 (–2 size, +3 Dex, +3 natural), touch 11, flat-footed 11
-  - **Base Attack**: +6; **CMB**: +13; **CMD**: 26
-  - **Attack**: Talons +9 melee (2d8+5)
-  - **Full Attack**: Talons +9 melee (2d8+5) and 2 claws +4 melee (1d8+2) and bite +4 melee (2d6+2)
-  - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/bludgeoning, darkvision 60 ft., immunity to cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
-  - **Saves**: Fort +4, Ref +7, Will +8
-  - **Abilities**: Str 21, Dex 17, Con —, Int —, Wis 10, Cha 1
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +20
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
-  - **Environment**: Warm forests
-  - **Organization**: Any
-  - **Challenge Rating**: 6
-  - **Treasure**: None
-  - **Alignment**: Always neutral evil
-  - **Advancement**: 13–16 HD (Huge); 17–20 HD (Gargantuan)
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
+- **Hit Dice**: 12d12 (78 hp)
+- **Initiative**: +7
+- **Speed**: 60 ft. (12 squares)
+- **Armor Class**: 14 (–2 size, +3 Dex, +3 natural), touch 11, flat-footed 11
+- **Base Attack**: +6; **CMB**: +13; **CMD**: 26
+- **Attack**: Talons +9 melee (2d8+5)
+- **Full Attack**: Talons +9 melee (2d8+5) and 2 claws +4 melee (1d8+2) and bite +4 melee (2d6+2)
+- **Space/Reach**: 15 ft./10 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/bludgeoning, darkvision 60 ft., immunity to cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
+- **Saves**: Fort +4, Ref +7, Will +8
+- **Abilities**: Str 21, Dex 17, Con —, Int —, Wis 10, Cha 1
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +20
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
+- **Environment**: Warm forests
+- **Organization**: Any
+- **Challenge Rating**: 6
+- **Treasure**: None
+- **Alignment**: Always neutral evil
+- **Advancement**: 13–16 HD (Huge); 17–20 HD (Gargantuan)
+- **Level Adjustment**: —

@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Belier Devil
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Devil, Evil, Extraplanar, Lawful)
-  - **Hit Dice**: 17d10+119 (212 hp)
-  - **Initiative**: +10
-  - **Speed**: 20 ft. (4 squares), fly 60 ft. (perfect)
-  - **Armor Class**: 33 (+6 Dex, +18 natural, –1 size), touch 15, flat-footed 27
-  - **Base Attack**: +17; **CMB**: +25 (+29 grapple); **CMD**: 41 (can't be tripped)
-  - **Attack**: Bite +23 melee (4d8+7) or tongue +23 melee (2d6+7/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +23 melee (4d8+7) and 3 tongues +23 melee (2d6+7/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 10 ft./10 ft. (20 ft. with tongues)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1d4 Con damage), [[rangoric-srd/monsters/abilities/Constrict|constrict]] (1d6+7), [[rangoric-srd/monsters/abilities/Possession (Belier Devil)|possession]], [[rangoric-srd/monsters/abilities/Strangle|strangle]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good and silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and cold 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 28
-  - **Saves**: Fort +17, Ref +11, Will +20
-  - **Abilities**: Str 24, Dex 23, Con 25, Int 25, Wis 26, Cha 24
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +32, [[rangoric-srd/skills/Appraise|Appraise]] +24, [[rangoric-srd/skills/Arcana|Arcana]] +27, [[rangoric-srd/skills/Deception|Deception]] +27, [[rangoric-srd/skills/Intimidation|Intimidation]] +24, [[rangoric-srd/skills/Knowledge|Knowledge]] +27, [[rangoric-srd/skills/Mysticism|Mysticism]] +24, [[rangoric-srd/skills/Perception|Perception]] +28, [[rangoric-srd/skills/Persuasion|Persuasion]] +27, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +28, [[rangoric-srd/skills/Society|Society]] +27, [[rangoric-srd/skills/Stealth|Stealth]] +22
-  - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Greater Disarm|Greater Disarm]], [[rangoric-srd/feats/Greater Trip|Greater Trip]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (tongue), [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], [[rangoric-srd/feats/Iron Will|Iron Will]]
-  - **Environment**: Any (a lawful evil-aligned plane: Hell)
-  - **Organization**: Solitary
-  - **Challenge Rating**: 16
-  - **Treasure**: Double
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Devil, Evil, Extraplanar, Lawful)
+- **Hit Dice**: 17d10+119 (212 hp)
+- **Initiative**: +10
+- **Speed**: 20 ft. (4 squares), fly 60 ft. (perfect)
+- **Armor Class**: 33 (+6 Dex, +18 natural, –1 size), touch 15, flat-footed 27
+- **Base Attack**: +17; **CMB**: +25 (+29 grapple); **CMD**: 41 (can't be tripped)
+- **Attack**: Bite +23 melee (4d8+7) or tongue +23 melee (2d6+7/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +23 melee (4d8+7) and 3 tongues +23 melee (2d6+7/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 10 ft./10 ft. (20 ft. with tongues)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1d4 Con damage), [[rangoric-srd/monsters/abilities/Constrict|constrict]] (1d6+7), [[rangoric-srd/monsters/abilities/Possession (Belier Devil)|possession]], [[rangoric-srd/monsters/abilities/Strangle|strangle]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good and silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and cold 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 28
+- **Saves**: Fort +17, Ref +11, Will +20
+- **Abilities**: Str 24, Dex 23, Con 25, Int 25, Wis 26, Cha 24
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +32, [[rangoric-srd/skills/Appraise|Appraise]] +24, [[rangoric-srd/skills/Arcana|Arcana]] +27, [[rangoric-srd/skills/Deception|Deception]] +27, [[rangoric-srd/skills/Intimidation|Intimidation]] +24, [[rangoric-srd/skills/Knowledge|Knowledge]] +27, [[rangoric-srd/skills/Mysticism|Mysticism]] +24, [[rangoric-srd/skills/Perception|Perception]] +28, [[rangoric-srd/skills/Persuasion|Persuasion]] +27, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +28, [[rangoric-srd/skills/Society|Society]] +27, [[rangoric-srd/skills/Stealth|Stealth]] +22
+- **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Greater Disarm|Greater Disarm]], [[rangoric-srd/feats/Greater Trip|Greater Trip]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (tongue), [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], [[rangoric-srd/feats/Iron Will|Iron Will]]
+- **Environment**: Any (a lawful evil-aligned plane: Hell)
+- **Organization**: Solitary
+- **Challenge Rating**: 16
+- **Treasure**: Double
+- **Alignment**: Usually lawful evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Masterful possessors and foul manipulators, belier devils are among the most feared masterminds of Hell. Known as bdellavritras to devilkind, these worm-like fiends avoid physical confrontation. Instead, they target influential individuals for possession, using them to manipulate events by proxy. If their schemes are uncovered, the devils retaliate with all the power at their host bodies' disposal.
 
@@ -71,6 +71,6 @@ Belier devils speak Celestial, Common, Draconic and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 17th; concentration +24): At will—*[[rangoric-srd/spells/Acid Arrow|acid arrow]]*, *[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]*, *[[rangoric-srd/spells/Teleport, Greater|greater teleport]]* (self plus 50 pounds of objects only), *[[rangoric-srd/spells/Persistent Image|persistent image]]* (DC 22); 3/day—*[[rangoric-srd/spells/Acid Fog|acid fog]]*, *[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]*, *[[rangoric-srd/spells/Dominate Person|dominate person]]* (DC 22), *[[rangoric-srd/spells/Scrying, Greater|greater scrying]]* (DC 24), *[[rangoric-srd/spells/Suggestion, Mass|mass suggestion]]* (DC 23); 1/day—*[[rangoric-srd/spells/Blasphemy|blasphemy]]* (DC 24), *[[rangoric-srd/spells/Demand|demand]]* (DC 25), *[[rangoric-srd/spells/Magic Jar|magic jar]]* (DC 22), *[[rangoric-srd/spells/Plane Shift|plane shift]]* (DC 22), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 6, 3 barbed devils 45%), *[[rangoric-srd/spells/Waves of Exhaustion|waves of exhaustion]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 17th; concentration +24): At will—_[[rangoric-srd/spells/Acid Arrow|acid arrow]]_, _[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]_, _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 pounds of objects only), _[[rangoric-srd/spells/Persistent Image|persistent image]]_ (DC 22); 3/day—_[[rangoric-srd/spells/Acid Fog|acid fog]]_, _[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]_, _[[rangoric-srd/spells/Dominate Person|dominate person]]_ (DC 22), _[[rangoric-srd/spells/Scrying, Greater|greater scrying]]_ (DC 24), _[[rangoric-srd/spells/Suggestion, Mass|mass suggestion]]_ (DC 23); 1/day—_[[rangoric-srd/spells/Blasphemy|blasphemy]]_ (DC 24), _[[rangoric-srd/spells/Demand|demand]]_ (DC 25), _[[rangoric-srd/spells/Magic Jar|magic jar]]_ (DC 22), _[[rangoric-srd/spells/Plane Shift|plane shift]]_ (DC 22), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 6, 3 barbed devils 45%), _[[rangoric-srd/spells/Waves of Exhaustion|waves of exhaustion]]_.
 
 **[[rangoric-srd/monsters/abilities/Possession (Belier Devil)|Possession]] (Su)**: When a belier devil uses its magic jar spell-like ability, it can identify and pinpoint life forces accurately, allowing it to select its victims with ease. It does not require a receptacle to use magic jar. If it uses magic jar on a host while on the Material Plane, its own body becomes ethereal for the duration of the possession and the magic jar effect lasts until the effect is dispelled, the devil ends the effect, it is forced out of its host body, or it or its host body is slain.

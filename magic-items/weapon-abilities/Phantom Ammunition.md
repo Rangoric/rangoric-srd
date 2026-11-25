@@ -22,4 +22,4 @@ This special ability can be placed only on ammunition. Ammunition with this weap
 
 The listed price is for 50 pieces of phantom ammunition.
 
-Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Disintegrate|disintegrate]]*, *[[rangoric-srd/spells/Make Whole|make whole]]*; Price +2,000 gp.
+Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Disintegrate|disintegrate]]_, _[[rangoric-srd/spells/Make Whole|make whole]]_; Price +2,000 gp.

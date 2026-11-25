@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Spectre
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Incorporeal)
-  - **Hit Dice**: 8d8+16 (52 hp)
-  - **Initiative**: +7
-  - **Speed**: fly 80 ft. (perfect)
-  - **Armor Class**: 15 (+2 deflection, +3 Dex), touch 15, flat-footed 12
-  - **Base Attack**: +6; **CMB**: +6; **CMD**: 21
-  - **Attack**: Incorporeal touch +10 melee (1d8 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
-  - **Full Attack**: Incorporeal touch +10 melee (1d8 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Create spawn, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (2 levels, DC 16)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Unnatural Aura|unnatural aura]] (30 ft.), [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], resurrection vulnerability, [[rangoric-srd/monsters/abilities/Sunlight Powerlessness|sunlight powerlessness]]
-  - **Saves**: Fort +4, Ref +5, Will +9
-  - **Abilities**: Str —, Dex 16, Con —, Int 14, Wis 16, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +14, [[rangoric-srd/skills/Theology|Theology]] +13
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (touch)
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, gang (3–6), or swarm (7–12)
-  - **Challenge Rating**: 7
-  - **Treasure**: 
-  - **Alignment**: Always lawful evil
-  - **Advancement**: 8–14 HD (Medium)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Incorporeal)
+- **Hit Dice**: 8d8+16 (52 hp)
+- **Initiative**: +7
+- **Speed**: fly 80 ft. (perfect)
+- **Armor Class**: 15 (+2 deflection, +3 Dex), touch 15, flat-footed 12
+- **Base Attack**: +6; **CMB**: +6; **CMD**: 21
+- **Attack**: Incorporeal touch +10 melee (1d8 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
+- **Full Attack**: Incorporeal touch +10 melee (1d8 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Create spawn, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (2 levels, DC 16)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Unnatural Aura|unnatural aura]] (30 ft.), [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], resurrection vulnerability, [[rangoric-srd/monsters/abilities/Sunlight Powerlessness|sunlight powerlessness]]
+- **Saves**: Fort +4, Ref +5, Will +9
+- **Abilities**: Str —, Dex 16, Con —, Int 14, Wis 16, Cha 15
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +14, [[rangoric-srd/skills/Theology|Theology]] +13
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (touch)
+- **Environment**: Any
+- **Organization**: Solitary, pair, gang (3–6), or swarm (7–12)
+- **Challenge Rating**: 7
+- **Treasure**:
+- **Alignment**: Always lawful evil
+- **Advancement**: 8–14 HD (Medium)
+- **Level Adjustment**: —
 
 Spectres are evil undead that hate sunlight and living things. Most are the remnants of murdered or evil humans, their anger preventing them from entering the afterlife. Like ghosts, spectres haunt the places of their deaths, and seek to draw others into the lonely abyss of undeath.
 

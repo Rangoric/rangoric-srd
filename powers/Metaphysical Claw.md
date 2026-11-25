@@ -27,7 +27,7 @@ Psychometabolism
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 min./level  
-**Power Points:** 1  
+**Power Points:** 1
 
 If you have a claw attack (either from an actual natural weapon or from an effect such as [[rangoric-srd/powers/Claws of the Beast|claws of the beast]]) or a bite attack (which could be a natural bite attack or one you gain by means of the power [[rangoric-srd/powers/Bite of the Wolf|bite of the wolf]]), you can use this power to provide one of your natural weapons a +1 enhancement bonus on attack rolls and damage rolls.
 

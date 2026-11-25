@@ -25,15 +25,15 @@ tags: [rangoric, rangoric/spell]
 
 # Siege of Trees, Greater
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Drd 9
-  - **Components**: V, S, DF
-  - **Casting Time**: 10 minutes
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Targets**: One Gargantuan, Huge, or Large plant per three caster levels
-  - **Duration**: 1 hour/level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Drd 9
+- **Components**: V, S, DF
+- **Casting Time**: 10 minutes
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Targets**: One Gargantuan, Huge, or Large plant per three caster levels
+- **Duration**: 1 hour/level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-As *[[rangoric-srd/spells/Siege of Trees|siege of trees]]*, but you can affect larger-sized plants. Each plant acts as a catapult of its size.
+As _[[rangoric-srd/spells/Siege of Trees|siege of trees]]_, but you can affect larger-sized plants. Each plant acts as a catapult of its size.

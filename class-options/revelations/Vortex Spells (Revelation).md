@@ -16,8 +16,8 @@ tags: [rangoric, rangoric/class-option]
 
 # Vortex Spells
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Wind Mystery|wind]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Wind Mystery|wind]] mystery._
 
 Whenever you score a critical hit against an opponent with an attack spell, the target is staggered for 1 round. At 11th level, the duration increases to 1d4 rounds.
 
-*The shaman has a hex of the same name: [[rangoric-srd/class-options/hexes/Vortex Spells (Hex)|vortex spells]].*
+_The shaman has a hex of the same name: [[rangoric-srd/class-options/hexes/Vortex Spells (Hex)|vortex spells]]._

@@ -41,26 +41,26 @@ tags: [rangoric, rangoric/monster]
 
 # Minor Xorn
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^earth|Earth]])
-  - **Hit Dice**: 3d8+9 (22 hp)
-  - **Initiative**: +0
-  - **Speed**: 20 ft. (4 squares), burrow 20 ft.
-  - **Armor Class**: 23 (+1 size, +12 natural), touch 11, flat-footed 23
-  - **Base Attack**: +3; **CMB**: +4; **CMD**: 14 (16 vs. trip)
-  - **Attack**: Bite +6 melee (2d8+2)
-  - **Full Attack**: Bite +6 melee (2d8+2) and 3 claws +4 melee (1d3+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: All-around vision, earth glide, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, darkvision 60 ft., immunity to cold and fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|resistance to electricity]] 10, [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft.
-  - **Saves**: Fort +5, Ref +3, Will +3
-  - **Abilities**: Str 15, Dex 10, Con 15, Int 10, Wis 11, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6 (+8 following tracks or underground), [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Investigation|Investigation]] +10, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Unspent Skill Points**: 6
-  - **Feats**: [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Elemental Plane of Earth
-  - **Organization**: Solitary, pair, or cluster (3–5)
-  - **Challenge Rating**: 3
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 4–6 HD (Small)
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^earth|Earth]])
+- **Hit Dice**: 3d8+9 (22 hp)
+- **Initiative**: +0
+- **Speed**: 20 ft. (4 squares), burrow 20 ft.
+- **Armor Class**: 23 (+1 size, +12 natural), touch 11, flat-footed 23
+- **Base Attack**: +3; **CMB**: +4; **CMD**: 14 (16 vs. trip)
+- **Attack**: Bite +6 melee (2d8+2)
+- **Full Attack**: Bite +6 melee (2d8+2) and 3 claws +4 melee (1d3+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: All-around vision, earth glide, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, darkvision 60 ft., immunity to cold and fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|resistance to electricity]] 10, [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft.
+- **Saves**: Fort +5, Ref +3, Will +3
+- **Abilities**: Str 15, Dex 10, Con 15, Int 10, Wis 11, Cha 10
+- **Skills**: [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6 (+8 following tracks or underground), [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Investigation|Investigation]] +10, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Unspent Skill Points**: 6
+- **Feats**: [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Elemental Plane of Earth
+- **Organization**: Solitary, pair, or cluster (3–5)
+- **Challenge Rating**: 3
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 4–6 HD (Small)
+- **Level Adjustment**: —

@@ -55,18 +55,18 @@ The Shadeseer’s class skills (and the key ability for each skill) are [[rangor
 
 **Table: The Shadeseer** ^table-the-shadeseer
 
-| Level | Special | Spells per Day |
-| --- | --- | --- |
-| 1st | Enhanced Shadehand feat | — |
-| 2nd | — | +1 level of existing class |
-| 3rd | Enhanced Shadetongue feat, energy drain attack 1/day | — |
-| 4th | — | +1 level of existing class |
-| 5th | Enhanced Shadecall feat | — |
-| 6th | — | +1 level of existing class |
-| 7th | Energy drain attack 2/day | — |
-| 8th | — | +1 level of existing class |
-| 9th | Undead servitor | — |
-| 10th | — | +1 level of existing class |
+| Level | Special                                              | Spells per Day             |
+| ----- | ---------------------------------------------------- | -------------------------- |
+| 1st   | Enhanced Shadehand feat                              | —                          |
+| 2nd   | —                                                    | +1 level of existing class |
+| 3rd   | Enhanced Shadetongue feat, energy drain attack 1/day | —                          |
+| 4th   | —                                                    | +1 level of existing class |
+| 5th   | Enhanced Shadecall feat                              | —                          |
+| 6th   | —                                                    | +1 level of existing class |
+| 7th   | Energy drain attack 2/day                            | —                          |
+| 8th   | —                                                    | +1 level of existing class |
+| 9th   | Undead servitor                                      | —                          |
+| 10th  | —                                                    | +1 level of existing class |
 
 ###### Class Features
 
@@ -78,11 +78,11 @@ All of the following are class features of the Shadeseer prestige class.
 
 **Enhanced Shadetouched Feats**: Shadeseers automatically receive specific [[rangoric-srd/rules/path-of-shades/The Path of Shades#Shadetouched Feats|shadetouched feats]] at 1st, 3rd, and 5th level. Because of their focus on exploring their innate abilities, Shadeseers are not required to meet the prerequisites for these feats. Their enhanced versions of these feats are more powerful than the ordinary versions attainable by non-Shadeseers. If a Shadeseer has already taken a particular feat before gaining it as a class ability, he does not gain another feat in its place when he reaches the level that grants him the feat in question. Until he reaches the level at which he receives the enhanced version of a feat, the feat operates as usual. ^shadeseer-enhanced-shadetouched-feats
 
-*Enhanced [[rangoric-srd/feats/Shadehand|Shadehand]]*: The Shadeseer automatically gains the Shadehand feat at 1st level, even if she does not meet the prerequisites. Whenever she uses this feat, she can add her Shadeseer level to the ability check to activate it.
+_Enhanced [[rangoric-srd/feats/Shadehand|Shadehand]]_: The Shadeseer automatically gains the Shadehand feat at 1st level, even if she does not meet the prerequisites. Whenever she uses this feat, she can add her Shadeseer level to the ability check to activate it.
 
-*Enhanced [[rangoric-srd/feats/Shadetongue|Shadetongue]]*: The Shadeseer automatically gains the Shadetongue feat at 3rd level, even if he does not meet the prerequisites. Whenever he uses this feat, he may rebuke or command undead as if he were an [[rangoric-srd/combat/Combat Special Attacks#Evil Clerics and Undead|evil cleric]] of 2 levels lower than his total character level.
+_Enhanced [[rangoric-srd/feats/Shadetongue|Shadetongue]]_: The Shadeseer automatically gains the Shadetongue feat at 3rd level, even if he does not meet the prerequisites. Whenever he uses this feat, he may rebuke or command undead as if he were an [[rangoric-srd/combat/Combat Special Attacks#Evil Clerics and Undead|evil cleric]] of 2 levels lower than his total character level.
 
-*Enhanced [[rangoric-srd/feats/Shadecall|Shadecall]]*: The Shadeseer automatically gains the Shadecall feat at 5th level, even if she does not meet the prerequisites. Whenever she uses this feat, she can add her Shadeseer level to the ability check. She may control up to 1 HD of undead per character level.
+_Enhanced [[rangoric-srd/feats/Shadecall|Shadecall]]_: The Shadeseer automatically gains the Shadecall feat at 5th level, even if she does not meet the prerequisites. Whenever she uses this feat, she can add her Shadeseer level to the ability check. She may control up to 1 HD of undead per character level.
 
 **Energy Drain Attack**: At 3rd level, the Shadeseer can make an energy drain attack once per day. This is a touch attack that, if successful, automatically inflicts 1d4 [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative levels]] on the target. Twenty-four hours later, the target must attempt a Will save (DC 10 + 1/2 the Shadeseer’s level + the Shadeseer’s Charisma bonus). Success removes the negative level without harming the target, but failure makes it [[rangoric-srd/rules/Special Abilities and Conditions#^permanent-negative-levels|permanent]]. The target must make one Will save for every negative level received. Every negative level inflicted heals 5 hit points of damage to the Shadeseer (10 on a critical hit). If this heals the Shadeseer over any damage he has taken, the excess hit points are gained as temporary hit points, vanishing after one minute. At 7th level, the Shadeseer can make 2 energy drain attacks per day. ^shadeseer-energy-drain-attack
 

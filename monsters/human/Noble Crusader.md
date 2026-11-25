@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Noble Crusader
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 5d8+15 (41 hp)
-  - **Initiative**: –1
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 18 (+7 armor, –1 Dex, +2 shield), touch 9, flat-footed 18
-  - **Base Attack**: +3; **CMB**: +6; **CMD**: 15
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +8 melee (1d8+3/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +8 melee (1d8+3/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel positive energy]] 6/day (DC 13, 3d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|turn undead]]
-  - **Special Qualities**: [[rangoric-srd/classes/Cleric#^cleric-aura|Aura]]
-  - **Saves**: Fort +7, Ref +1, Will +9
-  - **Abilities**: Str 17, Dex 8, Con 14, Int 10, Wis 14, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Theology|Theology]] +5
-  - **Feats**: [[rangoric-srd/feats/Armor Proficiency (Heavy)|Armor Proficiency (Heavy)]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Improved Shield Bash|Improved Shield Bash]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 4
-  - **Treasure**: NPC gear (combat gear: potion of bull's strength, thunderstone; other gear: masterwork splint mail, +1 light steel shield, masterwork longsword, cloak of resistance +1, silver holy symbol, 271 gp)
-  - **Alignment**: Lawful neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 5d8+15 (41 hp)
+- **Initiative**: –1
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 18 (+7 armor, –1 Dex, +2 shield), touch 9, flat-footed 18
+- **Base Attack**: +3; **CMB**: +6; **CMD**: 15
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +8 melee (1d8+3/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +8 melee (1d8+3/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel positive energy]] 6/day (DC 13, 3d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|turn undead]]
+- **Special Qualities**: [[rangoric-srd/classes/Cleric#^cleric-aura|Aura]]
+- **Saves**: Fort +7, Ref +1, Will +9
+- **Abilities**: Str 17, Dex 8, Con 14, Int 10, Wis 14, Cha 12
+- **Skills**: [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Theology|Theology]] +5
+- **Feats**: [[rangoric-srd/feats/Armor Proficiency (Heavy)|Armor Proficiency (Heavy)]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Improved Shield Bash|Improved Shield Bash]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 4
+- **Treasure**: NPC gear (combat gear: potion of bull's strength, thunderstone; other gear: masterwork splint mail, +1 light steel shield, masterwork longsword, cloak of resistance +1, silver holy symbol, 271 gp)
+- **Alignment**: Lawful neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A noble crusader is a [[rangoric-srd/monsters/human/Human|human]] with 5 levels of [[rangoric-srd/classes/Cleric|cleric]]. The noble crusader battles the forces of chaos, usually at the behest of a local monarch.
 
@@ -77,4 +77,4 @@ A noble crusader speaks Common.
 
 **Domain Spell-Like Abilities** (CL 5th; concentration +7): 5/day—[[rangoric-srd/class-options/domains/Law Domain|touch of law]]; 5/day—[[rangoric-srd/class-options/domains/War Domain|battle rage]] (+2 damage).
 
-**Cleric spells prepared** (CL 5th; concentration +7): 3rd—*[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, *[[rangoric-srd/spells/Magic Vestment|magic vestment]]* <sup>D</sup>, *[[rangoric-srd/spells/Searing Light|searing light]]*; 2nd—*[[rangoric-srd/spells/Align Weapon|align weapon]]* (law only)<sup>D</sup>, *[[rangoric-srd/spells/Enthrall|enthrall]]* (DC 14), *[[rangoric-srd/spells/Resist Energy|resist energy]]* (DC 14), *[[rangoric-srd/spells/Sound Burst|sound burst]]* (DC 14); 1st—*[[rangoric-srd/spells/Command|command]]* (DC 13), *[[rangoric-srd/spells/Divine Favor|divine favor]]*, *[[rangoric-srd/spells/Magic Weapon|magic weapon]]* <sup>D</sup>, *[[rangoric-srd/spells/Shield of Faith|shield of faith]]*, *[[rangoric-srd/spells/Summon Monster I|summon monster I]]*; 0 (at will)—*[[rangoric-srd/spells/Guidance|guidance]]*, *[[rangoric-srd/spells/Light|light]]*, *[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]*, *[[rangoric-srd/spells/Resistance|resistance]]*; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Law Domain|Law]], [[rangoric-srd/class-options/domains/War Domain|War]].
+**Cleric spells prepared** (CL 5th; concentration +7): 3rd—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Magic Vestment|magic vestment]]_ <sup>D</sup>, _[[rangoric-srd/spells/Searing Light|searing light]]_; 2nd—_[[rangoric-srd/spells/Align Weapon|align weapon]]_ (law only)<sup>D</sup>, _[[rangoric-srd/spells/Enthrall|enthrall]]_ (DC 14), _[[rangoric-srd/spells/Resist Energy|resist energy]]_ (DC 14), _[[rangoric-srd/spells/Sound Burst|sound burst]]_ (DC 14); 1st—_[[rangoric-srd/spells/Command|command]]_ (DC 13), _[[rangoric-srd/spells/Divine Favor|divine favor]]_, _[[rangoric-srd/spells/Magic Weapon|magic weapon]]_ <sup>D</sup>, _[[rangoric-srd/spells/Shield of Faith|shield of faith]]_, _[[rangoric-srd/spells/Summon Monster I|summon monster I]]_; 0 (at will)—_[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]_, _[[rangoric-srd/spells/Resistance|resistance]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Law Domain|Law]], [[rangoric-srd/class-options/domains/War Domain|War]].

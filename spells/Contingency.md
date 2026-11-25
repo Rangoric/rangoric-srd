@@ -25,14 +25,14 @@ tags: [rangoric, rangoric/spell]
 
 # Contingency
 
-*Evocation*
+_Evocation_
 
-  - **Level**: Occ 6, Psy 6, Sor/Wiz 6
-  - **Components**: V, S, M, F
-  - **Casting Time**: At least 10 minutes; see text
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: One day/level (D) or until discharged
+- **Level**: Occ 6, Psy 6, Sor/Wiz 6
+- **Components**: V, S, M, F
+- **Casting Time**: At least 10 minutes; see text
+- **Range**: Personal
+- **Target**: You
+- **Duration**: One day/level (D) or until discharged
 
 You can place another spell upon your person so that it comes into effect under some condition you dictate when casting contingency. The contingency spell and the companion spell are cast at the same time. The 10-minute casting time is the minimum total for both castings; if the companion spell has a casting time longer than 10 minutes, use that instead.
 
@@ -42,6 +42,6 @@ The conditions needed to bring the spell into effect must be clear, although the
 
 You can use only one contingency spell at a time; if a second is cast, the first one (if still active) is dispelled.
 
-*Material Component*: That of the companion spell, plus quicksilver and an eyelash of an ogre mage, rakshasa, or similar spell-using creature.
+_Material Component_: That of the companion spell, plus quicksilver and an eyelash of an ogre mage, rakshasa, or similar spell-using creature.
 
-*Focus*: A statuette of you carved from elephant ivory and decorated with gems (worth at least 1,500 gp). You must carry the focus for the contingency to work.
+_Focus_: A statuette of you carved from elephant ivory and decorated with gems (worth at least 1,500 gp). You must carry the focus for the contingency to work.

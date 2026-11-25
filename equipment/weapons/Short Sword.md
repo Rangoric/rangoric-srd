@@ -21,4 +21,4 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades]
 
 # Short Sword
 
-*Martial light melee weapon.* Cost 10 gp; Dmg 1d4 (S), 1d6 (M); Critical 19–20/x2; Weight 2 lb.; Type Piercing. ^stats
+_Martial light melee weapon._ Cost 10 gp; Dmg 1d4 (S), 1d6 (M); Critical 19–20/x2; Weight 2 lb.; Type Piercing. ^stats

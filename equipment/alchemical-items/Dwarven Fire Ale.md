@@ -29,6 +29,6 @@ A drug: a dose gives its effect and its ability damage at once, and risks [[rang
 - **Type**: ingested
 - **Addiction**: [[rangoric-srd/rules/afflictions/Moderate Addiction|moderate]], Fortitude DC 20
 - **Price**: 50 gp
-- **Effect**: 1d4 rounds; as the *[[rangoric-srd/spells/Rage|rage]]* spell
+- **Effect**: 1d4 rounds; as the _[[rangoric-srd/spells/Rage|rage]]_ spell
 - **Effect**: 1 hour; cold resistance 5
 - **Damage**: 1d2 Con damage

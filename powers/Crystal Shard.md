@@ -32,7 +32,7 @@ Effect: Ray
 Duration: Instantaneous  
 Saving Throw: None  
 Power Resistance: No  
-Power Points: 1  
+Power Points: 1
 
 Upon manifesting this power, you propel a razor-sharp crystal shard at your target. You must succeed on a ranged touch attack with the ray to deal damage to a target. The ray deals 1d6 points of piercing damage.
 

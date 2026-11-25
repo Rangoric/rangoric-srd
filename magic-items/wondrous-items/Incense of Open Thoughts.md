@@ -24,4 +24,4 @@ While a block of this sweet-scented [[rangoric-srd/equipment/gear/Incense|incens
 
 Moderate wind halves the area; strong wind disperses the smoke, making it useless while the wind lasts. A block burns for 1 hour. It can be put out and relit, but each use takes at least 10 minutes of its remaining time.
 
-Moderate divination; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Telepathic Bond|telepathic bond]]*; Price 2,800 gp; Cost 1,400 gp; Weight 1 lb.
+Moderate divination; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Telepathic Bond|telepathic bond]]_; Price 2,800 gp; Cost 1,400 gp; Weight 1 lb.

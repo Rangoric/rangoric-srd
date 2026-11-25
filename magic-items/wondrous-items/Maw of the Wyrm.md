@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/magic-item]
 
 This fearsome helm, wrought into the shape of a roaring dragon's maw, has dozens of glittering dragon scales across its surface. The helm's wearer gains a +4 competence bonus on [[rangoric-srd/skills/Intimidation|Intimidation]] checks and a +4 insight bonus on saves to resist a dragon's [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] aura.
 
-Each helm is modeled after a particular type of chromatic or metallic dragon. Once per day on command, the wearer can breathe out a blast of energy, as the *[[rangoric-srd/spells/Dragon’s Breath|dragon's breath]]* spell to mimic the breath weapon of the dragon the helm is modeled after (7d6 points of damage, Reflex DC 16 half).
+Each helm is modeled after a particular type of chromatic or metallic dragon. Once per day on command, the wearer can breathe out a blast of energy, as the _[[rangoric-srd/spells/Dragon’s Breath|dragon's breath]]_ spell to mimic the breath weapon of the dragon the helm is modeled after (7d6 points of damage, Reflex DC 16 half).
 
-Moderate evocation; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Dragon’s Breath|dragon's breath]]*; Price 18,000 gp; Cost 9,000 gp; Weight 3 lbs.
+Moderate evocation; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Dragon’s Breath|dragon's breath]]_; Price 18,000 gp; Cost 9,000 gp; Weight 3 lbs.

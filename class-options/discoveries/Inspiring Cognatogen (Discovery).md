@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Inspiring Cognatogen
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]] (Su).*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]] (Su)._
 
 An alchemist with this discovery learns how to make an inspiring cognatogen, a mutagen-like mixture that grants him inspiration (as the [[rangoric-srd/classes/Investigator|investigator]]’s [[rangoric-srd/classes/Investigator#^investigator-inspiration|inspiration]] class feature) at the expense of Strength and Constitution. Upon drinking the inspiring cognatogen, the alchemist gains a pool of inspiration equal to 1/2 his alchemist level + his Intelligence modifier (minimum 1). He also gains a +2 dodge bonus to AC and takes a –2 penalty to both Strength and Constitution.
 

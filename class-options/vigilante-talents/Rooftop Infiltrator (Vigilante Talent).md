@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Rooftop Infiltrator
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
 The vigilante gains a climb speed equal to half his base speed, which increases to his full base speed when climbing a rope.

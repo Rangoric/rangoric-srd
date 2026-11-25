@@ -28,23 +28,23 @@ tags: [rangoric, rangoric/spell]
 
 # Elemental Body II
 
-*Transmutation (Polymorph)*
+_Transmutation (Polymorph)_
 
-  - **Level**: Alc 5, Mag 5, Sor/Wiz 5
-  - **Components**: V, S, M (the element you plan to assume)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 min./level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Alc 5, Mag 5, Sor/Wiz 5
+- **Components**: V, S, M (the element you plan to assume)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 min./level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 This spell functions as [[rangoric-srd/spells/Elemental Body I|elemental body I]], except that it also allows you to assume the form of a Medium air, earth, fire, or water elemental. The abilities you gain depend upon the elemental.
 
-*Air elemental*: As *elemental body I* except that you gain a +4 size bonus to your Dexterity and a +3 natural armor bonus.
+_Air elemental_: As _elemental body I_ except that you gain a +4 size bonus to your Dexterity and a +3 natural armor bonus.
 
-*Earth elemental*: As *elemental body I* except that you gain a +4 size bonus to your Strength and a +5 natural armor bonus.
+_Earth elemental_: As _elemental body I_ except that you gain a +4 size bonus to your Strength and a +5 natural armor bonus.
 
-*Fire elemental*: As *elemental body I* except that you gain a +4 size bonus to your Dexterity and a +3 natural armor bonus.
+_Fire elemental_: As _elemental body I_ except that you gain a +4 size bonus to your Dexterity and a +3 natural armor bonus.
 
-*Water elemental*: As *elemental body I* except that you gain a +4 size bonus to your Constitution and a +5 natural armor bonus.
+_Water elemental_: As _elemental body I_ except that you gain a +4 size bonus to your Constitution and a +5 natural armor bonus.

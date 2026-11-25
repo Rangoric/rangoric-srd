@@ -23,10 +23,10 @@ tags: [rangoric, rangoric/magic-item]
 
 This ominous staff is made of twisting wood and topped with a small skull. It allows use of the following spells:
 
-- *[[rangoric-srd/spells/Deathwatch|deathwatch]]* (1 charge)
-- *[[rangoric-srd/spells/Detect Undead|detect undead]]* (1 charge)
-- *[[rangoric-srd/spells/Gentle Repose|gentle repose]]* (1 charge)
-- *[[rangoric-srd/spells/Speak with Dead|speak with dead]]* (2 charges)
-- *[[rangoric-srd/spells/Death Ward|death ward]]* (2 charges)
+- _[[rangoric-srd/spells/Deathwatch|deathwatch]]_ (1 charge)
+- _[[rangoric-srd/spells/Detect Undead|detect undead]]_ (1 charge)
+- _[[rangoric-srd/spells/Gentle Repose|gentle repose]]_ (1 charge)
+- _[[rangoric-srd/spells/Speak with Dead|speak with dead]]_ (2 charges)
+- _[[rangoric-srd/spells/Death Ward|death ward]]_ (2 charges)
 
-Moderate varied; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Death Ward|death ward]]*, *[[rangoric-srd/spells/Deathwatch|deathwatch]]*, *[[rangoric-srd/spells/Detect Undead|detect undead]]*, *[[rangoric-srd/spells/Gentle Repose|gentle repose]]*, *[[rangoric-srd/spells/Speak with Dead|speak with dead]]*; Price 32,800 gp; Cost 16,400 gp; Weight 5 lbs.
+Moderate varied; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Death Ward|death ward]]_, _[[rangoric-srd/spells/Deathwatch|deathwatch]]_, _[[rangoric-srd/spells/Detect Undead|detect undead]]_, _[[rangoric-srd/spells/Gentle Repose|gentle repose]]_, _[[rangoric-srd/spells/Speak with Dead|speak with dead]]_; Price 32,800 gp; Cost 16,400 gp; Weight 5 lbs.

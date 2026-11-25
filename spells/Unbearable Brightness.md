@@ -30,15 +30,15 @@ tags: [rangoric, rangoric/spell]
 
 # Unbearable Brightness
 
-*Evocation \[Light\]*
+_Evocation \[Light\]_
 
-  - **Level**: Alc 4, Occ 4, Psy 4, Sor/Wiz 4, Wit 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal and 30 ft. (see text)
-  - **Area**: 30-ft.-radius emanation centered on you
-  - **Duration**: 1 round/level
-  - **Saving Throw**: None and Reflex partial (see text)
-  - **Spell Resistance**: No and yes (see text)
+- **Level**: Alc 4, Occ 4, Psy 4, Sor/Wiz 4, Wit 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal and 30 ft. (see text)
+- **Area**: 30-ft.-radius emanation centered on you
+- **Duration**: 1 round/level
+- **Saving Throw**: None and Reflex partial (see text)
+- **Spell Resistance**: No and yes (see text)
 
-Your body glows with a terrible light. Creatures within 30 feet of you that can see you are dazzled (no saving throw). Creatures with light sensitivity must succeed at a Reflex saving throw or be blinded. This light counts as *[[rangoric-srd/spells/Daylight|daylight]]* for the purpose of affecting darkness effects (and vice versa). If the emanation enters an area under the effect of magical darkness (or vice versa), both effects are temporarily negated so that the otherwise prevailing light conditions exist in the overlapping areas of effect. Dazzled and blinded conditions from your light end when the spell ends or when the creature is out of line of sight.
+Your body glows with a terrible light. Creatures within 30 feet of you that can see you are dazzled (no saving throw). Creatures with light sensitivity must succeed at a Reflex saving throw or be blinded. This light counts as _[[rangoric-srd/spells/Daylight|daylight]]_ for the purpose of affecting darkness effects (and vice versa). If the emanation enters an area under the effect of magical darkness (or vice versa), both effects are temporarily negated so that the otherwise prevailing light conditions exist in the overlapping areas of effect. Dazzled and blinded conditions from your light end when the spell ends or when the creature is out of line of sight.

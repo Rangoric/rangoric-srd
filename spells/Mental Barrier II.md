@@ -23,15 +23,15 @@ tags: [rangoric, rangoric/spell]
 
 # Mental Barrier II
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Psy 3
-  - **Components**: V
-  - **Casting Time**: 1 immediate action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Psy 3
+- **Components**: V
+- **Casting Time**: 1 immediate action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-This spell functions as *[[rangoric-srd/spells/Mental Barrier I|mental barrier I]]*, but the shield bonus to AC increases to +6. In addition, you take half damage from *[[rangoric-srd/spells/Mind Thrust I|mind thrust I]]*, *[[rangoric-srd/spells/Mind Thrust II|mind thrust II]]*, and *[[rangoric-srd/spells/Mind Thrust III|mind thrust III]]* (reduced to one-quarter on a successful Will save). This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].
+This spell functions as _[[rangoric-srd/spells/Mental Barrier I|mental barrier I]]_, but the shield bonus to AC increases to +6. In addition, you take half damage from _[[rangoric-srd/spells/Mind Thrust I|mind thrust I]]_, _[[rangoric-srd/spells/Mind Thrust II|mind thrust II]]_, and _[[rangoric-srd/spells/Mind Thrust III|mind thrust III]]_ (reduced to one-quarter on a successful Will save). This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].

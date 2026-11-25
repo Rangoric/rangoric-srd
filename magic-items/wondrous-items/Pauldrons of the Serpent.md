@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 Constructed of mithral, each of these pauldrons bears an embossed device of a viper coiled defensively. These pauldrons grant their wearer a +2 dodge bonus to AC against attacks of opportunity, and increase the wearer's CMD by 2 against bull rush, grapple, reposition, and trip combat maneuvers.
 
-Faint abjuration; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Cat’s Grace|cat's grace]]*; Price 3,000 gp; Cost 1,500 gp; Weight 3 lbs.
+Faint abjuration; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_; Price 3,000 gp; Cost 1,500 gp; Weight 3 lbs.

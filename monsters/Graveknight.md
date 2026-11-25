@@ -47,28 +47,28 @@ tags: [rangoric, rangoric/monster]
 
 # Graveknight
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Augmented Humanoid)
-  - **Hit Dice**: 10d10+80 (139 hp)
-  - **Initiative**: +5
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 25 (+10 armor, +1 Dex, +4 natural), touch 11, flat-footed 24
-  - **Base Attack**: +10; **CMB**: +20; **CMD**: 29
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +25 melee (2d6+19 plus 2d6 acid) or [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +14 ranged (1d8+11/×3)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +25/+20 melee (2d6+19 plus 2d6 acid); or [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +14/+9 ranged (1d8+11/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Graveknight#^channel-destruction|Channel destruction]], [[rangoric-srd/monsters/Graveknight#^devastating-blast|devastating blast]] (6d6 acid, DC 19), [[rangoric-srd/monsters/Graveknight#^undead-mastery|undead mastery]] (DC 19), [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (heavy blades +2, bows +1)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/Graveknight#^sacrilegious-aura|sacrilegious aura]] (30 ft., DC 19), [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +3, [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/Graveknight#^rejuvenation|rejuvenation]], [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 2, [[rangoric-srd/monsters/Graveknight#^phantom-mount|phantom mount]], [[rangoric-srd/monsters/Graveknight#^ruinous-revivification|ruinous revivification]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, cold and electricity, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 22
-  - **Saves**: Fort +13, Ref +6, Will +6
-  - **Abilities**: Str 27, Dex 12, Con —, Int 15, Wis 12, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +19, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +25, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Society|Society]] +12
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Dazzling Display|Dazzling Display]], [[rangoric-srd/feats/Greater Weapon Focus|Greater Weapon Focus]] (greatsword), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Power Attack|Power Attack]], Ride-By Attack<sup>B</sup>, [[rangoric-srd/feats/Shatter Defenses|Shatter Defenses]], [[rangoric-srd/feats/Spirited Charge|Spirited Charge]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Trample|Trample]], [[rangoric-srd/feats/Unseat|Unseat]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greatsword), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (greatsword)
-  - **Environment**: Any land
-  - **Organization**: Solitary or troop (graveknight plus 12–24 skeletal champions)
-  - **Challenge Rating**: 11
-  - **Treasure**: NPC gear (+1 full plate, +1 greatsword, composite longbow [+8 Str] with 20 arrows, belt of giant strength +2, other treasure)
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Augmented Humanoid)
+- **Hit Dice**: 10d10+80 (139 hp)
+- **Initiative**: +5
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 25 (+10 armor, +1 Dex, +4 natural), touch 11, flat-footed 24
+- **Base Attack**: +10; **CMB**: +20; **CMD**: 29
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +25 melee (2d6+19 plus 2d6 acid) or [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +14 ranged (1d8+11/×3)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +25/+20 melee (2d6+19 plus 2d6 acid); or [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +14/+9 ranged (1d8+11/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/Graveknight#^channel-destruction|Channel destruction]], [[rangoric-srd/monsters/Graveknight#^devastating-blast|devastating blast]] (6d6 acid, DC 19), [[rangoric-srd/monsters/Graveknight#^undead-mastery|undead mastery]] (DC 19), [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (heavy blades +2, bows +1)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/Graveknight#^sacrilegious-aura|sacrilegious aura]] (30 ft., DC 19), [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +3, [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/Graveknight#^rejuvenation|rejuvenation]], [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 2, [[rangoric-srd/monsters/Graveknight#^phantom-mount|phantom mount]], [[rangoric-srd/monsters/Graveknight#^ruinous-revivification|ruinous revivification]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, cold and electricity, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 22
+- **Saves**: Fort +13, Ref +6, Will +6
+- **Abilities**: Str 27, Dex 12, Con —, Int 15, Wis 12, Cha 18
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +19, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +25, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Society|Society]] +12
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Dazzling Display|Dazzling Display]], [[rangoric-srd/feats/Greater Weapon Focus|Greater Weapon Focus]] (greatsword), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Power Attack|Power Attack]], Ride-By Attack<sup>B</sup>, [[rangoric-srd/feats/Shatter Defenses|Shatter Defenses]], [[rangoric-srd/feats/Spirited Charge|Spirited Charge]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Trample|Trample]], [[rangoric-srd/feats/Unseat|Unseat]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greatsword), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (greatsword)
+- **Environment**: Any land
+- **Organization**: Solitary or troop (graveknight plus 12–24 skeletal champions)
+- **Challenge Rating**: 11
+- **Treasure**: NPC gear (+1 full plate, +1 greatsword, composite longbow [+8 Str] with 20 arrows, belt of giant strength +2, other treasure)
+- **Alignment**: Usually lawful evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The graveknight above is a human graveknight with 10 levels of [[rangoric-srd/classes/Fighter|fighter]].
 
@@ -88,7 +88,7 @@ Undying tyrants and eternal champions of the undead, graveknights arise from the
 
 **Aura (Su)**: A graveknight emanates the following aura.
 
-**Sacrilegious Aura (Su)**: A graveknight constantly exudes an aura of intense evil and negative energy in a 30-foot radius. This aura functions as the spell *[[rangoric-srd/spells/Desecrate|desecrate]]* and uses the graveknight's armor as an altar of sorts to double the effects granted. The graveknight constantly gains the benefits of this effect (including the bonus hit points, as this aura is part of the graveknight's creation). In addition, this miasma of fell energies hinders the channeling of positive energy. Any creature that attempts to summon positive energy in this area—such as through a [[rangoric-srd/classes/Cleric|cleric]]'s channel energy ability, a [[rangoric-srd/classes/Paladin|paladin]]'s lay on hands, or any spell with the healing subtype—must make a concentration check with a DC equal to 10 + 1/2 the graveknight's Hit Dice + the graveknight's Charisma modifier. If the character fails, the effect is expended but does not function. ^sacrilegious-aura
+**Sacrilegious Aura (Su)**: A graveknight constantly exudes an aura of intense evil and negative energy in a 30-foot radius. This aura functions as the spell _[[rangoric-srd/spells/Desecrate|desecrate]]_ and uses the graveknight's armor as an altar of sorts to double the effects granted. The graveknight constantly gains the benefits of this effect (including the bonus hit points, as this aura is part of the graveknight's creation). In addition, this miasma of fell energies hinders the channeling of positive energy. Any creature that attempts to summon positive energy in this area—such as through a [[rangoric-srd/classes/Cleric|cleric]]'s channel energy ability, a [[rangoric-srd/classes/Paladin|paladin]]'s lay on hands, or any spell with the healing subtype—must make a concentration check with a DC equal to 10 + 1/2 the graveknight's Hit Dice + the graveknight's Charisma modifier. If the character fails, the effect is expended but does not function. ^sacrilegious-aura
 
 **Armor Class**: Natural armor improves by +4.
 
@@ -110,11 +110,11 @@ The graveknight also gains the following ability.
 
 **Undead Mastery (Su)**: As a standard action, a graveknight can attempt to bend any undead creature within 50 feet to its will. The targeted undead must succeed at a Will save or fall under the graveknight's control. This control is permanent for unintelligent undead; an undead with an Intelligence score is allowed an additional save every day to break free from the graveknight's control. A creature that successfully saves cannot be affected again by the same graveknight's undead mastery for 24 hours. ^undead-mastery
 
-A graveknight can control 5 Hit Dice of undead creatures for every Hit Die it has. If the graveknight exceeds this number, the excess from earlier uses of the ability becomes uncontrolled, as per *[[rangoric-srd/spells/Animate Dead|animate dead]]*.
+A graveknight can control 5 Hit Dice of undead creatures for every Hit Die it has. If the graveknight exceeds this number, the excess from earlier uses of the ability becomes uncontrolled, as per _[[rangoric-srd/spells/Animate Dead|animate dead]]_.
 
 **Special Qualities (Su)**: A graveknight gains the following.
 
-**Phantom Mount (Su)**: Once per hour, a graveknight can summon a skeletal horse similar to a *[[rangoric-srd/spells/Phantom Steed|phantom steed]]*. This mount is more real than a typical *[[rangoric-srd/spells/Phantom Steed|phantom steed]]*, and can carry one additional rider. The mount's powers are based on the graveknight's total Hit Dice rather than caster level. A graveknight's mount looks distinctive and always appears the same each time it is summoned. If the mount is destroyed, it can be summoned again with full hit points 1 hour later. ^phantom-mount
+**Phantom Mount (Su)**: Once per hour, a graveknight can summon a skeletal horse similar to a _[[rangoric-srd/spells/Phantom Steed|phantom steed]]_. This mount is more real than a typical _[[rangoric-srd/spells/Phantom Steed|phantom steed]]_, and can carry one additional rider. The mount's powers are based on the graveknight's total Hit Dice rather than caster level. A graveknight's mount looks distinctive and always appears the same each time it is summoned. If the mount is destroyed, it can be summoned again with full hit points 1 hour later. ^phantom-mount
 
 **Ruinous Revivification (Su)**: At the time of its creation, the graveknight chooses one of the following energy types: acid, cold, electricity, or fire. This energy type should be relevant to the graveknight's life or death, defaulting to fire if none are especially appropriate. This energy type influences the effects of several of a graveknight's special abilities. ^ruinous-revivification
 

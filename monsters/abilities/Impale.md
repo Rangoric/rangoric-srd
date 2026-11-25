@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Impale
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “impale”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “impale”, on the Special Attacks line.
 
 As a swift action, a contract devil can impale an opponent grappled by its binding contract, dealing 2d8+4 points of piercing damage. The [[rangoric-srd/monsters/devil/Contract Devil|contract devil]] has it.

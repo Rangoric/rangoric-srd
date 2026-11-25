@@ -17,4 +17,4 @@ You can shift into the form of a giant black raven.
 
 **Prerequisites**: [[rangoric-srd/feats/Tengu Wings|Tengu Wings]], character level 7th, [[rangoric-srd/races/Tengu|tengu]].
 
-**Benefit**: Once per day, you can take the form of a Large black bird resembling a raven, granting you a [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^movement-modes|fly speed]] of 60 feet (good maneuverability), a +4 size bonus to your Strength, a –2 penalty to your Dexterity, and a +4 natural armor bonus. This spell-like ability otherwise functions as *[[rangoric-srd/spells/Beast Shape II|beast shape ii]]* with a caster level equal to your level.
+**Benefit**: Once per day, you can take the form of a Large black bird resembling a raven, granting you a [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^movement-modes|fly speed]] of 60 feet (good maneuverability), a +4 size bonus to your Strength, a –2 penalty to your Dexterity, and a +4 natural armor bonus. This spell-like ability otherwise functions as _[[rangoric-srd/spells/Beast Shape II|beast shape ii]]_ with a caster level equal to your level.

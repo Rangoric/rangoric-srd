@@ -22,9 +22,9 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Construct Repair Paste
 
-*Herbal Restorative/Unguent; Special*
+_Herbal Restorative/Unguent; Special_
 
-Construct repair paste delivers the healing effects of a *cure moderate wounds* spell, but only topically and only for constructs or animated objects (i.e. inorganic life forms). This paste also allows constructs’ limbs to be reattached and restored to the main body in the same way as a *mending* spell.
+Construct repair paste delivers the healing effects of a _cure moderate wounds_ spell, but only topically and only for constructs or animated objects (i.e. inorganic life forms). This paste also allows constructs’ limbs to be reattached and restored to the main body in the same way as a _mending_ spell.
 
 This paste can be stored only in specially treated bone tubes and must be smeared out of one open end of said tube. There is enough paste in each tube (1 oz) to cure or mend damage to two small or one medium-sized object.
 

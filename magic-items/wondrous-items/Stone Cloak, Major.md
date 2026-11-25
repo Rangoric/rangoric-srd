@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Stone Cloak, Major
 
-This cloak is identical to the *[[rangoric-srd/magic-items/wondrous-items/Stone Cloak, Minor|stone cloak]]*, save that it provides [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|DR]] 10/adamantine when activated.
+This cloak is identical to the _[[rangoric-srd/magic-items/wondrous-items/Stone Cloak, Minor|stone cloak]]_, save that it provides [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|DR]] 10/adamantine when activated.
 
-Moderate abjuration; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Stoneskin|stoneskin]]*; Price 20,000 gp; Cost 10,000 gp; Weight 1 lb.
+Moderate abjuration; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Stoneskin|stoneskin]]_; Price 20,000 gp; Cost 10,000 gp; Weight 1 lb.

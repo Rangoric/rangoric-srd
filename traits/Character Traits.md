@@ -29,7 +29,7 @@ There are five types of character traits to choose from: basic (split among four
 
 **Campaign Traits**: These traits are specifically tailored to give new characters an instant hook into a new campaign.
 
-**Race Traits**: Race traits are keyed to specific races or ethnicities, which your character must belong to in order to select the trait. If your race or ethnicity changes at some later point (perhaps as a result of polymorph magic or a *[[rangoric-srd/spells/Reincarnate|reincarnation]]* spell), the benefits gained by your race trait persist—only if your mind and memories change as well do you lose the benefits of a race trait.
+**Race Traits**: Race traits are keyed to specific races or ethnicities, which your character must belong to in order to select the trait. If your race or ethnicity changes at some later point (perhaps as a result of polymorph magic or a _[[rangoric-srd/spells/Reincarnate|reincarnation]]_ spell), the benefits gained by your race trait persist—only if your mind and memories change as well do you lose the benefits of a race trait.
 
 **Regional Traits**: Regional traits are keyed to specific regions, be they large (such as a nation or geographic region) or small (such as a city or a specific mountain). In order to select a regional trait, your PC must have spent at least a year living in that region. At 1st level, you can only select one regional trait (typically the one tied to your character's place of birth or homeland), despite the number of regions you might wish to write into your character's background.
 

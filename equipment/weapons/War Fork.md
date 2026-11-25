@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/pole-arms]
 
 # War Fork
 
-*Martial two-handed melee weapon.* Cost 20 gp; Dmg 1d10 (S), 1d12 (M); Critical 19-20/x2; Weight 15 lb.; Type Piercing and slashing. ^stats
+_Martial two-handed melee weapon._ Cost 20 gp; Dmg 1d10 (S), 1d12 (M); Critical 19-20/x2; Weight 15 lb.; Type Piercing and slashing. ^stats
 
 The war fork is a short polearm with two broad parallel sword blades affixed to the end. These blades can be used for stabbing, or they can be swung like an axe. The war fork has a five-foot reach. If readied against charging opponents, it deals double damage.

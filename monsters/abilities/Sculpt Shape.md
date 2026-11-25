@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Sculpt Shape
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “sculpt shape”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “sculpt shape”, on the Special Qualities line.
 
 As a standard action, a living topiary can alter itself to take on the basic form of any creature. The change is purely cosmetic, and does not change its size, grant it any special powers, or alter its abilities. The [[rangoric-srd/monsters/Living Topiary|living topiary]] has it.

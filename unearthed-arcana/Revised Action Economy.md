@@ -38,7 +38,7 @@ When your turn comes up in the initiative order, you can choose to delay instead
 
 Reactions are like actions, but can be taken only when they are triggered, and only during other characters' turns. Usually, reactions are triggered by actions taken by other combatants. For instance, the most common reaction you'll likely take is the attack of opportunity: an attack you can make when a foe in your threatened area drops his guard (typically by moving, making a ranged attack, or attempting a complicated attack for which he lacks the proper training). Some reactions may provoke attacks of opportunity—the reaction's subtype, if any, determines whether it provokes attacks of opportunity.
 
-Other times, something that happens to you might grant you the ability to take a reaction. Spells and abilities that are used as immediate actions in the default action economy are reactions in this system. For example, the spell *[[rangoric-srd/spells/Feather Fall|feather fall]]* is cast an immediate action in the default action economy—in this system, it's a reaction.
+Other times, something that happens to you might grant you the ability to take a reaction. Spells and abilities that are used as immediate actions in the default action economy are reactions in this system. For example, the spell _[[rangoric-srd/spells/Feather Fall|feather fall]]_ is cast an immediate action in the default action economy—in this system, it's a reaction.
 
 ## Action Types and Subtypes
 
@@ -146,13 +146,13 @@ The following is a list of the main advanced actions in this system. The number 
 
 **Continue a Grapple (2 Acts)**: You continue a grapple. If you initiated the grapple, you must either take this action at the start of each subsequent turn or end the grapple as a free action. When you take this action, you attempt a grapple combat maneuver check with a +5 bonus. If you're successful, you can either move, deal damage to, or pin the creature you are grappling. Alternatively, you can attempt to tie up the creature with a rope.
 
-*Move*: If you decide to move your target, immediately after the grapple, you can take a move simple action and move the creature you are grappling with you. At the end of that move action, you can place your target in any space adjacent to you. If you attempt to place your foe in a hazardous location, the target can attempt to free itself from the grapple as a reaction, and gains a +4 bonus on that attempt.
+_Move_: If you decide to move your target, immediately after the grapple, you can take a move simple action and move the creature you are grappling with you. At the end of that move action, you can place your target in any space adjacent to you. If you attempt to place your foe in a hazardous location, the target can attempt to free itself from the grapple as a reaction, and gains a +4 bonus on that attempt.
 
-*Damage*: If you decide to damage your opponent, you deal an amount of damage equal to that of your unarmed strike, natural attack, armor spikes, or a light or one-handed weapon you are holding. You can choose to make this damage either lethal or nonlethal.
+_Damage_: If you decide to damage your opponent, you deal an amount of damage equal to that of your unarmed strike, natural attack, armor spikes, or a light or one-handed weapon you are holding. You can choose to make this damage either lethal or nonlethal.
 
-*Pin*: If you decide to pin your target, the target gains the pinned condition. You continue to have the grappled condition, but lose your Dexterity bonus to AC until you are no longer pinning the target.
+_Pin_: If you decide to pin your target, the target gains the pinned condition. You continue to have the grappled condition, but lose your Dexterity bonus to AC until you are no longer pinning the target.
 
-*Tie Up a Grappled or Pinned Creature*: If you have a rope in your hands, and you are grappling or pinning a foe, you can attempt a grapple combat maneuver check at a –10 penalty to tie up that foe. If you're successful, the ropes pin the creature until they are removed or the pinned foe succeeds at a combat maneuver check or [[rangoric-srd/skills/Escape Artist|Escape Artist]] check (DC = 20 + your CMB).
+_Tie Up a Grappled or Pinned Creature_: If you have a rope in your hands, and you are grappling or pinning a foe, you can attempt a grapple combat maneuver check at a –10 penalty to tie up that foe. If you're successful, the ropes pin the creature until they are removed or the pinned foe succeeds at a combat maneuver check or [[rangoric-srd/skills/Escape Artist|Escape Artist]] check (DC = 20 + your CMB).
 
 **Deliver a Coup de Grace (Complex; 3 Acts)**: You use a melee weapon to deliver a coup de grace to a helpless foe that isn't immune to critical hits. You can also use a ranged weapon, but you must be adjacent to the foe. When you take this action, you automatically hit and confirm a critical hit. If the foe survives the damage, it must succeed at a Fortitude save (DC = 10 + the damage dealt) or die.
 
@@ -286,8 +286,8 @@ While the list of actions in this section is long and covers most of the major a
 
 ## Final Considerations
 
-Some spells and abilities in the game grant extra actions. The two benchmark abilities are the Combat Reflexes feat and the *[[rangoric-srd/spells/Haste|haste]]* spell. The following describes how to use these in this system, which should serve as a guide for how to fit in similar abilities.
+Some spells and abilities in the game grant extra actions. The two benchmark abilities are the Combat Reflexes feat and the _[[rangoric-srd/spells/Haste|haste]]_ spell. The following describes how to use these in this system, which should serve as a guide for how to fit in similar abilities.
 
 **Combat Reflexes**: If you have this feat, you can take a number of additional reactions between your turns equal to your Dexterity bonus, but those reactions can be used only to make attacks of opportunity. You gain all the other abilities of this feat.
 
-***Haste***: When under the effects of *[[rangoric-srd/spells/Haste|haste]]*, you gain 1 additional act each round, which can be used only to take an attack simple action. This doesn't stack with any other effect that grants an increase in your number of acts per turn. If you have multiple effects that give you additional acts, you can pick only one such effect to benefit from each turn. You gain all the other benefits of the spell.
+**_Haste_**: When under the effects of _[[rangoric-srd/spells/Haste|haste]]_, you gain 1 additional act each round, which can be used only to take an attack simple action. This doesn't stack with any other effect that grants an increase in your number of acts per turn. If you have multiple effects that give you additional acts, you can pick only one such effect to benefit from each turn. You gain all the other benefits of the spell.

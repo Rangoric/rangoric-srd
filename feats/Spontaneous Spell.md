@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Spontaneous Spell
 
-Prerequisite: [[rangoric-srd/skills/Mysticism|Mysticism]] 22 ranks, ability to cast the maximum normal spell level of at least one spell-casting class.  
+Prerequisite: [[rangoric-srd/skills/Mysticism|Mysticism]] 22 ranks, ability to cast the maximum normal spell level of at least one spell-casting class.
 
 Benefit: Select a spell the character can cast. The character may spontaneously convert any prepared spell of the selected spell’s level into the selected spell, just as a cleric channels energy to convert spells into cure spells.
 

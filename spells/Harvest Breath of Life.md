@@ -25,15 +25,15 @@ tags: [rangoric, rangoric/spell]
 
 # Harvest Breath of Life
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Sor/Wiz 3
-  - **Components**: V, S, M, XP
-  - **Casting Time**: 1 minute/level
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One living being
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will and Fortitude (see text)
+- **Level**: Sor/Wiz 3
+- **Components**: V, S, M, XP
+- **Casting Time**: 1 minute/level
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One living being
+- **Duration**: Instantaneous
+- **Saving Throw**: Will and Fortitude (see text)
 
 This spell allows the caster to literally steal the Breath of Life from a person. When cast, the spell takes 1 point of Constitution per caster level from the target (a 5th-level caster harvests 5 points). This spell must be cast within range of a living and breathing being to work, and the process of storing and making the Breath of Life usable to the caster costs him 25 XP per Con point absorbed. See [[rangoric-srd/rules/Faercana#Breath of Life|Breath of Life]] for its further uses.
 

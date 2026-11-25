@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Death Domain
 
-*A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
+_A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]]._
 
 **Subdomains**: [[rangoric-srd/class-options/domains/Murder Subdomain|Murder]], [[rangoric-srd/class-options/domains/Undead Subdomain|Undead]].
 
@@ -31,14 +31,14 @@ You can cause the living to bleed at a touch, and find comfort in the presence o
 
 ## Domain Spells
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Cause Fear\|Cause Fear]] | One creature of 5 HD or less flees for 1d4 rounds. |
-| 2nd | [[rangoric-srd/spells/Death Knell\|Death Knell]] | Kill [[rangoric-srd/rules/Special Abilities and Conditions#^dying\|dying]] creature and gain 1d8 temporary hp, +2 to Str, and +1 caster level. |
-| 3rd | [[rangoric-srd/spells/Animate Dead\|Animate Dead]] (M) | Creates undead skeletons and zombies. |
-| 4th | [[rangoric-srd/spells/Death Ward\|Death Ward]] | Grants immunity to death spells and negative energy effects. |
-| 5th | [[rangoric-srd/spells/Slay Living\|Slay Living]] | Touch attack kills subject. |
-| 6th | [[rangoric-srd/spells/Create Undead\|Create Undead]] (M) | Create ghouls, ghasts, mummies, or mohrgs. |
-| 7th | [[rangoric-srd/spells/Destruction\|Destruction]] (F) | Kills subject and destroys remains. |
-| 8th | [[rangoric-srd/spells/Create Greater Undead\|Create Greater Undead]] (M) | Create shadows, wraiths, spectres, or devourers. |
-| 9th | [[rangoric-srd/spells/Wail of the Banshee\|Wail of the Banshee]] | Kills one creature/level. |
+| Level | Spell                                                                    | Brief Description                                                                                                                              |
+| ----- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Cause Fear\|Cause Fear]]                           | One creature of 5 HD or less flees for 1d4 rounds.                                                                                             |
+| 2nd   | [[rangoric-srd/spells/Death Knell\|Death Knell]]                         | Kill [[rangoric-srd/rules/Special Abilities and Conditions#^dying\|dying]] creature and gain 1d8 temporary hp, +2 to Str, and +1 caster level. |
+| 3rd   | [[rangoric-srd/spells/Animate Dead\|Animate Dead]] (M)                   | Creates undead skeletons and zombies.                                                                                                          |
+| 4th   | [[rangoric-srd/spells/Death Ward\|Death Ward]]                           | Grants immunity to death spells and negative energy effects.                                                                                   |
+| 5th   | [[rangoric-srd/spells/Slay Living\|Slay Living]]                         | Touch attack kills subject.                                                                                                                    |
+| 6th   | [[rangoric-srd/spells/Create Undead\|Create Undead]] (M)                 | Create ghouls, ghasts, mummies, or mohrgs.                                                                                                     |
+| 7th   | [[rangoric-srd/spells/Destruction\|Destruction]] (F)                     | Kills subject and destroys remains.                                                                                                            |
+| 8th   | [[rangoric-srd/spells/Create Greater Undead\|Create Greater Undead]] (M) | Create shadows, wraiths, spectres, or devourers.                                                                                               |
+| 9th   | [[rangoric-srd/spells/Wail of the Banshee\|Wail of the Banshee]]         | Kills one creature/level.                                                                                                                      |

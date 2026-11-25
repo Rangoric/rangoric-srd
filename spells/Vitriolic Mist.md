@@ -29,13 +29,13 @@ tags: [rangoric, rangoric/spell]
 
 # Vitriolic Mist
 
-*Evocation \[Acid\]*
+_Evocation \[Acid\]_
 
-  - **Level**: Alc 4, Blr 4, Sor/Wiz 4, Sum 4, SumU 4
-  - **Components**: V, S, M (a piece of lemon rind)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level (D)
+- **Level**: Alc 4, Blr 4, Sor/Wiz 4, Sum 4, SumU 4
+- **Components**: V, S, M (a piece of lemon rind)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level (D)
 
-This functions as *[[rangoric-srd/spells/Fire Shield|fire shield]]*, except it wreathes you in yellow or green acidic mist instead of hot or cold flames. The spell deals acid damage to attackers and protects you against acid damage. This spell does not shed light.
+This functions as _[[rangoric-srd/spells/Fire Shield|fire shield]]_, except it wreathes you in yellow or green acidic mist instead of hot or cold flames. The spell deals acid damage to attackers and protects you against acid damage. This spell does not shed light.

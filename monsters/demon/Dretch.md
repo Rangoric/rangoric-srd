@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Dretch
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Demon, Evil, Extraplanar)
-  - **Hit Dice**: 2d10+7 (18 hp)
-  - **Initiative**: +0
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 14 (+3 natural, +1 size), touch 11, flat-footed 14
-  - **Base Attack**: +2; **CMB**: +2; **CMD**: 12
-  - **Attack**: Claw +4 melee (1d4+1) or bite +4 melee (1d4+1)
-  - **Full Attack**: 2 claws +4 melee (1d4+1) and bite +4 melee (1d4+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft. limited to Abyssal-speaking targets, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron or good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and fire 10
-  - **Saves**: Fort +5, Ref +0, Will +3
-  - **Abilities**: Str 12, Dex 10, Con 14, Int 5, Wis 11, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +9
-  - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: A chaotic evil-aligned plane
-  - **Organization**: Solitary, pair, gang (3–5), crowd (6–12), or mob (13+)
-  - **Challenge Rating**: 2
-  - **Treasure**: None
-  - **Alignment**: Always chaotic evil
-  - **Advancement**: 3–6 HD (Small)
-  - **Level Adjustment**: +2
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Demon, Evil, Extraplanar)
+- **Hit Dice**: 2d10+7 (18 hp)
+- **Initiative**: +0
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 14 (+3 natural, +1 size), touch 11, flat-footed 14
+- **Base Attack**: +2; **CMB**: +2; **CMD**: 12
+- **Attack**: Claw +4 melee (1d4+1) or bite +4 melee (1d4+1)
+- **Full Attack**: 2 claws +4 melee (1d4+1) and bite +4 melee (1d4+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft. limited to Abyssal-speaking targets, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron or good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and fire 10
+- **Saves**: Fort +5, Ref +0, Will +3
+- **Abilities**: Str 12, Dex 10, Con 14, Int 5, Wis 11, Cha 11
+- **Skills**: [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Feats**: [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: A chaotic evil-aligned plane
+- **Organization**: Solitary, pair, gang (3–5), crowd (6–12), or mob (13+)
+- **Challenge Rating**: 2
+- **Treasure**: None
+- **Alignment**: Always chaotic evil
+- **Advancement**: 3–6 HD (Small)
+- **Level Adjustment**: +2
 
 Even the lowest demons of the chaotic evil planes are dangerous and filled with a driving need to spread ruin and dismay. The lowly dretch is as hideous and foul as it is cruel, even if it lacks the strength and power to realize its need to brutalize others in its native realm. The lot of the dretch's existence is to serve more powerful demons as victims, and only the lucky few survive long enough to evolve.
 
@@ -78,4 +78,4 @@ Dretches cannot speak but can communicate telepathically.
 
 Dretches are slow, stupid, and not very effective combatants. In one-on-one combat, they rely on their damage reduction to keep them alive. In groups, they depend on sheer numbers to overcome foes and immediately summon other dretches to improve the odds in battle. They flee at the first sign of adversity unless more powerful demons are present to intimidate them into fighting. Dretches’ fear of their greater kin is stronger than even their fear of death.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 2nd): 1/day—*[[rangoric-srd/spells/Cause Fear|cause fear]]* (DC 11), *[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]* (DC 13), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 1, 1 [[rangoric-srd/monsters/demon/Dretch|dretch]] 35%).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 2nd): 1/day—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (DC 11), _[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]_ (DC 13), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 1, 1 [[rangoric-srd/monsters/demon/Dretch|dretch]] 35%).

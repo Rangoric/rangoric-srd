@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Darkvision
 
-*A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Su).*
+_A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Su)._
 
 This trick allows the ninja to use her ki to enhance her sight, granting darkvision out to a range of 60 feet. Using this trick is a standard action that costs 1 ki point. The enhanced senses last for 1 hour.

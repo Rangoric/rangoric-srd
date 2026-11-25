@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Loyal Aid
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-social-talent|social talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-social-talent|social talent]] (Ex)._
 
 The vigilante gains the service of a number of loyal allies who can help him gather information, cover for his two identities, or perform minor tasks. Inside his area of renown, a vigilante with this talent gains a bonus on Persuasion checks to [[rangoric-srd/skills/Persuasion#Gathering Information|gather information]] equal to half his vigilante level.
 

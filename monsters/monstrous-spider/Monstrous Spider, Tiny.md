@@ -37,24 +37,24 @@ tags: [rangoric, rangoric/monster]
 
 # Monstrous Spider, Tiny
 
-  - Tiny Vermin
-  - **Hit Dice**: 1/2 d8 (2 hp)
-  - **Initiative**: +3
-  - **Speed**: 20 ft. (4 squares), climb 10 ft.
-  - **Armor Class**: 15 (+2 size, +3 Dex), touch 15, flat-footed 12
-  - **Base Attack**: +0; **CMB**: +1; **CMD**: 7 (19 vs. trip)
-  - **Attack**: Bite +5 melee (1d3–4 plus poison)
-  - **Full Attack**: Bite +5 melee (1d3–4 plus poison)
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: Poison, web
-  - **Special Qualities**: Darkvision 60 ft., tremorsense 60 ft., vermin traits
-  - **Saves**: Fort +2, Ref +3, Will +0
-  - **Abilities**: Str 3, Dex 17, Con 10, Int —, Wis 10, Cha 2
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13\* (+21 climbing, +7 jumping), Perception +4\*, Stealth +15\*
-  - **Feats**: Weapon FinesseB
-  - **Environment**: Temperate forests
-  - **Organization**: Colony (8–16)
-  - **Challenge Rating**: 1/4
-  - **Treasure**: None
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny Vermin
+- **Hit Dice**: 1/2 d8 (2 hp)
+- **Initiative**: +3
+- **Speed**: 20 ft. (4 squares), climb 10 ft.
+- **Armor Class**: 15 (+2 size, +3 Dex), touch 15, flat-footed 12
+- **Base Attack**: +0; **CMB**: +1; **CMD**: 7 (19 vs. trip)
+- **Attack**: Bite +5 melee (1d3–4 plus poison)
+- **Full Attack**: Bite +5 melee (1d3–4 plus poison)
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: Poison, web
+- **Special Qualities**: Darkvision 60 ft., tremorsense 60 ft., vermin traits
+- **Saves**: Fort +2, Ref +3, Will +0
+- **Abilities**: Str 3, Dex 17, Con 10, Int —, Wis 10, Cha 2
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13\* (+21 climbing, +7 jumping), Perception +4\*, Stealth +15\*
+- **Feats**: Weapon FinesseB
+- **Environment**: Temperate forests
+- **Organization**: Colony (8–16)
+- **Challenge Rating**: 1/4
+- **Treasure**: None
+- **Advancement**: —
+- **Level Adjustment**: —

@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Fire Brand
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]] (Su), available to goblin alchemists.*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]] (Su), available to goblin alchemists._
 
-An alchemist with this discovery can expend one daily bomb use to apply the bomb reagents to his weapon as a swift action. A weapon treated this way deals fire damage as if it had the *[[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]* weapon special ability. At 10th level, the weapon is treated as if it had the *[[rangoric-srd/magic-items/weapon-abilities/Flaming Burst|flaming burst]]* weapon special ability. The bomb reagents continue burning for 1 minute or until extinguished by dousing the weapon in water. An alchemist can use this ability with natural weapons, but he takes 1d6 points of fire damage per round for each natural weapon treated.
+An alchemist with this discovery can expend one daily bomb use to apply the bomb reagents to his weapon as a swift action. A weapon treated this way deals fire damage as if it had the _[[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]_ weapon special ability. At 10th level, the weapon is treated as if it had the _[[rangoric-srd/magic-items/weapon-abilities/Flaming Burst|flaming burst]]_ weapon special ability. The bomb reagents continue burning for 1 minute or until extinguished by dousing the weapon in water. An alchemist can use this ability with natural weapons, but he takes 1d6 points of fire damage per round for each natural weapon treated.

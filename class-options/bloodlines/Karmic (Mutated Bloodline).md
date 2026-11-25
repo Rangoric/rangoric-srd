@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Karmic
 
-*A [[rangoric-srd/class-options/bloodlines/Bloodlines#Mutated Bloodlines|mutated bloodline]] of the [[rangoric-srd/class-options/bloodlines/Destined Bloodline|destined bloodline]], for a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] [[rangoric-srd/classes/Sorcerer|sorcerer]].*
+_A [[rangoric-srd/class-options/bloodlines/Bloodlines#Mutated Bloodlines|mutated bloodline]] of the [[rangoric-srd/class-options/bloodlines/Destined Bloodline|destined bloodline]], for a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] [[rangoric-srd/classes/Sorcerer|sorcerer]]._
 
 The universe punishes those who interfere with destiny.
 

@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Cavalry Soldier
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf, Human)
-  - **Hit Dice**: 9d10+18 (67 hp)
-  - **Initiative**: +0
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 21 (+9 armor, +2 shield), touch 10, flat-footed 21
-  - **Base Attack**: +9; **CMB**: +12; **CMD**: 22
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Lance|lance]] +13 melee (1d8+5/×3) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Heavy Pick|heavy pick]] +13 melee (1d6+3/×4) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Shortbow|composite shortbow]] +10 ranged (1d6+3/×3)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Lance|lance]] +13/+8 melee (1d8+5/×3); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Heavy Pick|heavy pick]] +13/+8 melee (1d6+3/×4); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Shortbow|composite shortbow]] +10/+5 ranged (1d6+3/×3)
-  - **Space/Reach**: 5 ft./5 ft. (10 ft. with lance)
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]]
-  - **Saves**: Fort +7, Ref +3, Will +4 (+2 vs. enchantments)
-  - **Abilities**: Str 16, Dex 10, Con 12, Int 11, Wis 8, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Perception|Perception]] +8
-  - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mounted Archery|Mounted Archery]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Spirited Charge|Spirited Charge]]
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary, or with other half-elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])
-  - **Challenge Rating**: 7
-  - **Treasure**: NPC gear (combat gear: potions of cure moderate wounds (2), potion of heroism, cold iron arrows (10), silver arrows (10); other gear: masterwork full plate, masterwork heavy steel shield, +1 lance, masterwork composite shortbow (+3 Str) with 40 arrows, masterwork heavy pick, bit and bridle, heavy horse (combat trained), masterwork chainmail barding, military saddle, saddlebags, 259 gp)
-  - **Alignment**: Lawful neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf, Human)
+- **Hit Dice**: 9d10+18 (67 hp)
+- **Initiative**: +0
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 21 (+9 armor, +2 shield), touch 10, flat-footed 21
+- **Base Attack**: +9; **CMB**: +12; **CMD**: 22
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Lance|lance]] +13 melee (1d8+5/×3) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Heavy Pick|heavy pick]] +13 melee (1d6+3/×4) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Shortbow|composite shortbow]] +10 ranged (1d6+3/×3)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Lance|lance]] +13/+8 melee (1d8+5/×3); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Heavy Pick|heavy pick]] +13/+8 melee (1d6+3/×4); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Shortbow|composite shortbow]] +10/+5 ranged (1d6+3/×3)
+- **Space/Reach**: 5 ft./5 ft. (10 ft. with lance)
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]]
+- **Saves**: Fort +7, Ref +3, Will +4 (+2 vs. enchantments)
+- **Abilities**: Str 16, Dex 10, Con 12, Int 11, Wis 8, Cha 10
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Perception|Perception]] +8
+- **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mounted Archery|Mounted Archery]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Spirited Charge|Spirited Charge]]
+- **Environment**: Temperate forests
+- **Organization**: Solitary, or with other half-elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])
+- **Challenge Rating**: 7
+- **Treasure**: NPC gear (combat gear: potions of cure moderate wounds (2), potion of heroism, cold iron arrows (10), silver arrows (10); other gear: masterwork full plate, masterwork heavy steel shield, +1 lance, masterwork composite shortbow (+3 Str) with 40 arrows, masterwork heavy pick, bit and bridle, heavy horse (combat trained), masterwork chainmail barding, military saddle, saddlebags, 259 gp)
+- **Alignment**: Lawful neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A cavalry soldier is a [[rangoric-srd/monsters/elf/Elf#Half-Elf|half-elf]] with 9 levels of [[rangoric-srd/classes/Warrior|warrior]]. A cavalry soldier mixes the elven devotion to the natural world with a human's skill at armored combat. She devotes herself to a career in the military, the elven blood in her veins giving her the time and patience needed to reach the highest pay grade for a non-officer. She is content to remain at her current rank until she dies or retires, for she took this job because of her love of horses and battle. She respects discipline, and if she weren't in the army, she probably would form her own mercenary company just so she could train others in horsemanship, battle tactics, and skill-at-arms.
 

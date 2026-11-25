@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/double, weapon-group/monk, easter
 
 # Bo Staff
 
-*Exotic two-handed melee weapon (blocking, double, monk).* Cost 1 gp; Dmg 1d4/1d4 (S), 1d6/1d6 (M); Critical x2; Weight 3 lb.; Type Bludgeoning. ^stats
+_Exotic two-handed melee weapon (blocking, double, monk)._ Cost 1 gp; Dmg 1d4/1d4 (S), 1d6/1d6 (M); Critical x2; Weight 3 lb.; Type Bludgeoning. ^stats
 
 Similar to a [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]], only slightly more slender and tapered at one end, the bo staff is both a defensive device and a weapon.
 

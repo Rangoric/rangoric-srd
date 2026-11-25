@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Antler Spear
 
-This weapon is crafted from the antler of a dire elk. Normally, it is a *+2 shortspear*. In the hands of a druid, the spear gains an additional +1 enhancement bonus (for a total enhancement bonus of +3) and gains the *[[rangoric-srd/magic-items/weapon-abilities/Returning|returning]]* and *[[rangoric-srd/magic-items/weapon-abilities/Distance|distance]]* special abilities.
+This weapon is crafted from the antler of a dire elk. Normally, it is a _+2 shortspear_. In the hands of a druid, the spear gains an additional +1 enhancement bonus (for a total enhancement bonus of +3) and gains the _[[rangoric-srd/magic-items/weapon-abilities/Returning|returning]]_ and _[[rangoric-srd/magic-items/weapon-abilities/Distance|distance]]_ special abilities.
 
 Moderate divination and transmutation; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], creator must be a druid of at least 10th level; Price 32,302 gp; Cost 16,151 gp + 1,292 XP.

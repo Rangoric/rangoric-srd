@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Gnome Slayer
 
-*A [[rangoric-srd/races/Gnome|gnome]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Slayer#^slayer-class-bonuses|slayer]] level.*
+_A [[rangoric-srd/races/Gnome|gnome]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Slayer#^slayer-class-bonuses|slayer]] level._
 
 The slayer gains 1/6 of a new [[rangoric-srd/classes/Slayer#^slayer-talents|slayer talent]].

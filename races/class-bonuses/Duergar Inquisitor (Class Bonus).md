@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Duergar Inquisitor
 
-*A [[rangoric-srd/races/Duergar|duergar]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-class-bonuses|inquisitor]] level.*
+_A [[rangoric-srd/races/Duergar|duergar]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-class-bonuses|inquisitor]] level._
 
 Add +1/6 to the number of times per day the inquisitor can use the [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-judgment|judgment]] class feature.

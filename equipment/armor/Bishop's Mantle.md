@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/armor]
 
 # Bishop's Mantle
 
-*Light armor.* Cost 100 gp; Armor Bonus +1; Maximum Dex Bonus +8; Armor Check Penalty –1; Arcane Spell Failure 10%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 15 lb. ^stats
+_Light armor._ Cost 100 gp; Armor Bonus +1; Maximum Dex Bonus +8; Armor Check Penalty –1; Arcane Spell Failure 10%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 15 lb. ^stats
 
 A bishop’s mantle is a short, chain cloak that covers the wearer’s shoulders and upper back. It is so named because it resembles the velvet mantle worn by the clergy of many religions. Although the mantle is not very effective by itself, it can be draped over another suit of armor, its armor bonus stacking with that of the original piece. An enchanted bishop’s mantle is stackable with enchanted armor, although the enhancement bonuses do not stack, only the armor bonuses. If stacked with other armor:
 

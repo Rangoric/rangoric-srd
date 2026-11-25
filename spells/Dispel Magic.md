@@ -44,12 +44,12 @@ tags: [rangoric, rangoric/spell]
 
 # Dispel Magic
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Apl 3, Brd 3, Clr 3, Drd 4, Hun 4, Inq 3, Mag 3, Magic 3, Med 3, Mes 3, Msl 3, Occ 3, Pal 3, Psy 3, Sha 3, Skd 3, Sor/Wiz 3, Spi 3, Sum 3, SumU 3, Tot 4, Wit 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
+- **Level**: Apl 3, Brd 3, Clr 3, Drd 4, Hun 4, Inq 3, Mag 3, Magic 3, Med 3, Mes 3, Msl 3, Occ 3, Pal 3, Psy 3, Sha 3, Skd 3, Sor/Wiz 3, Spi 3, Sum 3, SumU 3, Tot 4, Wit 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
 
 Target or Area: One spellcaster, creature, or object; or 20-ft.-radius burst  
 Duration: Instantaneous  
@@ -58,11 +58,11 @@ Spell Resistance: No
 
 You can use dispel magic to end ongoing spells that have been cast on a creature or object, to temporarily suppress the magical abilities of a magic item, to end ongoing spells (or at least their effects) within an area, or to counter another spellcaster’s spell. A dispelled spell ends as if its duration had expired. Some spells, as detailed in their descriptions, can’t be defeated by dispel magic. Dispel magic can dispel (but not counter) spell-like effects just as it does spells.
 
-*Note*: The effect of a spell with an instantaneous duration can’t be dispelled, because the magical effect is already over before the dispel magic can take effect.
+_Note_: The effect of a spell with an instantaneous duration can’t be dispelled, because the magical effect is already over before the dispel magic can take effect.
 
-*You choose to use dispel magic in one of three ways*: a targeted dispel, an area dispel, or a counterspell:
+_You choose to use dispel magic in one of three ways_: a targeted dispel, an area dispel, or a counterspell:
 
-*Targeted Dispel*: One object, creature, or spell is the target of the dispel magic spell. You make a dispel check (1d20 + your caster level, maximum +10) against the spell or against each ongoing spell currently in effect on the object or creature. The DC for this dispel check is 11 + the spell’s caster level. If you succeed on a particular check, that spell is dispelled; if you fail, that spell remains in effect.
+_Targeted Dispel_: One object, creature, or spell is the target of the dispel magic spell. You make a dispel check (1d20 + your caster level, maximum +10) against the spell or against each ongoing spell currently in effect on the object or creature. The DC for this dispel check is 11 + the spell’s caster level. If you succeed on a particular check, that spell is dispelled; if you fail, that spell remains in effect.
 
 If you target an object or creature that is the effect of an ongoing spell (such as a monster summoned by monster summoning), you make a dispel check to end the spell that conjured the object or creature.
 
@@ -70,7 +70,7 @@ If the object that you target is a magic item, you make a dispel check against t
 
 You automatically succeed on your dispel check against any spell that you cast yourself.
 
-*Area Dispel*: When dispel magic is used in this way, the spell affects everything within a 20-foot radius.
+_Area Dispel_: When dispel magic is used in this way, the spell affects everything within a 20-foot radius.
 
 For each creature within the area that is the subject of one or more spells, you make a dispel check against the spell with the highest caster level. If that check fails, you make dispel checks against progressively weaker spells until you dispel one spell (which discharges the dispel magic spell so far as that target is concerned) or until you fail all your checks. The creature’s magic items are not affected.
 
@@ -84,4 +84,4 @@ If an object or creature that is the effect of an ongoing spell (such as a monst
 
 You may choose to automatically succeed on dispel checks against any spell that you have cast.
 
-*Counterspell*: When dispel magic is used in this way, the spell targets a spellcaster and is cast as a counterspell. Unlike a true counterspell, however, dispel magic may not work; you must make a dispel check to counter the other spellcaster’s spell.
+_Counterspell_: When dispel magic is used in this way, the spell targets a spellcaster and is cast as a counterspell. Unlike a true counterspell, however, dispel magic may not work; you must make a dispel check to counter the other spellcaster’s spell.

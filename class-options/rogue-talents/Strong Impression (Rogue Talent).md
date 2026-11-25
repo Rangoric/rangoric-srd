@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Strong Impression
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex).*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex)._
 
 A character who selects this talent gains [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]] as a bonus feat.

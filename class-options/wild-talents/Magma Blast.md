@@ -18,14 +18,14 @@ tags: [rangoric, rangoric/class-option]
 
 # Magma Blast
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#^composite-blasts|composite blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#^composite-blasts|composite blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Elements**: [[rangoric-srd/class-options/elements/Earth Element|earth]] and [[rangoric-srd/class-options/elements/Fire Element|fire]]
-  - **Type**: composite blast (Sp)
-  - **Level**: —
-  - **Burn**: 2
-  - **Prerequisites**: [[rangoric-srd/class-options/wild-talents/Earth Blast|earth blast]], [[rangoric-srd/class-options/wild-talents/Fire Blast|fire blast]]
-  - **Blast Type**: physical
-  - **Damage**: half bludgeoning, half fire
+- **Elements**: [[rangoric-srd/class-options/elements/Earth Element|earth]] and [[rangoric-srd/class-options/elements/Fire Element|fire]]
+- **Type**: composite blast (Sp)
+- **Level**: —
+- **Burn**: 2
+- **Prerequisites**: [[rangoric-srd/class-options/wild-talents/Earth Blast|earth blast]], [[rangoric-srd/class-options/wild-talents/Fire Blast|fire blast]]
+- **Blast Type**: physical
+- **Damage**: half bludgeoning, half fire
 
 You use your fire to superheat the earth into a flow of magma, which you send against a single foe.

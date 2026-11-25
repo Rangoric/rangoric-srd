@@ -40,25 +40,25 @@ tags: [rangoric, rangoric/monster]
 
 # Ice Elemental, Large
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Air, Cold, Elemental, Extraplanar, Water)
-  - **Hit Dice**: 8d10+24 (68 hp)
-  - **Initiative**: +5
-  - **Speed**: 20 ft. (4 squares), burrow (ice and snow only) 20 ft., swim 60 ft.
-  - **Armor Class**: 17 (+1 Dex, +7 natural, –1 size), touch 10, flat-footed 16
-  - **Base Attack**: +8; **CMB**: +14; **CMD**: 25 (can't be tripped)
-  - **Attack**: Slam +12 melee (1d8+5 plus 1d6 cold)
-  - **Full Attack**: 2 slams +12 melee (1d8+5 plus 1d6 cold)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/elemental/Ice Elemental#^numbing-cold|Numbing cold]] (DC 17)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Snow Vision|snow vision]], [[rangoric-srd/monsters/elemental/Ice Elemental#^ice-glide|ice glide]], [[rangoric-srd/monsters/abilities/Icewalking|icewalking]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], vulnerable to fire
-  - **Saves**: Fort +9, Ref +7, Will +2
-  - **Abilities**: Str 20, Dex 12, Con 17, Int 6, Wis 11, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +8, [[rangoric-srd/skills/Theology|Theology]] +9
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Any land or water (Elemental Plane of Water)
-  - **Organization**: Solitary, pair, or gang (3–8)
-  - **Challenge Rating**: 5
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Air, Cold, Elemental, Extraplanar, Water)
+- **Hit Dice**: 8d10+24 (68 hp)
+- **Initiative**: +5
+- **Speed**: 20 ft. (4 squares), burrow (ice and snow only) 20 ft., swim 60 ft.
+- **Armor Class**: 17 (+1 Dex, +7 natural, –1 size), touch 10, flat-footed 16
+- **Base Attack**: +8; **CMB**: +14; **CMD**: 25 (can't be tripped)
+- **Attack**: Slam +12 melee (1d8+5 plus 1d6 cold)
+- **Full Attack**: 2 slams +12 melee (1d8+5 plus 1d6 cold)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/elemental/Ice Elemental#^numbing-cold|Numbing cold]] (DC 17)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Snow Vision|snow vision]], [[rangoric-srd/monsters/elemental/Ice Elemental#^ice-glide|ice glide]], [[rangoric-srd/monsters/abilities/Icewalking|icewalking]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], vulnerable to fire
+- **Saves**: Fort +9, Ref +7, Will +2
+- **Abilities**: Str 20, Dex 12, Con 17, Int 6, Wis 11, Cha 11
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +8, [[rangoric-srd/skills/Theology|Theology]] +9
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Any land or water (Elemental Plane of Water)
+- **Organization**: Solitary, pair, or gang (3–8)
+- **Challenge Rating**: 5
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —

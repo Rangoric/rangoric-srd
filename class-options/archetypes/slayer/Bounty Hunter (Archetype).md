@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Bounty Hunter
 
-*A [[rangoric-srd/classes/Slayer#^slayer-archetypes|slayer]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Slayer#^slayer-archetypes|slayer]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Whether tasked with bringing in wanted criminals or paid to drag debtors back to their loan sharks, bounty hunters are valued for their ability to capture targets alive.
 

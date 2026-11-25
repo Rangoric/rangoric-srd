@@ -33,16 +33,16 @@ tags: [rangoric, rangoric/spell]
 
 # Elemental Touch
 
-*Evocation \[Acid, Cold, Electricity, Fire\]*
+_Evocation \[Acid, Cold, Electricity, Fire\]_
 
-  - **Level**: Alc 2, Blr 2, Mag 2, Sor/Wiz 2
-  - **Components**: V, S, M (a bit of the chosen element: earth, water, air, or fire)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level (D)
-  - **Saving Throw**: See text
-  - **Spell Resistance**: No
+- **Level**: Alc 2, Blr 2, Mag 2, Sor/Wiz 2
+- **Components**: V, S, M (a bit of the chosen element: earth, water, air, or fire)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level (D)
+- **Saving Throw**: See text
+- **Spell Resistance**: No
 
 Upon completing the casting of this spell, elemental energy infuses your hands. Choose an energy type: acid, cold, electricity, or fire. You gain a melee touch attack causing 1d6 points of damage of that energy type, along with a special effect described below. You also deal energy damage and the related special effect when you attack with your hands using an unarmed strike, a single claw, or a single slam attack. This bonus damage can never apply to multiple weapons.
 

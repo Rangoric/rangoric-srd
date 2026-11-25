@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades]
 
 # Fencing Saber
 
-*Martial light melee weapon.* Cost 20 gp; Dmg 1d4 (S), 1d6 (M); Critical 18-20/x2; Weight 3 lb.; Type Piercing. ^stats
+_Martial light melee weapon._ Cost 20 gp; Dmg 1d4 (S), 1d6 (M); Critical 18-20/x2; Weight 3 lb.; Type Piercing. ^stats
 
 A light slashing sword, the fencing saber is a courtly weapon, used by many duelists and fencers. It is a very sharp and very fast weapon and compares favorably with the rapier. Saber fencers may use the Weapon Finesse feat to apply their Dexterity modifier instead of their Strength modifier to attack rolls with a fencing saber.

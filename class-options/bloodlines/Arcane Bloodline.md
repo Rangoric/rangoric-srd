@@ -17,7 +17,7 @@ Your family has always been skilled in the eldritch art of magic. While many of 
 
 **Class Skill**: any one [[rangoric-srd/skills/Knowledge|Knowledge skill]].
 
-**Bonus Spells**: *[[rangoric-srd/spells/Identify|identify]]* (3rd), *[[rangoric-srd/spells/Invisibility|invisibility]]* (5th), *[[rangoric-srd/spells/Dispel Magic|dispel magic]]* (7th), *[[rangoric-srd/spells/Dimension Door|dimension door]]* (9th), *[[rangoric-srd/spells/Overland Flight|overland flight]]* (11th), *[[rangoric-srd/spells/True Seeing|true seeing]]* (13th), *[[rangoric-srd/spells/Teleport, Greater|greater teleport]]* (15th), *[[rangoric-srd/spells/Power Word Stun|power word stun]]* (17th), *[[rangoric-srd/spells/Wish|wish]]* (19th).
+**Bonus Spells**: _[[rangoric-srd/spells/Identify|identify]]_ (3rd), _[[rangoric-srd/spells/Invisibility|invisibility]]_ (5th), _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_ (7th), _[[rangoric-srd/spells/Dimension Door|dimension door]]_ (9th), _[[rangoric-srd/spells/Overland Flight|overland flight]]_ (11th), _[[rangoric-srd/spells/True Seeing|true seeing]]_ (13th), _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (15th), _[[rangoric-srd/spells/Power Word Stun|power word stun]]_ (17th), _[[rangoric-srd/spells/Wish|wish]]_ (19th).
 
 **Bonus Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Improved Counterspell|Improved Counterspell]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Arcana), [[rangoric-srd/feats/Spell Focus|Spell Focus]], [[rangoric-srd/feats/Still Spell|Still Spell]].
 

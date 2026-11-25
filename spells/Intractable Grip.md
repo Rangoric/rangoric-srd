@@ -24,16 +24,16 @@ tags: [rangoric, rangoric/spell]
 
 # Intractable Grip
 
-*Enchantment*
+_Enchantment_
 
-  - **Level**: Sor/Wiz 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./level)
-  - **Target**: One creature
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Sor/Wiz 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./level)
+- **Target**: One creature
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 Any object held by the subject seems to have a life of its own. Rope, tools and other items used in conjunction with skills lose any bonuses they grant to those skills, and the subject suffers a further 5 circumstance penalty if the tools or objects are required for the use of the skill.
 

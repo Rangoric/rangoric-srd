@@ -16,8 +16,8 @@ tags: [rangoric, rangoric/class-option]
 
 # Cinder Dance
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Flame Mystery|flame]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Flame Mystery|flame]] mystery._
 
 Your base speed increases by 10 feet. At 5th level, you receive [[rangoric-srd/feats/Nimble Moves|Nimble Moves]] as a bonus feat. At 10th level, you receive [[rangoric-srd/feats/Acrobatic Steps|Acrobatic Steps]] as a bonus feat. You do not need to meet the prerequisites to receive these feats. Oracles with the lame oracle curse cannot select this revelation.
 
-*The shaman has a hex of the same name: [[rangoric-srd/class-options/hexes/Cinder Dance (Hex)|cinder dance]].*
+_The shaman has a hex of the same name: [[rangoric-srd/class-options/hexes/Cinder Dance (Hex)|cinder dance]]._

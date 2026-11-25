@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Crocodile Aspect
 
-*A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The crocodile lurks in the water, unseen until it lunges forth with its powerful jaws.*
+_A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The crocodile lurks in the water, unseen until it lunges forth with its powerful jaws._
 
 **Minor Form**: You gain a +2 competence bonus on Athletics checks to swim and on grapple combat maneuver checks.
 

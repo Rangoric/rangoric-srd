@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Revolution Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Liberation Domain|Liberation]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Liberation Domain|Liberation]] domain._
 
 ## Replacement Power
 
@@ -27,7 +27,7 @@ This power replaces the [[rangoric-srd/class-options/domains/Liberation Domain#G
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 2nd | [[rangoric-srd/spells/Enthrall\|Enthrall]] | Captivates all within 100 ft. + 10 ft./level. |
-| 6th | [[rangoric-srd/spells/Symbol of Persuasion\|Symbol of Persuasion]] | Triggered rune charms nearby creatures. |
+| Level | Spell                                                              | Brief Description                             |
+| ----- | ------------------------------------------------------------------ | --------------------------------------------- |
+| 2nd   | [[rangoric-srd/spells/Enthrall\|Enthrall]]                         | Captivates all within 100 ft. + 10 ft./level. |
+| 6th   | [[rangoric-srd/spells/Symbol of Persuasion\|Symbol of Persuasion]] | Triggered rune charms nearby creatures.       |

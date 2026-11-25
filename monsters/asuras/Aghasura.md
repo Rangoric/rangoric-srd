@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Aghasura
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Asura, Evil, Extraplanar, Lawful)
-  - **Hit Dice**: 14d10+84 (161 hp)
-  - **Initiative**: +3
-  - **Speed**: 50 ft. (10 squares), swim 30 ft. (35 ft., swim 20 ft. in armor)
-  - **Armor Class**: 23 (+6 armor, +3 Dex, +6 natural, –2 size), touch 11, flat-footed 20
-  - **Base Attack**: +14; **CMB**: +28 (+32 grapple); **CMD**: 41 (can't be tripped)
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +26 melee (2d6+12/15–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +26 melee (2d6+12/15–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or bite +24 melee (2d8+6 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +26/+21/+16 melee (2d6+12/15–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +26 melee (2d6+12/15–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and bite +19 melee (2d8+6 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Dual Wielder|Dual wielder]], [[rangoric-srd/monsters/abilities/Infused Weapons (Aghasura)|infused weapons]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (2d6+12 acid damage, AC 13, 16 hp), [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (good weapons, good spells), attraction (50 ft.), elusive (75 ft.), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to curse effects, disease and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and electricity 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 22
-  - **Saves**: Fort +15, Ref +9, Will +11
-  - **Abilities**: Str 34, Dex 17, Con 23, Int 11, Wis 14, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +9, [[rangoric-srd/skills/Theology|Theology]] +13
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (scimitar), [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (scimitar)
-  - **Environment**: Any (a lawful evil-aligned plane: [[rangoric-srd/rules/planes/Hell|Hell]])
-  - **Organization**: Solitary or troop (2–9)
-  - **Challenge Rating**: 11
-  - **Treasure**: Standard (masterwork breastplate, 2 masterwork scimitars, other treasure)
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Asura, Evil, Extraplanar, Lawful)
+- **Hit Dice**: 14d10+84 (161 hp)
+- **Initiative**: +3
+- **Speed**: 50 ft. (10 squares), swim 30 ft. (35 ft., swim 20 ft. in armor)
+- **Armor Class**: 23 (+6 armor, +3 Dex, +6 natural, –2 size), touch 11, flat-footed 20
+- **Base Attack**: +14; **CMB**: +28 (+32 grapple); **CMD**: 41 (can't be tripped)
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +26 melee (2d6+12/15–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +26 melee (2d6+12/15–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or bite +24 melee (2d8+6 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +26/+21/+16 melee (2d6+12/15–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +26 melee (2d6+12/15–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and bite +19 melee (2d8+6 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Dual Wielder|Dual wielder]], [[rangoric-srd/monsters/abilities/Infused Weapons (Aghasura)|infused weapons]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (2d6+12 acid damage, AC 13, 16 hp), [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (good weapons, good spells), attraction (50 ft.), elusive (75 ft.), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to curse effects, disease and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and electricity 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 22
+- **Saves**: Fort +15, Ref +9, Will +11
+- **Abilities**: Str 34, Dex 17, Con 23, Int 11, Wis 14, Cha 18
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +9, [[rangoric-srd/skills/Theology|Theology]] +13
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (scimitar), [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (scimitar)
+- **Environment**: Any (a lawful evil-aligned plane: [[rangoric-srd/rules/planes/Hell|Hell]])
+- **Organization**: Solitary or troop (2–9)
+- **Challenge Rating**: 11
+- **Treasure**: Standard (masterwork breastplate, 2 masterwork scimitars, other treasure)
+- **Alignment**: Usually lawful evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Aghasuras, or the poison ones, are massive fiends who have perfected the art of ambush and hold to duties of guardianship and butchery. It is said that these frightful ophidian monsters came into being when a deity granted free will to her favorite serpent pets, but when these pets were left to their own devices, they slipped into the deity's favored temple and slew all of her greatest priests. The serpents who survived the deity's wrath became the first aghasuras.
 
@@ -70,7 +70,7 @@ Aghasuras speak Common and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 11th; concentration +15): At will—*[[rangoric-srd/spells/Teleport, Greater|greater teleport]]* (self plus 50 lbs. of objects only); 3/day—*[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]*; 1/day—*[[rangoric-srd/spells/Cloudkill|cloudkill]]* (DC 19), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 4, 1d4+1 adhukaits, 45%, or 1 aghasura, 20%).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 11th; concentration +15): At will—_[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only); 3/day—_[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_; 1/day—_[[rangoric-srd/spells/Cloudkill|cloudkill]]_ (DC 19), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 4, 1d4+1 adhukaits, 45%, or 1 aghasura, 20%).
 
 **Attraction Aura (Su)**: An aghasura exudes a 50-foot aura whenever it remains motionless for at least 1 round. All nonevil creatures that enter this area must make a DC 21 Will save to avoid being compelled to move toward the aghasura's location. If the aghasura moves, the effect ends for all currently affected creatures. This is a mind-affecting compulsion. The save DC is Charisma-based.
 
@@ -78,4 +78,4 @@ Aghasuras speak Common and Infernal.
 
 **[[rangoric-srd/monsters/abilities/Infused Weapons (Aghasura)|Infused Weapons]] (Su)**: Weapons an aghasura wields are considered to be magic for the purposes of overcoming damage reduction. In addition, such weapons gain the ability to deliver the aghasura's poison on a successful attack.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Aghasura Venom|Aghasura Venom]]: Bite or weapon—injury; *save* Fort DC 23; *frequency* 1/round for 6 rounds; *effect* 1d4 Con damage; *cure* 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Aghasura Venom|Aghasura Venom]]: Bite or weapon—injury; _save_ Fort DC 23; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Con damage; _cure_ 2 consecutive saves.

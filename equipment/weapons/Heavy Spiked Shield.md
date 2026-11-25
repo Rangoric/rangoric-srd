@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/close]
 
 # Heavy Spiked Shield
 
-*Martial one-handed melee weapon.* Cost special; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight special; Type Piercing. ^stats
+_Martial one-handed melee weapon._ Cost special; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight special; Type Piercing. ^stats
 
 You can bash with a spiked shield instead of using it for defense. See Armor for details.

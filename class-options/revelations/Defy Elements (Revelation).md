@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Defy Elements
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Apocalypse Mystery|apocalypse]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Apocalypse Mystery|apocalypse]] mystery._
 
 Choose one energy type (acid, cold, fire, electricity, or sonic). You gain resistance 5 to the selected energy type.
 

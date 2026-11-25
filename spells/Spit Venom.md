@@ -29,15 +29,15 @@ tags: [rangoric, rangoric/spell]
 
 # Spit Venom
 
-*Transmutation \[Poison\]*
+_Transmutation \[Poison\]_
 
-  - **Level**: Clr 4, Drd 3, Hun 3, Sha 4, Wit 3
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: One stream of venom
-  - **Duration**: Instantaneous; see text
-  - **Saving Throw**: Fortitude partial
-  - **Spell Resistance**: No
+- **Level**: Clr 4, Drd 3, Hun 3, Sha 4, Wit 3
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: One stream of venom
+- **Duration**: Instantaneous; see text
+- **Saving Throw**: Fortitude partial
+- **Spell Resistance**: No
 
 You spit a stream of venom at a target using a ranged touch attack. If the venom hits, it causes blindness for 1 round. The target must also save or be poisoned by [[rangoric-srd/rules/afflictions/Black Adder Venom|black adder venom]]; the DC in successive rounds of the poison is equal to the spell's DC.

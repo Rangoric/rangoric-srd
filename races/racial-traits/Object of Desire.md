@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/racial-trait, racial-trait/magical, racial-trait/stand
 
 **Race**: [[rangoric-srd/races/Changeling|Changeling]]. **Replaces**: green widow.
 
-The changeling adds +1 to her caster level when casting *[[rangoric-srd/spells/Charm Person|charm person]]* and *[[rangoric-srd/spells/Charm Monster|charm monster]]*.
+The changeling adds +1 to her caster level when casting _[[rangoric-srd/spells/Charm Person|charm person]]_ and _[[rangoric-srd/spells/Charm Monster|charm monster]]_.

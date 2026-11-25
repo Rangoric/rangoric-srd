@@ -21,8 +21,8 @@ tags: [rangoric, rangoric/magic-item]
 
 # Elemental Earth Belt
 
-This belt is constructed of flat pieces of slate connected with strong leather straps. This belt grants its wearer a +4 enhancement bonus to Constitution, and the wearer is immune to effects that would push, pull, or forcefully move the wearer. This offers no protection from teleportation effects. Furthermore, once per day on command, the wearer can take the form of a Large earth elemental, as though subject to the *[[rangoric-srd/spells/Elemental Body III|elemental body III]]* spell.
+This belt is constructed of flat pieces of slate connected with strong leather straps. This belt grants its wearer a +4 enhancement bonus to Constitution, and the wearer is immune to effects that would push, pull, or forcefully move the wearer. This offers no protection from teleportation effects. Furthermore, once per day on command, the wearer can take the form of a Large earth elemental, as though subject to the _[[rangoric-srd/spells/Elemental Body III|elemental body III]]_ spell.
 
 Treat the enhancement bonus to Constitution as a temporary ability bonus for the first 24 hours the belt is worn.
 
-Moderate transmutation; CL 11th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Bear’s Endurance|bear's endurance]]*, *[[rangoric-srd/spells/Elemental Body III|elemental body III]]*; Price 24,000 gp; Cost 12,000 gp; Weight 3 lbs.
+Moderate transmutation; CL 11th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Bear’s Endurance|bear's endurance]]_, _[[rangoric-srd/spells/Elemental Body III|elemental body III]]_; Price 24,000 gp; Cost 12,000 gp; Weight 3 lbs.

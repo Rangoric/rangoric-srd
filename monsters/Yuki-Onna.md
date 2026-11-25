@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Yuki-Onna
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Cold, Incorporeal)
-  - **Hit Dice**: 9d8+54 (94 hp)
-  - **Initiative**: +8
-  - **Speed**: fly 30 ft. (perfect)
-  - **Armor Class**: 21 (+6 deflection, +4 Dex, +1 dodge), touch 21, flat-footed 16
-  - **Base Attack**: +6; **CMB**: +10; **CMD**: 27
-  - **Attack**: Touches +10 melee (4d6 cold plus [[rangoric-srd/monsters/abilities/Chilling Touch|chilling touch]])
-  - **Full Attack**: 2 touches +10 melee (4d6 cold plus [[rangoric-srd/monsters/abilities/Chilling Touch|chilling touch]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Chilling Touch|Chilling touch]], [[rangoric-srd/monsters/abilities/Fascinating Gaze|fascinating gaze]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Snowstorm|snowstorm]] (200 ft.), [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], vulnerable to fire, [[rangoric-srd/monsters/abilities/Snow Dependency|snow dependency]]
-  - **Saves**: Fort +9, Ref +7, Will +11
-  - **Abilities**: Str —, Dex 18, Con —, Int 17, Wis 21, Cha 22
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Mysticism|Mysticism]] +15, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +16
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]]
-  - **Environment**: Any cold
-  - **Organization**: Solitary
-  - **Challenge Rating**: 8
-  - **Treasure**: Standard
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Cold, Incorporeal)
+- **Hit Dice**: 9d8+54 (94 hp)
+- **Initiative**: +8
+- **Speed**: fly 30 ft. (perfect)
+- **Armor Class**: 21 (+6 deflection, +4 Dex, +1 dodge), touch 21, flat-footed 16
+- **Base Attack**: +6; **CMB**: +10; **CMD**: 27
+- **Attack**: Touches +10 melee (4d6 cold plus [[rangoric-srd/monsters/abilities/Chilling Touch|chilling touch]])
+- **Full Attack**: 2 touches +10 melee (4d6 cold plus [[rangoric-srd/monsters/abilities/Chilling Touch|chilling touch]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Chilling Touch|Chilling touch]], [[rangoric-srd/monsters/abilities/Fascinating Gaze|fascinating gaze]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Snowstorm|snowstorm]] (200 ft.), [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], vulnerable to fire, [[rangoric-srd/monsters/abilities/Snow Dependency|snow dependency]]
+- **Saves**: Fort +9, Ref +7, Will +11
+- **Abilities**: Str —, Dex 18, Con —, Int 17, Wis 21, Cha 22
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Mysticism|Mysticism]] +15, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +16
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]]
+- **Environment**: Any cold
+- **Organization**: Solitary
+- **Challenge Rating**: 8
+- **Treasure**: Standard
+- **Alignment**: Usually lawful evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A yuki-onna is the restless spirit of a woman who froze to death in the snow and was never given a proper burial. She roams the wilderness, constantly searching for intelligent creatures to kill and always appearing surrounded by swirling mists of snow and ice. Eternally jaded by her unjust departure to the afterlife, a yuki-onna seeks to impose the same cruel fate upon those who still live, particularly men and those who sympathize or cooperate with them. Many foolish individuals are lured to their deaths by a yuki-onna's unparalleled beauty, which remains even as the evil spirit steadily freezes and kills her victims with her powers over frost.
 
@@ -72,7 +72,7 @@ Yuki-onnas speak Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +16): Constant—*[[rangoric-srd/spells/Blur|blur]]*; 3/day—*[[rangoric-srd/spells/Cone of Cold|cone of cold]]* (DC 21), *[[rangoric-srd/spells/Eyebite|eyebite]]* (comatose and panicked only, DC 22), *[[rangoric-srd/spells/Ice Storm|ice storm]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +16): Constant—_[[rangoric-srd/spells/Blur|blur]]_; 3/day—_[[rangoric-srd/spells/Cone of Cold|cone of cold]]_ (DC 21), _[[rangoric-srd/spells/Eyebite|eyebite]]_ (comatose and panicked only, DC 22), _[[rangoric-srd/spells/Ice Storm|ice storm]]_.
 
 **[[rangoric-srd/monsters/abilities/Chilling Touch|Chilling Touch]] (Su)**: A yuki-onna's touch causes 4d6 cold damage. Whenever a creature takes cold damage in this manner, it must make a DC 20 Fortitude save to avoid being [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] by the supernatural cold for 1 round. This duration stacks. The save DC is Charisma-based.
 

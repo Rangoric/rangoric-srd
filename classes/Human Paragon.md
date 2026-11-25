@@ -46,9 +46,9 @@ If human paragons have a downfall, it is that they see themselves capable of ove
 
 **Table: The Human Paragon**
 
-| Level | Special                                                  | Spells per Day              |
-| ----- | -------------------------------------------------------- | --------------------------- |
-| 1st   | [[#^human-paragon-adaptive-learning\|Adaptive learning]] | —                           |
+| Level | Special                                                  | Spells per Day             |
+| ----- | -------------------------------------------------------- | -------------------------- |
+| 1st   | [[#^human-paragon-adaptive-learning\|Adaptive learning]] | —                          |
 | 2nd   | Bonus feat                                               | +1 level of existing class |
 | 3rd   | [[#^human-paragon-ability-boost\|Ability boost]] (+2)    | +1 level of existing class |
 

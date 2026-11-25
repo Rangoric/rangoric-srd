@@ -29,12 +29,12 @@ tags: [rangoric, rangoric/spell]
 
 # Dispel Evil
 
-*Abjuration \[Good\]*
+_Abjuration \[Good\]_
 
-  - **Level**: Clr 5, Good 5, Inq 5, Pal 4, Sha 5
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
+- **Level**: Clr 5, Good 5, Inq 5, Pal 4, Sha 5
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
 
 Target or Targets: You and a touched evil creature from another plane; or you and an enchantment or evil spell on a touched creature or object  
 Duration: 1 round/level or until discharged, whichever comes first  

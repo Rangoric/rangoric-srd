@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/magic-item]
 
 Made of twisted dark wood with dark spots resembling crawling insects (which occasionally seem to move), this staff allows use of the following spells:
 
-  - [[rangoric-srd/spells/Summon Swarm|Summon swarm]] (1 charge)
-  - [[rangoric-srd/spells/Insect Plague|Insect plague]] (3 charges)
+- [[rangoric-srd/spells/Summon Swarm|Summon swarm]] (1 charge)
+- [[rangoric-srd/spells/Insect Plague|Insect plague]] (3 charges)
 
 Moderate conjuration; CL 9th; Craft Staff, insect plague, summon swarm; Price 24,750 gp.

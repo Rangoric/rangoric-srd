@@ -35,15 +35,15 @@ tags: [rangoric, rangoric/spell]
 
 # Curse of Disgust
 
-*Enchantment \[Compulsion, Curse, Emotion, Mind-affecting\]*
+_Enchantment \[Compulsion, Curse, Emotion, Mind-affecting\]_
 
-  - **Level**: Brd 3, Mes 3, Occ 4, Psy 6, Skd 3, Sor/Wiz 5, Wit 5
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: Permanent
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 3, Mes 3, Occ 4, Psy 6, Skd 3, Sor/Wiz 5, Wit 5
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: Permanent
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 You place a curse upon a creature, causing it to avoid the sight of a specific trigger, which is a kind of creature, object, or condition designated by you. When the target is within 30 feet of a trigger and is aware of the trigger, it gains the sickened condition and feels an urge to leave. A successful Will save negates the urge to leave, but the sickened condition persists as long as the target is within 30 feet of a trigger and aware of it. Example triggers include beggars, filthy clothing, diseased creatures, the king, blood, spiders, rats, corpses, and sewage.

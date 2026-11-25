@@ -23,15 +23,15 @@ tags: [rangoric, rangoric/spell]
 
 # Mental Barrier I
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Psy 2
-  - **Components**: V
-  - **Casting Time**: 1 immediate action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Psy 2
+- **Components**: V
+- **Casting Time**: 1 immediate action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-You put a barrier of mental energy that protects you from harm. This barrier grants you a +4 shield bonus to AC. In addition, you take half damage from *[[rangoric-srd/spells/Mind Thrust I|mind thrust I]]* and *[[rangoric-srd/spells/Mind Thrust II|mind thrust II]]* (reduced to one-quarter on a successful Will save).
+You put a barrier of mental energy that protects you from harm. This barrier grants you a +4 shield bonus to AC. In addition, you take half damage from _[[rangoric-srd/spells/Mind Thrust I|mind thrust I]]_ and _[[rangoric-srd/spells/Mind Thrust II|mind thrust II]]_ (reduced to one-quarter on a successful Will save).

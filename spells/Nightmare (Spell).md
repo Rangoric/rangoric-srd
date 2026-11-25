@@ -36,16 +36,16 @@ tags: [rangoric, rangoric/spell]
 
 # Nightmare
 
-*Illusion (Phantasm) \[Mind-Affecting, Evil\]*
+_Illusion (Phantasm) \[Mind-Affecting, Evil\]_
 
-  - **Level**: Alc 5, Brd 5, Med 4, Mes 5, Psy 5, Skd 5, Sor/Wiz 5, Spi 5
-  - **Components**: V, S
-  - **Casting Time**: 10 minutes
-  - **Range**: Unlimited
-  - **Target**: One living creature
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates; see text
-  - **Spell Resistance**: Yes
+- **Level**: Alc 5, Brd 5, Med 4, Mes 5, Psy 5, Skd 5, Sor/Wiz 5, Spi 5
+- **Components**: V, S
+- **Casting Time**: 10 minutes
+- **Range**: Unlimited
+- **Target**: One living creature
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates; see text
+- **Spell Resistance**: Yes
 
 You send a hideous and unsettling phantasmal vision to a specific creature that you name or otherwise specifically designate.
 
@@ -55,12 +55,12 @@ The difficulty of the save depends on how well you know the subject and what sor
 
 | Knowledge                                  | Will Save Modifier |
 | ------------------------------------------ | ------------------ |
-| None (1)                                   | +10               |
-| Secondhand (you have heard of the subject) | +5                |
-| Firsthand (you have met the subject)       | +0                |
+| None (1)                                   | +10                |
+| Secondhand (you have heard of the subject) | +5                 |
+| Firsthand (you have met the subject)       | +0                 |
 | Familiar (you know the subject well)       | –5                 |
 
-1 *You must have some sort of connection to a creature you have no knowledge of.*
+1 _You must have some sort of connection to a creature you have no knowledge of._
 
 | Connection                                 | Will Save Modifier |
 | ------------------------------------------ | ------------------ |

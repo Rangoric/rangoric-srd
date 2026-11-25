@@ -33,16 +33,16 @@ tags: [rangoric, rangoric/spell]
 
 # Cure Light Wounds, Mass
 
-*Conjuration (Healing)*
+_Conjuration (Healing)_
 
-  - **Level**: Brd 5, Clr 5, Drd 6, Healing 5, Hun 6, Inq 5, Occ 5, Sha 5, Skd 5, Wit 6
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature/level, no two of which can be more than 30 ft. apart
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will half (harmless) or Will half; see text
-  - **Spell Resistance**: Yes (harmless) or Yes; see text
+- **Level**: Brd 5, Clr 5, Drd 6, Healing 5, Hun 6, Inq 5, Occ 5, Sha 5, Skd 5, Wit 6
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature/level, no two of which can be more than 30 ft. apart
+- **Duration**: Instantaneous
+- **Saving Throw**: Will half (harmless) or Will half; see text
+- **Spell Resistance**: Yes (harmless) or Yes; see text
 
 You channel positive energy to cure 1d8 points of damage +1 point per caster level (maximum +25) in each selected creature.
 

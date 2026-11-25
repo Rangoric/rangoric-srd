@@ -21,4 +21,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This amulet, usually crafted from the splintered remains of spent firearm bullets shaped into a rough holy symbol or clover, grants the wearer a luck bonus to AC against [[rangoric-srd/equipment/Firearms#Range and Penetration|firearm attacks that target touch AC]].
 
-Faint abjuration; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Divine Favor|divine favor]]*, creator’s caster level must be at least three times the amulet’s bonus; Price 13,500 gp.
+Faint abjuration; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Divine Favor|divine favor]]_, creator’s caster level must be at least three times the amulet’s bonus; Price 13,500 gp.

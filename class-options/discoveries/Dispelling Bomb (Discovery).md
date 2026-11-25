@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Dispelling Bomb
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]].*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]]._
 
-When the alchemist creates a bomb, he can choose to have it dispel magic effects instead of deal damage. Creatures that take a direct hit from a dispelling bomb are subject to a targeted *[[rangoric-srd/spells/Dispel Magic|dispel magic]]* spell, using the alchemist’s level as the caster level. This cannot be used to target a specific spell effect. The alchemist must be at least 6th level before selecting this discovery.
+When the alchemist creates a bomb, he can choose to have it dispel magic effects instead of deal damage. Creatures that take a direct hit from a dispelling bomb are subject to a targeted _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_ spell, using the alchemist’s level as the caster level. This cannot be used to target a specific spell effect. The alchemist must be at least 6th level before selecting this discovery.

@@ -27,14 +27,14 @@ tags: [rangoric, rangoric/spell]
 
 # Terrain Bond
 
-*Enchantment (Compulsion) \[Mind-affecting\]*
+_Enchantment (Compulsion) \[Mind-affecting\]_
 
-  - **Level**: Hun 4, Rgr 4
-  - **Components**: V, S, M (a pinch of earth taken from your most favored terrain)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 hour/2 levels (D)
+- **Level**: Hun 4, Rgr 4
+- **Components**: V, S, M (a pinch of earth taken from your most favored terrain)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 hour/2 levels (D)
 
 You call upon the spirits of nature to help you adapt to your environment. You treat the terrain you are in as your most favored terrain until this spell ends.
 

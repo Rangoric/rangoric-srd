@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Kamadan
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 5d10+15 (42 hp)
-  - **Initiative**: +2
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 17 (+2 Dex, +1 dodge, +5 natural, –1 size), touch 12, flat-footed 14
-  - **Base Attack**: +5; **CMB**: +9; **CMD**: 22 (26 vs. trip)
-  - **Attack**: Bite +12 melee (1d6+3) or claw +12 melee (1d3+3) or snakes +2 melee (1d4+1)
-  - **Full Attack**: Bite +7 melee (1d6+3) and 2 claws +7 melee (1d3+3) and snakes +2 melee (1d4+1)
-  - **Space/Reach**: 10 ft./5 ft. (10 ft. with snakes)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (30-ft. cone, sleep, Fortitude DC 15 negates, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Pounce|pounce]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +7, Ref +6, Will +2
-  - **Abilities**: Str 17, Dex 15, Con 16, Int 5, Wis 12, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +3 (+7 jumping), [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +6
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]]
-  - **Environment**: Temperate or warm plains
-  - **Organization**: Solitary, pair, or pack (3–9)
-  - **Challenge Rating**: 4
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 5d10+15 (42 hp)
+- **Initiative**: +2
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 17 (+2 Dex, +1 dodge, +5 natural, –1 size), touch 12, flat-footed 14
+- **Base Attack**: +5; **CMB**: +9; **CMD**: 22 (26 vs. trip)
+- **Attack**: Bite +12 melee (1d6+3) or claw +12 melee (1d3+3) or snakes +2 melee (1d4+1)
+- **Full Attack**: Bite +7 melee (1d6+3) and 2 claws +7 melee (1d3+3) and snakes +2 melee (1d4+1)
+- **Space/Reach**: 10 ft./5 ft. (10 ft. with snakes)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (30-ft. cone, sleep, Fortitude DC 15 negates, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Pounce|pounce]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +7, Ref +6, Will +2
+- **Abilities**: Str 17, Dex 15, Con 16, Int 5, Wis 12, Cha 9
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +3 (+7 jumping), [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +6
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]]
+- **Environment**: Temperate or warm plains
+- **Organization**: Solitary, pair, or pack (3–9)
+- **Challenge Rating**: 4
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Kamadans are wicked hunters that enjoy stalking and toying with prey, especially when their quarry is relatively intelligent. When a kamadan attacks, it first uses its soporific breath, then pounces on any targets that remain awake. Kamadans stand about 3 feet at the shoulder, about 9 feet long and weighing up to 500 pounds.
 
@@ -69,7 +69,7 @@ Kamadans prefer underground lairs, but settle for rocky outcroppings or dens ins
 
 Though the above statistics represent the most common breed of kamadan, two rarer but more dangerous variants are detailed in brief below.
 
-**Dusk Kamadan (CR +1)**: A dusk kamadan has midnight black fur and snakes bearing black and red ring patterns on their bodies. A dusk kamadan has the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced creature template]], and its snakes have a poisonous bite. *Dusk Kamadan Snake Venom*: Snakes—injury; *save* Fort DC 17; *frequency* 1/round for 6 rounds; *effect* 1d2 Con; *cure* 2 consecutive saves.
+**Dusk Kamadan (CR +1)**: A dusk kamadan has midnight black fur and snakes bearing black and red ring patterns on their bodies. A dusk kamadan has the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced creature template]], and its snakes have a poisonous bite. _Dusk Kamadan Snake Venom_: Snakes—injury; _save_ Fort DC 17; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con; _cure_ 2 consecutive saves.
 
 **Polar Kamadan (CR +2)**: A polar kamadan has white fur with black spots like a snow leopard. Its snakes are furred as well. A polar kamadan has the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced creature template]] and batlike wings that grant it a fly speed of 60 ft. (average). The breath weapon of a polar kamadan is particularly cold—those who succumb to it also suffer 1d4 points of Dexterity damage from numbness.
 

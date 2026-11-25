@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/pole-arms]
 
 # Zhua Claw
 
-*Martial two-handed melee weapon.* Cost 15 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Weight 7 lb.; Type Slashing. ^stats
+_Martial two-handed melee weapon._ Cost 15 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Weight 7 lb.; Type Slashing. ^stats
 
 This ancient polearm is nothing more than a staff topped with a dragonlike hand with the fingers spread in a clawing posture. Each finger is tipped with a hooked metal talon. It is used to make raking slashes.

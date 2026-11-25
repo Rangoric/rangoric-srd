@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Bloodrider
 
-*A [[rangoric-srd/classes/Bloodrager#^bloodrager-archetypes|bloodrager]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Bloodrager#^bloodrager-archetypes|bloodrager]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 In the world's wild lands, a mount is an advantage in both everyday life and the dealing of death. In many barbarian tribes, the true stature of a warrior is determined by his skill and ferocity on horseback. Other tribes measure it in skill atop whatever terrible mounts their people employ. A number of bloodragers are not only skilled in the art of mounted combat, but have learned to channel their arcane energies directly into their mount.
 

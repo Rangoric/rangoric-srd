@@ -30,7 +30,7 @@ Telepathy \[Mind-Affecting\]
 **Range:** 20 ft.  
 **Target:** You and up to nine other willing psionic creatures in range  
 **Duration:** 1 min./level (D)  
-**Power Points:** 9  
+**Power Points:** 9
 
 You link your psychic might with other psionic creatures, creating an entity more powerful than the sum of its parts.
 

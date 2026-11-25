@@ -31,7 +31,7 @@ Target: An astral construct you manifest
 Duration: 1 min./level  
 Saving Throw: None  
 Power Resistance: No  
-Power Points: 1  
+Power Points: 1
 
 This power reinforces an astral construct created by the [[rangoric-srd/powers/Astral Construct (Power)|astral construct]] power, giving you a +1 bonus on any manifester level checks you make to protect it against [[rangoric-srd/powers/Dispel Psionics|dispel psionics]] or a similar effect, and a +1 bonus on its saving throw to resist [[rangoric-srd/powers/Dismiss Ectoplasm|dismiss ectoplasm]]. This power can be manifested as a swift action in the same round that you manifest an astral construct, as long as the power points you spend to perform both actions does not exceed your manifester level.
 

@@ -18,4 +18,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This enchantment, when activated by a command word, sheathes the weapon’s blade or head with a localized antimagic field when the command word is spoken. This temporarily negates the weapon’s other enchantments (if any) but also allows the weapon to penetrate any protective spells or magic shielding the target. In addition, the weapon can be used to cut a temporary opening in energy walls, such as wall of force and prismatic wall. These openings only last long enough for one creature to fit through before the wall reseals itself. Bows, crossbows and slings so enchanted bestow this power upon their ammunition.
 
-Strong abjuration; CL 12th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Antimagic Field|antimagic field]]*; Price +3 bonus.
+Strong abjuration; CL 12th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Antimagic Field|antimagic field]]_; Price +3 bonus.

@@ -30,15 +30,15 @@ tags: [rangoric, rangoric/spell]
 
 # Negative Reaction
 
-*Illusion (Glamer)*
+_Illusion (Glamer)_
 
-  - **Level**: Brd 1, Mag 1, Med 1, Psy 1, Skd 1, Sor/Wiz 1, Wit 1
-  - **Components**: S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 1, Mag 1, Med 1, Psy 1, Skd 1, Sor/Wiz 1, Wit 1
+- **Components**: S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 The target's actions and words fail to impress. The target of this spell takes a –10 penalty on any Deception, Persuasion, and Intimidation checks as well as any [[rangoric-srd/rules/Performance Combat#^performance-combat-check|performance combat checks]] it attempts.

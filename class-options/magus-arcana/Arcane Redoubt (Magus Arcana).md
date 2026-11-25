@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Arcane Redoubt
 
-*A [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]] (Su).*
+_A [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]] (Su)._
 
 As a swift action, the magus can expend 1 point from his arcane pool to treat his shield bonus to AC (including any enhancement bonus) as a bonus to touch AC until the beginning of his next turn.

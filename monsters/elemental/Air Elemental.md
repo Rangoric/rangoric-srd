@@ -13,12 +13,12 @@ tags: [rangoric, rangoric/monster]
 
 # Air Elemental
 
-  - [[rangoric-srd/monsters/elemental/Air Elemental, Small|Air Elemental, Small]]
-  - [[rangoric-srd/monsters/elemental/Air Elemental, Medium|Air Elemental, Medium]]
-  - [[rangoric-srd/monsters/elemental/Air Elemental, Large|Air Elemental, Large]]
-  - [[rangoric-srd/monsters/elemental/Air Elemental, Huge|Air Elemental, Huge]]
-  - [[rangoric-srd/monsters/elemental/Air Elemental, Greater|Air Elemental, Greater]]
-  - [[rangoric-srd/monsters/elemental/Air Elemental, Elder|Air Elemental, Elder]]
+- [[rangoric-srd/monsters/elemental/Air Elemental, Small|Air Elemental, Small]]
+- [[rangoric-srd/monsters/elemental/Air Elemental, Medium|Air Elemental, Medium]]
+- [[rangoric-srd/monsters/elemental/Air Elemental, Large|Air Elemental, Large]]
+- [[rangoric-srd/monsters/elemental/Air Elemental, Huge|Air Elemental, Huge]]
+- [[rangoric-srd/monsters/elemental/Air Elemental, Greater|Air Elemental, Greater]]
+- [[rangoric-srd/monsters/elemental/Air Elemental, Elder|Air Elemental, Elder]]
 
 Air elementals speak Auran, though they rarely choose to do so.
 
@@ -34,9 +34,9 @@ Their rapid speed makes air elementals useful on vast battlefields or in extende
 
 | Elemental | Height | Weight | Whirlwind: Height |
 | --------- | ------ | ------ | ----------------- |
-| Small | 4 ft. | 1 lb. | 10–20 ft. |
-| Medium | 8 ft. | 2 lb. | 10–30 ft. |
-| Large | 16 ft. | 4 lb. | 10–40 ft. |
-| Huge | 32 ft. | 8 lb. | 10–50 ft. |
-| Greater | 36 ft. | 10 lb. | 10–60 ft. |
-| Elder | 40 ft. | 12 lb. | 10–60 ft. |
+| Small     | 4 ft.  | 1 lb.  | 10–20 ft.         |
+| Medium    | 8 ft.  | 2 lb.  | 10–30 ft.         |
+| Large     | 16 ft. | 4 lb.  | 10–40 ft.         |
+| Huge      | 32 ft. | 8 lb.  | 10–50 ft.         |
+| Greater   | 36 ft. | 10 lb. | 10–60 ft.         |
+| Elder     | 40 ft. | 12 lb. | 10–60 ft.         |

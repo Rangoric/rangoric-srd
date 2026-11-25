@@ -36,30 +36,31 @@ change: modified
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---
+
 # Giant Fire Beetle
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
-  - **Hit Dice**: 1d8 (4 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares), fly 30 ft. (poor)
-  - **Armor Class**: 12 (+1 natural, +1 size), touch 11, flat-footed 12
-  - **Base Attack**: +0; **CMB**: –1; **CMD**: 9 (17 vs. trip)
-  - **Attack**: Bite +1 melee (1d4)
-  - **Full Attack**: Bite +1 melee (1d4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], luminescence, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-  - **Saves**: Fort +2, Ref +0, Will +0
-  - **Abilities**: Str 10, Dex 11, Con 11, Int —, Wis 10, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –2
-  - **Feats**: —
-  - **Environment**: Any
-  - **Organization**: Solitary, cluster (2–6), or colony (7–12)
-  - **Challenge Rating**: 1/3
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 2–3 HD (Small)
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
+- **Hit Dice**: 1d8 (4 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares), fly 30 ft. (poor)
+- **Armor Class**: 12 (+1 natural, +1 size), touch 11, flat-footed 12
+- **Base Attack**: +0; **CMB**: –1; **CMD**: 9 (17 vs. trip)
+- **Attack**: Bite +1 melee (1d4)
+- **Full Attack**: Bite +1 melee (1d4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], luminescence, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
+- **Saves**: Fort +2, Ref +0, Will +0
+- **Abilities**: Str 10, Dex 11, Con 11, Int —, Wis 10, Cha 7
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –2
+- **Feats**: —
+- **Environment**: Any
+- **Organization**: Solitary, cluster (2–6), or colony (7–12)
+- **Challenge Rating**: 1/3
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 2–3 HD (Small)
+- **Level Adjustment**: —
 
 Although nocturnal, the fire beetle lacks darkvision—it relies on its own glowing glands for illumination. Caged fire beetles are a popular source of long-lasting illumination among eccentrics and miners.
 

@@ -147,12 +147,12 @@ Logan is the Ruler of a kingdom with some Loyalty issues. He issues a Holiday ed
 **Table: Holiday Edicts**
 
 | Per Year | Loyalty | Consumption |
-| --- | --- | --- |
-| None | –1 | +0 |
-| 1 | +1 | +1 |
-| 6 | +2 | +2 |
-| 12 | +3 | +4 |
-| 24 | +4 | +8 |
+| -------- | ------- | ----------- |
+| None     | –1      | +0          |
+| 1        | +1      | +1          |
+| 6        | +2      | +2          |
+| 12       | +3      | +4          |
+| 24       | +4      | +8          |
 
 ### Improvement Edicts
 
@@ -160,15 +160,15 @@ Improvements are physical improvements you can make to your kingdom: founding ne
 
 **Table: Improvement Edicts**
 
-| Kingdom Size | New Settlements<sup>1</sup> | New Buildings<sup>2</sup> | Terrain Improvements | Hex Claims |
-| --- | --- | --- | --- | --- |
-| 01–10 | 1 | 1 | 2 | 1 |
-| 11–25 | 1 | 2 | 3 | 2 |
-| 26–50 | 1 | 5 | 5 | 3 |
-| 51–100 | 2 | 10 | 7 | 4 |
-| 101–200 | 3 | 20 | 9 | 8 |
-| 201+ | 4 | No limit | 12 | 12 |
-| <sup>1</sup> Instead of creating a new settlement, your kingdom may create a new army unit (see [[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat\|Mass Combat]]), expand or equip an existing army unit, or bring an existing army unit back to full strength.<sup>2</sup> Upgrading a building (for example, from a Shrine to a Temple) or destroying a building counts toward this limit. The first House, Mansion, Noble Villa, or Tenement your kingdom builds each turn does not count against this number. |  |  |  |  |
+| Kingdom Size                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | New Settlements<sup>1</sup> | New Buildings<sup>2</sup> | Terrain Improvements | Hex Claims |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------- | -------------------- | ---------- |
+| 01–10                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 1                           | 1                         | 2                    | 1          |
+| 11–25                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 1                           | 2                         | 3                    | 2          |
+| 26–50                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 1                           | 5                         | 5                    | 3          |
+| 51–100                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 2                           | 10                        | 7                    | 4          |
+| 101–200                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 3                           | 20                        | 9                    | 8          |
+| 201+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 4                           | No limit                  | 12                   | 12         |
+| <sup>1</sup> Instead of creating a new settlement, your kingdom may create a new army unit (see [[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat\|Mass Combat]]), expand or equip an existing army unit, or bring an existing army unit back to full strength.<sup>2</sup> Upgrading a building (for example, from a Shrine to a Temple) or destroying a building counts toward this limit. The first House, Mansion, Noble Villa, or Tenement your kingdom builds each turn does not count against this number. |                             |                           |                      |            |
 
 ### Promotion Edicts
 
@@ -177,12 +177,12 @@ Promotion edicts are events and actions the kingdom uses to attract new citizens
 **Table: Promotion Edicts**
 
 | Promotion Level | Stability | Consumption |
-| --- | --- | --- |
-| None | –1 | +0 |
-| Token | +1 | +1 |
-| Standard | +2 | +2 |
-| Aggressive | +3 | +4 |
-| Expansionist | +4 | +8 |
+| --------------- | --------- | ----------- |
+| None            | –1        | +0          |
+| Token           | +1        | +1          |
+| Standard        | +2        | +2          |
+| Aggressive      | +3        | +4          |
+| Expansionist    | +4        | +8          |
 
 ### Taxation Edicts
 
@@ -190,13 +190,13 @@ Setting the tax level determines how much revenue you collect from taxes in the 
 
 **Table: Taxation Edicts**
 
-| Tax Level | Economy | Loyalty |
-| --- | --- | --- |
-| None | +0 | +1 |
-| Light | +1 | –1 |
-| Normal | +2 | –2 |
-| Heavy | +3 | –4 |
-| Overwhelming | +4 | –8 |
+| Tax Level    | Economy | Loyalty |
+| ------------ | ------- | ------- |
+| None         | +0      | +1      |
+| Light        | +1      | –1      |
+| Normal       | +2      | –2      |
+| Heavy        | +3      | –4      |
+| Overwhelming | +4      | –8      |
 
 ## Losing Hexes
 
@@ -372,7 +372,7 @@ Most settlements only have 1 district. If your District Grid is full and you wan
 
 The placement of buildings in your district is up to you—you can start in the center of the district and build outward, or start at the edge and build toward the center. Some buildings (such as the Guildhall) take up more than 1 lot on the grid. You can't divide up these larger structures, though you can place them so they cover a street. (Streets do not count as lots.)
 
-**Construction**: Construction is completed in the same turn you spend BP for the building, no matter what its size is. A building's benefits apply to your kingdom immediately. At the GM's discretion, construction magic (such as *lyre of* *building*, *[[rangoric-srd/spells/Fabricate|fabricate]]*, or *[[rangoric-srd/spells/Wall of Stone|wall of stone]]*) can reduce a single building's BP cost by 2 (minimum 0). This is a one-time reduction per turn, regardless of the amount of magic used.
+**Construction**: Construction is completed in the same turn you spend BP for the building, no matter what its size is. A building's benefits apply to your kingdom immediately. At the GM's discretion, construction magic (such as _lyre of_ _building_, _[[rangoric-srd/spells/Fabricate|fabricate]]_, or _[[rangoric-srd/spells/Wall of Stone|wall of stone]]_) can reduce a single building's BP cost by 2 (minimum 0). This is a one-time reduction per turn, regardless of the amount of magic used.
 
 **Population**: A settlement's population is approximately equal to the number of completed lots within its districts × 250. A grid that has all 36 lots filled with buildings has a population of approximately 9,000.
 
@@ -384,16 +384,16 @@ A settlement's Defense is used with the [[rangoric-srd/unearthed-arcana/Mass Com
 
 **Table: Settlement Size and Base Value**
 
-| Population | Settlement Size | Base Value |
-| --- | --- | --- |
-| Fewer than 21 | Thorp | 50 gp |
-| 21–60 | Hamlet | 200 gp |
-| 61–200 | Village | 500 gp |
-| 201–2,000 | Small town | 1,000 gp |
-| 2,001–5,000 | Large town | 2,000 gp |
-| 5,001–10,000 | Small city | 4,000 gp |
-| 10,001–25,000 | Large city | 8,000 gp |
-| More than 25,000 | Metropolis | 16,000 gp |
+| Population       | Settlement Size | Base Value |
+| ---------------- | --------------- | ---------- |
+| Fewer than 21    | Thorp           | 50 gp      |
+| 21–60            | Hamlet          | 200 gp     |
+| 61–200           | Village         | 500 gp     |
+| 201–2,000        | Small town      | 1,000 gp   |
+| 2,001–5,000      | Large town      | 2,000 gp   |
+| 5,001–10,000     | Small city      | 4,000 gp   |
+| 10,001–25,000    | Large city      | 8,000 gp   |
+| More than 25,000 | Metropolis      | 16,000 gp  |
 
 ## Founding a Settlement
 
@@ -417,19 +417,19 @@ When you claim a hex that contains part of an ocean or lake, your claim includes
 
 **Table: Terrain and Terrain Improvements**
 
-| Terrain | Exploration Time<sup>1</sup> | Preparation Time<sup>2</sup> | Preparation Cost<sup>3</sup> | Farm Cost<sup>4</sup> | Road Cost<sup>5,6</sup> |
-| --- | --- | --- | --- | --- | --- |
-| Cavern<sup>7</sup> | 3 days | 3 months | 8 BP | — | 4 BP |
-| Coastline<sup>8</sup> | Special | Special | Special | Special | Special |
-| Desert | 2 days | 1 month | 4 BP | 8 BP | 4 BP |
-| Forest | 2 days | 2 months | 4 BP | — | 2 BP |
-| Hills | 1 day | 1 month | 2 BP | 4 BP | 3 BP |
-| Jungle | 2 days | 4 months | 12 BP | — | 4 BP |
-| Marsh | 3 days | 3 months | 8 BP | — | 4 BP |
-| Mountains | 3 days | 4 months | 12 BP | — | 4 BP |
-| Plains | 1 day | Immediate | 1 BP | 2 BP | 1 BP |
-| Water | 2 days | — | — | — | — |
-| <sup>1</sup> Exploration time represents how many days a typical scouting party requires to explore a hex of this type. These times assume a party speed of 30 feet. For parties with different speeds, see Exploration Time (1 Hex). Treat Cavern as Mountain and Jungle as Marsh for exploration time. Do not adjust the speed for Water hexes; it's assumed that the party is already using a boat or other watercraft to explore.<sup>2</sup> Preparation time represents the months of labor (beginning with the current turn) required to prepare the hex for settlement. Construction of buildings can begin in the current month for settlements built on plains.<sup>3</sup> Preparation cost represents the BP cost to clear a hex of this type in preparation for founding a settlement.<sup>4</sup> Farm cost represents the BP cost to cultivate a hex for farming. A Farm must be within or adjacent to a hex containing a river, lake, swamp, or Canal, or adjacent to at least 2 hexes that already contain Farms.<sup>5</sup> Road cost represents the BP cost to establish a Road that crosses a hex and connects to all adjacent hexes. The cost to build a Road doubles if the hex contains rivers. A kingdom with a Size of 26 or greater can build a Highway (or upgrade a Road to a Highway).<sup>6</sup> If the hex contains any rivers, double the listed cost to reflect the need to build bridges.<sup>7</sup> This is a large system of caves and underground passages and can be found in any terrain type except Marsh. It functions as an additional hex that exists underground, below the surface hex.<sup>8</sup> Treat this as the adjacent land terrain type for all purposes. |  |  |  |  |  |
+| Terrain                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Exploration Time<sup>1</sup> | Preparation Time<sup>2</sup> | Preparation Cost<sup>3</sup> | Farm Cost<sup>4</sup> | Road Cost<sup>5,6</sup> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- | ---------------------------- | ---------------------------- | --------------------- | ----------------------- |
+| Cavern<sup>7</sup>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 3 days                       | 3 months                     | 8 BP                         | —                     | 4 BP                    |
+| Coastline<sup>8</sup>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Special                      | Special                      | Special                      | Special               | Special                 |
+| Desert                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 2 days                       | 1 month                      | 4 BP                         | 8 BP                  | 4 BP                    |
+| Forest                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 2 days                       | 2 months                     | 4 BP                         | —                     | 2 BP                    |
+| Hills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 1 day                        | 1 month                      | 2 BP                         | 4 BP                  | 3 BP                    |
+| Jungle                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 2 days                       | 4 months                     | 12 BP                        | —                     | 4 BP                    |
+| Marsh                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 3 days                       | 3 months                     | 8 BP                         | —                     | 4 BP                    |
+| Mountains                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 3 days                       | 4 months                     | 12 BP                        | —                     | 4 BP                    |
+| Plains                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 1 day                        | Immediate                    | 1 BP                         | 2 BP                  | 1 BP                    |
+| Water                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 2 days                       | —                            | —                            | —                     | —                       |
+| <sup>1</sup> Exploration time represents how many days a typical scouting party requires to explore a hex of this type. These times assume a party speed of 30 feet. For parties with different speeds, see Exploration Time (1 Hex). Treat Cavern as Mountain and Jungle as Marsh for exploration time. Do not adjust the speed for Water hexes; it's assumed that the party is already using a boat or other watercraft to explore.<sup>2</sup> Preparation time represents the months of labor (beginning with the current turn) required to prepare the hex for settlement. Construction of buildings can begin in the current month for settlements built on plains.<sup>3</sup> Preparation cost represents the BP cost to clear a hex of this type in preparation for founding a settlement.<sup>4</sup> Farm cost represents the BP cost to cultivate a hex for farming. A Farm must be within or adjacent to a hex containing a river, lake, swamp, or Canal, or adjacent to at least 2 hexes that already contain Farms.<sup>5</sup> Road cost represents the BP cost to establish a Road that crosses a hex and connects to all adjacent hexes. The cost to build a Road doubles if the hex contains rivers. A kingdom with a Size of 26 or greater can build a Highway (or upgrade a Road to a Highway).<sup>6</sup> If the hex contains any rivers, double the listed cost to reflect the need to build bridges.<sup>7</sup> This is a large system of caves and underground passages and can be found in any terrain type except Marsh. It functions as an additional hex that exists underground, below the surface hex.<sup>8</sup> Treat this as the adjacent land terrain type for all purposes. |                              |                              |                              |                       |                         |
 
 ## Magic Items in Settlements
 
@@ -586,86 +586,86 @@ Once per Event phase, you can hire NPC adventurers to help deal with an event, g
 
 **Table: Event Type and Danger Level**
 
-| d% | Event |
-| --- | --- |
-| 01–02 | Natural blessing and roll again<sup>1</sup> |
-| 03–04 | Good weather and roll again<sup>1</sup> |
-| 05–25 | Beneficial kingdom event (Beneficial Kingdom Events table) |
-| 26–50 | Dangerous kingdom event (Dangerous Kingdom Events table) |
-| 51–75 | Beneficial settlement event (Beneficial Settlement Events table) |
-| 76–96 | Dangerous settlement event (Dangerous Settlement Events table) |
-| 97 | Bandit activity and roll again<sup>2</sup> |
-| 98 | Squatters and roll again<sup>2</sup> |
-| 99 | Monster attack and roll again<sup>2</sup> |
-| 100 | Vandals and roll again<sup>2</sup> |
-| <sup>1</sup> If the reroll indicates the same event, ignore the duplicate event and do not reroll again.<sup>2</sup> If the reroll indicates the same event, the second event occurs elsewhere in the kingdom. |  |
+| d%                                                                                                                                                                                                             | Event                                                            |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| 01–02                                                                                                                                                                                                          | Natural blessing and roll again<sup>1</sup>                      |
+| 03–04                                                                                                                                                                                                          | Good weather and roll again<sup>1</sup>                          |
+| 05–25                                                                                                                                                                                                          | Beneficial kingdom event (Beneficial Kingdom Events table)       |
+| 26–50                                                                                                                                                                                                          | Dangerous kingdom event (Dangerous Kingdom Events table)         |
+| 51–75                                                                                                                                                                                                          | Beneficial settlement event (Beneficial Settlement Events table) |
+| 76–96                                                                                                                                                                                                          | Dangerous settlement event (Dangerous Settlement Events table)   |
+| 97                                                                                                                                                                                                             | Bandit activity and roll again<sup>2</sup>                       |
+| 98                                                                                                                                                                                                             | Squatters and roll again<sup>2</sup>                             |
+| 99                                                                                                                                                                                                             | Monster attack and roll again<sup>2</sup>                        |
+| 100                                                                                                                                                                                                            | Vandals and roll again<sup>2</sup>                               |
+| <sup>1</sup> If the reroll indicates the same event, ignore the duplicate event and do not reroll again.<sup>2</sup> If the reroll indicates the same event, the second event occurs elsewhere in the kingdom. |                                                                  |
 
 **Table: Beneficial Kingdom Events**
 
-| d% | Event |
-| --- | --- |
-| 01–07 | Archaeological find |
-| 08–12 | Diplomatic overture |
-| 13–20 | Discovery |
-| 21–31 | Economic boom |
-| 32–39 | Festive invitation |
-| 40–53 | Food surplus |
-| 54–66 | Good weather |
-| 67–75 | Land rush |
-| 76–85 | Natural blessing |
-| 86–90 | New subjects |
-| 91–100 | Political calm |
+| d%     | Event               |
+| ------ | ------------------- |
+| 01–07  | Archaeological find |
+| 08–12  | Diplomatic overture |
+| 13–20  | Discovery           |
+| 21–31  | Economic boom       |
+| 32–39  | Festive invitation  |
+| 40–53  | Food surplus        |
+| 54–66  | Good weather        |
+| 67–75  | Land rush           |
+| 76–85  | Natural blessing    |
+| 86–90  | New subjects        |
+| 91–100 | Political calm      |
 
 **Table: Dangerous Kingdom Events**
 
-| d% | Event |
-| --- | --- |
-| 01–05 | Assassination attempt |
-| 06–18 | Bandit activity |
-| 19–28 | Feud |
-| 29–41 | Food shortage |
-| 42–51 | Improvement demand |
-| 52–59 | Inquisition |
-| 60–64 | Large disaster |
-| 65–76 | Monster attack |
-| 77–84 | Plague |
-| 85–92 | Public scandal |
-| 93–100 | Smugglers |
+| d%     | Event                 |
+| ------ | --------------------- |
+| 01–05  | Assassination attempt |
+| 06–18  | Bandit activity       |
+| 19–28  | Feud                  |
+| 29–41  | Food shortage         |
+| 42–51  | Improvement demand    |
+| 52–59  | Inquisition           |
+| 60–64  | Large disaster        |
+| 65–76  | Monster attack        |
+| 77–84  | Plague                |
+| 85–92  | Public scandal        |
+| 93–100 | Smugglers             |
 
 **Table: Beneficial Settlement Events**
 
-| d% | Event |
-| --- | --- |
-| 01–14 | Boomtown |
-| 15–26 | Discovery |
-| 27–40 | Justice prevails |
-| 41–46 | Noblesse oblige |
-| 47–58 | Outstanding success |
-| 59–66 | Pilgrimage |
-| 67–72 | Remarkable treasure |
-| 73–81 | Unexpected find |
-| 82–93 | Visiting celebrity |
-| 94–100 | Wealthy immigrant |
+| d%     | Event               |
+| ------ | ------------------- |
+| 01–14  | Boomtown            |
+| 15–26  | Discovery           |
+| 27–40  | Justice prevails    |
+| 41–46  | Noblesse oblige     |
+| 47–58  | Outstanding success |
+| 59–66  | Pilgrimage          |
+| 67–72  | Remarkable treasure |
+| 73–81  | Unexpected find     |
+| 82–93  | Visiting celebrity  |
+| 94–100 | Wealthy immigrant   |
 
 **Table: Dangerous Settlement Events**
 
-| d% | Event |
-| --- | --- |
-| 01–10 | Building demand |
-| 11–17 | Crop failure |
-| 18–25 | Cult activity |
-| 26–33 | Drug den |
-| 34–41 | Feud |
-| 42–49 | Inquisition |
-| 50–54 | Localized disaster |
-| 55–61 | Monster attack |
-| 62–66 | Plague |
-| 67–74 | Sensational crime |
-| 75–80 | Slavers |
-| 81–90 | Squatters |
-| 91–100 | Vandals |
+| d%     | Event              |
+| ------ | ------------------ |
+| 01–10  | Building demand    |
+| 11–17  | Crop failure       |
+| 18–25  | Cult activity      |
+| 26–33  | Drug den           |
+| 34–41  | Feud               |
+| 42–49  | Inquisition        |
+| 50–54  | Localized disaster |
+| 55–61  | Monster attack     |
+| 62–66  | Plague             |
+| 67–74  | Sensational crime  |
+| 75–80  | Slavers            |
+| 81–90  | Squatters          |
+| 91–100 | Vandals            |
 
-**Archaeological Find**: A well-preserved ruin is found in your kingdom, with historical artifacts connected to the people who lived in your land long ago. *Effect*: Lore +1. If you have a Museum, the discoverers donate 10,000 gp worth of historical artifacts to its collection (if you have multiple Museums, choose one as the recipient).
+**Archaeological Find**: A well-preserved ruin is found in your kingdom, with historical artifacts connected to the people who lived in your land long ago. _Effect_: Lore +1. If you have a Museum, the discoverers donate 10,000 gp worth of historical artifacts to its collection (if you have multiple Museums, choose one as the recipient).
 
 **Assassination Attempt**: One of your leaders (determined randomly) is the target of an assassination attempt. If the target is a PC, the GM should run the attempt as an encounter, using an assassin of a CR equal to the targeted PC's level. If the target is an NPC, you must succeed at a Stability check to prevent the assassination. If the assassination occurs, Unrest increases by 1d6 and the kingdom immediately incurs the penalties for not having a leader in that role.
 

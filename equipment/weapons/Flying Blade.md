@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/flails]
 
 # Flying Blade
 
-*Exotic two-handed melee weapon (performance, reach).* Cost 40 gp; Dmg 1d10 (S), 1d12 (M); Critical x3; Weight 12 lb.; Type Slashing. ^stats
+_Exotic two-handed melee weapon (performance, reach)._ Cost 40 gp; Dmg 1d10 (S), 1d12 (M); Critical x3; Weight 12 lb.; Type Slashing. ^stats
 
 A flying blade is a large, crescent-shaped blade anchored to a 10-foot chain. You fight with a flying blade by spinning it about your head or by snapping it toward an opponent. The flying blade is a clumsy weapon and receives a –2 penalty on attack rolls, but when you make attacks of opportunity provoked by movement, you receive a +2 bonus on attack rolls instead of the penalty.
 

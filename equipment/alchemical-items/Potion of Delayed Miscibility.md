@@ -22,9 +22,9 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Potion of Delayed Miscibility
 
-*Ingestible; Special*
+_Ingestible; Special_
 
-The user can drink this nonmagical potion while another potion is already in effect. He can then drink a third potion and its effects will not be visited upon his person until 1d2 rounds *after* the first potion’s effects have ended. This alchemical potion merely prevents any miscibility problems, internally or magically.
+The user can drink this nonmagical potion while another potion is already in effect. He can then drink a third potion and its effects will not be visited upon his person until 1d2 rounds _after_ the first potion’s effects have ended. This alchemical potion merely prevents any miscibility problems, internally or magically.
 
 **Construction**: No aura; CL 13th; [[rangoric-srd/feats/Brew Ingestibles|Brew Ingestibles]], [[rangoric-srd/feats/Brew Potion|Brew Potion]]; DC: 33; Price: 300 gp/1 oz.
 

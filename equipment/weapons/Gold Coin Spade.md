@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/pole-arms]
 
 # Gold Coin Spade
 
-*Martial two-handed melee weapon.* Cost 20 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Weight 7 lb.; Type Bludgeoning or slashing. ^stats
+_Martial two-handed melee weapon._ Cost 20 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Weight 7 lb.; Type Bludgeoning or slashing. ^stats
 
-(*Jin Qian Chan*): This polearm features a large, round, flat striking head in the shape of a large coin.
+(_Jin Qian Chan_): This polearm features a large, round, flat striking head in the shape of a large coin.

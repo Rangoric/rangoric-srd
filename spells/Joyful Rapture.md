@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Joyful Rapture
 
-*Conjuration (Healing) \[Emotion\]*
+_Conjuration (Healing) \[Emotion\]_
 
-  - **Level**: Brd 5, Clr 6, Mes 5, Psy 6, Skd 5, Sor/Wiz 7
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: 60 ft.
-  - **Area**: All allies and opponents within a 60-ft.-radius burst centered on you
-  - **Duration**: Instantaneous
-  - **Saving Throw**: No
-  - **Spell Resistance**: Yes
+- **Level**: Brd 5, Clr 6, Mes 5, Psy 6, Skd 5, Sor/Wiz 7
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: 60 ft.
+- **Area**: All allies and opponents within a 60-ft.-radius burst centered on you
+- **Duration**: Instantaneous
+- **Saving Throw**: No
+- **Spell Resistance**: Yes
 
 Your inspired words overwhelm others with transcendental bliss. All allies within the area of effect are freed from any harmful emotion effects. The spell also cures 1d4 points of Intelligence, Wisdom, or Charisma damage (your choice) to all allies in the area

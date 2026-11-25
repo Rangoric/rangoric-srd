@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Returning Weapon
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
 The vigilante has a signature type of thrown weapon that returns to him. Choose a type of thrown weapon, such as throwing axes. Whenever the vigilante uses that type of weapon, it automatically returns as if it had the [[rangoric-srd/magic-items/weapon-abilities/Returning|returning]] property.
 

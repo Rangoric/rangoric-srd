@@ -15,11 +15,11 @@ tags: [rangoric, rangoric/monster]
 
 # Alternate Zombie
 
-Zombies are the animated corpses of dead creatures, forced into foul unlife via necromantic magic like *[[rangoric-srd/spells/Animate Dead|animate dead]]*. While the most commonly encountered zombies are slow and tough, others possess a variety of traits, allowing them to spread disease or move with increased speed.
+Zombies are the animated corpses of dead creatures, forced into foul unlife via necromantic magic like _[[rangoric-srd/spells/Animate Dead|animate dead]]_. While the most commonly encountered zombies are slow and tough, others possess a variety of traits, allowing them to spread disease or move with increased speed.
 
 Zombies are unthinking automatons, and can do little more than follow orders. When left unattended, zombies tend to mill about in search of living creatures to slaughter and devour. Zombies attack until destroyed, having no regard for their own safety.
 
-Although capable of following orders, zombies are more often unleashed into an area with no command other than to kill living creatures. As a result, zombies are often encountered in packs, wandering around places the living frequent, looking for victims. Most zombies are created using *[[rangoric-srd/spells/Animate Dead|animate dead]]*. Such zombies are always of the standard type, unless the creator also casts *[[rangoric-srd/spells/Haste|haste]]* or *[[rangoric-srd/spells/Remove Paralysis|remove paralysis]]* to create fast zombies, or *[[rangoric-srd/spells/Contagion|contagion]]* to create plague zombies.
+Although capable of following orders, zombies are more often unleashed into an area with no command other than to kill living creatures. As a result, zombies are often encountered in packs, wandering around places the living frequent, looking for victims. Most zombies are created using _[[rangoric-srd/spells/Animate Dead|animate dead]]_. Such zombies are always of the standard type, unless the creator also casts _[[rangoric-srd/spells/Haste|haste]]_ or _[[rangoric-srd/spells/Remove Paralysis|remove paralysis]]_ to create fast zombies, or _[[rangoric-srd/spells/Contagion|contagion]]_ to create plague zombies.
 
 This is the second version of the zombie template; the first is [[rangoric-srd/monsters/zombie/Zombie|Zombie]]. Its sample is the [[rangoric-srd/monsters/zombie/Human Zombie|human zombie]].
 
@@ -29,20 +29,20 @@ This is the second version of the zombie template; the first is [[rangoric-srd/m
 
 **Challenge Rating**: This depends on the creature’s new total number of Hit Dice, as follows:
 
-| HD | CR |
-| --- | --- |
-| 1/2 | 1/8 |
-| 1 | 1/4 |
-| 2 | 1/2 |
-| 3–4 | 1 |
-| 5–6 | 2 |
-| 7–8 | 3 |
-| 9–10 | 4 |
-| 11–12 | 5 |
-| 13–16 | 6 |
-| 17–20 | 7 |
-| 21–24 | 8 |
-| 25–28 | 9 |
+| HD    | CR  |
+| ----- | --- |
+| 1/2   | 1/8 |
+| 1     | 1/4 |
+| 2     | 1/2 |
+| 3–4   | 1   |
+| 5–6   | 2   |
+| 7–8   | 3   |
+| 9–10  | 4   |
+| 11–12 | 5   |
+| 13–16 | 6   |
+| 17–20 | 7   |
+| 21–24 | 8   |
+| 25–28 | 9   |
 
 **Alignment**: Always neutral evil.
 
@@ -50,26 +50,26 @@ This is the second version of the zombie template; the first is [[rangoric-srd/m
 
 **Armor Class**: Natural armor is based on the zombie’s size:
 
-| Zombie Size | Natural Armor Bonus |
-| ----------- | ------------------- |
-| Tiny or smaller | +0 |
-| Small | +1 |
-| Medium | +2 |
-| Large | +3 |
-| Huge | +4 |
-| Gargantuan | +7 |
-| Colossal | +11 |
+| Zombie Size     | Natural Armor Bonus |
+| --------------- | ------------------- |
+| Tiny or smaller | +0                  |
+| Small           | +1                  |
+| Medium          | +2                  |
+| Large           | +3                  |
+| Huge            | +4                  |
+| Gargantuan      | +7                  |
+| Colossal        | +11                 |
 
 **Hit Dice**: Drop HD gained from class levels (minimum of 1) and change racial HD to d8s. Zombies gain a number of additional HD as noted on the following table.
 
-| Zombie Size | Bonus Hit Dice |
-| ----------- | -------------- |
-| Tiny or smaller | — |
-| Small or Medium | +1 HD |
-| Large | +2 HD |
-| Huge | +4 HD |
-| Gargantuan | +6 HD |
-| Colossal | +10 HD |
+| Zombie Size     | Bonus Hit Dice |
+| --------------- | -------------- |
+| Tiny or smaller | —              |
+| Small or Medium | +1 HD          |
+| Large           | +2 HD          |
+| Huge            | +4 HD          |
+| Gargantuan      | +6 HD          |
+| Colossal        | +10 HD         |
 
 Zombies use their Charisma modifiers to determine bonus hit points (instead of Constitution).
 
@@ -127,4 +127,4 @@ These zombies carry a terrible disease that perpetuates their undead lineage—t
 
 **[[rangoric-srd/monsters/abilities/Disease|Disease]] (Su)**: The slam attack—as well as any other natural attacks—of a plague zombie carries the zombie rot disease.
 
-[[rangoric-srd/rules/afflictions/Zombie Rot|Zombie rot]]: slam; *save* Fort DC = 10 + 1/2 the zombie’s Hit Dice + the zombie’s Cha modifier; *onset* 1d4 days; *frequency* 1/day; *effect* 1d2 Con, this damage cannot be healed while the creature is infected; *cure* 2 consecutive saves. Anyone who dies while infected rises as a plague zombie in 2d6 hours.
+[[rangoric-srd/rules/afflictions/Zombie Rot|Zombie rot]]: slam; _save_ Fort DC = 10 + 1/2 the zombie’s Hit Dice + the zombie’s Cha modifier; _onset_ 1d4 days; _frequency_ 1/day; _effect_ 1d2 Con, this damage cannot be healed while the creature is infected; _cure_ 2 consecutive saves. Anyone who dies while infected rises as a plague zombie in 2d6 hours.

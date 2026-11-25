@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Illusion School
 
-*An [[rangoric-srd/classes/Wizard#^wizard-arcane-school|arcane school]].*
+_An [[rangoric-srd/classes/Wizard#^wizard-arcane-school|arcane school]]._
 
 Illusionists use magic to weave confounding images, figments, and phantoms to baffle and vex their foes.
 
@@ -23,4 +23,4 @@ Illusionists use magic to weave confounding images, figments, and phantoms to ba
 
 **Blinding Ray (Sp)**: As a standard action you can fire a shimmering ray at any foe within 30 feet as a ranged touch attack. The ray causes creatures to be blinded for 1 round. Creatures with more Hit Dice than your wizard level are dazzled for 1 round instead. You can use this ability a number of times per day equal to 3 + your Intelligence modifier.
 
-**Invisibility Field (Sp)**: At 8th level, you can make yourself invisible as a swift action for a number of rounds per day equal to your wizard level. These rounds do not need to be consecutive. This otherwise functions as *greater invisibility*.
+**Invisibility Field (Sp)**: At 8th level, you can make yourself invisible as a swift action for a number of rounds per day equal to your wizard level. These rounds do not need to be consecutive. This otherwise functions as _greater invisibility_.

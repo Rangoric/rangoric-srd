@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Cemented Mind
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “cemented mind”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “cemented mind”, on the Special Qualities line.
 
 A soulbound shell can never change its known or prepared spells. The [[rangoric-srd/monsters/soulbound/Soulbound Shell|soulbound shell]] has it.

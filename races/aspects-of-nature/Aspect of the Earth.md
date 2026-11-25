@@ -28,10 +28,10 @@ Champions of the Earth Aspect see soil as an ever-present symbol of strength and
 
 How these effects work is in [[rangoric-srd/races/aspects-of-nature/Aspects of Nature#Aspect of Nature Effects|Aspect of Nature Effects]].
 
-| Facet | Bonus | Penalty |
-| --- | --- | --- |
-| The Caverns | practiced spell | amateur spell |
-| Fertile Soil | +1 to Fortitude saving throws | -1 to Reflex saving throws |
-| Mud | effective spellcasting (cold) | ineffective spellcasting (fire) |
-| Ooze | +1 to Attack rolls 3x/day | -1 to Damage rolls 3x/day |
-| Stone | capable spellcasting (acid) | crude spellcasting (electricity) |
+| Facet        | Bonus                         | Penalty                          |
+| ------------ | ----------------------------- | -------------------------------- |
+| The Caverns  | practiced spell               | amateur spell                    |
+| Fertile Soil | +1 to Fortitude saving throws | -1 to Reflex saving throws       |
+| Mud          | effective spellcasting (cold) | ineffective spellcasting (fire)  |
+| Ooze         | +1 to Attack rolls 3x/day     | -1 to Damage rolls 3x/day        |
+| Stone        | capable spellcasting (acid)   | crude spellcasting (electricity) |

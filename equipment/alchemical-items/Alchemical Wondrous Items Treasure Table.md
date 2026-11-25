@@ -16,26 +16,26 @@ The catalog’s treasure table for this category, by treasure level: roll d% in 
 
 ## Minor
 
-| d% | Item |
-|---|---|
+| d%    | Item                                                                                           |
+| ----- | ---------------------------------------------------------------------------------------------- |
 | 01-25 | [[rangoric-srd/equipment/alchemical-items/Bag of Herbal Harvesting\|Bag of Herbal Harvesting]] |
-| 26-50 | [[rangoric-srd/equipment/alchemical-items/Heating Plate\|Heating Plate]] |
-| 51-75 | [[rangoric-srd/equipment/alchemical-items/Potion Pendant\|Potion Pendant]] |
-| 76-00 | [[rangoric-srd/equipment/alchemical-items/Teas of the Emperor\|Teas of the Emperor]] |
+| 26-50 | [[rangoric-srd/equipment/alchemical-items/Heating Plate\|Heating Plate]]                       |
+| 51-75 | [[rangoric-srd/equipment/alchemical-items/Potion Pendant\|Potion Pendant]]                     |
+| 76-00 | [[rangoric-srd/equipment/alchemical-items/Teas of the Emperor\|Teas of the Emperor]]           |
 
 ## Medium
 
-| d% | Item |
-|---|---|
-| 01-20 | [[rangoric-srd/equipment/alchemical-items/Everburning Athanor\|Everburning Athanor]] |
-| 21-40 | [[rangoric-srd/equipment/alchemical-items/Quicksilver Lash\|Quicksilver Lash]] |
-| 41-60 | [[rangoric-srd/equipment/alchemical-items/Feedbag of Plenty\|Feedbag of Plenty]] |
+| d%    | Item                                                                                          |
+| ----- | --------------------------------------------------------------------------------------------- |
+| 01-20 | [[rangoric-srd/equipment/alchemical-items/Everburning Athanor\|Everburning Athanor]]          |
+| 21-40 | [[rangoric-srd/equipment/alchemical-items/Quicksilver Lash\|Quicksilver Lash]]                |
+| 41-60 | [[rangoric-srd/equipment/alchemical-items/Feedbag of Plenty\|Feedbag of Plenty]]              |
 | 61-80 | [[rangoric-srd/equipment/alchemical-items/Swathe Harness\|Swathe Harness (Defensive Swathe)]] |
-| 81-00 | [[rangoric-srd/equipment/alchemical-items/Bag of Swathe Holding\|Bag of Swathe Holding]] |
+| 81-00 | [[rangoric-srd/equipment/alchemical-items/Bag of Swathe Holding\|Bag of Swathe Holding]]      |
 
 ## Major
 
-| d% | Item |
-|---|---|
-| 01-50 | [[rangoric-srd/equipment/alchemical-items/Mystic Swathe\|Mystic Swathe]] |
+| d%    | Item                                                                           |
+| ----- | ------------------------------------------------------------------------------ |
+| 01-50 | [[rangoric-srd/equipment/alchemical-items/Mystic Swathe\|Mystic Swathe]]       |
 | 51-00 | [[rangoric-srd/equipment/alchemical-items/Temperant Bottle\|Temperant Bottle]] |

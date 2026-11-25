@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Minstrel
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 6d8+3 (30 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 17 (+4 armor, +2 Dex, +1 shield), touch 12, flat-footed 15
-  - **Base Attack**: +4; **CMB**: +5; **CMD**: 17
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Rapier|rapier]] +6 melee (1d6+1/18–20) or +1 [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +7 ranged (1d8+1/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Rapier|rapier]] +6 melee (1d6+1/18–20); or +1 [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +7 ranged (1d8+1/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Bard#^bardic-music|Bardic performance]] 24 rounds/day (countersong, distraction, fascinate \[DC 17\], inspire competence +2, inspire courage +2, suggestion \[DC 17\])
-  - **Special Qualities**: [[rangoric-srd/classes/Bard|Bardic knowledge]] +3, [[rangoric-srd/classes/Bard#^bard-lore-master|lore master]] 1/day, [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (oratory, string)
-  - **Saves**: Fort +2, Ref +7, Will +4 (+4 vs. bardic performance, language-dependent, and sonic)
-  - **Abilities**: Str 12, Dex 14, Con 10, Int 13, Wis 8, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Deception|Deception]] +18, [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Perception|Perception]] +8, Perform (oratory) +13, Perform (sing) +13, Perform (string) +18, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +11, [[rangoric-srd/skills/Society|Society]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Feats**: [[rangoric-srd/feats/Extra Performance|Extra Performance]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perform \[String\])
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 5
-  - **Treasure**: NPC gear (combat gear: scrolls of cure light wounds (2), disguise self (2), remove fear (2), pyrotechnics; other gear: masterwork chain shirt, masterwork buckler, +1 light crossbow with 10 bolts, masterwork rapier, masterwork harp)
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 6d8+3 (30 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 17 (+4 armor, +2 Dex, +1 shield), touch 12, flat-footed 15
+- **Base Attack**: +4; **CMB**: +5; **CMD**: 17
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Rapier|rapier]] +6 melee (1d6+1/18–20) or +1 [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +7 ranged (1d8+1/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Rapier|rapier]] +6 melee (1d6+1/18–20); or +1 [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +7 ranged (1d8+1/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Bard#^bardic-music|Bardic performance]] 24 rounds/day (countersong, distraction, fascinate \[DC 17\], inspire competence +2, inspire courage +2, suggestion \[DC 17\])
+- **Special Qualities**: [[rangoric-srd/classes/Bard|Bardic knowledge]] +3, [[rangoric-srd/classes/Bard#^bard-lore-master|lore master]] 1/day, [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (oratory, string)
+- **Saves**: Fort +2, Ref +7, Will +4 (+4 vs. bardic performance, language-dependent, and sonic)
+- **Abilities**: Str 12, Dex 14, Con 10, Int 13, Wis 8, Cha 18
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Deception|Deception]] +18, [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Perception|Perception]] +8, Perform (oratory) +13, Perform (sing) +13, Perform (string) +18, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +11, [[rangoric-srd/skills/Society|Society]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Extra Performance|Extra Performance]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perform \[String\])
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 5
+- **Treasure**: NPC gear (combat gear: scrolls of cure light wounds (2), disguise self (2), remove fear (2), pyrotechnics; other gear: masterwork chain shirt, masterwork buckler, +1 light crossbow with 10 bolts, masterwork rapier, masterwork harp)
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A minstrel is a [[rangoric-srd/monsters/human/Human|human]] with 6 levels of [[rangoric-srd/classes/Bard|bard]]. A minstrel is a professional bard, an accomplished performer used to playing at festivals and lordly tables. He is a versatile performer but specializes in song, story, and especially the playing of the lute, lyre, harp, and other stringed instruments.
 
@@ -70,4 +70,4 @@ A minstrel speaks Common, Dwarven, and Elven.
 
 ### Combat
 
-**Bard spells known** (CL 6th; concentration +10): 2nd (4/day)—*[[rangoric-srd/spells/Calm Emotions|calm emotions]]*, *[[rangoric-srd/spells/Enthrall|enthrall]]* (DC 16), *[[rangoric-srd/spells/Sound Burst|sound burst]]* (DC 16), *[[rangoric-srd/spells/Tongues|tongues]]*; 1st (5/day)—*[[rangoric-srd/spells/Charm Person|charm person]]* (DC 15), *[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]*, *[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]*, *[[rangoric-srd/spells/Grease|grease]]* (DC 15); 0 (at will)—*[[rangoric-srd/spells/Ghost Sound|ghost sound]]* (DC 14), *[[rangoric-srd/spells/Light|light]]*, *[[rangoric-srd/spells/Lullaby|lullaby]]*, *[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Resistance|resistance]]*, *[[rangoric-srd/spells/Summon Instrument|summon instrument]]*.
+**Bard spells known** (CL 6th; concentration +10): 2nd (4/day)—_[[rangoric-srd/spells/Calm Emotions|calm emotions]]_, _[[rangoric-srd/spells/Enthrall|enthrall]]_ (DC 16), _[[rangoric-srd/spells/Sound Burst|sound burst]]_ (DC 16), _[[rangoric-srd/spells/Tongues|tongues]]_; 1st (5/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 15), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]_, _[[rangoric-srd/spells/Grease|grease]]_ (DC 15); 0 (at will)—_[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 14), _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Lullaby|lullaby]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Resistance|resistance]]_, _[[rangoric-srd/spells/Summon Instrument|summon instrument]]_.

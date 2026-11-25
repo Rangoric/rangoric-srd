@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Enervation
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Blr 4, Mes 4, Sor/Wiz 4, Spi 4, Wit 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: Ray of negative energy
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Blr 4, Mes 4, Sor/Wiz 4, Spi 4, Wit 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: Ray of negative energy
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 You point your finger and utter the incantation, releasing a black ray of crackling negative energy that suppresses the life force of any living creature it strikes. You must make a ranged touch attack to hit. If the attack succeeds, the subject gains 1d4 temporary [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative levels]].
 

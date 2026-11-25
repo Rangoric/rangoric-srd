@@ -18,4 +18,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This enchantment grants the weapon a +5 luck bonus to a roll that determines whether a hit is a critical hit or not. This enchantment provides no bonus for normal attack rolls. Bows, crossbows, and slings so enchanted bestow this power upon their ammunition.
 
-Faint divination; CL 1st; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/True Strike|true strike]]*; Price +1 bonus.
+Faint divination; CL 1st; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/True Strike|true strike]]_; Price +1 bonus.

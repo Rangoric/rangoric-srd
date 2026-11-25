@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/bows]
 
 # Composite Longbow
 
-*Martial ranged weapon.* Cost 100 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Range Increment 110 ft.; Weight 3 lb.; Type Piercing. ^stats
+_Martial ranged weapon._ Cost 100 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Range Increment 110 ft.; Weight 3 lb.; Type Piercing. ^stats
 
 You need at least two hands to use a bow, regardless of its size. You can use a composite longbow while mounted. All composite bows are made with a particular strength rating (that is, each requires a minimum Strength modifier to use with proficiency). If your Strength bonus is less than the strength rating of the composite bow, you can’t effectively use it, so you take a –2 penalty on attacks with it. The default composite longbow requires a Strength modifier of +0 or higher to use with proficiency. A composite longbow can be made with a high strength rating to take advantage of an above-average Strength score; this feature allows you to add your Strength bonus to damage, up to the maximum bonus indicated for the bow. Each point of Strength bonus granted by the bow adds 100 gp to its cost.
 

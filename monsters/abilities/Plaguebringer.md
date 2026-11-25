@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Plaguebringer
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “plaguebringer”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “plaguebringer”, on the Special Attacks line.
 
 The creature increases the disease DC of rats (including rat kings, rat swarms, and dire rats) within 100 feet by +2. The [[rangoric-srd/monsters/Rat King|rat king]] has it.

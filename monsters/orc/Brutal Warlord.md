@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Brutal Warlord
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human, Orc)
-  - **Hit Dice**: 13d10+65 (141 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 27 (+10 armor, +2 Dex, +5 shield), touch 12, flat-footed 25
-  - **Base Attack**: +13; **CMB**: +19; **CMD**: 29
-  - **Attack**: +1 vicious flail +20 melee (1d8+10/19–20 plus 2d6) or lion's shield +23 melee (1d4+6 plus bull rush attempt) or +1 vicious flail +24 melee (1d8+10/19–20 plus 2d6) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Throwing Axe|throwing axe]] +19 ranged (1d6+5)
-  - **Full Attack**: +1 vicious flail +20/+15/+10 melee (1d8+10/19–20 plus 2d6) and lion's shield +23 melee (1d4+6 plus bull rush attempt); or +1 vicious flail +24/+19/+14 melee (1d8+10/19–20 plus 2d6); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Throwing Axe|throwing axe]] +19 ranged (1d6+5)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Lion's shield bite (free action, 3/day, +13/+8/+3, 2d6 damage), [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (heavy flails +3, close +2, thrown +1)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +3, [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 3, [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/races/Half-Orc|weapon familiarity]]
-  - **Saves**: Fort +15, Ref +9, Will +8 (+3 vs. fear)
-  - **Abilities**: Str 18, Dex 15, Con 18, Int 10, Wis 8, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +21, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14
-  - **Feats**: [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Disruptive|Disruptive]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (flail), [[rangoric-srd/feats/Improved Shield Bash|Improved Shield Bash]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Shield Focus|Shield Focus]], [[rangoric-srd/feats/Shield Master|Shield Master]], [[rangoric-srd/feats/Shield Slam|Shield Slam]], [[rangoric-srd/feats/Spellbreaker|Spellbreaker]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (flail), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (flail)
-  - **Environment**: Temperate hills, mountains, or underground
-  - **Organization**: Solitary, or with other half-orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])
-  - **Challenge Rating**: 12
-  - **Treasure**: NPC gear (combat gear: potion of bear's endurance, potion of cure moderate wounds, potion of heroism; other gear: +1 full plate, lion's shield, +1 vicious flail, masterwork throwing axe, throwing axes (2), belt of giant strength +2, cloak of resistance +1, 198 gp)
-  - **Alignment**: Lawful evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human, Orc)
+- **Hit Dice**: 13d10+65 (141 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 27 (+10 armor, +2 Dex, +5 shield), touch 12, flat-footed 25
+- **Base Attack**: +13; **CMB**: +19; **CMD**: 29
+- **Attack**: +1 vicious flail +20 melee (1d8+10/19–20 plus 2d6) or lion's shield +23 melee (1d4+6 plus bull rush attempt) or +1 vicious flail +24 melee (1d8+10/19–20 plus 2d6) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Throwing Axe|throwing axe]] +19 ranged (1d6+5)
+- **Full Attack**: +1 vicious flail +20/+15/+10 melee (1d8+10/19–20 plus 2d6) and lion's shield +23 melee (1d4+6 plus bull rush attempt); or +1 vicious flail +24/+19/+14 melee (1d8+10/19–20 plus 2d6); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Throwing Axe|throwing axe]] +19 ranged (1d6+5)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Lion's shield bite (free action, 3/day, +13/+8/+3, 2d6 damage), [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (heavy flails +3, close +2, thrown +1)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +3, [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 3, [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/races/Half-Orc|weapon familiarity]]
+- **Saves**: Fort +15, Ref +9, Will +8 (+3 vs. fear)
+- **Abilities**: Str 18, Dex 15, Con 18, Int 10, Wis 8, Cha 12
+- **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +21, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14
+- **Feats**: [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Disruptive|Disruptive]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (flail), [[rangoric-srd/feats/Improved Shield Bash|Improved Shield Bash]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Shield Focus|Shield Focus]], [[rangoric-srd/feats/Shield Master|Shield Master]], [[rangoric-srd/feats/Shield Slam|Shield Slam]], [[rangoric-srd/feats/Spellbreaker|Spellbreaker]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (flail), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (flail)
+- **Environment**: Temperate hills, mountains, or underground
+- **Organization**: Solitary, or with other half-orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])
+- **Challenge Rating**: 12
+- **Treasure**: NPC gear (combat gear: potion of bear's endurance, potion of cure moderate wounds, potion of heroism; other gear: +1 full plate, lion's shield, +1 vicious flail, masterwork throwing axe, throwing axes (2), belt of giant strength +2, cloak of resistance +1, 198 gp)
+- **Alignment**: Lawful evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A brutal warlord is a [[rangoric-srd/monsters/orc/Orc#Half-Orcs|half-orc]] with 13 levels of [[rangoric-srd/classes/Fighter|fighter]]. Serving as a leader to orcs, half-orcs, or other barbaric forces, the brutal warlord uses her martial control to shape the battlefield.
 

@@ -21,9 +21,9 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Erlixir of Trees’ Voice
 
-*Erlcana, Greater; Special*
+_Erlcana, Greater; Special_
 
-The Erlixir of Trees’ Voice permanently grants the imbiber the ability to *speak with plants* as per the spell or native ability of some fey or plant creatures.
+The Erlixir of Trees’ Voice permanently grants the imbiber the ability to _speak with plants_ as per the spell or native ability of some fey or plant creatures.
 
 This thin, watery erlixir looks like violet-impregnated water and smells the same, though viewing it by darkvision or low-light vision shows some glowing akin to luminescent mosses. It comes in a small, thin ceramic vial shaped like a thick stemmed rose with a pair of female lips formed among the rose petals (the rose head being the stopper).
 

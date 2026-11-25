@@ -17,15 +17,15 @@ tags: [rangoric, rangoric/class-option]
 
 # Quick Disguise
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex).*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex)._
 
 A character with this talent can use the items at hand and seemingly innocuous material hidden on her person to create startlingly effective disguises, reducing the amount of time it takes to create a disguise using the Imitation skill.
 
-The time needed for the character to alter her appearance in this manner is based on the complexity of the disguise, as noted on the following table. The times are cumulative, so if a female character wants to disguise herself as a male of a different race, that takes 2 minutes.  
+The time needed for the character to alter her appearance in this manner is based on the complexity of the disguise, as noted on the following table. The times are cumulative, so if a female character wants to disguise herself as a male of a different race, that takes 2 minutes.
 
-| **Disguise**                          | **Time**            |
-|---------------------------------------|---------------------|
-| Minor details only                    | 1 full-round action |
+| **Disguise**                           | **Time**            |
+| -------------------------------------- | ------------------- |
+| Minor details only                     | 1 full-round action |
 | Imitation as a different gender        | 1 minute            |
 | Imitation as a different race          | 1 minute            |
 | Imitation as a different age category  | 1 minute            |

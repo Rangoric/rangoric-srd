@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Undersized Weapons
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “undersized weapons”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “undersized weapons”, on the Special Qualities line.
 
 The creature uses manufactured weapons as if it were one size category smaller than the creature's actual size.

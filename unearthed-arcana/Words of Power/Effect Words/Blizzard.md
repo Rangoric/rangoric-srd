@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/word-of-power]
 
 # Blizzard
 
-*One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Weather Words|Weather group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]].*
+_One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Weather Words|Weather group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]]._
 
 **School** conjuration (creation)
 
@@ -29,6 +29,6 @@ tags: [rangoric, rangoric/word-of-power]
 
 **Target Restrictions** burst (emanation)
 
-This effect word causes heavy snow to fall in the area of effect. This provides concealment as the *[[rangoric-srd/unearthed-arcana/Words of Power/Effect Words/Fog Bank|fog bank]]* effect word, but it cannot be removed by wind. In addition, the ground in the area of effect is treated as difficult terrain for the duration and as being very slippery for the purposes of [[rangoric-srd/skills/Acrobatics|Acrobatics]] and [[rangoric-srd/skills/Athletics|Athletics]] skill checks.
+This effect word causes heavy snow to fall in the area of effect. This provides concealment as the _[[rangoric-srd/unearthed-arcana/Words of Power/Effect Words/Fog Bank|fog bank]]_ effect word, but it cannot be removed by wind. In addition, the ground in the area of effect is treated as difficult terrain for the duration and as being very slippery for the purposes of [[rangoric-srd/skills/Acrobatics|Acrobatics]] and [[rangoric-srd/skills/Athletics|Athletics]] skill checks.
 
 **Boost**: Each creature in the area of effect takes 2d6 points of cold damage each round at the end of its turn. Boosting this effect word increases its level by 1.

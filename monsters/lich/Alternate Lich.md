@@ -45,28 +45,28 @@ tags: [rangoric, rangoric/monster]
 
 # Alternate Lich
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Augmented Humanoid)
-  - **Hit Dice**: 11d6+55 plus 15 false life (111 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 23 (+4 armor, +2 deflection, +2 Dex, +5 natural), touch 14, flat-footed 21
-  - **Base Attack**: +5; **CMB**: +5; **CMD**: 25
-  - **Attack**: Touch +5 melee (1d8+5 plus paralyzing touch)
-  - **Full Attack**: Touch +5 melee (1d8+5 plus paralyzing touch)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Grave touch* (9/day), [[rangoric-srd/monsters/lich/Alternate Lich#^paralyzing-touch|paralyzing touch]] (DC 18), power over undead* (9/day, DC 18)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., life sight*, [[rangoric-srd/monsters/abilities/Fear|fear]] (60-ft. radius, DC 18), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/bludgeoning and magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and electricity, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-  - **Saves**: Fort +6, Ref +7, Will +11
-  - **Abilities**: Str 10, Dex 14, Con —, Int 22, Wis 14, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +20, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Linguistics|Linguistics]] +20, [[rangoric-srd/skills/Mysticism|Mysticism]] +20, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +24, [[rangoric-srd/skills/Stealth|Stealth]] +24, [[rangoric-srd/skills/Theology|Theology]] +20
-  - **Feats**: [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Defensive Combat Training|Defensive Combat Training]], [[rangoric-srd/feats/Extend Spell|Extend Spell]], [[rangoric-srd/feats/Improved Lightning Reflexes|Improved Lightning Reflexes]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Maximize Spell|Maximize Spell]], [[rangoric-srd/feats/Quicken Spell|Quicken Spell]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 12
-  - **Treasure**: NPC gear (boots of levitation, headband of vast intelligence +2 [Perception], ring of protection +2, potion of invisibility, scroll of dominate person, scroll of teleport)
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Augmented Humanoid)
+- **Hit Dice**: 11d6+55 plus 15 false life (111 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 23 (+4 armor, +2 deflection, +2 Dex, +5 natural), touch 14, flat-footed 21
+- **Base Attack**: +5; **CMB**: +5; **CMD**: 25
+- **Attack**: Touch +5 melee (1d8+5 plus paralyzing touch)
+- **Full Attack**: Touch +5 melee (1d8+5 plus paralyzing touch)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Grave touch* (9/day), [[rangoric-srd/monsters/lich/Alternate Lich#^paralyzing-touch|paralyzing touch]] (DC 18), power over undead* (9/day, DC 18)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., life sight\*, [[rangoric-srd/monsters/abilities/Fear|fear]] (60-ft. radius, DC 18), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/bludgeoning and magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and electricity, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
+- **Saves**: Fort +6, Ref +7, Will +11
+- **Abilities**: Str 10, Dex 14, Con —, Int 22, Wis 14, Cha 16
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +20, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Linguistics|Linguistics]] +20, [[rangoric-srd/skills/Mysticism|Mysticism]] +20, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +24, [[rangoric-srd/skills/Stealth|Stealth]] +24, [[rangoric-srd/skills/Theology|Theology]] +20
+- **Feats**: [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Defensive Combat Training|Defensive Combat Training]], [[rangoric-srd/feats/Extend Spell|Extend Spell]], [[rangoric-srd/feats/Improved Lightning Reflexes|Improved Lightning Reflexes]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Maximize Spell|Maximize Spell]], [[rangoric-srd/feats/Quicken Spell|Quicken Spell]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 12
+- **Treasure**: NPC gear (boots of levitation, headband of vast intelligence +2 [Perception], ring of protection +2, potion of invisibility, scroll of dominate person, scroll of teleport)
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The lich above is a human lich with 11 levels of [[rangoric-srd/classes/Wizard|wizard]] (a necromancer).
 
@@ -110,7 +110,7 @@ Other forms of phylacteries can exist, such as rings, amulets, or similar items.
 
 **Fear Aura (Su)**: Creatures of less than 5 HD in a 60-foot radius that look at the lich must succeed on a Will save or become [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]]. Creatures with 5 HD or more must succeed at a Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for a number of rounds equal to the lich's Hit Dice. A creature that successfully saves cannot be affected again by the same lich's aura for 24 hours. This is a mind-affecting fear effect. ^fear-aura
 
-**Paralyzing Touch (Su)**: Any living creature a lich hits with its touch attack must succeed on a Fortitude save or be permanently [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]]. *[[rangoric-srd/spells/Remove Paralysis|Remove paralysis]]* or any spell that can remove a curse can free the victim (see the *[[rangoric-srd/spells/Bestow Curse|bestow curse]]* spell description, with a DC equal to the lich's save DC). The effect cannot be dispelled. Anyone paralyzed by a lich seems dead, though a DC 20 Perception check or a DC 15 Medicine check reveals that the victim is still alive. ^paralyzing-touch
+**Paralyzing Touch (Su)**: Any living creature a lich hits with its touch attack must succeed on a Fortitude save or be permanently [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]]. _[[rangoric-srd/spells/Remove Paralysis|Remove paralysis]]_ or any spell that can remove a curse can free the victim (see the _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ spell description, with a DC equal to the lich's save DC). The effect cannot be dispelled. Anyone paralyzed by a lich seems dead, though a DC 20 Perception check or a DC 15 Medicine check reveals that the victim is still alive. ^paralyzing-touch
 
 **Abilities**: Int +2, Wis +2, Cha +2. Being undead, a lich has no Constitution score.
 
@@ -120,4 +120,4 @@ Liches speak Abyssal, Aklo, Aquan, Celestial, Common, Draconic, Dwarven, Elven, 
 
 ### Combat
 
-**Spells prepared** (CL 11th): 6th—*[[rangoric-srd/spells/Circle of Death|circle of death]]*(DC 22), *[[rangoric-srd/spells/Globe of Invulnerability|globe of invulnerability]]*, maximized *[[rangoric-srd/spells/Fireball|fireball]]* (DC 19); 5th—*[[rangoric-srd/spells/Cloudkill|cloudkill]]*(DC 21), *[[rangoric-srd/spells/Cone of Cold|cone of cold]]*(DC 21), quickened *[[rangoric-srd/spells/Magic Missile|magic missile]], [[rangoric-srd/spells/Waves of Fatigue|waves of fatigue]]*; 4th—*[[rangoric-srd/spells/Dimension Door|dimension door]], [[rangoric-srd/spells/Enervation|enervation]], [[rangoric-srd/spells/Fire Shield|fire shield]], [[rangoric-srd/spells/Wall of Ice|wall of ice]]* (2); 3rd—*[[rangoric-srd/spells/Dispel Magic|dispel magic]]*(2), *[[rangoric-srd/spells/Fireball|fireball]]*(DC 19), *[[rangoric-srd/spells/Suggestion|suggestion]]*(DC 19), *[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]*(2); 2nd—*[[rangoric-srd/spells/Darkness|darkness]]*, extended *[[rangoric-srd/spells/Mage Armor|mage armor]]*(already cast)*, [[rangoric-srd/spells/False Life|false life]]* (already cast)*, [[rangoric-srd/spells/Scorching Ray|scorching ray]]* (2), *[[rangoric-srd/spells/See Invisibility|see invisibility]], [[rangoric-srd/spells/Spectral Hand|spectral hand]]*; 1st—*[[rangoric-srd/spells/Magic Missile|magic missile]]*(3), *[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]*(2), *[[rangoric-srd/spells/Shield|shield]]* (2); 0—*[[rangoric-srd/spells/Bleed|bleed]]*(DC 16), *[[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Ray of Frost|ray of frost]], [[rangoric-srd/spells/Read Magic|read magic]]*; **Opposition Schools** illusion, transmutation.
+**Spells prepared** (CL 11th): 6th—_[[rangoric-srd/spells/Circle of Death|circle of death]]_(DC 22), _[[rangoric-srd/spells/Globe of Invulnerability|globe of invulnerability]]_, maximized _[[rangoric-srd/spells/Fireball|fireball]]_ (DC 19); 5th—_[[rangoric-srd/spells/Cloudkill|cloudkill]]_(DC 21), _[[rangoric-srd/spells/Cone of Cold|cone of cold]]_(DC 21), quickened _[[rangoric-srd/spells/Magic Missile|magic missile]], [[rangoric-srd/spells/Waves of Fatigue|waves of fatigue]]_; 4th—_[[rangoric-srd/spells/Dimension Door|dimension door]], [[rangoric-srd/spells/Enervation|enervation]], [[rangoric-srd/spells/Fire Shield|fire shield]], [[rangoric-srd/spells/Wall of Ice|wall of ice]]_ (2); 3rd—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_(2), _[[rangoric-srd/spells/Fireball|fireball]]_(DC 19), _[[rangoric-srd/spells/Suggestion|suggestion]]_(DC 19), _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_(2); 2nd—_[[rangoric-srd/spells/Darkness|darkness]]_, extended _[[rangoric-srd/spells/Mage Armor|mage armor]]_(already cast)_, [[rangoric-srd/spells/False Life|false life]]_ (already cast)_, [[rangoric-srd/spells/Scorching Ray|scorching ray]]_ (2), _[[rangoric-srd/spells/See Invisibility|see invisibility]], [[rangoric-srd/spells/Spectral Hand|spectral hand]]_; 1st—_[[rangoric-srd/spells/Magic Missile|magic missile]]_(3), _[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]_(2), _[[rangoric-srd/spells/Shield|shield]]_ (2); 0—_[[rangoric-srd/spells/Bleed|bleed]]_(DC 16), _[[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Ray of Frost|ray of frost]], [[rangoric-srd/spells/Read Magic|read magic]]_; **Opposition Schools** illusion, transmutation.

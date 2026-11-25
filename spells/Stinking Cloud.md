@@ -30,19 +30,19 @@ tags: [rangoric, rangoric/spell]
 
 # Stinking Cloud
 
-*Conjuration (Creation)*
+_Conjuration (Creation)_
 
-  - **Level**: Blr 3, Mag 3, Sha 3, Sor/Wiz 3, SumU 3, Wit 3
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Effect**: Cloud spreads in 20-ft. radius, 20 ft. high
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Fortitude negates; see text
-  - **Spell Resistance**: No
+- **Level**: Blr 3, Mag 3, Sha 3, Sor/Wiz 3, SumU 3, Wit 3
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Effect**: Cloud spreads in 20-ft. radius, 20 ft. high
+- **Duration**: 1 round/level
+- **Saving Throw**: Fortitude negates; see text
+- **Spell Resistance**: No
 
 Stinking cloud creates a bank of fog like that created by fog cloud, except that the vapors are nauseating. Living creatures in the cloud become [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]]. This condition lasts as long as the creature is in the cloud and for 1d4+1 rounds after it leaves. (Roll separately for each nauseated character.) Any creature that succeeds on its save but remains in the cloud must continue to save each round on your turn.
 
 Stinking cloud can be made permanent with a permanency spell. A permanent stinking cloud dispersed by wind reforms in 10 minutes.
 
-*Material Component*: A rotten egg or several skunk cabbage leaves.
+_Material Component_: A rotten egg or several skunk cabbage leaves.

@@ -11,13 +11,13 @@ tags: [rangoric, rangoric/monster]
 
 # Fungus
 
-  - [[rangoric-srd/monsters/fungus/Ascomoid|Ascomoid]]
-  - [[rangoric-srd/monsters/fungus/Cerebric Fungus|Cerebric Fungus]]
-  - [[rangoric-srd/monsters/fungus/Mindslaver Mold|Mindslaver Mold]]
-  - [[rangoric-srd/monsters/fungus/Myceloid|Myceloid]]
-  - [[rangoric-srd/monsters/fungus/Phycomid|Phycomid]]
-  - [[rangoric-srd/monsters/fungus/Shrieker|Shrieker]]
-  - [[rangoric-srd/monsters/fungus/Violet Fungus|Violet Fungus]]
+- [[rangoric-srd/monsters/fungus/Ascomoid|Ascomoid]]
+- [[rangoric-srd/monsters/fungus/Cerebric Fungus|Cerebric Fungus]]
+- [[rangoric-srd/monsters/fungus/Mindslaver Mold|Mindslaver Mold]]
+- [[rangoric-srd/monsters/fungus/Myceloid|Myceloid]]
+- [[rangoric-srd/monsters/fungus/Phycomid|Phycomid]]
+- [[rangoric-srd/monsters/fungus/Shrieker|Shrieker]]
+- [[rangoric-srd/monsters/fungus/Violet Fungus|Violet Fungus]]
 
 ### Combat
 

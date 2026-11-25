@@ -35,7 +35,7 @@ The epic infiltrator’s class skills (and the key ability for each skill) are [
 
 Skill Points at Each Level: 8 + Int modifier.
 
-Table: The Epic Infiltrator  
+Table: The Epic Infiltrator
 
 | Level | Special                                          |
 | ----- | ------------------------------------------------ |
@@ -52,7 +52,7 @@ Table: The Epic Infiltrator
 
 ###### Class Features
 
-The following are class features of the epic infiltrator prestige class.  
+The following are class features of the epic infiltrator prestige class.
 
 Weapon and Armor Proficiency: An epic infiltrator is proficient with all simple and martial weapons, all armor, and shields.
 

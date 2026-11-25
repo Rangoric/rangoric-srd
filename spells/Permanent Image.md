@@ -22,12 +22,12 @@ tags: [rangoric, rangoric/spell]
 
 # Permanent Image
 
-*Illusion (Figment)*
+_Illusion (Figment)_
 
-  - **Level**: Brd 6, Mes 6, Occ 6, Psy 6, Skd 6, Sor/Wiz 6
-  - **Effect**: Figment that cannot extend beyond a 20-ft. cube + one 10-ft. cube/level (S)
-  - **Duration**: Permanent (D)
+- **Level**: Brd 6, Mes 6, Occ 6, Psy 6, Skd 6, Sor/Wiz 6
+- **Effect**: Figment that cannot extend beyond a 20-ft. cube + one 10-ft. cube/level (S)
+- **Duration**: Permanent (D)
 
 This spell functions like [[rangoric-srd/spells/Silent Image|silent image]], except that the figment includes visual, auditory, olfactory, and thermal elements, and the spell is permanent. By concentrating, you can move the image within the limits of the range, but it is static while you are not concentrating.
 
-*Material Component*: A bit of fleece plus powdered jade worth 100 gp.
+_Material Component_: A bit of fleece plus powdered jade worth 100 gp.

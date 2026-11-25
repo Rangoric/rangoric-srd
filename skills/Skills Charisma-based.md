@@ -13,9 +13,9 @@ tags: [rangoric, rangoric/overview]
 
 ## Charisma-Based
 
-  - [[rangoric-srd/skills/Animal Handling|Animal Handling]]
-  - [[rangoric-srd/skills/Deception|Deception]]
-  - [[rangoric-srd/skills/Emulation|Emulation]]
-  - [[rangoric-srd/skills/Intimidation|Intimidation]]
-  - [[rangoric-srd/skills/Performance|Performance]]
-  - [[rangoric-srd/skills/Persuasion|Persuasion]]
+- [[rangoric-srd/skills/Animal Handling|Animal Handling]]
+- [[rangoric-srd/skills/Deception|Deception]]
+- [[rangoric-srd/skills/Emulation|Emulation]]
+- [[rangoric-srd/skills/Intimidation|Intimidation]]
+- [[rangoric-srd/skills/Performance|Performance]]
+- [[rangoric-srd/skills/Persuasion|Persuasion]]

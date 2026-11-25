@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Doomsayer
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 3d6 (10 hp)
-  - **Initiative**: –1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 11 (+2 armor, –1 Dex), touch 9, flat-footed 11
-  - **Base Attack**: +1; **CMB**: +1; **CMD**: 10
-  - **Attack**: [[rangoric-srd/equipment/weapons/Sickle|Sickle]] +1 melee (1d6) or [[rangoric-srd/equipment/weapons/Dart|dart]] +0 ranged (1d4)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Sickle|Sickle]] +1 melee (1d6); or [[rangoric-srd/equipment/weapons/Dart|dart]] +0 ranged (1d4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/classes/Adept|Summon familiar]] (toad)
-  - **Saves**: Fort +1, Ref +0, Will +5
-  - **Abilities**: Str 11, Dex 9, Con 10, Int 8, Wis 15, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +3, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Perception|Perception]] +5, Perform (oratory) +2, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Profession|Profession]] (scribe) +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Theology|Theology]] +3
-  - **Feats**: [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Intimidation, Persuasion)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 1
-  - **Treasure**: NPC gear (combat gear: scrolls of cause fear (4), command (4), cure light wounds (4), sleep (4); other gear: leather armor, sickle, darts (4))
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 3d6 (10 hp)
+- **Initiative**: –1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 11 (+2 armor, –1 Dex), touch 9, flat-footed 11
+- **Base Attack**: +1; **CMB**: +1; **CMD**: 10
+- **Attack**: [[rangoric-srd/equipment/weapons/Sickle|Sickle]] +1 melee (1d6) or [[rangoric-srd/equipment/weapons/Dart|dart]] +0 ranged (1d4)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Sickle|Sickle]] +1 melee (1d6); or [[rangoric-srd/equipment/weapons/Dart|dart]] +0 ranged (1d4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/classes/Adept|Summon familiar]] (toad)
+- **Saves**: Fort +1, Ref +0, Will +5
+- **Abilities**: Str 11, Dex 9, Con 10, Int 8, Wis 15, Cha 12
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +3, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Perception|Perception]] +5, Perform (oratory) +2, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Profession|Profession]] (scribe) +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Theology|Theology]] +3
+- **Feats**: [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Intimidation, Persuasion)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 1
+- **Treasure**: NPC gear (combat gear: scrolls of cause fear (4), command (4), cure light wounds (4), sleep (4); other gear: leather armor, sickle, darts (4))
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A doomsayer is a [[rangoric-srd/monsters/human/Human|human]] with 3 levels of [[rangoric-srd/classes/Adept|adept]]. Doomsayers are ranting demagogues who continuously predict doom, cataclysm, and ruin, crying in the town square and distributing pamphlets in literate communities. A doomsayer may build up a cult of personality, but they are happiest when they can ensure that others are miserable.
 
@@ -72,4 +72,4 @@ A doomsayer speaks Common.
 
 ### Combat
 
-**Adept spells prepared** (CL 3rd; concentration +5): 1st—*[[rangoric-srd/spells/Bless|bless]]*, *[[rangoric-srd/spells/Burning Hands|burning hands]]* (DC 13), *[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]*; 0—*[[rangoric-srd/spells/Ghost Sound|ghost sound]]* (DC 12), *[[rangoric-srd/spells/Guidance|guidance]]*, *[[rangoric-srd/spells/Touch of Fatigue|touch of fatigue]]* (DC 12).
+**Adept spells prepared** (CL 3rd; concentration +5): 1st—_[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Burning Hands|burning hands]]_ (DC 13), _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_; 0—_[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 12), _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Touch of Fatigue|touch of fatigue]]_ (DC 12).

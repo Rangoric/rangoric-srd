@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Flame Dancer
 
-*A [[rangoric-srd/classes/Bard#^bard-archetypes|bard]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Bard#^bard-archetypes|bard]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A flame dancer studies the movements of fire, adding its grace to his repertoire. He seeks truth in fire’s burning essence, and uses his performance to unleash the power of fire against those who dare oppose him.
 
@@ -31,4 +31,4 @@ A flame dancer studies the movements of fire, adding its grace to his repertoire
 
 **Fire Break (Su)**: At 6th level, a fire dancer’s performance can bend flames away from others. Any ally within 30 feet of the bard who can hear or see the bardic performance gains [[rangoric-srd/rules/Special Abilities and Conditions#Resistance to Energy|resist fire]] 20 as long as the performance is maintained. At 11th level, this resistance increases to 30. Fire break relies on audible or visual components. This ability replaces [[rangoric-srd/classes/Bard#^bard-suggestion|suggestion]].
 
-**Fan the Flames (Su)**: At 8th level, a fire dancer adds *[[rangoric-srd/spells/Burning Hands|burning hands]]*, *[[rangoric-srd/spells/Flaming Sphere|flaming sphere]]*, and *[[rangoric-srd/spells/Fireball|fireball]]* to his list of bard spells known (as a 1st-, a 2nd-, and a 3rd-level spell, respectively). This ability replaces [[rangoric-srd/classes/Bard#^bard-dirge-of-doom|dirge of doom]].
+**Fan the Flames (Su)**: At 8th level, a fire dancer adds _[[rangoric-srd/spells/Burning Hands|burning hands]]_, _[[rangoric-srd/spells/Flaming Sphere|flaming sphere]]_, and _[[rangoric-srd/spells/Fireball|fireball]]_ to his list of bard spells known (as a 1st-, a 2nd-, and a 3rd-level spell, respectively). This ability replaces [[rangoric-srd/classes/Bard#^bard-dirge-of-doom|dirge of doom]].

@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Foot Soldier
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 1d10+3 (8 hp)
-  - **Initiative**: +1
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 17 (+6 armor, +1 Dex), touch 11, flat-footed 16
-  - **Base Attack**: +1; **CMB**: +3; **CMD**: 14
-  - **Attack**: [[rangoric-srd/equipment/weapons/Longspear|Longspear]] +3 melee (1d8+3/×3) or [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +3 melee (2d6+3/19–20) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 melee (1d4+2/19–20) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +2 ranged (1d6+2)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Longspear|Longspear]] +3 melee (1d8+3/×3); or [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +3 melee (2d6+3/19–20); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 melee (1d4+2/19–20); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +2 ranged (1d6+2)
-  - **Space/Reach**: 5 ft./5 ft. (10 ft. with longspear)
-  - **Special Attacks**: —
-  - **Special Qualities**: —
-  - **Saves**: Fort +2, Ref +1, Will +0
-  - **Abilities**: Str 15, Dex 12, Con 11, Int 8, Wis 10, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (weapons) +3, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +1, [[rangoric-srd/skills/Profession|Profession]] (soldier) +4
-  - **Feats**: [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 1/3
-  - **Treasure**: NPC gear (combat gear: potion of cure light wounds; other gear: chainmail, greatsword, dagger, javelin, longspear, 2 gp)
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 1d10+3 (8 hp)
+- **Initiative**: +1
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 17 (+6 armor, +1 Dex), touch 11, flat-footed 16
+- **Base Attack**: +1; **CMB**: +3; **CMD**: 14
+- **Attack**: [[rangoric-srd/equipment/weapons/Longspear|Longspear]] +3 melee (1d8+3/×3) or [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +3 melee (2d6+3/19–20) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 melee (1d4+2/19–20) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +2 ranged (1d6+2)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Longspear|Longspear]] +3 melee (1d8+3/×3); or [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +3 melee (2d6+3/19–20); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 melee (1d4+2/19–20); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +2 ranged (1d6+2)
+- **Space/Reach**: 5 ft./5 ft. (10 ft. with longspear)
+- **Special Attacks**: —
+- **Special Qualities**: —
+- **Saves**: Fort +2, Ref +1, Will +0
+- **Abilities**: Str 15, Dex 12, Con 11, Int 8, Wis 10, Cha 9
+- **Skills**: [[rangoric-srd/skills/Craft|Craft]] (weapons) +3, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +1, [[rangoric-srd/skills/Profession|Profession]] (soldier) +4
+- **Feats**: [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 1/3
+- **Treasure**: NPC gear (combat gear: potion of cure light wounds; other gear: chainmail, greatsword, dagger, javelin, longspear, 2 gp)
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A foot soldier is a [[rangoric-srd/monsters/human/Human|human]] with 1 level of [[rangoric-srd/classes/Warrior|warrior]]. Foot soldiers are the backbone of any army, stout soldiers who “hold the line” in the face of the enemy's charge with a bristling wall of pikes, decimate an opposing force's ranks with a hail of javelins, or hew with their swords in the bloody grind of close combat. Foot soldiers close the gap when their foes try to flee the field, and are tough enough to shrug off blows that would fell a common man.
 

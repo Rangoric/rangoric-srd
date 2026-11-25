@@ -32,7 +32,7 @@ tags: [rangoric, rangoric/siege-engine, weapon-group/firearms]
 
 # Bombard, Light
 
-*Large [[rangoric-srd/rules/Siege Engines#Indirect-Fire Ranged Siege Engines|indirect-fire siege engine]], a siege [[rangoric-srd/equipment/Firearms|firearm]].* Price 6,000 gp; Dmg 5d6; Critical ×4; Range 100 ft. (50 ft. min.); Type Bludgeoning and piercing; Crew 2; Aim 1; Load 3; Speed 10 ft.; Targeting DC 15; Misfire 1–2 (10 ft.); Hardness 10; Hit Points 70; Ammunition 30 gp, 25 lb. per ball. ^stats
+_Large [[rangoric-srd/rules/Siege Engines#Indirect-Fire Ranged Siege Engines|indirect-fire siege engine]], a siege [[rangoric-srd/equipment/Firearms|firearm]]._ Price 6,000 gp; Dmg 5d6; Critical ×4; Range 100 ft. (50 ft. min.); Type Bludgeoning and piercing; Crew 2; Aim 1; Load 3; Speed 10 ft.; Targeting DC 15; Misfire 1–2 (10 ft.); Hardness 10; Hit Points 70; Ammunition 30 gp, 25 lb. per ball. ^stats
 
 Resembling either large cauldrons or more traditional cannons, these firearms lob their ammunition in an arc in order to deliver their deadly payloads over troops or castle walls. Bombards are normally fired indirectly, but can also be fired as direct-fire siege engines. When they are used for direct fire, they take a –4 penalty on attack rolls and have their range increment halved, but do not have a minimum range. Like all [[rangoric-srd/equipment/Firearms|firearms]], bombards do not suffer mishaps, but instead have a [[rangoric-srd/rules/Siege Engines#Mishaps and Misfires|misfire]] chance.
 

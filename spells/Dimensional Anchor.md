@@ -31,16 +31,16 @@ tags: [rangoric, rangoric/spell]
 
 # Dimensional Anchor
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Clr 4, Inq 3, Med 3, Occ 4, Psy 4, Sor/Wiz 4, Spi 4, Sum 3, SumU 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Effect**: Ray
-  - **Duration**: 1 min./level
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes (object)
+- **Level**: Clr 4, Inq 3, Med 3, Occ 4, Psy 4, Sor/Wiz 4, Spi 4, Sum 3, SumU 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Effect**: Ray
+- **Duration**: 1 min./level
+- **Saving Throw**: None
+- **Spell Resistance**: Yes (object)
 
 A green ray springs from your outstretched hand. You must make a ranged touch attack to hit the target. Any creature or object struck by the ray is covered with a shimmering emerald field that completely blocks extradimensional travel. Forms of movement barred by a dimensional anchor include astral projection, blink, dimension door, ethereal jaunt, etherealness, gate, maze, plane shift, shadow walk, teleport, and similar spell-like or psionic abilities. The spell also prevents the use of a gate or teleportation circle for the duration of the spell.
 

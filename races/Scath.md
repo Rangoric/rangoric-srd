@@ -21,11 +21,11 @@ Perks:
 - +2 Wisdom
 - -1 Constitution
 - -2 Charisma
-- Darkvision: Scath can see perfectly in darkness, even in magical darkness such as that created by *[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]* spells. They have [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] to a range of 60 feet.
+- Darkvision: Scath can see perfectly in darkness, even in magical darkness such as that created by _[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_ spells. They have [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] to a range of 60 feet.
 - Light Sensitivity: Scath gain most of their sustenance from the darkness and are adversely affected by light. They have [[rangoric-srd/races/racial-traits/Light Sensitivity (Deep Fey Trait)|their own, harsher light sensitivity]]. Scath living near the surface world sometimes manufacture special protective eyewear and skin salves to counteract these penalties.
 - Spell Resistance: Scath have [[rangoric-srd/rules/Special Abilities and Conditions#Spell Resistance|spell resistance]] 5 + character level.
 - Fey Blood: Scath have a +1 racial bonus on saving throws against illusion and enchantment spells and spell-like abilities, which increases by +1 for every four levels they attain (see [[rangoric-srd/races/racial-traits/Fey Blood|fey blood]]). For all special abilities and effects, scath are considered fey: for example, they can use special fey weapons and magic items with racially specific powers as if they were fey.
-- Spell-Like Abilities: 1/day—*[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]*, *[[rangoric-srd/spells/Dispel Magic|dispel magic]]* (caster level equal to the scath’s character level).
+- Spell-Like Abilities: 1/day—_[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_, _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_ (caster level equal to the scath’s character level).
 
 Languages:
 

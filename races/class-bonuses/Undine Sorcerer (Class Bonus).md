@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Undine Sorcerer
 
-*An [[rangoric-srd/races/Undine|undine]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Sorcerer#^sorcerer-class-bonuses|sorcerer]] level.*
+_An [[rangoric-srd/races/Undine|undine]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Sorcerer#^sorcerer-class-bonuses|sorcerer]] level._
 
 Add a +1 bonus on caster level checks to cast spells underwater.

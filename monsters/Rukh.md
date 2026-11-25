@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Rukh
 
-  - Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 14d10+70 (147 hp)
-  - **Initiative**: +2
-  - **Speed**: 40 ft. (8 squares), fly 80 ft. (average)
-  - **Armor Class**: 23 (+2 Dex, +15 natural, –4 size), touch 8, flat-footed 21
-  - **Base Attack**: +14; **CMB**: +30 (+34 grapple); **CMD**: 38
-  - **Attack**: Bite +23 melee (2d8+12 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or talon +23 melee (2d6+12)
-  - **Full Attack**: 2 bites +23 melee (2d8+12 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 talons +23 melee (2d6+12)
-  - **Space/Reach**: 20 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Swallow Whole|Swallow whole]] (2d8+12 bludgeoning and 1d6 acid damage, AC 17, 14 hp)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
-  - **Saves**: Fort +14, Ref +11, Will +7
-  - **Abilities**: Str 34, Dex 15, Con 20, Int 2, Wis 13, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –4, [[rangoric-srd/skills/Perception|Perception]] +32
-  - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Snatch|Snatch]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (talon), [[rangoric-srd/feats/Wingover|Wingover]]
-  - **Environment**: Warm deserts or mountains
-  - **Organization**: Solitary, pair, or nest (2 adults and 1d4 juveniles)
-  - **Challenge Rating**: 10
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 14d10+70 (147 hp)
+- **Initiative**: +2
+- **Speed**: 40 ft. (8 squares), fly 80 ft. (average)
+- **Armor Class**: 23 (+2 Dex, +15 natural, –4 size), touch 8, flat-footed 21
+- **Base Attack**: +14; **CMB**: +30 (+34 grapple); **CMD**: 38
+- **Attack**: Bite +23 melee (2d8+12 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or talon +23 melee (2d6+12)
+- **Full Attack**: 2 bites +23 melee (2d8+12 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 talons +23 melee (2d6+12)
+- **Space/Reach**: 20 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Swallow Whole|Swallow whole]] (2d8+12 bludgeoning and 1d6 acid damage, AC 17, 14 hp)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
+- **Saves**: Fort +14, Ref +11, Will +7
+- **Abilities**: Str 34, Dex 15, Con 20, Int 2, Wis 13, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –4, [[rangoric-srd/skills/Perception|Perception]] +32
+- **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Snatch|Snatch]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (talon), [[rangoric-srd/feats/Wingover|Wingover]]
+- **Environment**: Warm deserts or mountains
+- **Organization**: Solitary, pair, or nest (2 adults and 1d4 juveniles)
+- **Challenge Rating**: 10
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Rukhs are foul-tempered creatures related to rocs, except they resemble two-headed vultures instead of raptors. They hunt live prey and carrion, typically gliding high above the desert in search of things to eat. They avoid creatures of their size or larger, preferring easier prey—horses, camels, and humanoids for adult rukhs, or Medium and Small creatures for juveniles. They nest on mountains and in cliffside caves, as they are too large to roost in trees. Few young rukhs reach adulthood, as many tribes and caravans hunt them for meat, often using a lone, weak-looking scout to lure a hungry juvenile into striking distance for an ambush.
 

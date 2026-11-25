@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/armor]
 
 # Locked Gauntlet
 
-*Armor extra.* Cost 8 gp; Armor Check Penalty Special; Arcane Spell Failure (4); Weight +5 lb. ^stats
+_Armor extra._ Cost 8 gp; Armor Check Penalty Special; Arcane Spell Failure (4); Weight +5 lb. ^stats
 
 This armored gauntlet has small chains and braces that allow the wearer to attach a weapon to the gauntlet so that it cannot be dropped easily. It provides a +10 bonus to your [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] to keep from being [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarmed]] in combat. Removing a weapon from a locked gauntlet or attaching a weapon to a locked gauntlet is a full-round action that provokes attacks of opportunity. The price given is for a single locked gauntlet. The weight given applies only if you’re wearing a breastplate, light armor, or no armor. Otherwise, the locked gauntlet replaces a gauntlet you already have as part of the armor.
 

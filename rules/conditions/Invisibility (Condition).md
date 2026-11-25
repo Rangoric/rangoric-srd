@@ -28,15 +28,15 @@ A creature can use hearing to find an invisible creature. A character can make a
 
 **Table: Perception Check DCs to Detect Invisible Creatures** ^table-listen-check-dcs-to-detect-invisible-creatures
 
-| Invisible Creature Is . . .     | DC                             |
-| ------------------------------- | ------------------------------ |
-| In combat or speaking           | 0                              |
+| Invisible Creature Is . . .     | DC                       |
+| ------------------------------- | ------------------------ |
+| In combat or speaking           | 0                        |
 | Moving at half speed            | Stealth check result     |
 | Moving at full speed            | Stealth check result –4  |
 | Running or charging             | Stealth check result –20 |
-| Some distance away              | +1 per 10 feet                |
-| Behind an obstacle (door)       | +5                            |
-| Behind an obstacle (stone wall) | +15                           |
+| Some distance away              | +1 per 10 feet           |
+| Behind an obstacle (door)       | +5                       |
+| Behind an obstacle (stone wall) | +15                      |
 
 A creature can grope about to find an invisible creature. A character can make a touch attack with his hands or a weapon into two adjacent 5-foot squares using a standard action. If an invisible target is in the designated area, there is a 50% miss chance on the touch attack. If successful, the groping character deals no damage but has successfully pinpointed the invisible creature’s current location. (If the invisible creature moves, its location, obviously, is once again unknown.)
 

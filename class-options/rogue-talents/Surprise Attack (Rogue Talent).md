@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Surprise Attack
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex).*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex)._
 
 During the surprise round, opponents are always considered [[rangoric-srd/rules/Special Abilities and Conditions#^flat-footed|flat-footed]] to a rogue with this ability, even if they have already acted.

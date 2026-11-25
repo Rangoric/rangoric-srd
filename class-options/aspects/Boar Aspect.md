@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Boar Aspect
 
-*A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). Those with the aspect of the boar are famously stubborn.*
+_A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). Those with the aspect of the boar are famously stubborn._
 
 **Minor Form**: You gain [[rangoric-srd/feats/Diehard|Diehard]] as a bonus feat.
 

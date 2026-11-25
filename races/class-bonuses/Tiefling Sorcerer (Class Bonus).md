@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Tiefling Sorcerer
 
-*A [[rangoric-srd/races/Tiefling|tiefling]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Sorcerer#^sorcerer-class-bonuses|sorcerer]] level.*
+_A [[rangoric-srd/races/Tiefling|tiefling]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Sorcerer#^sorcerer-class-bonuses|sorcerer]] level._
 
 Add +1/2 to the number of times per day a sorcerer can use the corrupting touch [[rangoric-srd/class-options/bloodlines/Infernal Bloodline|infernal bloodline]] power, or +1 to the total number of rounds per day the sorcerer can use the claws [[rangoric-srd/class-options/bloodlines/Abyssal Bloodline|abyssal bloodline]] power. The sorcerer must possess the applicable power to choose these bonuses.

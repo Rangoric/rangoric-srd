@@ -16,13 +16,13 @@ tags: [rangoric, rangoric/feat, racial]
 
 You gain the ability to summon powerful spiders.
 
-**Prerequisites**: Ability to cast *summon monster* or *summon nature’s ally* spells, [[rangoric-srd/races/Drow|drow]].
+**Prerequisites**: Ability to cast _summon monster_ or _summon nature’s ally_ spells, [[rangoric-srd/races/Drow|drow]].
 
-**Benefit**: When casting either a *summon monster* spell or a *summon nature’s ally* spell, your options increase. Depending on the level of the spell, you can summon the spiders listed below.
+**Benefit**: When casting either a _summon monster_ spell or a _summon nature’s ally_ spell, your options increase. Depending on the level of the spell, you can summon the spiders listed below.
 
-- ***Summon Monster***: 1st level, [[rangoric-srd/monsters/spider/Giant Crab Spider|giant crab spider]]\*; 4th level, [[rangoric-srd/monsters/spider/Giant Black Widow|giant black widow]]\*; 5th level, [[rangoric-srd/monsters/spider/Ogre Spider|ogre spider]]\*; 7th level, [[rangoric-srd/monsters/spider/Giant Tarantula|giant tarantula]]\*.
-- ***Summon Nature’s Ally***: 1st level, [[rangoric-srd/monsters/spider/Giant Crab Spider|giant crab spider]]; 4th level, [[rangoric-srd/monsters/spider/Giant Black Widow|giant black widow]]; 5th level, [[rangoric-srd/monsters/spider/Ogre Spider|ogre spider]]; 7th level, [[rangoric-srd/monsters/spider/Giant Tarantula|giant tarantula]].
+- **_Summon Monster_**: 1st level, [[rangoric-srd/monsters/spider/Giant Crab Spider|giant crab spider]]\*; 4th level, [[rangoric-srd/monsters/spider/Giant Black Widow|giant black widow]]\*; 5th level, [[rangoric-srd/monsters/spider/Ogre Spider|ogre spider]]\*; 7th level, [[rangoric-srd/monsters/spider/Giant Tarantula|giant tarantula]]\*.
+- **_Summon Nature’s Ally_**: 1st level, [[rangoric-srd/monsters/spider/Giant Crab Spider|giant crab spider]]; 4th level, [[rangoric-srd/monsters/spider/Giant Black Widow|giant black widow]]; 5th level, [[rangoric-srd/monsters/spider/Ogre Spider|ogre spider]]; 7th level, [[rangoric-srd/monsters/spider/Giant Tarantula|giant tarantula]].
 
 Creatures marked with an asterisk (\*) are summoned with the [[rangoric-srd/monsters/celestial-creature/Celestial Creature|celestial template]] if you are good, and the [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature|fiendish template]] if you are evil. If you are neutral, you may choose which template to apply to the creature.
 
-Furthermore, when you summon spiders using *summon monster* or *summon nature’s ally*, the DC of the summoned monster’s poison and web effects increases by 2.
+Furthermore, when you summon spiders using _summon monster_ or _summon nature’s ally_, the DC of the summoned monster’s poison and web effects increases by 2.

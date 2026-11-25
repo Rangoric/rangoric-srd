@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Bestow Planar Infusion III
 
-*Evocation*
+_Evocation_
 
-  - **Level**: Clr 7, Psy 7, Sor/Wiz 7, Wit 7
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: Caster level hour(s)
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Clr 7, Psy 7, Sor/Wiz 7, Wit 7
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: Caster level hour(s)
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
 This functions as [[rangoric-srd/spells/Bestow Planar Infusion I|bestow planar infusion I]], except that the touched creature gains the greater infusion of the current plane.

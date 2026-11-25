@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 Each of these items is a small feather that has a power to suit a special need. The kinds of tokens are described below. Each token is usable once.
 
-*Tree*: A token that causes a great oak to spring into being (5-foot diameter trunk, 60-foot height, 40-foot top diameter). This is an instantaneous effect.
+_Tree_: A token that causes a great oak to spring into being (5-foot diameter trunk, 60-foot height, 40-foot top diameter). This is an instantaneous effect.
 
 Moderate conjuration; CL 12th; Craft Wondrous Item, major creation; Price 400 gp.

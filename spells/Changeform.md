@@ -15,8 +15,8 @@ tags: [rangoric, rangoric/spell]
 
 # Changeform
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Sor/Wiz 7
+- **Level**: Sor/Wiz 7
 
-As *[[rangoric-srd/spells/Shapechange|shapechange]]*, except that the caster can assume only a single form. The caster may not change that form during the duration of the spell. The form selected cannot have more Hit Dice than the caster.
+As _[[rangoric-srd/spells/Shapechange|shapechange]]_, except that the caster can assume only a single form. The caster may not change that form during the duration of the spell. The form selected cannot have more Hit Dice than the caster.

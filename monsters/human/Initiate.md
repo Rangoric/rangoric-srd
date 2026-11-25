@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Initiate
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 2d8+4 (13 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 15 (+2 Dex, +1 dodge, +2 Wis), touch 15, flat-footed 12
-  - **Base Attack**: +1; **CMB**: +3; **CMD**: 18
-  - **Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +3 melee (1d6+2) or unarmed strike flurry of blows +2 melee (1d6+2) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] +4 melee (1d6+2) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +4 ranged (1d8/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] +4 ranged (1d6+2)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +3 melee (1d6+2); or unarmed strike flurry of blows +2/+2 melee (1d6+2); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] +4 melee (1d6+2); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +4 ranged (1d8/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] +4 ranged (1d6+2)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (2/day, DC 13)
-  - **Special Qualities**: [[rangoric-srd/classes/Monk#^monk-evasion|Evasion]]
-  - **Saves**: Fort +4, Ref +5, Will +5
-  - **Abilities**: Str 15, Dex 14, Con 12, Int 10, Wis 15, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +6
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Deflect Arrows|Deflect Arrows]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Stand Still|Stand Still]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]]
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 1
-  - **Treasure**: NPC gear (combat gear: oil of magic fang +1, potion of cure light wounds, alchemist's fire (2); other gear: masterwork light crossbow with 10 bolts, masterwork shortspear, 3 gp)
-  - **Alignment**: Lawful neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 2d8+4 (13 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 15 (+2 Dex, +1 dodge, +2 Wis), touch 15, flat-footed 12
+- **Base Attack**: +1; **CMB**: +3; **CMD**: 18
+- **Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +3 melee (1d6+2) or unarmed strike flurry of blows +2 melee (1d6+2) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] +4 melee (1d6+2) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +4 ranged (1d8/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] +4 ranged (1d6+2)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +3 melee (1d6+2); or unarmed strike flurry of blows +2/+2 melee (1d6+2); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] +4 melee (1d6+2); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +4 ranged (1d8/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] +4 ranged (1d6+2)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (2/day, DC 13)
+- **Special Qualities**: [[rangoric-srd/classes/Monk#^monk-evasion|Evasion]]
+- **Saves**: Fort +4, Ref +5, Will +5
+- **Abilities**: Str 15, Dex 14, Con 12, Int 10, Wis 15, Cha 8
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +6
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Deflect Arrows|Deflect Arrows]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Stand Still|Stand Still]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]]
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 1
+- **Treasure**: NPC gear (combat gear: oil of magic fang +1, potion of cure light wounds, alchemist's fire (2); other gear: masterwork light crossbow with 10 bolts, masterwork shortspear, 3 gp)
+- **Alignment**: Lawful neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 An initiate is a [[rangoric-srd/monsters/human/Human|human]] with 2 levels of [[rangoric-srd/classes/Monk|monk]]. Initiates are the novice members of martial arts academies or monasteries, learning hand-to-hand fighting, agility, meditation, and humility at the hands of their masters. They may spend their entire lives in the monastery, honing their minds and bodies to perfection.
 

@@ -17,7 +17,7 @@ Somewhere in your family's history, a relative made a deal with a devil, and tha
 
 **Class Skill**: [[rangoric-srd/skills/Persuasion|Persuasion]].
 
-**Bonus Spells**: *[[rangoric-srd/spells/Protection from Good|protection from good]]* (3rd), *[[rangoric-srd/spells/Scorching Ray|scorching ray]]* (5th), *[[rangoric-srd/spells/Suggestion|suggestion]]* (7th), *[[rangoric-srd/spells/Charm Monster|charm monster]]* (9th), *[[rangoric-srd/spells/Dominate Person|dominate person]]* (11th), *[[rangoric-srd/spells/Planar Binding|planar binding]]* (devils and creatures with the fiendish template only) (13th), *[[rangoric-srd/spells/Teleport, Greater|greater teleport]]* (15th), *[[rangoric-srd/spells/Power Word Stun|power word stun]]* (17th), *[[rangoric-srd/spells/Meteor Swarm|meteor swarm]]* (19th).
+**Bonus Spells**: _[[rangoric-srd/spells/Protection from Good|protection from good]]_ (3rd), _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_ (5th), _[[rangoric-srd/spells/Suggestion|suggestion]]_ (7th), _[[rangoric-srd/spells/Charm Monster|charm monster]]_ (9th), _[[rangoric-srd/spells/Dominate Person|dominate person]]_ (11th), _[[rangoric-srd/spells/Planar Binding|planar binding]]_ (devils and creatures with the fiendish template only) (13th), _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (15th), _[[rangoric-srd/spells/Power Word Stun|power word stun]]_ (17th), _[[rangoric-srd/spells/Meteor Swarm|meteor swarm]]_ (19th).
 
 **Bonus Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Extend Spell|Extend Spell]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Imitation or Theology), [[rangoric-srd/feats/Spell Penetration|Spell Penetration]].
 
@@ -29,7 +29,7 @@ Somewhere in your family's history, a relative made a deal with a devil, and tha
 
 You can draw upon the power of Hell, although you must be wary of its corrupting influence. Such power does not come without a price.
 
-**Corrupting Touch (Sp)**: At 1st level, you can cause a creature to become shaken as a melee touch attack. This effect persists for a number of rounds equal to 1/2 your sorcerer level (minimum 1). Creatures shaken by this ability radiate an aura of evil, as if they were an evil outsider (see *[[rangoric-srd/spells/Detect Evil|detect evil]]*). Multiple touches do not stack, but they do add to the duration. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+**Corrupting Touch (Sp)**: At 1st level, you can cause a creature to become shaken as a melee touch attack. This effect persists for a number of rounds equal to 1/2 your sorcerer level (minimum 1). Creatures shaken by this ability radiate an aura of evil, as if they were an evil outsider (see _[[rangoric-srd/spells/Detect Evil|detect evil]]_). Multiple touches do not stack, but they do add to the duration. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 **Infernal Resistances (Ex)**: At 3rd level, you gain resist fire 5 and a +2 bonus on saving throws made against poison. At 9th level, your resistance to fire increases to 10 and your bonus on poison saving throws increases to +4.
 

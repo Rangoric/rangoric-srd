@@ -30,15 +30,15 @@ tags: [rangoric, rangoric/spell]
 
 # Heroic Fortune
 
-*Evocation*
+_Evocation_
 
-  - **Level**: Alc 2, Brd 2, Clr 2, Pal 3, Skd 2
-  - **Components**: V, S, DF, M (diamond dust worth 100 gp)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: No
+- **Level**: Alc 2, Brd 2, Clr 2, Pal 3, Skd 2
+- **Components**: V, S, DF, M (diamond dust worth 100 gp)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: No
 
 This spell grants 1 [[rangoric-srd/unearthed-arcana/Hero Points|hero point]] to the target. This hero point must be spent before the duration expires, or it is lost. The bonus hero point is spent before any other hero points the target might possess.

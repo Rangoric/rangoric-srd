@@ -25,16 +25,16 @@ tags: [rangoric, rangoric/spell]
 
 # Meteor Swarm
 
-*Evocation \[Fire\]*
+_Evocation \[Fire\]_
 
-  - **Level**: Sor/Wiz 9
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Long (400 ft. + 40 ft./level)
-  - **Area**: Four 40-ft.-radius spreads; see text
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None or Reflex half; see text
-  - **Spell Resistance**: Yes
+- **Level**: Sor/Wiz 9
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Long (400 ft. + 40 ft./level)
+- **Area**: Four 40-ft.-radius spreads; see text
+- **Duration**: Instantaneous
+- **Saving Throw**: None or Reflex half; see text
+- **Spell Resistance**: Yes
 
 Meteor swarm is a very powerful and spectacular spell that is similar to fireball in many aspects. When you cast it, four 2- foot-diameter spheres spring from your outstretched hand and streak in straight lines to the spots you select. The meteor spheres leave a fiery trail of sparks.
 

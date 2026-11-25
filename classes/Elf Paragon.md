@@ -44,9 +44,9 @@ Accomplished with both spell and blade, elves move through the world at a pace r
 
 **Table: The Elf Paragon**
 
-| Level | Special                                                                                          | Spells per Day      |
-| ----- | ------------------------------------------------------------------------------------------------ | ------------------- |
-| 1st   | [[#^elf-paragon-elfsight\|Elfsight]], [[#^elf-paragon-resist-enchantments\|resist enchantments]] | —                   |
+| Level | Special                                                                                          | Spells per Day     |
+| ----- | ------------------------------------------------------------------------------------------------ | ------------------ |
+| 1st   | [[#^elf-paragon-elfsight\|Elfsight]], [[#^elf-paragon-resist-enchantments\|resist enchantments]] | —                  |
 | 2nd   | [[#^elf-paragon-weapon-focus\|Weapon Focus]]                                                     | +1 level of wizard |
 | 3rd   | [[#^elf-paragon-ability-boost\|Ability boost]] (Int +2)                                          | +1 level of wizard |
 

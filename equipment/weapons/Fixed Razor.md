@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades]
 
 # Fixed Razor
 
-*Simple unarmed attack.* Cost 3 sp; Dmg 1d2 (S), 1d3 (M); Critical x2; Weight 1/2 lb.; Type Slashing. ^stats
+_Simple unarmed attack._ Cost 3 sp; Dmg 1d2 (S), 1d3 (M); Critical x2; Weight 1/2 lb.; Type Slashing. ^stats
 
 This highly concealable weapon fits (carefully) in the palm of the hand. The razor blade affixes to a plain brass ring worn on the middle or forefinger. Though it prevents the wearer from making a fist, when pressed, the wearer can make a slashing attack with the slap of an open palm against an opponent. Attacks with fixed razors are considered unarmed.

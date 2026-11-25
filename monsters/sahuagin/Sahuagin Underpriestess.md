@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Sahuagin Underpriestess
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Aquatic)
-  - **Hit Dice**: 2d10+4d8+28 (57 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares), swim 60 ft.
-  - **Armor Class**: 19 (+4 armor, +5 natural), touch 10, flat-footed 19
-  - **Base Attack**: +5; **CMB**: +9; **CMD**: 19
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Trident|trident]] +10 melee (1d8+6) or bite +9 melee (1d4+2) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] underwater heavy crossbow +6 ranged (1d10/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Trident|trident]] +10 melee (1d8+6) and bite +4 melee (1d4+2); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] underwater heavy crossbow +6 ranged (1d10/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/sahuagin/Sahuagin|Blood frenzy]], [[rangoric-srd/classes/Cleric#^cleric-channel-energy|channel negative energy]] 3/day (DC 12, 2d6), [[rangoric-srd/class-options/domains/Destruction Domain|destructive smite]] (+2, 7/day), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Destruction Domain|smite]] (+4, +4 damage, 1/day), [[rangoric-srd/class-options/domains/Water Domain|rebuke water creatures, turn fire creatures]] (3/day)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]], [[rangoric-srd/monsters/sahuagin/Sahuagin|speak with sharks]]
-  - **Saves**: Fort +7, Ref +4, Will +11 (+2 vs. good)
-  - **Abilities**: Str 18, Dex 10, Con 17, Int 14, Wis 18, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Theology|Theology]] +11
-  - **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Temperate or warm ocean
-  - **Organization**: Solitary, or with other sahuagin (see [[rangoric-srd/monsters/sahuagin/Sahuagin|Sahuagin]])
-  - **Challenge Rating**: 5
-  - **Treasure**: NPC gear (combat gear: potion of lesser restoration, wand of cure moderate wounds (11 charges); other gear: +1 studded leather, dagger, masterwork trident, masterwork underwater heavy crossbow with 10 bolts, gold unholy symbol (worth 100 gp), 317 gp)
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Aquatic)
+- **Hit Dice**: 2d10+4d8+28 (57 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares), swim 60 ft.
+- **Armor Class**: 19 (+4 armor, +5 natural), touch 10, flat-footed 19
+- **Base Attack**: +5; **CMB**: +9; **CMD**: 19
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Trident|trident]] +10 melee (1d8+6) or bite +9 melee (1d4+2) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] underwater heavy crossbow +6 ranged (1d10/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Trident|trident]] +10 melee (1d8+6) and bite +4 melee (1d4+2); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] underwater heavy crossbow +6 ranged (1d10/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/sahuagin/Sahuagin|Blood frenzy]], [[rangoric-srd/classes/Cleric#^cleric-channel-energy|channel negative energy]] 3/day (DC 12, 2d6), [[rangoric-srd/class-options/domains/Destruction Domain|destructive smite]] (+2, 7/day), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Destruction Domain|smite]] (+4, +4 damage, 1/day), [[rangoric-srd/class-options/domains/Water Domain|rebuke water creatures, turn fire creatures]] (3/day)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]], [[rangoric-srd/monsters/sahuagin/Sahuagin|speak with sharks]]
+- **Saves**: Fort +7, Ref +4, Will +11 (+2 vs. good)
+- **Abilities**: Str 18, Dex 10, Con 17, Int 14, Wis 18, Cha 11
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Theology|Theology]] +11
+- **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Temperate or warm ocean
+- **Organization**: Solitary, or with other sahuagin (see [[rangoric-srd/monsters/sahuagin/Sahuagin|Sahuagin]])
+- **Challenge Rating**: 5
+- **Treasure**: NPC gear (combat gear: potion of lesser restoration, wand of cure moderate wounds (11 charges); other gear: +1 studded leather, dagger, masterwork trident, masterwork underwater heavy crossbow with 10 bolts, gold unholy symbol (worth 100 gp), 317 gp)
+- **Alignment**: Usually lawful evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A sahuagin underpriestess is a [[rangoric-srd/monsters/sahuagin/Sahuagin|sahuagin]] with 4 levels of [[rangoric-srd/classes/Cleric|cleric]], one of the sahuagin priestesses. Priestesses lead ceremonies and support military actions.
 
@@ -71,4 +71,4 @@ A sahuagin underpriestess speaks Aklo, Aquan, and Common, and can speak with sha
 
 **Domain Spell-Like Abilities** (CL 4th; concentration +8): 7/day—[[rangoric-srd/class-options/domains/Water Domain|icicle]] (1d6+2 cold).
 
-**Cleric spells prepared** (CL 4th; concentration +8): 2nd—*[[rangoric-srd/spells/Blood in the Water|blood in the water]]*, *[[rangoric-srd/spells/Darkness|darkness]]*, *[[rangoric-srd/spells/Hold Person|hold person]]* (DC 16), *[[rangoric-srd/spells/Shatter|shatter]]* <sup>D</sup> (DC 16); 1st—*[[rangoric-srd/spells/Bless|bless]]*, *[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]*, *[[rangoric-srd/spells/Magic Weapon|magic weapon]]*, *[[rangoric-srd/spells/Protection from Good|protection from good]]*, *[[rangoric-srd/spells/True Strike|true strike]]* <sup>D</sup>; 0 (at will)—*[[rangoric-srd/spells/Bleed|bleed]]* (DC 14), *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Guidance|guidance]]*, *[[rangoric-srd/spells/Resistance|resistance]]*; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Destruction Domain|Destruction]], [[rangoric-srd/class-options/domains/Water Domain|Water]].
+**Cleric spells prepared** (CL 4th; concentration +8): 2nd—_[[rangoric-srd/spells/Blood in the Water|blood in the water]]_, _[[rangoric-srd/spells/Darkness|darkness]]_, _[[rangoric-srd/spells/Hold Person|hold person]]_ (DC 16), _[[rangoric-srd/spells/Shatter|shatter]]_ <sup>D</sup> (DC 16); 1st—_[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Magic Weapon|magic weapon]]_, _[[rangoric-srd/spells/Protection from Good|protection from good]]_, _[[rangoric-srd/spells/True Strike|true strike]]_ <sup>D</sup>; 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 14), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Resistance|resistance]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Destruction Domain|Destruction]], [[rangoric-srd/class-options/domains/Water Domain|Water]].

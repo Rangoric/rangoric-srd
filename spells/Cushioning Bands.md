@@ -30,15 +30,15 @@ tags: [rangoric, rangoric/spell]
 
 # Cushioning Bands
 
-*Conjuration (Creation) \[Force\]*
+_Conjuration (Creation) \[Force\]_
 
-  - **Level**: Psy 2, Sor/Wiz 2, Sum 2, SumU 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 hour/level or until discharged (D)
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes
+- **Level**: Psy 2, Sor/Wiz 2, Sum 2, SumU 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 hour/level or until discharged (D)
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes
 
-Invisible bands of force encircle vital areas of the target. The bands resist crushing forces and impacts without interfering with movement. The target gains DR 2/piercing or slashing and takes half damage from constriction, falling, and being buried, as well as from similar crushing effects such as *[[rangoric-srd/spells/Crushing Hand|crushing hand]]*. Grapple checks for attacks other than constricting (such as pinning or swallowing whole) are not affected. Once the spell has blocked 12 points of damage per caster level (to a maximum of 120 points at 10th level), it is discharged. The bands have no effect on incorporeal attacks unless they deal damage from constriction or crushing, or unless the attacks would be subject to damage reduction.
+Invisible bands of force encircle vital areas of the target. The bands resist crushing forces and impacts without interfering with movement. The target gains DR 2/piercing or slashing and takes half damage from constriction, falling, and being buried, as well as from similar crushing effects such as _[[rangoric-srd/spells/Crushing Hand|crushing hand]]_. Grapple checks for attacks other than constricting (such as pinning or swallowing whole) are not affected. Once the spell has blocked 12 points of damage per caster level (to a maximum of 120 points at 10th level), it is discharged. The bands have no effect on incorporeal attacks unless they deal damage from constriction or crushing, or unless the attacks would be subject to damage reduction.

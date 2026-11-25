@@ -39,35 +39,35 @@ tags: [rangoric, rangoric/spell]
 
 # Detect Magic
 
-*Divination*
+_Divination_
 
-  - **Level**: Brd 0, Clr 0, Drd 0, Hun 0, Inq 0, Mag 0, Med 0, Mes 0, Occ 0, Psy 0, Sha 0, Skd 0, Sor/Wiz 0, Spi 0, Sum 0, SumU 0, Wit 0
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: 60 ft.
-  - **Area**: Cone-shaped emanation
-  - **Duration**: Concentration, up to 1 min./level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Brd 0, Clr 0, Drd 0, Hun 0, Inq 0, Mag 0, Med 0, Mes 0, Occ 0, Psy 0, Sha 0, Skd 0, Sor/Wiz 0, Spi 0, Sum 0, SumU 0, Wit 0
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: 60 ft.
+- **Area**: Cone-shaped emanation
+- **Duration**: Concentration, up to 1 min./level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You detect magical auras. The amount of information revealed depends on how long you study a particular area or subject.
 
-*1st Round*: Presence or absence of magical auras.
+_1st Round_: Presence or absence of magical auras.
 
-*2nd Round*: Number of different magical auras and the power of the most potent aura.
+_2nd Round_: Number of different magical auras and the power of the most potent aura.
 
-*3rd Round*: The strength and location of each aura. If the items or creatures bearing the auras are in line of sight, you can make [[rangoric-srd/skills/Mysticism|Mysticism]] checks to determine the school of magic involved in each. (Make one check per aura; DC 15 + spell level, or 15 + half caster level for a nonspell effect.)
+_3rd Round_: The strength and location of each aura. If the items or creatures bearing the auras are in line of sight, you can make [[rangoric-srd/skills/Mysticism|Mysticism]] checks to determine the school of magic involved in each. (Make one check per aura; DC 15 + spell level, or 15 + half caster level for a nonspell effect.)
 
 Magical areas, multiple types of magic, or strong local magical emanations may distort or conceal weaker auras.
 
-*Aura Strength*: An aura’s power depends on a spell’s functioning spell level or an item’s caster level. If an aura falls into more than one category, detect magic indicates the stronger of the two.
+_Aura Strength_: An aura’s power depends on a spell’s functioning spell level or an item’s caster level. If an aura falls into more than one category, detect magic indicates the stronger of the two.
 
 | Spell or Object                 | ————————— Aura Power —————————: Faint | ————————— Aura Power —————————: Moderate | ————————— Aura Power —————————: Strong | ————————— Aura Power —————————: Overwhelming |
 | ------------------------------- | ------------------------------------- | ---------------------------------------- | -------------------------------------- | -------------------------------------------- |
 | Functioning spell (spell level) | 3rd or lower                          | 4th–6th                                  | 7th–9th                                | 10th+ (deity-level)                          |
 | Magic item (caster level)       | 5th or lower                          | 6th–11th                                 | 12th–20th                              | 21st+ (artifact)                             |
 
-*Lingering Aura*: A magical aura lingers after its original source dissipates (in the case of a spell) or is destroyed (in the case of a magic item). If detect magic is cast and directed at such a location, the spell indicates an aura strength of dim (even weaker than a faint aura). How long the aura lingers at this dim level depends on its original power:
+_Lingering Aura_: A magical aura lingers after its original source dissipates (in the case of a spell) or is destroyed (in the case of a magic item). If detect magic is cast and directed at such a location, the spell indicates an aura strength of dim (even weaker than a faint aura). How long the aura lingers at this dim level depends on its original power:
 
 | Original Strength | Duration of Lingering Aura |
 | ----------------- | -------------------------- |

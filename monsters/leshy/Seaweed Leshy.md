@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Seaweed Leshy
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]] (Aquatic, Leshy, Shapechanger)
-  - **Hit Dice**: 4d8+12 (30 hp)
-  - **Initiative**: +1
-  - **Speed**: 20 ft. (4 squares), swim 20 ft.
-  - **Armor Class**: 15 (+1 armor, +1 Dex, +2 natural, +1 size), touch 12, flat-footed 14
-  - **Base Attack**: +3; **CMB**: +2; **CMD**: 13
-  - **Attack**: Slam +4 melee (1d6) or water jet +5 ranged touch (1 plus blind)
-  - **Full Attack**: Slam +4 melee (1d6); or water jet +5 ranged touch (1 plus blind)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Sneak attack +1d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Air Cyst|air cyst]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (Small seaweed; tree shape), verdant burst, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and sonic, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-  - **Saves**: Fort +6, Ref +2, Will +3
-  - **Abilities**: Str 10, Dex 13, Con 14, Int 9, Wis 15, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3 (+7 in water), [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +9 (+13 in water)
-  - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (water jet), [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Any ocean or coastline
-  - **Organization**: Solitary or patch (2–16)
-  - **Challenge Rating**: 3
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]] (Aquatic, Leshy, Shapechanger)
+- **Hit Dice**: 4d8+12 (30 hp)
+- **Initiative**: +1
+- **Speed**: 20 ft. (4 squares), swim 20 ft.
+- **Armor Class**: 15 (+1 armor, +1 Dex, +2 natural, +1 size), touch 12, flat-footed 14
+- **Base Attack**: +3; **CMB**: +2; **CMD**: 13
+- **Attack**: Slam +4 melee (1d6) or water jet +5 ranged touch (1 plus blind)
+- **Full Attack**: Slam +4 melee (1d6); or water jet +5 ranged touch (1 plus blind)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Sneak attack +1d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Air Cyst|air cyst]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (Small seaweed; tree shape), verdant burst, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and sonic, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
+- **Saves**: Fort +6, Ref +2, Will +3
+- **Abilities**: Str 10, Dex 13, Con 14, Int 9, Wis 15, Cha 12
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3 (+7 in water), [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +9 (+13 in water)
+- **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (water jet), [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Any ocean or coastline
+- **Organization**: Solitary or patch (2–16)
+- **Challenge Rating**: 3
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Seaweed leshys usually dwell along coastlines, happily splashing and playing in tide pools, but they are equally at home at sea, floating among large kelp beds. Although perfectly capable of existing out of water indefinitely, seaweed leshys prefer to limit their time away from the sea almost out of a sense of pride. Most seaweed leshys take a dim view of freshwater plant life, to the point of mocking such plants in the same way an urbanite might talk down to folk who live in more rural areas. Rumors of freshwater leshys are a sure way to bring peals of mocking laughter from a seaweed leshy.
 
@@ -73,7 +73,7 @@ Seaweed leshys speak Druidic and Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +9): Constant—*[[rangoric-srd/spells/Pass without Trace|pass without trace]]*; 1/day—*[[rangoric-srd/spells/Entangle|entangle]]* (in water only, DC 12).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +9): Constant—_[[rangoric-srd/spells/Pass without Trace|pass without trace]]_; 1/day—_[[rangoric-srd/spells/Entangle|entangle]]_ (in water only, DC 12).
 
 **[[rangoric-srd/monsters/abilities/Air Cyst|Air Cyst]] (Su)**: Seaweed leshys constantly grow small bulbs filled with air. As a move action, they can detach a bulb and give it to another creature. If consumed as a standard action, this air cyst grants water breathing (as the spell) for 10 minutes. Seaweed leshys can have a maximum of four usable air cysts at any one time, and air cysts regrow at a rate of one per 24 hours.
 
@@ -81,4 +81,4 @@ Seaweed leshys speak Druidic and Sylvan.
 
 ### Creation
 
-CL 10th; [[rangoric-srd/skills/Nature|Nature]] 5 ranks, *[[rangoric-srd/spells/Plant Growth|plant growth]]*, *[[rangoric-srd/spells/Summon Nature’s Ally III|summon nature's ally III]]*, *[[rangoric-srd/spells/Water Breathing|water breathing]]*; Skill [[rangoric-srd/skills/Nature|Nature]] DC 16; Price 4,500 gp; Cost 2,250 gp.
+CL 10th; [[rangoric-srd/skills/Nature|Nature]] 5 ranks, _[[rangoric-srd/spells/Plant Growth|plant growth]]_, _[[rangoric-srd/spells/Summon Nature’s Ally III|summon nature's ally III]]_, _[[rangoric-srd/spells/Water Breathing|water breathing]]_; Skill [[rangoric-srd/skills/Nature|Nature]] DC 16; Price 4,500 gp; Cost 2,250 gp.

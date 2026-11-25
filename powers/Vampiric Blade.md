@@ -27,6 +27,6 @@ Psychometabolism
 **Range:** 0 ft.  
 **Target:** One weapon you hold  
 **Duration:** 1 round/level  
-**Power Points:** 5  
+**Power Points:** 5
 
 As [[rangoric-srd/powers/Claws of the Vampire|claws of the vampire]], except your weapon is affected as long as it remains in your grip or until this power’s duration expires.

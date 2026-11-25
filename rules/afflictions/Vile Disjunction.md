@@ -24,5 +24,5 @@ A poison; how afflictions work, and what each line means, is in [[rangoric-srd/r
 - **Type**: poison, injury
 - **Save**: Fortitude DC 25
 - **Frequency**: 1/round for 6 rounds
-- **Effect**: a targeted *[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]* (CL 18th) on the creature
+- **Effect**: a targeted _[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]_ (CL 18th) on the creature
 - **Cure**: 2 consecutive saves

@@ -14,10 +14,10 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Alignment Variation (Soulbound Mannequin)
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “alignment variation”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “alignment variation”, on the Special Qualities line.
 
 Soulbound mannequins are at least partially neutral in alignment, although they can also be chaotic, evil, good, or lawful. They have an alignment-dependent spell-like ability usable once per day as listed below.
 
-- *Chaotic Neutral*: *[[rangoric-srd/spells/Confusion|confusion]]* (DC 13)
+- _Chaotic Neutral_: _[[rangoric-srd/spells/Confusion|confusion]]_ (DC 13)
 
 The [[rangoric-srd/monsters/soulbound/Soulbound Mannequin|soulbound mannequin]] has it.

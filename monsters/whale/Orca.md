@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Orca
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 9d8+27 (67 hp)
-  - **Initiative**: +6
-  - **Speed**: swim 80 ft.
-  - **Armor Class**: 16 (+2 Dex, +6 natural, –2 size), touch 10, flat-footed 14
-  - **Base Attack**: +6; **CMB**: +16; **CMD**: 28
-  - **Attack**: Bite +13 melee (2d6+12)
-  - **Full Attack**: Bite +13 melee (2d6+12)
-  - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 120 ft, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]]
-  - **Saves**: Fort +9, Ref +8, Will +5
-  - **Abilities**: Str 27, Dex 15, Con 16, Int 2, Wis 15, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +28, [[rangoric-srd/skills/Perception|Perception]] +19
-  - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Athletics), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
-  - **Environment**: Cold oceans
-  - **Organization**: Solitary, pair, or pod (3–20)
-  - **Challenge Rating**: 5
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 10–13 HD (Huge); 14–27 HD (Gargantuan)
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 9d8+27 (67 hp)
+- **Initiative**: +6
+- **Speed**: swim 80 ft.
+- **Armor Class**: 16 (+2 Dex, +6 natural, –2 size), touch 10, flat-footed 14
+- **Base Attack**: +6; **CMB**: +16; **CMD**: 28
+- **Attack**: Bite +13 melee (2d6+12)
+- **Full Attack**: Bite +13 melee (2d6+12)
+- **Space/Reach**: 15 ft./10 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 120 ft, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]]
+- **Saves**: Fort +9, Ref +8, Will +5
+- **Abilities**: Str 27, Dex 15, Con 16, Int 2, Wis 15, Cha 6
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +28, [[rangoric-srd/skills/Perception|Perception]] +19
+- **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Athletics), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
+- **Environment**: Cold oceans
+- **Organization**: Solitary, pair, or pod (3–20)
+- **Challenge Rating**: 5
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 10–13 HD (Huge); 14–27 HD (Gargantuan)
+- **Level Adjustment**: —
 
 The orca, or “killer whale,” is actually the largest species of dolphin. Adult orcas are typically 15–25 feet long and weigh 8,000–12,000 pounds
 

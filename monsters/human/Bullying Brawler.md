@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Bullying Brawler
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 2d8+5 (17 hp)
-  - **Initiative**: +5
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 14 (+1 Dex, +1 dodge, +2 Wis), touch 14, flat-footed 12
-  - **Base Attack**: +1; **CMB**: +5; **CMD**: 19
-  - **Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +5 melee (1d6+4) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Nunchaku|nunchaku]] +6 melee (1d6+4) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] nunchaku flurry of blows +4 melee (1d6+4) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +2 ranged (1d8/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +5 melee (1d6+4); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Nunchaku|nunchaku]] +6 melee (1d6+4); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] nunchaku flurry of blows +4/+4 melee (1d6+4); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +2 ranged (1d8/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (2/day, DC 13)
-  - **Special Qualities**: [[rangoric-srd/classes/Monk#^monk-evasion|Evasion]]
-  - **Saves**: Fort +5, Ref +4, Will +5
-  - **Abilities**: Str 19, Dex 12, Con 15, Int 8, Wis 14, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Deception|Deception]] +1, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +5
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Scorpion Style|Scorpion Style]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]]
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 1
-  - **Treasure**: NPC gear (combat gear: potion of bull's strength, potions of cure light wounds (2), acid (2); other gear: light crossbow with 20 bolts, masterwork nunchaku, 23 gp)
-  - **Alignment**: Lawful evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 2d8+5 (17 hp)
+- **Initiative**: +5
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 14 (+1 Dex, +1 dodge, +2 Wis), touch 14, flat-footed 12
+- **Base Attack**: +1; **CMB**: +5; **CMD**: 19
+- **Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +5 melee (1d6+4) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Nunchaku|nunchaku]] +6 melee (1d6+4) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] nunchaku flurry of blows +4 melee (1d6+4) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +2 ranged (1d8/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +5 melee (1d6+4); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Nunchaku|nunchaku]] +6 melee (1d6+4); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] nunchaku flurry of blows +4/+4 melee (1d6+4); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +2 ranged (1d8/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (2/day, DC 13)
+- **Special Qualities**: [[rangoric-srd/classes/Monk#^monk-evasion|Evasion]]
+- **Saves**: Fort +5, Ref +4, Will +5
+- **Abilities**: Str 19, Dex 12, Con 15, Int 8, Wis 14, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Deception|Deception]] +1, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +5
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Scorpion Style|Scorpion Style]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]]
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 1
+- **Treasure**: NPC gear (combat gear: potion of bull's strength, potions of cure light wounds (2), acid (2); other gear: light crossbow with 20 bolts, masterwork nunchaku, 23 gp)
+- **Alignment**: Lawful evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A bullying brawler is a [[rangoric-srd/monsters/human/Human|human]] with 2 levels of [[rangoric-srd/classes/Monk|monk]]. Bullying brawlers are often sent to confront those who cross an order of monks. They are relentless in their pursuit of vengeance.
 

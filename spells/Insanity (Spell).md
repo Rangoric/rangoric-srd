@@ -32,16 +32,16 @@ tags: [rangoric, rangoric/spell]
 
 # Insanity
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Enchantment 8, Mes 6, Psy 7, Sor/Wiz 7, Wit 7
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Target**: One living creature
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Enchantment 8, Mes 6, Psy 7, Sor/Wiz 7, Wit 7
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Target**: One living creature
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 The affected creature suffers from a continuous confusion effect, as the spell.
 

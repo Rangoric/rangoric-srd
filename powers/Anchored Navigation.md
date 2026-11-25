@@ -27,7 +27,7 @@ Manifesting Time: 1 standard action
 Range: Personal  
 Target: You  
 Duration: 1 hour/level  
-Power Points: 7  
+Power Points: 7
 
 You know where you are in relation to a fixed starting point, which is essential for setting up a mishap-free teleport beacon. While the duration lasts, you are aware of your exact distance and route (physical or psychoportive) back to a fixed starting point. The “anchored” starting point is your exact location when you manifest the power. To designate other anchored starting points, you must manifest this power multiple times and be present at the desired locations when you do so.
 

@@ -20,11 +20,11 @@ tags: [rangoric, rangoric/magic-item]
 
 Often made from applewood and topped with a clear crystal, this staff allows use of the following spells:
 
-  - [[rangoric-srd/spells/Sleep|Sleep]] (1 charge)
-  - [[rangoric-srd/spells/Hideous Laughter|Hideous laughter]] (1 charge)
-  - [[rangoric-srd/spells/Suggestion|Suggestion]] (1 charge)
-  - [[rangoric-srd/spells/Crushing Despair|Crushing despair]] (2 charges)
-  - [[rangoric-srd/spells/Mind Fog|Mind fog]] (2 charges)
-  - [[rangoric-srd/spells/Suggestion, Mass|Suggestion, mass]] (3 charges)
+- [[rangoric-srd/spells/Sleep|Sleep]] (1 charge)
+- [[rangoric-srd/spells/Hideous Laughter|Hideous laughter]] (1 charge)
+- [[rangoric-srd/spells/Suggestion|Suggestion]] (1 charge)
+- [[rangoric-srd/spells/Crushing Despair|Crushing despair]] (2 charges)
+- [[rangoric-srd/spells/Mind Fog|Mind fog]] (2 charges)
+- [[rangoric-srd/spells/Suggestion, Mass|Suggestion, mass]] (3 charges)
 
 Strong enchantment; CL 13th; Craft Staff, crushing despair, mass suggestion, mind fog, sleep, suggestion, hideous laughter; Price 65,000 gp.

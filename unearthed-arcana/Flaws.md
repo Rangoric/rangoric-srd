@@ -22,13 +22,13 @@ Unlike [[rangoric-srd/unearthed-arcana/Traits|traits]], flaws are entirely negat
 
 You can create new flaws, but be careful: Flaws can unbalance your game. When creating flaws, keep a few issues in mind:
 
-  - A flaw must have a numeric effect on a character's specific capabilities. Flaws with primarily roleplaying or story effects have unpredictable effects on game balance.
+- A flaw must have a numeric effect on a character's specific capabilities. Flaws with primarily roleplaying or story effects have unpredictable effects on game balance.
 
-  - Flaws are generally bigger in magnitude than feats. That's because players always choose flaws that have the least impact on their characters, while taking feats that have the most. For example, while a feat affecting skills grants a +2 bonus on two skills, its counterpart flaw might impose a -4 penalty on two skills.
+- Flaws are generally bigger in magnitude than feats. That's because players always choose flaws that have the least impact on their characters, while taking feats that have the most. For example, while a feat affecting skills grants a +2 bonus on two skills, its counterpart flaw might impose a -4 penalty on two skills.
 
-  - A flaw must have a meaningful effect regardless of character class or role. That way, a player can't reduce the flaw's importance through multiclassing. For instance, a flaw that only affects spellcasters might seem reasonable - but for nonspellcaster characters, the flaw likely proves meaningless. Even if you restrict the selection of such feats to characters of specific classes, a player can easily select a spellcasting class at 1st level, choose two flaws that apply to spellcasters, gain the bonus feats, multiclass into a nonspellcasting class at 2nd level and thereafter proceed as a primarily nonspellcasting character. The player has sacrificed a level to gain two bonus feats, a tradeoff that appeals to some players.
+- A flaw must have a meaningful effect regardless of character class or role. That way, a player can't reduce the flaw's importance through multiclassing. For instance, a flaw that only affects spellcasters might seem reasonable - but for nonspellcaster characters, the flaw likely proves meaningless. Even if you restrict the selection of such feats to characters of specific classes, a player can easily select a spellcasting class at 1st level, choose two flaws that apply to spellcasters, gain the bonus feats, multiclass into a nonspellcasting class at 2nd level and thereafter proceed as a primarily nonspellcasting character. The player has sacrificed a level to gain two bonus feats, a tradeoff that appeals to some players.
 
-  - Similarly, a flaw that penalizes a character's Charisma based skill checks only has a significant impact on the party spokesperson - the quiet fighter or barbarian likely won't feel any impact from the penalties.
+- Similarly, a flaw that penalizes a character's Charisma based skill checks only has a significant impact on the party spokesperson - the quiet fighter or barbarian likely won't feel any impact from the penalties.
 
 ##### Flaw Descriptions
 

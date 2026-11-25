@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Monkey
 
-*An [[rangoric-srd/classes/Hunter#^hunter-animal-focus|animal focus]] (Su).*
+_An [[rangoric-srd/classes/Hunter#^hunter-animal-focus|animal focus]] (Su)._
 
 The creature gains a +4 competence bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks to climb. This bonus increases to +6 at 8th level and +8 at 15th level.

@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/armor]
 
 # Leather Armor
 
-*Light armor.* Cost 10 gp; Armor Bonus +2; Maximum Dex Bonus +6; Armor Check Penalty 0; Arcane Spell Failure 10%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 15 lb. ^stats
+_Light armor._ Cost 10 gp; Armor Bonus +2; Maximum Dex Bonus +6; Armor Check Penalty 0; Arcane Spell Failure 10%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 15 lb. ^stats

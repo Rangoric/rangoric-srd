@@ -85,11 +85,11 @@ Many special spell effects are handled according to the school of the spells in 
 
 When a living creature dies, its soul departs its body, leaves the Material Plane, travels through the Astral Plane, and goes to abide on the plane where the creature’s deity resides. If the creature did not worship a deity, its soul departs to the plane corresponding to its alignment. Bringing someone back from the dead means retrieving his or her soul and returning it to his or her body.
 
-*Negative Levels*: Any creature brought back to life usually gains one or more [[rangoric-srd/rules/Special Abilities and Conditions#^permanent-negative-levels|permanent negative levels]]. These levels apply a penalty to most rolls until removed through spells such as *[[rangoric-srd/spells/Restoration|restoration]]*. If the character was 1st level at the time of death, he or she takes 2 points of [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|Constitution drain]] instead of gaining a negative level.
+_Negative Levels_: Any creature brought back to life usually gains one or more [[rangoric-srd/rules/Special Abilities and Conditions#^permanent-negative-levels|permanent negative levels]]. These levels apply a penalty to most rolls until removed through spells such as _[[rangoric-srd/spells/Restoration|restoration]]_. If the character was 1st level at the time of death, he or she takes 2 points of [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|Constitution drain]] instead of gaining a negative level.
 
-*Preventing Revivification*: Enemies can take steps to make it more difficult for a character to be returned from the dead. Keeping the body prevents others from using raise dead or resurrection to restore the slain character to life. Casting trap the soul prevents any sort of revivification unless the soul is first released.
+_Preventing Revivification_: Enemies can take steps to make it more difficult for a character to be returned from the dead. Keeping the body prevents others from using raise dead or resurrection to restore the slain character to life. Casting trap the soul prevents any sort of revivification unless the soul is first released.
 
-*Revivification against One’s Will*: A soul cannot be returned to life if it does not wish to be. A soul knows the name, alignment, and patron deity (if any) of the character attempting to revive it and may refuse to return on that basis.
+_Revivification against One’s Will_: A soul cannot be returned to life if it does not wish to be. A soul knows the name, alignment, and patron deity (if any) of the character attempting to revive it and may refuse to return on that basis.
 
 ##### Combining Magical Effects
 
@@ -99,17 +99,17 @@ Spells or magical effects usually work as described, no matter how many other sp
 
 More generally, two bonuses of the same type don’t stack even if they come from different spells (or from effects other than spells; see Bonus Types, above).
 
-*Different Bonus Names*: The bonuses or penalties from two different spells stack if the modifiers are of different types.
+_Different Bonus Names_: The bonuses or penalties from two different spells stack if the modifiers are of different types.
 
 A bonus that isn’t named stacks with any bonus.
 
-*Same Effect More than Once in Different Strengths*: In cases when two or more identical spells are operating in the same area or on the same target, but at different strengths, only the best one applies.
+_Same Effect More than Once in Different Strengths_: In cases when two or more identical spells are operating in the same area or on the same target, but at different strengths, only the best one applies.
 
-*Same Effect with Differing Results*: The same spell can sometimes produce varying effects if applied to the same recipient more than once. Usually the last spell in the series trumps the others. None of the previous spells are actually removed or dispelled, but their effects become irrelevant while the final spell in the series lasts.
+_Same Effect with Differing Results_: The same spell can sometimes produce varying effects if applied to the same recipient more than once. Usually the last spell in the series trumps the others. None of the previous spells are actually removed or dispelled, but their effects become irrelevant while the final spell in the series lasts.
 
-*One Effect Makes Another Irrelevant*: Sometimes, one spell can render a later spell irrelevant. Both spells are still active, but one has rendered the other useless in some fashion.
+_One Effect Makes Another Irrelevant_: Sometimes, one spell can render a later spell irrelevant. Both spells are still active, but one has rendered the other useless in some fashion.
 
-*Multiple Mental Control Effects*: Sometimes magical effects that establish mental control render each other irrelevant, such as a spell that removes the subjects ability to act. Mental controls that don’t remove the recipient’s ability to act usually do not interfere with each other. If a creature is under the mental control of two or more creatures, it tends to obey each to the best of its ability, and to the extent of the control each effect allows. If the controlled creature receives conflicting orders simultaneously, the competing controllers must make opposed Charisma checks to determine which one the creature obeys.
+_Multiple Mental Control Effects_: Sometimes magical effects that establish mental control render each other irrelevant, such as a spell that removes the subjects ability to act. Mental controls that don’t remove the recipient’s ability to act usually do not interfere with each other. If a creature is under the mental control of two or more creatures, it tends to obey each to the best of its ability, and to the extent of the control each effect allows. If the controlled creature receives conflicting orders simultaneously, the competing controllers must make opposed Charisma checks to determine which one the creature obeys.
 
 **Spells with Opposite Effects**: Spells with opposite effects apply normally, with all bonuses, penalties, or changes accruing in the order that they apply. Some spells negate or counter each other. This is a special effect that is noted in a spell’s description.
 
@@ -123,19 +123,19 @@ A spell’s type goes by who casts it. Many spells are on both psychic and arcan
 
 ##### Psychic Components
 
-Psychic spells never have verbal or somatic components, and have material components only when a cost is given for them. Casting a psychic spell is a purely mental action, so it can be cast even while the caster is [[rangoric-srd/rules/conditions/Pinned (Condition)|pinned]] or [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]]. Focus components and XP costs work the same way for psychic spells as for other spells. When a spell calls for a material component with a cost, a psychic spellcaster can instead use any item that has significant meaning to her and is worth at least the component’s cost: a caster bringing her dead husband back with *[[rangoric-srd/spells/Raise Dead|raise dead]]* could use her 5,000 gp wedding ring. ^psychic-components
+Psychic spells never have verbal or somatic components, and have material components only when a cost is given for them. Casting a psychic spell is a purely mental action, so it can be cast even while the caster is [[rangoric-srd/rules/conditions/Pinned (Condition)|pinned]] or [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]]. Focus components and XP costs work the same way for psychic spells as for other spells. When a spell calls for a material component with a cost, a psychic spellcaster can instead use any item that has significant meaning to her and is worth at least the component’s cost: a caster bringing her dead husband back with _[[rangoric-srd/spells/Raise Dead|raise dead]]_ could use her 5,000 gp wedding ring. ^psychic-components
 
 In place of verbal and somatic components, psychic spells have components drawn from the caster’s inner being. When a psychic spellcaster casts a spell, its somatic component becomes an **emotion component** and its verbal component a **thought component**. An arcane or divine spellcaster casting the same spell uses its somatic and verbal components as normal.
 
 **Emotion Component**: A particular emotional state the caster must call up and focus to release the spell. A spell with an emotion component can’t be cast while the caster is under a non-harmless effect with the emotion or fear descriptor, even one whose emotion matches the one the spell needs: providing an emotion component takes being in control of your own feelings and impulses. ^emotion-component
 
-**Thought Component**: A mental construct the spell needs, such as picturing a wolf in vivid detail, down to the saliva dripping from its jaws, to take a wolf’s shape with *[[rangoric-srd/spells/Beast Shape I|beast shape]]*. Thought components make interruptions and distractions much harder to work through; see [[rangoric-srd/rules/Concentration (Check)|Concentration (Check)]]. ^thought-component
+**Thought Component**: A mental construct the spell needs, such as picturing a wolf in vivid detail, down to the saliva dripping from its jaws, to take a wolf’s shape with _[[rangoric-srd/spells/Beast Shape I|beast shape]]_. Thought components make interruptions and distractions much harder to work through; see [[rangoric-srd/rules/Concentration (Check)|Concentration (Check)]]. ^thought-component
 
 Spell-like abilities never need thought or emotion components, just as they never need verbal, somatic, or material ones. Thought and emotion components take the place of verbal and somatic components only as components, not for other rules about verbal and somatic components: [[rangoric-srd/feats/Silent Spell|Silent Spell]] can’t leave out a thought component, for example. The [[rangoric-srd/feats/Intuitive Spell|Intuitive Spell]] and [[rangoric-srd/feats/Logical Spell|Logical Spell]] feats do that for thought and emotion components respectively.
 
 ##### Undercasting
 
-Some psychic spells can be undercast: the caster can cast the spell at the level she knows or as any lower-level version of it, using the spell slot for that version. An undercast spell is treated exactly like the lower-level version, including its effect, saving throw, and other variables. For example, a psychic spellcaster who adds *[[rangoric-srd/spells/Ego Whip III|ego whip III]]* to her spells known can cast it as *[[rangoric-srd/spells/Ego Whip I|ego whip I]]*, *[[rangoric-srd/spells/Ego Whip II|II]]*, or *[[rangoric-srd/spells/Ego Whip III|III]]*. Cast as *ego whip I*, it is that spell in every way: it uses that spell’s text and save DC, and the spell slot of *ego whip I*’s level. ^undercasting
+Some psychic spells can be undercast: the caster can cast the spell at the level she knows or as any lower-level version of it, using the spell slot for that version. An undercast spell is treated exactly like the lower-level version, including its effect, saving throw, and other variables. For example, a psychic spellcaster who adds _[[rangoric-srd/spells/Ego Whip III|ego whip III]]_ to her spells known can cast it as _[[rangoric-srd/spells/Ego Whip I|ego whip I]]_, _[[rangoric-srd/spells/Ego Whip II|II]]_, or _[[rangoric-srd/spells/Ego Whip III|III]]_. Cast as _ego whip I_, it is that spell in every way: it uses that spell’s text and save DC, and the spell slot of _ego whip I_’s level. ^undercasting
 
 Whenever a spontaneous spellcaster adds a spell that can be undercast to his spells known, he can at once learn a new spell in place of each lower-level version of that spell he knows: he loses each earlier version and replaces it with another spell of the same level from his spell list.
 
@@ -241,19 +241,19 @@ Some spells allow you to redirect the effect to new targets or areas after you c
 
 **Effect**: Some spells create or summon things rather than affecting things that are already present. You must designate the location where these things are to appear, either by seeing it or defining it. Range determines how far away an effect can appear, but if the effect is mobile it can move regardless of the spell’s range.
 
-*Ray*: Some effects are rays. You aim a ray as if using a ranged weapon, though typically you make a ranged touch attack rather than a normal ranged attack. As with a ranged weapon, you can fire into the dark or at an [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] creature and hope you hit something. You don’t have to see the creature you’re trying to hit, as you do with a targeted spell. Intervening creatures and obstacles, however, can block your line of sight or provide cover for the creature you’re aiming at.
+_Ray_: Some effects are rays. You aim a ray as if using a ranged weapon, though typically you make a ranged touch attack rather than a normal ranged attack. As with a ranged weapon, you can fire into the dark or at an [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] creature and hope you hit something. You don’t have to see the creature you’re trying to hit, as you do with a targeted spell. Intervening creatures and obstacles, however, can block your line of sight or provide cover for the creature you’re aiming at.
 
 If a ray spell has a duration, it’s the duration of the effect that the ray causes, not the length of time the ray itself persists.
 
 If a ray spell deals damage, you can score a critical hit just as if it were a weapon. A ray spell threatens a critical hit on a natural roll of 20 and deals double damage on a successful critical hit.
 
-*Spread*: Some effects, notably clouds and fogs, spread out from a point of origin, which must be a grid intersection. The effect can extend around corners and into areas that you can’t see. Figure distance by actual distance traveled, taking into account turns the spell effect takes. When determining distance for spread effects, count around walls, not through them. As with movement, do not trace diagonals across corners. You must designate the point of origin for such an effect, but you need not have line of effect (see below) to all portions of the effect.
+_Spread_: Some effects, notably clouds and fogs, spread out from a point of origin, which must be a grid intersection. The effect can extend around corners and into areas that you can’t see. Figure distance by actual distance traveled, taking into account turns the spell effect takes. When determining distance for spread effects, count around walls, not through them. As with movement, do not trace diagonals across corners. You must designate the point of origin for such an effect, but you need not have line of effect (see below) to all portions of the effect.
 
 **Area**: Some spells affect an area. Sometimes a spell description specifies a specially defined area, but usually an area falls into one of the categories defined below.
 
 Regardless of the shape of the area, you select the point where the spell originates, but otherwise you don’t control which creatures or objects the spell affects. The point of origin of a spell is always a grid intersection. When determining whether a given creature is within the area of a spell, count out the distance from the point of origin in squares just as you do when moving a character or when determining the range for a ranged attack. The only difference is that instead of counting from the center of one square to the center of the next, you count from intersection to intersection. You can count diagonally across a square, but remember that every second diagonal counts as 2 squares of distance. If the far edge of a square is within the spell’s area, anything within that square is within the spell’s area. If the spell’s area only touches the near edge of a square, however, anything within that square is unaffected by the spell.
 
-*Burst, Emanation, or Spread*: Most spells that affect an area function as a burst, an emanation, or a spread. In each case, you select the spell’s point of origin and measure its effect from that point.
+_Burst, Emanation, or Spread_: Most spells that affect an area function as a burst, an emanation, or a spread. In each case, you select the spell’s point of origin and measure its effect from that point.
 
 A burst spell affects whatever it catches in its area, even including creatures that you can’t see. It can’t affect creatures with total cover from its point of origin (in other words, its effects don’t extend around corners). The default shape for a burst effect is a sphere, but some burst spells are specifically described as cone-shaped. A burst’s area defines how far from the point of origin the spell’s effect extends.
 
@@ -261,7 +261,7 @@ An emanation spell functions like a burst spell, except that the effect continue
 
 A spread spell spreads out like a burst but can turn corners. You select the point of origin, and the spell spreads out a given distance in all directions. Figure the area the spell effect fills by taking into account any turns the spell effect takes.
 
-*Cone, Cylinder, Line, or Sphere*: Most spells that affect an area have a particular shape, such as a cone, cylinder, line, or sphere.
+_Cone, Cylinder, Line, or Sphere_: Most spells that affect an area have a particular shape, such as a cone, cylinder, line, or sphere.
 
 A cone-shaped spell shoots away from you in a quarter-circle in the direction you designate. It starts from any corner of your square and widens out as it goes. Most cones are either bursts or emanations (see above), and thus won’t go around corners.
 
@@ -271,15 +271,15 @@ A line-shaped spell shoots away from you in a line in the direction you designat
 
 A sphere-shaped spell expands from its point of origin to fill a spherical area. Spheres may be bursts, emanations, or spreads.
 
-*Creatures*: A spell with this kind of area affects creatures directly (like a targeted spell), but it affects all creatures in an area of some kind rather than individual creatures you select. The area might be a spherical burst , a cone-shaped burst, or some other shape.
+_Creatures_: A spell with this kind of area affects creatures directly (like a targeted spell), but it affects all creatures in an area of some kind rather than individual creatures you select. The area might be a spherical burst , a cone-shaped burst, or some other shape.
 
 Many spells affect “living creatures,” which means all creatures other than constructs and undead. Creatures in the spell’s area that are not of the appropriate type do not count against the creatures affected.
 
-*Objects*: A spell with this kind of area affects objects within an area you select (as Creatures, but affecting objects instead).
+_Objects_: A spell with this kind of area affects objects within an area you select (as Creatures, but affecting objects instead).
 
-*Other*: A spell can have a unique area, as defined in its description.
+_Other_: A spell can have a unique area, as defined in its description.
 
-*(S) Shapeable*: If an Area or Effect entry ends with “(S),” you can shape the spell. A shaped effect or area can have no dimension smaller than 10 feet. Many effects or areas are given as cubes to make it easy to model irregular shapes. Three-dimensional volumes are most often needed to define aerial or underwater effects and areas.
+_(S) Shapeable_: If an Area or Effect entry ends with “(S),” you can shape the spell. A shaped effect or area can have no dimension smaller than 10 feet. Many effects or areas are given as cubes to make it easy to model irregular shapes. Three-dimensional volumes are most often needed to define aerial or underwater effects and areas.
 
 **Line of Effect**: A line of effect is a straight, unblocked path that indicates what a spell can affect. A line of effect is canceled by a solid barrier. It’s like line of sight for ranged weapons, except that it’s not blocked by fog, darkness, and other factors that limit normal sight.
 
@@ -356,7 +356,7 @@ If an item is not carried or worn and is not magical, it does not get a saving t
 | 9th       | Magic jewelry (including rings)                    |
 | 10th      | Anything else                                      |
 
-1 *In order of most likely to least likely to be affected.*
+1 _In order of most likely to least likely to be affected._
 
 ##### Spell Resistance
 

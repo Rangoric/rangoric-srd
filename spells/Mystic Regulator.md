@@ -20,12 +20,12 @@ tags: [rangoric, rangoric/spell]
 
 # Mystic Regulator
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Sor/Wiz 3
-  - **Components**: V
-  - **Casting Time**: See text
-  - **Range**: Personal
-  - **Duration**: See text
+- **Level**: Sor/Wiz 3
+- **Components**: V
+- **Casting Time**: See text
+- **Range**: Personal
+- **Duration**: See text
 
-Casting this spell is a free action, like casting a *[[rangoric-srd/feats/Quicken Spell|quickened]]* spell, and it counts toward the normal limit of one *[[rangoric-srd/feats/Quicken Spell|quickened]]* spell per round. If the caster casts another spell in the same round, and if that spell has a range other than Personal, Touch or zero, then that spell is changed to affect all valid targets within a 10 ft.radius burst centered up to 15 ft. from the caster. The changed spell may not be of the highest level that the caster is capable of casting.
+Casting this spell is a free action, like casting a _[[rangoric-srd/feats/Quicken Spell|quickened]]_ spell, and it counts toward the normal limit of one _[[rangoric-srd/feats/Quicken Spell|quickened]]_ spell per round. If the caster casts another spell in the same round, and if that spell has a range other than Personal, Touch or zero, then that spell is changed to affect all valid targets within a 10 ft.radius burst centered up to 15 ft. from the caster. The changed spell may not be of the highest level that the caster is capable of casting.

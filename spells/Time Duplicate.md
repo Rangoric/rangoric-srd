@@ -24,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 # Time Duplicate
 
-Conjuration \[Teleportation\]   
+Conjuration \[Teleportation\]  
 Casting DC: 71  
 Components: V, S  
 Casting Time: 1 free action  
@@ -32,7 +32,7 @@ Effect: You
 Duration: 1 round (see text)  
 Saving Throw: None (harmless)  
 Spell Resistance: None (harmless)  
-To Develop: 639,000 gp; 13 days; 25,560 XP. Seed: transport (to move future you back in time 1 round) (DC 27). Factors: move to time stream (+8 DC), stretch the base temporal effect (ad hoc +8 DC), quickened (+28 DC).  
+To Develop: 639,000 gp; 13 days; 25,560 XP. Seed: transport (to move future you back in time 1 round) (DC 27). Factors: move to time stream (+8 DC), stretch the base temporal effect (ad hoc +8 DC), quickened (+28 DC).
 
 The character snatches him or her self from 1 round in the future, depositing this future self in an adjacent space as a free action that counts as a quickened spell. The character’s future self is technically only a possible future self (the time stream is a maelstrom of multiple probabilities), but snatching that future self from 1 round in the future collapses probability, and the possible future becomes the definite future. The character and his or her future self are both free to act normally this round (the character has already used up the limit of one quickened spell per round, but his or her duplicate hasn’t). The future self has all the resources the character has at the moment he or she finishes casting time duplicate. Because the future self was previously only a possibility, his or her resources are not depleted as a result of whatever might occur this round (even if the character dies this round). Likewise, he or she doesn’t have any special knowledge of what might occur during this round. Because the future self is still part of the time stream, the round it spends with the character is a round it misses in its own future. Because the chracter’s future duplicate is also the character, the character misses the next round as well. He or she simply isn’t there. Tampering with the time stream is a tricky business. Here is a round-by-round summary.
 

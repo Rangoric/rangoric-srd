@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, item-creation]
 
 # Craft Psionic Construct
 
-You can create golems and other psionic automatons that obey your orders.  
+You can create golems and other psionic automatons that obey your orders.
 
 Prerequisites: [[rangoric-srd/feats/Craft Psionic Arms and Armor|Craft Psionic Arms and Armor]], [[rangoric-srd/feats/Craft Universal Item|Craft Universal Item]].
 

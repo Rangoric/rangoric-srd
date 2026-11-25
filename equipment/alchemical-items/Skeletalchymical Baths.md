@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Skeletalchymical Baths
 
-*Alchana; Special*
+_Alchana; Special_
 
 Like the [[rangoric-srd/equipment/alchemical-items/Temperant Bath, Lesser|temperant baths]], skeletalchymical baths are not portable items but large tubs of chymicals usually found in a laboratory. As the next step beyond the [[rangoric-srd/equipment/alchemical-items/Bone Balms|bone balms]], necromantic alchemists created full chymical immersives whose effects would permanently enhance and change the structure and integrity of bone.
 

@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Brawler, Greater
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
 While raging, the barbarian is treated as if she has [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]] when making unarmed strike attacks.
 

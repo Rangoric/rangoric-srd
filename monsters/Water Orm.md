@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Water Orm
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Aquatic)
-  - **Hit Dice**: 13d10+65 (136 hp)
-  - **Initiative**: +7
-  - **Speed**: 20 ft. (4 squares), swim 50 ft.
-  - **Armor Class**: 24 (+3 Dex, +13 natural, –2 size), touch 11, flat-footed 21
-  - **Base Attack**: +13; **CMB**: +23 (+27 grapple); **CMD**: 36 (40 vs. trip)
-  - **Attack**: Bite +19 melee (4d6+8/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or tail slap +19 melee (2d8+4)
-  - **Full Attack**: Bite +19 melee (4d6+8/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and tail slap +14 melee (2d8+4)
-  - **Space/Reach**: 15 ft./15 ft. (20 ft. with bite)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Swallow Whole|Swallow whole]] (3d6+12 bludgeoning damage, AC 16, 13 hp)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Elusive|elusive]], [[rangoric-srd/monsters/abilities/Water Travel|water travel]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 20
-  - **Saves**: Fort +13, Ref +13, Will +7
-  - **Abilities**: Str 26, Dex 16, Con 21, Int 4, Wis 13, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +14
-  - **Feats**: [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
-  - **Environment**: Any lakes
-  - **Organization**: Solitary
-  - **Challenge Rating**: 10
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Aquatic)
+- **Hit Dice**: 13d10+65 (136 hp)
+- **Initiative**: +7
+- **Speed**: 20 ft. (4 squares), swim 50 ft.
+- **Armor Class**: 24 (+3 Dex, +13 natural, –2 size), touch 11, flat-footed 21
+- **Base Attack**: +13; **CMB**: +23 (+27 grapple); **CMD**: 36 (40 vs. trip)
+- **Attack**: Bite +19 melee (4d6+8/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or tail slap +19 melee (2d8+4)
+- **Full Attack**: Bite +19 melee (4d6+8/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and tail slap +14 melee (2d8+4)
+- **Space/Reach**: 15 ft./15 ft. (20 ft. with bite)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Swallow Whole|Swallow whole]] (3d6+12 bludgeoning damage, AC 16, 13 hp)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Elusive|elusive]], [[rangoric-srd/monsters/abilities/Water Travel|water travel]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 20
+- **Saves**: Fort +13, Ref +13, Will +7
+- **Abilities**: Str 26, Dex 16, Con 21, Int 4, Wis 13, Cha 11
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +14
+- **Feats**: [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
+- **Environment**: Any lakes
+- **Organization**: Solitary
+- **Challenge Rating**: 10
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Just as sailors tell stories of sea serpents, so do denizens on the shores of remote lakes whisper of strange, secretive monsters lurking in the depths of these large bodies of water. Like sea serpents, proof of their existence is as elusive as the beasts themselves. Known as water orms and believed by some to be a strange link between linnorms and sea serpents, most locals refer to any such local monster (real or imagined) by a pet name or the name of the lake it calls home. Water orms are craftier than sea serpents, and generally inclined toward curiosity rather than violence. Nevertheless, a water orm does not hesitate to attack any creature it views as a threat to itself or its lake.
 

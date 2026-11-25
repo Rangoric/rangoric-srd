@@ -23,6 +23,6 @@ A golem manual contains information, incantations and magical power that help a 
 
 The spells included in a golem manual require a spell trigger activation and can be activated only to assist in the construction of a golem. The cost of the book does not include the cost of constructing the golem’s body. Once the golem is finished, the writing in the manual fades and the book is consumed in flames. When the book’s ashes are sprinkled upon the golem, it becomes fully animated.
 
-*Flesh Golem Manual*: The book contains animate dead, bull’s strength, geas/quest, and limited wish. The reader may treat her caster level as one level higher than normal for the purpose of crafting a flesh golem. The book supplies 780 XP for the creation of a flesh golem.
+_Flesh Golem Manual_: The book contains animate dead, bull’s strength, geas/quest, and limited wish. The reader may treat her caster level as one level higher than normal for the purpose of crafting a flesh golem. The book supplies 780 XP for the creation of a flesh golem.
 
 Moderate enchantment, necromancy \[evil\], and transmutation; CL 8th; Craft Construct, creator must be caster level 8th, animate dead, bull’s strength, geas/quest, limited wish; Price 8,000 gp; Cost 2,050 gp + 944 XP; Weight 5 lb.

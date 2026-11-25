@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/heavy-blades, weapon-gro
 
 # Heaven and Earth, Sun and Moon Sword
 
-*Exotic two-handed melee weapon (double).* Cost 120 gp; Dmg 1d4/1d4 (S), 1d6/1d6 (M); Critical 19-20/x2; Weight 10 lb.; Type Slashing. ^stats
+_Exotic two-handed melee weapon (double)._ Cost 120 gp; Dmg 1d4/1d4 (S), 1d6/1d6 (M); Critical 19-20/x2; Weight 10 lb.; Type Slashing. ^stats
 
 Symbolic of balance, the heaven and earth, sun and moon sword is much like the cicada wing sword, save that its handguards are farther apart, and its sword blades are curved. A heaven and earth, sun and moon sword is a double weapon. One can fight with it as if fighting with two weapons, incurring all of the normal attack penalties associated with fighting with two weapons (although the off-hand weapon is considered light). A creature using a heaven and earth, sun and moon sword in one hand cannot use it as a double weapon.

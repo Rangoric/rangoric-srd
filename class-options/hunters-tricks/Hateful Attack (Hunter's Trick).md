@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Hateful Attack
 
-*A [[rangoric-srd/class-options/hunters-tricks/Hunter's Tricks|hunter’s trick]] (Ex), which a [[rangoric-srd/class-options/archetypes/ranger/Skirmisher (Archetype)|skirmisher]] ranger learns.*
+_A [[rangoric-srd/class-options/hunters-tricks/Hunter's Tricks|hunter’s trick]] (Ex), which a [[rangoric-srd/class-options/archetypes/ranger/Skirmisher (Archetype)|skirmisher]] ranger learns._
 
 The ranger can use this trick as a free action when he makes an attack against one of his [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemies]]. The ranger doubles the threat range of his weapon for this attack. This does not stack with other abilities that increase a weapon's threat range.

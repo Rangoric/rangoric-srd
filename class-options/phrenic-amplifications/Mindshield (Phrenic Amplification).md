@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Mindshield
 
-*A psychic’s [[rangoric-srd/classes/Psychic (Class)#^psychic-phrenic-amplifications|phrenic amplification]] (Su).*
+_A psychic’s [[rangoric-srd/classes/Psychic (Class)#^psychic-phrenic-amplifications|phrenic amplification]] (Su)._
 
 The psychic can spend 1 point from her [[rangoric-srd/classes/Psychic (Class)#^psychic-phrenic-pool|phrenic pool]] to give one target of the linked spell a +2 morale bonus on Will saves for 1 round per psychic level (maximum 10 rounds). The psychic can instead spend 2 points to increase the bonus to +4. If the linked spell affects more than one creature, the psychic can spend the same number of points for each additional creature she wants to affect with this amplification. She must choose to spend either 1 point for each creature or 2 points for each creature; she can’t grant different bonuses to different targets.

@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Ferocious Mount, Greater
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
 While raging and mounted, the barbarian’s mount gains the benefits of any rage powers that are constant in effect when the barbarian is raging. It does not gain the benefit of any rage powers that require actions to activate, even if they are free actions.
 

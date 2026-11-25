@@ -38,27 +38,27 @@ tags: [rangoric, rangoric/monster]
 
 # Immense Tortoise
 
-  - Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 11d8+77 (126 hp)
-  - **Initiative**: –2
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 25 (–2 Dex, +25 natural, –8 size), touch 0, flat-footed 25
-  - **Base Attack**: +8; **CMB**: +31; **CMD**: 39 (43 vs. trip)
-  - **Attack**: Bite +15 melee (4d6+22/19–20)
-  - **Full Attack**: Bite +15 melee (4d6+22/19–20)
-  - **Space/Reach**: 30 ft./30 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (2d8 + 22, DC 30)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Buoyant|buoyant]], [[rangoric-srd/monsters/abilities/Shell|shell]], [[rangoric-srd/monsters/abilities/Slow and Steady|slow and steady]]
-  - **Saves**: Fort +16, Ref +5, Will +3
-  - **Abilities**: Str 40, Dex 7, Con 24, Int 2, Wis 11, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +14 (+10 for sound–based checks)
-  - **Feats**: [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Great Fortitude|Improved Great Fortitude]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Warm islands
-  - **Organization**: Solitary
-  - **Challenge Rating**: 8
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 11d8+77 (126 hp)
+- **Initiative**: –2
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 25 (–2 Dex, +25 natural, –8 size), touch 0, flat-footed 25
+- **Base Attack**: +8; **CMB**: +31; **CMD**: 39 (43 vs. trip)
+- **Attack**: Bite +15 melee (4d6+22/19–20)
+- **Full Attack**: Bite +15 melee (4d6+22/19–20)
+- **Space/Reach**: 30 ft./30 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (2d8 + 22, DC 30)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Buoyant|buoyant]], [[rangoric-srd/monsters/abilities/Shell|shell]], [[rangoric-srd/monsters/abilities/Slow and Steady|slow and steady]]
+- **Saves**: Fort +16, Ref +5, Will +3
+- **Abilities**: Str 40, Dex 7, Con 24, Int 2, Wis 11, Cha 9
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +14 (+10 for sound–based checks)
+- **Feats**: [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Great Fortitude|Improved Great Fortitude]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Warm islands
+- **Organization**: Solitary
+- **Challenge Rating**: 8
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 These immense, ancient tortoises never stop growing.

@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Clay Armor
 
-*Medium armor.* Cost 25 gp; Armor Bonus +3; Maximum Dex Bonus +4; Armor Check Penalty –3; Arcane Spell Failure 22%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 30 lb. ^stats
+_Medium armor._ Cost 25 gp; Armor Bonus +3; Maximum Dex Bonus +4; Armor Check Penalty –3; Arcane Spell Failure 22%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 30 lb. ^stats
 
 More of a breastplate than an actual suit of armor, many barbarians use dried clay and strips of weathered leather to create a unique looking armor. The clay armor is usually tooled with symbols that represent the tribe.

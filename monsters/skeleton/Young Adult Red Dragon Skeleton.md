@@ -40,25 +40,25 @@ tags: [rangoric, rangoric/monster]
 
 # Young Adult Red Dragon Skeleton
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fire|Fire]])
-  - **Hit Dice**: 19d12 (123 hp)
-  - **Initiative**: +5
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 12 (–2 size, +1 Dex, +3 natural), touch 9, flat-footed 11
-  - **Base Attack**: +9; **CMB**: +21; **CMD**: 32 (36 vs. trip)
-  - **Attack**: Bite +17 melee (2d8+10)
-  - **Full Attack**: Bite +17 melee (2d8+10) and 2 claws +12 melee (2d6+5) and 2 wings +12 melee (1d8+5) and tail slap +12 melee (2d6+15)
-  - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/bludgeoning, darkvision 60 ft., immunity to cold and fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
-  - **Saves**: Fort +6, Ref +7, Will +8
-  - **Abilities**: Str 31, Dex 12, Con —, Int —, Wis 10, Cha 1
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +32
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
-  - **Environment**: Warm mountains
-  - **Organization**: Any
-  - **Challenge Rating**: 8
-  - **Treasure**: None
-  - **Alignment**: Always neutral evil
-  - **Advancement**: 20 HD (Huge)
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fire|Fire]])
+- **Hit Dice**: 19d12 (123 hp)
+- **Initiative**: +5
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 12 (–2 size, +1 Dex, +3 natural), touch 9, flat-footed 11
+- **Base Attack**: +9; **CMB**: +21; **CMD**: 32 (36 vs. trip)
+- **Attack**: Bite +17 melee (2d8+10)
+- **Full Attack**: Bite +17 melee (2d8+10) and 2 claws +12 melee (2d6+5) and 2 wings +12 melee (1d8+5) and tail slap +12 melee (2d6+15)
+- **Space/Reach**: 15 ft./10 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/bludgeoning, darkvision 60 ft., immunity to cold and fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
+- **Saves**: Fort +6, Ref +7, Will +8
+- **Abilities**: Str 31, Dex 12, Con —, Int —, Wis 10, Cha 1
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +32
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
+- **Environment**: Warm mountains
+- **Organization**: Any
+- **Challenge Rating**: 8
+- **Treasure**: None
+- **Alignment**: Always neutral evil
+- **Advancement**: 20 HD (Huge)
+- **Level Adjustment**: —

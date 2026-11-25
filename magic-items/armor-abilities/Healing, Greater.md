@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Healing, Greater
 
-*Greater healing* armors and shields are similar to those with the healing enchantment. Once per day as a free action, this armor or shield can be called upon to grant only the wearer (or wielder) the effect of *cure serious wounds.*
+_Greater healing_ armors and shields are similar to those with the healing enchantment. Once per day as a free action, this armor or shield can be called upon to grant only the wearer (or wielder) the effect of _cure serious wounds._
 
-Moderate conjuration [healing]; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]*; Price +2 bonus.
+Moderate conjuration [healing]; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]_; Price +2 bonus.

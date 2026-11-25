@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Warding
 
-Once per day as an immediate action, the wearer of *warding* armor can activate it to end all active [[rangoric-srd/classes/Cavalier#^cavalier-challenge|challenge]], [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-judgment|judgment]], and [[rangoric-srd/classes/Paladin#^paladin-smite-evil|smite]] abilities affecting her. This does not prevent opponents from selecting her as a target for these abilities in the future. As a swift action, the wearer can expend one of her own challenge, judgment, or smite abilities to refresh the armor's ability to end these attacks.
+Once per day as an immediate action, the wearer of _warding_ armor can activate it to end all active [[rangoric-srd/classes/Cavalier#^cavalier-challenge|challenge]], [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-judgment|judgment]], and [[rangoric-srd/classes/Paladin#^paladin-smite-evil|smite]] abilities affecting her. This does not prevent opponents from selecting her as a target for these abilities in the future. As a swift action, the wearer can expend one of her own challenge, judgment, or smite abilities to refresh the armor's ability to end these attacks.
 
-Strong abjuration; CL 12th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Atonement|atonement]]*; Price +1 bonus.
+Strong abjuration; CL 12th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Atonement|atonement]]_; Price +1 bonus.

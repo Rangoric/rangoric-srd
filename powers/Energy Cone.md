@@ -33,7 +33,7 @@ Psychokinesis \[see text\]
 **Duration:** Instantaneous  
 **Saving Throw:** Reflex half or Fortitude half; see text  
 **Power Resistance:** Yes  
-**Power Points:** 5  
+**Power Points:** 5
 
 Upon manifesting this power, you choose cold, electricity, fire, or sonic. You create a cone of energy of the chosen type, extending outward from your hand, that deals 5d6 points of damage to every creature or object within the area.
 

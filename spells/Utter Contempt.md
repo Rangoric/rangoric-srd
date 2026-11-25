@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Utter Contempt
 
-*Enchantment \[Emotion\]*
+_Enchantment \[Emotion\]_
 
-  - **Level**: Apl 3, Brd 4, Mes 4, Psy 5, Skd 4, Sor/Wiz 6
-  - **Components**: V, S, M (spittle)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Apl 3, Brd 4, Mes 4, Psy 5, Skd 4, Sor/Wiz 6
+- **Components**: V, S, M (spittle)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: 1 minute/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 You fill the target's heart with malice for all other creatures. The target's attitude toward all creatures other than itself worsens by two steps.

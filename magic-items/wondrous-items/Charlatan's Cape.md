@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Charlatan's Cape
 
-This garish cloak of red velvet is embroidered with gold-threaded patterns, typically in shapes of sinisterly masked harlequins or other imagery of sinister revelry. The cloak acts like a *[[rangoric-srd/magic-items/wondrous-items/Cape of the Mountebank|cloak of the mountebank]]*, but its *[[rangoric-srd/spells/Dimension Door|dimension door]]* power can be used three times per day. Furthermore, once per day the wearer of the cloak can use *[[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]]*, as per the spell.
+This garish cloak of red velvet is embroidered with gold-threaded patterns, typically in shapes of sinisterly masked harlequins or other imagery of sinister revelry. The cloak acts like a _[[rangoric-srd/magic-items/wondrous-items/Cape of the Mountebank|cloak of the mountebank]]_, but its _[[rangoric-srd/spells/Dimension Door|dimension door]]_ power can be used three times per day. Furthermore, once per day the wearer of the cloak can use _[[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]]_, as per the spell.
 
-Faint evocation and illusion; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Dimension Door|dimension door]]*, *[[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]]*; Price 45,000 gp; Cost 22,500 gp; Weight 1 lb.
+Faint evocation and illusion; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Dimension Door|dimension door]]_, _[[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]]_; Price 45,000 gp; Cost 22,500 gp; Weight 1 lb.

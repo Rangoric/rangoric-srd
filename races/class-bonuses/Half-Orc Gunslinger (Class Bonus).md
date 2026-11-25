@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Half-Orc Gunslinger
 
-*A [[rangoric-srd/races/Half-Orc|half-orc]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Gunslinger#^gunslinger-class-bonuses|gunslinger]] level.*
+_A [[rangoric-srd/races/Half-Orc|half-orc]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Gunslinger#^gunslinger-class-bonuses|gunslinger]] level._
 
 Add a +1/3 bonus on attack rolls when using the [[rangoric-srd/class-options/deeds/Pistol-Whip (Deed)|pistol whip]] [[rangoric-srd/classes/Gunslinger#^gunslinger-deeds|deed]].

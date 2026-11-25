@@ -26,15 +26,15 @@ tags: [rangoric, rangoric/spell]
 
 # Interplanetary Teleport
 
-*Conjuration (Teleportation)*
+_Conjuration (Teleportation)_
 
-  - **Level**: Clr 9, Psy 9, Sor/Wiz 9
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal and touch
-  - **Target**: You and touched objects or other touched willing creatures
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None and Will negates (object)
-  - **Spell Resistance**: No and yes (object)
+- **Level**: Clr 9, Psy 9, Sor/Wiz 9
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Personal and touch
+- **Target**: You and touched objects or other touched willing creatures
+- **Duration**: Instantaneous
+- **Saving Throw**: None and Will negates (object)
+- **Spell Resistance**: No and yes (object)
 
-This spell functions as *[[rangoric-srd/spells/Teleport|teleport]]*, except there is truly no range limit and you do not need to have seen your destination, though you must have a solid grasp of which world you wish to travel to (“the third planet from the sun” is an acceptable destination, but “a habitable world near that bright star” is not). If you have a specific location on a planet in mind, you arrive there without a chance of failure; otherwise you arrive at a location that would not immediately be life-threatening. If no such safe landing zone exists on the world, such as someone attempting to travel into the sun without the proper precautions in place, the spell simply fails.
+This spell functions as _[[rangoric-srd/spells/Teleport|teleport]]_, except there is truly no range limit and you do not need to have seen your destination, though you must have a solid grasp of which world you wish to travel to (“the third planet from the sun” is an acceptable destination, but “a habitable world near that bright star” is not). If you have a specific location on a planet in mind, you arrive there without a chance of failure; otherwise you arrive at a location that would not immediately be life-threatening. If no such safe landing zone exists on the world, such as someone attempting to travel into the sun without the proper precautions in place, the spell simply fails.

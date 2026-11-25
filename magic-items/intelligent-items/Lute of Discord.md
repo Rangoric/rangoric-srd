@@ -28,10 +28,10 @@ tags: [rangoric, rangoric/magic-item]
 
 This lute is a masterwork instrument constructed of polished ebony, with mother of pearl embellishments and gold frets. It grants any creature playing it a +2 competence bonus on [[rangoric-srd/skills/Performance|Performance]] (string instruments) checks as it gently telepathically whispers ways the creature can improve its current performance. It also grants those who can play the lute the following abilities.
 
-- Three times per day on command, a creature with at least 6 ranks in [[rangoric-srd/skills/Performance|Performance]] (string instruments) can play a chord on the lute of discord to employ the *[[rangoric-srd/spells/Murderous Command|murderous command]]* spell.
-- Three times per day on command, a creature with at least 6 ranks in [[rangoric-srd/skills/Performance|Performance]] (string instruments) can play a chord on the *lute of discord* to use the *[[rangoric-srd/spells/Distracting Cacophony|distracting cacophony]]* spell (3rd level).
-- Once per day on command, a creature with at least 6 ranks in [[rangoric-srd/skills/Performance|Performance]] (string instruments) can play a chord to use the *[[rangoric-srd/spells/Echolocation|echolocation]]* spell (4th level caster).
+- Three times per day on command, a creature with at least 6 ranks in [[rangoric-srd/skills/Performance|Performance]] (string instruments) can play a chord on the lute of discord to employ the _[[rangoric-srd/spells/Murderous Command|murderous command]]_ spell.
+- Three times per day on command, a creature with at least 6 ranks in [[rangoric-srd/skills/Performance|Performance]] (string instruments) can play a chord on the _lute of discord_ to use the _[[rangoric-srd/spells/Distracting Cacophony|distracting cacophony]]_ spell (3rd level).
+- Once per day on command, a creature with at least 6 ranks in [[rangoric-srd/skills/Performance|Performance]] (string instruments) can play a chord to use the _[[rangoric-srd/spells/Echolocation|echolocation]]_ spell (4th level caster).
 
 **Intelligent item**: Int 14, Wis 14, Cha 18, Ego 14; chaotic neutral; Senses 120 ft., darkvision; Language telepathy (Common and four other languages).
 
-Moderate enchantment; CL 12th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Distracting Cacophony|distracting cacophony]]*, *[[rangoric-srd/spells/Echolocation|echolocation]]*, *[[rangoric-srd/spells/Murderous Command|murderous command]]*; Price 37,900 gp; Cost 18,950 gp.
+Moderate enchantment; CL 12th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Distracting Cacophony|distracting cacophony]]_, _[[rangoric-srd/spells/Echolocation|echolocation]]_, _[[rangoric-srd/spells/Murderous Command|murderous command]]_; Price 37,900 gp; Cost 18,950 gp.

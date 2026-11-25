@@ -56,18 +56,18 @@ The faerier’s class skills (and the key ability for each skill) are [[rangoric
 
 **Table: The Faerier** ^table-the-faerier
 
-| Level | Special |
-| --- | --- |
-| 1st | Fey Sense, 1st Fey Art |
-| 2nd | Fey Friend |
-| 3rd | Detect Doorways, 2nd Fey Art |
-| 4th | Create Doorways and Backroad |
-| 5th | Fey Form, 3rd Fey Art |
-| 6th | 4th Fey Art |
-| 7th | Timeless Body |
-| 8th | 5th Fey Art |
-| 9th | True Fey Form |
-| 10th | Create Doorway and Sideroad, 6th Fey Art |
+| Level | Special                                  |
+| ----- | ---------------------------------------- |
+| 1st   | Fey Sense, 1st Fey Art                   |
+| 2nd   | Fey Friend                               |
+| 3rd   | Detect Doorways, 2nd Fey Art             |
+| 4th   | Create Doorways and Backroad             |
+| 5th   | Fey Form, 3rd Fey Art                    |
+| 6th   | 4th Fey Art                              |
+| 7th   | Timeless Body                            |
+| 8th   | 5th Fey Art                              |
+| 9th   | True Fey Form                            |
+| 10th  | Create Doorway and Sideroad, 6th Fey Art |
 
 ###### Class Features
 
@@ -79,39 +79,39 @@ All of the following are class features of the faerier prestige class.
 
 **Fey Arts (Sp)**: At 1st level, the faerier chooses whether to study the magic of Seelie or Unseelie faeries. Faeriers of evil alignment may not study Seelie magic, and those of good alignment may not study Unseelie magic. Once the choice is made, the faerier selects his fey arts from the matching list below, and he may not switch between these studies at any later time. He chooses one fey art at 1st level, and an additional fey art at 3rd, 5th, 6th, 8th, and 10th levels; he may not select the same fey art more than once. Each fey art is a spell-like ability, detailed below. ^faerier-fey-arts
 
-***Seelie Arts***
+**_Seelie Arts_**
 
-*Dryad Form*: Once per day, you may cast *[[rangoric-srd/spells/Tree Shape|tree shape]]* as if cast by a 6th-level druid.
+_Dryad Form_: Once per day, you may cast _[[rangoric-srd/spells/Tree Shape|tree shape]]_ as if cast by a 6th-level druid.
 
-*Gnome Brew*: Once per day, as a full-round action, you may imbue up to 1 barrel of liquor with an enchanting potency. Creatures that drink a mug of the enchanted liquor must make a Fortitude Save (DC 11 + faerier level) or immediately fall asleep for 1d4 days. Creatures sleeping off the effects of a *gnome brew* do not suffer from starvation or dehydration due to the magical nature of the draught. Dwarves and fey creatures are not affected. Any creatures put to sleep by the enchanted liquor awaken if they receive a damage-causing blow. The DC increases by 1 for each mug consumed without failing the Fortitude Save.
+_Gnome Brew_: Once per day, as a full-round action, you may imbue up to 1 barrel of liquor with an enchanting potency. Creatures that drink a mug of the enchanted liquor must make a Fortitude Save (DC 11 + faerier level) or immediately fall asleep for 1d4 days. Creatures sleeping off the effects of a _gnome brew_ do not suffer from starvation or dehydration due to the magical nature of the draught. Dwarves and fey creatures are not affected. Any creatures put to sleep by the enchanted liquor awaken if they receive a damage-causing blow. The DC increases by 1 for each mug consumed without failing the Fortitude Save.
 
-*Grig Fiddle*: Once per day, you may play an enchanting tune on a fiddle or other stringed instrument. While you play this enchanted tune, all non-fey creatures within 60 feet must make a Will save (DC 15 + faerier level) or be affected as if by the *[[rangoric-srd/spells/Irresistible Dance|irresistible dance]]* spell. The effect ends when you stop playing. Any creature attacked while affected by this ability stops dancing at the beginning of the following round.
+_Grig Fiddle_: Once per day, you may play an enchanting tune on a fiddle or other stringed instrument. While you play this enchanted tune, all non-fey creatures within 60 feet must make a Will save (DC 15 + faerier level) or be affected as if by the _[[rangoric-srd/spells/Irresistible Dance|irresistible dance]]_ spell. The effect ends when you stop playing. Any creature attacked while affected by this ability stops dancing at the beginning of the following round.
 
-*Hanid Hiding*: Once per day as a full-round action, you may become immaterial and house your spirit in any plant within 10 feet. Your body, clothing, and gear become invisible and immaterial as well and rematerialize when you do. You may remain hidden in the plant for up to 3 hours. Emerging from the plant requires a full-round action. If a plant in which you are hiding is killed, you must succeed at a Fortitude Save (DC 15) or die. A successful save causes you to rematerialize at a randomly determined location within 10 feet.
+_Hanid Hiding_: Once per day as a full-round action, you may become immaterial and house your spirit in any plant within 10 feet. Your body, clothing, and gear become invisible and immaterial as well and rematerialize when you do. You may remain hidden in the plant for up to 3 hours. Emerging from the plant requires a full-round action. If a plant in which you are hiding is killed, you must succeed at a Fortitude Save (DC 15) or die. A successful save causes you to rematerialize at a randomly determined location within 10 feet.
 
-*Hybsil Sight*: As a free action, you may choose to see invisible objects and creatures for up to 10 minutes three times per day.
+_Hybsil Sight_: As a free action, you may choose to see invisible objects and creatures for up to 10 minutes three times per day.
 
-*Nixie Breath*: Three times per day, you may cast *[[rangoric-srd/spells/Water Breathing|water breathing]]* as if cast by a 6th-level druid.
+_Nixie Breath_: Three times per day, you may cast _[[rangoric-srd/spells/Water Breathing|water breathing]]_ as if cast by a 6th-level druid.
 
-***Unseelie Arts***
+**_Unseelie Arts_**
 
-*Bogan’s Fog*: Three times per day as a full-round action, you may cause a cloud of fog to form. The fog is centered on your location when the ability is activated and extends to a 40-foot radius, providing total concealment to everything inside the cloud. The fog dissipates in 2d4 minutes.
+_Bogan’s Fog_: Three times per day as a full-round action, you may cause a cloud of fog to form. The fog is centered on your location when the ability is activated and extends to a 40-foot radius, providing total concealment to everything inside the cloud. The fog dissipates in 2d4 minutes.
 
-*Hob Lick*: Once per day as a full-round action, you may lick an edged weapon to coat it with fey poison. A successful hit with that weapon exposes the target to the [[rangoric-srd/rules/Afflictions#Poison|poison]]: injury; *save* Fort DC 13 + faerier level; *frequency* 1/minute for 2 minutes; *effect* 1d4 Con [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]]. The fey poison lasts for 5 minutes or until an attack using the weapon causes damage.
+_Hob Lick_: Once per day as a full-round action, you may lick an edged weapon to coat it with fey poison. A successful hit with that weapon exposes the target to the [[rangoric-srd/rules/Afflictions#Poison|poison]]: injury; _save_ Fort DC 13 + faerier level; _frequency_ 1/minute for 2 minutes; _effect_ 1d4 Con [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]]. The fey poison lasts for 5 minutes or until an attack using the weapon causes damage.
 
-*Pixie Invisibility*: Three times per day, you may become [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] for up to 10 minutes. You remain invisible even while casting spells or attacking but become visible if you are successfully attacked or otherwise suffer damage.
+_Pixie Invisibility_: Three times per day, you may become [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] for up to 10 minutes. You remain invisible even while casting spells or attacking but become visible if you are successfully attacked or otherwise suffer damage.
 
-*Satyr Pipe*: Once per day, you may play an enchanting tune on pipes or some other wind instrument. While you play this enchanted tune, all non-fey creatures within 60 feet must make a Will save (DC 15 + faerier level) or be affected as if by *[[rangoric-srd/spells/Fear|fear]]*. The effect ends when you stop playing.
+_Satyr Pipe_: Once per day, you may play an enchanting tune on pipes or some other wind instrument. While you play this enchanted tune, all non-fey creatures within 60 feet must make a Will save (DC 15 + faerier level) or be affected as if by _[[rangoric-srd/spells/Fear|fear]]_. The effect ends when you stop playing.
 
-*Siren Song*: Once per day, you may call out to a creature, which must make a Will save (DC 22, -2 for every 20 feet of distance from you) or feel compelled to walk toward you. An affected creature disregards all considerations other than his compulsion to move toward you in a straight line. If a dangerous obstacle appears in the creature’s path (such as the edge of a cliff or a body of water), the target is immediately allowed another Will save with a +5 natural bonus. If the target fails his save, he ignores any dangers or obstacles in his path. Affected creatures attempt to walk the entire distance at their normal movement rate; they do not run, fly, or swim, even if doing so would make sense to someone not enchanted.
+_Siren Song_: Once per day, you may call out to a creature, which must make a Will save (DC 22, -2 for every 20 feet of distance from you) or feel compelled to walk toward you. An affected creature disregards all considerations other than his compulsion to move toward you in a straight line. If a dangerous obstacle appears in the creature’s path (such as the edge of a cliff or a body of water), the target is immediately allowed another Will save with a +5 natural bonus. If the target fails his save, he ignores any dangers or obstacles in his path. Affected creatures attempt to walk the entire distance at their normal movement rate; they do not run, fly, or swim, even if doing so would make sense to someone not enchanted.
 
-*Sprite Charm*: Three times per day, you may cast *[[rangoric-srd/spells/Charm Person|charm person]]* or *[[rangoric-srd/spells/Charm Animal|charm animal]]* as a 6th-level druid.
+_Sprite Charm_: Three times per day, you may cast _[[rangoric-srd/spells/Charm Person|charm person]]_ or _[[rangoric-srd/spells/Charm Animal|charm animal]]_ as a 6th-level druid.
 
 **Fey Friend (Ex)**: At 2nd level, the faerier gains [[rangoric-srd/prestige-classes/Fey Class Features#^fey-friend|fey friend]]. ^faerier-fey-friend
 
-**Detect Doorways (Su)**: At 3rd level, the faerier gains an innate sense for the presence of fey [[rangoric-srd/rules/Fey Roads and Doorways#Doorways|doorways]]. Once per day per faerier level, the faerier can detect nearby doorways and backroads as if casting *[[rangoric-srd/spells/Detect Doorway|detect doorway]]*. ^faerier-detect-doorways
+**Detect Doorways (Su)**: At 3rd level, the faerier gains an innate sense for the presence of fey [[rangoric-srd/rules/Fey Roads and Doorways#Doorways|doorways]]. Once per day per faerier level, the faerier can detect nearby doorways and backroads as if casting _[[rangoric-srd/spells/Detect Doorway|detect doorway]]_. ^faerier-detect-doorways
 
-**Create Doorways and Backroad (Sp)**: At 4th level, the faerier gains the ability to create doorways and connecting backroads once every 10 days, as if he were a fey creature. This ability works like the *[[rangoric-srd/spells/Create Doorway and Backroad|create doorway and backroad]]* spell and requires the faerier to pay the listed XP cost. ^faerier-create-doorways-and-backroad
+**Create Doorways and Backroad (Sp)**: At 4th level, the faerier gains the ability to create doorways and connecting backroads once every 10 days, as if he were a fey creature. This ability works like the _[[rangoric-srd/spells/Create Doorway and Backroad|create doorway and backroad]]_ spell and requires the faerier to pay the listed XP cost. ^faerier-create-doorways-and-backroad
 
 **Fey Form (Su)**: Due to his extreme study of fey beings, the faerier may assume the form of a fey creature once per day. This special ability works like a druid’s [[rangoric-srd/classes/Druid#^druid-wild-shape|wild shape]], but is limited to the forms of fey creatures within one size category of the faerier. A faerier gains this ability at 5th level. ^faerier-fey-form
 
@@ -119,4 +119,4 @@ All of the following are class features of the faerier prestige class.
 
 **True Fey Form (Su)**: At the culmination of his study of fey beings, the faerier may assume the form of a fey creature once per day. This special ability works like a druid’s [[rangoric-srd/classes/Druid#^druid-wild-shape|wild shape]], but is limited to fey creatures within two size categories of the faerier. A faerier gains this ability at 9th level. ^faerier-true-fey-form
 
-**Create Doorway and Sideroad (Sp)**: At 10th level, the faerier can create doorways and connecting sideroads once every 30 days, as if he were a fey creature. This ability works like the *[[rangoric-srd/spells/Create Doorway and Sideroad|create doorway and sideroad]]* spell and requires the faerier to pay the listed XP cost. ^faerier-create-doorway-and-sideroad
+**Create Doorway and Sideroad (Sp)**: At 10th level, the faerier can create doorways and connecting sideroads once every 30 days, as if he were a fey creature. This ability works like the _[[rangoric-srd/spells/Create Doorway and Sideroad|create doorway and sideroad]]_ spell and requires the faerier to pay the listed XP cost. ^faerier-create-doorway-and-sideroad

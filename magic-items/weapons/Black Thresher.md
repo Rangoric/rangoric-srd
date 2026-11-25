@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 This fearsome implement of war looks like an oversized flail made of pitted black iron. Jagged spikes protrude from the head in all directions, some measuring two feet long or more. An enormous black chain attaches this beast to an iron-bound darkwood handle.
 
-This *+2 heavy flail* requires at least 18 Strength to wield properly. Otherwise, the user takes a –4 penalty to all attack rolls. However, a [[rangoric-srd/prestige-classes/Blackguard|blackguard]] can use this weapon to full effect. In his hands, it functions as a *+4 unholy heavy flail* that deals triple damage against inanimate objects.
+This _+2 heavy flail_ requires at least 18 Strength to wield properly. Otherwise, the user takes a –4 penalty to all attack rolls. However, a [[rangoric-srd/prestige-classes/Blackguard|blackguard]] can use this weapon to full effect. In his hands, it functions as a _+4 unholy heavy flail_ that deals triple damage against inanimate objects.
 
-Strong evocation [evil]; CL 15th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Unholy Blight|unholy blight]]*, creator must be evil; Price 79,315 gp; Cost 39,815 gp + 3,160 XP.
+Strong evocation [evil]; CL 15th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Unholy Blight|unholy blight]]_, creator must be evil; Price 79,315 gp; Cost 39,815 gp + 3,160 XP.

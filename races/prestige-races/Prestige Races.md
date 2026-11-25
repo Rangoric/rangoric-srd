@@ -23,7 +23,7 @@ Certain sacred places in the fey realm grant the free use of the Evolve feat to 
 
 When the character is ready to perform the enchantment, she must rest and meditate for a brief period of time (one minute per 1,000 XP cost of the enchantment), concentrating on the changes she wishes to experience. She then spends the requisite experience points for the enchantment, and the evolution occurs, completing within a single minute.
 
-Once a character evolves, she is permanently changed, gaining all advantages and disadvantages of the prestige race. A character cannot go back to her original state through any means less than divine intervention—even *[[rangoric-srd/spells/Wish|wish]]* and *[[rangoric-srd/spells/Miracle|miracle]]* cannot undo these changes. This permanent alteration of self changes a person’s entire body, which is why they call the evolved changes “prestige races”. Negative levels, from energy drain or other effects, never take away a prestige race; they cannot be dispelled. Prestige races evolve a character’s body down a specific developmental path, and each path is called a focus. Completion of any focus requires a number of separate enchantments that must be taken in strict order. Not all races are able to take every focus. Consult the individual entries for specifics.
+Once a character evolves, she is permanently changed, gaining all advantages and disadvantages of the prestige race. A character cannot go back to her original state through any means less than divine intervention—even _[[rangoric-srd/spells/Wish|wish]]_ and _[[rangoric-srd/spells/Miracle|miracle]]_ cannot undo these changes. This permanent alteration of self changes a person’s entire body, which is why they call the evolved changes “prestige races”. Negative levels, from energy drain or other effects, never take away a prestige race; they cannot be dispelled. Prestige races evolve a character’s body down a specific developmental path, and each path is called a focus. Completion of any focus requires a number of separate enchantments that must be taken in strict order. Not all races are able to take every focus. Consult the individual entries for specifics.
 
 When spending saved experience points to enchant one’s flesh, no character may ever spend so many experience points that she loses her current level. For example, in order to effect a change requiring 9,500 XP, a character must be at least 10<sup>th</sup> level, and must possess 9,500 experience points not yet spent on advancing a level. A character need not have enough saved experience to advance an entire level, he is not compelled to advance, but may instead perform a flesh enchantment. A character must meet the minimum level requirements which are listed in the descriptions of each change.
 
@@ -45,41 +45,41 @@ If generating new characters for a campaign in the fey realm, players should be 
 
 **Table: Prestige Race Costs**
 
-| Focus and Step | XP |
-| --- | --- |
-| **Focus of the Beast** | |
-| Feral Creature | 3,500 |
-| Wild Creature | 4,500 |
-| Snouted Creature | 5,500 |
-| Tailed Creature | 6,500 |
-| **Focus of the Changeling** | |
-| Bland Creature | 1,400 |
-| Chameleon Creature | 2,500 |
-| Skinflow Creature | 3,600 |
-| Changeling Creature | 6,000 |
-| **Focus of the Fey** | |
-| Centered Creature | 5,500 |
-| Fair Creature | 6,000 |
-| Discerning Creature | 7,000 |
-| Fey Creature | 10,000 |
-| **Focus of the Green** | |
-| Barked Creature | 3,500 |
-| Photosynthesizing Creature | 6,000 |
-| Regenerating Creature | 9,000 |
-| Green Creature | 13,500 |
-| **Focus of the Hordes** | |
-| Goblinoid Creature | 2,800 |
-| Orc-Blooded Creature | 4,000 |
-| Hobgoblinoid Creature | 4,800 |
-| Ogrish Creature | 7,250 |
-| **Focus of the Seersighted** | |
-| Centered Creature | 5,500 |
-| Sighted Creature | 7,000 |
-| Clairvoyant Creature | 9,000 |
-| Seersighted Creature | 10,000 |
-| **Focus of the Shapeshifter** | |
-| Skinflow Creature | 3,600 |
-| Boneknit Creature | 5,000 |
-| Flexible Creature | 6,000 |
-| Sizeshifter Creature | 7,000 |
-| Shapeshifter Creature | 9,000 |
+| Focus and Step                | XP     |
+| ----------------------------- | ------ |
+| **Focus of the Beast**        |        |
+| Feral Creature                | 3,500  |
+| Wild Creature                 | 4,500  |
+| Snouted Creature              | 5,500  |
+| Tailed Creature               | 6,500  |
+| **Focus of the Changeling**   |        |
+| Bland Creature                | 1,400  |
+| Chameleon Creature            | 2,500  |
+| Skinflow Creature             | 3,600  |
+| Changeling Creature           | 6,000  |
+| **Focus of the Fey**          |        |
+| Centered Creature             | 5,500  |
+| Fair Creature                 | 6,000  |
+| Discerning Creature           | 7,000  |
+| Fey Creature                  | 10,000 |
+| **Focus of the Green**        |        |
+| Barked Creature               | 3,500  |
+| Photosynthesizing Creature    | 6,000  |
+| Regenerating Creature         | 9,000  |
+| Green Creature                | 13,500 |
+| **Focus of the Hordes**       |        |
+| Goblinoid Creature            | 2,800  |
+| Orc-Blooded Creature          | 4,000  |
+| Hobgoblinoid Creature         | 4,800  |
+| Ogrish Creature               | 7,250  |
+| **Focus of the Seersighted**  |        |
+| Centered Creature             | 5,500  |
+| Sighted Creature              | 7,000  |
+| Clairvoyant Creature          | 9,000  |
+| Seersighted Creature          | 10,000 |
+| **Focus of the Shapeshifter** |        |
+| Skinflow Creature             | 3,600  |
+| Boneknit Creature             | 5,000  |
+| Flexible Creature             | 6,000  |
+| Sizeshifter Creature          | 7,000  |
+| Shapeshifter Creature         | 9,000  |

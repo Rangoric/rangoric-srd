@@ -31,12 +31,12 @@ tags: [rangoric, rangoric/spell]
 
 # Grease
 
-*Conjuration (Creation)*
+_Conjuration (Creation)_
 
-  - **Level**: Brd 1, Mag 1, Mes 1, Skd 1, Sor/Wiz 1, Sum 1, SumU 1
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Level**: Brd 1, Mag 1, Mes 1, Skd 1, Sor/Wiz 1, Sum 1, SumU 1
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
 
 Target or Area: One object or a 10-ft. square  
 Duration: 1 round/level (D)  
@@ -47,4 +47,4 @@ A grease spell covers a solid surface with a layer of slippery grease. Any creat
 
 The spell can also be used to create a greasy coating on an item. Material objects not in use are always affected by this spell, while an object wielded or employed by a creature receives a Reflex saving throw to avoid the effect. If the initial saving throw fails, the creature immediately drops the item. A saving throw must be made in each round that the creature attempts to pick up or use the greased item. A creature wearing greased armor or clothing gains a +10 circumstance bonus on [[rangoric-srd/skills/Escape Artist|Escape Artist]] checks and on grapple checks made to resist or escape a grapple or to escape a pin.
 
-*Material Component*: A bit of pork rind or butter.
+_Material Component_: A bit of pork rind or butter.

@@ -42,28 +42,28 @@ tags: [rangoric, rangoric/monster]
 
 # Mummified Creature
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Augmented Magical Beast)
-  - **Hit Dice**: 12d8+60 (114 hp)
-  - **Initiative**: +5
-  - **Speed**: 30 ft. (6 squares), fly 50 ft. (clumsy)
-  - **Armor Class**: 25 (+1 Dex, +15 natural, –1 size), touch 10, flat-footed 24
-  - **Base Attack**: +12; **CMB**: +21; **CMD**: 32 (36 vs. trip)
-  - **Attack**: Claw +19 melee (3d6+8/19–20)
-  - **Full Attack**: 2 claws +19 melee (3d6+8/19–20)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Mummified Creature#^burst-of-vengeance|Burst of vengeance]], [[rangoric-srd/monsters/Mummified Creature#^dust-stroke|dust stroke]], [[rangoric-srd/monsters/abilities/Pounce|pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +19, 3d6+8/19–20), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect magic, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], see invisibility, [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] (30 ft., DC 20, 1d6 rounds), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], vulnerable to fire
-  - **Saves**: Fort +12, Ref +9, Will +10
-  - **Abilities**: Str 26, Dex 13, Con —, Int 16, Wis 19, Cha 19
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Persuasion|Persuasion]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +5
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]] (claw), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Warm ruins
-  - **Organization**: Solitary
-  - **Challenge Rating**: 9
-  - **Treasure**: Double
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Augmented Magical Beast)
+- **Hit Dice**: 12d8+60 (114 hp)
+- **Initiative**: +5
+- **Speed**: 30 ft. (6 squares), fly 50 ft. (clumsy)
+- **Armor Class**: 25 (+1 Dex, +15 natural, –1 size), touch 10, flat-footed 24
+- **Base Attack**: +12; **CMB**: +21; **CMD**: 32 (36 vs. trip)
+- **Attack**: Claw +19 melee (3d6+8/19–20)
+- **Full Attack**: 2 claws +19 melee (3d6+8/19–20)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/Mummified Creature#^burst-of-vengeance|Burst of vengeance]], [[rangoric-srd/monsters/Mummified Creature#^dust-stroke|dust stroke]], [[rangoric-srd/monsters/abilities/Pounce|pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +19, 3d6+8/19–20), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect magic, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], see invisibility, [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] (30 ft., DC 20, 1d6 rounds), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], vulnerable to fire
+- **Saves**: Fort +12, Ref +9, Will +10
+- **Abilities**: Str 26, Dex 13, Con —, Int 16, Wis 19, Cha 19
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Persuasion|Persuasion]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +5
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]] (claw), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Warm ruins
+- **Organization**: Solitary
+- **Challenge Rating**: 9
+- **Treasure**: Double
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The mummified creature above is a mummified gynosphinx.
 
@@ -73,7 +73,7 @@ Mummified creatures differ from the standard [[rangoric-srd/monsters/Mummy|mummy
 
 Many mummified creatures are created to guard the tombs of important figures, but some powerful beings—rulers, high priests, mighty [[rangoric-srd/classes/Wizard|wizards]], or even wealthy [[rangoric-srd/classes/Aristocrat|aristocrats]]—arrange to be transformed into mummified creatures upon their deaths. Unwilling to give up their lives and knowledge to the whims of fate, these people bind their souls to the dried husks of their dead bodies, trading oblivion for endless centuries of unlife. The truly wealthy sometimes arrange for their most favored spouses, concubines, servants, or guards to be mummified with them, enabling them to hold court in dusty tombs in an undead mockery of their old lives centuries after they perished.
 
-To create a mummified creature, a corpse must be prepared through embalming, with its internal organs replaced with dried herbs and flowers and its dead skin preserved through the application of sacred oils. Unlike with standard mummies, a mummified creature's brain is not removed from its skull after death. Injected with strange chemicals and tattooed with mystical hieroglyphs, a mummified creature's brain retains the base creature's mind and abilities, though the process does result in the loss of some mental faculties. Once this process is complete, the body is wrapped in special purified linens marked with hieroglyphs that grant the mummified creature its new abilities (as well as its weakness). Finally, the creator must cast a *[[rangoric-srd/spells/Create Greater Undead|create greater undead]]* spell to give the mummified creature its unlife.
+To create a mummified creature, a corpse must be prepared through embalming, with its internal organs replaced with dried herbs and flowers and its dead skin preserved through the application of sacred oils. Unlike with standard mummies, a mummified creature's brain is not removed from its skull after death. Injected with strange chemicals and tattooed with mystical hieroglyphs, a mummified creature's brain retains the base creature's mind and abilities, though the process does result in the loss of some mental faculties. Once this process is complete, the body is wrapped in special purified linens marked with hieroglyphs that grant the mummified creature its new abilities (as well as its weakness). Finally, the creator must cast a _[[rangoric-srd/spells/Create Greater Undead|create greater undead]]_ spell to give the mummified creature its unlife.
 
 ### Creating a Mummified Creature
 
@@ -98,7 +98,7 @@ To create a mummified creature, a corpse must be prepared through embalming, wit
 **Weaknesses**: The mummification process leaves a mummified creature vulnerable to a single energy type. Choose or determine randomly from the following list. ^weaknesses
 
 | d10 | Energy      |
-|-----|-------------|
+| --- | ----------- |
 | 1   | Electricity |
 | 2-3 | Acid        |
 | 4-7 | Fire        |
@@ -113,9 +113,9 @@ As a fail-safe in case of rebellion, a mummified creature is subtly marked durin
 
 **Special Attacks (Su)**: A mummified creature gains the following special attacks.
 
-**Burst of Vengeance (Su)**: Despite its slow, lumbering nature, a mummified creature is capable of lurching forward to attack with a short but surprising explosion of speed. Twice per day as a swift action, a mummified creature may act as if affected by a *[[rangoric-srd/spells/Haste|haste]]* spell for 1 round. ^burst-of-vengeance
+**Burst of Vengeance (Su)**: Despite its slow, lumbering nature, a mummified creature is capable of lurching forward to attack with a short but surprising explosion of speed. Twice per day as a swift action, a mummified creature may act as if affected by a _[[rangoric-srd/spells/Haste|haste]]_ spell for 1 round. ^burst-of-vengeance
 
-**Dust Stroke (Su)**: A creature killed by a mummified creature's natural attack or slam attack is disintegrated into a cloud of dust and ash, completely destroying the victim's body (as *[[rangoric-srd/spells/Disintegrate|disintegrate]]*). ^dust-stroke
+**Dust Stroke (Su)**: A creature killed by a mummified creature's natural attack or slam attack is disintegrated into a cloud of dust and ash, completely destroying the victim's body (as _[[rangoric-srd/spells/Disintegrate|disintegrate]]_). ^dust-stroke
 
 **Abilities**: Str +4, Int -2 (minimum 1). As an undead creature, a mummified creature has no Constitution score.
 
@@ -127,4 +127,4 @@ Mummified creatures speak Common, Draconic and Sphinx.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +16): Constant—*[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]*, *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Read Magic|read magic]]*, *[[rangoric-srd/spells/See Invisibility|see invisibility]]*; 3/day—*[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]]*; 1/day—*[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, *[[rangoric-srd/spells/Legend Lore|legend lore]]*, *[[rangoric-srd/spells/Locate Object|locate object]]*, *[[rangoric-srd/spells/Remove Curse|remove curse]]*; 1/week-any one of the following, with a maximum duration of 1 week: *[[rangoric-srd/spells/Symbol of Fear|symbol of fear]]* (DC 20), *[[rangoric-srd/spells/Symbol of Pain|symbol of pain]]* (DC 19), *[[rangoric-srd/spells/Symbol of Persuasion|symbol of persuasion]]* (DC 20), *[[rangoric-srd/spells/Symbol of Sleep|symbol of sleep]]* (DC 19), *[[rangoric-srd/spells/Symbol of Stunning|symbol of stunning]]* (DC 21).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +16): Constant—_[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_, _[[rangoric-srd/spells/See Invisibility|see invisibility]]_; 3/day—_[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]]_; 1/day—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Legend Lore|legend lore]]_, _[[rangoric-srd/spells/Locate Object|locate object]]_, _[[rangoric-srd/spells/Remove Curse|remove curse]]_; 1/week-any one of the following, with a maximum duration of 1 week: _[[rangoric-srd/spells/Symbol of Fear|symbol of fear]]_ (DC 20), _[[rangoric-srd/spells/Symbol of Pain|symbol of pain]]_ (DC 19), _[[rangoric-srd/spells/Symbol of Persuasion|symbol of persuasion]]_ (DC 20), _[[rangoric-srd/spells/Symbol of Sleep|symbol of sleep]]_ (DC 19), _[[rangoric-srd/spells/Symbol of Stunning|symbol of stunning]]_ (DC 21).

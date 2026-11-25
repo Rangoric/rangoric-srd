@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Wolf
 
-*An [[rangoric-srd/classes/Hunter#^hunter-animal-focus|animal focus]] (Su).*
+_An [[rangoric-srd/classes/Hunter#^hunter-animal-focus|animal focus]] (Su)._
 
 The creature gains the [[rangoric-srd/rules/Special Abilities and Conditions#Scent|scent]] ability with a range of 10 feet. The range of this sense increases to 20 feet at 8th level and 30 feet at 15th level. The range doubles if the opponent is upwind, and is halved if the opponent is downwind.

@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Defoliant Bomb
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]].*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]]._
 
 These poisonous bombs clear away foliage, dealing extra damage to plant creatures.
 

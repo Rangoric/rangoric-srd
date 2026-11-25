@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Astral Leviathan
 
-  - Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Extraplanar)
-  - **Hit Dice**: 20d10+200 (310 hp)
-  - **Initiative**: +6
-  - **Speed**: fly 90 ft. (average)
-  - **Armor Class**: 34 (+2 Dex, +30 natural, –8 size), touch 4, flat-footed 32
-  - **Base Attack**: +20; **CMB**: +40 (+42 bull rush, +44 grapple); **CMD**: 52 (54 vs. bull rush, can't be tripped)
-  - **Attack**: Bite +24 melee (4d6+12/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or slam +24 melee (2d8+12) or tail slap +24 melee (4d6+6)
-  - **Full Attack**: Bite +24 melee (4d6+12/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 slams +24 melee (2d8+12) and tail slap +19 melee (4d6+6)
-  - **Space/Reach**: 30 ft./30 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Fast Swallow|Fast swallow]], [[rangoric-srd/monsters/abilities/Gulping Tide|gulping tide]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (4d6+18 damage, AC 25, 31 hp), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Astral Locating|Astral locating]], [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] 180 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid and fire), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 30 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 30 and fire 30
-  - **Saves**: Fort +24, Ref +8, Will +16
-  - **Abilities**: Str 35, Dex 14, Con 31, Int 6, Wis 15, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +22, [[rangoric-srd/skills/Intimidation|Intimidation]] +22, [[rangoric-srd/skills/Perception|Perception]] +31, [[rangoric-srd/skills/Theology|Theology]] +21
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any (Astral Plane)
-  - **Organization**: Solitary or pod (2–5 plus 1–2 young)
-  - **Challenge Rating**: 18
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Extraplanar)
+- **Hit Dice**: 20d10+200 (310 hp)
+- **Initiative**: +6
+- **Speed**: fly 90 ft. (average)
+- **Armor Class**: 34 (+2 Dex, +30 natural, –8 size), touch 4, flat-footed 32
+- **Base Attack**: +20; **CMB**: +40 (+42 bull rush, +44 grapple); **CMD**: 52 (54 vs. bull rush, can't be tripped)
+- **Attack**: Bite +24 melee (4d6+12/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or slam +24 melee (2d8+12) or tail slap +24 melee (4d6+6)
+- **Full Attack**: Bite +24 melee (4d6+12/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 slams +24 melee (2d8+12) and tail slap +19 melee (4d6+6)
+- **Space/Reach**: 30 ft./30 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Fast Swallow|Fast swallow]], [[rangoric-srd/monsters/abilities/Gulping Tide|gulping tide]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (4d6+18 damage, AC 25, 31 hp), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Astral Locating|Astral locating]], [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] 180 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid and fire), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 30 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 30 and fire 30
+- **Saves**: Fort +24, Ref +8, Will +16
+- **Abilities**: Str 35, Dex 14, Con 31, Int 6, Wis 15, Cha 14
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +22, [[rangoric-srd/skills/Intimidation|Intimidation]] +22, [[rangoric-srd/skills/Perception|Perception]] +31, [[rangoric-srd/skills/Theology|Theology]] +21
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any (Astral Plane)
+- **Organization**: Solitary or pod (2–5 plus 1–2 young)
+- **Challenge Rating**: 18
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 An astral leviathan is an immense predator that patrols the silvery void of the Astral Plane in search of food and new experiences. Dangerous if provoked, it is intelligent enough to be reasoned with, though most visitors to that plane mistakenly believe it is just a beast. It requires only a minimal amount of physical food, as it primarily sustains itself on planar energies (particularly those radiating from natural portals to other planes) and invisible streamers of astral dust. Astral leviathans are curious about types of creatures they've never met before and places they haven't visited. Civilized inhabitants of the Astral Plane might befriend, bribe, or tame leviathans, using them as cargo vessels or navigators on journeys to remote locations. More savage races enslave them with enchantments and hooked barbs and use them for the same purpose.
 
@@ -70,7 +70,7 @@ Astral leviathans speak telepathy 30 ft.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th; concentration +22): 3/day—*[[rangoric-srd/spells/Dimension Door|dimension door]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th; concentration +22): 3/day—_[[rangoric-srd/spells/Dimension Door|dimension door]]_.
 
 **[[rangoric-srd/monsters/abilities/Astral Locating|Astral Locating]] (Su)**: An astral leviathan automatically knows the distance and direction to any place on the Astral Plane it has ever visited. Once per day it can use this ability to determine the location of a creature on the Astral Plane (as if using locate creature with unlimited range).
 

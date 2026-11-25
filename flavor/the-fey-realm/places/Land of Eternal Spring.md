@@ -26,12 +26,12 @@ The Land of Eternal Spring is home to the Tuatha de Danann, a warlike [[rangoric
 
 **Seasons:** As the name implies, the Land of Eternal Spring is blessed with crisp mornings and sunny days that occasionally are visited by soft showers. The temperature fluctuates only slightly, with the winters being slightly more cool and rainy and the summers being warmer and drier than other times of the year.
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* Flowers, plants, and trees of all varieties grow in the Land of Eternal Spring. Flowers plucked from their plants here will remain fresh and fragrant for months.
+_Common:_ Flowers, plants, and trees of all varieties grow in the Land of Eternal Spring. Flowers plucked from their plants here will remain fresh and fragrant for months.
 
-*Uncommon:* The Meadows of Fertility were once part of this region, but were given to the [[rangoric-srd/monsters/Satyr|satyr]] king by Queen Maeve.
+_Uncommon:_ The Meadows of Fertility were once part of this region, but were given to the [[rangoric-srd/monsters/Satyr|satyr]] king by Queen Maeve.
 
-*Rare:* The satyrs hold Queen Maeve in high regard and will come to her aid without question or hesitation.
+_Rare:_ The satyrs hold Queen Maeve in high regard and will come to her aid without question or hesitation.
 
-*Obscure:* -
+_Obscure:_ -

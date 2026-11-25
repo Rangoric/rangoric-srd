@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # Wall of Sound
 
-*Evocation \[Sonic\]*
+_Evocation \[Sonic\]_
 
-  - **Level**: Blr 4, Brd 4, Mag 4, Psy 5, Skd 4, Sor/Wiz 5, Spi 5
-  - **Components**: V, S, M (a tuning fork and a quartz crystal)
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Effect**: Translucent wall of sound up to 20 ft. long/level or a ring of sound with a radius of up to 5 ft./two levels; either form 20 ft. high
-  - **Duration**: Concentration + 1 round/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Blr 4, Brd 4, Mag 4, Psy 5, Skd 4, Sor/Wiz 5, Spi 5
+- **Components**: V, S, M (a tuning fork and a quartz crystal)
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Effect**: Translucent wall of sound up to 20 ft. long/level or a ring of sound with a radius of up to 5 ft./two levels; either form 20 ft. high
+- **Duration**: Concentration + 1 round/level
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
-A translucent barrier of pure sound springs into existence. This wall is silent except for a faint hum, but bursts with discordant noise when touched by an object or creature. The wall deflects arrows, bolts, loose debris, and Small or smaller flying creatures like a *[[rangoric-srd/spells/Wind Wall|wind wall]]* spell, except these things rebound harmlessly rather than being directed upward. The burst of discordant noise deals 2d4 points of sonic damage to creatures within 10 feet of the triggering object or creature; touching or passing through the wall deals 2d6 points of sonic damage + 1 point of sonic damage per caster level (maximum +20). If you evoke the wall so that it appears where creatures are, each creature takes damage as if passing through the wall. A *[[rangoric-srd/spells/Silence|silence]]* spell suppresses the wall within its area, but the wall reappears when the *[[rangoric-srd/spells/Silence|silence]]* ends.
+A translucent barrier of pure sound springs into existence. This wall is silent except for a faint hum, but bursts with discordant noise when touched by an object or creature. The wall deflects arrows, bolts, loose debris, and Small or smaller flying creatures like a _[[rangoric-srd/spells/Wind Wall|wind wall]]_ spell, except these things rebound harmlessly rather than being directed upward. The burst of discordant noise deals 2d4 points of sonic damage to creatures within 10 feet of the triggering object or creature; touching or passing through the wall deals 2d6 points of sonic damage + 1 point of sonic damage per caster level (maximum +20). If you evoke the wall so that it appears where creatures are, each creature takes damage as if passing through the wall. A _[[rangoric-srd/spells/Silence|silence]]_ spell suppresses the wall within its area, but the wall reappears when the _[[rangoric-srd/spells/Silence|silence]]_ ends.

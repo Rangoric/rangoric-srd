@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Spirit Guide
 
-*An [[rangoric-srd/classes/Oracle#^oracle-archetypes|oracle]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_An [[rangoric-srd/classes/Oracle#^oracle-archetypes|oracle]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Through her exploration of the universe's mysteries, a spirit guide opens connections to the spirit world and forms bonds with the entities that inhabit it.
 

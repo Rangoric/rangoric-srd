@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/double]
 
 # Gnome Hooked Hammer
 
-*Exotic two-handed melee weapon (double, trip).* Cost 20 gp; Dmg 1d6/1d4 (S), 1d8/1d6 (M); Critical x3/x4; Weight 6 lb.; Type Bludgeoning and piercing. ^stats
+_Exotic two-handed melee weapon (double, trip)._ Cost 20 gp; Dmg 1d6/1d4 (S), 1d8/1d6 (M); Critical x3/x4; Weight 6 lb.; Type Bludgeoning and piercing. ^stats
 
 A gnome hooked hammer is a double weapon. You can fight with it as if fighting with two weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons, just as if you were using a one-handed weapon and a light weapon. The hammer’s blunt head is a bludgeoning weapon that deals 1d6 points of damage (crit x3). Its hook is a piercing weapon that deals 1d4 points of damage (crit x4). You can use either head as the primary weapon. The other head is the offhand weapon. A creature wielding a gnome hooked hammer in one hand can’t use it as a double weapon—only one end of the weapon can be used in any given round.
 

@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/crossbows]
 
 # Hand Crossbow
 
-*Exotic ranged weapon.* Cost 100 gp; Dmg 1d3 (S), 1d4 (M); Critical 19–20/x2; Range Increment 30 ft.; Weight 2 lb.; Type Piercing. ^stats
+_Exotic ranged weapon._ Cost 100 gp; Dmg 1d3 (S), 1d4 (M); Critical 19–20/x2; Range Increment 30 ft.; Weight 2 lb.; Type Piercing. ^stats
 
 You can draw a hand crossbow back by hand. Loading a hand crossbow is a move action that provokes attacks of opportunity.
 

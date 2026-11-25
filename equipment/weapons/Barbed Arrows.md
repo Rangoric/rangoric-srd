@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/weapon]
 
 # Barbed Arrows
 
-*Ammunition (20) for bows.* Cost 2 gp; Dmg 1d6 (S), 1d8 (M); Critical 19-20/x2; Range Increment Per bow; Weight 3 lb.; Type Piercing. ^stats
+_Ammunition (20) for bows._ Cost 2 gp; Dmg 1d6 (S), 1d8 (M); Critical 19-20/x2; Range Increment Per bow; Weight 3 lb.; Type Piercing. ^stats
 
 While similar in size and weight to the traditional arrows used in warfare, these arrows are more likely to inflict a critical hit on the target.

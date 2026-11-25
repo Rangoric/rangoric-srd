@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Large
 
-*A 4-point evolution (Ex) for a [[rangoric-srd/classes/Summoner|summoner]]’s eidolon.*
+_A 4-point evolution (Ex) for a [[rangoric-srd/classes/Summoner|summoner]]’s eidolon._
 
 An eidolon grows in size, becoming Large. The eidolon gains a +8 bonus to Strength, a +4 bonus to Constitution, and a +2 bonus to its natural armor. It takes a –2 penalty to its Dexterity. This size change also gives the creature a –1 size penalty to its AC and on attack rolls, a +1 bonus to its CMB and CMD, a –2 penalty on Acrobatics checks to fly, and a –4 penalty on Stealth skill checks. If the eidolon has the biped base form, it also gains 10-foot reach. Any [[rangoric-srd/class-options/evolutions/Reach (Evolution)|reach]] evolutions the eidolon possesses are added to this total. The eidolon must be Medium to take this evolution. The summoner must be at least 8th level before selecting this evolution.
 

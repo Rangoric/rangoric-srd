@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Instant Recognition
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-social-talent|social talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-social-talent|social talent]] (Ex)._
 
 The vigilante is so well known that his name precedes him, even to other communities. It only takes 4 hours of effort to get the word out to transfer his renown benefits to a new community.
 

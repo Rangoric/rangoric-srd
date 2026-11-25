@@ -35,16 +35,16 @@ tags: [rangoric, rangoric/spell]
 
 # Mending
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Brd 0, Clr 0, Drd 0, Hun 0, Occ 0, Psy 0, Sha 0, Skd 0, Sor/Wiz 0, Spi 0, Sum 0, SumU 0, Wit 0
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: 10 ft.
-  - **Target**: One object of up to 1 lb.
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates (harmless, object)
-  - **Spell Resistance**: Yes (harmless, object)
+- **Level**: Brd 0, Clr 0, Drd 0, Hun 0, Occ 0, Psy 0, Sha 0, Skd 0, Sor/Wiz 0, Spi 0, Sum 0, SumU 0, Wit 0
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: 10 ft.
+- **Target**: One object of up to 1 lb.
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates (harmless, object)
+- **Spell Resistance**: Yes (harmless, object)
 
 Mending repairs small breaks or tears in objects (but not warps, such as might be caused by a warp wood spell). It will weld broken metallic objects such as a ring, a chain link, a medallion, or a slender dagger, providing but one break exists.
 

@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Murderous Halfling
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Halfling)
-  - **Hit Dice**: 4d10+4 (30 hp)
-  - **Initiative**: +4
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 20 (+5 armor, +4 Dex, +1 size), touch 15, flat-footed 16
-  - **Base Attack**: +4; **CMB**: +4; **CMD**: 18
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +9 melee (1d3+3/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +9 melee (1d3+2/19–20) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +11 ranged (1d3+3/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +9 melee (1d3+3/19–20) and [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +9 melee (1d3+2/19–20); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +11 ranged (1d3+3/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1
-  - **Saves**: Fort +6, Ref —, Will —
-  - **Abilities**: Str 12, Dex 18, Con 12, Int 13, Wis 10, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +3 (–1 jumping), [[rangoric-srd/skills/Deception|Deception]] +4, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +13
-  - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (dagger), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (dagger)
-  - **Environment**: Warm plains
-  - **Organization**: Solitary, or with other halflings (see [[rangoric-srd/monsters/halfling/Halfling|Halfling]])
-  - **Challenge Rating**: 3
-  - **Treasure**: NPC gear (combat gear: feather token (whip), flask of acid; other gear: +1 chain shirt, daggers (6), masterwork daggers (2), 24 gp)
-  - **Alignment**: Chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Halfling)
+- **Hit Dice**: 4d10+4 (30 hp)
+- **Initiative**: +4
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 20 (+5 armor, +4 Dex, +1 size), touch 15, flat-footed 16
+- **Base Attack**: +4; **CMB**: +4; **CMD**: 18
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +9 melee (1d3+3/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +9 melee (1d3+2/19–20) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +11 ranged (1d3+3/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +9 melee (1d3+3/19–20) and [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +9 melee (1d3+2/19–20); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +11 ranged (1d3+3/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1
+- **Saves**: Fort +6, Ref —, Will —
+- **Abilities**: Str 12, Dex 18, Con 12, Int 13, Wis 10, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +3 (–1 jumping), [[rangoric-srd/skills/Deception|Deception]] +4, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +13
+- **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (dagger), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (dagger)
+- **Environment**: Warm plains
+- **Organization**: Solitary, or with other halflings (see [[rangoric-srd/monsters/halfling/Halfling|Halfling]])
+- **Challenge Rating**: 3
+- **Treasure**: NPC gear (combat gear: feather token (whip), flask of acid; other gear: +1 chain shirt, daggers (6), masterwork daggers (2), 24 gp)
+- **Alignment**: Chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A murderous halfling is a [[rangoric-srd/monsters/halfling/Halfling|halfling]] with 4 levels of [[rangoric-srd/classes/Fighter|fighter]]. Small, sly, and seemingly innocuous, evil halflings make perfect murderers.
 

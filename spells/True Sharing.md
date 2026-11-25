@@ -24,18 +24,18 @@ tags: [rangoric, rangoric/spell]
 
 # True Sharing
 
-*Evocation*
+_Evocation_
 
-  - **Level**: Sor/Wiz 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: You and Your Familiar
-  - **Duration**: 1 hour/level (d)
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes
+- **Level**: Sor/Wiz 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: You and Your Familiar
+- **Duration**: 1 hour/level (d)
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes
 
-When this spell is cast, the bond between a caster and her familiar is greatly intensified. This increased bond allows the caster and the familiar to share each other’s feats, skills, and some special qualities as if they were truly the same being. For this *true sharing* to work, the familiar must remain in contact with the caster throughout the duration. Any loss of contact ends the spell instantly.
+When this spell is cast, the bond between a caster and her familiar is greatly intensified. This increased bond allows the caster and the familiar to share each other’s feats, skills, and some special qualities as if they were truly the same being. For this _true sharing_ to work, the familiar must remain in contact with the caster throughout the duration. Any loss of contact ends the spell instantly.
 
 Shared skills only share skill ranks, not ability bonuses, and these ranks do not stack with ranks possessed by the other. Feats never stack, even if they would. Special qualities are only shared if the quality is not dependent on a physical trait. For example, a viper has the special quality of poison, but this would not be shared because the quality is based on having poison glands, which the caster likely does not possess.
 

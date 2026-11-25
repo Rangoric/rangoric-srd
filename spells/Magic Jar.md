@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Magic Jar
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Alc 5, Sor/Wiz 5, Sum 4, SumU 5, Wit 5
-  - **Components**: V, S, F
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Target**: One creature
-  - **Duration**: 1 hour/level or until you return to your body
-  - **Saving Throw**: Will negates; see text
-  - **Spell Resistance**: Yes
+- **Level**: Alc 5, Sor/Wiz 5, Sum 4, SumU 5, Wit 5
+- **Components**: V, S, F
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Target**: One creature
+- **Duration**: 1 hour/level or until you return to your body
+- **Saving Throw**: Will negates; see text
+- **Spell Resistance**: Yes
 
 By casting magic jar, you place your soul in a gem or large crystal (known as the magic jar), leaving your body lifeless. Then you can attempt to take control of a nearby body, forcing its soul into the magic jar. You may move back to the jar (thereby returning the trapped soul to its body) and attempt to possess another body. The spell ends when you send your soul back to your own body, leaving the receptacle empty.
 
@@ -57,4 +57,4 @@ If the host body is slain, you return to the magic jar, if within range, and the
 
 If the spell ends while you are in the magic jar, you return to your body (or die if your body is out of range or destroyed). If the spell ends while you are in a host, you return to your body (or die, if it is out of range of your current position), and the soul in the magic jar returns to its body (or dies if it is out of range). Destroying the receptacle ends the spell, and the spell can be dispelled at either the magic jar or at the host’s location.
 
-*Focus*: A gem or crystal worth at least 100 gp.
+_Focus_: A gem or crystal worth at least 100 gp.

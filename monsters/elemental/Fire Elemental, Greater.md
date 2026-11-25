@@ -41,25 +41,25 @@ tags: [rangoric, rangoric/monster]
 
 # Fire Elemental, Greater
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Elemental, Extraplanar, Fire)
-  - **Hit Dice**: 13d10+52 (123 hp)
-  - **Initiative**: +12
-  - **Speed**: 60 ft. (12 squares)
-  - **Armor Class**: 23 (+8 Dex, +1 dodge, +6 natural, –2 size), touch 17, flat-footed 14
-  - **Base Attack**: +13; **CMB**: +22; **CMD**: 41
-  - **Attack**: Slam +19 melee (2d8+7 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
-  - **Full Attack**: 2 slams +19 melee (2d8+7 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (2d8, DC 20)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability]] to cold
-  - **Saves**: Fort +12, Ref +16, Will +6
-  - **Abilities**: Str 24, Dex 27, Con 18, Int 8, Wis 11, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +23, [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +21, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Theology|Theology]] +10
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Wind Stance|Wind Stance]]
-  - **Environment**: Any (Elemental Plane of Fire)
-  - **Organization**: Solitary, pair, or gang (3–8)
-  - **Challenge Rating**: 9
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 14–23 HD (Huge)
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Elemental, Extraplanar, Fire)
+- **Hit Dice**: 13d10+52 (123 hp)
+- **Initiative**: +12
+- **Speed**: 60 ft. (12 squares)
+- **Armor Class**: 23 (+8 Dex, +1 dodge, +6 natural, –2 size), touch 17, flat-footed 14
+- **Base Attack**: +13; **CMB**: +22; **CMD**: 41
+- **Attack**: Slam +19 melee (2d8+7 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
+- **Full Attack**: 2 slams +19 melee (2d8+7 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (2d8, DC 20)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability]] to cold
+- **Saves**: Fort +12, Ref +16, Will +6
+- **Abilities**: Str 24, Dex 27, Con 18, Int 8, Wis 11, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +23, [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +21, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Theology|Theology]] +10
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Wind Stance|Wind Stance]]
+- **Environment**: Any (Elemental Plane of Fire)
+- **Organization**: Solitary, pair, or gang (3–8)
+- **Challenge Rating**: 9
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 14–23 HD (Huge)
+- **Level Adjustment**: —

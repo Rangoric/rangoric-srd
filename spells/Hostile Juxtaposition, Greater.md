@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Hostile Juxtaposition, Greater
 
-*Conjuration (Teleportation)*
+_Conjuration (Teleportation)_
 
-  - **Level**: Mes 6, Psy 7, Sor/Wiz 7, Sum 6, SumU 6, Wit 7
-  - **Components**: V, S, M (a coin)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature/4 levels
-  - **Duration**: 1 round/level or until discharged
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Mes 6, Psy 7, Sor/Wiz 7, Sum 6, SumU 6, Wit 7
+- **Components**: V, S, M (a coin)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature/4 levels
+- **Duration**: 1 round/level or until discharged
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
-This spell functions like *[[rangoric-srd/spells/Hostile Juxtaposition|hostile juxtaposition]]*, except you can target one creature for every four caster levels you have or you can target a single creature that is larger than you are. You can switch places with each target only once while the effect lasts. Once you have used it to teleport and switch places with each affected target, the spell is discharged.
+This spell functions like _[[rangoric-srd/spells/Hostile Juxtaposition|hostile juxtaposition]]_, except you can target one creature for every four caster levels you have or you can target a single creature that is larger than you are. You can switch places with each target only once while the effect lasts. Once you have used it to teleport and switch places with each affected target, the spell is discharged.

@@ -33,13 +33,13 @@ tags: [rangoric, rangoric/spell]
 
 # Adjustable Disguise
 
-*Illusion (Glamer)*
+_Illusion (Glamer)_
 
-  - **Level**: Alc 3, Apl 3, Brd 3, Inq 3, Med 3, Mes 3, Occ 3, Psy 3, Skd 3, Sor/Wiz 3, Wit 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 10 minutes/level (D)
+- **Level**: Alc 3, Apl 3, Brd 3, Inq 3, Med 3, Mes 3, Occ 3, Psy 3, Skd 3, Sor/Wiz 3, Wit 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 10 minutes/level (D)
 
-This spell functions as *[[rangoric-srd/spells/Disguise Self|disguise self]]*, except as a swift action you can alter the disguise (within the limitations of *[[rangoric-srd/spells/Disguise Self|disguise self]]*). For example, you could make yourself look like a young human city guard, then an old elven wizard of the opposite gender, then a halfling thief, and so on. You can change the disguise a number of times equal to your caster level.
+This spell functions as _[[rangoric-srd/spells/Disguise Self|disguise self]]_, except as a swift action you can alter the disguise (within the limitations of _[[rangoric-srd/spells/Disguise Self|disguise self]]_). For example, you could make yourself look like a young human city guard, then an old elven wizard of the opposite gender, then a halfling thief, and so on. You can change the disguise a number of times equal to your caster level.

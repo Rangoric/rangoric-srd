@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Pounce
 
-*A 3-point evolution (Ex) for an [[rangoric-srd/classes/Unchained Summoner|unchained summoner]]’s eidolon.*
+_A 3-point evolution (Ex) for an [[rangoric-srd/classes/Unchained Summoner|unchained summoner]]’s eidolon._
 
-The eidolon gains quick reflexes, allowing it to make a full attack after a charge. *Requirements*: Summoner level 7th, quadruped base form.
+The eidolon gains quick reflexes, allowing it to make a full attack after a charge. _Requirements_: Summoner level 7th, quadruped base form.

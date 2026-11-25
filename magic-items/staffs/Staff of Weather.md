@@ -23,11 +23,11 @@ tags: [rangoric, rangoric/magic-item]
 
 The carved surface of this solid oaken beam always depicts a scene with the opposite qualities of the current weather (rainy on dry days, dry on rainy days, and so on). It allows use of the following spells:
 
-- *[[rangoric-srd/spells/Fog Cloud|fog cloud]]* (1 charge)
-- *[[rangoric-srd/spells/Gust of Wind|gust of wind]]* (1 charge)
-- *[[rangoric-srd/spells/Wind Wall|wind wall]]* (1 charge)
-- *[[rangoric-srd/spells/Ice Storm|ice storm]]* (2 charges)
-- *[[rangoric-srd/spells/Sleet Storm|sleet storm]]* (2 charges)
-- *[[rangoric-srd/spells/Control Weather|control weather]]* (3 charges)
+- _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_ (1 charge)
+- _[[rangoric-srd/spells/Gust of Wind|gust of wind]]_ (1 charge)
+- _[[rangoric-srd/spells/Wind Wall|wind wall]]_ (1 charge)
+- _[[rangoric-srd/spells/Ice Storm|ice storm]]_ (2 charges)
+- _[[rangoric-srd/spells/Sleet Storm|sleet storm]]_ (2 charges)
+- _[[rangoric-srd/spells/Control Weather|control weather]]_ (3 charges)
 
-Strong varied; CL 13th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Control Weather|control weather]]*, *[[rangoric-srd/spells/Fog Cloud|fog cloud]]*, *[[rangoric-srd/spells/Gust of Wind|gust of wind]]*, *[[rangoric-srd/spells/Ice Storm|ice storm]]*, *[[rangoric-srd/spells/Sleet Storm|sleet storm]]*, *[[rangoric-srd/spells/Wind Wall|wind wall]]*; Price 84,066 gp; Cost 42,033 gp; Weight 5 lbs.
+Strong varied; CL 13th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Control Weather|control weather]]_, _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_, _[[rangoric-srd/spells/Gust of Wind|gust of wind]]_, _[[rangoric-srd/spells/Ice Storm|ice storm]]_, _[[rangoric-srd/spells/Sleet Storm|sleet storm]]_, _[[rangoric-srd/spells/Wind Wall|wind wall]]_; Price 84,066 gp; Cost 42,033 gp; Weight 5 lbs.

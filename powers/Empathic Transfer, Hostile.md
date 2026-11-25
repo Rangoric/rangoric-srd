@@ -34,7 +34,7 @@ Target: Creature touched
 Duration: Instantaneous  
 Saving Throw: Will half  
 Power Resistance: Yes  
-Power Points: 5  
+Power Points: 5
 
 You transfer your hurt to another. When you manifest this power and then make a successful touch attack, you can transfer 50 points of damage (or less, if you choose) from yourself to the touched creature. You immediately regain hit points equal to the amount of damage you transfer.
 

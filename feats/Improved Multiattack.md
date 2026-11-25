@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat]
 
 # Improved Multiattack
 
-Prerequisite: Three or more natural weapons, Multiattack  
+Prerequisite: Three or more natural weapons, Multiattack
 
 Benefit: The creature’s secondary attacks with natural weapons have no penalty. They still add only one-half the creature’s Strength bonus, if any, to damage dealt.
 

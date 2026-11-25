@@ -21,9 +21,9 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Smolder Bottle
 
-*Alchana; Special*
+_Alchana; Special_
 
-The alchemical balance between a smokestick and the magical *eversmoking bottle*, a smolder bottle is more closely related to sophic fire, though that is fire without smoke while this produces smoke without fire. When opened, this thin but heavy green glass bottle produces thick billows of opaque smoke. It fills a ten-foot cube within one round, continuing to pump out more smoke if left unstoppered until it fills a maximum radius of thirty feet cubed around itself. The smoke dissipates naturally only after the bottle is resealed. If left unstoppered, the smolder bottle produces and maintains its maximum amount of smoke for 1,000 hours, until it exhausts the chymical gel inside of it.
+The alchemical balance between a smokestick and the magical _eversmoking bottle_, a smolder bottle is more closely related to sophic fire, though that is fire without smoke while this produces smoke without fire. When opened, this thin but heavy green glass bottle produces thick billows of opaque smoke. It fills a ten-foot cube within one round, continuing to pump out more smoke if left unstoppered until it fills a maximum radius of thirty feet cubed around itself. The smoke dissipates naturally only after the bottle is resealed. If left unstoppered, the smolder bottle produces and maintains its maximum amount of smoke for 1,000 hours, until it exhausts the chymical gel inside of it.
 
 **Construction**: No aura; CL 3rd; [[rangoric-srd/feats/Create Alchana|Create Alchana]]; DC: 18; Price: 2,100 gp/2 oz. bottle
 

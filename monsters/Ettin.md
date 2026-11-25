@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Ettin
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
-  - **Hit Dice**: 10d8+20 (65 hp)
-  - **Initiative**: +3
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 18 (+2 armor, –1 Dex, +8 natural, –1 size), touch 8, flat-footed 18
-  - **Base Attack**: +7; **CMB**: +14; **CMD**: 23
-  - **Attack**: [[rangoric-srd/equipment/weapons/Flail|Flails]] +12 melee (2d6+6) or [[rangoric-srd/equipment/weapons/Javelin|javelins]] +5 ranged (1d8+6)
-  - **Full Attack**: 2 [[rangoric-srd/equipment/weapons/Flail|flails]] +12/+7 melee (2d6+6); or 2 [[rangoric-srd/equipment/weapons/Javelin|javelins]] +5 ranged (1d8+6)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: Superior two-weapon fighting
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
-  - **Saves**: Fort +9, Ref +2, Will +5
-  - **Abilities**: Str 23, Dex 8, Con 15, Int 6, Wis 10, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Perception|Perception]] +12
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Cold hills
-  - **Organization**: Solitary, pair, gang (3–6), troupe (1–2 plus 1–2 brown bears), band (3–6 plus 1–2 brown bears), or colony (3–6 plus 1–2 brown bears and 7–12 orcs or 9–16 goblins)
-  - **Challenge Rating**: 6
-  - **Treasure**: Standard (leather armor, 2 flails, 4 javelins, other treasure)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: +5
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
+- **Hit Dice**: 10d8+20 (65 hp)
+- **Initiative**: +3
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 18 (+2 armor, –1 Dex, +8 natural, –1 size), touch 8, flat-footed 18
+- **Base Attack**: +7; **CMB**: +14; **CMD**: 23
+- **Attack**: [[rangoric-srd/equipment/weapons/Flail|Flails]] +12 melee (2d6+6) or [[rangoric-srd/equipment/weapons/Javelin|javelins]] +5 ranged (1d8+6)
+- **Full Attack**: 2 [[rangoric-srd/equipment/weapons/Flail|flails]] +12/+7 melee (2d6+6); or 2 [[rangoric-srd/equipment/weapons/Javelin|javelins]] +5 ranged (1d8+6)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: Superior two-weapon fighting
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
+- **Saves**: Fort +9, Ref +2, Will +5
+- **Abilities**: Str 23, Dex 8, Con 15, Int 6, Wis 10, Cha 11
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Perception|Perception]] +12
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Cold hills
+- **Organization**: Solitary, pair, gang (3–6), troupe (1–2 plus 1–2 brown bears), band (3–6 plus 1–2 brown bears), or colony (3–6 plus 1–2 brown bears and 7–12 orcs or 9–16 goblins)
+- **Challenge Rating**: 6
+- **Treasure**: Standard (leather armor, 2 flails, 4 javelins, other treasure)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: +5
 
 Ettins, or two-headed giants, are vicious and unpredictable hunters that stalk the night. Their two heads provide them with unparalleled powers of perception, making them excellent guards.
 

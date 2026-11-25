@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Tiberolith
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
-  - **Hit Dice**: 13d10+40 (111 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 24 (+16 natural, –2 size), touch 8, flat-footed 24
-  - **Base Attack**: +13; **CMB**: +23; **CMD**: 33
-  - **Attack**: Slam +19 melee (3d8+8)
-  - **Full Attack**: 2 slams +19 melee (3d8+8)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Corrosive Strikes|Corrosive strikes]], [[rangoric-srd/monsters/abilities/Shockwave|shockwave]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Spell Trap|spell trap]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine and bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 30, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 24
-  - **Saves**: Fort +4, Ref +4, Will +4
-  - **Abilities**: Str 26, Dex 11, Con —, Int —, Wis 11, Cha 1
-  - **Skills**: —
-  - **Feats**: —
-  - **Environment**: Any coastlines or water
-  - **Organization**: Solitary, pair, or squad (3–4)
-  - **Challenge Rating**: 10
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
+- **Hit Dice**: 13d10+40 (111 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 24 (+16 natural, –2 size), touch 8, flat-footed 24
+- **Base Attack**: +13; **CMB**: +23; **CMD**: 33
+- **Attack**: Slam +19 melee (3d8+8)
+- **Full Attack**: 2 slams +19 melee (3d8+8)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Corrosive Strikes|Corrosive strikes]], [[rangoric-srd/monsters/abilities/Shockwave|shockwave]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Spell Trap|spell trap]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine and bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 30, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 24
+- **Saves**: Fort +4, Ref +4, Will +4
+- **Abilities**: Str 26, Dex 11, Con —, Int —, Wis 11, Cha 1
+- **Skills**: —
+- **Feats**: —
+- **Environment**: Any coastlines or water
+- **Organization**: Solitary, pair, or squad (3–4)
+- **Challenge Rating**: 10
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Tiberoliths are magical constructs with primitive internal mechanical components, held together with sinew and plant matter. Created by a vicious lost civilization to protect its citadels, villages, and treasures, tiberoliths are found in submerged ruins and remain immobile unless attacked or approached by unauthorized intruders. Each is covered in a unique pattern of markings that glow blue when it moves. When active, it makes an unmistakable high-pitched whirring sound. A tiberolith typically stands 18 feet tall and weighs 7,000 pounds.
 
@@ -77,4 +77,4 @@ Its stone body is filled with an acidic blue alchemical liquid that channels ele
 
 A tiberolith is created from three stone slabs (2,500 pounds each). They're bound with plant matter or sinew treated with unguents costing at least 7,000 gp.
 
-CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Acid Fog|acid fog]]*, *[[rangoric-srd/spells/Limited Wish|limited wish]]*, *[[rangoric-srd/spells/Stone Shape|stone shape]]*, creator must be at least caster level 11th; Skill [[rangoric-srd/skills/Craft|Craft]] (sculptures) or [[rangoric-srd/skills/Craft|Craft]] (stonemasonry) DC 18; Price 48,000 gp; Cost 24,000 gp.
+CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Acid Fog|acid fog]]_, _[[rangoric-srd/spells/Limited Wish|limited wish]]_, _[[rangoric-srd/spells/Stone Shape|stone shape]]_, creator must be at least caster level 11th; Skill [[rangoric-srd/skills/Craft|Craft]] (sculptures) or [[rangoric-srd/skills/Craft|Craft]] (stonemasonry) DC 18; Price 48,000 gp; Cost 24,000 gp.

@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/hammers]
 
 # Ogre Maul
 
-*Martial two-handed melee weapon.* Cost 70 gp; Dmg 1d10 (S), 2d8 (M); Critical 19-20/x3; Weight 50 lb.; Type Bludgeoning or piercing. ^stats
+_Martial two-handed melee weapon._ Cost 70 gp; Dmg 1d10 (S), 2d8 (M); Critical 19-20/x3; Weight 50 lb.; Type Bludgeoning or piercing. ^stats
 
 A standard ogre maul is a Large exotic weapon, used for devastating double-handed attacks by Large-sized barbaric creatures of all types. Part hammer and part pickaxe, these weapons are massive clubs of raw iron, 7 ft. of crudely fashioned black metal topped with a blunt and pointed doublesided head.
 

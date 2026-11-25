@@ -24,7 +24,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Bone Balms
 
-*Unguents; Special*
+_Unguents; Special_
 
 Bone balms do for necromancers what [[rangoric-srd/prestige-classes/Black Alchemist|black alchemists]] did for swordsmiths—they improve upon the core materials with which necromancers work. Bone balms simply increase the sturdiness of bone, whether the bone is carved into a weapon or part of an animated skeleton. There are four types of bone balms, each noted below with their individual effects. More than one balm can be in effect on a skeleton or bone item at any given time, though duplicated balms do not increase the damage resistance. All bone balm effects wear off after 1d8 days or if the treated bones are immersed in holy water or pure alcohols (splashes or diluted materials like wines have no effect).
 
@@ -37,13 +37,13 @@ The bone balms are placed in leather pouches and squeezed and then smeared along
 
 **Table: Bone Balms**
 
-| Bone Balm Type | CL | DC | Market Price | Cost to Create |
-|---|---|---|---|---|
-| Acid/corrosion | 10 | 23 | 315 gp/2 oz. bag | 4,900 gp/4 pounds |
-| Fire | 11 | 25 | 350 gp/2 oz. bag | 5,400 gp/4 pounds |
-| Ice/Cold | 11 | 25 | 340 gp/2 oz. bag | 5,400 gp/4 pounds |
-| Lightning | 12 | 27 | 375 gp/2 oz. bag | 5,900 gp/4 pounds |
+| Bone Balm Type | CL  | DC  | Market Price     | Cost to Create    |
+| -------------- | --- | --- | ---------------- | ----------------- |
+| Acid/corrosion | 10  | 23  | 315 gp/2 oz. bag | 4,900 gp/4 pounds |
+| Fire           | 11  | 25  | 350 gp/2 oz. bag | 5,400 gp/4 pounds |
+| Ice/Cold       | 11  | 25  | 340 gp/2 oz. bag | 5,400 gp/4 pounds |
+| Lightning      | 12  | 27  | 375 gp/2 oz. bag | 5,900 gp/4 pounds |
 
-**Construction**: Faint abjuration; CL See above; [[rangoric-srd/skills/Craft|Craft]] (alchemy), [[rangoric-srd/feats/Craft Chymicals|Craft Chymicals]] or [[rangoric-srd/feats/Craft Unguents|Craft Unguents]], *resist energy*; DC: See above; Price: See above
+**Construction**: Faint abjuration; CL See above; [[rangoric-srd/skills/Craft|Craft]] (alchemy), [[rangoric-srd/feats/Craft Chymicals|Craft Chymicals]] or [[rangoric-srd/feats/Craft Unguents|Craft Unguents]], _resist energy_; DC: See above; Price: See above
 
 An item of the alchemical and herbal catalog ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Item Categories and Definitions|categories]]); its entry follows the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Catalog Template|catalog template]].

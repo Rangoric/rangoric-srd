@@ -38,27 +38,27 @@ tags: [rangoric, rangoric/monster]
 
 # Raccoon
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 1d8 (4 hp)
-  - **Initiative**: +2
-  - **Speed**: 20 ft. (4 squares), climb 20 ft.
-  - **Armor Class**: 15 (+2 Dex, +1 natural, +2 size), touch 14, flat-footed 13
-  - **Base Attack**: +0; **CMB**: +0; **CMD**: 9 (13 vs. trip)
-  - **Attack**: Bite +4 melee (1d3–1)
-  - **Full Attack**: Bite +4 melee (1d3–1)
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +2, Ref +4, Will +3
-  - **Abilities**: Str 8, Dex 15, Con 11, Int 2, Wis 16, Cha 5
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +3
-  - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary or gaze (2–4)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 1d8 (4 hp)
+- **Initiative**: +2
+- **Speed**: 20 ft. (4 squares), climb 20 ft.
+- **Armor Class**: 15 (+2 Dex, +1 natural, +2 size), touch 14, flat-footed 13
+- **Base Attack**: +0; **CMB**: +0; **CMD**: 9 (13 vs. trip)
+- **Attack**: Bite +4 melee (1d3–1)
+- **Full Attack**: Bite +4 melee (1d3–1)
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +2, Ref +4, Will +3
+- **Abilities**: Str 8, Dex 15, Con 11, Int 2, Wis 16, Cha 5
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +3
+- **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Temperate forests
+- **Organization**: Solitary or gaze (2–4)
+- **Challenge Rating**: 1/2
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Raccoons are inquisitive and cunning, and often have strangely humanoid mannerisms, like washing their food in streams.

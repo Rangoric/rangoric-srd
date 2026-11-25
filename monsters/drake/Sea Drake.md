@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Sea Drake
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Aquatic)
-  - **Hit Dice**: 7d12+28 (73 hp)
-  - **Initiative**: +6
-  - **Speed**: 20 ft. (4 squares), fly 60 ft. (average), swim 60 ft.
-  - **Armor Class**: 19 (+2 Dex, +8 natural, –1 size), touch 11, flat-footed 17
-  - **Base Attack**: +7; **CMB**: +14; **CMD**: 26
-  - **Attack**: Bite +12 melee (1d8+6 plus 1d6 electricity) or tail slap +12 melee (1d8+3)
-  - **Full Attack**: Bite +12 melee (1d8+6 plus 1d6 electricity) and tail slap +7 melee (1d8+3)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Ball Lightning Breath|Ball lightning breath]], [[rangoric-srd/monsters/abilities/Capsize|capsize]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Speed Surge|speed surge]], immunity to electricity, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep
-  - **Saves**: Fort +9, Ref +9, Will +5
-  - **Abilities**: Str 23, Dex 15, Con 18, Int 8, Wis 10, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +24, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +11
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
-  - **Environment**: Any coastlines
-  - **Organization**: Solitary, pair, or rampage (3–12)
-  - **Challenge Rating**: 6
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Aquatic)
+- **Hit Dice**: 7d12+28 (73 hp)
+- **Initiative**: +6
+- **Speed**: 20 ft. (4 squares), fly 60 ft. (average), swim 60 ft.
+- **Armor Class**: 19 (+2 Dex, +8 natural, –1 size), touch 11, flat-footed 17
+- **Base Attack**: +7; **CMB**: +14; **CMD**: 26
+- **Attack**: Bite +12 melee (1d8+6 plus 1d6 electricity) or tail slap +12 melee (1d8+3)
+- **Full Attack**: Bite +12 melee (1d8+6 plus 1d6 electricity) and tail slap +7 melee (1d8+3)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Ball Lightning Breath|Ball lightning breath]], [[rangoric-srd/monsters/abilities/Capsize|capsize]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Speed Surge|speed surge]], immunity to electricity, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep
+- **Saves**: Fort +9, Ref +9, Will +5
+- **Abilities**: Str 23, Dex 15, Con 18, Int 8, Wis 10, Cha 9
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +24, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +11
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
+- **Environment**: Any coastlines
+- **Organization**: Solitary, pair, or rampage (3–12)
+- **Challenge Rating**: 6
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 While obviously the product of draconic inbreeding, the heritage of sea drakes is less clear than that of other drakes. Among the strongest of the drakes, sea drakes still lack the mental acuity of their true dragon forebears, though they remain as brutally cunning as other drakes. Although amphibious, sea drakes spend the majority of their time in shallow coastal waters.
 

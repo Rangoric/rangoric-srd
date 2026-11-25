@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Carnivorous Flower
 
-*A plant companion that a [[rangoric-srd/class-options/archetypes/druid/Treesinger (Archetype)|treesinger]] can choose for her plant bond.*
+_A plant companion that a [[rangoric-srd/class-options/archetypes/druid/Treesinger (Archetype)|treesinger]] can choose for her plant bond._
 
 - **Size**: Small
 - **Speed**: 30 ft., climb 10 ft.

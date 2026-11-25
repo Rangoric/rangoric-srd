@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Gebo
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
+_A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat._
 
 Gebo is the rune of interaction between people and of society as a whole. This rune gives those attuned to it power over the actions of others, making this rune one which can be easily abused. Those attuned to Gebo are talkative and interested in the affairs of everyone around them.
 
@@ -23,15 +23,15 @@ Gebo is the rune of interaction between people and of society as a whole. This r
 
 **Spells Available** (by level; see [[rangoric-srd/rules/rune-magic/Rune Magic#The Runes|the runes]]):
 
-0. *[[rangoric-srd/spells/Guidance|guidance]]*
-1. *[[rangoric-srd/spells/Charm Person|charm person]]*
-2. *[[rangoric-srd/spells/Enthrall|enthrall]]*
-3. *[[rangoric-srd/spells/Suggestion|suggestion]]*
-4. *[[rangoric-srd/spells/Crushing Despair|crushing despair]]*, *[[rangoric-srd/spells/Good Hope|good hope]]* or *[[rangoric-srd/spells/Rage|rage]]*
-5. *[[rangoric-srd/spells/Dominate Person|dominate person]]*
-6. *[[rangoric-srd/spells/Suggestion, Mass|mass suggestion]]*
-7. *[[rangoric-srd/spells/Repulsion|repulsion]]*
-8. *[[rangoric-srd/spells/Charm Monster, Mass|mass charm monster]]*
-9. *[[rangoric-srd/spells/Dominate Monster|dominate monster]]*
+0. _[[rangoric-srd/spells/Guidance|guidance]]_
+1. _[[rangoric-srd/spells/Charm Person|charm person]]_
+2. _[[rangoric-srd/spells/Enthrall|enthrall]]_
+3. _[[rangoric-srd/spells/Suggestion|suggestion]]_
+4. _[[rangoric-srd/spells/Crushing Despair|crushing despair]]_, _[[rangoric-srd/spells/Good Hope|good hope]]_ or _[[rangoric-srd/spells/Rage|rage]]_
+5. _[[rangoric-srd/spells/Dominate Person|dominate person]]_
+6. _[[rangoric-srd/spells/Suggestion, Mass|mass suggestion]]_
+7. _[[rangoric-srd/spells/Repulsion|repulsion]]_
+8. _[[rangoric-srd/spells/Charm Monster, Mass|mass charm monster]]_
+9. _[[rangoric-srd/spells/Dominate Monster|dominate monster]]_
 
 **Associated Skill Bonus**: +2 bonus on [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks.

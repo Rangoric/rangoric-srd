@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Divine Strategist
 
-*A [[rangoric-srd/classes/Cleric#^cleric-archetypes|cleric]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Cleric#^cleric-archetypes|cleric]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 The divine strategist leads the armies of the faithful, not from the front lines but through her clever strategy and tactical acumen.
 

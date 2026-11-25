@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Dandasuka
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Native, Rakshasa, Shapechanger)
-  - **Hit Dice**: 6d10+18 (51 hp)
-  - **Initiative**: +4
-  - **Speed**: 30 ft. (6 squares), climb 20 ft.
-  - **Armor Class**: 19 (+4 Dex, +1 dodge, +3 natural, +1 size), touch 16, flat-footed 14
-  - **Base Attack**: +6; **CMB**: +6; **CMD**: 21
-  - **Attack**: Bite +8 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]]) or claw +8 melee (1d4+1)
-  - **Full Attack**: Bite +8 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]]) and 2 claws +8 melee (1d4+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] 1d4, detect thoughts (DC 15), sneak attack +1d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (any humanoid; alter self), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good or piercing, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 20
-  - **Saves**: Fort +5, Ref +9, Will +6
-  - **Abilities**: Str 13, Dex 18, Con 16, Int 13, Wis 12, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Imitation|Imitation]] +19, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +17
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]]
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, or murder (3–10)
-  - **Challenge Rating**: 5
-  - **Treasure**: Standard
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Native, Rakshasa, Shapechanger)
+- **Hit Dice**: 6d10+18 (51 hp)
+- **Initiative**: +4
+- **Speed**: 30 ft. (6 squares), climb 20 ft.
+- **Armor Class**: 19 (+4 Dex, +1 dodge, +3 natural, +1 size), touch 16, flat-footed 14
+- **Base Attack**: +6; **CMB**: +6; **CMD**: 21
+- **Attack**: Bite +8 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]]) or claw +8 melee (1d4+1)
+- **Full Attack**: Bite +8 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]]) and 2 claws +8 melee (1d4+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] 1d4, detect thoughts (DC 15), sneak attack +1d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (any humanoid; alter self), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good or piercing, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 20
+- **Saves**: Fort +5, Ref +9, Will +6
+- **Abilities**: Str 13, Dex 18, Con 16, Int 13, Wis 12, Cha 15
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Imitation|Imitation]] +19, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +17
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]]
+- **Environment**: Any
+- **Organization**: Solitary, pair, or murder (3–10)
+- **Challenge Rating**: 5
+- **Treasure**: Standard
+- **Alignment**: Usually lawful evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Dandasukas, also known as “biters” among rakshasas, serve as spies and assassins. They often appear as part of a rakshasa's retinue or secret network. Born to manipulate and murder, they revel in their work and delight in the sight of blood. Thus, dandasukas go about their work cheerfully, laughing as they manipulate foes and butcher victims.
 
@@ -76,8 +76,8 @@ Dandasukas speak Common, Infernal and Undercommon.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 5th; concentration +7): 1/day—*[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 5th; concentration +7): 1/day—_[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]]_.
 
-**Spells known** (CL 2nd; concentration +4): 1st (5/day)—*[[rangoric-srd/spells/Charm Person|charm person]]* (DC 13), *[[rangoric-srd/spells/Ventriloquism|ventriloquism]]* (DC 13); 0 (at will)—*[[rangoric-srd/spells/Bleed|bleed]]* (DC 12), *[[rangoric-srd/spells/Daze|daze]]* (DC 12), *[[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Ghost Sound|ghost sound]]* (DC 12),*[[rangoric-srd/spells/Mage Hand|mage hand]]*.
+**Spells known** (CL 2nd; concentration +4): 1st (5/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 13), _[[rangoric-srd/spells/Ventriloquism|ventriloquism]]_ (DC 13); 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 12), _[[rangoric-srd/spells/Daze|daze]]_ (DC 12), _[[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 12),_[[rangoric-srd/spells/Mage Hand|mage hand]]_.
 
 **Spells**: A dandasuka casts arcane spells as a 2nd-level [[rangoric-srd/classes/Sorcerer|sorcerer]].

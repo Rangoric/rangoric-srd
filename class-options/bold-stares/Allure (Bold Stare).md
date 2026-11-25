@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Allure
 
-*A mesmerist’s [[rangoric-srd/classes/Mesmerist#^mesmerist-bold-stare|bold stare]] improvement (Su).*
+_A mesmerist’s [[rangoric-srd/classes/Mesmerist#^mesmerist-bold-stare|bold stare]] improvement (Su)._
 
 The hypnotic stare penalty also applies on initiative checks and [[rangoric-srd/skills/Perception|Perception]] checks.

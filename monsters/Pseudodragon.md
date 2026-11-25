@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Pseudodragon
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]]
-  - **Hit Dice**: 2d12+2 (15 hp)
-  - **Initiative**: +2
-  - **Speed**: 15 ft. (3 squares), fly 60 ft. (good)
-  - **Armor Class**: 16 (+2 Dex, +2 natural, +2 size), touch 14, flat-footed 14
-  - **Base Attack**: +2; **CMB**: +2; **CMD**: 10 (14 vs. trip)
-  - **Attack**: Sting +6 melee (1d3–2 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or bite +6 melee (1d2–2)
-  - **Full Attack**: Sting +6 melee (1d3–2 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and bite +6 melee (1d2–2)
-  - **Space/Reach**: 2-1/2 ft./0 ft. (5 ft. with tail)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 60 ft., immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 12
-  - **Saves**: Fort +4, Ref +5, Will +4
-  - **Abilities**: Str 7, Dex 15, Con 13, Int 10, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +19 (+23 in forests)
-  - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary, pair, or clutch (3–5)
-  - **Challenge Rating**: 1
-  - **Treasure**: Standard
-  - **Alignment**: Always neutral good
-  - **Advancement**: 3–4 HD (Tiny)
-  - **Level Adjustment**: +3
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]]
+- **Hit Dice**: 2d12+2 (15 hp)
+- **Initiative**: +2
+- **Speed**: 15 ft. (3 squares), fly 60 ft. (good)
+- **Armor Class**: 16 (+2 Dex, +2 natural, +2 size), touch 14, flat-footed 14
+- **Base Attack**: +2; **CMB**: +2; **CMD**: 10 (14 vs. trip)
+- **Attack**: Sting +6 melee (1d3–2 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or bite +6 melee (1d2–2)
+- **Full Attack**: Sting +6 melee (1d3–2 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and bite +6 melee (1d2–2)
+- **Space/Reach**: 2-1/2 ft./0 ft. (5 ft. with tail)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 60 ft., immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 12
+- **Saves**: Fort +4, Ref +5, Will +4
+- **Abilities**: Str 7, Dex 15, Con 13, Int 10, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +19 (+23 in forests)
+- **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Temperate forests
+- **Organization**: Solitary, pair, or clutch (3–5)
+- **Challenge Rating**: 1
+- **Treasure**: Standard
+- **Alignment**: Always neutral good
+- **Advancement**: 3–4 HD (Tiny)
+- **Level Adjustment**: +3
 
 Pseudodragons are tiny cousins of true dragons, and are playful but shy. They often only vocalize in chirps, hisses, growls, and purrs, but can communicate telepathically with any intelligent creature. If approached peacefully and offered food, they are usually willing to share information about what they've seen in their territory, but threats or violence make them flee.
 
@@ -74,4 +74,4 @@ Pseudodragons speak Draconic.
 
 A pseudodragon can deliver a vicious bite, but its principal weapon is its sting-equipped tail.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Pseudodragon Venom|Pseudodragon Venom]]: Sting—injury; *save* Fort DC 14; *frequency* 1/minute for 10 minutes; *effect* sleep for 1 minute; *cure* 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Pseudodragon Venom|Pseudodragon Venom]]: Sting—injury; _save_ Fort DC 14; _frequency_ 1/minute for 10 minutes; _effect_ sleep for 1 minute; _cure_ 1 save. The save DC is Constitution-based and includes a +2 racial bonus.

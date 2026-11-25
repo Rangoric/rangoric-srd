@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/scaling-item]
 
 # Boots of Readiness
 
-*A scaling item ([[rangoric-srd/unearthed-arcana/Scaling Items/Scaling Items#^value-of-scaling-items|bauble]]): its powers unlock as its wielder gains levels.*
+_A scaling item ([[rangoric-srd/unearthed-arcana/Scaling Items/Scaling Items#^value-of-scaling-items|bauble]]): its powers unlock as its wielder gains levels._
 
 These tight-fitting, black leather boots make their wearer more prepared before she acts in battle. When the wearer has not yet acted at the beginning of a fight, the boots provide a +2 luck bonus on saving throws and 12 temporary hit points. Both effects fade when the wearer's first turn arrives, even if she delays.
 
@@ -29,4 +29,4 @@ These tight-fitting, black leather boots make their wearer more prepared before 
 
 **13th Level**: Before the wearer has taken her first turn in combat, she can move up to her speed as an immediate action without provoking attacks of opportunity. She can no longer use this ability once her first turn arrives, even if she delays.
 
-Moderate divination; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Haste|haste]]*, *[[rangoric-srd/spells/Moment of Prescience|moment of prescience]]*; Price 2,650 gp; Cost 3,500 gp; Weight 1 lb.
+Moderate divination; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Haste|haste]]_, _[[rangoric-srd/spells/Moment of Prescience|moment of prescience]]_; Price 2,650 gp; Cost 3,500 gp; Weight 1 lb.

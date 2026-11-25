@@ -23,15 +23,15 @@ tags: [rangoric, rangoric/spell]
 
 # Sealed Life, Greater
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Spi 6
-  - **Components**: S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Spi 6
+- **Components**: S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: 1 minute/level
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
-This spell functions as *[[rangoric-srd/spells/Sealed Life|sealed life]]*, except it additionally provides the benefits of *[[rangoric-srd/spells/Death Ward|death ward]]* and renders its targets immune to effects that extract or transfer its soul, such as *[[rangoric-srd/spells/Possession|possession]]* and *[[rangoric-srd/spells/Trap the Soul|trap the soul]]*. This spell prevents a soul from returning to its body if it has already departed, until the spell's duration expires.
+This spell functions as _[[rangoric-srd/spells/Sealed Life|sealed life]]_, except it additionally provides the benefits of _[[rangoric-srd/spells/Death Ward|death ward]]_ and renders its targets immune to effects that extract or transfer its soul, such as _[[rangoric-srd/spells/Possession|possession]]_ and _[[rangoric-srd/spells/Trap the Soul|trap the soul]]_. This spell prevents a soul from returning to its body if it has already departed, until the spell's duration expires.

@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Horn of Judgment
 
-This golden trumpet is inlaid with silver and ivory. Once per day the bearer can sound a singular clarion note that affects up to 9 [[rangoric-srd/rules/Special Abilities and Conditions#^incorporeal|incorporeal]] creatures within 30 feet with *[[rangoric-srd/spells/Ghostbane Dirge|ghostbane dirge]]* (Will DC 17 negates) for 9 rounds.
+This golden trumpet is inlaid with silver and ivory. Once per day the bearer can sound a singular clarion note that affects up to 9 [[rangoric-srd/rules/Special Abilities and Conditions#^incorporeal|incorporeal]] creatures within 30 feet with _[[rangoric-srd/spells/Ghostbane Dirge|ghostbane dirge]]_ (Will DC 17 negates) for 9 rounds.
 
-Moderate transmutation; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Ghostbane Dirge|ghostbane dirge]]*; Price 15,000 gp; Cost 7,500 gp; Weight 1 lb.
+Moderate transmutation; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Ghostbane Dirge|ghostbane dirge]]_; Price 15,000 gp; Cost 7,500 gp; Weight 1 lb.

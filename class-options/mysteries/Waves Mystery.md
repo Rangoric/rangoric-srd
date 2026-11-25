@@ -16,11 +16,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Waves Mystery
 
-*An [[rangoric-srd/classes/Oracle#^oracle-mystery|oracle mystery]].* The shaman’s [[rangoric-srd/class-options/spirits/Waves Spirit|waves spirit]] shares its name; a character with both must choose matching ones (see the shaman’s [[rangoric-srd/classes/Shaman#^shaman-spirit|spirit]]).
+_An [[rangoric-srd/classes/Oracle#^oracle-mystery|oracle mystery]]._ The shaman’s [[rangoric-srd/class-options/spirits/Waves Spirit|waves spirit]] shares its name; a character with both must choose matching ones (see the shaman’s [[rangoric-srd/classes/Shaman#^shaman-spirit|spirit]]).
 
 **Class Skills**: An oracle with the waves mystery adds [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Escape Artist|Escape Artist]], and [[rangoric-srd/skills/Nature|Nature]] to her list of class skills.
 
-**Bonus Spells**: *[[rangoric-srd/spells/Touch of the Sea|touch of the sea]]* (2nd), *[[rangoric-srd/spells/Slipstream|slipstream]]* (4th), *[[rangoric-srd/spells/Water Breathing|water breathing]]* (6th), *[[rangoric-srd/spells/Wall of Ice|wall of ice]]* (8th), *[[rangoric-srd/spells/Geyser|geyser]]* (10th), *[[rangoric-srd/spells/Fluid Form|fluid form]]* (12th), *[[rangoric-srd/spells/Vortex|vortex]]* (14th), *[[rangoric-srd/spells/Seamantle|seamantle]]* (16th), *[[rangoric-srd/spells/Tsunami|tsunami]]* (18th).
+**Bonus Spells**: _[[rangoric-srd/spells/Touch of the Sea|touch of the sea]]_ (2nd), _[[rangoric-srd/spells/Slipstream|slipstream]]_ (4th), _[[rangoric-srd/spells/Water Breathing|water breathing]]_ (6th), _[[rangoric-srd/spells/Wall of Ice|wall of ice]]_ (8th), _[[rangoric-srd/spells/Geyser|geyser]]_ (10th), _[[rangoric-srd/spells/Fluid Form|fluid form]]_ (12th), _[[rangoric-srd/spells/Vortex|vortex]]_ (14th), _[[rangoric-srd/spells/Seamantle|seamantle]]_ (16th), _[[rangoric-srd/spells/Tsunami|tsunami]]_ (18th).
 
 ## Revelations
 

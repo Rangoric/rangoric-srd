@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Produce Flame
 
-*Evocation \[Fire\]*
+_Evocation \[Fire\]_
 
-  - **Level**: Drd 1, Fire 2, Hun 1, Sha 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: 0 ft.
-  - **Effect**: Flame in your palm
-  - **Duration**: 1 min./level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Drd 1, Fire 2, Hun 1, Sha 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: 0 ft.
+- **Effect**: Flame in your palm
+- **Duration**: 1 min./level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 Flames as bright as a torch appear in your open hand. The flames harm neither you nor your equipment.
 

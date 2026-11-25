@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Gryph
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 2d10+4 (15 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares), fly 50 ft. (good)
-  - **Armor Class**: 13 (+2 Dex, +1 size), touch 13, flat-footed 11
-  - **Base Attack**: +2; **CMB**: +1 (+5 start grapple, +9 maintain grapple); **CMD**: 13 (21 vs. trip)
-  - **Attack**: Bite +5 melee (1d6/×3) or claw +5 melee (grab)
-  - **Full Attack**: Bite +5 melee (1d6/×3) and claw +5 melee (grab)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Implant Eggs|Implant eggs]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
-  - **Saves**: Fort +5, Ref +5, Will +1
-  - **Abilities**: Str 11, Dex 15, Con 14, Int 2, Wis 12, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Temperate forests or underground
-  - **Organization**: Solitary, flock (2–8), or throng (9–20)
-  - **Challenge Rating**: 1
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 2d10+4 (15 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares), fly 50 ft. (good)
+- **Armor Class**: 13 (+2 Dex, +1 size), touch 13, flat-footed 11
+- **Base Attack**: +2; **CMB**: +1 (+5 start grapple, +9 maintain grapple); **CMD**: 13 (21 vs. trip)
+- **Attack**: Bite +5 melee (1d6/×3) or claw +5 melee (grab)
+- **Full Attack**: Bite +5 melee (1d6/×3) and claw +5 melee (grab)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Implant Eggs|Implant eggs]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
+- **Saves**: Fort +5, Ref +5, Will +1
+- **Abilities**: Str 11, Dex 15, Con 14, Int 2, Wis 12, Cha 7
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Temperate forests or underground
+- **Organization**: Solitary, flock (2–8), or throng (9–20)
+- **Challenge Rating**: 1
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Gryphs are bird-like creatures usually found underground, but they also favor dark and tangled forests. Gryphs normally survive on carrion and small animals, but take on larger game when driven by hunger or if they feel threatened. Most disturbing is their means of reproduction. Gryphs are hermaphroditic and mate frequently, such that their egg pouches are rarely empty. When they encounter a suitable host—a warm-blooded creature of size Small or larger, ideally alone—the gryphs swoop down, latch on to the target, and implant their eggs directly into its flesh. As long as the target is conscious, the flock continues its assault, though if the target flees the area, the gryphs return to their nest. The eggs quicken swiftly once implanted, and gryph chicks hatch forth mere minutes later in a bloody birth that is often fatal to the host.
 

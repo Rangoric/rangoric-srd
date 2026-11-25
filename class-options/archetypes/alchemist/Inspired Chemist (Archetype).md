@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Inspired Chemist
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-archetypes|alchemist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-archetypes|alchemist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Akin to a [[rangoric-srd/class-options/archetypes/alchemist/Mindchemist (Archetype)|mindchemist]], inspired chemists use a type of [[rangoric-srd/class-options/discoveries/Cognatogen (Discovery)|cognatogen]] that, instead of increasing their mental ability scores, grants them an inspiration pool like that of an [[rangoric-srd/classes/Investigator#^investigator-inspiration|investigator]]. This inspiration provides an inspired chemist amazing powers to avoid danger, but takes a toll on both physical power and health.
 

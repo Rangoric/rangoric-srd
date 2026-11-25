@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Luck Blessing
 
-*A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Luck Domain|Luck domain]].*
+_A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Luck Domain|Luck domain]]._
 
 **Lucky Presence (minor)**: At 1st level, you can touch an ally and grant it a lucky presence. The target of this luck can call upon it to roll any one ability check, attack roll, saving throw, or skill check twice and take the better result. The decision to use this ability must be made before the roll is made. Once used, the effect ends.
 

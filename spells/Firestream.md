@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Firestream
 
-*Evocation \[Fire\]*
+_Evocation \[Fire\]_
 
-  - **Level**: Blr 3, Mag 3, Sor/Wiz 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: 20 ft.
-  - **Area**: 20-ft. line
-  - **Duration**: Concentration, up to 1 round/level; see text
-  - **Saving Throw**: Reflex half
-  - **Spell Resistance**: Yes
+- **Level**: Blr 3, Mag 3, Sor/Wiz 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: 20 ft.
+- **Area**: 20-ft. line
+- **Duration**: Concentration, up to 1 round/level; see text
+- **Saving Throw**: Reflex half
+- **Spell Resistance**: Yes
 
 A rushing stream of fire sprays from your outstretched hand, dealing 2d6 points of fire damage to every creature in the area. Each round you continue to concentrate on the spell, you can select a new area for it to affect.
 

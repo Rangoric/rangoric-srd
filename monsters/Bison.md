@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Bison
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 5d8+20 (42 hp)
-  - **Initiative**: +0
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 17 (+8 natural, –1 size), touch 9, flat-footed 17
-  - **Base Attack**: +3; **CMB**: +12; **CMD**: 22 (26 vs. trip)
-  - **Attack**: Gore +10 melee (2d6+12)
-  - **Full Attack**: Gore +10 melee (2d6+12)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Stampede|Stampede]], [[rangoric-srd/monsters/abilities/Trample|trample]] (2d6+12, DC 20)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +8, Ref +4, Will +1
-  - **Abilities**: Str 27, Dex 10, Con 19, Int 2, Wis 11, Cha 4
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +8
-  - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Cold or temperate plains
-  - **Organization**: Solitary, pair, or herd (3–30)
-  - **Challenge Rating**: 4
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 6–7 HD (Large)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 5d8+20 (42 hp)
+- **Initiative**: +0
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 17 (+8 natural, –1 size), touch 9, flat-footed 17
+- **Base Attack**: +3; **CMB**: +12; **CMD**: 22 (26 vs. trip)
+- **Attack**: Gore +10 melee (2d6+12)
+- **Full Attack**: Gore +10 melee (2d6+12)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Stampede|Stampede]], [[rangoric-srd/monsters/abilities/Trample|trample]] (2d6+12, DC 20)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +8, Ref +4, Will +1
+- **Abilities**: Str 27, Dex 10, Con 19, Int 2, Wis 11, Cha 4
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +8
+- **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Cold or temperate plains
+- **Organization**: Solitary, pair, or herd (3–30)
+- **Challenge Rating**: 4
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 6–7 HD (Large)
+- **Level Adjustment**: —
 
 Bison are large herd animals. They can grow as long as 12 feet and as tall as 7 feet at the shoulder. Average bison weigh 2,200 pounds. The bison's statistics can be used for almost any larger herd animal, such as the buffalo.
 

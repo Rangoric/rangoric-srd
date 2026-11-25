@@ -25,15 +25,15 @@ tags: [rangoric, rangoric/spell]
 
 # Homeward Bound
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Clr 3, Sor/Wiz 4
-  - **Components**: V, S
-  - **Casting Time**: 1 minute
-  - **Range**: Touch
-  - **Target**: One willing extraplanar creature
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Clr 3, Sor/Wiz 4
+- **Components**: V, S
+- **Casting Time**: 1 minute
+- **Range**: Touch
+- **Target**: One willing extraplanar creature
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 This spell functions as [[rangoric-srd/spells/Dismissal|dismissal]], except as noted above.

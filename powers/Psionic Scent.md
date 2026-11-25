@@ -27,7 +27,7 @@ Psychometabolism
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 round/level  
-**Power Points:** 3  
+**Power Points:** 3
 
 You gain an enhanced sense of smell, equivalent to the [[rangoric-srd/monsters/abilities/Scent|scent]] ability of some monsters. This ability allows you to detect approaching enemies, sniff out hidden foes, and track by sense of smell. With the scent ability, you can identify familiar odors just as humanoids do familiar sights.
 

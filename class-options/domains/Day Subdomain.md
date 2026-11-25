@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Day Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Sun Domain|Sun]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Sun Domain|Sun]] domain._
 
 ## Replacement Power
 
@@ -27,7 +27,7 @@ This power replaces the [[rangoric-srd/class-options/domains/Sun Domain#Granted 
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 2nd | [[rangoric-srd/spells/Continual Flame\|Continual Flame]] (M) | Makes a permanent, heatless torch. |
-| 3rd | [[rangoric-srd/spells/Daylight\|Daylight]] | 60-ft. radius of bright light. |
+| Level | Spell                                                        | Brief Description                  |
+| ----- | ------------------------------------------------------------ | ---------------------------------- |
+| 2nd   | [[rangoric-srd/spells/Continual Flame\|Continual Flame]] (M) | Makes a permanent, heatless torch. |
+| 3rd   | [[rangoric-srd/spells/Daylight\|Daylight]]                   | 60-ft. radius of bright light.     |

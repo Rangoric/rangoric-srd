@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Spell Echoing
 
-A *spell echoing* weapon allows the wielder to duplicate any arcane spell cast within a 5 ft. radius. The maximum level of the spell is equal to the enhancement bonus of the weapon. If the spell was cast in a slot higher than the weapon can echo, the spell is not echoed.
+A _spell echoing_ weapon allows the wielder to duplicate any arcane spell cast within a 5 ft. radius. The maximum level of the spell is equal to the enhancement bonus of the weapon. If the spell was cast in a slot higher than the weapon can echo, the spell is not echoed.
 
 The echoed spell must be cast in the same round as the original spell, and the weapon cannot echo spells with a casting time greater than one round. All echoed spells are cast at the level and DC of the original caster. Echoed spells are not subject to arcane spell failure due to armor. Casting an echoed spell is a full attack action and may draw an attack of opportunity.
 

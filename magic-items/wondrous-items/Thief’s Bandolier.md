@@ -19,4 +19,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This magical bandolier has coiled wire sewn into it. When activated, the bandolier is capable of carrying 25 pounds of metallic items for quick hands-free availability. While activated attacks with metallic weapons receive a +2 circumstance bonus to hit. Removing items of small size requires a Strength check (DC 5).
 
-Moderate transmutation; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Telekinesis|telekinesis]]*; Price 4,000 gp.
+Moderate transmutation; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Telekinesis|telekinesis]]_; Price 4,000 gp.

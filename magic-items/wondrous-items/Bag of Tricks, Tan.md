@@ -25,10 +25,10 @@ Animals produced are always random, and only one may exist at a time. Up to ten 
 
 Moderate conjuration; CL 9th; Craft Wondrous Item, summon nature’s ally V; Price 6,300 gp.
 
-| d% | Animal |
-| --- | --- |
-| 01–30 | Brown bear |
-| 31–60 | Lion |
-| 61–80 | Heavy warhorse |
-| 81–90 | Tiger |
-| 91–100 | Rhinoceros |
+| d%     | Animal         |
+| ------ | -------------- |
+| 01–30  | Brown bear     |
+| 31–60  | Lion           |
+| 61–80  | Heavy warhorse |
+| 81–90  | Tiger          |
+| 91–100 | Rhinoceros     |

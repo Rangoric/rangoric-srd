@@ -44,28 +44,28 @@ The rogue’s class skills (and the key ability for each skill) are [[rangoric-s
 
 **Table: The Rogue** ^table-the-rogue
 
-| Level | Special                             |
-| ----- | ----------------------------------- |
-| 1st   | Finesse training, sneak attack +1d6, trapfinding |
-| 2nd   | Evasion, rogue talent |
+| Level | Special                                              |
+| ----- | ---------------------------------------------------- |
+| 1st   | Finesse training, sneak attack +1d6, trapfinding     |
+| 2nd   | Evasion, rogue talent                                |
 | 3rd   | Danger sense +1, finesse training, sneak attack +2d6 |
-| 4th   | Debilitating injury, rogue talent, uncanny dodge |
-| 5th   | Rogue’s edge, sneak attack +3d6 |
-| 6th   | Danger sense +2, rogue talent |
-| 7th   | Sneak attack +4d6 |
-| 8th   | Improved uncanny dodge, rogue talent |
-| 9th   | Danger sense +3, sneak attack +5d6 |
-| 10th  | Advanced talents, rogue talent, rogue’s edge |
-| 11th  | Finesse training, sneak attack +6d6 |
-| 12th  | Danger sense +4, rogue talent |
-| 13th  | Sneak attack +7d6 |
-| 14th  | Rogue talent |
-| 15th  | Danger sense +5, rogue’s edge, sneak attack +8d6 |
-| 16th  | Rogue talent |
-| 17th  | Sneak attack +9d6 |
-| 18th  | Danger sense +6, rogue talent |
-| 19th  | Finesse training, sneak attack +10d6 |
-| 20th  | Master strike, rogue talent, rogue’s edge |
+| 4th   | Debilitating injury, rogue talent, uncanny dodge     |
+| 5th   | Rogue’s edge, sneak attack +3d6                      |
+| 6th   | Danger sense +2, rogue talent                        |
+| 7th   | Sneak attack +4d6                                    |
+| 8th   | Improved uncanny dodge, rogue talent                 |
+| 9th   | Danger sense +3, sneak attack +5d6                   |
+| 10th  | Advanced talents, rogue talent, rogue’s edge         |
+| 11th  | Finesse training, sneak attack +6d6                  |
+| 12th  | Danger sense +4, rogue talent                        |
+| 13th  | Sneak attack +7d6                                    |
+| 14th  | Rogue talent                                         |
+| 15th  | Danger sense +5, rogue’s edge, sneak attack +8d6     |
+| 16th  | Rogue talent                                         |
+| 17th  | Sneak attack +9d6                                    |
+| 18th  | Danger sense +6, rogue talent                        |
+| 19th  | Finesse training, sneak attack +10d6                 |
+| 20th  | Master strike, rogue talent, rogue’s edge            |
 
 ###### Class Features
 
@@ -103,11 +103,11 @@ The talents are listed in [[rangoric-srd/class-options/rogue-talents/Rogue Talen
 
 **Debilitating Injury (Ex)**: At 4th level, whenever a rogue deals sneak attack damage to a foe, she can also debilitate the target of her attack, causing it to take a penalty for 1 round (this is in addition to any penalty caused by a rogue talent or other special ability). The rogue can choose to apply any one of the following penalties when the damage is dealt. ^rogue-debilitating-injury
 
-*Bewildered*: The target becomes bewildered, taking a –2 penalty to AC. The target takes an additional –2 penalty to AC against all attacks made by the rogue. At 10th level and 16th level, the penalty to AC against attacks made by the rogue increases by –2 (to a total maximum of –8).
+_Bewildered_: The target becomes bewildered, taking a –2 penalty to AC. The target takes an additional –2 penalty to AC against all attacks made by the rogue. At 10th level and 16th level, the penalty to AC against attacks made by the rogue increases by –2 (to a total maximum of –8).
 
-*Disoriented*: The target takes a –2 penalty on attack rolls. In addition, the target takes an additional –2 penalty on all attack rolls it makes against the rogue. At 10th level and 16th level, the penalty on attack rolls made against the rogue increases by –2 (to a total maximum of –8).
+_Disoriented_: The target takes a –2 penalty on attack rolls. In addition, the target takes an additional –2 penalty on all attack rolls it makes against the rogue. At 10th level and 16th level, the penalty on attack rolls made against the rogue increases by –2 (to a total maximum of –8).
 
-*Hampered*: All of the target's speeds are reduced by half (to a minimum of 5 feet). In addition, the target cannot take a 5-foot step.
+_Hampered_: All of the target's speeds are reduced by half (to a minimum of 5 feet). In addition, the target cannot take a 5-foot step.
 
 These penalties do not stack with themselves, but additional attacks that deal sneak attack damage extend the duration by 1 round. A creature cannot suffer from more than one penalty from this ability at a time. If a new penalty is applied, the old penalty immediately ends. Any form of healing applied to a target suffering from one of these penalties also removes the penalty.
 

@@ -26,15 +26,15 @@ tags: [rangoric, rangoric/spell]
 
 # Id Insinuation I
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Psy 2
-  - **Components**: S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: Concentration + 1 round
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Psy 2
+- **Components**: S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: Concentration + 1 round
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 By invading the mind of a creature with your psychic presence, you can isolate parts of its mind, preventing the target from functioning in a coherent manner. The target is confused as long as you concentrate on it plus 1 additional round. A successful Will save negates this effect.

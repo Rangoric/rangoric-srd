@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Blistering Invective
 
-*Evocation \[Fire, Language-dependent\]*
+_Evocation \[Fire, Language-dependent\]_
 
-  - **Level**: Alc 2, Brd 2, Inq 2, Mes 2, Skd 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Area**: 30-ft. radius
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Reflex partial, see text
-  - **Spell Resistance**: Special, see below
+- **Level**: Alc 2, Brd 2, Inq 2, Mes 2, Skd 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Area**: 30-ft. radius
+- **Duration**: Instantaneous
+- **Saving Throw**: Reflex partial, see text
+- **Spell Resistance**: Special, see below
 
 You unleash an insulting tirade so vicious and spiteful that enemies who hear it are physically scorched by your fury. When you cast this spell, make an Intimidation check to demoralize each enemy within 30 feet of you. Enemies that are demoralized this way take 1d10 points of fire damage and must succeed at a Reflex save or catch fire. Spell resistance can negate the fire damage caused by this spell, but does not protect the creature from the demoralizing effect.

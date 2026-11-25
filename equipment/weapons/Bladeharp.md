@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades, weapon-group/double
 
 # Bladeharp
 
-*Exotic two-handed melee weapon (double).* Cost 150 gp; Dmg 1d6/1d6 (S), 1d8/1d8 (M); Critical 19-20/x2; Weight 20 lb.; Type Slashing. ^stats
+_Exotic two-handed melee weapon (double)._ Cost 150 gp; Dmg 1d6/1d6 (S), 1d8/1d8 (M); Critical 19-20/x2; Weight 20 lb.; Type Slashing. ^stats
 
 A bladeharp is a sturdily crafted harp, fit with blades around the outside edges. It can either be played as a harp or wielded as a weapon. The harp is constructed from steel-reinforced wood so as not to break when it is employed in combat.

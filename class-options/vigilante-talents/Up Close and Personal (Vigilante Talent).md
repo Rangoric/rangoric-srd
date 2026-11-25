@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Up Close and Personal
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
 When the vigilante attempts an Acrobatics check to move through an opponent’s space during a move action, he can attempt a single melee attack against that opponent as a swift action. If the Acrobatics check succeeds, this attack applies the vigilante’s [[rangoric-srd/classes/Vigilante#^vigilante-specialization|hidden strike]] damage as if the foe were unaware of the vigilante. Otherwise, the vigilante applies the hidden strike damage he would deal if the target were denied its Dexterity bonus to AC.
 

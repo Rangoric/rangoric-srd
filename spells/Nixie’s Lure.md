@@ -37,15 +37,15 @@ tags: [rangoric, rangoric/spell]
 
 # Nixie’s Lure
 
-*Enchantment (Charm) \[Mind-affecting, Sonic\]*
+_Enchantment (Charm) \[Mind-affecting, Sonic\]_
 
-  - **Level**: Brd 4, Drd 3, Hun 3, Mes 3, Psy 3, Skd 4, Sor/Wiz 3, Sum 4, SumU 4, Wit 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: 300 ft.
-  - **Target**: All creatures within a 300-ft.-radius burst centered on you
-  - **Duration**: Concentration + 1 round/level (D)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 4, Drd 3, Hun 3, Mes 3, Psy 3, Skd 4, Sor/Wiz 3, Sum 4, SumU 4, Wit 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: 300 ft.
+- **Target**: All creatures within a 300-ft.-radius burst centered on you
+- **Duration**: Concentration + 1 round/level (D)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
-This spell creates an unearthly and infectious song that seductively summons all who hear it. *Nixie's lure* affects a maximum of 24 Hit Dice of creatures. Creatures in the area who fail their saves are lured by the song and move toward you using the most direct means available. If the path leads them into a dangerous area such as through fire or off a cliff, the creatures each receive a second saving throw to end the effect before moving into peril. Creatures lured by the spell's song can take no actions other than to defend themselves. A victim within 5 feet of you simply stands still and for the duration of the spell remains fascinated.
+This spell creates an unearthly and infectious song that seductively summons all who hear it. _Nixie's lure_ affects a maximum of 24 Hit Dice of creatures. Creatures in the area who fail their saves are lured by the song and move toward you using the most direct means available. If the path leads them into a dangerous area such as through fire or off a cliff, the creatures each receive a second saving throw to end the effect before moving into peril. Creatures lured by the spell's song can take no actions other than to defend themselves. A victim within 5 feet of you simply stands still and for the duration of the spell remains fascinated.

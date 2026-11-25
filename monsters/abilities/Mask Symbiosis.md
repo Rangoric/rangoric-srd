@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Mask Symbiosis
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “mask symbiosis”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “mask symbiosis”, on the Special Qualities line.
 
 A spirit oni can be worn as a mask by a willing Small or Medium creature. While worn in this way, the wearer can see through the oni's eyes and speak through its mouth, although the wearer retains its own senses and voice. The spirit oni remains a separate creature, and must detach from its host's face (as a move action) if it wishes to take any action of its own (including attacking or using a spell-like ability). While a spirit oni is worn as a mask, it grants a +2 insight bonus on its host's Perception checks. The [[rangoric-srd/monsters/onis/Spirit Oni|spirit oni]] has it.

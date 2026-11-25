@@ -36,15 +36,15 @@ tags: [rangoric, rangoric/spell]
 
 # Wartrain Mount
 
-*Enchantment (Compulsion) \[Mind-affecting\]*
+_Enchantment (Compulsion) \[Mind-affecting\]_
 
-  - **Level**: Apl 1, Brd 2, Drd 2, Hun 1, Inq 1, Mes 2, Pal 1, Rgr 1, Skd 2
-  - **Components**: V, S, M (a swatch of black cloth)
-  - **Casting Time**: 1 minute
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One indifferent or friendly animal
-  - **Duration**: 1 hour/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Apl 1, Brd 2, Drd 2, Hun 1, Inq 1, Mes 2, Pal 1, Rgr 1, Skd 2
+- **Components**: V, S, M (a swatch of black cloth)
+- **Casting Time**: 1 minute
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One indifferent or friendly animal
+- **Duration**: 1 hour/level
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 You instill the target animal with the combat training general purpose (see the Animal Handling skill). This supersedes the animal's previous trained purpose and any tricks it knows. When the spell ends, it reverts to its previous trained purpose and known tricks.

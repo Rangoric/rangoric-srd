@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Oceanid
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]] (Water)
-  - **Hit Dice**: 9d6+45 (76 hp)
-  - **Initiative**: +8
-  - **Speed**: 20 ft. (4 squares), swim 80 ft.
-  - **Armor Class**: 21 (+4 Dex, +1 dodge, +6 natural), touch 15, flat-footed 16
-  - **Base Attack**: +4; **CMB**: +6; **CMD**: 26
-  - **Attack**: Slam +6 melee (1d4+3) or waterspout +8 ranged (7d6)
-  - **Full Attack**: Slam +6 melee (1d4+3); or waterspout +8 ranged (7d6)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Water Telekinesis|Water telekinesis]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft. (in water only), [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10 (in salt water only), [[rangoric-srd/monsters/abilities/Waveglide|waveglide]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 30, vulnerable to fire, [[rangoric-srd/monsters/abilities/Water Dependency (Oceanid)|water dependency]], [[rangoric-srd/monsters/abilities/Water Magic|water magic]]
-  - **Saves**: Fort +8, Ref +10, Will +10
-  - **Abilities**: Str 14, Dex 19, Con 20, Int 14, Wis 19, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +22, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Nature|Nature]] +14, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +16
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Defensive Combat Training|Defensive Combat Training]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]]
-  - **Environment**: Any oceans
-  - **Organization**: Solitary
-  - **Challenge Rating**: 7
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]] (Water)
+- **Hit Dice**: 9d6+45 (76 hp)
+- **Initiative**: +8
+- **Speed**: 20 ft. (4 squares), swim 80 ft.
+- **Armor Class**: 21 (+4 Dex, +1 dodge, +6 natural), touch 15, flat-footed 16
+- **Base Attack**: +4; **CMB**: +6; **CMD**: 26
+- **Attack**: Slam +6 melee (1d4+3) or waterspout +8 ranged (7d6)
+- **Full Attack**: Slam +6 melee (1d4+3); or waterspout +8 ranged (7d6)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Water Telekinesis|Water telekinesis]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft. (in water only), [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10 (in salt water only), [[rangoric-srd/monsters/abilities/Waveglide|waveglide]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 30, vulnerable to fire, [[rangoric-srd/monsters/abilities/Water Dependency (Oceanid)|water dependency]], [[rangoric-srd/monsters/abilities/Water Magic|water magic]]
+- **Saves**: Fort +8, Ref +10, Will +10
+- **Abilities**: Str 14, Dex 19, Con 20, Int 14, Wis 19, Cha 21
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +22, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Nature|Nature]] +14, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +16
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Defensive Combat Training|Defensive Combat Training]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]]
+- **Environment**: Any oceans
+- **Organization**: Solitary
+- **Challenge Rating**: 7
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Aquatic kin of nymphs and dryads, oceanids are fey bound to the sea. They can live in lakes, rivers, or oceans, but truly thrive only in salt water. The mood of an oceanid can change with little warning—they are quick to love and even quicker to anger.
 
@@ -73,7 +73,7 @@ Oceanids speak Aquan, Common and Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +14): Constant—*[[rangoric-srd/spells/Speak with Animals|speak with animals]]* (sea creatures only); At will—*[[rangoric-srd/spells/Control Water|control water]]*, *[[rangoric-srd/spells/Create Water|create water]]*, *[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]* (water only), *[[rangoric-srd/spells/Water Breathing|water breathing]]* (up to 9 creatures at a time); 3/day—*[[rangoric-srd/spells/Control Winds|control winds]]*, *[[rangoric-srd/spells/Summon Nature’s Ally V|summon nature's ally V]]* (sea creatures or water elementals only); 1/day—*[[rangoric-srd/spells/Control Weather|control weather]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +14): Constant—_[[rangoric-srd/spells/Speak with Animals|speak with animals]]_ (sea creatures only); At will—_[[rangoric-srd/spells/Control Water|control water]]_, _[[rangoric-srd/spells/Create Water|create water]]_, _[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]_ (water only), _[[rangoric-srd/spells/Water Breathing|water breathing]]_ (up to 9 creatures at a time); 3/day—_[[rangoric-srd/spells/Control Winds|control winds]]_, _[[rangoric-srd/spells/Summon Nature’s Ally V|summon nature's ally V]]_ (sea creatures or water elementals only); 1/day—_[[rangoric-srd/spells/Control Weather|control weather]]_.
 
 **[[rangoric-srd/monsters/abilities/Water Dependency (Oceanid)|Water Dependency]] (Ex)**: An oceanid can survive out of the water for 1 hour per point of Constitution. After this limit, she takes 1 point of Constitution damage each hour until immersed in salt water.
 

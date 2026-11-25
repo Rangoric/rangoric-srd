@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Hear Heartbeat
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “hear heartbeat”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “hear heartbeat”, on the Special Qualities line.
 
 A banshee can sense the beating hearts of living creatures within 60 feet, as if it had the blindsight ability. The [[rangoric-srd/monsters/Banshee|banshee]] has it.

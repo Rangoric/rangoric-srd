@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Blood Conduit
 
-*A [[rangoric-srd/classes/Bloodrager#^bloodrager-archetypes|bloodrager]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Bloodrager#^bloodrager-archetypes|bloodrager]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Blood conduits learn to channel their arcane might directly through their flesh, without the need for mystical words or gestures.
 

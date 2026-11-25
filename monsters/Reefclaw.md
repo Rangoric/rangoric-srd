@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Reefclaw
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Aquatic)
-  - **Hit Dice**: 2d8+4 (13 hp)
-  - **Initiative**: +5
-  - **Speed**: 5 ft. (1 square), swim 40 ft.
-  - **Armor Class**: 14 (+1 Dex, +2 natural, +1 size), touch 12, flat-footed 13
-  - **Base Attack**: +1; **CMB**: +0 (+8 grapple); **CMD**: 11 (can't be tripped)
-  - **Attack**: Claw +2 melee (1d4 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: 2 claws +2 melee (1d4 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Death Frenzy|Death frenzy]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] (1d4), [[rangoric-srd/monsters/abilities/Poison|poison]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 5
-  - **Saves**: Fort +2, Ref +1, Will +4
-  - **Abilities**: Str 10, Dex 13, Con 14, Int 5, Wis 12, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Perception|Perception]] +6
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
-  - **Environment**: Any water (coastal)
-  - **Organization**: Solitary, school (2–5), or harem (6–11)
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Aquatic)
+- **Hit Dice**: 2d8+4 (13 hp)
+- **Initiative**: +5
+- **Speed**: 5 ft. (1 square), swim 40 ft.
+- **Armor Class**: 14 (+1 Dex, +2 natural, +1 size), touch 12, flat-footed 13
+- **Base Attack**: +1; **CMB**: +0 (+8 grapple); **CMD**: 11 (can't be tripped)
+- **Attack**: Claw +2 melee (1d4 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: 2 claws +2 melee (1d4 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Death Frenzy|Death frenzy]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] (1d4), [[rangoric-srd/monsters/abilities/Poison|poison]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 5
+- **Saves**: Fort +2, Ref +1, Will +4
+- **Abilities**: Str 10, Dex 13, Con 14, Int 5, Wis 12, Cha 13
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Perception|Perception]] +6
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
+- **Environment**: Any water (coastal)
+- **Organization**: Solitary, school (2–5), or harem (6–11)
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Reefclaws are vicious predators. They possess greater intelligence than animals, but rely mainly on their strength and instincts to survive. They hunt fish, giant crabs, dolphins, and even land-dwelling creatures that come within a hundred paces of the water.
 
@@ -78,4 +78,4 @@ Reefclaws understand Common but can't speak.
 
 **[[rangoric-srd/monsters/abilities/Grab|Grab]] (Ex)**: A reefclaw can use its grab ability on a target of any size. Reefclaws have a +8 racial bonus on grapple checks; this bonus replaces the normal +4 bonus a creature with grab receives.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Reefclaw Venom|Reefclaw Venom]]: Claw—injury; *save* Fort DC 13; *frequency* 1/round for 4 rounds; *effect* 1d2 Str; *cure* 1 save. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Reefclaw Venom|Reefclaw Venom]]: Claw—injury; _save_ Fort DC 13; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Str; _cure_ 1 save. The save DC is Constitution-based.

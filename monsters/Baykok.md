@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Baykok
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
-  - **Hit Dice**: 15d8+30 (97 hp)
-  - **Initiative**: +10
-  - **Speed**: 30 ft. (6 squares), fly 60 ft. (good)
-  - **Armor Class**: 24 (+6 Dex, +1 dodge, +7 natural), touch 17, flat-footed 17
-  - **Base Attack**: +11; **CMB**: +14; **CMD**: 31
-  - **Attack**: Claw +14 melee (1d6+3) or +1 [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +19 ranged (1d8+4/19–20/×3 plus 1d6 negative energy and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
-  - **Full Attack**: 2 claws +14 melee (1d6+3); or +1 [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +19/+14/+9 ranged (1d8+4/19–20/×3 plus 1d6 negative energy and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Devour Soul|Devour soul]], [[rangoric-srd/monsters/abilities/Dread Howl|dread howl]], [[rangoric-srd/monsters/abilities/Infused Arrows|infused arrows]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-  - **Saves**: Fort +7, Ref +11, Will +9
-  - **Abilities**: Str 17, Dex 22, Con —, Int 11, Wis 10, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +28, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +24
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (composite longbow), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (composite longbow)
-  - **Environment**: Any
-  - **Organization**: Solitary, gang (2–5), or flight (6–12)
-  - **Challenge Rating**: 9
-  - **Treasure**: Standard (+1 composite longbow [+3 Str], other treasure)
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
+- **Hit Dice**: 15d8+30 (97 hp)
+- **Initiative**: +10
+- **Speed**: 30 ft. (6 squares), fly 60 ft. (good)
+- **Armor Class**: 24 (+6 Dex, +1 dodge, +7 natural), touch 17, flat-footed 17
+- **Base Attack**: +11; **CMB**: +14; **CMD**: 31
+- **Attack**: Claw +14 melee (1d6+3) or +1 [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +19 ranged (1d8+4/19–20/×3 plus 1d6 negative energy and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
+- **Full Attack**: 2 claws +14 melee (1d6+3); or +1 [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +19/+14/+9 ranged (1d8+4/19–20/×3 plus 1d6 negative energy and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Devour Soul|Devour soul]], [[rangoric-srd/monsters/abilities/Dread Howl|dread howl]], [[rangoric-srd/monsters/abilities/Infused Arrows|infused arrows]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
+- **Saves**: Fort +7, Ref +11, Will +9
+- **Abilities**: Str 17, Dex 22, Con —, Int 11, Wis 10, Cha 15
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +28, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +24
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (composite longbow), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (composite longbow)
+- **Environment**: Any
+- **Organization**: Solitary, gang (2–5), or flight (6–12)
+- **Challenge Rating**: 9
+- **Treasure**: Standard (+1 composite longbow [+3 Str], other treasure)
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 When hunters become utterly obsessed with the chase and indulge excessively in the savagery of the kill, their souls become progressively tainted. When such remorseless hunters perish before they can capture and kill their quarry, they sometimes rise from death as baykoks—flying undead horrors that kill purely for the ecstasy that only murder can bring them.
 

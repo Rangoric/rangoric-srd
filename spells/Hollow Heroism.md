@@ -38,15 +38,15 @@ tags: [rangoric, rangoric/spell]
 
 # Hollow Heroism
 
-*Enchantment (Compulsion) \[MindAffecting, Ruse\]*
+_Enchantment (Compulsion) \[MindAffecting, Ruse\]_
 
-  - **Level**: Blr 4, Brd 3, Inq 4, Med 3, Psy 4, Skd 3, Sor/Wiz 4, Spi 4, Sum 4, SumU 4, Wit 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 10 \* caster level minute(s)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Blr 4, Brd 3, Inq 4, Med 3, Psy 4, Skd 3, Sor/Wiz 4, Spi 4, Sum 4, SumU 4, Wit 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 10 \* caster level minute(s)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
-This spell functions as [[rangoric-srd/spells/Heroism|Heroism]], except that you can reverse the spell by issuing a special command as a standard action if you are within medium range (100 feet + 10 feet per caster level) of the target. The target loses the bonuses and instead takes a -2 penalty on attack rolls, saving throws, and skill checks until the spell's duration ends (no save). Attempts to identify hollow *[[rangoric-srd/spells/Heroism|heroism]]* with a skill check incorrectly identify it as *[[rangoric-srd/spells/Heroism|heroism]]*.
+This spell functions as [[rangoric-srd/spells/Heroism|Heroism]], except that you can reverse the spell by issuing a special command as a standard action if you are within medium range (100 feet + 10 feet per caster level) of the target. The target loses the bonuses and instead takes a -2 penalty on attack rolls, saving throws, and skill checks until the spell's duration ends (no save). Attempts to identify hollow _[[rangoric-srd/spells/Heroism|heroism]]_ with a skill check incorrectly identify it as _[[rangoric-srd/spells/Heroism|heroism]]_.

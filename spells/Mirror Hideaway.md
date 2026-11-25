@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Mirror Hideaway
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Occ 2, Psy 2, Sor/Wiz 2, Wit 2
-  - **Components**: V, S, M (a glass or metal marble and a twisted loop of parchment)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: One mirror
-  - **Duration**: 1 hour/level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Occ 2, Psy 2, Sor/Wiz 2, Wit 2
+- **Components**: V, S, M (a glass or metal marble and a twisted loop of parchment)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: One mirror
+- **Duration**: 1 hour/level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You transform a mirror into a portal to an extradimensional space. The space can hold as many as eight Medium creatures. Creatures that enter this space are hidden and beyond the reach of spells (including divinations), unless those spells work across planes. If the mirror is covered (such as by a cloth, or by being placed face down or against a wall), the portal becomes inactive. If the mirror is broken or moved more than 5 feet from where it was when you cast the spell, the spell ends; any creatures within the extradimensional space are expelled from it (see below) and become nauseated for 1d6 rounds.
 

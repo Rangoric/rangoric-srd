@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Archivist
 
-*A [[rangoric-srd/classes/Bard#^bard-archetypes|bard]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Bard#^bard-archetypes|bard]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Some bards greatly prefer academic pursuits to the drama (and sometimes melodrama) of their artistic brethren.
 

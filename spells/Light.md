@@ -41,19 +41,19 @@ tags: [rangoric, rangoric/spell]
 
 # Light
 
-*Evocation \[Light\]*
+_Evocation \[Light\]_
 
-  - **Level**: Brd 0, Clr 0, Drd 0, Hun 0, Inq 0, Mag 0, Med 0, Mes 0, Occ 0, Psy 0, Sha 0, Skd 0, Sor/Wiz 0, Spi 0, Sum 0, SumU 0, Wit 0
-  - **Components**: V, M/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Object touched
-  - **Duration**: 10 min./level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Brd 0, Clr 0, Drd 0, Hun 0, Inq 0, Mag 0, Med 0, Mes 0, Occ 0, Psy 0, Sha 0, Skd 0, Sor/Wiz 0, Spi 0, Sum 0, SumU 0, Wit 0
+- **Components**: V, M/DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Object touched
+- **Duration**: 10 min./level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 This spell causes an object to glow like a torch, shedding bright light in a 20-foot radius (and dim light for an additional 20 feet) from the point you touch. The effect is immobile, but it can be cast on a movable object. Light taken into an area of magical darkness does not function.
 
 A light spell (one with the light descriptor) counters and dispels a darkness spell (one with the darkness descriptor) of an equal or lower level.
 
-*Arcane Material Component*: A firefly or a piece of phosphorescent moss.
+_Arcane Material Component_: A firefly or a piece of phosphorescent moss.

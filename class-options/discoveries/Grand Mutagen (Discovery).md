@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Grand Mutagen
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]].*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]]._
 
 The alchemist’s mutagen now grants a +6 natural armor bonus, a +8 alchemical bonus to one ability score (Strength, Dexterity, or Constitution), a +6 alchemical bonus to a second physical ability score, and a +4 alchemical bonus to a third physical ability score. The alchemist takes a –2 penalty to his Intelligence, Wisdom, and Charisma as long as the mutagen persists (see [[rangoric-srd/classes/Alchemist#^alchemist-mutagen|Mutagen]]). An alchemist must be at least 16th level and must possess the [[rangoric-srd/class-options/discoveries/Greater Mutagen (Discovery)|greater mutagen]] discovery before selecting this discovery.

@@ -30,22 +30,22 @@ tags: [rangoric, rangoric/spell]
 
 # Heart of the Metal
 
-*Transmutation \[Earth\]*
+_Transmutation \[Earth\]_
 
-  - **Level**: Mag 3, Occ 3, Sor/Wiz 3, Wit 3
-  - **Components**: V, S, M (a chunk of adamantine worth 100 gp, or a chunk of cold iron or silver worth 20 gp)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Targets**: One weapon per level
-  - **Duration**: 1 minute/level (see text)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Mag 3, Occ 3, Sor/Wiz 3, Wit 3
+- **Components**: V, S, M (a chunk of adamantine worth 100 gp, or a chunk of cold iron or silver worth 20 gp)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Targets**: One weapon per level
+- **Duration**: 1 minute/level (see text)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You lend the nature of adamantine, cold iron, or silver to the targeted weapons, with the following effects:
 
 - *[[rangoric-srd/equipment/Special Materials|Adamantine]]*The weapons overcome DR/adamantine and ignore hardness less than 20.
-- *[[rangoric-srd/equipment/Special Materials|Cold Iron]]*: The weapons overcome DR/cold iron.
-- *Silver*: The weapons overcome DR/silver.
+- _[[rangoric-srd/equipment/Special Materials|Cold Iron]]_: The weapons overcome DR/cold iron.
+- _Silver_: The weapons overcome DR/silver.
 
 No other advantages or disadvantages of these metal types apply. For example, a weapon given the nature of adamantine is not automatically masterwork.
 

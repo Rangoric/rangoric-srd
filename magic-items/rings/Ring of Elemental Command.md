@@ -37,47 +37,47 @@ The possessor of a ring of elemental command takes a saving throw penalty as fol
 
 In addition to the powers described above, each specific ring gives its wearer the following abilities according to its kind.
 
-*Ring of Elemental Command (Air)*
+_Ring of Elemental Command (Air)_
 
-  - Feather fall (unlimited use, wearer only)
-  - Resist energy (electricity) (unlimited use, wearer only)
-  - Gust of wind (twice per day)
-  - Wind wall (unlimited use)
-  - Air walk (once per day, wearer only)
-  - Chain lightning (once per week)
+- Feather fall (unlimited use, wearer only)
+- Resist energy (electricity) (unlimited use, wearer only)
+- Gust of wind (twice per day)
+- Wind wall (unlimited use)
+- Air walk (once per day, wearer only)
+- Chain lightning (once per week)
 
 The ring appears to be a ring of feather falling until a certain condition is met to activate its full potential. It must be reactivated each time a new wearer acquires it.
 
-*Ring of Elemental Command (Earth)*
+_Ring of Elemental Command (Earth)_
 
-  - Meld into stone (unlimited use, wearer only)
-  - Soften earth or stone (unlimited use)
-  - Stone shape (twice per day)
-  - Stoneskin (once per week, wearer only)
-  - Passwall (twice per week)
-  - Wall of stone (once per day)
+- Meld into stone (unlimited use, wearer only)
+- Soften earth or stone (unlimited use)
+- Stone shape (twice per day)
+- Stoneskin (once per week, wearer only)
+- Passwall (twice per week)
+- Wall of stone (once per day)
 
 The ring appears to be a ring of meld into stone until the established condition is met.
 
-*Ring of Elemental Command (Fire)*
+_Ring of Elemental Command (Fire)_
 
-  - Resist energy (fire) (as a major ring of energy resistance \[fire\])
-  - Burning hands (unlimited use)
-  - Flaming sphere (twice per day)
-  - Pyrotechnics (twice per day)
-  - Wall of fire (once per day)
-  - Flame strike (twice per week)
+- Resist energy (fire) (as a major ring of energy resistance \[fire\])
+- Burning hands (unlimited use)
+- Flaming sphere (twice per day)
+- Pyrotechnics (twice per day)
+- Wall of fire (once per day)
+- Flame strike (twice per week)
 
 The ring appears to be a major ring of energy resistance (fire) until the established condition is met.
 
-*Ring of Elemental Command (Water)*
+_Ring of Elemental Command (Water)_
 
-  - Water walk (unlimited use)
-  - Create water (unlimited use)
-  - Water breathing (unlimited use)
-  - Wall of ice (once per day)
-  - Ice storm (twice per week)
-  - Control water (twice per week)
+- Water walk (unlimited use)
+- Create water (unlimited use)
+- Water breathing (unlimited use)
+- Wall of ice (once per day)
+- Ice storm (twice per week)
+- Control water (twice per week)
 
 The ring appears to be a ring of water walking until the established condition is met.
 

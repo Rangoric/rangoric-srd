@@ -18,12 +18,12 @@ tags: [rangoric, rangoric/class-option]
 
 # Air Shroud, Greater
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Air Element|air]]
-  - **Type**: utility (Sp)
-  - **Level**: 5
-  - **Burn**: 0
-  - **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Air Shroud|air shroud]]
+- **Element**: [[rangoric-srd/class-options/elements/Air Element|air]]
+- **Type**: utility (Sp)
+- **Level**: 5
+- **Burn**: 0
+- **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Air Shroud|air shroud]]
 
-Your [[rangoric-srd/class-options/wild-talents/Air Shroud|air shroud]] improves, granting you the benefits of *[[rangoric-srd/spells/Life Bubble|life bubble]]*. When you accept [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]] to grant the benefit to others, the benefit lasts until the next time your burn is removed.
+Your [[rangoric-srd/class-options/wild-talents/Air Shroud|air shroud]] improves, granting you the benefits of _[[rangoric-srd/spells/Life Bubble|life bubble]]_. When you accept [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]] to grant the benefit to others, the benefit lasts until the next time your burn is removed.

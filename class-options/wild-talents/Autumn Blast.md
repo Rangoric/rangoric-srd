@@ -18,14 +18,14 @@ tags: [rangoric, rangoric/class-option]
 
 # Autumn Blast
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#^composite-blasts|composite blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#^composite-blasts|composite blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Elements**: [[rangoric-srd/class-options/elements/Earth Element|earth]] and [[rangoric-srd/class-options/elements/Wood Element|wood]]
-  - **Type**: composite blast (Sp)
-  - **Level**: —
-  - **Burn**: 2
-  - **Prerequisites**: [[rangoric-srd/class-options/wild-talents/Earth Blast|earth blast]], [[rangoric-srd/class-options/wild-talents/Wood Blast|wood blast]]
-  - **Blast Type**: physical
-  - **Damage**: any two of bludgeoning, piercing, and slashing (half each)
+- **Elements**: [[rangoric-srd/class-options/elements/Earth Element|earth]] and [[rangoric-srd/class-options/elements/Wood Element|wood]]
+- **Type**: composite blast (Sp)
+- **Level**: —
+- **Burn**: 2
+- **Prerequisites**: [[rangoric-srd/class-options/wild-talents/Earth Blast|earth blast]], [[rangoric-srd/class-options/wild-talents/Wood Blast|wood blast]]
+- **Blast Type**: physical
+- **Damage**: any two of bludgeoning, piercing, and slashing (half each)
 
 A burst of fallen leaves and earthy decay batters a single foe.

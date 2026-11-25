@@ -34,6 +34,7 @@ For the truly exemplary, martial skill transcends the battlefield—it is a life
 **[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: All good.
 
 ###### Class Skills
+
 - [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex)
 - [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha)
 - [[rangoric-srd/skills/Arcana|Arcana]] (Int)
@@ -54,30 +55,30 @@ For the truly exemplary, martial skill transcends the battlefield—it is a life
 
 **Table: The Monk** ^table-the-monk
 
-| Level | Special                                    | Flurry of Blows Attack Bonus | Unarmed Damage (1) | AC Bonus | Unarmored Speed Bonus |
-| ----- | ------------------------------------------ | ---------------------------- | ------------------ | -------- | --------------------- |
-| 1st   | Bonus feat, flurry of blows, stunning fist, unarmed strike | –1/–1 | 1d6                | +0 | +0 ft.               |
-| 2nd   | Bonus feat, evasion | +0/+0 | 1d6                | +0 | +0 ft.               |
-| 3rd   | Fast movement, maneuver training, still mind | +1/+1 | 1d6                | +0 | +10 ft.              |
-| 4th   | Ki pool (magic), slow fall 20 ft. | +2/+2 | 1d8                | +1 | +10 ft.              |
-| 5th   | High jump, purity of body | +3/+3 | 1d8                | +1 | +10 ft.              |
-| 6th   | Bonus feat, slow fall 30 ft. | +4/+4/–1 | 1d8                | +1 | +20 ft.              |
-| 7th   | Ki pool (cold iron/silver), wholeness of body | +5/+5/+0 | 1d8                | +1 | +20 ft.              |
-| 8th   | Slow fall 40 ft. | +6/+6/+1/+1 | 1d10               | +2 | +20 ft.              |
-| 9th   | Improved evasion | +7/+7/+2/+2 | 1d10               | +2 | +30 ft.              |
-| 10th  | Bonus feat, ki pool (lawful), slow fall 50 ft. | +8/+8/+3/+3 | 1d10               | +2 | +30 ft.              |
-| 11th  | Diamond body | +9/+9/+4/+4/–1 | 1d10               | +2 | +30 ft.              |
-| 12th  | Abundant step, slow fall 60 ft. | +10/+10/+5/+5/+0 | 2d6                | +3 | +40 ft.              |
-| 13th  | Diamond soul | +11/+11/+6/+6/+1 | 2d6                | +3 | +40 ft.              |
-| 14th  | Bonus feat, slow fall 70 ft. | +12/+12/+7/+7/+2 | 2d6                | +3 | +40 ft.              |
-| 15th  | Quivering palm | +13/+13/+8/+8/+3/+3 | 2d6                | +3 | +50 ft.              |
-| 16th  | Ki pool (adamantine), slow fall 80 ft. | +14/+14/+9/+9/+4/+4/–1 | 2d8                | +4 | +50 ft.              |
-| 17th  | Timeless body, tongue of the sun and moon | +15/+15/+10/+10/+5/+5/+0 | 2d8                | +4 | +50 ft.              |
-| 18th  | Bonus feat, slow fall 90 ft. | +16/+16/+11/+11/+6/+6/+1 | 2d8                | +4 | +60 ft.              |
-| 19th  | Empty body | +17/+17/+12/+12/+7/+7/+2 | 2d8                | +4 | +60 ft.              |
-| 20th  | Perfect self, slow fall any distance | +18/+18/+13/+13/+8/+8/+3 | 2d10               | +5 | +60 ft.              |
+| Level | Special                                                    | Flurry of Blows Attack Bonus | Unarmed Damage (1) | AC Bonus | Unarmored Speed Bonus |
+| ----- | ---------------------------------------------------------- | ---------------------------- | ------------------ | -------- | --------------------- |
+| 1st   | Bonus feat, flurry of blows, stunning fist, unarmed strike | –1/–1                        | 1d6                | +0       | +0 ft.                |
+| 2nd   | Bonus feat, evasion                                        | +0/+0                        | 1d6                | +0       | +0 ft.                |
+| 3rd   | Fast movement, maneuver training, still mind               | +1/+1                        | 1d6                | +0       | +10 ft.               |
+| 4th   | Ki pool (magic), slow fall 20 ft.                          | +2/+2                        | 1d8                | +1       | +10 ft.               |
+| 5th   | High jump, purity of body                                  | +3/+3                        | 1d8                | +1       | +10 ft.               |
+| 6th   | Bonus feat, slow fall 30 ft.                               | +4/+4/–1                     | 1d8                | +1       | +20 ft.               |
+| 7th   | Ki pool (cold iron/silver), wholeness of body              | +5/+5/+0                     | 1d8                | +1       | +20 ft.               |
+| 8th   | Slow fall 40 ft.                                           | +6/+6/+1/+1                  | 1d10               | +2       | +20 ft.               |
+| 9th   | Improved evasion                                           | +7/+7/+2/+2                  | 1d10               | +2       | +30 ft.               |
+| 10th  | Bonus feat, ki pool (lawful), slow fall 50 ft.             | +8/+8/+3/+3                  | 1d10               | +2       | +30 ft.               |
+| 11th  | Diamond body                                               | +9/+9/+4/+4/–1               | 1d10               | +2       | +30 ft.               |
+| 12th  | Abundant step, slow fall 60 ft.                            | +10/+10/+5/+5/+0             | 2d6                | +3       | +40 ft.               |
+| 13th  | Diamond soul                                               | +11/+11/+6/+6/+1             | 2d6                | +3       | +40 ft.               |
+| 14th  | Bonus feat, slow fall 70 ft.                               | +12/+12/+7/+7/+2             | 2d6                | +3       | +40 ft.               |
+| 15th  | Quivering palm                                             | +13/+13/+8/+8/+3/+3          | 2d6                | +3       | +50 ft.               |
+| 16th  | Ki pool (adamantine), slow fall 80 ft.                     | +14/+14/+9/+9/+4/+4/–1       | 2d8                | +4       | +50 ft.               |
+| 17th  | Timeless body, tongue of the sun and moon                  | +15/+15/+10/+10/+5/+5/+0     | 2d8                | +4       | +50 ft.               |
+| 18th  | Bonus feat, slow fall 90 ft.                               | +16/+16/+11/+11/+6/+6/+1     | 2d8                | +4       | +60 ft.               |
+| 19th  | Empty body                                                 | +17/+17/+12/+12/+7/+7/+2     | 2d8                | +4       | +60 ft.               |
+| 20th  | Perfect self, slow fall any distance                       | +18/+18/+13/+13/+8/+8/+3     | 2d10               | +5       | +60 ft.               |
 
-1 *The value shown is for Medium monks. See Table: Small or Large Monk Unarmed Damage for Small or Large monks.*
+1 _The value shown is for Medium monks. See Table: Small or Large Monk Unarmed Damage for Small or Large monks._
 
 ###### Class Features
 
@@ -146,7 +147,7 @@ The ki pool is replenished each morning after 8 hours of rest or meditation; the
 
 **Diamond Body (Su)**: At 11th level, a monk gains immunity to poisons of all kinds. ^monk-diamond-body
 
-**Abundant Step (Su)**: At 12th level or higher, a monk can slip magically between spaces, as if using the spell *[[rangoric-srd/spells/Dimension Door|dimension door]]*, once per day. Her caster level for this effect is one-half her monk level (rounded down). She can also use this ability as a move action that consumes 2 points from her ki pool; her caster level for this use is equal to her monk level, and she cannot take other creatures with her. ^monk-abundant-step
+**Abundant Step (Su)**: At 12th level or higher, a monk can slip magically between spaces, as if using the spell _[[rangoric-srd/spells/Dimension Door|dimension door]]_, once per day. Her caster level for this effect is one-half her monk level (rounded down). She can also use this ability as a move action that consumes 2 points from her ki pool; her caster level for this use is equal to her monk level, and she cannot take other creatures with her. ^monk-abundant-step
 
 **Diamond Soul (Ex)**: At 13th level, a monk gains spell resistance equal to her current monk level + 10. In order to affect the monk with a spell, a spellcaster must get a result on a caster level check (1d20 + caster level) that equals or exceeds the monk’s spell resistance. ^monk-diamond-soul
 
@@ -156,7 +157,7 @@ The ki pool is replenished each morning after 8 hours of rest or meditation; the
 
 **Tongue of the Sun and Moon (Ex)**: A monk of 17th level or higher can speak with any living creature. ^monk-tongue-of-the-sun-and-moon
 
-**Empty Body (Su)**: At 19th level, a monk gains the ability to assume an ethereal state for 1 round per monk level per day, as though using the spell *[[rangoric-srd/spells/Etherealness|etherealness]]*. She may go ethereal on a number of different occasions during any single day, as long as the total number of rounds spent in an ethereal state does not exceed her monk level. She can also assume an ethereal state for 1 minute as a move action that consumes 3 points from her ki pool; this only affects the monk and cannot be used to make other creatures ethereal. ^monk-empty-body
+**Empty Body (Su)**: At 19th level, a monk gains the ability to assume an ethereal state for 1 round per monk level per day, as though using the spell _[[rangoric-srd/spells/Etherealness|etherealness]]_. She may go ethereal on a number of different occasions during any single day, as long as the total number of rounds spent in an ethereal state does not exceed her monk level. She can also assume an ethereal state for 1 minute as a move action that consumes 3 points from her ki pool; this only affects the monk and cannot be used to make other creatures ethereal. ^monk-empty-body
 
 **Perfect Self**: At 20th level, a monk becomes a magical creature. She is forevermore treated as an outsider rather than as a humanoid (or whatever the monk’s creature type was) for the purpose of spells and magical effects. Additionally, the monk gains damage reduction 10/chaotic, which allows her to ignore the first 10 points of damage from any attack made by a nonchaotic weapon or by any natural attack made by a creature that doesn’t have similar damage reduction. Unlike other outsiders, the monk can still be brought back from the dead as if she were a member of her previous creature type. ^monk-perfect-self
 

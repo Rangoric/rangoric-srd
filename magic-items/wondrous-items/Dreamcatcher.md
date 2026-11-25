@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This ward is a thin, supple hoop of wood woven with sinew in a weblike pattern, often hung with beads and feathers; finer ones are gold or silver, hung with jewels and small metal figures. A dreamcatcher protects its sleeping owner: he gains a +2 sacred bonus on saving throws while asleep, and any [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]] or [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|ability drain]] he takes while asleep is reduced by 1 point (to a minimum of 0).
 
-Faint abjuration; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Resistance|resistance]]*; Price 2,800 gp; Cost 1,400 gp; Weight 2 lb.
+Faint abjuration; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Resistance|resistance]]_; Price 2,800 gp; Cost 1,400 gp; Weight 2 lb.

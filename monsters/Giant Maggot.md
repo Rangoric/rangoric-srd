@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Giant Maggot
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
-  - **Hit Dice**: 1d8+3 (7 hp)
-  - **Initiative**: –1
-  - **Speed**: 10 ft. (2 squares), burrow 5 ft.
-  - **Armor Class**: 9 (–1 Dex), touch 9, flat-footed 9
-  - **Base Attack**: +0; **CMB**: +0; **CMD**: 9 (can't be tripped)
-  - **Attack**: Bite +0 melee (1d6)
-  - **Full Attack**: Bite +0 melee (1d6)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Regurgitate|Regurgitate]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease and mind-affecting effects
-  - **Saves**: Fort +5, Ref –1, Will –3
-  - **Abilities**: Str 10, Dex 8, Con 16, Int —, Wis 5, Cha 1
-  - **Skills**: —
-  - **Feats**: —
-  - **Environment**: Any temperate or tropical
-  - **Organization**: Solitary or swarm (2–12)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
+- **Hit Dice**: 1d8+3 (7 hp)
+- **Initiative**: –1
+- **Speed**: 10 ft. (2 squares), burrow 5 ft.
+- **Armor Class**: 9 (–1 Dex), touch 9, flat-footed 9
+- **Base Attack**: +0; **CMB**: +0; **CMD**: 9 (can't be tripped)
+- **Attack**: Bite +0 melee (1d6)
+- **Full Attack**: Bite +0 melee (1d6)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Regurgitate|Regurgitate]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease and mind-affecting effects
+- **Saves**: Fort +5, Ref –1, Will –3
+- **Abilities**: Str 10, Dex 8, Con 16, Int —, Wis 5, Cha 1
+- **Skills**: —
+- **Feats**: —
+- **Environment**: Any temperate or tropical
+- **Organization**: Solitary or swarm (2–12)
+- **Challenge Rating**: 1/2
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Voracious scavengers, giant maggots feed constantly, gorging themselves on the dead in preparation for their transformation into giant flies. Their pallid, corpulent bodies are the size of human children, and their rasping teeth are capable of eating even the bones of a corpse. Giant maggots have no legs, and move with a disturbing undulation as they crawl over their meals. Giant maggots feed for 2 weeks (often moving from one corpse to another) before entering a pupal stage, after which they emerge as giant flies.
 

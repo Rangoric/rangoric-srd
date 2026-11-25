@@ -41,25 +41,25 @@ tags: [rangoric, rangoric/monster]
 
 # Air Elemental, Greater
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Air, Elemental, Extraplanar)
-  - **Hit Dice**: 13d10+52 (123 hp)
-  - **Initiative**: +14
-  - **Speed**: fly 100 ft. (perfect)
-  - **Armor Class**: 25 (+10 Dex, +1 dodge, +6 natural, –2 size), touch 19, flat-footed 14
-  - **Base Attack**: +13; **CMB**: +22; **CMD**: 43
-  - **Attack**: Slam +21 melee (2d8+7)
-  - **Full Attack**: 2 slams +21 melee (2d8+7)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Whirlwind|Whirlwind]] (DC 23)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/elemental/Air Elemental#^air-mastery|air mastery]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-  - **Saves**: Fort +12, Ref +18, Will +6
-  - **Abilities**: Str 24, Dex 31, Con 18, Int 8, Wis 11, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +27, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +23, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +12
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Elemental Plane of Air
-  - **Organization**: Solitary, pair, or gang (3–8)
-  - **Challenge Rating**: 9
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 14–23 HD (Huge)
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Air, Elemental, Extraplanar)
+- **Hit Dice**: 13d10+52 (123 hp)
+- **Initiative**: +14
+- **Speed**: fly 100 ft. (perfect)
+- **Armor Class**: 25 (+10 Dex, +1 dodge, +6 natural, –2 size), touch 19, flat-footed 14
+- **Base Attack**: +13; **CMB**: +22; **CMD**: 43
+- **Attack**: Slam +21 melee (2d8+7)
+- **Full Attack**: 2 slams +21 melee (2d8+7)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Whirlwind|Whirlwind]] (DC 23)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/elemental/Air Elemental#^air-mastery|air mastery]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
+- **Saves**: Fort +12, Ref +18, Will +6
+- **Abilities**: Str 24, Dex 31, Con 18, Int 8, Wis 11, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +27, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +23, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +12
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Elemental Plane of Air
+- **Organization**: Solitary, pair, or gang (3–8)
+- **Challenge Rating**: 9
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 14–23 HD (Huge)
+- **Level Adjustment**: —

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Positive Energy Affinity (Jyoti)
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “positive energy affinity”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “positive energy affinity”, on the Special Qualities line.
 
 A jyoti can exist comfortably on the Positive Energy Plane, and does not benefit (or suffer) from that plane's overwhelming infusions of life-giving energies. Whenever a jyoti is subjected to a magical healing effect, that effect functions at its full potential, as if enhanced by Maximize Spell. The [[rangoric-srd/monsters/Jyoti|jyoti]] has it.

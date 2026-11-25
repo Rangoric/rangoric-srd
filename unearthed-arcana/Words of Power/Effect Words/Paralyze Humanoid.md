@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/word-of-power]
 
 # Paralyze Humanoid
 
-*One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Binding Words|Binding group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]].*
+_One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Binding Words|Binding group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]]._
 
 **School** enchantment (compulsion) \[mind-affecting\]
 

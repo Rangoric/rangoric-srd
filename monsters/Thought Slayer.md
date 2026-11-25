@@ -39,7 +39,7 @@ tags: [rangoric, rangoric/monster]
 
 # Thought Slayer
 
-Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Psionic)      
+Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Psionic)     
 **Hit Dice:** 14d8+70 (133 hp)     
 **Initiative:** +1     
 **Speed:** 50 ft. (10 squares)     
@@ -60,7 +60,7 @@ Full **Attack:** Bite +17 melee (3d6+12)   
 Treasure: Standard     
 **Alignment:** Often Chaotic neutral     
 **Advancement:** 15-28 HD (Huge)     
-**Level Adjustment:** -     
+**Level Adjustment:** -   
 
 Thought slayers do not speak.
 

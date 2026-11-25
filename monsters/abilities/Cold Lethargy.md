@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Cold Lethargy
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “cold lethargy”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “cold lethargy”, on the Special Qualities line.
 
 Exposure to any cold effect slows a viper vine (as a slow spell) for 1d4 rounds. The [[rangoric-srd/monsters/Viper Vine|viper vine]] has it.

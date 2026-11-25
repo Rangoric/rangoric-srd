@@ -26,16 +26,16 @@ tags: [rangoric, rangoric/spell]
 
 # Unholy Blight
 
-*Evocation \[Evil\]*
+_Evocation \[Evil\]_
 
-  - **Level**: Evil 4, Inq 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Area**: 20-ft.-radius spread
-  - **Duration**: Instantaneous (1d4 rounds); see text
-  - **Saving Throw**: Will partial
-  - **Spell Resistance**: Yes
+- **Level**: Evil 4, Inq 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Area**: 20-ft.-radius spread
+- **Duration**: Instantaneous (1d4 rounds); see text
+- **Saving Throw**: Will partial
+- **Spell Resistance**: Yes
 
 You call up unholy power to smite your enemies. The power takes the form of a cold, cloying miasma of greasy darkness.
 

@@ -46,17 +46,17 @@ Paragon Class: [[rangoric-srd/classes/Half-Elf Paragon|Half-Elf Paragon]]; after
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 20 years | +1d6 | +2d6 | +3d6 |
+| --------- | --------- | ----------- | ------- |
+| 20 years  | +1d6      | +2d6        | +3d6    |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 62 years | 93 years | 125 years | +3d20 years |
+| Middle Age | Old      | Venerable | Maximum Age |
+| ---------- | -------- | --------- | ----------- |
+| 62 years   | 93 years | 125 years | +3d20 years |
 
 | Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Male | 5 ft. 2 in. | +2d8 | 110 lb. | × (2d4) lb. |
-| Female | 5 ft. 0 in. | +2d8 | 90 lb. | × (2d4) lb. |
+| ------ | ----------- | --------------- | ----------- | --------------- |
+| Male   | 5 ft. 2 in. | +2d8            | 110 lb.     | × (2d4) lb.     |
+| Female | 5 ft. 0 in. | +2d8            | 90 lb.      | × (2d4) lb.     |
 
 ### Description
 
@@ -110,17 +110,17 @@ Some half-elves feel the pull of the divine but live beyond the formal religious
 
 A half-elf can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]). Half-elves' talents vary a great deal depending on their upbringing, the nature of their bloodlines, the strength of their minds, and how they live with their dual nature, so some half-elves have other racial traits.
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Ancestral Arms\|Ancestral Arms]] | Adaptability |
-| [[rangoric-srd/races/racial-traits/Arcane Training\|Arcane Training]] | Adaptability |
-| [[rangoric-srd/races/racial-traits/Drow Magic\|Drow Magic]] | Adaptability |
-| [[rangoric-srd/races/racial-traits/Drow-Blooded\|Drow-Blooded]] | Low-light vision |
-| [[rangoric-srd/races/racial-traits/Dual Minded\|Dual Minded]] | Adaptability |
-| [[rangoric-srd/races/racial-traits/Integrated\|Integrated]] | Adaptability |
-| [[rangoric-srd/races/racial-traits/Sociable\|Sociable]] | Adaptability |
-| [[rangoric-srd/races/racial-traits/Wary\|Wary]] | Keen senses |
-| [[rangoric-srd/races/racial-traits/Water Child\|Water Child]] | Adaptability |
+| Trait                                                                 | Replaces         |
+| --------------------------------------------------------------------- | ---------------- |
+| [[rangoric-srd/races/racial-traits/Ancestral Arms\|Ancestral Arms]]   | Adaptability     |
+| [[rangoric-srd/races/racial-traits/Arcane Training\|Arcane Training]] | Adaptability     |
+| [[rangoric-srd/races/racial-traits/Drow Magic\|Drow Magic]]           | Adaptability     |
+| [[rangoric-srd/races/racial-traits/Drow-Blooded\|Drow-Blooded]]       | Low-light vision |
+| [[rangoric-srd/races/racial-traits/Dual Minded\|Dual Minded]]         | Adaptability     |
+| [[rangoric-srd/races/racial-traits/Integrated\|Integrated]]           | Adaptability     |
+| [[rangoric-srd/races/racial-traits/Sociable\|Sociable]]               | Adaptability     |
+| [[rangoric-srd/races/racial-traits/Wary\|Wary]]                       | Keen senses      |
+| [[rangoric-srd/races/racial-traits/Water Child\|Water Child]]         | Adaptability     |
 
 ### Race Traits
 
@@ -152,9 +152,9 @@ A half-elf gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuse
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
-| [[rangoric-srd/class-options/archetypes/witch/Bonded Witch (Archetype)\|Bonded Witch]] | [[rangoric-srd/classes/Witch\|Witch]] |
-| [[rangoric-srd/class-options/archetypes/summoner/Wild Caller (Archetype)\|Wild Caller]] | [[rangoric-srd/classes/Summoner\|Summoner]] |
+| Archetype                                                                                      | Class                                         |
+| ---------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| [[rangoric-srd/class-options/archetypes/witch/Bonded Witch (Archetype)\|Bonded Witch]]         | [[rangoric-srd/classes/Witch\|Witch]]         |
+| [[rangoric-srd/class-options/archetypes/summoner/Wild Caller (Archetype)\|Wild Caller]]        | [[rangoric-srd/classes/Summoner\|Summoner]]   |
 | [[rangoric-srd/class-options/archetypes/alchemist/Bramble Brewer (Archetype)\|Bramble Brewer]] | [[rangoric-srd/classes/Alchemist\|Alchemist]] |
-| [[rangoric-srd/class-options/archetypes/ranger/Wild Shadow (Archetype)\|Wild Shadow]] | [[rangoric-srd/classes/Ranger\|Ranger]] |
+| [[rangoric-srd/class-options/archetypes/ranger/Wild Shadow (Archetype)\|Wild Shadow]]          | [[rangoric-srd/classes/Ranger\|Ranger]]       |

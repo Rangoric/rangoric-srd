@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Taiga Linnorm
 
-  - Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]]
-  - **Hit Dice**: 21d12+210 (346 hp)
-  - **Initiative**: +11
-  - **Speed**: 40 ft. (8 squares), fly 100 ft. (average), swim 60 ft.
-  - **Armor Class**: 34 (+7 Dex, +25 natural, –8 size), touch 9, flat-footed 27
-  - **Base Attack**: +21; **CMB**: +45 (+49 grapple); **CMD**: 62 (can't be tripped)
-  - **Attack**: Bite +29 melee (3d8+16/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or claw +29 melee (2d6+16) or tail +29 melee (3d6+8 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +29 melee (3d8+16/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and 2 claws +29 melee (2d6+16) and tail +24 melee (3d6+8 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 30 ft./30 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] (tail, 3d6+24), [[rangoric-srd/monsters/abilities/Death Curse|death curse]], [[rangoric-srd/monsters/abilities/Poison|poison]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], true seeing, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 15 (cold iron), freedom of movement, spines, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/cold iron, immunity to curse effects, electricity, mind-affecting effects, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], poison and sleep, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 30
-  - **Saves**: Fort +22, Ref +21, Will +18
-  - **Abilities**: Str 43, Dex 25, Con 30, Int 6, Wis 23, Cha 28
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +23, [[rangoric-srd/skills/Athletics|Athletics]] +48, [[rangoric-srd/skills/Perception|Perception]] +30, [[rangoric-srd/skills/Stealth|Stealth]] +15 (+23 in forests)
-  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
-  - **Environment**: Cold forests
-  - **Organization**: Solitary
-  - **Challenge Rating**: 19
-  - **Treasure**: Triple
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]]
+- **Hit Dice**: 21d12+210 (346 hp)
+- **Initiative**: +11
+- **Speed**: 40 ft. (8 squares), fly 100 ft. (average), swim 60 ft.
+- **Armor Class**: 34 (+7 Dex, +25 natural, –8 size), touch 9, flat-footed 27
+- **Base Attack**: +21; **CMB**: +45 (+49 grapple); **CMD**: 62 (can't be tripped)
+- **Attack**: Bite +29 melee (3d8+16/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or claw +29 melee (2d6+16) or tail +29 melee (3d6+8 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +29 melee (3d8+16/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and 2 claws +29 melee (2d6+16) and tail +24 melee (3d6+8 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 30 ft./30 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] (tail, 3d6+24), [[rangoric-srd/monsters/abilities/Death Curse|death curse]], [[rangoric-srd/monsters/abilities/Poison|poison]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], true seeing, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 15 (cold iron), freedom of movement, spines, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/cold iron, immunity to curse effects, electricity, mind-affecting effects, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], poison and sleep, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 30
+- **Saves**: Fort +22, Ref +21, Will +18
+- **Abilities**: Str 43, Dex 25, Con 30, Int 6, Wis 23, Cha 28
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +23, [[rangoric-srd/skills/Athletics|Athletics]] +48, [[rangoric-srd/skills/Perception|Perception]] +30, [[rangoric-srd/skills/Stealth|Stealth]] +15 (+23 in forests)
+- **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
+- **Environment**: Cold forests
+- **Organization**: Solitary
+- **Challenge Rating**: 19
+- **Treasure**: Triple
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A beast covered with hundreds of spines, the taiga linnorm is a terror to all those who venture through the arctic forests of the north. Taiga linnorms take down foes and prey first with their electrifying breath and finish their victims off with their devastating bite.
 
@@ -74,8 +74,8 @@ Taiga linnorms speak Aklo, Draconic and Sylvan.
 
 **Breath Weapon (Su)**: Once every 1d4 rounds as a standard action, a taiga linnorm can expel a 60-foot cone of electrified vapor, dealing 21d8 points of electricity damage to all creatures struck (Reflex DC 30 for half). The vapor itself persists for 1d4 rounds, filling its cone-shaped area with electrified mist that deals 4d6 points of electricity damage (no save) to any creature that ends its turn in the mist. The mist does not hinder vision. The save DC is Constitution-based.
 
-**[[rangoric-srd/monsters/abilities/Death Curse|Death Curse]] (Su)**: When a creature slays a taiga linnorm, the slayer is affected by the curse of electrocution, which the [[rangoric-srd/class-options/rage-powers/Linnorm Death Curse, Taiga (Rage Power)|linnorm death curse, taiga]] rage power also bestows. *Curse of Electrocution*: *save* Will DC 29; *effect* the creature gains [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to electricity]].
+**[[rangoric-srd/monsters/abilities/Death Curse|Death Curse]] (Su)**: When a creature slays a taiga linnorm, the slayer is affected by the curse of electrocution, which the [[rangoric-srd/class-options/rage-powers/Linnorm Death Curse, Taiga (Rage Power)|linnorm death curse, taiga]] rage power also bestows. _Curse of Electrocution_: _save_ Will DC 29; _effect_ the creature gains [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to electricity]].
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; *save* Fort DC 30; *frequency* 1/round for 10 rounds; *effect* 4d6 electricity damage and 1d8 Dex drain; *cure* 3 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; _save_ Fort DC 30; _frequency_ 1/round for 10 rounds; _effect_ 4d6 electricity damage and 1d8 Dex drain; _cure_ 3 consecutive saves.
 
 **Spines (Ex)**: Any creature that makes a melee attack against a taiga linnorm takes 1d6 points of piercing damage per attack from the linnorm's spines. A melee weapon with reach provides protection from these spines.

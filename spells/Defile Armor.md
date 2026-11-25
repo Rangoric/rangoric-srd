@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Defile Armor
 
-*Abjuration \[Evil\]*
+_Abjuration \[Evil\]_
 
-  - **Level**: Apl 3, Inq 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Armor touched
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: Will negates (harmless, object)
-  - **Spell Resistance**: Yes (harmless, object)
+- **Level**: Apl 3, Inq 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Armor touched
+- **Duration**: 1 minute/level
+- **Saving Throw**: Will negates (harmless, object)
+- **Spell Resistance**: Yes (harmless, object)
 
-As *[[rangoric-srd/spells/Sanctify Armor|sanctify armor]]*, except you gain DR 5/good when using your judgment or smite ability.
+As _[[rangoric-srd/spells/Sanctify Armor|sanctify armor]]_, except you gain DR 5/good when using your judgment or smite ability.

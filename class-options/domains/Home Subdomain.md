@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Home Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Community Domain|Community]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Community Domain|Community]] domain._
 
 ## Replacement Power
 
@@ -27,8 +27,8 @@ This power replaces the [[rangoric-srd/class-options/domains/Community Domain#Gr
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Alarm\|Alarm]] | Wards an area for 2 hours/level. |
-| 3rd | [[rangoric-srd/spells/Glyph of Warding\|Glyph of Warding]] (M) | Inscription harms those who pass it. |
-| 7th | [[rangoric-srd/spells/Guards and Wards\|Guards and Wards]] (M, F) | Array of magic effects protect area. |
+| Level | Spell                                                             | Brief Description                    |
+| ----- | ----------------------------------------------------------------- | ------------------------------------ |
+| 1st   | [[rangoric-srd/spells/Alarm\|Alarm]]                              | Wards an area for 2 hours/level.     |
+| 3rd   | [[rangoric-srd/spells/Glyph of Warding\|Glyph of Warding]] (M)    | Inscription harms those who pass it. |
+| 7th   | [[rangoric-srd/spells/Guards and Wards\|Guards and Wards]] (M, F) | Array of magic effects protect area. |

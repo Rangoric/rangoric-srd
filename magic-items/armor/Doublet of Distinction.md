@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Doublet of Distinction
 
-A favorable garment of those members of the nobility hoping not only to get noticed but hold some influence at court, the *doublet of distinction* draws the eyes of those around it like a moth to flame, providing a Charisma bonus to the wearer and acting just like a *+1* [[rangoric-srd/equipment/armor/Reversible Bardic Doublet|reversible bardic doublet]] with the *[[rangoric-srd/magic-items/armor-abilities/Confidence|confidence]]* ability.
+A favorable garment of those members of the nobility hoping not only to get noticed but hold some influence at court, the _doublet of distinction_ draws the eyes of those around it like a moth to flame, providing a Charisma bonus to the wearer and acting just like a _+1_ [[rangoric-srd/equipment/armor/Reversible Bardic Doublet|reversible bardic doublet]] with the _[[rangoric-srd/magic-items/armor-abilities/Confidence|confidence]]_ ability.
 
-Moderate enchantment; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Eagle’s Splendor|eagle’s splendor]]*, *[[rangoric-srd/spells/Resistance|resistance]]*; Price 4,170 gp; Weight 10 lb.
+Moderate enchantment; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Eagle’s Splendor|eagle’s splendor]]_, _[[rangoric-srd/spells/Resistance|resistance]]_; Price 4,170 gp; Weight 10 lb.

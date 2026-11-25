@@ -33,7 +33,7 @@ Psychometabolism \[Acid\]
 **Duration:** Instantaneous  
 **Saving Throw:** None  
 **Power Resistance:** Yes  
-**Power Points:** 5  
+**Power Points:** 5
 
 You spit forth vitriolic acid, originating from your mouth, at your target. If you succeed on a ranged touch attack, the target takes 3d6 points of acid damage.
 

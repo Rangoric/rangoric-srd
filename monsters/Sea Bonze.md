@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Sea Bonze
 
-  - Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Aquatic)
-  - **Hit Dice**: 22d8+132 (231 hp)
-  - **Initiative**: +4
-  - **Speed**: 40 ft. (8 squares), swim 80 ft.
-  - **Armor Class**: 30 (+24 natural, –4 size), touch 6, flat-footed 30
-  - **Base Attack**: +16; **CMB**: +30; **CMD**: 40 (can't be tripped)
-  - **Attack**: Slam +22 melee (4d10+10)
-  - **Full Attack**: 2 slams +22 melee (4d10+10)
-  - **Space/Reach**: 20 ft./20 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Capsize|Capsize]], [[rangoric-srd/monsters/abilities/Dooming Gaze|dooming gaze]] (60 ft., DC 27)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 120 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic and slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and electricity, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and fire 10
-  - **Saves**: Fort +13, Ref +9, Will +19
-  - **Abilities**: Str 30, Dex 11, Con —, Int 13, Wis 18, Cha 23
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +47, [[rangoric-srd/skills/Intimidation|Intimidation]] +41, [[rangoric-srd/skills/Perception|Perception]] +35, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +29, [[rangoric-srd/skills/Stealth|Stealth]] +13
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Stand Still|Stand Still]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any oceans
-  - **Organization**: Solitary
-  - **Challenge Rating**: 15
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Aquatic)
+- **Hit Dice**: 22d8+132 (231 hp)
+- **Initiative**: +4
+- **Speed**: 40 ft. (8 squares), swim 80 ft.
+- **Armor Class**: 30 (+24 natural, –4 size), touch 6, flat-footed 30
+- **Base Attack**: +16; **CMB**: +30; **CMD**: 40 (can't be tripped)
+- **Attack**: Slam +22 melee (4d10+10)
+- **Full Attack**: 2 slams +22 melee (4d10+10)
+- **Space/Reach**: 20 ft./20 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Capsize|Capsize]], [[rangoric-srd/monsters/abilities/Dooming Gaze|dooming gaze]] (60 ft., DC 27)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 120 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic and slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and electricity, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and fire 10
+- **Saves**: Fort +13, Ref +9, Will +19
+- **Abilities**: Str 30, Dex 11, Con —, Int 13, Wis 18, Cha 23
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +47, [[rangoric-srd/skills/Intimidation|Intimidation]] +41, [[rangoric-srd/skills/Perception|Perception]] +35, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +29, [[rangoric-srd/skills/Stealth|Stealth]] +13
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Stand Still|Stand Still]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any oceans
+- **Organization**: Solitary
+- **Challenge Rating**: 15
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The ocean knows few terrors as unnatural and horrific as the sea bonze. This undead goliath dwells near established shipping lanes or offshore from coastal settlements, where it lurks just beneath the surface of the water until it can strike unsuspecting boats in the dead of night. Sailors often advise launching ocean voyages only during the day on the assumption that doing so might protect them from the sea bonze's attention, but such tactics make little difference to the creature itself, which will trail a particular ship until after dusk, sometimes for hundreds of miles, only to lurch out of the water and lay waste to an entire ship.
 

@@ -34,6 +34,6 @@ Target: One creature
 Duration: Concentration, up to 1 min./level (D)  
 Saving Throw: Will negates  
 Power Resistance: Yes  
-Power Points: 1  
+Power Points: 1
 
 You cause your subject’s mind to wander, distracting her. Subjects under the effect of distract make all [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Investigation|Investigation]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks at a -4 penalty.

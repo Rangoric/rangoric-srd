@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Winged Marauder
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-archetypes|alchemist]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Goblin|goblins]].*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-archetypes|alchemist]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Goblin|goblins]]._
 
 Goblin alchemists have created a mixture of pheromones that they use to manipulate and entice [[rangoric-srd/monsters/Giant Vulture|giant vultures]] or [[rangoric-srd/monsters/dire-animal/Dire Bat|dire bats]] to do their bidding. These goblins strap harnesses to the chests of these flying animals and hang beneath them, dropping flaming alchemical solutions on the helpless folks below.
 

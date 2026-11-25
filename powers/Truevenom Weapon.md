@@ -22,6 +22,6 @@ Psychometabolism (Creation)
 **Level:** Psychic warrior 4  
 **Range:** Touch  
 **Target:** Weapon touched  
-**Power Points:** 7  
+**Power Points:** 7
 
 As [[rangoric-srd/powers/Truevenom|truevenom]], except your weapon gains the poison coating as long as it remains in your grip, until the effect is discharged, or until the duration expires, whichever occurs first.

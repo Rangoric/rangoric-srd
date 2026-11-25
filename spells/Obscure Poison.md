@@ -32,14 +32,14 @@ tags: [rangoric, rangoric/spell]
 
 # Obscure Poison
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Alc 1, Apl 1, Brd 1, Clr 1, Drd 1, Hun 1, Mes 1, Skd 1, Sor/Wiz 1, Wit 1
-  - **Components**: S, M (herbs used in antitoxins worth 10 gp)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: One dose of poison or one venomous creature touched
-  - **Duration**: Caster level hour(s)
-  - **Spell Resistance**: No
+- **Level**: Alc 1, Apl 1, Brd 1, Clr 1, Drd 1, Hun 1, Mes 1, Skd 1, Sor/Wiz 1, Wit 1
+- **Components**: S, M (herbs used in antitoxins worth 10 gp)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: One dose of poison or one venomous creature touched
+- **Duration**: Caster level hour(s)
+- **Spell Resistance**: No
 
-You make the touched poison difficult to detect or identify. *[[rangoric-srd/spells/Detect Poison|Detect poison]]* and similar effects detect an obscured poison only with a successful caster level check against a DC equal to 15 + your caster level (rolled secretly by the GM). Even if the poison is detected, the DC of Craft (alchemy) or Wisdom checks to identify the poison is increased by 10. If cast upon a venomous creature, *obscure poison* disguises all of the creature's natural poisons in the same way.
+You make the touched poison difficult to detect or identify. _[[rangoric-srd/spells/Detect Poison|Detect poison]]_ and similar effects detect an obscured poison only with a successful caster level check against a DC equal to 15 + your caster level (rolled secretly by the GM). Even if the poison is detected, the DC of Craft (alchemy) or Wisdom checks to identify the poison is increased by 10. If cast upon a venomous creature, _obscure poison_ disguises all of the creature's natural poisons in the same way.

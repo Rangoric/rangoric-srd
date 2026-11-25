@@ -17,10 +17,10 @@ tags: [rangoric, rangoric/spell]
 
 # Infinite Step
 
-*Transmutation \[Teleportation\]*
+_Transmutation \[Teleportation\]_
 
-  - **Level**: Sor/Wiz 7
+- **Level**: Sor/Wiz 7
 
-As *[[rangoric-srd/spells/Dimension Door|dimension door]]*, except that the caster can travel to any spot within sight. As the caster makes the *infinite step*, he or she can view the intended area mentally to choose the exact location where the caster appears. The area that can be viewed is 10 feet in diameter per caster level. This spell cannot be used after dusk unless the caster has lowlight vision, Darkvision or some other method of seeing in the dark. If no area near the target location is acceptable, the caster may forego the teleportation, but the effect of the spell is lost.
+As _[[rangoric-srd/spells/Dimension Door|dimension door]]_, except that the caster can travel to any spot within sight. As the caster makes the _infinite step_, he or she can view the intended area mentally to choose the exact location where the caster appears. The area that can be viewed is 10 feet in diameter per caster level. This spell cannot be used after dusk unless the caster has lowlight vision, Darkvision or some other method of seeing in the dark. If no area near the target location is acceptable, the caster may forego the teleportation, but the effect of the spell is lost.
 
 At 19th level, the caster may make a second step from the destination (or from the origin, if the first step was aborted).

@@ -33,16 +33,16 @@ tags: [rangoric, rangoric/spell]
 
 # Detonate
 
-*Evocation \[Acid, Cold, Electricity, Fire\]*
+_Evocation \[Acid, Cold, Electricity, Fire\]_
 
-  - **Level**: Alc 4, Blr 4, Mag 4, Sor/Wiz 4
-  - **Components**: V, S, M (two vials; one containing acid and one containing an alkaline solution worth a total of 50 gp)
-  - **Casting Time**: 1 standard action
-  - **Range**: 30 ft.
-  - **Area**: 30-ft.-radius spread centered on you
-  - **Duration**: 1 round, then instantaneous
-  - **Saving Throw**: Reflex half
-  - **Spell Resistance**: Yes
+- **Level**: Alc 4, Blr 4, Mag 4, Sor/Wiz 4
+- **Components**: V, S, M (two vials; one containing acid and one containing an alkaline solution worth a total of 50 gp)
+- **Casting Time**: 1 standard action
+- **Range**: 30 ft.
+- **Area**: 30-ft.-radius spread centered on you
+- **Duration**: 1 round, then instantaneous
+- **Saving Throw**: Reflex half
+- **Spell Resistance**: Yes
 
 You flood yourself with a potent surge of elemental energy. One round after completing the casting of the spell, the energy explodes from your body.
 

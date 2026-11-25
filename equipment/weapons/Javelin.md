@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/spears, weapon-group/thrown]
 
 # Javelin
 
-*Simple ranged weapon.* Cost 1 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Range Increment 30 ft.; Weight 2 lb.; Type Piercing. ^stats
+_Simple ranged weapon._ Cost 1 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Range Increment 30 ft.; Weight 2 lb.; Type Piercing. ^stats
 
 Since it is not designed for melee, you are treated as nonproficient with it and take a –4 penalty on attack rolls if you use a javelin as a melee weapon.

@@ -42,28 +42,28 @@ The alchemist’s class skills (and the key ability for each skill) are [[rangor
 
 **Table: The Alchemist** ^table-the-alchemist
 
-| Level | Special | Extracts per Day: 1st | Extracts per Day: 2nd | Extracts per Day: 3rd | Extracts per Day: 4th | Extracts per Day: 5th | Extracts per Day: 6th |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | Alchemy, bomb 1d6, Brew Potion, mutagen, Throw Anything | 1 | — | — | — | — | — |
-| 2nd | Discovery, poison resistance +2, poison use | 2 | — | — | — | — | — |
-| 3rd | Bomb 2d6, swift alchemy | 3 | — | — | — | — | — |
-| 4th | Discovery | 3 | 1 | — | — | — | — |
-| 5th | Bomb 3d6, poison resistance +4 | 4 | 2 | — | — | — | — |
-| 6th | Discovery, swift poisoning | 4 | 3 | — | — | — | — |
-| 7th | Bomb 4d6 | 4 | 3 | 1 | — | — | — |
-| 8th | Discovery, poison resistance +6 | 4 | 4 | 2 | — | — | — |
-| 9th | Bomb 5d6 | 5 | 4 | 3 | — | — | — |
-| 10th | Discovery, poison immunity | 5 | 4 | 3 | 1 | — | — |
-| 11th | Bomb 6d6 | 5 | 4 | 4 | 2 | — | — |
-| 12th | Discovery | 5 | 5 | 4 | 3 | — | — |
-| 13th | Bomb 7d6 | 5 | 5 | 4 | 3 | 1 | — |
-| 14th | Discovery, persistent mutagen | 5 | 5 | 4 | 4 | 2 | — |
-| 15th | Bomb 8d6 | 5 | 5 | 5 | 4 | 3 | — |
-| 16th | Discovery | 5 | 5 | 5 | 4 | 3 | 1 |
-| 17th | Bomb 9d6 | 5 | 5 | 5 | 4 | 4 | 2 |
-| 18th | Discovery, instant alchemy | 5 | 5 | 5 | 5 | 4 | 3 |
-| 19th | Bomb 10d6 | 5 | 5 | 5 | 5 | 5 | 4 |
-| 20th | Grand discovery | 5 | 5 | 5 | 5 | 5 | 5 |
+| Level | Special                                                 | Extracts per Day: 1st | Extracts per Day: 2nd | Extracts per Day: 3rd | Extracts per Day: 4th | Extracts per Day: 5th | Extracts per Day: 6th |
+| ----- | ------------------------------------------------------- | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
+| 1st   | Alchemy, bomb 1d6, Brew Potion, mutagen, Throw Anything | 1                     | —                     | —                     | —                     | —                     | —                     |
+| 2nd   | Discovery, poison resistance +2, poison use             | 2                     | —                     | —                     | —                     | —                     | —                     |
+| 3rd   | Bomb 2d6, swift alchemy                                 | 3                     | —                     | —                     | —                     | —                     | —                     |
+| 4th   | Discovery                                               | 3                     | 1                     | —                     | —                     | —                     | —                     |
+| 5th   | Bomb 3d6, poison resistance +4                          | 4                     | 2                     | —                     | —                     | —                     | —                     |
+| 6th   | Discovery, swift poisoning                              | 4                     | 3                     | —                     | —                     | —                     | —                     |
+| 7th   | Bomb 4d6                                                | 4                     | 3                     | 1                     | —                     | —                     | —                     |
+| 8th   | Discovery, poison resistance +6                         | 4                     | 4                     | 2                     | —                     | —                     | —                     |
+| 9th   | Bomb 5d6                                                | 5                     | 4                     | 3                     | —                     | —                     | —                     |
+| 10th  | Discovery, poison immunity                              | 5                     | 4                     | 3                     | 1                     | —                     | —                     |
+| 11th  | Bomb 6d6                                                | 5                     | 4                     | 4                     | 2                     | —                     | —                     |
+| 12th  | Discovery                                               | 5                     | 5                     | 4                     | 3                     | —                     | —                     |
+| 13th  | Bomb 7d6                                                | 5                     | 5                     | 4                     | 3                     | 1                     | —                     |
+| 14th  | Discovery, persistent mutagen                           | 5                     | 5                     | 4                     | 4                     | 2                     | —                     |
+| 15th  | Bomb 8d6                                                | 5                     | 5                     | 5                     | 4                     | 3                     | —                     |
+| 16th  | Discovery                                               | 5                     | 5                     | 5                     | 4                     | 3                     | 1                     |
+| 17th  | Bomb 9d6                                                | 5                     | 5                     | 5                     | 4                     | 4                     | 2                     |
+| 18th  | Discovery, instant alchemy                              | 5                     | 5                     | 5                     | 5                     | 4                     | 3                     |
+| 19th  | Bomb 10d6                                               | 5                     | 5                     | 5                     | 5                     | 5                     | 4                     |
+| 20th  | Grand discovery                                         | 5                     | 5                     | 5                     | 5                     | 5                     | 5                     |
 
 ###### Class Features
 
@@ -73,11 +73,11 @@ All of the following are class features of the alchemist.
 
 **Alchemy (Su)**: Alchemists are not only masters of creating mundane alchemical substances such as alchemist’s fire and smokesticks, but also of fashioning magical potion-like extracts in which they can store spell effects. In effect, an alchemist prepares his spells by mixing ingredients into a number of extracts, and then “casts” his spells by drinking the extract. When an alchemist creates an extract or bomb, he infuses the concoction with a tiny fraction of his own magical power—this enables the creation of powerful effects, but also binds the effects to the creator. ^alchemist-alchemy
 
-When using [[rangoric-srd/skills/Craft|Craft]] (alchemy) to create an alchemical item, an alchemist gains a competence bonus equal to his class level on the Craft (alchemy) check. In addition, an alchemist can use Craft (alchemy) to identify potions as if using *[[rangoric-srd/spells/Detect Magic|detect magic]]*. He must hold the potion for 1 round to make such a check. ^alchemist-alchemy-2
+When using [[rangoric-srd/skills/Craft|Craft]] (alchemy) to create an alchemical item, an alchemist gains a competence bonus equal to his class level on the Craft (alchemy) check. In addition, an alchemist can use Craft (alchemy) to identify potions as if using _[[rangoric-srd/spells/Detect Magic|detect magic]]_. He must hold the potion for 1 round to make such a check. ^alchemist-alchemy-2
 
 An alchemist can create three special types of magical items—extracts, bombs, and mutagens. Bombs are explosive splash weapons, and mutagens are transformative elixirs that the alchemist drinks to enhance his physical abilities—both of these are detailed in their own sections below. ^alchemist-alchemy-3
 
-Extracts are the most varied of the three. In many ways, they behave like spells in potion form, and as such their effects can be dispelled by effects like *[[rangoric-srd/spells/Dispel Magic|dispel magic]]* using the alchemist’s level as the caster level. Unlike potions, though, extracts can have powerful effects and duplicate spells that a potion normally could not. ^alchemist-alchemy-4
+Extracts are the most varied of the three. In many ways, they behave like spells in potion form, and as such their effects can be dispelled by effects like _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_ using the alchemist’s level as the caster level. Unlike potions, though, extracts can have powerful effects and duplicate spells that a potion normally could not. ^alchemist-alchemy-4
 
 An alchemist can create only a certain number of extracts of each level per day. His base daily allotment of extracts is given on [[rangoric-srd/classes/Alchemist#^table-the-alchemist|Table: The Alchemist]]. In addition, he receives bonus extracts per day if he has a high Intelligence score, in the same way a wizard receives bonus spells per day. ^alchemist-alchemy-5
 

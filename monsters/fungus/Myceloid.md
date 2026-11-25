@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Myceloid
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
-  - **Hit Dice**: 5d8+15 (37 hp)
-  - **Initiative**: +4
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 16 (+6 natural), touch 10, flat-footed 16
-  - **Base Attack**: +3; **CMB**: +6; **CMD**: 16
-  - **Attack**: Claw +6 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Disease|disease]])
-  - **Full Attack**: 2 claws +6 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Disease|disease]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spore Cloud|Spore cloud]], [[rangoric-srd/monsters/abilities/Disease|disease]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 60 ft. myceloids and purple pox sufferers only, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/slashing, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, fire 10 and sonic 10, vulnerable to electricity
-  - **Saves**: Fort +7, Ref +1, Will +4
-  - **Abilities**: Str 17, Dex 11, Con 16, Int 9, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +9
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
-  - **Environment**: Any underground
-  - **Organization**: Solitary, pair, band (3–24), or colony (25–250)
-  - **Challenge Rating**: 4
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
+- **Hit Dice**: 5d8+15 (37 hp)
+- **Initiative**: +4
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 16 (+6 natural), touch 10, flat-footed 16
+- **Base Attack**: +3; **CMB**: +6; **CMD**: 16
+- **Attack**: Claw +6 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Disease|disease]])
+- **Full Attack**: 2 claws +6 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Disease|disease]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spore Cloud|Spore cloud]], [[rangoric-srd/monsters/abilities/Disease|disease]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 60 ft. myceloids and purple pox sufferers only, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/slashing, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, fire 10 and sonic 10, vulnerable to electricity
+- **Saves**: Fort +7, Ref +1, Will +4
+- **Abilities**: Str 17, Dex 11, Con 16, Int 9, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
+- **Environment**: Any underground
+- **Organization**: Solitary, pair, band (3–24), or colony (25–250)
+- **Challenge Rating**: 4
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A creature that dies of the purple pox becomes bloated over the course of 24 hours, after which its body bursts open, releasing a fully grown myceloid. Additionally, as long as a creature takes at least 7 points of Wisdom damage from the purple pox, it must make a DC 15 Will save each day to avoid becoming affected by a lesser geas (no HD limit) that compels the sickly character to seek out the nearest myceloid colony in order to offer itself up for spore domination. The save DCs are Constitution-based.
 
@@ -76,7 +76,7 @@ Myceloids speak Undercommon.
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +6): 1/day-spore domination (DC 14).
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Su)**: [[rangoric-srd/rules/afflictions/Purple Pox|Purple Pox]]: inhaled or injury; *save* Fort DC 15; *onset* 1 minute; *frequency* 1/day; *effect* 1d2 Wis and 1d2 Con damage; *cure* 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Su)**: [[rangoric-srd/rules/afflictions/Purple Pox|Purple Pox]]: inhaled or injury; _save_ Fort DC 15; _onset_ 1 minute; _frequency_ 1/day; _effect_ 1d2 Wis and 1d2 Con damage; _cure_ 2 consecutive saves.
 
 **[[rangoric-srd/monsters/abilities/Spore Cloud|Spore Cloud]] (Ex)**: Once per day as a standard action, a myceloid can expel a 10-foot-radius burst of spores centered on itself. This cloud persists for 1d3 rounds. Any creature caught in this cloud or that moves through it is exposed to the myceloid's [[rangoric-srd/rules/afflictions/Purple Pox|purple pox]] disease—a creature need save only once against any one spore cloud, however, before becoming permanently immune to that particular spore cloud's effects. The spore cloud does not hamper vision.
 

@@ -26,16 +26,16 @@ tags: [rangoric, rangoric/spell]
 
 # Familiar Melding
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Sha 4, Sor/Wiz 4, Wit 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Target**: Your familiar
-  - **Duration**: 1 hour/level or until you return to your body
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes
+- **Level**: Sha 4, Sor/Wiz 4, Wit 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Target**: Your familiar
+- **Duration**: 1 hour/level or until you return to your body
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes
 
 You project your soul into your familiar, taking over its body while leaving its consciousness intact. When you transfer your soul upon casting, your body is, as near as anyone can tell, dead.
 

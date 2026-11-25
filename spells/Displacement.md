@@ -38,17 +38,17 @@ tags: [rangoric, rangoric/spell]
 
 # Displacement
 
-*Illusion (Glamer)*
+_Illusion (Glamer)_
 
-  - **Level**: Alc 3, Brd 3, Fpk 3, Illusion 3, Mag 3, Med 3, Mes 3, Msl 3, Occ 3, Psy 3, Skd 3, Sor/Wiz 3, Spi 3, Sum 3, SumU 3
-  - **Components**: V, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 round/level (D)
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Alc 3, Brd 3, Fpk 3, Illusion 3, Mag 3, Med 3, Mes 3, Msl 3, Occ 3, Psy 3, Skd 3, Sor/Wiz 3, Spi 3, Sum 3, SumU 3
+- **Components**: V, M
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 round/level (D)
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 The subject of this spell appears to be about 2 feet away from its true location. The creature benefits from a 50% miss chance as if it had total concealment. However, unlike actual total concealment, displacement does not prevent enemies from targeting the creature normally. True seeing reveals its true location.
 
-*Material Component*: A small strip of leather twisted into a loop.
+_Material Component_: A small strip of leather twisted into a loop.

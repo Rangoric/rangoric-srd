@@ -26,15 +26,15 @@ tags: [rangoric, rangoric/spell]
 
 # Icy Prison, Mass
 
-*Evocation \[Cold\]*
+_Evocation \[Cold\]_
 
-  - **Level**: Sor/Wiz 9
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (10 ft. + 10 ft./level)
-  - **Target**: One creature/level, no two of which can be more than 30 ft. apart.
-  - **Duration**: 1 minute/level; see text
-  - **Saving Throw**: Reflex partial
-  - **Spell Resistance**: Yes
+- **Level**: Sor/Wiz 9
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (10 ft. + 10 ft./level)
+- **Target**: One creature/level, no two of which can be more than 30 ft. apart.
+- **Duration**: 1 minute/level; see text
+- **Saving Throw**: Reflex partial
+- **Spell Resistance**: Yes
 
-This spell functions as *[[rangoric-srd/spells/Icy Prison|icy prison]]*, except as noted above.
+This spell functions as _[[rangoric-srd/spells/Icy Prison|icy prison]]_, except as noted above.

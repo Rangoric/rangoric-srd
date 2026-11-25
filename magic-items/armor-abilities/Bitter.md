@@ -22,4 +22,4 @@ This armor exudes an exceptionally vile and bitter taste whenever something bite
 
 If the wearer is swallowed whole, the swallowing creature must succeed at a DC 14 Fortitude save at the start of each turn that the armored victim remains alive inside of the creature or become [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round. The creature may vomit up the victim as a standard action. This is a poison effect.
 
-Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]*; Price +1 bonus.
+Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]_; Price +1 bonus.

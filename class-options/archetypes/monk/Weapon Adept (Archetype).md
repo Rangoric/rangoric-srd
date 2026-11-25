@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Weapon Adept
 
-*A [[rangoric-srd/classes/Monk#^monk-archetypes|monk]] and [[rangoric-srd/classes/Unchained Monk#^unchained-monk-archetypes|unchained monk]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Monk#^monk-archetypes|monk]] and [[rangoric-srd/classes/Unchained Monk#^unchained-monk-archetypes|unchained monk]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 While all monks train in both unarmed combat and with weapons, the weapon adept seeks to become one with his weapons, transforming them into perfect extensions of his own body. Through such training, a weapon adept seeks to attain perfection by becoming a living weapon himself. A weapon adept has the following class features.
 

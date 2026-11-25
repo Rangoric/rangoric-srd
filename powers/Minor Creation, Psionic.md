@@ -32,6 +32,6 @@ Metacreativity (Creation)
 **Duration:** 1 hour/level (D)  
 **Saving Throw:** None  
 **Power Resistance:** No  
-**Power Points:** 1  
+**Power Points:** 1
 
 As the [[rangoric-srd/spells/Minor Creation|minor creation]] spell, except as noted here.

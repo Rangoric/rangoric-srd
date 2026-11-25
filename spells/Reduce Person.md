@@ -33,16 +33,16 @@ tags: [rangoric, rangoric/spell]
 
 # Reduce Person
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 1, Blr 1, Mag 1, Med 1, Occ 1, Psy 1, Sor/Wiz 1, Sum 1, SumU 1, Wit 1
-  - **Components**: V, S, M
-  - **Casting Time**: 1 round
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One humanoid creature
-  - **Duration**: 1 min./level (D)
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Alc 1, Blr 1, Mag 1, Med 1, Occ 1, Psy 1, Sor/Wiz 1, Sum 1, SumU 1, Wit 1
+- **Components**: V, S, M
+- **Casting Time**: 1 round
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One humanoid creature
+- **Duration**: 1 min./level (D)
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
 This spell causes instant diminution of a humanoid creature, halving its height, length, and width and dividing its weight by 8. This decrease changes the creature’s size category to the next smaller one. The target gains a +2 size bonus to Dexterity, a –2 size penalty to Strength (to a minimum of 1), and a +1 bonus on attack rolls and AC due to its reduced size.
 
@@ -58,4 +58,4 @@ Reduce person counters and dispels enlarge person.
 
 Reduce person can be made permanent with a permanency spell.
 
-*Material Component*: A pinch of powdered iron.
+_Material Component_: A pinch of powdered iron.

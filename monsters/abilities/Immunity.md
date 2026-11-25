@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Immunity
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “Immune acid, fire, paralysis”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “Immune acid, fire, paralysis”, on the Special Qualities line.
 
 A creature with immunities takes no damage from listed sources. Immunities can also apply to afflictions, conditions, spells (based on school, level, or save type), and other effects. A creature that is immune does not suffer from these effects, or any secondary effects that are triggered due to an immune effect.

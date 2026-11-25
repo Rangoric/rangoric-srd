@@ -25,4 +25,4 @@ This huge, sooty cauldron has two sets of rings aligned on opposite sides. Throu
 
 Any non-orc who consumes even a single spoonful of the soup or gruel immediately becomes [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 10 minutes and does not gain any benefits.
 
-Moderate transmutation; CL 12th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Pass without Trace|pass without trace]]*; Price 28,000 gp; Cost 14,000 gp; Weight 60 lbs.
+Moderate transmutation; CL 12th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Pass without Trace|pass without trace]]_; Price 28,000 gp; Cost 14,000 gp; Weight 60 lbs.

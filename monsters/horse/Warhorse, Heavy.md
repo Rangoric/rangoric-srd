@@ -36,26 +36,26 @@ tags: [rangoric, rangoric/monster]
 
 # Warhorse, Heavy
 
-  - Large Animal
-  - **Hit Dice**: 4d8+12 (30 hp)
-  - **Initiative**: +1
-  - **Speed**: 50 ft. (10 squares)
-  - **Armor Class**: 14 (–1 size, +1 Dex, +4 natural), touch 10, flat-footed 13
-  - **Base Attack**: +3; **CMB**: +8; **CMD**: 19 (23 vs. trip)
-  - **Attack**: Hoof +6 melee (1d6+4)
-  - **Full Attack**: 2 hooves +6 melee (1d6+4) and bite +1 melee (1d4+2)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: Low-light vision, scent
-  - **Saves**: Fort +7, Ref +5, Will +2
-  - **Abilities**: Str 18, Dex 13, Con 17, Int 2, Wis 13, Cha 6
-  - **Skills**: Perception +8
-  - **Feats**: Endurance, Run
-  - **Environment**: Temperate plains
-  - **Organization**: Domesticated
-  - **Challenge Rating**: 2
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large Animal
+- **Hit Dice**: 4d8+12 (30 hp)
+- **Initiative**: +1
+- **Speed**: 50 ft. (10 squares)
+- **Armor Class**: 14 (–1 size, +1 Dex, +4 natural), touch 10, flat-footed 13
+- **Base Attack**: +3; **CMB**: +8; **CMD**: 19 (23 vs. trip)
+- **Attack**: Hoof +6 melee (1d6+4)
+- **Full Attack**: 2 hooves +6 melee (1d6+4) and bite +1 melee (1d4+2)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: Low-light vision, scent
+- **Saves**: Fort +7, Ref +5, Will +2
+- **Abilities**: Str 18, Dex 13, Con 17, Int 2, Wis 13, Cha 6
+- **Skills**: Perception +8
+- **Feats**: Endurance, Run
+- **Environment**: Temperate plains
+- **Organization**: Domesticated
+- **Challenge Rating**: 2
+- **Advancement**: —
+- **Level Adjustment**: —
 
 These animals are similar to heavy horses but are trained and bred for strength and aggression. A heavy warhorse can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on an Animal Handling check.
 

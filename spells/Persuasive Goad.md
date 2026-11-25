@@ -26,15 +26,15 @@ tags: [rangoric, rangoric/spell]
 
 # Persuasive Goad
 
-*Necromancy \[Pain\]*
+_Necromancy \[Pain\]_
 
-  - **Level**: Inq 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. +5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: Instantaneous and 1 minute
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Inq 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. +5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: Instantaneous and 1 minute
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
 Your eyes flash and the target takes 1d6 points of nonlethal damage. For the next minute, you gain a +4 circumstance bonus on Intimidation checks against the target.

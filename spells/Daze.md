@@ -40,17 +40,17 @@ tags: [rangoric, rangoric/spell]
 
 # Daze
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Brd 0, Inq 0, Mag 0, Med 0, Mes 0, Occ 0, Psy 0, Sha 0, Skd 0, Sor/Wiz 0, Spi 0, Sum 0, SumU 0, Wit 0
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One humanoid creature of 4 HD or less
-  - **Duration**: 1 round
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 0, Inq 0, Mag 0, Med 0, Mes 0, Occ 0, Psy 0, Sha 0, Skd 0, Sor/Wiz 0, Spi 0, Sum 0, SumU 0, Wit 0
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One humanoid creature of 4 HD or less
+- **Duration**: 1 round
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 This enchantment clouds the mind of a humanoid creature with 4 or fewer Hit Dice so that it takes no actions. Humanoids of 5 or more HD are not affected. A [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] subject is not stunned, so attackers get no special advantage against it.
 
-*Material Component*: A pinch of wool or similar substance.
+_Material Component_: A pinch of wool or similar substance.

@@ -33,16 +33,16 @@ tags: [rangoric, rangoric/spell]
 
 # Geas, Lesser
 
-*Enchantment (Compulsion) \[Language-Dependent, Mind-Affecting\]*
+_Enchantment (Compulsion) \[Language-Dependent, Mind-Affecting\]_
 
-  - **Level**: Brd 3, Enchantment 5, Inq 4, Mes 3, Psy 4, Skd 3, Sor/Wiz 4, Wit 4
-  - **Components**: V
-  - **Casting Time**: 1 round
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One living creature with 7 HD or less
-  - **Duration**: One day/level or until discharged (D)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 3, Enchantment 5, Inq 4, Mes 3, Psy 4, Skd 3, Sor/Wiz 4, Wit 4
+- **Components**: V
+- **Casting Time**: 1 round
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One living creature with 7 HD or less
+- **Duration**: One day/level or until discharged (D)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 A lesser geas places a magical command on a creature to carry out some service or to refrain from some action or course of activity, as desired by you. The creature must have 7 or fewer Hit Dice and be able to understand you. While a geas cannot compel a creature to kill itself or perform acts that would result in certain death, it can cause almost any other course of activity.
 

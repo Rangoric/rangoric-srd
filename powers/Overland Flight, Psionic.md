@@ -27,6 +27,6 @@ Psychoportation
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 hour/level (D)  
-**Power Points:** 11  
+**Power Points:** 11
 
 As the [[rangoric-srd/spells/Overland Flight|overland flight]] spell, except as noted here.

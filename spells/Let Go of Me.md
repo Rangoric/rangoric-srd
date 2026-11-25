@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/spell]
 
 # Let Go of Me
 
-Transmutation   
+Transmutation  
 Casting DC: 43  
 Components: None  
 Casting Time: 1 free action  
@@ -31,6 +31,6 @@ Target: One creature or force grappling you
 Duration: Instantaneous  
 Saving Throw: Fortitude half  
 Spell Resistance: Yes  
-To Develop: 387,000 gp; 8 days; 15,480 XP. Seed: destroy (DC 29). Factors: quickened (+28 DC), no verbal or somatic components (+4 DC). Mitigating factors: limited circumstance (ad hoc -8 DC), 10d6 backlash (-10 DC).  
+To Develop: 387,000 gp; 8 days; 15,480 XP. Seed: destroy (DC 29). Factors: quickened (+28 DC), no verbal or somatic components (+4 DC). Mitigating factors: limited circumstance (ad hoc -8 DC), 10d6 backlash (-10 DC).
 
 The character deals 20d6 points of damage to any creature grappling him or her. The damage dealt is of no particular type or energy-it is a purely destructive impulse. If grappled by a magical force the force is automatically destroyed.

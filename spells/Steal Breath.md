@@ -34,16 +34,16 @@ tags: [rangoric, rangoric/spell]
 
 # Steal Breath
 
-*Transmutation \[Air\]*
+_Transmutation \[Air\]_
 
-  - **Level**: Blr 2, Brd 2, Drd 2, Hun 2, Mes 2, Psy 2, Skd 2, Sor/Wiz 2, Wit 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One living creature
-  - **Duration**: 1 round (see text)
-  - **Saving Throw**: Fortitude negates; see text
-  - **Spell Resistance**: Yes
+- **Level**: Blr 2, Brd 2, Drd 2, Hun 2, Mes 2, Psy 2, Skd 2, Sor/Wiz 2, Wit 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One living creature
+- **Duration**: 1 round (see text)
+- **Saving Throw**: Fortitude negates; see text
+- **Spell Resistance**: Yes
 
 You pull the breath from a creature's lungs, dealing damage and leaving it unable to speak, use breath weapons, or cast spells with verbal components. If the target fails its saving throw, it takes 2d6 points of damage, and it cannot speak, use breath weapons, or anything else requiring breathing, and a visible line of swirling air leaves the target's mouth and enters your mouth.
 

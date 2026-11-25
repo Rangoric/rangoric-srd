@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Spellbreaker
 
-*A [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]] (Ex).*
+_A [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]] (Ex)._
 
 The magus gains [[rangoric-srd/feats/Spellbreaker|Spellbreaker]] as a bonus feat. The magus must be at least 9th level before selecting this arcana.

@@ -30,7 +30,7 @@ Psychokinesis \[Force\]
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 min./level  
-**Power Points:** 1  
+**Power Points:** 1
 
 You create an invisible mobile disk of force that hovers in front of you. The force screen provides a +4 shield bonus to Armor Class (which applies against incorporeal touch attacks, since the force screen is a force effect). Since it hovers in front of you, the effect has no armor check penalty associated with it.
 

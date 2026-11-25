@@ -23,7 +23,7 @@ Once the effect ends, the target treats you as unfriendly and may report you to 
 
 If you fail the check by 5 or more, the target provides you with incorrect or useless information, or otherwise frustrates your efforts.
 
-*Demoralize Opponent*: You can also use Intimidation to weaken an opponent’s resolve in combat. The DC of this check is equal to 10 + the target’s Hit Dice + the target’s Wisdom modifier. If you succeed, the target becomes [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round. This duration increases by 1 round for every 5 by which you beat the DC. A shaken character takes a –2 penalty on attack rolls, ability checks, and saving throws. You can demoralize only an opponent within 30 feet that can clearly see and hear you. Demoralizing a creature that is already shaken from your demoralizing only extends how long it lasts; it doesn’t make the creature frightened, as other fear effects would.
+_Demoralize Opponent_: You can also use Intimidation to weaken an opponent’s resolve in combat. The DC of this check is equal to 10 + the target’s Hit Dice + the target’s Wisdom modifier. If you succeed, the target becomes [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round. This duration increases by 1 round for every 5 by which you beat the DC. A shaken character takes a –2 penalty on attack rolls, ability checks, and saving throws. You can demoralize only an opponent within 30 feet that can clearly see and hear you. Demoralizing a creature that is already shaken from your demoralizing only extends how long it lasts; it doesn’t make the creature frightened, as other fear effects would.
 
 **Action**: Varies. Changing another’s behavior requires 1 minute of interaction. Intimidating an opponent in combat is a standard action.
 
@@ -37,7 +37,7 @@ A character immune to fear can’t be intimidated, nor can nonintelligent creatu
 
 ## Advanced Uses
 
-*Special*: The DC to intimidate any creature whose attitude is fanatic is increased by +20.
+_Special_: The DC to intimidate any creature whose attitude is fanatic is increased by +20.
 
 ## Unlocks
 

@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/overview]
 
 ### Elocater
 
-Hit Die: d6.  
+Hit Die: d6.
 
 **[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
 
@@ -25,10 +25,9 @@ Hit Die: d6.
 
 ###### Requirements
 
-To qualify to become an elocater, a character must fulfill all the following criteria.  
+To qualify to become an elocater, a character must fulfill all the following criteria.
 
 Base Attack Bonus: +3.
-
 
 Feats: [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]].
 
@@ -36,14 +35,14 @@ Psionics: Able to manifest 1st-level powers; manifester level 5th.
 
 ###### Class Skills
 
-The elocater’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Engineering|Engineering]] (Int), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex)(Str), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Investigation|Investigation]](Int), [[rangoric-srd/skills/Meditation|Meditation]](Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Psionics (Skill)|Psionics]], [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] (Dex), [[rangoric-srd/skills/Society|Society]] (Int), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).  
+The elocater’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Engineering|Engineering]] (Int), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex)(Str), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Investigation|Investigation]](Int), [[rangoric-srd/skills/Meditation|Meditation]](Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Psionics (Skill)|Psionics]], [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] (Dex), [[rangoric-srd/skills/Society|Society]] (Int), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).
 
 Skill Points at Each Level: 6 + Int modifier.
 
-Table: The Elocater  
+Table: The Elocater
 
-| Level | Special                      | Powers Known                            |
-| ----- | ---------------------------- | --------------------------------------- |
+| Level | Special                      | Powers Known                           |
+| ----- | ---------------------------- | -------------------------------------- |
 | 1st   | Scorn earth, Sidestep Charge | +1 level of existing manifesting class |
 | 2nd   | Opportunistic strike +2      | -                                      |
 | 3rd   | Dimension step               | +1 level of existing manifesting class |
@@ -57,7 +56,7 @@ Table: The Elocater
 
 ###### Class Features
 
-All the following are class features of the elocater prestige class.  
+All the following are class features of the elocater prestige class.
 
 Weapon and Armor Proficiency: Elocaters are proficient with all simple and martial weapons and with light armor.
 

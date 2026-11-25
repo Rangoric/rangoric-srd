@@ -19,7 +19,7 @@ The power of the elements resides in you, and at times you can hardly control it
 
 ## Bonus Spells
 
-*[[rangoric-srd/spells/Burning Hands|burning hands]]*\* (3rd), *[[rangoric-srd/spells/Scorching Ray|scorching ray]]*\* (5th), *[[rangoric-srd/spells/Protection from Energy|protection from energy]]* (7th), *[[rangoric-srd/spells/Elemental Body I|elemental body I]]* (9th), *[[rangoric-srd/spells/Elemental Body II|elemental body II]]* (11th), *[[rangoric-srd/spells/Elemental Body III|elemental body III]]* (13th), *[[rangoric-srd/spells/Elemental Body IV|elemental body IV]]* (15th), *[[rangoric-srd/spells/Summon Monster VIII|summon monster VIII]]* (elementals only) (17th), *[[rangoric-srd/spells/Elemental Swarm|elemental swarm]]* (19th).
+_[[rangoric-srd/spells/Burning Hands|burning hands]]_\* (3rd), _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_\* (5th), _[[rangoric-srd/spells/Protection from Energy|protection from energy]]_ (7th), _[[rangoric-srd/spells/Elemental Body I|elemental body I]]_ (9th), _[[rangoric-srd/spells/Elemental Body II|elemental body II]]_ (11th), _[[rangoric-srd/spells/Elemental Body III|elemental body III]]_ (13th), _[[rangoric-srd/spells/Elemental Body IV|elemental body IV]]_ (15th), _[[rangoric-srd/spells/Summon Monster VIII|summon monster VIII]]_ (elementals only) (17th), _[[rangoric-srd/spells/Elemental Swarm|elemental swarm]]_ (19th).
 
 \*These spells always deal a type of damage determined by your element. In addition, the subtype of these spells changes to match the energy type of your element.
 
@@ -36,7 +36,7 @@ One of the four elements infuses your being, and you can draw upon its power in 
 ### Element
 
 | Element | Energy Type | Elemental Movement    |
-|---------|-------------|-----------------------|
+| ------- | ----------- | --------------------- |
 | Air     | Electricity | Fly 60 feet (average) |
 | Earth   | Acid        | Burrow 30 feet        |
 | Fire    | Fire        | +30 feet base speed   |

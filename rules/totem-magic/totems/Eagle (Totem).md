@@ -14,16 +14,16 @@ tags: [rangoric, rangoric/class-option]
 
 # Eagle
 
-*A totem of [[rangoric-srd/rules/totem-magic/Totem Magic|totem magic]], for the [[rangoric-srd/prestige-classes/Totem Mage|totem mage]] and the [[rangoric-srd/feats/Totem Link|Totem Link]] feat.*
+_A totem of [[rangoric-srd/rules/totem-magic/Totem Magic|totem magic]], for the [[rangoric-srd/prestige-classes/Totem Mage|totem mage]] and the [[rangoric-srd/feats/Totem Link|Totem Link]] feat._
 
 **Totem Shape**: At 1st level the totem mage of the eagle totem may transform into a normal [[rangoric-srd/monsters/Eagle|eagle]] and a [[rangoric-srd/monsters/Eagle, Giant|giant eagle]] at 3rd level.
 
 **Spells** (the [[rangoric-srd/prestige-classes/Totem Mage#^totem-mage-spells-per-day|totem mage]] can also prepare these, by level):
 
-1. *[[rangoric-srd/spells/Deathwatch|deathwatch]]*
-2. *[[rangoric-srd/spells/Sound Burst|sound burst]]*
-3. *[[rangoric-srd/spells/Fly|fly]]*
-4. *[[rangoric-srd/spells/Air Walk|air walk]]*
-5. *[[rangoric-srd/spells/Commune|commune]]*
+1. _[[rangoric-srd/spells/Deathwatch|deathwatch]]_
+2. _[[rangoric-srd/spells/Sound Burst|sound burst]]_
+3. _[[rangoric-srd/spells/Fly|fly]]_
+4. _[[rangoric-srd/spells/Air Walk|air walk]]_
+5. _[[rangoric-srd/spells/Commune|commune]]_
 
 **Totem Ability**: The totem mage receives a +2 bonus to her Intelligence.

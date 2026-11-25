@@ -23,8 +23,8 @@ tags: [rangoric, rangoric/magic-item]
 
 This staff is made of shining silver, with a tip shaped like a lightning bolt. The staff allows use of the following spells:
 
-- *[[rangoric-srd/spells/Shocking Grasp|Shocking grasp]]* (1 charge)
-- *[[rangoric-srd/spells/Lightning Bolt|Lightning bolt]]* (2 charges)
-- *[[rangoric-srd/spells/Chain Lightning|Chain lightning]]* (3 charges)
+- _[[rangoric-srd/spells/Shocking Grasp|Shocking grasp]]_ (1 charge)
+- _[[rangoric-srd/spells/Lightning Bolt|Lightning bolt]]_ (2 charges)
+- _[[rangoric-srd/spells/Chain Lightning|Chain lightning]]_ (3 charges)
 
-Moderate evocation; CL 11th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Chain Lightning|chain lightning]]*, *[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]*, *[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]*; Price 31,900 gp; Cost 15,950 gp; Weight 5 lbs.
+Moderate evocation; CL 11th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Chain Lightning|chain lightning]]_, _[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_, _[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]_; Price 31,900 gp; Cost 15,950 gp; Weight 5 lbs.

@@ -27,7 +27,7 @@ Manifesting Time: 1 standard action
 Range: Personal  
 Target: You  
 Duration: 1 round/level (D)  
-Power Points: 1  
+Power Points: 1
 
 This power causes instant diminution, halving your height, length, and width and dividing your weight by 8. This decrease changes your size category to the next smaller one. You gain a +2 size bonus to Dexterity, a -2 size penalty to Strength (to a minimum effective Strength score of 1), a +1 size bonus on attack rolls, and a +1 size bonus to Armor Class due to your reduced size. If your new size is Tiny, you have a space of 2 1/2 feet and a natural reach of 0 feet (meaning that you must enter an opponent’s square to attack). If your new size is Diminutive, you have a space of 1 foot and a natural reach of 0 feet. This power doesn’t change your speed.
 

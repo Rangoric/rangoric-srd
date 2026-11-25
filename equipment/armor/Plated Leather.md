@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Plated Leather
 
-*Light armor.* Cost 200 gp; Armor Bonus +4; Maximum Dex Bonus +5; Armor Check Penalty –1; Arcane Spell Failure 15%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 25 lb. ^stats
+_Light armor._ Cost 200 gp; Armor Bonus +4; Maximum Dex Bonus +5; Armor Check Penalty –1; Arcane Spell Failure 15%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 25 lb. ^stats
 
 This thick leather armor is reinforced with metal plates. The plates cover only large areas of the body, leaving the joints covered only by leather. Plated leather has enough metal components to be vulnerable to the rust monster’s rust ability and similar attacks. Characters not proficient in plated leather find the plates awkward and confining.

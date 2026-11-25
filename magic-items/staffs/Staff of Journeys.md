@@ -23,10 +23,10 @@ tags: [rangoric, rangoric/magic-item]
 
 This walking stick, which still has dark gray bark along its entire length, branches into an ornate fork at its top, decorated with wildflowers and different kinds of leaves. It allows use of the following spells:
 
-- *[[rangoric-srd/spells/Detect Snares and Pits|detect snares and pits]]* (1 charge)
-- *[[rangoric-srd/spells/Endure Elements|endure elements]]* (1 charge)
-- *[[rangoric-srd/spells/Longstrider|longstrider]]* (1 charge)
-- *[[rangoric-srd/spells/Pass without Trace|pass without trace]]* (1 charge)
-- *[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]* (2 charges)
+- _[[rangoric-srd/spells/Detect Snares and Pits|detect snares and pits]]_ (1 charge)
+- _[[rangoric-srd/spells/Endure Elements|endure elements]]_ (1 charge)
+- _[[rangoric-srd/spells/Longstrider|longstrider]]_ (1 charge)
+- _[[rangoric-srd/spells/Pass without Trace|pass without trace]]_ (1 charge)
+- _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_ (2 charges)
 
-Moderate varied; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Detect Snares and Pits|detect snares and pits]]*, *[[rangoric-srd/spells/Endure Elements|endure elements]]*, *[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]*, *[[rangoric-srd/spells/Longstrider|longstrider]]*, *[[rangoric-srd/spells/Pass without Trace|pass without trace]]*; Price 27,200 gp; Cost 13,600 gp; Weight 5 lbs.
+Moderate varied; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Detect Snares and Pits|detect snares and pits]]_, _[[rangoric-srd/spells/Endure Elements|endure elements]]_, _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_, _[[rangoric-srd/spells/Longstrider|longstrider]]_, _[[rangoric-srd/spells/Pass without Trace|pass without trace]]_; Price 27,200 gp; Cost 13,600 gp; Weight 5 lbs.

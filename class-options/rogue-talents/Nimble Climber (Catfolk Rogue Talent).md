@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Nimble Climber
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex) that only [[rangoric-srd/races/Catfolk|catfolk]] can take.*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex) that only [[rangoric-srd/races/Catfolk|catfolk]] can take._
 
 A catfolk rogue with this talent gains a +4 bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks to climb. If she has the [[rangoric-srd/races/racial-traits/Climber|climber]] racial trait, she can take 10 on her Athletics checks to climb even when in immediate danger or distracted.

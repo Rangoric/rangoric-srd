@@ -29,12 +29,12 @@ A skeleton is seldom garbed in anything more than the rotting remnants of any cl
 
 | Size            | Bonus |
 | --------------- | ----- |
-| Tiny or smaller | +0   |
-| Small           | +1   |
-| Medium or Large | +2   |
-| Huge            | +3   |
-| Gargantuan      | +6   |
-| Colossal        | +10  |
+| Tiny or smaller | +0    |
+| Small           | +1    |
+| Medium or Large | +2    |
+| Huge            | +3    |
+| Gargantuan      | +6    |
+| Colossal        | +10   |
 
 **Attacks**: A skeleton retains all the natural weapons, manufactured weapon attacks, and weapon proficiencies of the base creature, except for attacks that can’t work without flesh. A creature with hands gains one claw attack per hand; the skeleton can strike with each of its claw attacks at its full attack bonus. A skeleton’s base attack bonus is equal to 1/2 its Hit Dice.
 
@@ -55,9 +55,9 @@ A skeleton is seldom garbed in anything more than the rotting remnants of any cl
 
 **Special Qualities**: A skeleton loses most special qualities of the base creature. It retains any extraordinary special qualities that improve its melee or ranged attacks. A skeleton gains the following special qualities.
 
-*Immunity to Cold (Ex)*: Skeletons are not affected by cold.
+_Immunity to Cold (Ex)_: Skeletons are not affected by cold.
 
-*[[rangoric-srd/monsters/abilities/Damage Reduction|Damage Reduction]] 5/Bludgeoning*: Skeletons lack flesh or internal organs.
+_[[rangoric-srd/monsters/abilities/Damage Reduction|Damage Reduction]] 5/Bludgeoning_: Skeletons lack flesh or internal organs.
 
 **Saves**: Base save bonuses are Fort +1/3 HD, Ref +1/3 HD, and Will +1/2 HD + 2.
 
@@ -94,16 +94,15 @@ A skeleton is seldom garbed in anything more than the rotting remnants of any cl
 
 **Level Adjustment**: —.
 
-  - [[rangoric-srd/monsters/skeleton/Human Warrior Skeleton|Human Warrior Skeleton]]
-  - [[rangoric-srd/monsters/skeleton/Wolf Skeleton|Wolf Skeleton]]
-  - [[rangoric-srd/monsters/skeleton/Owlbear Skeleton|Owlbear Skeleton]]
-  - [[rangoric-srd/monsters/skeleton/Troll Skeleton|Troll Skeleton]]
-  - [[rangoric-srd/monsters/skeleton/Chimera Skeleton|Chimera Skeleton]]
-  - [[rangoric-srd/monsters/skeleton/Ettin Skeleton|Ettin Skeleton]]
-  - [[rangoric-srd/monsters/skeleton/Advanced Megaraptor Skeleton|Advanced Megaraptor Skeleton]]
-  - [[rangoric-srd/monsters/skeleton/Cloud Giant Skeleton|Cloud Giant Skeleton]]
-  - [[rangoric-srd/monsters/skeleton/Young Adult Red Dragon Skeleton|Young Adult Red Dragon Skeleton]]
-  - [[rangoric-srd/monsters/skeleton/Alternate Skeleton|Alternate Skeleton]]
-  - [[rangoric-srd/monsters/skeleton/Human Skeleton|Human Skeleton]]
-  - [[rangoric-srd/monsters/skeleton/Skeletal Champion|Skeletal Champion]]
-
+- [[rangoric-srd/monsters/skeleton/Human Warrior Skeleton|Human Warrior Skeleton]]
+- [[rangoric-srd/monsters/skeleton/Wolf Skeleton|Wolf Skeleton]]
+- [[rangoric-srd/monsters/skeleton/Owlbear Skeleton|Owlbear Skeleton]]
+- [[rangoric-srd/monsters/skeleton/Troll Skeleton|Troll Skeleton]]
+- [[rangoric-srd/monsters/skeleton/Chimera Skeleton|Chimera Skeleton]]
+- [[rangoric-srd/monsters/skeleton/Ettin Skeleton|Ettin Skeleton]]
+- [[rangoric-srd/monsters/skeleton/Advanced Megaraptor Skeleton|Advanced Megaraptor Skeleton]]
+- [[rangoric-srd/monsters/skeleton/Cloud Giant Skeleton|Cloud Giant Skeleton]]
+- [[rangoric-srd/monsters/skeleton/Young Adult Red Dragon Skeleton|Young Adult Red Dragon Skeleton]]
+- [[rangoric-srd/monsters/skeleton/Alternate Skeleton|Alternate Skeleton]]
+- [[rangoric-srd/monsters/skeleton/Human Skeleton|Human Skeleton]]
+- [[rangoric-srd/monsters/skeleton/Skeletal Champion|Skeletal Champion]]

@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Knock-Out Blow
 
-*An [[rangoric-srd/classes/Rogue#^rogue-advanced-talents|advanced talent]] (Ex).*
+_An [[rangoric-srd/classes/Rogue#^rogue-advanced-talents|advanced talent]] (Ex)._
 
 Once per day, the character can forgo her sneak attack damage to attempt to knock out an opponent. She must declare the use of knock-out blow before she makes the attack. If the attack hits, it does normal damage, but instead of dealing sneak attack damage (and instead of any effect that triggers when the rogue deals sneak attack damage), the target falls [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] for 1d4 rounds. A successful Fortitude save reduces this effect to [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1 round. The DC of this save is equal to 10 + 1/2 the character’s rogue / slayer level + the character’s Intelligence modifier.

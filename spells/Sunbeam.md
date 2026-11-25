@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Sunbeam
 
-*Evocation \[Light\]*
+_Evocation \[Light\]_
 
-  - **Level**: Drd 7, Sha 7, Sun 7
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: 60 ft.
-  - **Area**: Line from your hand
-  - **Duration**: 1 round/level or until all beams are exhausted
-  - **Saving Throw**: Reflex negates and Reflex half; see text
-  - **Spell Resistance**: Yes
+- **Level**: Drd 7, Sha 7, Sun 7
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: 60 ft.
+- **Area**: Line from your hand
+- **Duration**: 1 round/level or until all beams are exhausted
+- **Saving Throw**: Reflex negates and Reflex half; see text
+- **Spell Resistance**: Yes
 
 For the duration of this spell, you can use a standard action to evoke a dazzling beam of intense light each round. You can call forth one beam per three caster levels (maximum six beams at 18th level). The spell ends when its duration runs out or your allotment of beams is exhausted.
 

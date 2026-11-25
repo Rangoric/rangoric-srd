@@ -32,6 +32,6 @@ Metacreativity (Creation)
 **Duration:** Instantaneous  
 **Saving Throw:** None  
 **Power Resistance:** No  
-**Power Points:** 7  
+**Power Points:** 7
 
 As the [[rangoric-srd/spells/Fabricate|fabricate]] spell, except as noted here.

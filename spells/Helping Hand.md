@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Helping Hand
 
-*Evocation*
+_Evocation_
 
-  - **Level**: Clr 3, Med 2, Psy 3, Spi 3
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: 5 miles
-  - **Effect**: Ghostly hand
-  - **Duration**: 1 hour/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Clr 3, Med 2, Psy 3, Spi 3
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: 5 miles
+- **Effect**: Ghostly hand
+- **Duration**: 1 hour/level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You create the ghostly image of a hand, which you can send to find a creature within 5 miles. The hand then beckons to that creature and leads it to you if the creature is willing to follow.
 

@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, item-creation]
 
 # Imprint Stone
 
-You can create power stones to store psionic powers.  
+You can create power stones to store psionic powers.
 
 Prerequisite: Manifester level 1st.
 

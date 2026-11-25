@@ -18,13 +18,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Fire Blast
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#^simple-blasts|simple blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#^simple-blasts|simple blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Fire Element|fire]]
-  - **Type**: simple blast (Sp)
-  - **Level**: —
-  - **Burn**: 0
-  - **Blast Type**: energy
-  - **Damage**: fire
+- **Element**: [[rangoric-srd/class-options/elements/Fire Element|fire]]
+- **Type**: simple blast (Sp)
+- **Level**: —
+- **Burn**: 0
+- **Blast Type**: energy
+- **Damage**: fire
 
 You unleash a gout of flickering fire to [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]] a single foe.

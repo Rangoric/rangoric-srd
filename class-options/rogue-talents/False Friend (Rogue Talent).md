@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # False Friend
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex).*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex)._
 
 A rogue with this talent gains a +4 bonus when making [[rangoric-srd/skills/Deception|Deception]] checks to convince someone she has never met or who doesn't know her well that they are previously acquainted or know each other well.

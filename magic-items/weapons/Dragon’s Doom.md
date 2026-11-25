@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Dragon’s Doom
 
-This polearm's axe blade is shaped like a snarling dragon, its maw stretched wide as it closes for the killing blow. The haft is engraved with the circling image of a dragon in flight. The head of this *+2 dragon bane halberd* glows when a creature of the dragon type is within 100 feet of the weapon. Three times per day, when the halberd hits a dragon, the wielder can have that attack ignore the dragon's DR as a free action.
+This polearm's axe blade is shaped like a snarling dragon, its maw stretched wide as it closes for the killing blow. The haft is engraved with the circling image of a dragon in flight. The head of this _+2 dragon bane halberd_ glows when a creature of the dragon type is within 100 feet of the weapon. Three times per day, when the halberd hits a dragon, the wielder can have that attack ignore the dragon's DR as a free action.
 
-Moderate divination and evocation; CL 8th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Discern Location|discern location]]*, *[[rangoric-srd/spells/Light|light]]*, *[[rangoric-srd/spells/Summon Monster I|summon monster I]]*; Price 40,310 gp; Cost 20,310 gp.
+Moderate divination and evocation; CL 8th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Discern Location|discern location]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Summon Monster I|summon monster I]]_; Price 40,310 gp; Cost 20,310 gp.

@@ -26,10 +26,10 @@ Using it means spending hours inside it meditating: the creature must stay consc
 
 A creature can also concentrate inside the box to gain the benefits of restorative spells. Each spell below lists how long the user must meditate inside; at the end of that time, she attempts a Wisdom check with the listed DC to gain the spell's benefit. A creature with the [[rangoric-srd/feats/Psychic Sensitivity|Psychic Sensitivity]] feat or levels in an occult class gains a +2 bonus on this Wisdom check.
 
-- *[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]* (2 hours, DC 14)
-- *[[rangoric-srd/spells/Remove Blindness-Deafness|remove blindness/deafness]]* (3 hours, DC 16)
-- *[[rangoric-srd/spells/Restoration|restoration]]* (4 hours, DC 18; can't remove a permanent negative level)
+- _[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]_ (2 hours, DC 14)
+- _[[rangoric-srd/spells/Remove Blindness-Deafness|remove blindness/deafness]]_ (3 hours, DC 16)
+- _[[rangoric-srd/spells/Restoration|restoration]]_ (4 hours, DC 18; can't remove a permanent negative level)
 
 A user with a [[rangoric-srd/classes/Monk#^monk-ki-pool|ki pool]] can instead focus to regain ki points, much as with a [[rangoric-srd/magic-items/wondrous-items/Ki Mat|ki mat]]: he attempts a Wisdom check (DC 10 + his current number of ki points; ability checks don't automatically succeed on a natural 20), and on a success regains 1 ki point.
 
-Moderate conjuration; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]*, *[[rangoric-srd/spells/Remove Blindness-Deafness|remove blindness/deafness]]*, *[[rangoric-srd/spells/Restoration|restoration]]*; Price 48,000 gp; Cost 24,000 gp; Weight 150 lb.
+Moderate conjuration; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]_, _[[rangoric-srd/spells/Remove Blindness-Deafness|remove blindness/deafness]]_, _[[rangoric-srd/spells/Restoration|restoration]]_; Price 48,000 gp; Cost 24,000 gp; Weight 150 lb.

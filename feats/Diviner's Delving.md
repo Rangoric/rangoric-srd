@@ -17,4 +17,4 @@ Your keen magical intuition makes reading signs, portents, and mystical clues qu
 
 **Prerequisites**: [[rangoric-srd/feats/Spell Focus|Spell Focus]] (divination).
 
-**Benefit**: You gain a +2 bonus on caster level checks with divinations to overcome spell resistance or effects that block divination (such as *[[rangoric-srd/spells/Nondetection|nondetection]]*). When a divination spell needs concentration, you gain its information 1 round sooner (so 1 round of concentration gives you the first 2 rounds of information, and the second round gives you the third).
+**Benefit**: You gain a +2 bonus on caster level checks with divinations to overcome spell resistance or effects that block divination (such as _[[rangoric-srd/spells/Nondetection|nondetection]]_). When a divination spell needs concentration, you gain its information 1 round sooner (so 1 round of concentration gives you the first 2 rounds of information, and the second round gives you the third).

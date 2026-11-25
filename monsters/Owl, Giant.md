@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Owl, Giant
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 6d10+24 (57 hp)
-  - **Initiative**: +5
-  - **Speed**: 10 ft. (2 squares), fly 60 ft. (average)
-  - **Armor Class**: 18 (+2 Dex, +8 natural, –2 size), touch 10, flat-footed 16
-  - **Base Attack**: +6; **CMB**: +13 (+15 disarm); **CMD**: 25 (27 disarm)
-  - **Attack**: Claw +9 melee (2d6+5)
-  - **Full Attack**: 2 claws +9 melee (2d6+5)
-  - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], animal [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 30 ft, insightful senses, piercing stare
-  - **Saves**: Fort +9, Ref +7, Will +5
-  - **Abilities**: Str 20, Dex 15, Con 18, Int 14, Wis 17, Cha —
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Society|Society]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +9
-  - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary, pair, roost (3–10), or company (3–5)
-  - **Challenge Rating**: 5
-  - **Treasure**: None
-  - **Alignment**: Usually lawful neutral
-  - **Advancement**: 5–8 HD (Large); 9–12 HD (Huge)
-  - **Level Adjustment**: +2 (cohort)
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 6d10+24 (57 hp)
+- **Initiative**: +5
+- **Speed**: 10 ft. (2 squares), fly 60 ft. (average)
+- **Armor Class**: 18 (+2 Dex, +8 natural, –2 size), touch 10, flat-footed 16
+- **Base Attack**: +6; **CMB**: +13 (+15 disarm); **CMD**: 25 (27 disarm)
+- **Attack**: Claw +9 melee (2d6+5)
+- **Full Attack**: 2 claws +9 melee (2d6+5)
+- **Space/Reach**: 15 ft./10 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], animal [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 30 ft, insightful senses, piercing stare
+- **Saves**: Fort +9, Ref +7, Will +5
+- **Abilities**: Str 20, Dex 15, Con 18, Int 14, Wis 17, Cha —
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Society|Society]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Temperate forests
+- **Organization**: Solitary, pair, roost (3–10), or company (3–5)
+- **Challenge Rating**: 5
+- **Treasure**: None
+- **Alignment**: Usually lawful neutral
+- **Advancement**: 5–8 HD (Large); 9–12 HD (Huge)
+- **Level Adjustment**: +2 (cohort)
 
 The noble giant owl roosts in the tallest trees or in high caves near its forest home. No mere animals, giant owls pride themselves as intellectuals and keen judges of character. Little passes a giant owl's notice in its home forest. What it doesn't observe directly, it learns from its wide network of animal informants. Giant owls view themselves more as watchers than participants, rarely interfering in the affairs of others barring a threat to their homes. Giant owls stand 18 feet tall and have 30-foot wingspans, yet they rarely weigh over 600 pounds.
 

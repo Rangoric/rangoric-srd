@@ -21,9 +21,9 @@ tags: [rangoric, rangoric/spell]
 
 # Dominate Monster
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Psy 9, Sor/Wiz 9, Sum 6, Wit 9
-  - **Target**: One creature
+- **Level**: Psy 9, Sor/Wiz 9, Sum 6, Wit 9
+- **Target**: One creature
 
 This spell functions like [[rangoric-srd/spells/Dominate Person|dominate person]], except that the spell is not restricted by creature type.

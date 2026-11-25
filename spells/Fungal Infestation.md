@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Fungal Infestation
 
-*Necromancy \[Disease\]*
+_Necromancy \[Disease\]_
 
-  - **Level**: Drd 3, Hun 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1d3 days
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Drd 3, Hun 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1d3 days
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
 You coat the target in necrotic fungus that makes its flesh soft and fragile. Toadstools, ringworm, and other disgusting fungal growths sprout from its skin. The target takes 1d3 points of Charisma damage. Any physical attack against the target automatically adds 1d6 points of bleed damage.

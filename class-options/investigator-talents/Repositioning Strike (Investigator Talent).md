@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Repositioning Strike
 
-*An [[rangoric-srd/classes/Investigator#^investigator-investigator-talent|investigator talent]] (Ex)\*.*
+_An [[rangoric-srd/classes/Investigator#^investigator-investigator-talent|investigator talent]] (Ex)\*._
 
 When the investigator deals damage with [[rangoric-srd/classes/Investigator#^investigator-studied-strike|studied strike]], he can perform a [[rangoric-srd/combat/Combat Maneuvers#Reposition|reposition]] combat maneuver as a free action against the creature damaged by studied strike. This reposition does not provoke attacks of opportunity. An investigator must be at least 13th level to select this talent.

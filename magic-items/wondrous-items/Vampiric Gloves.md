@@ -20,10 +20,10 @@ tags: [rangoric, rangoric/magic-item]
 
 # Vampiric Gloves
 
-These pale, elegant-looking leather gloves have blood-red stitching on the fingers—which bears a startling resemblance to blood-encrusted fingernails. Three times per day, the wearer can use *[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]* and *[[rangoric-srd/spells/Bleed|bleed]]*. If the wearer uses *[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]* and holds the charge, the charge dissipates if the gloves are removed.
+These pale, elegant-looking leather gloves have blood-red stitching on the fingers—which bears a startling resemblance to blood-encrusted fingernails. Three times per day, the wearer can use _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_ and _[[rangoric-srd/spells/Bleed|bleed]]_. If the wearer uses _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_ and holds the charge, the charge dissipates if the gloves are removed.
 
-Though *[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]* is normally a touch attack, the wearer may instead use that ability as a ranged touch attack with a range of 30 feet, but only against a dying target or a target suffering from a [[rangoric-srd/rules/conditions/Bleed (Condition)|bleed]] effect. When using *[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]* in this way, the wearer may hold the charge on a missed ranged touch attack.
+Though _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_ is normally a touch attack, the wearer may instead use that ability as a ranged touch attack with a range of 30 feet, but only against a dying target or a target suffering from a [[rangoric-srd/rules/conditions/Bleed (Condition)|bleed]] effect. When using _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_ in this way, the wearer may hold the charge on a missed ranged touch attack.
 
-If the wearer is suffering from a bleed effect, he may expend one use of *[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]* to end the bleed effect.
+If the wearer is suffering from a bleed effect, he may expend one use of _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_ to end the bleed effect.
 
-Moderate necromancy; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Bleed|bleed]]*, *[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]*; Price 18,000 gp; Cost 9,000 gp.
+Moderate necromancy; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Bleed|bleed]]_, _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_; Price 18,000 gp; Cost 9,000 gp.

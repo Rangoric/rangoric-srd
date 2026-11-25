@@ -32,17 +32,17 @@ tags: [rangoric, rangoric/spell]
 
 # Sanctify Corpse
 
-*Evocation \[Good\]*
+_Evocation \[Good\]_
 
-  - **Level**: Clr 1, Inq 1, Pal 1, Spi 1, Wit 1
-  - **Components**: V, S, DF, M (a pinch of silver dust)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Area**: Corpse touched
-  - **Duration**: 24 hours
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Clr 1, Inq 1, Pal 1, Spi 1, Wit 1
+- **Components**: V, S, DF, M (a pinch of silver dust)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Area**: Corpse touched
+- **Duration**: 24 hours
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 This spell blesses a corpse with positive energy, preventing it from being turned into an undead creature. Attempts to raise the corpse as an undead automatically fail. If the corpse is of a person slain by a creature that creates undead out of its slain foes (such as a shadow, vampire, or wraith), that effect is delayed until the end of this spell. It is possible to protect a corpse for an extended time by casting this spell each day.
 
-*Sanctify corpse* can be made permanent with a *[[rangoric-srd/spells/Permanency|permanency]]* spell by a caster of 9th level or higher for the cost of 500 gp.
+_Sanctify corpse_ can be made permanent with a _[[rangoric-srd/spells/Permanency|permanency]]_ spell by a caster of 9th level or higher for the cost of 500 gp.

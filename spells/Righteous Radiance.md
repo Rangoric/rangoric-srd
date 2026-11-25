@@ -26,17 +26,17 @@ tags: [rangoric, rangoric/spell]
 
 # Righteous Radiance
 
-*Evocation*
+_Evocation_
 
-  - **Level**: Clr 2, Pal 2
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 2 round/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Clr 2, Pal 2
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 2 round/level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 A brilliant white light bathes your body in its pure glow. A halo that at its outer edges has touches of gold that flare to life during a battle. There is no heat or warmth given off by the light, but as long as it is in effect, the caster is an effective light source. This light is divine in nature and does not affect your allies. You receive +1/level (max +5) to your AC while in melee combat due to the brilliance of your glow throwing off your opponents. Conversely, for each +1 to your AC during melee combat, opponents gain a +1 to all ranged attacks against you.
 
-*Divine focus:* Holy symbol.
+_Divine focus:_ Holy symbol.

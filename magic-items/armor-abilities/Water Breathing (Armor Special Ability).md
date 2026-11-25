@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Water Breathing
 
-Armor or shields enchanted with this property allow the wearer to breathe underwater as if they are under the effects of a *water breathing* spell.
+Armor or shields enchanted with this property allow the wearer to breathe underwater as if they are under the effects of a _water breathing_ spell.
 
-Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Water Breathing|water breathing]]*; Price +1 bonus.
+Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Water Breathing|water breathing]]_; Price +1 bonus.

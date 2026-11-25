@@ -21,4 +21,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This gold ring is set with three stones: blue, green, and red. Three times per day, the wearer of the ring can, as a move action, use it to form a link with the particular 5-foot square she occupies at that moment. This causes one of the stones on the ring to glow. As a swift action, the wearer of the ring can teleport to any unoccupied linked square within 100 feet.
 
-Moderate conjuration; CL 7th; [[rangoric-srd/feats/Forge Ring|Forge Ring]], *[[rangoric-srd/spells/Dimension Door|dimension door]]*; Price 33,600 gp; Cost 16,800 gp.
+Moderate conjuration; CL 7th; [[rangoric-srd/feats/Forge Ring|Forge Ring]], _[[rangoric-srd/spells/Dimension Door|dimension door]]_; Price 33,600 gp; Cost 16,800 gp.

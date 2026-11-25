@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Crab, Giant
 
-*An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature ([[rangoric-srd/monsters/Giant Crab|giant crab]]).*
+_An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature ([[rangoric-srd/monsters/Giant Crab|giant crab]])._
 
 - **Size**: Small
 - **Speed**: 30 ft., swim 20 ft.

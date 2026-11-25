@@ -28,6 +28,6 @@ Metacreativity (Creation)
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 min./level (D)  
-**Power Points:** 15  
+**Power Points:** 15
 
 As the [[rangoric-srd/spells/Iron Body|iron body]] spell, except as noted here.

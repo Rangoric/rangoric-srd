@@ -33,6 +33,6 @@ Clairsentience \[Electricity\]
 **Duration:** 24 hours + 1 hour/level  
 **Saving Throw:** Will half; see text  
 **Power Resistance:** No  
-**Power Points:** 11  
+**Power Points:** 11
 
 When others use [[rangoric-srd/powers/Clairvoyant Sense|clairvoyant sense]], [[rangoric-srd/powers/Remote Viewing (Power)|remote viewing]], or other means of scrying you from afar, your prepared trap gives them a nasty surprise. If the scryer fails its saving throw, you are undetected. Moreover, the would-be observer takes 8d6 points of electricity damage. If the scryer makes its saving throw, it takes only 4d6 points of electricity damage and is able to observe you normally. Either way, you are aware of the attempt to view you, but not of the viewer or the viewer’s location. It is possible that you might recognize the quasireal viewpoint of someone using the remote viewing power if you could pierce its [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisibility]] (which is true for remote viewing whether or not you use this power).

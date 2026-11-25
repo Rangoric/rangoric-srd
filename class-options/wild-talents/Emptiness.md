@@ -18,12 +18,12 @@ tags: [rangoric, rangoric/class-option]
 
 # Emptiness
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Defense Wild Talents|defense wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Defense Wild Talents|defense wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Void Element|void]]
-  - **Type**: defense (Su)
-  - **Level**: —
-  - **Burn**: 0
+- **Element**: [[rangoric-srd/class-options/elements/Void Element|void]]
+- **Type**: defense (Su)
+- **Level**: —
+- **Burn**: 0
 
 Your body becomes an empty husk, fueled by an internal void. You gain negative energy resistance 2, a 5% chance to ignore critical hits and sneak attacks, and a +1 bonus on Will saves against emotion effects. By accepting 1 point of [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]], you can increase the resistance to negative energy by 2, the chance to ignore critical hits and sneak attacks by 5%, and the bonus on Will saves against emotion effects by 1 until the next time your burn is removed. The chance of ignoring critical hits and sneak attacks granted by this wild talent stacks with the chance granted by [[rangoric-srd/classes/Kineticist#^kineticist-elemental-overflow|elemental overflow]] to a maximum of 100%.
 

@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Stag Aspect
 
-*A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The stag can outrun or stand its ground against almost any foe. This aspect offers majestic grace and swift speed.*
+_A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The stag can outrun or stand its ground against almost any foe. This aspect offers majestic grace and swift speed._
 
 **Minor Form**: You gain an enhancement bonus of +5 feet to your base speed.
 

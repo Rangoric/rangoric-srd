@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, metapsionic]
 
 # Maximize Power
 
-You can manifest powers to maximum effect.  
+You can manifest powers to maximum effect.
 
 Benefit: To use this feat, you must expend your psionic focus.
 

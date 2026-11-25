@@ -13,6 +13,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Internal Fortitude
 
-*A [[rangoric-srd/prestige-classes/Stalwart Defender#Defensive Powers|defensive power]] (Ex).*
+_A [[rangoric-srd/prestige-classes/Stalwart Defender#Defensive Powers|defensive power]] (Ex)._
 
 While in a defensive stance, the defender is immune to the sickened and nauseated conditions.

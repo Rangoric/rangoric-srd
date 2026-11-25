@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Frostbite
 
-*Transmutation \[Cold\]*
+_Transmutation \[Cold\]_
 
-  - **Level**: Blr 1, Drd 1, Hun 1, Mag 1, Sha 1, Wit 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Targets**: Creature touched
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Blr 1, Drd 1, Hun 1, Mag 1, Sha 1, Wit 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Targets**: Creature touched
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 Your melee touch attack deals 1d6 points of nonlethal cold damage + 1 point per level, and the target is fatigued. The fatigued condition ends when the target recovers from the nonlethal damage. This spell cannot make a creature exhausted even if it is already fatigued. You can use this melee touch attack up to one time per level.

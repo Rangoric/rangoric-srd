@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Shrouded
 
-A *shrouded* weapon gathers shadows to itself. In dim light it deals +2 damage. In total darkness, with no shadows to gather, it takes a −1 penalty on damage.
+A _shrouded_ weapon gathers shadows to itself. In dim light it deals +2 damage. In total darkness, with no shadows to gather, it takes a −1 penalty on damage.
 
-CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/rules/star magic/stars/Star of Shadow|Star of Shadow]]*; Price +1 bonus.
+CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/rules/star magic/stars/Star of Shadow|Star of Shadow]]_; Price +1 bonus.

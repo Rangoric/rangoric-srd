@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This belt's golden buckle depicts a bear. The belt grants the wearer an enhancement bonus to Constitution of +2, +4, or +6. Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
 
-Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Bear’s Endurance|bear's endurance]]*; Price 16,000 gp; Cost 8,000 gp; Weight 1 lb.
+Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Bear’s Endurance|bear's endurance]]_; Price 16,000 gp; Cost 8,000 gp; Weight 1 lb.

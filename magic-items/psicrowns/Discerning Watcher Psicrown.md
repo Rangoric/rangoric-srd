@@ -20,16 +20,16 @@ tags: [rangoric, rangoric/magic-item]
 
 This psicrown has 450 power points. It is made from pure transparent crystal. It allows use of the following powers.
 
-  - [[rangoric-srd/powers/Aura Sight|Aura sight]]
+- [[rangoric-srd/powers/Aura Sight|Aura sight]]
 
-  - [[rangoric-srd/powers/Clairtangent Hand|Clairtangent hand]]
+- [[rangoric-srd/powers/Clairtangent Hand|Clairtangent hand]]
 
-  - [[rangoric-srd/powers/Clairvoyant Sense|Clairvoyant sense]]
+- [[rangoric-srd/powers/Clairvoyant Sense|Clairvoyant sense]]
 
-  - [[rangoric-srd/powers/Darkvision, Psionic|Darkvision, psionic]]
+- [[rangoric-srd/powers/Darkvision, Psionic|Darkvision, psionic]]
 
-  - [[rangoric-srd/powers/Remote Viewing (Power)|Remote viewing]]
+- [[rangoric-srd/powers/Remote Viewing (Power)|Remote viewing]]
 
-  - [[rangoric-srd/powers/True Seeing, Psionic|True seeing, psionic]]
+- [[rangoric-srd/powers/True Seeing, Psionic|True seeing, psionic]]
 
 Moderate clairsentience; ML 9th; Craft Psicrown, aura sight, clairtangent hand, clairvoyant sense, psionic darkvision, psionic true seeing, remote viewing; Price 51,469 gp.

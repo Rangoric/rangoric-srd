@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Mage’s Private Sanctum
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Med 4, Mes 5, Psy 5, Sor/Wiz 5, Spi 5
-  - **Components**: V, S, M
-  - **Casting Time**: 10 minutes
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Area**: 30-ft. cube/level (S)
-  - **Duration**: 24 hours (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Med 4, Mes 5, Psy 5, Sor/Wiz 5, Spi 5
+- **Components**: V, S, M
+- **Casting Time**: 10 minutes
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Area**: 30-ft. cube/level (S)
+- **Duration**: 24 hours (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 This spell ensures privacy. Anyone looking into the area from outside sees only a dark, foggy mass. Darkvision cannot penetrate it. No sounds, no matter how loud, can escape the area, so nobody can eavesdrop from outside. Those inside can see out normally.
 
@@ -47,4 +47,4 @@ The spell does not prevent creatures or objects from moving into and out of the 
 
 Mage’s private sanctum can be made permanent with a permanency spell.
 
-*Material Component*: A thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite.
+_Material Component_: A thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite.

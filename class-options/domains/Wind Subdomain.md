@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Wind Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Air Domain|Air]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Air Domain|Air]] domain._
 
 ## Replacement Power
 
@@ -27,8 +27,8 @@ This power replaces the [[rangoric-srd/class-options/domains/Air Domain#Granted 
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Whispering Wind\|Whispering Wind]] | Sends a short message 1 mile/level. |
-| 6th | [[rangoric-srd/spells/Wind Walk\|Wind Walk]] | You and your allies turn vaporous and travel fast. |
-| 9th | [[rangoric-srd/spells/Winds of Vengeance\|Winds of Vengeance]] | Gives you the ability to fly and attack with wind. |
+| Level | Spell                                                          | Brief Description                                  |
+| ----- | -------------------------------------------------------------- | -------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Whispering Wind\|Whispering Wind]]       | Sends a short message 1 mile/level.                |
+| 6th   | [[rangoric-srd/spells/Wind Walk\|Wind Walk]]                   | You and your allies turn vaporous and travel fast. |
+| 9th   | [[rangoric-srd/spells/Winds of Vengeance\|Winds of Vengeance]] | Gives you the ability to fly and attack with wind. |

@@ -15,9 +15,9 @@ tags: [rangoric, rangoric/monster]
 
 Nymphs are fey of great beauty, each tied to a particular part of the natural world. The [[rangoric-srd/monsters/nymph/Dryad|dryad]] and the [[rangoric-srd/monsters/nymph/Nymph|nymph]] are the first kinds; the [[rangoric-srd/monsters/nymph/Hamadryad|hamadryad]], [[rangoric-srd/monsters/nymph/Lampad|lampad]], [[rangoric-srd/monsters/nymph/Nereid|nereid]] and [[rangoric-srd/monsters/nymph/Oceanid|oceanid]] are others.
 
-  - [[rangoric-srd/monsters/nymph/Dryad|Dryad]]
-  - [[rangoric-srd/monsters/nymph/Hamadryad|Hamadryad]]
-  - [[rangoric-srd/monsters/nymph/Lampad|Lampad]]
-  - [[rangoric-srd/monsters/nymph/Nereid|Nereid]]
-  - [[rangoric-srd/monsters/nymph/Nymph|Nymph]]
-  - [[rangoric-srd/monsters/nymph/Oceanid|Oceanid]]
+- [[rangoric-srd/monsters/nymph/Dryad|Dryad]]
+- [[rangoric-srd/monsters/nymph/Hamadryad|Hamadryad]]
+- [[rangoric-srd/monsters/nymph/Lampad|Lampad]]
+- [[rangoric-srd/monsters/nymph/Nereid|Nereid]]
+- [[rangoric-srd/monsters/nymph/Nymph|Nymph]]
+- [[rangoric-srd/monsters/nymph/Oceanid|Oceanid]]

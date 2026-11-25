@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Spider Aspect
 
-*A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The spider is a patient hunter, sensing foes that struggle in its webs.*
+_A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The spider is a patient hunter, sensing foes that struggle in its webs._
 
 **Minor Form**: You gain a +2 competence bonus on Athletics checks to climb, Stealth checks, saving throws against web effects (magical or otherwise), and checks to break free of webs.
 

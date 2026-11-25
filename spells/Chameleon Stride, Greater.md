@@ -25,13 +25,13 @@ tags: [rangoric, rangoric/spell]
 
 # Chameleon Stride, Greater
 
-*Illusion (Glamer)*
+_Illusion (Glamer)_
 
-  - **Level**: Hun 3, Rgr 3
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: 5 ft.
-  - **Area**: Allies in a 10-ft.-radius emanation centered on you
-  - **Duration**: 1 minute/level (see text)
+- **Level**: Hun 3, Rgr 3
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: 5 ft.
+- **Area**: Allies in a 10-ft.-radius emanation centered on you
+- **Duration**: 1 minute/level (see text)
 
-This spell functions as *[[rangoric-srd/spells/Chameleon Stride|chameleon stride]]*, except it confers its bonuses upon all allies within 10 feet of you at the time the spell is cast. Those affected by this spell are able to see each other and themselves as if they were unaffected by the spell. If an affected creature moves out of the area, it loses the benefit of the spell. Creatures that move into the area after the spell is cast do not gain its benefit.
+This spell functions as _[[rangoric-srd/spells/Chameleon Stride|chameleon stride]]_, except it confers its bonuses upon all allies within 10 feet of you at the time the spell is cast. Those affected by this spell are able to see each other and themselves as if they were unaffected by the spell. If an affected creature moves out of the area, it loses the benefit of the spell. Creatures that move into the area after the spell is cast do not gain its benefit.

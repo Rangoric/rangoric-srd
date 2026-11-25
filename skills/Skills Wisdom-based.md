@@ -13,8 +13,8 @@ tags: [rangoric, rangoric/overview]
 
 ## Wisdom-Based
 
-  - [[rangoric-srd/skills/Fieldcraft|Fieldcraft]]
-  - [[rangoric-srd/skills/Meditation|Meditation]]
-  - [[rangoric-srd/skills/Perception|Perception]]
-  - [[rangoric-srd/skills/Profession|Profession]]
-  - [[rangoric-srd/skills/Sense Motive|Sense Motive]]
+- [[rangoric-srd/skills/Fieldcraft|Fieldcraft]]
+- [[rangoric-srd/skills/Meditation|Meditation]]
+- [[rangoric-srd/skills/Perception|Perception]]
+- [[rangoric-srd/skills/Profession|Profession]]
+- [[rangoric-srd/skills/Sense Motive|Sense Motive]]

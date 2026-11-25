@@ -28,14 +28,14 @@ tags: [rangoric, rangoric/spell]
 
 # Telepathy
 
-*Divination \[MindAffecting\]*
+_Divination \[MindAffecting\]_
 
-  - **Level**: Med 4, Mes 4, Psy 5, Sor/Wiz 6, Spi 6
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: Caster level minute(s)
-  - **Spell Resistance**: No
+- **Level**: Med 4, Mes 4, Psy 5, Sor/Wiz 6, Spi 6
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: Caster level minute(s)
+- **Spell Resistance**: No
 
 You can mentally communicate with any other creature within 100 feet that has a language. It is possible to address multiple creatures at once telepathically, although maintaining a telepathic conversation with more than one creature at a time is just as difficult as speaking and listening to multiple people simultaneously.

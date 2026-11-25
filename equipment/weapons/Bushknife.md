@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades]
 
 # Bushknife
 
-*Martial light melee weapon.* Cost 10 gp; Dmg 1d6 (S), 1d6 (M); Critical 19-20/x2; Weight 4 lb.; Type Slashing. ^stats
+_Martial light melee weapon._ Cost 10 gp; Dmg 1d6 (S), 1d6 (M); Critical 19-20/x2; Weight 4 lb.; Type Slashing. ^stats
 
 Many halflings and rangers use the bushknife as both a weapon and a tool. It has a short, chopping blade that is useful for clearing a way through heavy brush.

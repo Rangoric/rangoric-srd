@@ -48,24 +48,24 @@ The secrets of creating artifacts are long lost.
 | Wand          | Craft Wand                 | —                                | x 50                                          | x 50 x 5 gp                                          | 1/2 x 750 x level of spell x level of caster                       | 750 x level of spell x level of caster                             |
 | Wondrous Item | Craft Wondrous Item        | (5)                              | x 50 (usually none)                           | x 50 (usually none) x 5 gp                           | Special, see Table: Estimating Magic Item Gold Price Values, below | Special, see Table: Estimating Magic Item Gold Price Values, below |
 
-1 *Rods usable as weapons must include the masterwork weapon cost.*
+1 _Rods usable as weapons must include the masterwork weapon cost._
 
-2 *This cost is only for spells activated by the item that have material or XP components. Having a spell with a costly component as a prerequisite does not automatically incur this cost if the item doesn’t actually cast the spell.*
+2 _This cost is only for spells activated by the item that have material or XP components. Having a spell with a costly component as a prerequisite does not automatically incur this cost if the item doesn’t actually cast the spell._
 
-3 *If purchasing a staff, the buyer pays 5 x the XP value in gold pieces.*
+3 _If purchasing a staff, the buyer pays 5 x the XP value in gold pieces._
 
-4 *A character creating an item pays 1/25 the base price in experience points.*
+4 _A character creating an item pays 1/25 the base price in experience points._
 
-5 *Some items have additional value from a masterwork item component.*
+5 _Some items have additional value from a masterwork item component._
 
-***An item’s market price is the sum of the item cost, spell component costs, and the base price.***
+**_An item’s market price is the sum of the item cost, spell component costs, and the base price._**
 
 **Table: ESTIMATING MAGIC ITEM GOLD PIECE VALUES** ^table-estimating-values
 
 | Effect                            | Base Price                                     | Example                      |
 | --------------------------------- | ---------------------------------------------- | ---------------------------- |
 | Ability bonus (enhancement)       | Bonus squared x 1,000 gp                       | Gloves of Dexterity +2       |
-| Armor bonus (enhancement)         | Bonus squared x 1,000 gp                       | +1 chainmail                |
+| Armor bonus (enhancement)         | Bonus squared x 1,000 gp                       | +1 chainmail                 |
 | Bonus spell                       | Spell level squared x 1,000 gp                 | Pearl of power               |
 | AC bonus (deflection)             | Bonus squared x 2,000 gp                       | Ring of protection +3        |
 | AC bonus (other) (1)              | Bonus squared x 2,500 gp                       | Ioun stone, dusty rose prism |
@@ -74,7 +74,7 @@ The secrets of creating artifacts are long lost.
 | Save bonus (other) (1)            | Bonus squared x 2,000 gp                       | Stone of good luck           |
 | Skill bonus (competence)          | Bonus squared x 100 gp                         | Cloak of elvenkind           |
 | Spell resistance                  | 10,000 gp per point over SR 12; SR 13 minimum  | Mantle of spell resistance   |
-| Weapon bonus (enhancement)        | Bonus squared x 2,000 gp                       | +1 longsword                |
+| Weapon bonus (enhancement)        | Bonus squared x 2,000 gp                       | +1 longsword                 |
 | Spell Effect                      | Base Price                                     | Example                      |
 | Single use, spell completion      | Spell level x caster level x 25 gp             | Scroll of haste              |
 | Single use, use-activated         | Spell level x caster level x 50 gp             | Potion of cure light wounds  |
@@ -88,11 +88,11 @@ The secrets of creating artifacts are long lost.
 | Multiple different abilities      | Multiply lower item cost by 1.5                | Helm of brilliance           |
 | Charged (50 charges)              | 1/2 unlimited use base price                   | Ring of the ram              |
 | Component                         | Extra Cost                                     | Example                      |
-| Armor, shield, or weapon          | Add cost of masterwork item                    | +1 composite longbow        |
+| Armor, shield, or weapon          | Add cost of masterwork item                    | +1 composite longbow         |
 | Spell has material component cost | Add directly into price of item per charge (5) | Wand of stoneskin            |
 | Spell has XP cost                 | Add 5 gp per 1 XP per charge (5)               | Ring of three wishes         |
 
-*Spell Level*: A 0-level spell is half the value of a 1st-level spell for determining price.
+_Spell Level_: A 0-level spell is half the value of a 1st-level spell for determining price.
 
 1 Such as a luck, insight, sacred, or profane bonus.
 
@@ -116,9 +116,9 @@ Many factors must be considered when determining the price of new magic items. T
 
 **Other Considerations**: Once you have a final cost figure, reduce that number if either of the following conditions applies:
 
-*—Item Requires Skill to Use*: Some items require a specific skill to get them to function. This factor should reduce the cost about 10%.
+_—Item Requires Skill to Use_: Some items require a specific skill to get them to function. This factor should reduce the cost about 10%.
 
-*—Item Requires Specific Class or Alignment to Use*: Even more restrictive than requiring a skill, this limitation cuts the cost by 30%.
+_—Item Requires Specific Class or Alignment to Use_: Even more restrictive than requiring a skill, this limitation cuts the cost by 30%.
 
 Prices presented in the magic item descriptions (the gold piece value following the item’s caster level) are the market value, which is generally twice what it costs the creator to make the item.
 
@@ -189,9 +189,9 @@ Brewing a potion requires one day.
 | 2nd         | 300 gp        | 400 gp | 400 gp   | 400 gp     |
 | 3rd         | 750 gp        | 900 gp | 1,050 gp | 750 gp     |
 
-\* *Caster level is half class level.*
+\* _Caster level is half class level._
 
-*Prices assume that the potion was made at the minimum caster level.*
+_Prices assume that the potion was made at the minimum caster level._
 
 **BASE COST TO BREW A POTION (BY BREWER'S CLASS)**
 
@@ -202,9 +202,9 @@ Brewing a potion requires one day.
 | 2nd         | 150 gp +12 XP    | 200 gp +16 XP    | 200 gp +16 XP    | 200 gp +16 XP |
 | 3rd         | 375 gp +30 XP    | 450 gp +36 XP    | 525 gp +42 XP    | 375 gp +30 XP |
 
-\* *Caster level is half class level.*
+\* _Caster level is half class level._
 
-*Costs assume that the creator makes the potion at the minimum caster level.*
+_Costs assume that the creator makes the potion at the minimum caster level._
 
 ##### Creating Rings
 
@@ -257,9 +257,9 @@ Scribing a scroll requires one day per each 1,000 gp of the base price.
 | 8th         | 3,000 gp      | 3,200 gp   | —          | —          |
 | 9th         | 3,825 gp      | 4,050 gp   | —          | —          |
 
-\* *Caster level is half class level.*
+\* _Caster level is half class level._
 
-*Prices assume that the scroll was made at the minimum caster level.*
+_Prices assume that the scroll was made at the minimum caster level._
 
 **BASE MAGIC SUPPLIES AND XP COST TO SCRIBE A SCROLL (BY SCRIBER'S CLASS)**
 
@@ -276,9 +276,9 @@ Scribing a scroll requires one day per each 1,000 gp of the base price.
 | 8th         | 1,500 gp +120 XP       | 1,600 gp +128 XP     | —                    | —                  |
 | 9th         | 1,912 gp 5 sp + 153 XP | 2, 025 gp +162 XP    | —                    | —                  |
 
-\* *Caster level is half class level.*
+\* _Caster level is half class level._
 
-*Costs assume that the creator makes the scroll at the minimum caster level.*
+_Costs assume that the creator makes the scroll at the minimum caster level._
 
 ##### Creating Staffs
 
@@ -316,9 +316,9 @@ Crafting a wand requires one day per each 1,000 gp of the base price.
 | 3rd         | 11,250 gp     | 13,500 gp | 15,750 gp | 11,250 gp  |
 | 4th         | 21,000 gp     | 24,000 gp | 30,000 gp | 21,000 gp  |
 
-\* *Caster level is half class level.*
+\* _Caster level is half class level._
 
-*Prices assume that the wand was made at the minimum caster level.*
+_Prices assume that the wand was made at the minimum caster level._
 
 **BASE MAGIC SUPPLIES AND XP COST TO CRAFT A WAND (BY CRAFTER'S CLASS)**
 
@@ -330,9 +330,9 @@ Crafting a wand requires one day per each 1,000 gp of the base price.
 | 3rd         | 5,625 gp +450 XP   | 6,750 gp +540 XP   | 7,785 gp +630 XP    | 5,625 gp +450 XP  |
 | 4th         | 10,500 gp +840 XP  | 12,000 gp +960 XP  | 15,000 gp +1,200 XP | 10,500 gp +840 XP |
 
-\* *Caster level is half class level.*
+\* _Caster level is half class level._
 
-*Costs assume that the creator makes the wand at the minimum caster level.*
+_Costs assume that the creator makes the wand at the minimum caster level._
 
 ##### Creating Wondrous Items
 

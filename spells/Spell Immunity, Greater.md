@@ -15,9 +15,9 @@ tags: [rangoric, rangoric/spell]
 
 # Spell Immunity, Greater
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Clr 8, Psy 8
+- **Level**: Clr 8, Psy 8
 
 This spell functions like [[rangoric-srd/spells/Spell Immunity|spell immunity]], except the immunity applies to spells of 8th level or lower.
 

@@ -33,7 +33,7 @@ Psychokinesis \[see text\]
 **Duration:** Instantaneous  
 **Saving Throw:** Reflex half or Fortitude half; see text  
 **Power Resistance:** Yes  
-**Power Points:** 3  
+**Power Points:** 3
 
 Upon manifesting this power, you choose cold, electricity, fire, or sonic. You release a powerful missile of energy of the chosen type at your foe. The missile deals 3d6 points of damage to each creature or object you target, to the maximum of five targets. You cannot hit the same target multiple times with the same manifestation of this power.
 

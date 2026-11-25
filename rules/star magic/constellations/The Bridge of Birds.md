@@ -27,18 +27,18 @@ tags: [rangoric, rangoric/constellation]
 
 # The Bridge of Birds
 
-*[[rangoric-srd/rules/star magic/Star Magic|Constellation]]*
+_[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 
-  - **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Compassion|Compassion]], [[rangoric-srd/rules/star magic/stars/Star of Freedom|Freedom]], [[rangoric-srd/rules/star magic/stars/Star of Wind|Wind]]
-  - **Call Level**: 5th ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Area**: 20-ft.-radius emanation centered on you
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Fortitude negates (thrown out only)
-  - **Spell Resistance**: Yes
+- **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Compassion|Compassion]], [[rangoric-srd/rules/star magic/stars/Star of Freedom|Freedom]], [[rangoric-srd/rules/star magic/stars/Star of Wind|Wind]]
+- **Call Level**: 5th ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Area**: 20-ft.-radius emanation centered on you
+- **Duration**: 1 round/level
+- **Saving Throw**: Fortitude negates (thrown out only)
+- **Spell Resistance**: Yes
 
 A windstorm whirls around you and lifts you into the air.
 

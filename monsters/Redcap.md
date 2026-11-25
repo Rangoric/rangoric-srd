@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Redcap
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
-  - **Hit Dice**: 8d6+32 (60 hp)
-  - **Initiative**: +8
-  - **Speed**: 60 ft. (12 squares)
-  - **Armor Class**: 20 (+2 armor, +4 Dex, +3 natural, +1 size), touch 15, flat-footed 16
-  - **Base Attack**: +4; **CMB**: +7; **CMD**: 21
-  - **Attack**: Medium scythe +10 melee (2d4+10/×4) or kick +4 melee (1d4+6)
-  - **Full Attack**: Medium scythe +10 melee (2d4+10/×4) and kick +4 melee (1d4+6)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 3, [[rangoric-srd/monsters/abilities/Boot Stomp|boot stomp]], [[rangoric-srd/monsters/abilities/Heavy Weapons|heavy weapons]], [[rangoric-srd/monsters/abilities/Red Cap|red cap]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Irreligious|irreligious]]
-  - **Saves**: Fort +6, Ref +10, Will +7
-  - **Abilities**: Str 18, Dex 19, Con 18, Int 16, Wis 13, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +15 (+27 jumping), [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +15, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Nature|Nature]] +14, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +19
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (scythe)
-  - **Environment**: Temperate forests, mountains, or underground
-  - **Organization**: Solitary, pair, or gang (3–12)
-  - **Challenge Rating**: 6
-  - **Treasure**: NPC gear (leather armor, Medium scythe, other treasure)
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
+- **Hit Dice**: 8d6+32 (60 hp)
+- **Initiative**: +8
+- **Speed**: 60 ft. (12 squares)
+- **Armor Class**: 20 (+2 armor, +4 Dex, +3 natural, +1 size), touch 15, flat-footed 16
+- **Base Attack**: +4; **CMB**: +7; **CMD**: 21
+- **Attack**: Medium scythe +10 melee (2d4+10/×4) or kick +4 melee (1d4+6)
+- **Full Attack**: Medium scythe +10 melee (2d4+10/×4) and kick +4 melee (1d4+6)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 3, [[rangoric-srd/monsters/abilities/Boot Stomp|boot stomp]], [[rangoric-srd/monsters/abilities/Heavy Weapons|heavy weapons]], [[rangoric-srd/monsters/abilities/Red Cap|red cap]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Irreligious|irreligious]]
+- **Saves**: Fort +6, Ref +10, Will +7
+- **Abilities**: Str 18, Dex 19, Con 18, Int 16, Wis 13, Cha 15
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +15 (+27 jumping), [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +15, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Nature|Nature]] +14, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +19
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (scythe)
+- **Environment**: Temperate forests, mountains, or underground
+- **Organization**: Solitary, pair, or gang (3–12)
+- **Challenge Rating**: 6
+- **Treasure**: NPC gear (leather armor, Medium scythe, other treasure)
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Redcaps embody both capriciousness and sadism. These stumpy, misanthropic fey freaks exist seemingly to indulge in blissful bloodletting and self-indulgent slaughter. Like prune-faced, angry old men, they mollycoddle their own inefficiencies and miseries in gore. Redcaps are most widely recognized for their long woolen caps, which they drench in the blood of their victims. Rumors and fairy stories abound concerning rituals and the cultural significance of their blood-soaked caps, though the practice likely evolved as an easy way for the brutish runts to create both fear and spectacle. Redcaps typically stand only 3 feet tall, with twisted frames, pointed ears, and long white beards. They dress in soiled leather armor and wear oversized, iron-shod boots that make a distinctive clanging when they run.
 

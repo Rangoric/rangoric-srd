@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Lamellar Cuirass
 
-*Light armor.* Cost 15 gp; Armor Bonus +2; Maximum Dex Bonus +4; Armor Check Penalty 0; Arcane Spell Failure 5%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 8 lb. ^stats
+_Light armor._ Cost 15 gp; Armor Bonus +2; Maximum Dex Bonus +4; Armor Check Penalty 0; Arcane Spell Failure 5%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 8 lb. ^stats
 
 This armor consists of a light breastplate and shoulder guards made from lacquered leather plates bound together and fitted over a silk shirt.

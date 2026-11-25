@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Flood Blessing
 
-*A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]]. You see proof of your convictions in the churning waters of a flood.*
+_A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]]. You see proof of your convictions in the churning waters of a flood._
 
 **Deities**: Evil deities that offer the [[rangoric-srd/class-options/blessings/Water (Blessing)|Water blessing]] or nonevil deities with disasters in their portfolios.
 

@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This stick of [[rangoric-srd/equipment/gear/Incense|incense]] is coated in the ectoplasmic remains of slain spirits. A [[rangoric-srd/classes/Spiritualist (Class)|spiritualist]] can burn it as part of her ritual to manifest her [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-phantom|phantom]]; the phantom then returns with its maximum hit points, whatever damage it took before. A stick can be used only once.
 
-Moderate necromancy; CL 11th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Heal (Spell)|heal]]*; Price 800 gp; Cost 400 gp; Weight —.
+Moderate necromancy; CL 11th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Heal (Spell)|heal]]_; Price 800 gp; Cost 400 gp; Weight —.

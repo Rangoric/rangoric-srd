@@ -23,9 +23,9 @@ tags: [rangoric, rangoric/magic-item]
 
 This staff is made from polished birch, inlaid with ivory, and topped with a pristine white gemstone. The staff allows use of the following spells:
 
-- *[[rangoric-srd/spells/Align Weapon|Align weapon]]* (good only, 1 charge)
-- *[[rangoric-srd/spells/Detect Evil|Detect evil]]* (1 charge)
-- *[[rangoric-srd/spells/Holy Smite|Holy smite]]* (2 charges)
-- *[[rangoric-srd/spells/Magic Circle against Evil|Magic circle against evil]]* (2 charges)
+- _[[rangoric-srd/spells/Align Weapon|Align weapon]]_ (good only, 1 charge)
+- _[[rangoric-srd/spells/Detect Evil|Detect evil]]_ (1 charge)
+- _[[rangoric-srd/spells/Holy Smite|Holy smite]]_ (2 charges)
+- _[[rangoric-srd/spells/Magic Circle against Evil|Magic circle against evil]]_ (2 charges)
 
-Moderate evocation; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Align Weapon|align weapon]]*, *[[rangoric-srd/spells/Detect Evil|detect evil]]*, *[[rangoric-srd/spells/Holy Smite|holy smite]]*, *[[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]]*; Price 29,600 gp; Cost 14,800 gp; Weight 5 lbs.
+Moderate evocation; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Align Weapon|align weapon]]_, _[[rangoric-srd/spells/Detect Evil|detect evil]]_, _[[rangoric-srd/spells/Holy Smite|holy smite]]_, _[[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]]_; Price 29,600 gp; Cost 14,800 gp; Weight 5 lbs.

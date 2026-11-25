@@ -33,6 +33,6 @@ Telepathy \[Mind-Affecting\]
 **Duration:** One day  
 **Saving Throw:** Will negates (harmless)  
 **Power Resistance:** Yes (harmless)  
-**Power Points:** 15  
+**Power Points:** 15
 
 The subject is protected from all devices, powers, and spells that detect, influence, or read emotions or thoughts. This power protects against powers with the mind-affecting or scrying descriptors. Psionic mind blank even foils [[rangoric-srd/powers/Bend Reality|bend reality]], [[rangoric-srd/spells/Limited Wish|limited wish]], [[rangoric-srd/spells/Miracle|miracle]], [[rangoric-srd/powers/Reality Revision|reality revision]], and [[rangoric-srd/spells/Wish|wish]]when they are used in such a way as to affect the subject’s mind or to gain information about it (however, [[rangoric-srd/powers/Metafaculty|metafaculty]] can pierce the protective quality of psionic mind blank). In the case of [[rangoric-srd/powers/Remote Viewing (Power)|remote viewing]] or [[rangoric-srd/spells/Scrying|scrying]] that scans an area the creature is in, the effect works but the creature simply isn’t detected. Remote viewing (scrying) attempts that are targeted specifically at the subject do not work at all.

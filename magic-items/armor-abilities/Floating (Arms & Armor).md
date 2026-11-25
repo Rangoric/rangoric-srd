@@ -20,4 +20,4 @@ tags: [rangoric, rangoric/magic-item]
 
 Only shields can have the floating ability. On command, the wielder may choose to have the shield float along behind him, horizontally, 3 ft. off of the ground. The shield will follow at your normal movement rate, falling to the ground if you are ever separated from it by more than 40 ft. While floating, the shield conveys no armor bonus, but it can haul up to 600 pounds.
 
-Faint evocation; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Floating Disk|floating disk]]*; Price +1 bonus.
+Faint evocation; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Floating Disk|floating disk]]_; Price +1 bonus.

@@ -17,7 +17,7 @@ You were born with the power of air genies, and the magic of the djinn is strong
 
 **Class Skill**: [[rangoric-srd/skills/Theology|Theology]].
 
-**Bonus Spells**: *[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]* (3rd), *[[rangoric-srd/spells/Invisibility|invisibility]]* (5th), *[[rangoric-srd/spells/Fly|fly]]* (7th), *[[rangoric-srd/spells/Minor Creation|minor creation]]* (9th), *[[rangoric-srd/spells/Overland Flight|overland flight]]* (11th), *[[rangoric-srd/spells/Chain Lightning|chain lightning]]* (13th), *[[rangoric-srd/spells/Plane Shift|plane shift]]* (15th), *greater planar binding* (17th), *[[rangoric-srd/spells/Wish|wish]]* (19th).
+**Bonus Spells**: _[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]_ (3rd), _[[rangoric-srd/spells/Invisibility|invisibility]]_ (5th), _[[rangoric-srd/spells/Fly|fly]]_ (7th), _[[rangoric-srd/spells/Minor Creation|minor creation]]_ (9th), _[[rangoric-srd/spells/Overland Flight|overland flight]]_ (11th), _[[rangoric-srd/spells/Chain Lightning|chain lightning]]_ (13th), _[[rangoric-srd/spells/Plane Shift|plane shift]]_ (15th), _greater planar binding_ (17th), _[[rangoric-srd/spells/Wish|wish]]_ (19th).
 
 **Bonus Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Empower Spell|Empower Spell]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Theology), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]].
 
@@ -37,6 +37,6 @@ Like a djinni, you have both natural power over air and several other genie-base
 
 ### Power of the Djinn (Su)
 
-At 20th level, you gain the power of genies to grant wishes. Once per day, you can cast *[[rangoric-srd/spells/Limited Wish|limited wish]]* as a spell-like ability. Such wishes must begin with the words “I wish,” and cannot duplicate a wish you have granted within the past 24 hours. If you use this ability to duplicate a spell with a costly material component, you must provide that component.
+At 20th level, you gain the power of genies to grant wishes. Once per day, you can cast _[[rangoric-srd/spells/Limited Wish|limited wish]]_ as a spell-like ability. Such wishes must begin with the words “I wish,” and cannot duplicate a wish you have granted within the past 24 hours. If you use this ability to duplicate a spell with a costly material component, you must provide that component.
 
-You also become immune to electricity damage, and can use *[[rangoric-srd/spells/Plane Shift|plane shift]]* once per day to travel to or from the Plane of Air.
+You also become immune to electricity damage, and can use _[[rangoric-srd/spells/Plane Shift|plane shift]]_ once per day to travel to or from the Plane of Air.

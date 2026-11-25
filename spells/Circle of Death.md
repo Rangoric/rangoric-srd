@@ -28,19 +28,19 @@ tags: [rangoric, rangoric/spell]
 
 # Circle of Death
 
-*Necromancy \[Death\]*
+_Necromancy \[Death\]_
 
-  - **Level**: Inq 6, Sor/Wiz 6, Spi 6
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Area**: Several living creatures within a 40-ft.-radius burst
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Inq 6, Sor/Wiz 6, Spi 6
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Area**: Several living creatures within a 40-ft.-radius burst
+- **Duration**: Instantaneous
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
 A circle of death snuffs out the life force of living creatures, killing them instantly.
 
 The spell slays 1d4 HD worth of living creatures per caster level (maximum 20d4). Creatures with the fewest HD are affected first; among creatures with equal HD, those who are closest to the burst’s point of origin are affected first. No creature of 9 or more HD can be affected, and Hit Dice that are not sufficient to affect a creature are wasted.
 
-*Material Component*: The powder of a crushed black pearl with a minimum value of 500 gp.
+_Material Component_: The powder of a crushed black pearl with a minimum value of 500 gp.

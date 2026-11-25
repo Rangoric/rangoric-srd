@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Sapling Treant
 
-*A plant companion that a [[rangoric-srd/class-options/archetypes/druid/Treesinger (Archetype)|treesinger]] can choose for her plant bond.*
+_A plant companion that a [[rangoric-srd/class-options/archetypes/druid/Treesinger (Archetype)|treesinger]] can choose for her plant bond._
 
 - **Size**: Medium
 - **Speed**: 30 ft., climb 30 ft.

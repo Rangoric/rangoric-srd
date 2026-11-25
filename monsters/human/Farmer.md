@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Farmer
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 1d6+1d8+2 (10 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 10, touch 10, flat-footed 10
-  - **Base Attack**: +0; **CMB**: +0; **CMD**: 10
-  - **Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +0 melee (1d6) or [[rangoric-srd/equipment/weapons/Sickle|sickle]] +0 melee (1d6) or [[rangoric-srd/equipment/weapons/Sling|sling]] +0 ranged (1d4) or [[rangoric-srd/equipment/weapons/Club|club]] +0 ranged (1d6)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +0 melee (1d6); or [[rangoric-srd/equipment/weapons/Sickle|sickle]] +0 melee (1d6); or [[rangoric-srd/equipment/weapons/Sling|sling]] +0 ranged (1d4); or [[rangoric-srd/equipment/weapons/Club|club]] +0 ranged (1d6)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: 
-  - **Saves**: Fort +1, Ref +0, Will +3
-  - **Abilities**: Str 11, Dex 10, Con 12, Int 10, Wis 13, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Craft|Craft]] (carpentry) +5, [[rangoric-srd/skills/Medicine|Medicine]] +5, [[rangoric-srd/skills/Nature|Nature]] +4, [[rangoric-srd/skills/Profession|Profession]] (farmer) +9, [[rangoric-srd/skills/Society|Society]] +4
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling, Profession \[farmer\])
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 1/2
-  - **Treasure**: NPC gear
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 1d6+1d8+2 (10 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 10, touch 10, flat-footed 10
+- **Base Attack**: +0; **CMB**: +0; **CMD**: 10
+- **Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +0 melee (1d6) or [[rangoric-srd/equipment/weapons/Sickle|sickle]] +0 melee (1d6) or [[rangoric-srd/equipment/weapons/Sling|sling]] +0 ranged (1d4) or [[rangoric-srd/equipment/weapons/Club|club]] +0 ranged (1d6)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +0 melee (1d6); or [[rangoric-srd/equipment/weapons/Sickle|sickle]] +0 melee (1d6); or [[rangoric-srd/equipment/weapons/Sling|sling]] +0 ranged (1d4); or [[rangoric-srd/equipment/weapons/Club|club]] +0 ranged (1d6)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**:
+- **Saves**: Fort +1, Ref +0, Will +3
+- **Abilities**: Str 11, Dex 10, Con 12, Int 10, Wis 13, Cha 9
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Craft|Craft]] (carpentry) +5, [[rangoric-srd/skills/Medicine|Medicine]] +5, [[rangoric-srd/skills/Nature|Nature]] +4, [[rangoric-srd/skills/Profession|Profession]] (farmer) +9, [[rangoric-srd/skills/Society|Society]] +4
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling, Profession \[farmer\])
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 1/2
+- **Treasure**: NPC gear
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A farmer is a [[rangoric-srd/monsters/human/Human|human]] with 1 level of [[rangoric-srd/classes/Commoner|commoner]] and 1 level of [[rangoric-srd/classes/Expert|expert]]. Farmers are the backbone of any economy, producing the foodstuffs and livestock for the world. A typical farmer is fair-minded, sensible, and trustworthy, but suspicious of outsiders. A farmer can be a good source of local gossip, and knows the area around his farm like the back of his hand.
 

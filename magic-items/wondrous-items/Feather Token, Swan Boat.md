@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 Each of these items is a small feather that has a power to suit a special need. The kinds of tokens are described below. Each token is usable once.
 
-*Swan Boat*: A token that forms a swanlike boat capable of moving on water at a speed of 60 feet. It can carry eight horses and gear or thirty-two Medium characters or any equivalent combination. The boat lasts for one day.
+_Swan Boat_: A token that forms a swanlike boat capable of moving on water at a speed of 60 feet. It can carry eight horses and gear or thirty-two Medium characters or any equivalent combination. The boat lasts for one day.
 
 Moderate conjuration; CL 12th; Craft Wondrous Item, major creation; Price 450 gp.

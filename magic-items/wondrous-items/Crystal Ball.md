@@ -22,8 +22,8 @@ This is the most common form of scrying device, a crystal sphere about 6 inches 
 
 Certain crystal balls have additional powers that can be used through the crystal ball on the target viewed.
 
-| Crystal Ball Type                                      | Market Price |
-| ------------------------------------------------------ | ------------ |
-| Crystal ball                                           | 42,000 gp    |
+| Crystal Ball Type | Market Price |
+| ----------------- | ------------ |
+| Crystal ball      | 42,000 gp    |
 
 Moderate divination; CL 10th; Craft Wondrous Item, scrying (plus any additional spells put into item); Price 42,000 gp; Weight 7 lb.

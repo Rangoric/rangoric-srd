@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Perthro
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
+_A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat._
 
 Rune casters who favor Perthro are interested in secrets and mysteries, particularly those that deal with the occult or supernatural. They seek knowledge mortals were not meant to know despite the dangers in doing so. Those attuned to Perthro become very curious, even about matters in which curiosity may prove dangerous.
 
@@ -23,15 +23,15 @@ Rune casters who favor Perthro are interested in secrets and mysteries, particul
 
 **Spells Available** (by level; see [[rangoric-srd/rules/rune-magic/Rune Magic#The Runes|the runes]]):
 
-0. *[[rangoric-srd/spells/Daze|daze]]*
-1. *[[rangoric-srd/spells/Identify|identify]]*
-2. *[[rangoric-srd/spells/Obscure Object|obscure object]]*
-3. *[[rangoric-srd/spells/Nondetection|nondetection]]*
-4. *[[rangoric-srd/spells/Divination|divination]]*
-5. *[[rangoric-srd/spells/Analyze Dweomer|analyze dweomer]]*
-6. *[[rangoric-srd/spells/True Seeing|true seeing]]*
-7. *[[rangoric-srd/spells/Legend Lore|legend lore]]*
-8. *[[rangoric-srd/spells/Maze|maze]]*
-9. *[[rangoric-srd/spells/Gate|gate]]*
+0. _[[rangoric-srd/spells/Daze|daze]]_
+1. _[[rangoric-srd/spells/Identify|identify]]_
+2. _[[rangoric-srd/spells/Obscure Object|obscure object]]_
+3. _[[rangoric-srd/spells/Nondetection|nondetection]]_
+4. _[[rangoric-srd/spells/Divination|divination]]_
+5. _[[rangoric-srd/spells/Analyze Dweomer|analyze dweomer]]_
+6. _[[rangoric-srd/spells/True Seeing|true seeing]]_
+7. _[[rangoric-srd/spells/Legend Lore|legend lore]]_
+8. _[[rangoric-srd/spells/Maze|maze]]_
+9. _[[rangoric-srd/spells/Gate|gate]]_
 
 **Associated Skill Bonus**: +2 bonus on [[rangoric-srd/skills/Arcana|Arcana]] checks.

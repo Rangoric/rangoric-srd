@@ -39,27 +39,27 @@ tags: [rangoric, rangoric/monster]
 
 # Megaloceros
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 4d8+16 (34 hp)
-  - **Initiative**: +2
-  - **Speed**: 50 ft. (10 squares)
-  - **Armor Class**: 16 (+2 Dex, +5 natural, –1 size), touch 11, flat-footed 14
-  - **Base Attack**: +3; **CMB**: +9; **CMD**: 21 (25 vs. trip)
-  - **Attack**: Gore +7 melee (2d6+5) or hoof +7 melee (1d4+2)
-  - **Full Attack**: Gore +7 melee (2d6+5) and 2 hooves +2 melee (1d4+2)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (4d6+7)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +8, Ref +8, Will +3
-  - **Abilities**: Str 20, Dex 15, Con 18, Int 2, Wis 15, Cha 5
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +9
-  - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Run|Run]]
-  - **Environment**: Cold or temperate forest and plains
-  - **Organization**: Solitary, pair, or herd (3–50)
-  - **Challenge Rating**: 4
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 4d8+16 (34 hp)
+- **Initiative**: +2
+- **Speed**: 50 ft. (10 squares)
+- **Armor Class**: 16 (+2 Dex, +5 natural, –1 size), touch 11, flat-footed 14
+- **Base Attack**: +3; **CMB**: +9; **CMD**: 21 (25 vs. trip)
+- **Attack**: Gore +7 melee (2d6+5) or hoof +7 melee (1d4+2)
+- **Full Attack**: Gore +7 melee (2d6+5) and 2 hooves +2 melee (1d4+2)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (4d6+7)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +8, Ref +8, Will +3
+- **Abilities**: Str 20, Dex 15, Con 18, Int 2, Wis 15, Cha 5
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +9
+- **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Run|Run]]
+- **Environment**: Cold or temperate forest and plains
+- **Organization**: Solitary, pair, or herd (3–50)
+- **Challenge Rating**: 4
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The megaloceros is a powerful and enormous elk, also known as a “great elk” or “king stag.” It stands about 6 feet tall at the shoulder and has antlers spanning up to 12 feet. It weighs 1,400 pounds.

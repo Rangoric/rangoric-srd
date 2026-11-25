@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Devil Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Evil Domain|Evil]] and [[rangoric-srd/class-options/domains/Law Domain|Law]] domains, taken in place of one of them.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Evil Domain|Evil]] and [[rangoric-srd/class-options/domains/Law Domain|Law]] domains, taken in place of one of them._
 
 ## Replacement Power
 
@@ -27,8 +27,8 @@ This power replaces the [[rangoric-srd/class-options/domains/Evil Domain#Granted
 
 Each spell takes the place of that domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Command\|Command]] | One subject obeys selected command for 1 round. |
-| 3rd | [[rangoric-srd/spells/Suggestion\|Suggestion]] (M) | Compels subject to follow stated course of action. |
-| 6th | [[rangoric-srd/spells/Planar Binding\|Planar Binding]] (devils only) | As lesser planar binding, but up to 12 HD. |
+| Level | Spell                                                                | Brief Description                                  |
+| ----- | -------------------------------------------------------------------- | -------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Command\|Command]]                             | One subject obeys selected command for 1 round.    |
+| 3rd   | [[rangoric-srd/spells/Suggestion\|Suggestion]] (M)                   | Compels subject to follow stated course of action. |
+| 6th   | [[rangoric-srd/spells/Planar Binding\|Planar Binding]] (devils only) | As lesser planar binding, but up to 12 HD.         |

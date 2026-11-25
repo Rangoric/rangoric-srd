@@ -24,12 +24,12 @@ Surprisingly, the Shrouded Lands are even more mysterious than the lands of Betw
 
 **Seasons:** Unknown
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* The Queen of Air and Darkness used to be the resident ruler of the Shrouded Lands, but now the region is governed by one of her war-mongering generals—until she replaces them with a more recent favorite.
+_Common:_ The Queen of Air and Darkness used to be the resident ruler of the Shrouded Lands, but now the region is governed by one of her war-mongering generals—until she replaces them with a more recent favorite.
 
-*Uncommon:* The region is guarded by thousands of air elementals, and those that do not stay and fight are bound to seek out reinforcements. What they protect or guard is unknown.
+_Uncommon:_ The region is guarded by thousands of air elementals, and those that do not stay and fight are bound to seek out reinforcements. What they protect or guard is unknown.
 
-*Rare:* Unsubstantiated rumors of an open-pit diamond mine are drawing interloping mortal prospectors to FaerieLand.
+_Rare:_ Unsubstantiated rumors of an open-pit diamond mine are drawing interloping mortal prospectors to FaerieLand.
 
-*Obscure:* Somewhere under the mists lay the ancient and forgotten tombs of first rulers of FaerieLand, undisturbed for several millennia.
+_Obscure:_ Somewhere under the mists lay the ancient and forgotten tombs of first rulers of FaerieLand, undisturbed for several millennia.

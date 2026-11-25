@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Brand, Greater
 
-*Transmutation \[Curse\]*
+_Transmutation \[Curse\]_
 
-  - **Level**: Inq 4
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 round
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: Permanent
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Inq 4
+- **Components**: V, S, DF
+- **Casting Time**: 1 round
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: Permanent
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
-This spell functions like *[[rangoric-srd/spells/Brand|brand]]*, except that it inflicts 1d6 points of damage when applied and cannot be removed, even temporarily. In addition, a *greater brand* blazes as bright as a torch when brought within 30 feet of a visible symbol of your faith. While the symbol is blazing, the recipient is sickened. Like the effects of *[[rangoric-srd/spells/Bestow Curse|bestow curse]]*, a *greater brand* cannot be dispelled, but it can be removed by any means that removes a *[[rangoric-srd/spells/Mark of Justice|mark of justice]]*.
+This spell functions like _[[rangoric-srd/spells/Brand|brand]]_, except that it inflicts 1d6 points of damage when applied and cannot be removed, even temporarily. In addition, a _greater brand_ blazes as bright as a torch when brought within 30 feet of a visible symbol of your faith. While the symbol is blazing, the recipient is sickened. Like the effects of _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_, a _greater brand_ cannot be dispelled, but it can be removed by any means that removes a _[[rangoric-srd/spells/Mark of Justice|mark of justice]]_.

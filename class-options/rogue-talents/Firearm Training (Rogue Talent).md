@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Firearm Training
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex).*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex)._
 
 A character with this talent gains [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] ([[rangoric-srd/equipment/Firearms#Firearm Proficiency|firearms]]).

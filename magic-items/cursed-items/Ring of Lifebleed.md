@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Ring of Lifebleed
 
-Before being worn, this ring appears to be a *[[rangoric-srd/magic-items/rings/Ring of Regeneration|ring of regeneration]]*. Once it is worn in combat, however, the true nature of the ring becomes apparent. Each time the wearer is hit with a melee or ranged weapon attack, he takes an additional 1d4 points of damage. This ring cannot be removed until the wearer dies or by way of a *[[rangoric-srd/spells/Remove Curse|remove curse]]*, *[[rangoric-srd/spells/Wish|wish]]*, or *[[rangoric-srd/spells/Miracle|miracle]]* spell.
+Before being worn, this ring appears to be a _[[rangoric-srd/magic-items/rings/Ring of Regeneration|ring of regeneration]]_. Once it is worn in combat, however, the true nature of the ring becomes apparent. Each time the wearer is hit with a melee or ranged weapon attack, he takes an additional 1d4 points of damage. This ring cannot be removed until the wearer dies or by way of a _[[rangoric-srd/spells/Remove Curse|remove curse]]_, _[[rangoric-srd/spells/Wish|wish]]_, or _[[rangoric-srd/spells/Miracle|miracle]]_ spell.
 
-Moderate necromancy; CL 10th; Intended magic item: *[[rangoric-srd/magic-items/rings/Ring of Regeneration|ring of regeneration]]*.
+Moderate necromancy; CL 10th; Intended magic item: _[[rangoric-srd/magic-items/rings/Ring of Regeneration|ring of regeneration]]_.

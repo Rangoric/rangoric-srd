@@ -18,4 +18,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This ring confers upon the wearer the ability to choose one die roll and reroll it, taking the newly rolled number instead. The wearer must take the results of the reroll, even if they are worse. This ability can be used three times per day.
 
-CL 5th; [[rangoric-srd/feats/Forge Ring|Forge Ring]], *[[rangoric-srd/spells/Luck of the Fey|luck of the fey]]*; Price 27,000 gp; Cost 13,500 gp + 1,080 XP.
+CL 5th; [[rangoric-srd/feats/Forge Ring|Forge Ring]], _[[rangoric-srd/spells/Luck of the Fey|luck of the fey]]_; Price 27,000 gp; Cost 13,500 gp + 1,080 XP.

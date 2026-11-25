@@ -28,13 +28,13 @@ tags: [rangoric, rangoric/spell]
 
 # Know Direction
 
-*Divination*
+_Divination_
 
-  - **Level**: Brd 0, Drd 0, Hun 0, Occ 0, Psy 0, Sha 0, Skd 0, Tot 0
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: Instantaneous
+- **Level**: Brd 0, Drd 0, Hun 0, Occ 0, Psy 0, Sha 0, Skd 0, Tot 0
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: Instantaneous
 
 You instantly know the direction of north from your current position. The spell is effective in any environment in which “north” exists, but it may not work in extraplanar settings. Your knowledge of north is correct at the moment of casting, but you can get lost again within moments if you don’t find some external reference point to help you keep track of direction.

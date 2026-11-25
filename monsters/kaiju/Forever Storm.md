@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Forever Storm
 
-  - Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Air, Kaiju)
-  - **Hit Dice**: 32d10+480 (656 hp)
-  - **Initiative**: +11
-  - **Speed**: 80 ft. (16 squares), fly 200 ft. (average), swift flight
-  - **Armor Class**: 45 (+7 Dex, +36 natural, –8 size), touch 9, flat-footed 38
-  - **Base Attack**: +32; **CMB**: +57 (+61 bull rush); **CMD**: 74 (76 vs. bull rush)
-  - **Attack**: Bite +41 melee (6d6+17/19–20) or talon +41 melee (3d8+17) or tail slap +41 melee (10d6+8/19–20 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
-  - **Full Attack**: 2 bites +41 melee (6d6+17/19–20) and 2 talons +41 melee (3d8+17) and tail slap +36 melee (10d6+8/19–20 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
-  - **Space/Reach**: 50 ft./50 ft. (75 ft. with tail)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (5d6), blinding flash, [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]], [[rangoric-srd/monsters/abilities/Hurl Foe|hurl foe]], hurricane, thunderous blast
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 600 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 30, electrified corpse, [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], rebirth, [[rangoric-srd/monsters/abilities/Recovery|recovery]], [[rangoric-srd/monsters/abilities/Massive|massive]], storm flier, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 20/epic, immunity to ability damage, ability drain, death effects, disease, electricity, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] and fear, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 30, cold 30, fire 30, negative energy 30 and sonic 30
-  - **Saves**: Fort +33, Ref +25, Will +21
-  - **Abilities**: Str 44, Dex 25, Con 41, Int 3, Wis 29, Cha 25
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +24, [[rangoric-srd/skills/Perception|Perception]] +38
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Greater Vital Strike|Greater Vital Strike]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (tail slap), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Wingover|Wingover]]
-  - **Environment**: Warm mountains
-  - **Organization**: Solitary (unique)
-  - **Challenge Rating**: 27
-  - **Treasure**: Incidental
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Air, Kaiju)
+- **Hit Dice**: 32d10+480 (656 hp)
+- **Initiative**: +11
+- **Speed**: 80 ft. (16 squares), fly 200 ft. (average), swift flight
+- **Armor Class**: 45 (+7 Dex, +36 natural, –8 size), touch 9, flat-footed 38
+- **Base Attack**: +32; **CMB**: +57 (+61 bull rush); **CMD**: 74 (76 vs. bull rush)
+- **Attack**: Bite +41 melee (6d6+17/19–20) or talon +41 melee (3d8+17) or tail slap +41 melee (10d6+8/19–20 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
+- **Full Attack**: 2 bites +41 melee (6d6+17/19–20) and 2 talons +41 melee (3d8+17) and tail slap +36 melee (10d6+8/19–20 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
+- **Space/Reach**: 50 ft./50 ft. (75 ft. with tail)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (5d6), blinding flash, [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]], [[rangoric-srd/monsters/abilities/Hurl Foe|hurl foe]], hurricane, thunderous blast
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 600 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 30, electrified corpse, [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], rebirth, [[rangoric-srd/monsters/abilities/Recovery|recovery]], [[rangoric-srd/monsters/abilities/Massive|massive]], storm flier, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 20/epic, immunity to ability damage, ability drain, death effects, disease, electricity, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] and fear, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 30, cold 30, fire 30, negative energy 30 and sonic 30
+- **Saves**: Fort +33, Ref +25, Will +21
+- **Abilities**: Str 44, Dex 25, Con 41, Int 3, Wis 29, Cha 25
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +24, [[rangoric-srd/skills/Perception|Perception]] +38
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Greater Vital Strike|Greater Vital Strike]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (tail slap), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Wingover|Wingover]]
+- **Environment**: Warm mountains
+- **Organization**: Solitary (unique)
+- **Challenge Rating**: 27
+- **Treasure**: Incidental
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The Forever Storm is believed by many cultures to be the cause of seasonal typhoons or other great storms—such tempests being a manifestation of the Forever Storm's monstrous breaths as she exhales during her long slumber every season. While this kaiju is not in fact responsible for the world's storms, her powers over wind and lightning are significant, and when she is vexed to rampage, the effects of her hurricanes can be as devastating to a region as her more direct attacks.
 
@@ -82,9 +82,9 @@ The Forever Storm understands Auran but can't speak.
 
 **Electrified Corpse (Su)**: If the Forever Storm is slain, her corpse crackles and flashes with pulses of electrical light if she has not used her rebirth ability that year. Any creature that touches her corpse takes 3d6 points of electricity damage. Even if the Forever Storm's body is destroyed, the site of her death continues to carry this electrical charge for 1 minute, or until the Forever Storm is reborn, whichever comes first.
 
-**Hurricane (Sp)**: Once per day, the Forever Storm can create a supernatural hurricane surrounding herself. This effect functions as *[[rangoric-srd/spells/Control Weather|control weather]]*, save that it affects an area with a 4-mile radius, lasts for 24 hours, and can only be used to create hurricane-force winds. The hurricane created is static, and features a calm eye at the center with a 500-foot radius.
+**Hurricane (Sp)**: Once per day, the Forever Storm can create a supernatural hurricane surrounding herself. This effect functions as _[[rangoric-srd/spells/Control Weather|control weather]]_, save that it affects an area with a 4-mile radius, lasts for 24 hours, and can only be used to create hurricane-force winds. The hurricane created is static, and features a calm eye at the center with a 500-foot radius.
 
-**Rebirth (Su)**: The Forever Storm remains dead for only 1 minute before she comes back to life, as if via a *[[rangoric-srd/spells/True Resurrection|true resurrection]]* spell. The Forever Storm rises from the exact same position she occupied when she died, and typically takes advantage of this second chance to use her swift flight to escape as soon as possible. The Forever Storm can only be reborn in this manner once per year; if she is slain a second time before a year has passed, her death is permanent and her corpse does not become electrified. This ability replaces the Forever Storm's ability to immediately heal damage that would normally kill her, granted by her [[rangoric-srd/monsters/abilities/Recovery|recovery]] ability, but does not replace the other defenses granted by recovery.
+**Rebirth (Su)**: The Forever Storm remains dead for only 1 minute before she comes back to life, as if via a _[[rangoric-srd/spells/True Resurrection|true resurrection]]_ spell. The Forever Storm rises from the exact same position she occupied when she died, and typically takes advantage of this second chance to use her swift flight to escape as soon as possible. The Forever Storm can only be reborn in this manner once per year; if she is slain a second time before a year has passed, her death is permanent and her corpse does not become electrified. This ability replaces the Forever Storm's ability to immediately heal damage that would normally kill her, granted by her [[rangoric-srd/monsters/abilities/Recovery|recovery]] ability, but does not replace the other defenses granted by recovery.
 
 **Storm Flier (Ex)**: The Forever Storm does not take penalties on Acrobatics checks when flying in strong or more powerful winds.
 

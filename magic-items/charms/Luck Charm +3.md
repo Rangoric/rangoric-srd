@@ -16,8 +16,8 @@ tags: [rangoric, rangoric/magic-item]
 
 # Luck Charm +3
 
-*A [[rangoric-srd/magic-items/charms/Charms|charm]], worn on a [[rangoric-srd/magic-items/charms/Charm Bracelet|charm bracelet]].*
+_A [[rangoric-srd/magic-items/charms/Charms|charm]], worn on a [[rangoric-srd/magic-items/charms/Charm Bracelet|charm bracelet]]._
 
-Often mistakenly called “luck stones,” these *charms* are made from a number of precious materials, thereby making mundane identification nearly impossible. These *charms* bestow on the wearer a +1, +2, +3, or +4 luck bonus to attack and damage rolls.
+Often mistakenly called “luck stones,” these _charms_ are made from a number of precious materials, thereby making mundane identification nearly impossible. These _charms_ bestow on the wearer a +1, +2, +3, or +4 luck bonus to attack and damage rolls.
 
-CL 7th; [[rangoric-srd/feats/Craft Charms and Bracelets|Craft Charms and Bracelets]], *[[rangoric-srd/spells/Divine Favor|divine favor]]*; Price 22,500 gp.
+CL 7th; [[rangoric-srd/feats/Craft Charms and Bracelets|Craft Charms and Bracelets]], _[[rangoric-srd/spells/Divine Favor|divine favor]]_; Price 22,500 gp.

@@ -30,7 +30,7 @@ Effect words determine the overall outcome of a wordspell. A wordspell can conta
 
 **Description**: This paragraph describes the effects of the word when arranged in a wordspell.
 
-**Boost**: If the effect word can be boosted by the *[[rangoric-srd/unearthed-arcana/Words of Power/Meta Words/Boost|boost]]* meta word, the effects are listed here. See the meta word section for more details.
+**Boost**: If the effect word can be boosted by the _[[rangoric-srd/unearthed-arcana/Words of Power/Meta Words/Boost|boost]]_ meta word, the effects are listed here. See the meta word section for more details.
 
 ## Acid Words
 

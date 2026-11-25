@@ -41,25 +41,25 @@ tags: [rangoric, rangoric/monster]
 
 # Water Elemental, Small
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Elemental, Extraplanar, Water)
-  - **Hit Dice**: 2d10+2 (13 hp)
-  - **Initiative**: +0
-  - **Speed**: 20 ft. (4 squares), swim 90 ft.
-  - **Armor Class**: 17 (+6 natural, +1 size), touch 11, flat-footed 17
-  - **Base Attack**: +2; **CMB**: +3; **CMD**: 13
-  - **Attack**: Slam +5 melee (1d6+3)
-  - **Full Attack**: Slam +5 melee (1d6+3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/elemental/Water Elemental#^drench|Drench]], [[rangoric-srd/monsters/elemental/Water Elemental#^vortex|vortex]] (DC 13), [[rangoric-srd/monsters/elemental/Water Elemental#^water-mastery|water mastery]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-  - **Saves**: Fort +4, Ref +3, Will +0
-  - **Abilities**: Str 14, Dex 10, Con 13, Int 4, Wis 11, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +4, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +8, [[rangoric-srd/skills/Theology|Theology]] +1
-  - **Feats**: [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Any (Elemental Plane of Water)
-  - **Organization**: Solitary, pair, or gang (3–8)
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 3 HD (Small)
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Elemental, Extraplanar, Water)
+- **Hit Dice**: 2d10+2 (13 hp)
+- **Initiative**: +0
+- **Speed**: 20 ft. (4 squares), swim 90 ft.
+- **Armor Class**: 17 (+6 natural, +1 size), touch 11, flat-footed 17
+- **Base Attack**: +2; **CMB**: +3; **CMD**: 13
+- **Attack**: Slam +5 melee (1d6+3)
+- **Full Attack**: Slam +5 melee (1d6+3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/elemental/Water Elemental#^drench|Drench]], [[rangoric-srd/monsters/elemental/Water Elemental#^vortex|vortex]] (DC 13), [[rangoric-srd/monsters/elemental/Water Elemental#^water-mastery|water mastery]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
+- **Saves**: Fort +4, Ref +3, Will +0
+- **Abilities**: Str 14, Dex 10, Con 13, Int 4, Wis 11, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +4, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +8, [[rangoric-srd/skills/Theology|Theology]] +1
+- **Feats**: [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Any (Elemental Plane of Water)
+- **Organization**: Solitary, pair, or gang (3–8)
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 3 HD (Small)
+- **Level Adjustment**: —

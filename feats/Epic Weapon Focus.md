@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, fighter-bonus, epic]
 
 # Epic Weapon Focus
 
-Prerequisite: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] in the chosen weapon.  
+Prerequisite: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] in the chosen weapon.
 
 Benefit: Add a +2 bonus to all attack rolls the character makes using the selected weapon.
 

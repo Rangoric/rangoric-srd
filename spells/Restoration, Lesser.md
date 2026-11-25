@@ -34,15 +34,15 @@ tags: [rangoric, rangoric/spell]
 
 # Restoration, Lesser
 
-*Conjuration (Healing)*
+_Conjuration (Healing)_
 
-  - **Level**: Alc 2, Apo 2, Clr 2, Drd 2, Hun 2, Inq 2, Mes 2, Pal 1, Sha 2, Spi 2, Tot 2
-  - **Components**: V, S
-  - **Casting Time**: 3 rounds
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Alc 2, Apo 2, Clr 2, Drd 2, Hun 2, Inq 2, Mes 2, Pal 1, Sha 2, Spi 2, Tot 2
+- **Components**: V, S
+- **Casting Time**: 3 rounds
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 Lesser restoration dispels any magical effects reducing one of the subject’s ability scores or cures 1d4 points of temporary ability damage to one of the subject’s ability scores. It also eliminates any fatigue suffered by the character, and improves an exhausted condition to fatigued. It does not restore permanent ability drain.

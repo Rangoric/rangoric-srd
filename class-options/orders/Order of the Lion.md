@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Order of the Lion
 
-*A [[rangoric-srd/classes/Cavalier#^cavalier-order|cavalier order]].*
+_A [[rangoric-srd/classes/Cavalier#^cavalier-order|cavalier order]]._
 
 A cavalier who belongs to this order has pledged himself to a sovereign; be it a king, queen, or even the local warlord. Cavaliers of this order are stalwart and dedicated to their cause, willing to go any length to ensure the safety of their lord and his domain.
 

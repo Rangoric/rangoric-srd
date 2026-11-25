@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This metal headband grants a +5 insight bonus on [[rangoric-srd/skills/Mysticism|Mysticism]] checks made to identify a spell as it is being cast. Furthermore, once per day the wearer can attempt to counter a spell by casting the appropriate spell as an immediate action instead of doing so with a readied action. The wearer must first identify the spell being cast before countering a spell with this headband.
 
-Strong abjuration; CL 13th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Spell Turning|spell turning]]*; Price 20,000 gp; Cost 10,000 gp; Weight 1 lb.
+Strong abjuration; CL 13th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Spell Turning|spell turning]]_; Price 20,000 gp; Cost 10,000 gp; Weight 1 lb.

@@ -23,24 +23,24 @@ The same checks apply when you are concentrating on or directing an active spell
 
 ## Distractions
 
-In this table, *level* is the level of the spell you're casting or the power you're manifesting.
+In this table, _level_ is the level of the spell you're casting or the power you're manifesting.
 
-| Distraction | DC |
-| --- | --- |
-| Taking damage | 10 + damage taken + level |
-| Taking continuous damage | 10 + half the damage the source last dealt + level |
-| Damaged by a spell or power | 10 + damage + level |
-| Distracted by a spell or power in some other way | its save DC + level |
-| [[rangoric-srd/rules/conditions/Grappled (Condition)\|Grappled]] or [[rangoric-srd/rules/conditions/Pinned (Condition)\|pinned]] | 20 + level |
-| Casting a spell with a somatic component while grappled | 50 + level |
-| Casting a spell with a [[rangoric-srd/spells/Magic Overview#^thought-component\|thought component]] | The distraction’s DC + 10 |
-| Vigorous motion | 10 + level |
-| Violent motion | 15 + level |
-| High wind carrying blinding rain or sleet | 5 + level |
-| Wind-driven hail, dust, or debris | 10 + level |
-| Casting or manifesting on the defensive | 15 + level |
-| [[rangoric-srd/rules/Special Abilities and Conditions#^entangled\|Entangled]] | 15 + level |
-| Manifesting a power without its display | 15 + level |
+| Distraction                                                                                                                      | DC                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| Taking damage                                                                                                                    | 10 + damage taken + level                          |
+| Taking continuous damage                                                                                                         | 10 + half the damage the source last dealt + level |
+| Damaged by a spell or power                                                                                                      | 10 + damage + level                                |
+| Distracted by a spell or power in some other way                                                                                 | its save DC + level                                |
+| [[rangoric-srd/rules/conditions/Grappled (Condition)\|Grappled]] or [[rangoric-srd/rules/conditions/Pinned (Condition)\|pinned]] | 20 + level                                         |
+| Casting a spell with a somatic component while grappled                                                                          | 50 + level                                         |
+| Casting a spell with a [[rangoric-srd/spells/Magic Overview#^thought-component\|thought component]]                              | The distraction’s DC + 10                          |
+| Vigorous motion                                                                                                                  | 10 + level                                         |
+| Violent motion                                                                                                                   | 15 + level                                         |
+| High wind carrying blinding rain or sleet                                                                                        | 5 + level                                          |
+| Wind-driven hail, dust, or debris                                                                                                | 10 + level                                         |
+| Casting or manifesting on the defensive                                                                                          | 15 + level                                         |
+| [[rangoric-srd/rules/Special Abilities and Conditions#^entangled\|Entangled]]                                                    | 15 + level                                         |
+| Manifesting a power without its display                                                                                          | 15 + level                                         |
 
 **Taking Damage**: The damage counts if it comes between when you start and when you finish (for a spell or power that takes 1 round or more), or if it comes in response to what you're doing, such as an attack of opportunity it provokes or a readied attack. Continuous damage counts as half dealt while you're casting or manifesting. If the last damage dealt was the last the effect could deal, the damage is over and doesn't distract you. Repeated damage doesn't count as continuous.
 

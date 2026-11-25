@@ -27,7 +27,7 @@ Perks:
 - Superior Darkvision: Duergar can see in the dark up to 120 feet; see [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] for how it works.
 - Duergar Immunities: Duergar are immune to paralysis, phantasms, and poison. They gain a +2 racial bonus on saving throws against spells and spell-like abilities.
 - Stability: Duergar have the [[rangoric-srd/races/Dwarf|dwarf]]'s [[rangoric-srd/races/Dwarf#^stability|stability]].
-- Spell-Like Abilities: Duergar can use *[[rangoric-srd/spells/Enlarge Person|enlarge person]]* and *[[rangoric-srd/spells/Invisibility|invisibility]]* once each per day as spell-like abilities, affecting only themselves (caster level equal to the duergar's character level).
+- Spell-Like Abilities: Duergar can use _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ and _[[rangoric-srd/spells/Invisibility|invisibility]]_ once each per day as spell-like abilities, affecting only themselves (caster level equal to the duergar's character level).
 - Light Sensitivity: Duergar have [[rangoric-srd/rules/Special Abilities and Conditions#Light Sensitivity|light sensitivity]].
 - Stealthy: +4 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks.
 
@@ -53,17 +53,17 @@ Level Adjustment: +1 (see [[rangoric-srd/monsters/Monsters as Races#^level-adjus
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 40 years | +3d6 | +5d6 | +7d6 |
+| --------- | --------- | ----------- | ------- |
+| 40 years  | +3d6      | +5d6        | +7d6    |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 125 years | 188 years | 250 years | +2d% years |
+| Middle Age | Old       | Venerable | Maximum Age |
+| ---------- | --------- | --------- | ----------- |
+| 125 years  | 188 years | 250 years | +2d% years  |
 
 | Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Male | 3 ft. 9 in. | +2d4 | 150 lb. | × 7 lb. |
-| Female | 3 ft. 7 in. | +2d4 | 120 lb. | × 7 lb. |
+| ------ | ----------- | --------------- | ----------- | --------------- |
+| Male   | 3 ft. 9 in. | +2d4            | 150 lb.     | × 7 lb.         |
+| Female | 3 ft. 7 in. | +2d4            | 120 lb.     | × 7 lb.         |
 
 ### Description
 
@@ -73,17 +73,17 @@ Duergar dwell in subterranean caverns far from the touch of light. They detest a
 
 A duergar can take any of these in place of the traits they replace. The four marked "through Dwarf Traits" are the dwarf traits a duergar can take through its **Dwarf Traits** alternate trait: any that replaces stability, and any that replaces hardy, which a duergar takes by giving up duergar immunities instead (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Blood Enmity\|Blood Enmity]] | The invisibility spell-like ability |
-| [[rangoric-srd/races/racial-traits/Daysighted\|Daysighted]] | Light sensitivity; modifies: superior darkvision |
-| [[rangoric-srd/races/racial-traits/Deep Magic\|Deep Magic]] | The enlarge person and invisibility spell-like abilities |
-| [[rangoric-srd/races/racial-traits/Ironskinned\|Ironskinned]] | The enlarge person spell-like ability |
-| [[rangoric-srd/races/racial-traits/Magic Resistant\|Magic Resistant]] | Duergar immunities (through Dwarf Traits) |
-| [[rangoric-srd/races/racial-traits/Mountaineer (Racial Trait)\|Mountaineer]] | Stability (through Dwarf Traits) |
-| [[rangoric-srd/races/racial-traits/Relentless\|Relentless]] | Stability (through Dwarf Traits) |
-| [[rangoric-srd/races/racial-traits/Stubborn\|Stubborn]] | Duergar immunities (through Dwarf Traits) |
-| [[rangoric-srd/races/racial-traits/Twilight-Touched\|Twilight-Touched]] | The invisibility spell-like ability |
+| Trait                                                                        | Replaces                                                 |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------- |
+| [[rangoric-srd/races/racial-traits/Blood Enmity\|Blood Enmity]]              | The invisibility spell-like ability                      |
+| [[rangoric-srd/races/racial-traits/Daysighted\|Daysighted]]                  | Light sensitivity; modifies: superior darkvision         |
+| [[rangoric-srd/races/racial-traits/Deep Magic\|Deep Magic]]                  | The enlarge person and invisibility spell-like abilities |
+| [[rangoric-srd/races/racial-traits/Ironskinned\|Ironskinned]]                | The enlarge person spell-like ability                    |
+| [[rangoric-srd/races/racial-traits/Magic Resistant\|Magic Resistant]]        | Duergar immunities (through Dwarf Traits)                |
+| [[rangoric-srd/races/racial-traits/Mountaineer (Racial Trait)\|Mountaineer]] | Stability (through Dwarf Traits)                         |
+| [[rangoric-srd/races/racial-traits/Relentless\|Relentless]]                  | Stability (through Dwarf Traits)                         |
+| [[rangoric-srd/races/racial-traits/Stubborn\|Stubborn]]                      | Duergar immunities (through Dwarf Traits)                |
+| [[rangoric-srd/races/racial-traits/Twilight-Touched\|Twilight-Touched]]      | The invisibility spell-like ability                      |
 
 ### Class Bonuses
 
@@ -95,6 +95,6 @@ A duergar gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
+| Archetype                                                                               | Class                               |
+| --------------------------------------------------------------------------------------- | ----------------------------------- |
 | [[rangoric-srd/class-options/archetypes/monk/Gray Disciple (Archetype)\|Gray Disciple]] | [[rangoric-srd/classes/Monk\|Monk]] |

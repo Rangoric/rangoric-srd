@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Water Domain
 
-*A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]], which a druid can also take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]].*
+_A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]], which a druid can also take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]._
 
 **Subdomains**: [[rangoric-srd/class-options/domains/Ice Subdomain|Ice]], [[rangoric-srd/class-options/domains/Oceans Subdomain|Oceans]].
 
@@ -33,15 +33,15 @@ You can manipulate water and mist and ice, conjure creatures of water, and resis
 
 Where a level has two spells, the cleric prepares [[rangoric-srd/class-options/domains/Domains#^domains-two-spells|either one]] in the domain spell slot.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Obscuring Mist\|Obscuring Mist]] | Fog surrounds you. |
-| 2nd | [[rangoric-srd/spells/Fog Cloud\|Fog Cloud]] | Fog obscures vision. |
-| 3rd | [[rangoric-srd/spells/Water Breathing\|Water Breathing]] | Subjects can breathe underwater. |
-| 4th | [[rangoric-srd/spells/Control Water\|Control Water]] | Raises or lowers bodies of water. |
-| 5th | [[rangoric-srd/spells/Ice Storm\|Ice Storm]] | Hail deals 5d6 damage in cylinder 40 ft. across. |
-| 6th | [[rangoric-srd/spells/Cone of Cold\|Cone of Cold]] | 1d6/level cold damage. |
-| 7th | [[rangoric-srd/spells/Acid Fog\|Acid Fog]] | Fog deals acid damage. |
-| 7th | [[rangoric-srd/spells/Elemental Body IV\|Elemental Body IV]] (M) (water only) | You become a Small to Huge elemental. |
-| 8th | [[rangoric-srd/spells/Horrid Wilting\|Horrid Wilting]] | Deals 1d6/level damage within 30 ft. |
-| 9th | [[rangoric-srd/spells/Elemental Swarm\|Elemental Swarm]] (cast as a water spell only) | Summons multiple elementals. |
+| Level | Spell                                                                                 | Brief Description                                |
+| ----- | ------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| 1st   | [[rangoric-srd/spells/Obscuring Mist\|Obscuring Mist]]                                | Fog surrounds you.                               |
+| 2nd   | [[rangoric-srd/spells/Fog Cloud\|Fog Cloud]]                                          | Fog obscures vision.                             |
+| 3rd   | [[rangoric-srd/spells/Water Breathing\|Water Breathing]]                              | Subjects can breathe underwater.                 |
+| 4th   | [[rangoric-srd/spells/Control Water\|Control Water]]                                  | Raises or lowers bodies of water.                |
+| 5th   | [[rangoric-srd/spells/Ice Storm\|Ice Storm]]                                          | Hail deals 5d6 damage in cylinder 40 ft. across. |
+| 6th   | [[rangoric-srd/spells/Cone of Cold\|Cone of Cold]]                                    | 1d6/level cold damage.                           |
+| 7th   | [[rangoric-srd/spells/Acid Fog\|Acid Fog]]                                            | Fog deals acid damage.                           |
+| 7th   | [[rangoric-srd/spells/Elemental Body IV\|Elemental Body IV]] (M) (water only)         | You become a Small to Huge elemental.            |
+| 8th   | [[rangoric-srd/spells/Horrid Wilting\|Horrid Wilting]]                                | Deals 1d6/level damage within 30 ft.             |
+| 9th   | [[rangoric-srd/spells/Elemental Swarm\|Elemental Swarm]] (cast as a water spell only) | Summons multiple elementals.                     |

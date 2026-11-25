@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Shining
 
-A drawn *shining* weapon lights a 100-foot radius around itself. A creature with [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] within 10 feet of the weapon takes a −1 penalty on attack rolls against its wielder. Only melee weapons can be shining.
+A drawn _shining_ weapon lights a 100-foot radius around itself. A creature with [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] within 10 feet of the weapon takes a −1 penalty on attack rolls against its wielder. Only melee weapons can be shining.
 
-CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/rules/star magic/stars/Star of Light|Star of Light]]*; Price +1 bonus.
+CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/rules/star magic/stars/Star of Light|Star of Light]]_; Price +1 bonus.

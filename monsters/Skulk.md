@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Skulk
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Skulk)
-  - **Hit Dice**: 3d8+3 (16 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 12 (+2 Dex), touch 12, flat-footed 10
-  - **Base Attack**: +2; **CMB**: +2; **CMD**: 14
-  - **Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +2 melee (1d6/19–20) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +4 ranged (1d4/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +2 melee (1d6/19–20); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +4 ranged (1d4/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Sneak attack +1d6
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Camouflaged Step|camouflaged step]], [[rangoric-srd/monsters/abilities/Chameleon Skin|chameleon skin]]
-  - **Saves**: Fort +2, Ref +5, Will +3
-  - **Abilities**: Str 11, Dex 14, Con 13, Int 10, Wis 14, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +16
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
-  - **Environment**: Any land or underground
-  - **Organization**: Solitary, pair, band (3–8), or tribe (9–16)
-  - **Challenge Rating**: 1
-  - **Treasure**: Standard (short sword, 2 daggers, other treasure)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Skulk)
+- **Hit Dice**: 3d8+3 (16 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 12 (+2 Dex), touch 12, flat-footed 10
+- **Base Attack**: +2; **CMB**: +2; **CMD**: 14
+- **Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +2 melee (1d6/19–20) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +4 ranged (1d4/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +2 melee (1d6/19–20); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +4 ranged (1d4/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Sneak attack +1d6
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Camouflaged Step|camouflaged step]], [[rangoric-srd/monsters/abilities/Chameleon Skin|chameleon skin]]
+- **Saves**: Fort +2, Ref +5, Will +3
+- **Abilities**: Str 11, Dex 14, Con 13, Int 10, Wis 14, Cha 7
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +16
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
+- **Environment**: Any land or underground
+- **Organization**: Solitary, pair, band (3–8), or tribe (9–16)
+- **Challenge Rating**: 1
+- **Treasure**: Standard (short sword, 2 daggers, other treasure)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Skulks are a race of cowardly and lazy humanoids that live on the fringes of society, stealing what they need and doing what they must—even committing casual murder—to survive. Their unabashed cowardice is perhaps their most widely known trait, but skulks don't see themselves as particularly craven. Instead, they view their dishonorable behaviors as the most expedient method of survival. They hate most other humanoids, viewing them as lazy and foolish, and think nothing of sneaking into a home, killing all the residents, and burglarizing what they can carry off without getting caught.
 

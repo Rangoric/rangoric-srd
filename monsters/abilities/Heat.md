@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Heat
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “heat (1d6 fire)”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “heat (1d6 fire)”, on the Special Attacks line.
 
 The creature generates so much heat that its mere touch deals additional fire damage. The creature's metallic melee weapons also conduct this heat.

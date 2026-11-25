@@ -38,26 +38,26 @@ The ranger’s class skills (and the key ability for each skill) are [[rangoric-
 
 | Level | Special                                | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th |
 | ----- | -------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| 1st   | 1st favored enemy, Track, wild empathy | — | — | — | — |
-| 2nd   | Combat style feat | — | — | — | — |
-| 3rd   | Endurance, 1st favored terrain | — | — | — | — |
-| 4th   | Hunter's bond | 0 | — | — | — |
-| 5th   | 2nd favored enemy | 1 | — | — | — |
-| 6th   | Combat style feat | 1 | — | — | — |
-| 7th   | Woodland stride | 1 | 0 | — | — |
-| 8th   | Swift tracker, 2nd favored terrain | 1 | 1 | — | — |
-| 9th   | Evasion | 2 | 1 | — | — |
-| 10th  | 3rd favored enemy, combat style feat | 2 | 1 | 0 | — |
-| 11th  | Quarry | 2 | 1 | 1 | — |
-| 12th  | Camouflage | 2 | 2 | 1 | — |
-| 13th  | 3rd favored terrain | 3 | 2 | 1 | 0 |
-| 14th  | Combat style feat | 3 | 2 | 1 | 1 |
-| 15th  | 4th favored enemy | 3 | 2 | 2 | 1 |
-| 16th  | Improved evasion | 3 | 3 | 2 | 1 |
-| 17th  | Hide in plain sight | 4 | 3 | 2 | 1 |
-| 18th  | 4th favored terrain, combat style feat | 4 | 3 | 2 | 2 |
-| 19th  | Improved quarry | 4 | 3 | 3 | 2 |
-| 20th  | 5th favored enemy, master hunter | 4 | 4 | 3 | 3 |
+| 1st   | 1st favored enemy, Track, wild empathy | —                   | —                   | —                   | —                   |
+| 2nd   | Combat style feat                      | —                   | —                   | —                   | —                   |
+| 3rd   | Endurance, 1st favored terrain         | —                   | —                   | —                   | —                   |
+| 4th   | Hunter's bond                          | 0                   | —                   | —                   | —                   |
+| 5th   | 2nd favored enemy                      | 1                   | —                   | —                   | —                   |
+| 6th   | Combat style feat                      | 1                   | —                   | —                   | —                   |
+| 7th   | Woodland stride                        | 1                   | 0                   | —                   | —                   |
+| 8th   | Swift tracker, 2nd favored terrain     | 1                   | 1                   | —                   | —                   |
+| 9th   | Evasion                                | 2                   | 1                   | —                   | —                   |
+| 10th  | 3rd favored enemy, combat style feat   | 2                   | 1                   | 0                   | —                   |
+| 11th  | Quarry                                 | 2                   | 1                   | 1                   | —                   |
+| 12th  | Camouflage                             | 2                   | 2                   | 1                   | —                   |
+| 13th  | 3rd favored terrain                    | 3                   | 2                   | 1                   | 0                   |
+| 14th  | Combat style feat                      | 3                   | 2                   | 1                   | 1                   |
+| 15th  | 4th favored enemy                      | 3                   | 2                   | 2                   | 1                   |
+| 16th  | Improved evasion                       | 3                   | 3                   | 2                   | 1                   |
+| 17th  | Hide in plain sight                    | 4                   | 3                   | 2                   | 1                   |
+| 18th  | 4th favored terrain, combat style feat | 4                   | 3                   | 2                   | 2                   |
+| 19th  | Improved quarry                        | 4                   | 3                   | 3                   | 2                   |
+| 20th  | 5th favored enemy, master hunter       | 4                   | 4                   | 3                   | 3                   |
 
 ###### Class Features
 
@@ -106,19 +106,19 @@ If a specific terrain falls into more than one category of favored terrain, the 
 
 **Table: Ranger Favored Terrains** ^table-ranger-favored-terrains
 
-| Favored Terrain |
-| --- |
-| Cold (ice, glaciers, snow, and tundra) |
-| Desert (sand and wastelands) |
-| Forest (coniferous and deciduous) |
-| Jungle |
-| Mountain (including hills) |
-| Plains |
+| Favored Terrain                              |
+| -------------------------------------------- |
+| Cold (ice, glaciers, snow, and tundra)       |
+| Desert (sand and wastelands)                 |
+| Forest (coniferous and deciduous)            |
+| Jungle                                       |
+| Mountain (including hills)                   |
+| Plains                                       |
 | Planes (pick one, other than Material Plane) |
-| Swamp |
-| Underground (caves and dungeons) |
-| Urban (buildings, streets, and sewers) |
-| Water (above and below the surface) |
+| Swamp                                        |
+| Underground (caves and dungeons)             |
+| Urban (buildings, streets, and sewers)       |
+| Water (above and below the surface)          |
 
 **Hunter’s Bond (Ex)**: At 4th level, a ranger forms a bond with his hunting companions. This bond can take one of two forms. Once the form is chosen, it cannot be changed. The first is a bond to his companions. This bond allows him to spend a move action to grant half his favored enemy bonus against a single target of the appropriate type to all allies within 30 feet who can see or hear him. This bonus lasts for a number of rounds equal to the ranger’s Wisdom modifier (minimum 1). This bonus does not stack with any favored enemy bonuses possessed by his allies; they use whichever bonus is higher. ^ranger-hunters-bond
 

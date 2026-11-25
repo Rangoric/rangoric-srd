@@ -47,16 +47,16 @@ Bonus Languages:
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 15 years | +1d4 | +1d6 | +2d6 |
+| --------- | --------- | ----------- | ------- |
+| 15 years  | +1d4      | +1d6        | +2d6    |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 35 years | 53 years | 70 years | +2d20 years |
+| Middle Age | Old      | Venerable | Maximum Age |
+| ---------- | -------- | --------- | ----------- |
+| 35 years   | 53 years | 70 years  | +2d20 years |
 
 | Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Female | 4 ft. 2 in. | +2d4 | 85 lb. | × 5 lb. |
+| ------ | ----------- | --------------- | ----------- | --------------- |
+| Female | 4 ft. 2 in. | +2d4            | 85 lb.      | × 5 lb.         |
 
 ### Description
 
@@ -66,11 +66,11 @@ Changelings are the offspring of hags and their lovers taken through magic or ma
 
 A changeling can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Mist Child\|Mist Child]] | Hulking changeling |
-| [[rangoric-srd/races/racial-traits/Object of Desire\|Object of Desire]] | Green widow |
-| [[rangoric-srd/races/racial-traits/Ocean's Daughter\|Ocean's Daughter]] | Sea lungs |
+| Trait                                                                   | Replaces           |
+| ----------------------------------------------------------------------- | ------------------ |
+| [[rangoric-srd/races/racial-traits/Mist Child\|Mist Child]]             | Hulking changeling |
+| [[rangoric-srd/races/racial-traits/Object of Desire\|Object of Desire]] | Green widow        |
+| [[rangoric-srd/races/racial-traits/Ocean's Daughter\|Ocean's Daughter]] | Sea lungs          |
 
 ### Class Bonuses
 
@@ -82,6 +82,6 @@ A changeling gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonu
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
+| Archetype                                                                            | Class                                 |
+| ------------------------------------------------------------------------------------ | ------------------------------------- |
 | [[rangoric-srd/class-options/archetypes/witch/Dreamweaver (Archetype)\|Dreamweaver]] | [[rangoric-srd/classes/Witch\|Witch]] |

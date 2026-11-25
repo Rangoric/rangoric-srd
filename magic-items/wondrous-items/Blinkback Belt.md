@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 A set of clips is attached to this segmented belt constructed of metallic links. Up to two one-handed melee weapons or up to four light melee weapons can be hung from the belt in straps or sheaths. When the wearer draws a weapon attached to this belt and throws it before the end of her next turn, the weapon teleports back to its strap or sheath immediately after the attack is resolved.
 
-Moderate conjuration; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Teleport Object|teleport object]]*; Price 5,000 gp; Cost 2,500 gp; Weight 2 lbs.
+Moderate conjuration; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Teleport Object|teleport object]]_; Price 5,000 gp; Cost 2,500 gp; Weight 2 lbs.

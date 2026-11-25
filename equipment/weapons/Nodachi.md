@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades, weapon-group/pole-a
 
 # Nodachi
 
-*Martial two-handed melee weapon (brace).* Cost 60 gp; Dmg 1d8 (S), 1d10 (M); Critical 18–20/x2; Weight 8 lb.; Type Slashing or piercing. ^stats
+_Martial two-handed melee weapon (brace)._ Cost 60 gp; Dmg 1d8 (S), 1d10 (M); Critical 18–20/x2; Weight 8 lb.; Type Slashing or piercing. ^stats
 
 This very long two-handed weapon has a slender but wickedly sharp 4-foot-long blade at one end. It is predominantly used by ground troops to attack mounted warriors, and can be used to hack riders from their mounts or set to receive a charge.
 

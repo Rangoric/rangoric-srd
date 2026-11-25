@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/word-of-power]
 
 # Servitor I
 
-*One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Summoning Words|Summoning group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]].*
+_One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Summoning Words|Summoning group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]]._
 
 **School** conjuration (summoning)
 
@@ -29,7 +29,7 @@ tags: [rangoric, rangoric/word-of-power]
 
 **Target Restrictions** selected
 
-A wordspell with this effect word summons a creature to do your bidding. This creature attacks your opponents to the best of its ability each turn if able. If you can communicate with the creature, you can direct its attacks or instruct it to perform other actions. A wordspell with this effect word summons one creature from the 1st-level list of *[[rangoric-srd/spells/Summon Monster I|summon monster I]]*. If a wordspell with this effect word is cast by a ranger or druid, it instead summons a creature from the 1st-level list of *[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature’s ally I]]*.
+A wordspell with this effect word summons a creature to do your bidding. This creature attacks your opponents to the best of its ability each turn if able. If you can communicate with the creature, you can direct its attacks or instruct it to perform other actions. A wordspell with this effect word summons one creature from the 1st-level list of _[[rangoric-srd/spells/Summon Monster I|summon monster I]]_. If a wordspell with this effect word is cast by a ranger or druid, it instead summons a creature from the 1st-level list of _[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature’s ally I]]_.
 
 A summoned creature cannot summon or conjure other creatures, nor can its use teleportation or planar travel abilities. Creatures cannot be summoned into an environment that cannot support them. Creatures summoned using a wordspell with this effect word cannot use spells or spell-like abilities with expensive material components.
 

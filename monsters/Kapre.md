@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Kapre
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
-  - **Hit Dice**: 15d8+60 (127 hp)
-  - **Initiative**: +2
-  - **Speed**: 50 ft. (10 squares), climb 30 ft.
-  - **Armor Class**: 24 (+2 Dex, +14 natural, –2 size), touch 10, flat-footed 22
-  - **Base Attack**: +11; **CMB**: +21; **CMD**: 33
-  - **Attack**: Slam +17 melee (2d6+12)
-  - **Full Attack**: 2 slams +17 melee (2d6+12)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blow Smoke|Blow smoke]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], confounding (100 ft., DC 21), [[rangoric-srd/monsters/abilities/Tree Meld|tree meld]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/slashing, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-  - **Saves**: Fort +12, Ref +9, Will +9
-  - **Abilities**: Str 26, Dex 15, Con 17, Int 12, Wis 15, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Engineering|Engineering]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +18
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Warm or temperate forests
-  - **Organization**: Solitary
-  - **Challenge Rating**: 10
-  - **Treasure**: None
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
+- **Hit Dice**: 15d8+60 (127 hp)
+- **Initiative**: +2
+- **Speed**: 50 ft. (10 squares), climb 30 ft.
+- **Armor Class**: 24 (+2 Dex, +14 natural, –2 size), touch 10, flat-footed 22
+- **Base Attack**: +11; **CMB**: +21; **CMD**: 33
+- **Attack**: Slam +17 melee (2d6+12)
+- **Full Attack**: 2 slams +17 melee (2d6+12)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blow Smoke|Blow smoke]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], confounding (100 ft., DC 21), [[rangoric-srd/monsters/abilities/Tree Meld|tree meld]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/slashing, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
+- **Saves**: Fort +12, Ref +9, Will +9
+- **Abilities**: Str 26, Dex 15, Con 17, Int 12, Wis 15, Cha 18
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Engineering|Engineering]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +18
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Warm or temperate forests
+- **Organization**: Solitary
+- **Challenge Rating**: 10
+- **Treasure**: None
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Vehement defenders of the unusual locations of the natural world, kapres have a complicated relationship with the "civilized" races. Formed of dense tree matter, they are as much part of the forest as their botanical brethren. Their intimidating physical size, territorial nature, and unusual approach to friendship often bring them into conflict with local tribes and aggressive explorers. With slender limbs and thick, gnarled torsos, kapres are awkwardly humanoid in appearance, and if not for the soft glow of their eyes they could be mistaken for treants.
 

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Dwarf Swashbuckler
 
-*A [[rangoric-srd/races/Dwarf|dwarf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Swashbuckler#^swashbuckler-class-bonuses|swashbuckler]] level.*
+_A [[rangoric-srd/races/Dwarf|dwarf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Swashbuckler#^swashbuckler-class-bonuses|swashbuckler]] level._
 
 Add 1/4 to the swashbuckler's effective class level to determine the extra damage she deals because of the [[rangoric-srd/class-options/deeds/Precise Strike (Deed)|precise strike]] [[rangoric-srd/classes/Swashbuckler#^swashbuckler-deeds|deed]] when wielding a light pick or a heavy pick. If the swashbuckler has the [[rangoric-srd/feats/Slashing Grace|Slashing Grace]] feat or another similar effect, she can treat the battleaxe or handaxe as a one-handed piercing melee weapon, and she gains this benefit when wielding the appropriate weapon for the feat as well.

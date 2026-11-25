@@ -20,14 +20,14 @@ tags: [rangoric, rangoric/magic-item]
 
 This psicrown has 750 power points. It is made from reddish iron and is shaped into a twisted circlet studded with reddish crystals. It allows use of the following powers.
 
-  - [[rangoric-srd/powers/Energy Ball|Energy ball]]
+- [[rangoric-srd/powers/Energy Ball|Energy ball]]
 
-  - [[rangoric-srd/powers/Energy Cone|Energy cone]]
+- [[rangoric-srd/powers/Energy Cone|Energy cone]]
 
-  - [[rangoric-srd/powers/Energy Missile|Energy missile]]
+- [[rangoric-srd/powers/Energy Missile|Energy missile]]
 
-  - [[rangoric-srd/powers/Energy Stun|Energy stun]]
+- [[rangoric-srd/powers/Energy Stun|Energy stun]]
 
-  - [[rangoric-srd/powers/Fiery Discorporation|Fiery discorporation]]
+- [[rangoric-srd/powers/Fiery Discorporation|Fiery discorporation]]
 
 Strong psychokinesis; ML 15th; Craft Psicrown, energy ball, energy cone, energy missile, energy stun, fiery discorporation;  Price 67,500 gp.

@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Lizardfolk Rattler
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Reptilian)
-  - **Hit Dice**: 6d8+16 (43 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares), swim 15 ft.
-  - **Armor Class**: 18 (+2 armor, +1 Dex, +5 natural), touch 11, flat-footed 17
-  - **Base Attack**: +4; **CMB**: +8; **CMD**: 19
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Club|club]] +10 melee (1d6+4) or claw +8 melee (1d4+4) or bite +3 melee (1d4+2) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +5 ranged (1d6+4)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Club|club]] +10 melee (1d6+4) and bite +3 melee (1d4+2); or 2 claws +8 melee (1d4+4) and bite +3 melee (1d4+2); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +5 ranged (1d6+4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Bard#^bardic-music|Bardic performance]] 12 rounds/day ([[rangoric-srd/classes/Bard#^countersong|countersong]], [[rangoric-srd/classes/Bard#^bard-distraction|distraction]], [[rangoric-srd/classes/Bard#^bard-fascinate|fascinate]] \[DC 14\], [[rangoric-srd/classes/Bard#^inspire-competence|inspire competence]] +2, [[rangoric-srd/classes/Bard#^inspire-courage|inspire courage]] +1)
-  - **Special Qualities**: [[rangoric-srd/classes/Bard#^bardic-knowledge|Bardic knowledge]] +2, [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (percussion)
-  - **Saves**: Fort +7, Ref +6, Will +4 (+4 vs. bardic performance, language-dependent, and sonic)
-  - **Abilities**: Str 18, Dex 12, Con 15, Int 9, Wis 8, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Perception|Perception]] +8, Perform (percussion) +11
-  - **Feats**: [[rangoric-srd/feats/Dazzling Display|Dazzling Display]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (club)
-  - **Environment**: Temperate swamps
-  - **Organization**: Solitary, or with other lizardfolk (see [[rangoric-srd/monsters/lizardfolk/Lizardfolk|Lizardfolk]])
-  - **Challenge Rating**: 5
-  - **Treasure**: NPC gear (combat gear: potion of cure light wounds, alchemist's fire (2); other gear: masterwork leather armor, masterwork club, cloak of resistance +1, masterwork war rattle)
-  - **Alignment**: Usually neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Reptilian)
+- **Hit Dice**: 6d8+16 (43 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares), swim 15 ft.
+- **Armor Class**: 18 (+2 armor, +1 Dex, +5 natural), touch 11, flat-footed 17
+- **Base Attack**: +4; **CMB**: +8; **CMD**: 19
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Club|club]] +10 melee (1d6+4) or claw +8 melee (1d4+4) or bite +3 melee (1d4+2) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +5 ranged (1d6+4)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Club|club]] +10 melee (1d6+4) and bite +3 melee (1d4+2); or 2 claws +8 melee (1d4+4) and bite +3 melee (1d4+2); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +5 ranged (1d6+4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Bard#^bardic-music|Bardic performance]] 12 rounds/day ([[rangoric-srd/classes/Bard#^countersong|countersong]], [[rangoric-srd/classes/Bard#^bard-distraction|distraction]], [[rangoric-srd/classes/Bard#^bard-fascinate|fascinate]] \[DC 14\], [[rangoric-srd/classes/Bard#^inspire-competence|inspire competence]] +2, [[rangoric-srd/classes/Bard#^inspire-courage|inspire courage]] +1)
+- **Special Qualities**: [[rangoric-srd/classes/Bard#^bardic-knowledge|Bardic knowledge]] +2, [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (percussion)
+- **Saves**: Fort +7, Ref +6, Will +4 (+4 vs. bardic performance, language-dependent, and sonic)
+- **Abilities**: Str 18, Dex 12, Con 15, Int 9, Wis 8, Cha 14
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Perception|Perception]] +8, Perform (percussion) +11
+- **Feats**: [[rangoric-srd/feats/Dazzling Display|Dazzling Display]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (club)
+- **Environment**: Temperate swamps
+- **Organization**: Solitary, or with other lizardfolk (see [[rangoric-srd/monsters/lizardfolk/Lizardfolk|Lizardfolk]])
+- **Challenge Rating**: 5
+- **Treasure**: NPC gear (combat gear: potion of cure light wounds, alchemist's fire (2); other gear: masterwork leather armor, masterwork club, cloak of resistance +1, masterwork war rattle)
+- **Alignment**: Usually neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A lizardfolk rattler is a [[rangoric-srd/monsters/lizardfolk/Lizardfolk|lizardfolk]] with 4 levels of [[rangoric-srd/classes/Bard|bard]]. Lizardfolk bards are the keepers of tribal lore, guiding their tribes in difficult times and enhancing their abilities in battle.
 
@@ -75,4 +75,4 @@ A lizardfolk rattler speaks Draconic.
 
 ### Combat
 
-**Bard spells known** (CL 4th; concentration +6): 2nd (2/day)—*[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]* (DC 14), *[[rangoric-srd/spells/Rage|rage]]*; 1st (4/day)—*[[rangoric-srd/spells/Cause Fear|cause fear]]* (DC 13), *[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]*, *[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]* (DC 13), *[[rangoric-srd/spells/Sleep|sleep]]* (DC 13); 0 (at will)—*[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Daze|daze]]* (DC 12), *[[rangoric-srd/spells/Ghost Sound|ghost sound]]* (DC 12), *[[rangoric-srd/spells/Light|light]]*, *[[rangoric-srd/spells/Message|message]]*, *[[rangoric-srd/spells/Resistance|resistance]]*.
+**Bard spells known** (CL 4th; concentration +6): 2nd (2/day)—_[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]_ (DC 14), _[[rangoric-srd/spells/Rage|rage]]_; 1st (4/day)—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (DC 13), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]_ (DC 13), _[[rangoric-srd/spells/Sleep|sleep]]_ (DC 13); 0 (at will)—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Daze|daze]]_ (DC 12), _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 12), _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Message|message]]_, _[[rangoric-srd/spells/Resistance|resistance]]_.

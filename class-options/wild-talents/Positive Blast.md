@@ -18,13 +18,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Positive Blast
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#^simple-blasts|simple blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#^simple-blasts|simple blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Wood Element|wood]]
-  - **Type**: simple blast (Sp)
-  - **Level**: —
-  - **Burn**: 0
-  - **Blast Type**: energy
-  - **Damage**: positive energy
+- **Element**: [[rangoric-srd/class-options/elements/Wood Element|wood]]
+- **Type**: simple blast (Sp)
+- **Level**: —
+- **Burn**: 0
+- **Blast Type**: energy
+- **Damage**: positive energy
 
 You blast your foe with positive energy. The positive energy damage from positive blast and its composites harms only undead and other creatures harmed by positive energy. It never heals creatures, even if they would be healed by positive energy, but it damages haunts and deals full damage to incorporeal undead.

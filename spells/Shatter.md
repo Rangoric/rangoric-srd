@@ -34,12 +34,12 @@ tags: [rangoric, rangoric/spell]
 
 # Shatter
 
-*Evocation \[Sonic\]*
+_Evocation \[Sonic\]_
 
-  - **Level**: Blr 2, Brd 2, Chaos 2, Clr 2, Destruction 2, Mag 2, Occ 2, Psy 2, Skd 2, Sor/Wiz 2
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Level**: Blr 2, Brd 2, Chaos 2, Clr 2, Destruction 2, Mag 2, Occ 2, Psy 2, Skd 2, Sor/Wiz 2
+- **Components**: V, S, M/DF
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
 
 Area or Target: 5-ft.-radius spread; or one solid object or one crystalline creature  
 Duration: Instantaneous  
@@ -52,4 +52,4 @@ Used as an area attack, shatter destroys nonmagical objects of crystal, glass, c
 
 Alternatively, you can target shatter against a single solid object, regardless of composition, weighing up to 10 pounds per caster level. Targeted against a crystalline creature (of any weight), shatter deals 1d6 points of sonic damage per caster level (maximum 10d6), with a Fortitude save for half damage.
 
-*Arcane Material Component*: A chip of mica.
+_Arcane Material Component_: A chip of mica.

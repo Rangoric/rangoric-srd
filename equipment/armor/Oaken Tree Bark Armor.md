@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Oaken Tree Bark Armor
 
-*Medium armor.* Cost 50 gp; Armor Bonus +4; Maximum Dex Bonus +3; Armor Check Penalty –4; Arcane Spell Failure 20%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 25 lb. ^stats
+_Medium armor._ Cost 50 gp; Armor Bonus +4; Maximum Dex Bonus +3; Armor Check Penalty –4; Arcane Spell Failure 20%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 25 lb. ^stats
 
 Made from the bark of the oak tree, this armor protects its wearer fairly well.

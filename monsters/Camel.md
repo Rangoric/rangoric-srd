@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Camel
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 2d8+4 (13 hp)
-  - **Initiative**: +3
-  - **Speed**: 50 ft. (10 squares)
-  - **Armor Class**: 13 (+3 Dex, +1 natural, –1 size), touch 12, flat-footed 10
-  - **Base Attack**: +1; **CMB**: +6; **CMD**: 19 (23 vs. trip)
-  - **Attack**: Bite +4 melee (1d4+6)
-  - **Full Attack**: Bite +4 melee (1d4+6)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: Spit (+3 ranged touch)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +5, Ref +6, Will +0
-  - **Abilities**: Str 18, Dex 16, Con 14, Int 2, Wis 11, Cha 4
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +5
-  - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]]
-  - **Environment**: Warm deserts
-  - **Organization**: Solitary, domesticated, or herd (6–30)
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 2d8+4 (13 hp)
+- **Initiative**: +3
+- **Speed**: 50 ft. (10 squares)
+- **Armor Class**: 13 (+3 Dex, +1 natural, –1 size), touch 12, flat-footed 10
+- **Base Attack**: +1; **CMB**: +6; **CMD**: 19 (23 vs. trip)
+- **Attack**: Bite +4 melee (1d4+6)
+- **Full Attack**: Bite +4 melee (1d4+6)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: Spit (+3 ranged touch)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +5, Ref +6, Will +0
+- **Abilities**: Str 18, Dex 16, Con 14, Int 2, Wis 11, Cha 4
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +5
+- **Feats**: [[rangoric-srd/feats/Endurance|Endurance]]
+- **Environment**: Warm deserts
+- **Organization**: Solitary, domesticated, or herd (6–30)
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Camels are large, desert-dwelling herd animals noted for their stamina and ill tempers. A typical camel stands about 6 feet at the shoulder and 7 feet at the hump.
 

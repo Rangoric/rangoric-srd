@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Elf Magus
 
-*An [[rangoric-srd/races/Elf|elf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Magus#^magus-class-bonuses|magus]] level.*
+_An [[rangoric-srd/races/Elf|elf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Magus#^magus-class-bonuses|magus]] level._
 
 The magus gains 1/6 of a new [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]].

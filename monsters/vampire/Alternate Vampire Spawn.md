@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Alternate Vampire Spawn
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Human)
-  - **Hit Dice**: 2d8+6 (18 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 20 (+4 armor, +2 Dex, +4 natural), touch 12, flat-footed 18
-  - **Base Attack**: +1; **CMB**: +4; **CMD**: 16
-  - **Attack**: Slam +4 melee (1d4+4 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 ranged (1d4+3/19–20)
-  - **Full Attack**: Slam +4 melee (1d4+4 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 ranged (1d4+3/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]], dominate (DC 13), [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (1 level, DC 13), [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] +1d6
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], gaseous form, [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Strong Impression (Rogue Talent)|strong impression]]), shadowless, spider climb, [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +1, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/silver, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and electricity 10, [[rangoric-srd/monsters/vampire/Alternate Vampire Spawn#^resurrection-vulnerability|resurrection vulnerability]], [[rangoric-srd/monsters/vampire/Alternate Vampire Spawn#^weaknesses|vampire weaknesses]]
-  - **Saves**: Fort +2, Ref +5, Will +1
-  - **Abilities**: Str 17, Dex 14, Con —, Int 8, Wis 12, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +5, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +13
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any
-  - **Organization**: Gang (2–8) or family (vampire plus 2–8)
-  - **Challenge Rating**: 2
-  - **Treasure**: NPC Gear (chain shirt, dagger, other treasure)
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Human)
+- **Hit Dice**: 2d8+6 (18 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 20 (+4 armor, +2 Dex, +4 natural), touch 12, flat-footed 18
+- **Base Attack**: +1; **CMB**: +4; **CMD**: 16
+- **Attack**: Slam +4 melee (1d4+4 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 ranged (1d4+3/19–20)
+- **Full Attack**: Slam +4 melee (1d4+4 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 ranged (1d4+3/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]], dominate (DC 13), [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (1 level, DC 13), [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] +1d6
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], gaseous form, [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Strong Impression (Rogue Talent)|strong impression]]), shadowless, spider climb, [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +1, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/silver, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and electricity 10, [[rangoric-srd/monsters/vampire/Alternate Vampire Spawn#^resurrection-vulnerability|resurrection vulnerability]], [[rangoric-srd/monsters/vampire/Alternate Vampire Spawn#^weaknesses|vampire weaknesses]]
+- **Saves**: Fort +2, Ref +5, Will +1
+- **Abilities**: Str 17, Dex 14, Con —, Int 8, Wis 12, Cha 15
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +5, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +13
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any
+- **Organization**: Gang (2–8) or family (vampire plus 2–8)
+- **Challenge Rating**: 2
+- **Treasure**: NPC Gear (chain shirt, dagger, other treasure)
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The vampire spawn above is a human vampire spawn with 2 levels of [[rangoric-srd/classes/Rogue|rogue]]. This pale humanoid has fangs and burning red eyes.
 
@@ -88,7 +88,7 @@ This template makes unique vampire spawn with class levels; the vampire spawn a 
 
 **Weaknesses**: A vampire spawn has the same weaknesses of the vampire that created it. ^weaknesses
 
-**Resurrection Vulnerability (Su)**: A *[[rangoric-srd/spells/Raise Dead|raise dead]]* or similar spell cast on a vampire spawn destroys it (Will negates). Using the spell in this way does not require a material component. ^resurrection-vulnerability
+**Resurrection Vulnerability (Su)**: A _[[rangoric-srd/spells/Raise Dead|raise dead]]_ or similar spell cast on a vampire spawn destroys it (Will negates). Using the spell in this way does not require a material component. ^resurrection-vulnerability
 
 **Melee**: A vampire spawn gains a slam attack if the base creature didn't have one. Damage for the slam depends on the vampire spawn's size (see [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^natural-weapons|Natural Attacks by Size]]).
 

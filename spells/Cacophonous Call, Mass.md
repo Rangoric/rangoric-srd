@@ -29,15 +29,15 @@ tags: [rangoric, rangoric/spell]
 
 # Cacophonous Call, Mass
 
-*Enchantment (Compulsion) \[Mind-affecting\]*
+_Enchantment (Compulsion) \[Mind-affecting\]_
 
-  - **Level**: Brd 5, Skd 5
-  - **Components**: V, S, M (a scrap of sheet music)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature/level (all of which must be within 30 feet)
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 5, Skd 5
+- **Components**: V, S, M (a scrap of sheet music)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature/level (all of which must be within 30 feet)
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
-This spell functions as *[[rangoric-srd/spells/Cacophonous Call|cacophonous call]]*, except that it affects multiple creatures.
+This spell functions as _[[rangoric-srd/spells/Cacophonous Call|cacophonous call]]_, except that it affects multiple creatures.

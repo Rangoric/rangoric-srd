@@ -31,7 +31,7 @@ Telepathy
 **Duration:** 1 round/level (D)  
 **Saving Throw:** No  
 **Power Resistance:** No  
-**Power Points:** 5  
+**Power Points:** 5
 
 Your psicrystal takes over the responsibility of maintaining concentration on any single power you have manifested and are concentrating on. While maintaining this concentration, the psicrystal is limited to move actions in each round, as normal. When the duration of solicit psicrystal expires, the power you transferred to the psicrystal ends (even if this would mean that the power ends earlier than normal). If necessary, the psicrystal makes [[rangoric-srd/psionics/Psionics#Concentration|Concentration]] checks with your manifester level and Constitution modifier.
 

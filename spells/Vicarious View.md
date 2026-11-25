@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # Vicarious View
 
-*Divination (Scrying)*
+_Divination (Scrying)_
 
-  - **Level**: Brd 4, Med 3, Mes 4, Occ 4, Psy 4, Skd 4, Sor/Wiz 4, Spi 4, Wit 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Effect**: Magical sensor
-  - **Duration**: Caster level minute(s)
-  - **Saving Throw**: Will negates (object)
-  - **Spell Resistance**: Yes
+- **Level**: Brd 4, Med 3, Mes 4, Occ 4, Psy 4, Skd 4, Sor/Wiz 4, Spi 4, Wit 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Effect**: Magical sensor
+- **Duration**: Caster level minute(s)
+- **Saving Throw**: Will negates (object)
+- **Spell Resistance**: Yes
 
-You plant a scrying sensor on a touched creature, object, or point in space, allowing you to see and hear the creature, object, or point and its surroundings (approximately 10 feet in all directions). If the creature or object on moves, the sensor moves with it. Unlike other scrying spells, *vicarious view* doesn't allow magically or supernaturally enhanced senses to work through it.
+You plant a scrying sensor on a touched creature, object, or point in space, allowing you to see and hear the creature, object, or point and its surroundings (approximately 10 feet in all directions). If the creature or object on moves, the sensor moves with it. Unlike other scrying spells, _vicarious view_ doesn't allow magically or supernaturally enhanced senses to work through it.

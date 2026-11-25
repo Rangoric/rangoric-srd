@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Cauldron of Plenty
 
-This enchanted iron pot can produce nourishing, simple fare sufficient to feed up to 36 people per day upon command. Once per week it can also be commanded to create a *[[rangoric-srd/spells/Heroes’ Feast|heroes' feast]]* for up to 12 people. The cauldron needs neither fire nor ingredients to produce food; it does so instantly upon command.
+This enchanted iron pot can produce nourishing, simple fare sufficient to feed up to 36 people per day upon command. Once per week it can also be commanded to create a _[[rangoric-srd/spells/Heroes’ Feast|heroes' feast]]_ for up to 12 people. The cauldron needs neither fire nor ingredients to produce food; it does so instantly upon command.
 
-Strong conjuration; CL 12th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Create Food and Water|create food and water]]*, *[[rangoric-srd/spells/Heroes’ Feast|heroes' feast]]*; Price 15,000 gp; Cost 7,500 gp; Weight 25 lbs.
+Strong conjuration; CL 12th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Create Food and Water|create food and water]]_, _[[rangoric-srd/spells/Heroes’ Feast|heroes' feast]]_; Price 15,000 gp; Cost 7,500 gp; Weight 25 lbs.

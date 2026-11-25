@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades]
 
 # Rapier
 
-*Martial one-handed melee weapon.* Cost 20 gp; Dmg 1d4 (S), 1d6 (M); Critical 18–20/x2; Weight 2 lb.; Type Piercing. ^stats
+_Martial one-handed melee weapon._ Cost 20 gp; Dmg 1d4 (S), 1d6 (M); Critical 18–20/x2; Weight 2 lb.; Type Piercing. ^stats
 
 You can use the Weapon Finesse feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a rapier sized for you, even though it isn’t a light weapon for you. You can’t wield a rapier in two hands in order to apply 1-1/2 times your Strength bonus to damage.

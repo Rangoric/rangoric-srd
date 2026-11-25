@@ -33,16 +33,16 @@ tags: [rangoric, rangoric/spell]
 
 # Black Tentacles
 
-*Conjuration (Creation)*
+_Conjuration (Creation)_
 
-  - **Level**: Blr 4, Mag 4, Psy 4, Sor/Wiz 4, Spi 4, Sum 3, SumU 4, Wit 4
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Area**: 20-ft.-radius spread
-  - **Duration**: 1 round/level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Blr 4, Mag 4, Psy 4, Sor/Wiz 4, Spi 4, Sum 3, SumU 4, Wit 4
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Area**: 20-ft.-radius spread
+- **Duration**: 1 round/level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 This spell conjures a field of rubbery black tentacles, each 10 feet long. These waving members seem to spring forth from the earth, floor, or whatever surface is underfoot—including water. They grasp and entwine around creatures that enter the area, holding them fast and crushing them with great strength.
 
@@ -52,4 +52,4 @@ If the tentacles succeed in grappling a foe, that foe takes 1d6+4 points of dama
 
 The tentacles created by this spell cannot be damaged, but they can be dispelled as normal. The entire area of effect is considered difficult terrain while the tentacles last.
 
-*Material Component*: A piece of tentacle from a giant octopus or a giant squid.
+_Material Component_: A piece of tentacle from a giant octopus or a giant squid.

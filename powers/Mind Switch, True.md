@@ -27,7 +27,7 @@ Telepathy \[Mind-Affecting\]
 **Duration:** Instantaneous  
 **Saving Throw:** Will negates; see text  
 **Power Resistance:** Yes  
-**Power Points:** 17, XP  
+**Power Points:** 17, XP
 
 As [[rangoric-srd/powers/Mind Switch|mind switch]], except as noted here. You permanently exchange bodies with the subject. Since this power’s duration is instantaneous, you cannot be forced to return to your natural body by means of [[rangoric-srd/powers/Dispel Psionics|dispel psionics]], an [[rangoric-srd/spells/Antimagic Field|antimagic field]], or a similar effect. If the subject’s body dies while you are in it, you are [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]]. The subject immediately gains a [[rangoric-srd/rules/Special Abilities and Conditions#^permanent-negative-levels|permanent negative level]], but otherwise survives the experience in your natural body. If your natural body dies while the subject is in it, you immediately gain a permanent negative level, but you likewise survive the experience in your new body.
 

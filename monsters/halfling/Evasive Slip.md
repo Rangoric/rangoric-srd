@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Evasive Slip
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Halfling)
-  - **Hit Dice**: 6d8+10 (40 hp)
-  - **Initiative**: +4
-  - **Speed**: 15 ft. (3 squares)
-  - **Armor Class**: 22 (+5 armor, +4 Dex, +2 shield, +1 size), touch 15, flat-footed 18
-  - **Base Attack**: +4; **CMB**: +3; **CMD**: 17
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Sickle|sickle]] +6 melee (1d4) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Sling|sling]] +11 ranged (1d3)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Sickle|sickle]] +6 melee (1d4); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Sling|sling]] +11 ranged (1d3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Druid#^druid-wild-shape|Wild shape]] 2/day, [[rangoric-srd/class-options/domains/Air Domain|rebuke air creatures, turn earth creatures]] (3/day)
-  - **Special Qualities**: [[rangoric-srd/classes/Druid#^druid-nature-bond|Nature bond]] (Air domain), [[rangoric-srd/classes/Druid#^druid-nature-sense|nature sense]], [[rangoric-srd/classes/Druid#^druid-trackless-step|trackless step]], [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] +6, [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10
-  - **Saves**: Fort +7, Ref +7, Will +8 (+2 vs. fear, +4 vs. fey and plant-targeted effects)
-  - **Abilities**: Str 10, Dex 18, Con 13, Int 10, Wis 14, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +3 (–1 jumping), [[rangoric-srd/skills/Deception|Deception]] +2, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +13, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Nature|Nature]] +6, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +14
-  - **Feats**: [[rangoric-srd/feats/Augment Summoning|Augment Summoning]], [[rangoric-srd/feats/Extend Spell|Extend Spell]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration)
-  - **Environment**: Warm plains
-  - **Organization**: Solitary, or with other halflings (see [[rangoric-srd/monsters/halfling/Halfling|Halfling]])
-  - **Challenge Rating**: 5
-  - **Treasure**: NPC gear (combat gear: potion of invisibility, scroll of longstrider, wand of barkskin (8 charges), wand of cure moderate wounds (15 charges), wand of magic fang (8 charges); other gear: +1 hide armor, darkwood masterwork heavy wooden shield, masterwork sickle, masterwork sling with 20 bullets, antitoxin, holly and mistletoe, spell component pouch, 52 gp)
-  - **Alignment**: Neutral evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Halfling)
+- **Hit Dice**: 6d8+10 (40 hp)
+- **Initiative**: +4
+- **Speed**: 15 ft. (3 squares)
+- **Armor Class**: 22 (+5 armor, +4 Dex, +2 shield, +1 size), touch 15, flat-footed 18
+- **Base Attack**: +4; **CMB**: +3; **CMD**: 17
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Sickle|sickle]] +6 melee (1d4) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Sling|sling]] +11 ranged (1d3)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Sickle|sickle]] +6 melee (1d4); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Sling|sling]] +11 ranged (1d3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Druid#^druid-wild-shape|Wild shape]] 2/day, [[rangoric-srd/class-options/domains/Air Domain|rebuke air creatures, turn earth creatures]] (3/day)
+- **Special Qualities**: [[rangoric-srd/classes/Druid#^druid-nature-bond|Nature bond]] (Air domain), [[rangoric-srd/classes/Druid#^druid-nature-sense|nature sense]], [[rangoric-srd/classes/Druid#^druid-trackless-step|trackless step]], [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] +6, [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10
+- **Saves**: Fort +7, Ref +7, Will +8 (+2 vs. fear, +4 vs. fey and plant-targeted effects)
+- **Abilities**: Str 10, Dex 18, Con 13, Int 10, Wis 14, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +3 (–1 jumping), [[rangoric-srd/skills/Deception|Deception]] +2, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +13, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Nature|Nature]] +6, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +14
+- **Feats**: [[rangoric-srd/feats/Augment Summoning|Augment Summoning]], [[rangoric-srd/feats/Extend Spell|Extend Spell]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration)
+- **Environment**: Warm plains
+- **Organization**: Solitary, or with other halflings (see [[rangoric-srd/monsters/halfling/Halfling|Halfling]])
+- **Challenge Rating**: 5
+- **Treasure**: NPC gear (combat gear: potion of invisibility, scroll of longstrider, wand of barkskin (8 charges), wand of cure moderate wounds (15 charges), wand of magic fang (8 charges); other gear: +1 hide armor, darkwood masterwork heavy wooden shield, masterwork sickle, masterwork sling with 20 bullets, antitoxin, holly and mistletoe, spell component pouch, 52 gp)
+- **Alignment**: Neutral evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 An evasive slip is a [[rangoric-srd/monsters/halfling/Halfling|halfling]] with 6 levels of [[rangoric-srd/classes/Druid|druid]]. Evasive as the wind, these skittish druids tend to stay away from others, using their formidable powers to escape even the most hazardous situations.
 
@@ -73,6 +73,6 @@ An evasive slip speaks Common, Druidic, and Halfling.
 
 **During Combat**: Once invisible, the druid moves away from his enemies. He spends the next few rounds casting speak with animals and his extended summon nature's ally spells, followed by magic fang and barkskin, cast from his wands on the summoned creatures. If the summoned creatures take damage, he heals them with his wand of cure moderate wounds. If his invisibility is compromised, he wild shapes into an eagle to keep out of reach.
 
-**Domain Spell-Like Abilities** (CL 6th; concentration +8): 5/day—*[[rangoric-srd/spells/Lightning Arc|lightning arc]]*.
+**Domain Spell-Like Abilities** (CL 6th; concentration +8): 5/day—_[[rangoric-srd/spells/Lightning Arc|lightning arc]]_.
 
-**Druid spells prepared** (CL 6th; concentration +8): 3rd—*[[rangoric-srd/spells/Gaseous Form|gaseous form]]* <sup>D</sup>, extended*[[rangoric-srd/spells/Summon Nature’s Ally II|summon nature's ally II]]* (2); 2nd—*[[rangoric-srd/spells/Barkskin|barkskin]]*, extended*[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature's ally I]]*, *[[rangoric-srd/spells/Summon Swarm|summon swarm]]*, *[[rangoric-srd/spells/Wind Wall|wind wall]]* <sup>D</sup>; 1st—*[[rangoric-srd/spells/Endure Elements|endure elements]]*, *[[rangoric-srd/spells/Faerie Fire|faerie fire]]*, *[[rangoric-srd/spells/Magic Fang|magic fang]]*, *[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]* <sup>D</sup>, *[[rangoric-srd/spells/Speak with Animals|speak with animals]]*; 0 (at will)—*[[rangoric-srd/spells/Detect Poison|detect poison]]*, *[[rangoric-srd/spells/Know Direction|know direction]]*, *[[rangoric-srd/spells/Light|light]]*, *[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]*; <sup>D</sup> domain spell; **Domain**: [[rangoric-srd/class-options/domains/Air Domain|Air]].
+**Druid spells prepared** (CL 6th; concentration +8): 3rd—_[[rangoric-srd/spells/Gaseous Form|gaseous form]]_ <sup>D</sup>, extended*[[rangoric-srd/spells/Summon Nature’s Ally II|summon nature's ally II]]* (2); 2nd—_[[rangoric-srd/spells/Barkskin|barkskin]]_, extended*[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature's ally I]]*, _[[rangoric-srd/spells/Summon Swarm|summon swarm]]_, _[[rangoric-srd/spells/Wind Wall|wind wall]]_ <sup>D</sup>; 1st—_[[rangoric-srd/spells/Endure Elements|endure elements]]_, _[[rangoric-srd/spells/Faerie Fire|faerie fire]]_, _[[rangoric-srd/spells/Magic Fang|magic fang]]_, _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_ <sup>D</sup>, _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_; 0 (at will)—_[[rangoric-srd/spells/Detect Poison|detect poison]]_, _[[rangoric-srd/spells/Know Direction|know direction]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]_; <sup>D</sup> domain spell; **Domain**: [[rangoric-srd/class-options/domains/Air Domain|Air]].

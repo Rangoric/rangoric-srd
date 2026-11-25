@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # Decompose Corpse
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Clr 1, Drd 1, Hun 1, Med 1, Occ 1, Psy 1, Sor/Wiz 1, Spi 1, Wit 1
-  - **Components**: V, S, M (a pinch of dried toadstool)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: One corpse or corporeal undead
-  - **Duration**: Instantaneous or 1 minute; see text
-  - **Saving Throw**: Fortitude negates (object)
-  - **Spell Resistance**: Yes (object)
+- **Level**: Clr 1, Drd 1, Hun 1, Med 1, Occ 1, Psy 1, Sor/Wiz 1, Spi 1, Wit 1
+- **Components**: V, S, M (a pinch of dried toadstool)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: One corpse or corporeal undead
+- **Duration**: Instantaneous or 1 minute; see text
+- **Saving Throw**: Fortitude negates (object)
+- **Spell Resistance**: Yes (object)
 
 Using this spell, the caster rapidly decomposes the flesh from a single corpse of size Huge or smaller, leaving behind a perfectly cleaned skeleton. If it is cast on a non-skeletal corporeal undead, the creature takes a –2 penalty on all rolls and to its Armor Class and CMD for 1 minute.

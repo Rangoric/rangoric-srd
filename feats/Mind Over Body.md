@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat]
 
 # Mind Over Body
 
-Your ability damage heals more rapidly.  
+Your ability damage heals more rapidly.
 
 Prerequisite: Con 13.
 

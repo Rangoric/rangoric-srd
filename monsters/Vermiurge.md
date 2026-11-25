@@ -59,7 +59,7 @@ Organization: Solitary    
 Challenge Rating: 24      
 Treasure: Standard      
 Alignment: Usually lawful neutral     
-Advancement: 43-52 HD (Large); 53-70 HD (Huge)      
+Advancement: 43-52 HD (Large); 53-70 HD (Huge)    
 
 Vermiurges speak Terran.
 

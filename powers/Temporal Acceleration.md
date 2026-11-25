@@ -27,7 +27,7 @@ Psychoportation
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 round (in apparent time); see text  
-**Power Points:** 11  
+**Power Points:** 11
 
 You enter another time frame, speeding up so greatly that all other creatures seem frozen, though they are actually still moving at normal speed. You are free to act for 1 round of apparent time. You can manifest powers, cast spells, move, or perform other types of actions, subject to the restrictions outlined below.
 

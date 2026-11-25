@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Hooded Champion
 
-*A [[rangoric-srd/classes/Ranger#^ranger-archetypes|ranger]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Ranger#^ranger-archetypes|ranger]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 The hooded champion lives on the periphery of civilized lands, and is often at odds with the forces of law and order. He is frequently a hero of oppressed peoples, lurking in the woods near their homes and trying to right the injustices inflicted upon them by the wealthy and powerful.
 

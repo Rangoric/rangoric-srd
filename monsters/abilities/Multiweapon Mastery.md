@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Multiweapon Mastery
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “multiweapon mastery”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “multiweapon mastery”, on the Special Attacks line.
 
 The creature never takes penalties on its attack rolls when fighting with multiple weapons.

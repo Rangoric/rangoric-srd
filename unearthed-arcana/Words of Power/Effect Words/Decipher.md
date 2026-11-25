@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/word-of-power]
 
 # Decipher
 
-*One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Language Words|Language group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]].*
+_One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Language Words|Language group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]]._
 
 **School** divination
 
@@ -31,4 +31,4 @@ tags: [rangoric, rangoric/word-of-power]
 
 The target of a wordspell with this effect word can read text written in one particular language, including the language of magic. The caster picks the language when the wordspell is cast. For the duration, the target can read that language as if fluent in it. If the caster chooses magic as the language, the target can decipher scrolls, glyphs, and other magic writing without triggering them. A wordspell with this effect word does not impart the ability to determine what a given language is based on its appearance; the caster must already know the language or guess what language the writing is in to do so.
 
-**Boost**: This effect word can use the *[[rangoric-srd/unearthed-arcana/Words of Power/Target Words/Selected|selected]]* target word. Boosting this effect word increases its level by 1.
+**Boost**: This effect word can use the _[[rangoric-srd/unearthed-arcana/Words of Power/Target Words/Selected|selected]]_ target word. Boosting this effect word increases its level by 1.

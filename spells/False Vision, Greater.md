@@ -30,16 +30,16 @@ tags: [rangoric, rangoric/spell]
 
 # False Vision, Greater
 
-*Illusion (Glamer)*
+_Illusion (Glamer)_
 
-  - **Level**: Brd 6, Mes 6, Psy 7, Skd 6, Sor/Wiz 7
-  - **Components**: V, S, M (a jade sphere worth 500 gp)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: One creature
-  - **Duration**: Caster level hour(s)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: No
+- **Level**: Brd 6, Mes 6, Psy 7, Skd 6, Sor/Wiz 7
+- **Components**: V, S, M (a jade sphere worth 500 gp)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: One creature
+- **Duration**: Caster level hour(s)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: No
 
 This functions similarly to [[rangoric-srd/spells/False Vision|false vision]], but instead of placing the illusion on a nearby area, you can tie it to a specific individual, and can do so from great distances. The spell can be cast at any distance. The difficulty of the save depends on your knowledge of the subject and what sort of physical connection (if any) you have to that creature.
 
@@ -53,4 +53,4 @@ For the target's surroundings, you can choose to make the target appear to be so
 
 You can also cause creatures or objects to appear in the illusion that are not really there, or to make a creature or object seem to act in a way other than it is actually acting. In this case, you must concentrate on the spell, or these aspects of the illusion simply remain static. The spell can provide visual, auditory, olfactory, tactile, and thermal sensations as needed.
 
-The illusion applies to only those who observe the target via a divination (*[[rangoric-srd/spells/Scrying|scrying]]*) spell, and has no effect on viewers who are there in person.
+The illusion applies to only those who observe the target via a divination (_[[rangoric-srd/spells/Scrying|scrying]]_) spell, and has no effect on viewers who are there in person.

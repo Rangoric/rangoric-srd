@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Inspired Vigilante
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
 The vigilante’s powers of deduction are far beyond the norm. This ability functions similarly to the investigator’s [[rangoric-srd/classes/Investigator#^investigator-inspiration|inspiration]] ability, but the vigilante’s inspiration pool is equal to his class level (do not add his Intelligence modifier), the vigilante can never use this ability without expending a use of inspiration, and it doesn’t count as inspiration for any effects that interact with or require the inspiration class feature.

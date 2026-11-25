@@ -52,8 +52,8 @@ The loremaster’s class skills (and the key ability for each skill) are [[rango
 
 **Table: The Loremaster**
 
-| Level | Special        | Spells per Day              |
-| ----- | -------------- | --------------------------- |
+| Level | Special        | Spells per Day             |
+| ----- | -------------- | -------------------------- |
 | 1st   | Secret         | +1 level of existing class |
 | 2nd   | Lore           | +1 level of existing class |
 | 3rd   | Secret         | +1 level of existing class |
@@ -81,21 +81,21 @@ All of the following are Class Features of the loremaster prestige class.
 
 **Greater Lore (Ex)**: At 6th level, a loremaster gains the ability to understand magic items, as with the identify spell. She also gets a +10 circumstance bonus on Mysticism checks to [[rangoric-srd/skills/Mysticism#Advanced Uses|identify the properties of a magic item]].
 
-**True Lore (Ex)**: At 10th level, once per day a loremaster can use her knowledge to gain the effect of a legend lore spell or an analyze dweomer spell. Used as *legend lore*, it takes 1 minute, however much is already known about the subject.
+**True Lore (Ex)**: At 10th level, once per day a loremaster can use her knowledge to gain the effect of a legend lore spell or an analyze dweomer spell. Used as _legend lore_, it takes 1 minute, however much is already known about the subject.
 
 **table: Loremaster Secrets:**
 
-| Level + Int Modifier | Secret                        | Effect                                                 |
-| -------------------- | ----------------------------- | ------------------------------------------------------ |
-| 1                    | Instant mastery               | 4 ranks of a skill in which the character has no ranks |
+| Level + Int Modifier | Secret                        | Effect                                                      |
+| -------------------- | ----------------------------- | ----------------------------------------------------------- |
+| 1                    | Instant mastery               | 4 ranks of a skill in which the character has no ranks      |
 | 2                    | Secret health                 | [[rangoric-srd/feats/Toughness\|Toughness]] as a bonus feat |
-| 3                    | Secrets of inner strength     | +2 bonus on Will saves                                |
-| 4                    | The lore of true stamina      | +2 bonus on Fortitude saves                           |
-| 5                    | Secret knowledge of avoidance | +2 bonus on Reflex saves                              |
-| 6                    | Weapon trick                  | +1 bonus on attack rolls                              |
-| 7                    | Dodge trick                   | +1 dodge bonus to AC                                  |
-| 8                    | Applicable knowledge          | Any one feat                                           |
-| 9                    | Newfound arcana               | 1 bonus 1st-level spell (\*)                           |
-| 10                   | More newfound arcana          | 1 bonus 2nd-level spell (\*)                           |
+| 3                    | Secrets of inner strength     | +2 bonus on Will saves                                      |
+| 4                    | The lore of true stamina      | +2 bonus on Fortitude saves                                 |
+| 5                    | Secret knowledge of avoidance | +2 bonus on Reflex saves                                    |
+| 6                    | Weapon trick                  | +1 bonus on attack rolls                                    |
+| 7                    | Dodge trick                   | +1 dodge bonus to AC                                        |
+| 8                    | Applicable knowledge          | Any one feat                                                |
+| 9                    | Newfound arcana               | 1 bonus 1st-level spell (\*)                                |
+| 10                   | More newfound arcana          | 1 bonus 2nd-level spell (\*)                                |
 
-\* *As if gained through having a high ability score.*
+\* _As if gained through having a high ability score._

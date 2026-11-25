@@ -25,15 +25,15 @@ tags: [rangoric, rangoric/spell]
 
 # Repair Undead, Mass
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Sor/Wiz 5, Spi 5
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Targets**: One undead creature/level, no two of which can be more than 30 ft. apart
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will half (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Sor/Wiz 5, Spi 5
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Targets**: One undead creature/level, no two of which can be more than 30 ft. apart
+- **Duration**: Instantaneous
+- **Saving Throw**: Will half (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-This spell functions as *[[rangoric-srd/spells/Repair Undead|repair undead]]*, except as noted above, and it cures 1d8 points of damage + 1 point per caster level (maximum +20) on each selected creature.
+This spell functions as _[[rangoric-srd/spells/Repair Undead|repair undead]]_, except as noted above, and it cures 1d8 points of damage + 1 point per caster level (maximum +20) on each selected creature.

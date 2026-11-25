@@ -25,4 +25,4 @@ Silver circles and conjuring runes decorate this black robe. Three times per day
 
 If the wearer is a [[rangoric-srd/classes/Summoner|summoner]], he can call upon the robe to summon his [[rangoric-srd/classes/Summoner#^summoner-eidolon|eidolon]] as a standard action once per day. It must appear adjacent to the summoner when called this way.
 
-Strong conjuration; CL 17th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Maximize Spell|Maximize Spell]], *[[rangoric-srd/spells/Gate|gate]]*, *[[rangoric-srd/spells/Summon Eidolon|summon eidolon]]*; Price 64,000 gp; Cost 32,000 gp; Weight 1 lb.
+Strong conjuration; CL 17th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Maximize Spell|Maximize Spell]], _[[rangoric-srd/spells/Gate|gate]]_, _[[rangoric-srd/spells/Summon Eidolon|summon eidolon]]_; Price 64,000 gp; Cost 32,000 gp; Weight 1 lb.

@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/armor]
 
 # Hide Armor
 
-*Medium armor.* Cost 15 gp; Armor Bonus +3; Maximum Dex Bonus +4; Armor Check Penalty –3; Arcane Spell Failure 20%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 25 lb. ^stats
+_Medium armor._ Cost 15 gp; Armor Bonus +3; Maximum Dex Bonus +4; Armor Check Penalty –3; Arcane Spell Failure 20%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 25 lb. ^stats

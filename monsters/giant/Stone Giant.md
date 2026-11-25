@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Stone Giant
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
-  - **Hit Dice**: 12d8+48 (102 hp)
-  - **Initiative**: +2
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 22 (+2 Dex, +11 natural, –1 size), touch 11, flat-footed 20
-  - **Base Attack**: +9; **CMB**: +18; **CMD**: 30
-  - **Attack**: [[rangoric-srd/equipment/weapons/Greatclub|Greatclub]] +16 melee (2d8+12) or slam +16 melee (1d8+8) or rock +11 ranged (1d8+12)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Greatclub|Greatclub]] +16/+11 melee (2d8+12); or 2 slams +16 melee (1d8+8); or rock +11/+6 ranged (1d8+12)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (180 ft.)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], improved [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]]
-  - **Saves**: Fort +12, Ref +6, Will +7
-  - **Abilities**: Str 27, Dex 15, Con 19, Int 10, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +4 (+12 in rocky terrain)
-  - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (greatclub), [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Quick Draw|Quick Draw]]
-  - **Environment**: Temperate mountains
-  - **Organization**: Solitary, gang (2–5), band (4–8), hunting party (9–12 plus 1 elder), tribe (13–30 plus 35% noncombatants, 1–3 elders, and 4–6 dire bears), or hunting/raiding/trading party (6–9 plus 1 elder)
-  - **Challenge Rating**: 8
-  - **Treasure**: Standard (greatclub, other treasure)
-  - **Alignment**: Usually neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: +4 (elder +6)
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
+- **Hit Dice**: 12d8+48 (102 hp)
+- **Initiative**: +2
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 22 (+2 Dex, +11 natural, –1 size), touch 11, flat-footed 20
+- **Base Attack**: +9; **CMB**: +18; **CMD**: 30
+- **Attack**: [[rangoric-srd/equipment/weapons/Greatclub|Greatclub]] +16 melee (2d8+12) or slam +16 melee (1d8+8) or rock +11 ranged (1d8+12)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Greatclub|Greatclub]] +16/+11 melee (2d8+12); or 2 slams +16 melee (1d8+8); or rock +11/+6 ranged (1d8+12)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (180 ft.)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], improved [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]]
+- **Saves**: Fort +12, Ref +6, Will +7
+- **Abilities**: Str 27, Dex 15, Con 19, Int 10, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +4 (+12 in rocky terrain)
+- **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (greatclub), [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Quick Draw|Quick Draw]]
+- **Environment**: Temperate mountains
+- **Organization**: Solitary, gang (2–5), band (4–8), hunting party (9–12 plus 1 elder), tribe (13–30 plus 35% noncombatants, 1–3 elders, and 4–6 dire bears), or hunting/raiding/trading party (6–9 plus 1 elder)
+- **Challenge Rating**: 8
+- **Treasure**: Standard (greatclub, other treasure)
+- **Alignment**: Usually neutral
+- **Advancement**: By character class
+- **Level Adjustment**: +4 (elder +6)
 
 Stone giants prefer thick leather garments, dyed in shades of brown and gray to match the stone around them. Adults are about 12 feet tall, weigh about 1,500 pounds, and can live to be 800 years old.
 
@@ -70,7 +70,7 @@ Stone giants fight from a distance whenever possible, but if they can't avoid me
 
 Stone giants prefer living in enormous caves in high-altitude, rocky peaks. They rarely live more than a few days' travel from other bands of stone giants, and even raise shared herds of goats and other livestock between tribes. Older stone giants tend to wander away from the tribe for a significant period of time in their later years, either living in seclusion somewhere or attempting to merge into other humanoid civilizations. After decades of this self-imposed exile, those who return do so as stone giant elders.
 
-**Stone Giant Elders**: Some stone giants develop special abilities related to their environment. Called elders, these stone giants have Charisma scores of at least 15 and three spell-like abilities (CL 10th). Once per day they can use *[[rangoric-srd/spells/Stone Shape|stone shape]]*, *[[rangoric-srd/spells/Stone Tell|stone tell]]*, and either *[[rangoric-srd/spells/Transmute Rock to Mud|transmute rock to mud]]* or *[[rangoric-srd/spells/Transmute Mud to Rock|transmute mud to rock]]* (DC 17). The save DC is Charisma-based. One in 10 elders is a [[rangoric-srd/classes/Sorcerer|sorcerer]], usually of 3rd to 6th level. Stone giant elders add +1 to their CR.
+**Stone Giant Elders**: Some stone giants develop special abilities related to their environment. Called elders, these stone giants have Charisma scores of at least 15 and three spell-like abilities (CL 10th). Once per day they can use _[[rangoric-srd/spells/Stone Shape|stone shape]]_, _[[rangoric-srd/spells/Stone Tell|stone tell]]_, and either _[[rangoric-srd/spells/Transmute Rock to Mud|transmute rock to mud]]_ or _[[rangoric-srd/spells/Transmute Mud to Rock|transmute mud to rock]]_ (DC 17). The save DC is Charisma-based. One in 10 elders is a [[rangoric-srd/classes/Sorcerer|sorcerer]], usually of 3rd to 6th level. Stone giant elders add +1 to their CR.
 
 ### Combat
 
@@ -82,28 +82,28 @@ Strong, silent loners, stone giant characters are a rare sight in human lands.
 
 Stone giant characters possess the following racial traits.
 
-  - \+16 Strength, +4 Dexterity, +8 Constitution, +2 Wisdom.
+- \+16 Strength, +4 Dexterity, +8 Constitution, +2 Wisdom.
 
-  - Large size. –1 penalty to Armor Class, –1 penalty on attack rolls, –4 penalty on [[rangoric-srd/skills/Stealth|Stealth]] checks, +4 bonus on [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks, lifting and carrying limits double those of Medium characters.
+- Large size. –1 penalty to Armor Class, –1 penalty on attack rolls, –4 penalty on [[rangoric-srd/skills/Stealth|Stealth]] checks, +4 bonus on [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks, lifting and carrying limits double those of Medium characters.
 
-  - Space/Reach: 10 feet/10 feet.
+- Space/Reach: 10 feet/10 feet.
 
-  - A stone giant’s base land speed is 40 feet.
+- A stone giant’s base land speed is 40 feet.
 
-  - Darkvision out to 60 feet and low-light vision.
+- Darkvision out to 60 feet and low-light vision.
 
-  - Racial Hit Dice: A stone giant begins with fourteen levels of giant, which provide 14d8 Hit Dice, a base attack bonus of +10, and base saving throw bonuses of Fort +9, Ref +4, and Will +4.
+- Racial Hit Dice: A stone giant begins with fourteen levels of giant, which provide 14d8 Hit Dice, a base attack bonus of +10, and base saving throw bonuses of Fort +9, Ref +4, and Will +4.
 
-  - Racial Skills: A stone giant’s giant levels give it skill points equal to 14 x (2 + Int modifier). Its class skills are [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Perception|Perception]], and [[rangoric-srd/skills/Stealth|Stealth]]. A stone giant has a +8 racial bonus on Stealth checks in rocky terrain.
+- Racial Skills: A stone giant’s giant levels give it skill points equal to 14 x (2 + Int modifier). Its class skills are [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Perception|Perception]], and [[rangoric-srd/skills/Stealth|Stealth]]. A stone giant has a +8 racial bonus on Stealth checks in rocky terrain.
 
-  - Racial Feats: A stone giant’s giant levels give it five feats.
+- Racial Feats: A stone giant’s giant levels give it five feats.
 
-  - \+11 natural armor bonus.
+- \+11 natural armor bonus.
 
-  - Special Attacks (see above): Rock throwing.
+- Special Attacks (see above): Rock throwing.
 
-  - Special Qualities (see above): Rock catching.
+- Special Qualities (see above): Rock catching.
 
-  - Automatic Languages: Giant. Bonus Languages: Common, Draconic, Elven, Goblin, Orc.
+- Automatic Languages: Giant. Bonus Languages: Common, Draconic, Elven, Goblin, Orc.
 
-  - Level adjustment +4.
+- Level adjustment +4.

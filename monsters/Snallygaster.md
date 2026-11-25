@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Snallygaster
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 4d8+12 (30 hp)
-  - **Initiative**: +2
-  - **Speed**: 20 ft. (4 squares), fly 60 ft. (good)
-  - **Armor Class**: 15 (+2 Dex, +3 natural), touch 12, flat-footed 13
-  - **Base Attack**: +3; **CMB**: +6 (+10 grapple); **CMD**: 18 (22 vs. trip)
-  - **Attack**: Bite +11 melee (1d8+3/×3 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]]) or claw +11 melee (1d4+3) or sucking tentacle +1 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +6 melee (1d8+3/×3 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]]) and 2 claws +6 melee (1d4+3) and sucking tentacles +1 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Aerial Charge (Snallygaster)|Aerial charge]], [[rangoric-srd/monsters/abilities/Bleed|bleed]] (1d6), [[rangoric-srd/monsters/abilities/Sucking Tentacles|sucking tentacles]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +4, Ref +3, Will +6
-  - **Abilities**: Str 17, Dex 15, Con 16, Int 5, Wis 14, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +9 (+13 in forests)
-  - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
-  - **Environment**: Temperate forests or mountains
-  - **Organization**: Solitary or pair
-  - **Challenge Rating**: 3
-  - **Treasure**: None
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 4d8+12 (30 hp)
+- **Initiative**: +2
+- **Speed**: 20 ft. (4 squares), fly 60 ft. (good)
+- **Armor Class**: 15 (+2 Dex, +3 natural), touch 12, flat-footed 13
+- **Base Attack**: +3; **CMB**: +6 (+10 grapple); **CMD**: 18 (22 vs. trip)
+- **Attack**: Bite +11 melee (1d8+3/×3 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]]) or claw +11 melee (1d4+3) or sucking tentacle +1 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +6 melee (1d8+3/×3 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]]) and 2 claws +6 melee (1d4+3) and sucking tentacles +1 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Aerial Charge (Snallygaster)|Aerial charge]], [[rangoric-srd/monsters/abilities/Bleed|bleed]] (1d6), [[rangoric-srd/monsters/abilities/Sucking Tentacles|sucking tentacles]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +4, Ref +3, Will +6
+- **Abilities**: Str 17, Dex 15, Con 16, Int 5, Wis 14, Cha 9
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +9 (+13 in forests)
+- **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
+- **Environment**: Temperate forests or mountains
+- **Organization**: Solitary or pair
+- **Challenge Rating**: 3
+- **Treasure**: None
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The snallygaster is a hideous amalgamation of lizard and bird that preys on unwary travelers. Its claws and beak have an almost metallic sheen to them, hinting at their sharpness and strength. Black stripes run the length of its scaly blue hide all the way to the tip of its long, sinuous tail. The snallygaster's serpentine neck terminates at a small, birdlike head with a single eye set in the center of the forehead. In place of a tongue, its long throat contains a slobbering mass of tentacles that twist and squirm grotesquely whenever the creature extends them.
 

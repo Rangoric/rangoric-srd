@@ -26,14 +26,14 @@ tags: [rangoric, rangoric/spell]
 
 # Thorn Body
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 3, Drd 4, Hun 4, Sha 4
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level
+- **Level**: Alc 3, Drd 4, Hun 4, Sha 4
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level
 
 This spell causes spines to grow from your exposed skin, damaging creatures that strike you. Any creature striking you with a melee weapon, an unarmed strike, or a natural weapon takes 1d6 points of piercing damage +1 point per caster level (maximum +15). Creatures using melee weapons with reach are unaffected by this spell. Creatures that successfully grapple you take 2d6 points of piercing damage +1 point per caster level (maximum +15). In addition, your natural attacks and unarmed strikes deal an additional 1d6 points of piercing damage.
 

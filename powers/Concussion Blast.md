@@ -33,7 +33,7 @@ Target: One creature or object
 Duration: Instantaneous  
 Saving Throw: None  
 Power Resistance: Yes  
-Power Points: 3  
+Power Points: 3
 
 A subject you select is pummeled with telekinetic force for 1d6 points of force damage. You can choose to have the power deal an equal amount of nonlethal damage instead. Concussion blast always affects a subject within range that you can see, even if the subject is in melee or has cover or concealment (you cannot use this power against creatures with total cover or total concealment).
 

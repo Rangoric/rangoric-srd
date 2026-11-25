@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Neothelid
 
-  - Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 20d8+140 (230 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares), fly 60 ft. (good)
-  - **Armor Class**: 30 (–2 Dex, +26 natural, –4 size), touch 4, flat-footed 30
-  - **Base Attack**: +15; **CMB**: +29 (+33 grapple); **CMD**: 37 (can't be tripped)
-  - **Attack**: Tongue +21 melee (3d6+10/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: 4 tongues +21 melee (3d6+10/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 20 ft./20 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (50-ft. cone, 14d10 acid, Reflex DC 27 half, once every 1d4 rounds), mind thrust, psychic crush, [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (2d6+10 plus 2d6 acid, AC 23, hp 23), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 100 ft., trace teleport 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 26
-  - **Saves**: Fort +15, Ref +4, Will +16
-  - **Abilities**: Str 30, Dex 7, Con 24, Int 16, Wis 15, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –4, [[rangoric-srd/skills/Arcana|Arcana]] +26, [[rangoric-srd/skills/Athletics|Athletics]] +33, [[rangoric-srd/skills/Deception|Deception]] +25, [[rangoric-srd/skills/Intimidation|Intimidation]] +28, [[rangoric-srd/skills/Mysticism|Mysticism]] +26, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Persuasion|Persuasion]] +25
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (tongue), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (suggestion)
-  - **Environment**: Any underground
-  - **Organization**: Solitary, pair, or cult (3–5 plus 4–12 charmed slaves of various races)
-  - **Challenge Rating**: 15
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: 26-45 HD (Colossal)
-  - **Level Adjustment**: -
+- Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 20d8+140 (230 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares), fly 60 ft. (good)
+- **Armor Class**: 30 (–2 Dex, +26 natural, –4 size), touch 4, flat-footed 30
+- **Base Attack**: +15; **CMB**: +29 (+33 grapple); **CMD**: 37 (can't be tripped)
+- **Attack**: Tongue +21 melee (3d6+10/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: 4 tongues +21 melee (3d6+10/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 20 ft./20 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (50-ft. cone, 14d10 acid, Reflex DC 27 half, once every 1d4 rounds), mind thrust, psychic crush, [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (2d6+10 plus 2d6 acid, AC 23, hp 23), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 100 ft., trace teleport 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 26
+- **Saves**: Fort +15, Ref +4, Will +16
+- **Abilities**: Str 30, Dex 7, Con 24, Int 16, Wis 15, Cha 21
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –4, [[rangoric-srd/skills/Arcana|Arcana]] +26, [[rangoric-srd/skills/Athletics|Athletics]] +33, [[rangoric-srd/skills/Deception|Deception]] +25, [[rangoric-srd/skills/Intimidation|Intimidation]] +28, [[rangoric-srd/skills/Mysticism|Mysticism]] +26, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Persuasion|Persuasion]] +25
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (tongue), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (suggestion)
+- **Environment**: Any underground
+- **Organization**: Solitary, pair, or cult (3–5 plus 4–12 charmed slaves of various races)
+- **Challenge Rating**: 15
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: 26-45 HD (Colossal)
+- **Level Adjustment**: -
 
 Dwelling only in the deepest reaches of the underworld, the immense neothelids once ruled empires in the depths, yet their numbers have been vastly reduced as other races have proven swifter to breed and adapt. Today, the neothelid is a legend, the subject of tales of horror among those few to have experienced the creature's wrath in person and lived to tell about it.
 
@@ -74,7 +74,7 @@ The psionic version is [[rangoric-srd/monsters/Neothelid, Psionic|Neothelid, Psi
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th): Constant—*[[rangoric-srd/spells/Fly|fly]]*; At will—*[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]* (DC 17), *[[rangoric-srd/spells/Charm Monster|charm monster]]* (DC 19), *[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairvoyance/clairaudience]], [[rangoric-srd/spells/Suggestion|suggestion]]* (DC 18), *[[rangoric-srd/spells/Telekinesis|telekinesis]]* (DC 20), *[[rangoric-srd/spells/Teleport|teleport]], [[rangoric-srd/spells/Poison|poison]]* (DC 19); 3/day-quickened *[[rangoric-srd/spells/Suggestion|suggestion]]* (DC 18).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th): Constant—_[[rangoric-srd/spells/Fly|fly]]_; At will—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (DC 17), _[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 19), _[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairvoyance/clairaudience]], [[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 18), _[[rangoric-srd/spells/Telekinesis|telekinesis]]_ (DC 20), _[[rangoric-srd/spells/Teleport|teleport]], [[rangoric-srd/spells/Poison|poison]]_ (DC 19); 3/day-quickened _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 18).
 
 **Mind Thrust (Su)**: As a standard action up to three times a day, a neothelid can deliver a massive blast of mental energy at any one target within 60 feet, inflicting 15d10 points of damage. A successful DC 25 Will save negates the effect. This effect can only harm creatures with Intelligence scores. This is a mind-affecting effect. The save DC is Charisma-based.
 

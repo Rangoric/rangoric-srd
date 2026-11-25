@@ -21,10 +21,10 @@ tags: [rangoric, rangoric/magic-item]
 
 # Lord's Banner, Terror
 
-A *lord's banner* is a cloth flag or standard, typically at least 2 feet wide and 4 feet long (though some are up to twice that size), meant to be carried and displayed on a lance, polearm, frame, or staff. It has no effect when not mounted properly or when laying on the ground. It normally depicts the insignia or heraldic symbol of a particular noble.
+A _lord's banner_ is a cloth flag or standard, typically at least 2 feet wide and 4 feet long (though some are up to twice that size), meant to be carried and displayed on a lance, polearm, frame, or staff. It has no effect when not mounted properly or when laying on the ground. It normally depicts the insignia or heraldic symbol of a particular noble.
 
-A *lord's banner* may be carried (on foot or mounted) or planted. In the latter case, the banner does not need a bearer, but if it is toppled or touched by an enemy, it loses its effectiveness until reclaimed and replanted by allies of its owner.
+A _lord's banner_ may be carried (on foot or mounted) or planted. In the latter case, the banner does not need a bearer, but if it is toppled or touched by an enemy, it loses its effectiveness until reclaimed and replanted by allies of its owner.
 
-**Terror**: Enemies of the bearer of a *lord's banner of terror*, while within 30 feet and able to see the banner, must make a Will saving throw (DC 16) or become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]], fleeing as quickly as possible for as long as they can see the banner. Those that succeed on the save are [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]]. A creature that makes its saving throw is immune to the banner's effects for 1 day.
+**Terror**: Enemies of the bearer of a _lord's banner of terror_, while within 30 feet and able to see the banner, must make a Will saving throw (DC 16) or become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]], fleeing as quickly as possible for as long as they can see the banner. Those that succeed on the save are [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]]. A creature that makes its saving throw is immune to the banner's effects for 1 day.
 
-Moderate (various schools); CL 10th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Fear|fear]]*; Price 56,000 gp; Cost 28,000 gp; Weight 3 lbs.
+Moderate (various schools); CL 10th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Fear|fear]]_; Price 56,000 gp; Cost 28,000 gp; Weight 3 lbs.

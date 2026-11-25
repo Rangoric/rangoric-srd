@@ -12,7 +12,7 @@ tags: [rangoric, rangoric/rules]
 
 # Spell Duels
 
-*A spell duel is the variant of the [[rangoric-srd/rules/Duels|duel]] rules for spellcasters: it has its own dueling counter, limited to once per round, and no dueling dodge, parry or resolve.*
+_A spell duel is the variant of the [[rangoric-srd/rules/Duels|duel]] rules for spellcasters: it has its own dueling counter, limited to once per round, and no dueling dodge, parry or resolve._
 
 Spellcasters are no strangers to battle, but there's a difference between the chaos of a huge melee, with dozens of feral monsters seeking to tear the caster limb from limb, and a more civilized duel between rivals seeking to settle a dispute. Make no mistake, these duels can be just as deadly, but the rules surrounding them make for a different style of combat—one in which both combatants can attack and defend with ease, allowing the true skill and power of each to determine the victor.
 
@@ -25,7 +25,7 @@ The rules for a duel between spellcasters are usually very simple, but can be ch
 - Each participant must fight alone and can receive no help from outside sources, with the exception of familiars or other bonded creatures.
 - Each participant must fight with magic. The use of melee or ranged weapons is forbidden, with the exception of bonded objects and weapons that can cast spells, such as staves.
 - The use of summoned or otherwise conjured creatures is forbidden, unless the duel expects such creatures to combat one another at the behest of the participants (rather than directly attacking the dueling opponent). This sort of creature duel is common among druids, summoners, and conjurers.
-- The duel lasts until one of the casters has been knocked unconscious or otherwise prevented from continuing. Spells such as *[[rangoric-srd/spells/Hold Person|hold person]]* do not end duels, but *[[rangoric-srd/spells/Flesh to Stone|flesh to stone]]* certainly does, assuming the target fails her saving throw. Some duels go to the death and are only ended when one duelist or team is a smoking pile of ash.
+- The duel lasts until one of the casters has been knocked unconscious or otherwise prevented from continuing. Spells such as _[[rangoric-srd/spells/Hold Person|hold person]]_ do not end duels, but _[[rangoric-srd/spells/Flesh to Stone|flesh to stone]]_ certainly does, assuming the target fails her saving throw. Some duels go to the death and are only ended when one duelist or team is a smoking pile of ash.
 
 ## Duel Combat
 
@@ -35,7 +35,7 @@ At the start of the duel, each participant makes an initiative check, just like 
 
 At the beginning of each round, the participants check the status of the duel (the GM may want to mark the beginning of each round in some way during initiative tracking as a reminder to check this status). So long as all participants agree to continue dueling, the duel goes on. If any one of the participants withdraws from the duel, the duel immediately ends for all participants, even those who want to see it continue. The participant or side that ended the duel is considered the loser of the duel. The duel's remaining participants can, among themselves, agree to resume the duel, but this is considered a separate duel from the previous one and does not involve those who withdrew from the duel.
 
-Each participant in a duel can act normally on her turn, but if she casts a spell, that spell must affect or target either herself or one of the other duel participants (whether this participant is an ally or an opponent). For example, a dueling mage could not cast *[[rangoric-srd/spells/Haste|haste]]* on her allies and exclude herself, but she could cast it on herself and her allies. The same goes for offensive spells, such as *[[rangoric-srd/spells/Fireball|fireball]]*—the dueling caster must include one of her opponents in the duel among the targets of the spell, and could not affect some nearby creatures to the exclusion of her opponent.
+Each participant in a duel can act normally on her turn, but if she casts a spell, that spell must affect or target either herself or one of the other duel participants (whether this participant is an ally or an opponent). For example, a dueling mage could not cast _[[rangoric-srd/spells/Haste|haste]]_ on her allies and exclude herself, but she could cast it on herself and her allies. The same goes for offensive spells, such as _[[rangoric-srd/spells/Fireball|fireball]]_—the dueling caster must include one of her opponents in the duel among the targets of the spell, and could not affect some nearby creatures to the exclusion of her opponent.
 
 In addition to the normal set of actions a dueling caster can perform each round, each participant in a duel may take a special counterspell action called a dueling counter, as noted below.
 
@@ -47,14 +47,14 @@ When a dueling opponent tries to cast a spell, the targeted spellcaster can make
 
 A dueling counter is an immediate action that does not provoke attacks of opportunity. To attempt a dueling counter, the countering duelist must expend a spell or a spell slot of a level equal to or higher than that of the spell being cast. Note that characters who cast spells spontaneously (such as bards and sorcerers) must choose what exact spell they are using to counterspell in addition to the slot being used. The countering duelist must then make a caster level check against a DC of 15 + the spell's caster level. Unlike when using a true counterspell action (which requires a readied action), even expending an exact copy of the spell being cast does not guarantee success. The caster attempting the counterspell receives a bonus or penalty on her check depending upon the level of the spell slot expended and the exact spell used, as noted in the table below. If the check is successful, the spell is countered—it is negated and the spell is lost. If not, the spell happens as normal and the duelist attempting to counter the spell takes a –2 penalty on any saving throws made against the spell's effect.
 
-Alternatively, a spellcaster can use *[[rangoric-srd/spells/Dispel Magic|dispel magic]]* or *[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]* as a dueling counter. When a dueling spellcaster does so, she does not need to identify the spell being cast, can counter a spell of any level, and must succeed at a caster level check against a DC of 11 + the spell's caster level. When *[[rangoric-srd/spells/Dispel Magic|dispel magic]]* is used as a dueling counter, it is not modified by any of the circumstances in the table below.
+Alternatively, a spellcaster can use _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_ or _[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]_ as a dueling counter. When a dueling spellcaster does so, she does not need to identify the spell being cast, can counter a spell of any level, and must succeed at a caster level check against a DC of 11 + the spell's caster level. When _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_ is used as a dueling counter, it is not modified by any of the circumstances in the table below.
 
 Because readying to counterspell is its own action, a participant can choose to ready to counterspell and make a dueling counter in the same round. This is only useful if the participant is facing multiple opponents or someone with access to the [[rangoric-srd/feats/Quicken Spell|Quicken Spell]] feat or other abilities that allow casting two spells in the same round.
 
 **Table: Dueling Counter Modifiers**
 
 | Circumstance                                              | Check Modifier      |
-|-----------------------------------------------------------|---------------------|
+| --------------------------------------------------------- | ------------------- |
 | Spell is of a different school                            | –2                  |
 | Spell is of the same school, but not the same spell       | +2                  |
 | Spell is of a higher level than the spell being countered | +1 per level higher |

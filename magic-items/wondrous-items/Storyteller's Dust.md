@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Storyteller's Dust
 
-This dust is kept in gaudy bags, but is a simple white powder. When thrown into a fire, it conjures a visible theater of the mind (as *[[rangoric-srd/spells/Minor Image|minor image]]*) within a 10-foot cube above the flames. The user can manipulate this illusion, which lasts for 2 hours or until the user banishes the scene. The user gains a +2 bonus on all [[rangoric-srd/skills/Performance|Performance]] checks to tell a story using the image created by the dust.
+This dust is kept in gaudy bags, but is a simple white powder. When thrown into a fire, it conjures a visible theater of the mind (as _[[rangoric-srd/spells/Minor Image|minor image]]_) within a 10-foot cube above the flames. The user can manipulate this illusion, which lasts for 2 hours or until the user banishes the scene. The user gains a +2 bonus on all [[rangoric-srd/skills/Performance|Performance]] checks to tell a story using the image created by the dust.
 
-Faint illusion; CL 2nd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Minor Image|minor image]]*; Price 600 gp; Cost 300 gp.
+Faint illusion; CL 2nd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Minor Image|minor image]]_; Price 600 gp; Cost 300 gp.

@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Necromancy School
 
-*An [[rangoric-srd/classes/Wizard#^wizard-arcane-school|arcane school]].*
+_An [[rangoric-srd/classes/Wizard#^wizard-arcane-school|arcane school]]._
 
 The dread and feared necromancer commands undead and uses the foul power of unlife against his enemies.
 

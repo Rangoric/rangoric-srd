@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Clone
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Sor/Wiz 8, Wit 8
-  - **Components**: V, S, M, F
-  - **Casting Time**: 10 minutes
-  - **Range**: 0 ft.
-  - **Effect**: One clone
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Sor/Wiz 8, Wit 8
+- **Components**: V, S, M, F
+- **Casting Time**: 10 minutes
+- **Range**: 0 ft.
+- **Effect**: One clone
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 This spell makes an inert duplicate of a creature. If the original individual has been slain, its soul immediately transfers to the clone, creating a replacement (provided that the soul is free and willing to return). The original’s physical remains, should they still exist, become inert and cannot thereafter be restored to life. If the original creature has reached the end of its natural life span (that is, it has died of natural causes), any cloning attempt fails.
 
@@ -48,6 +48,6 @@ The spell duplicates only the original’s body and mind, not its equipment.
 
 A duplicate can be grown while the original still lives, or when the original soul is unavailable, but the resulting body is merely a soulless bit of inert flesh, which rots if not preserved.
 
-*Material Component*: The piece of flesh and various laboratory supplies (cost 1,000 gp).
+_Material Component_: The piece of flesh and various laboratory supplies (cost 1,000 gp).
 
-*Focus*: Special laboratory equipment (cost 500 gp).
+_Focus_: Special laboratory equipment (cost 500 gp).

@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/double, weapon-group/flails, weap
 
 # Chain Spear
 
-*Exotic two-handed melee weapon (double, trip).* Cost 15 gp; Dmg 1d4/1d4 (S), 1d6/1d6 (M); Critical x2; Weight 13 lb.; Type Piercing and slashing. ^stats
+_Exotic two-handed melee weapon (double, trip)._ Cost 15 gp; Dmg 1d4/1d4 (S), 1d6/1d6 (M); Critical x2; Weight 13 lb.; Type Piercing and slashing. ^stats
 
 This vicious weapon often finds its way into gladiatorial events due to its versatility. The body of the weapon is a standard [[rangoric-srd/equipment/weapons/Shortspear|short spear]], primarily used for thrusting. The butt of the spear is fitted with a length of chain, often spiked, with a hook at the end. The hook and chain may be used to make [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] attacks. If your trip attack fails by 10 or more, you may drop the chain spear to avoid being knocked prone.
 

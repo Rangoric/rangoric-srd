@@ -16,23 +16,23 @@ One of the most potent tools a spellcasters can wield is the command of summoned
 
 ## Calling Outsiders
 
-The first step in calling extraplanar assistance is to determine the method of bringing the outsider to the Material Plane. If the caster is a cleric, the spell of choice is *[[rangoric-srd/spells/Planar Ally|planar ally]]*; wizard, sorcerers, and summoners rely primarily on *[[rangoric-srd/spells/Planar Binding|planar binding]]* (or *summon monster*, which controls without requiring binding). However, none of these necessarily bind the outsider to the caster's needs, and a wise spellcaster augments the summoning with additional encouragement, usually in the form of gifts or bargains.
+The first step in calling extraplanar assistance is to determine the method of bringing the outsider to the Material Plane. If the caster is a cleric, the spell of choice is _[[rangoric-srd/spells/Planar Ally|planar ally]]_; wizard, sorcerers, and summoners rely primarily on _[[rangoric-srd/spells/Planar Binding|planar binding]]_ (or _summon monster_, which controls without requiring binding). However, none of these necessarily bind the outsider to the caster's needs, and a wise spellcaster augments the summoning with additional encouragement, usually in the form of gifts or bargains.
 
 ### Clerics and Oracles
 
-Clerics and oracles find the job of summoning and binding outsiders much easier than arcane spellcasters do. A cleric calls upon her deity to send a like-minded creature by way of one of the *[[rangoric-srd/spells/Planar Ally|planar ally]]* spells. That outsider is in the service of the god, and its desires almost always align with the cleric's goals, or at least run in parallel with them.
+Clerics and oracles find the job of summoning and binding outsiders much easier than arcane spellcasters do. A cleric calls upon her deity to send a like-minded creature by way of one of the _[[rangoric-srd/spells/Planar Ally|planar ally]]_ spells. That outsider is in the service of the god, and its desires almost always align with the cleric's goals, or at least run in parallel with them.
 
 The cleric must bargain with the deity's servant for a payment agreed upon before the outsider will perform the task: gold, magic items, gifts, sacrifices, or promises by the cleric to achieve certain goals particular to the conjured ally. The greater the task, the greater the payment required, with a minimum of 100 gp worth of goods or services, sometimes extending into the thousands—and sometimes the ally simply refuses the cleric's binding if the job is too dangerous or beneath its dignity.
 
 ### Wizards, Sorcerers, and Summoners
 
-The arcane method for binding insiders is more difficult. First, a binder must create a trap, a *magic circle* (see *[[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]]* for an example of how this works) focused inward. Typically the circle is outlined in a substance that is anathema to the outsider he wishes to summon. He must protect this circle against any sort of disruption, for even the smallest variation in its energies opens the circle and allows the escape of the creature he has summoned. It is for this reason that most binders' lairs are in high towers or deep dungeons, far from wind or pests.
+The arcane method for binding insiders is more difficult. First, a binder must create a trap, a _magic circle_ (see _[[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]]_ for an example of how this works) focused inward. Typically the circle is outlined in a substance that is anathema to the outsider he wishes to summon. He must protect this circle against any sort of disruption, for even the smallest variation in its energies opens the circle and allows the escape of the creature he has summoned. It is for this reason that most binders' lairs are in high towers or deep dungeons, far from wind or pests.
 
-When an arcane caster speaks the words of the *[[rangoric-srd/spells/Planar Binding|planar binding]]* spell, the outsider can resist via a Will saving throw, with no aid from its spell resistance. If it fails the save, the *magic circle* draws it inexorably into the trap. Once there, the outsider can pit its spell resistance as a check against the caster's level, attempt to flee via dimensional travel, or attempt to overcome the spell by imposing its spiritual presence with a Charisma check (DC 15 + 1/2 the caster's level + the caster's Charisma modifier). Succeeding at any of these checks breaks the binding, and a fortunate binder suffers no additional harm from such a breach; the annoyed outsider just leaves. This is not always the case, however.
+When an arcane caster speaks the words of the _[[rangoric-srd/spells/Planar Binding|planar binding]]_ spell, the outsider can resist via a Will saving throw, with no aid from its spell resistance. If it fails the save, the _magic circle_ draws it inexorably into the trap. Once there, the outsider can pit its spell resistance as a check against the caster's level, attempt to flee via dimensional travel, or attempt to overcome the spell by imposing its spiritual presence with a Charisma check (DC 15 + 1/2 the caster's level + the caster's Charisma modifier). Succeeding at any of these checks breaks the binding, and a fortunate binder suffers no additional harm from such a breach; the annoyed outsider just leaves. This is not always the case, however.
 
-Some outsiders lash out at their failed binders. Because of this, many binders take additional precautions: a second *magic circle* in which they can stand, and *[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]* cast within the *magic circle* to prevent the conjured outsider from fleeing instantly. A tremendously powerful wizard or sorcerer might even use *[[rangoric-srd/spells/Trap the Soul|trap the soul]]* on his victim, forcing it into a prepared vessel until it agrees to the binder's strictures.
+Some outsiders lash out at their failed binders. Because of this, many binders take additional precautions: a second _magic circle_ in which they can stand, and _[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]_ cast within the _magic circle_ to prevent the conjured outsider from fleeing instantly. A tremendously powerful wizard or sorcerer might even use _[[rangoric-srd/spells/Trap the Soul|trap the soul]]_ on his victim, forcing it into a prepared vessel until it agrees to the binder's strictures.
 
-Smart arcane binders often make deals with the creatures they call. Like clerics using *[[rangoric-srd/spells/Planar Ally|planar ally]]*, they bargain and shower the outsider with gifts in exchange for their services. While it is always good for an arcane spellcaster to make these deals from a position of strength, it is much better to get the outsider to come to mutually agreed upon terms for the service, rather than forcing it to commit actions against its nature or desires.
+Smart arcane binders often make deals with the creatures they call. Like clerics using _[[rangoric-srd/spells/Planar Ally|planar ally]]_, they bargain and shower the outsider with gifts in exchange for their services. While it is always good for an arcane spellcaster to make these deals from a position of strength, it is much better to get the outsider to come to mutually agreed upon terms for the service, rather than forcing it to commit actions against its nature or desires.
 
 ## True Names
 
@@ -40,7 +40,7 @@ There is one method of outsider coercion that helps guarantee that a binder can 
 
 To discover a single outsider's true name, a spellcaster must spend at least a month in a library or on a quest of discovery to uncover occult mysteries and riddles hidden in the pages of books, scrolls, and glyphs written millennia ago, buried in ancient temples or found among the ravings of madmen's spellbooks. At the end of this month, the GM makes a [[rangoric-srd/skills/Theology|Theology]] check for the character. The DC is 10 + the creature's Hit Dice. The GM can increase the DC by +2, +5, or even +10, based on the power of the outsider or the circumstances of the true name search. A failure by 5 or more turns up false information that may expose researchers to unexpected dangers.
 
-For most outer-planar outsiders, knowledge of the creature's true name is a powerful weapon. In summoning, if the name is spoken correctly (requiring knowledge of at least one of the outsider's languages, or a [[rangoric-srd/skills/Linguistics|Linguistics]] skill check with a DC equal to 10 + the creature's Hit Dice), the target takes a –5 penalty on the Will save to resist being conjured, and if its name is inscribed in the protective *magic circle*, the outsider takes a –5 penalty on all checks to escape or breach that circle.
+For most outer-planar outsiders, knowledge of the creature's true name is a powerful weapon. In summoning, if the name is spoken correctly (requiring knowledge of at least one of the outsider's languages, or a [[rangoric-srd/skills/Linguistics|Linguistics]] skill check with a DC equal to 10 + the creature's Hit Dice), the target takes a –5 penalty on the Will save to resist being conjured, and if its name is inscribed in the protective _magic circle_, the outsider takes a –5 penalty on all checks to escape or breach that circle.
 
 For elementals (including geniekind), such true names are not binding as they are for fiends and other outsiders, and do not give the creature a penalty to its Will save to resist being summoned. However, if the caster speaks the true name of the elemental, the elemental will most likely be intrigued enough to listen—a wizard with power and cunning enough to find an elemental's true name is a wizard with guile and strength, and elementals treasure these qualities.
 
@@ -63,17 +63,17 @@ All outsiders love that which makes them strong. They seek to promote those qual
 - Proteans love chaos and want to return the multiverse to its original chaotic state.
 - Qlippoth hate all intelligent life, as it is the engine of sin, and want it destroyed.
 
-The reward outsiders offer may be actual aid, grudging service, or even just agreeing not to devour the binder's soul. Regardless, it is always—*always*—in the binder's best interest to make the summoning as painless as possible for the target, or else to overawe the summoned creature with the threat of utter destruction or millennia of endless pain. Attempting to treat outsiders as equals and the pact as a mere negotiating tool almost always ends in disaster. More specifics for each type of outsider are described below.
+The reward outsiders offer may be actual aid, grudging service, or even just agreeing not to devour the binder's soul. Regardless, it is always—_always_—in the binder's best interest to make the summoning as painless as possible for the target, or else to overawe the summoned creature with the threat of utter destruction or millennia of endless pain. Attempting to treat outsiders as equals and the pact as a mere negotiating tool almost always ends in disaster. More specifics for each type of outsider are described below.
 
 Offering appropriate gifts to the summoned creature can provide the caster a +2 bonus on the opposed Charisma check to keep it on the Material Plane. Indeed, if the gift is sweet enough, the outsider may choose not to break the strictures of the summoning, even if it has the opportunity to do so. All gifts, whether or not they are good enough to please the outsider, disappear at the spell's conclusion. Only the worst sorts of gifts are rejected; such a rejection indicates that the summoned creature feels gravely insulted.
 
 ### Anathematic Substances
 
-All outsiders have vulnerabilities, and those who deal with them must know what these vulnerabilities are. Some binders even use weapons composed of anathematic substances to create or draw their *magic circles*, or may even grind such valuable weapons up to create the powder to make the circles.
+All outsiders have vulnerabilities, and those who deal with them must know what these vulnerabilities are. Some binders even use weapons composed of anathematic substances to create or draw their _magic circles_, or may even grind such valuable weapons up to create the powder to make the circles.
 
 For every 5,000 gp of an anathematic substance used, the caster gains a +1 bonus on the opposed Charisma check to bargain with the outsider. This destroys the substance.
 
-**Anarchic**: Infused with the power of chaos, *[[rangoric-srd/magic-items/weapon-abilities/Anarchic|anarchic]]* weapons are anathema to many lawful outsiders, even those who are not specifically vulnerable to the weapons.
+**Anarchic**: Infused with the power of chaos, _[[rangoric-srd/magic-items/weapon-abilities/Anarchic|anarchic]]_ weapons are anathema to many lawful outsiders, even those who are not specifically vulnerable to the weapons.
 
 **Axiomatic**: Empowered by law, these weapons are harmful to chaotic outsiders, dealing extra damage even if the outsider is not particularly vulnerable to its effect.
 
@@ -81,13 +81,13 @@ For every 5,000 gp of an anathematic substance used, the caster gains a +1 bonus
 
 **Cold Iron**: Effective against daemons, demons, and fey, cold iron has been drawn from deep beneath forbidding mountains and forged with the least heat possible. Because of the delicacy and difficulty of the process, a weapon made of cold iron costs twice as much to make, and every magical enhancement increases its price significantly. It has 30 hit points per inch of thickness and hardness 10.
 
-**Holy**: A *[[rangoric-srd/magic-items/weapon-abilities/Holy|holy]]* weapon is any weapon imbued with holy power, which allows it to bypass damage reduction for specific evil creatures and inflict an additional 2d6 points of damage on those monsters. Evil outsiders that do not have a specific vulnerability to holy weapons still take that additional damage if the weapon overcomes the creature's damage reduction.
+**Holy**: A _[[rangoric-srd/magic-items/weapon-abilities/Holy|holy]]_ weapon is any weapon imbued with holy power, which allows it to bypass damage reduction for specific evil creatures and inflict an additional 2d6 points of damage on those monsters. Evil outsiders that do not have a specific vulnerability to holy weapons still take that additional damage if the weapon overcomes the creature's damage reduction.
 
 **Mithral**: Most outsiders react to mithral in the same way that they do to actual silver.
 
 **Silver**: Long revered for its purity and ability to harm lycanthropes and devils, silver is also used to trap certain kinds of good outsiders.
 
-**Unholy**: The opposite of the holy weapon, an *[[rangoric-srd/magic-items/weapon-abilities/Unholy|unholy]]* weapon inflicts its damage on good-aligned outsiders, but is in other respects the same.
+**Unholy**: The opposite of the holy weapon, an _[[rangoric-srd/magic-items/weapon-abilities/Unholy|unholy]]_ weapon inflicts its damage on good-aligned outsiders, but is in other respects the same.
 
 ## Outsider Categories
 
@@ -103,7 +103,7 @@ All aeons are immune to cold, poison, and critical hits, and have resistance to 
 
 **[[rangoric-srd/monsters/aeons/Bythos|Bythos]]**: Guardians of time and planar travel, bythos search for those who abuse time travel. They make deals with binders who have similar goals, and care nothing for the motivations of binders who do not share their concerns.
 
-**[[rangoric-srd/monsters/aeons/Paracletus|Paracletus]]**: The most common aeon to interact with mortal spellcasters, paracletus actively search out spellcasters with strong emotion and logical capabilities. Some paracletus become familiars, experimenting upon their bonded casters with their *emotion aura*.
+**[[rangoric-srd/monsters/aeons/Paracletus|Paracletus]]**: The most common aeon to interact with mortal spellcasters, paracletus actively search out spellcasters with strong emotion and logical capabilities. Some paracletus become familiars, experimenting upon their bonded casters with their _emotion aura_.
 
 **[[rangoric-srd/monsters/aeons/Pleroma|Pleroma]]**: Many binders believe pleromas are too powerful to call and bind, and even if such a task is possible, trying to deal with such creatures of creation and destruction may be impossible. Of all the aeons, pleromas employ logic and methods that are least describable.
 
@@ -151,7 +151,7 @@ Angels are immune to acid, cold, and petrification effects. They also have resis
 
 As creatures of law and good, archons seek order, justice, and the protection of the weak against the depredations of the strong. They believe in transformation from within, whether through wholesale, systematic change of governance or personal epiphany.
 
-All archons are immune to electricity and petrification attacks, and all have DR 10/evil. The *magic circle* used to summon them is made of powdered silver.
+All archons are immune to electricity and petrification attacks, and all have DR 10/evil. The _magic circle_ used to summon them is made of powdered silver.
 
 **[[rangoric-srd/monsters/archon/Hound Archon|Hound]]**: Disciplined soldiers and vigilant sentinels, hound archons are valiant defenders of all that is good and holy. They value movement and swift yet thoughtful action, and delight in crushing evil; therefore, the best sacrifices when summoning a hound archon are magical shields imbued with holy power, ensorcelled rings or boots that grant swift or unfettered movement, or weaponry of great power.
 
@@ -169,7 +169,7 @@ Those who follow the precepts of freedom, individuality, and goodness find that 
 
 Except for lillends, azatas have DR overcome by cold iron and evil weapons. They are immune to electricity and petrification; lillends are additionally immune to poisons of all sorts.
 
-The *magic circle* needed to summon an azata is made of cold iron.
+The _magic circle_ needed to summon an azata is made of cold iron.
 
 **[[rangoric-srd/monsters/azata/Bralani|Bralani]]**: Bralani azatas are fierce and wild, and constantly seek to prove themselves in battle or in contests of wits. If a wizard suggests a game of strength, wits, or dexterity that the bralani has not played, or develops a new one for the bralani to take back to Elysium, he receives a +2 Charisma bonus when negotiating with the azata.
 
@@ -211,7 +211,7 @@ Daemons are immune to acid, death effects, disease, and poison, and all are vuln
 
 ### Demons
 
-The great weakness of demons is a *[[rangoric-srd/magic-items/weapon-abilities/Holy|holy]]* or other good weapon. Such weapons overcome every demon's natural resistances, and are one of the few types of weapons that all demons fear equally. When dealing with demons, it is best to remember that they abide by no contract other than power, and displaying power—or at least hints of it—is key to keeping them under control. Their *magic circle* is made of powdered cold iron.
+The great weakness of demons is a _[[rangoric-srd/magic-items/weapon-abilities/Holy|holy]]_ or other good weapon. Such weapons overcome every demon's natural resistances, and are one of the few types of weapons that all demons fear equally. When dealing with demons, it is best to remember that they abide by no contract other than power, and displaying power—or at least hints of it—is key to keeping them under control. Their _magic circle_ is made of powdered cold iron.
 
 All demons are immune to electricity and poison effects. Many have other resistances based on their forms and chaotic natures.
 
@@ -249,7 +249,7 @@ All demons are immune to electricity and poison effects. Many have other resista
 
 ### Devils
 
-Devils regard both holy items and silver as deadly substances, and instinctively shy away from contact with such items. Even those for whom silver presents no danger avoid its touch whenever possible. Binders who want to deal with infernal outsiders as putative allies keep these substances at least 60 feet from the summoning circle; however, if they wish to threaten their infernal subjects, they keep them close at hand. The powdered silver used to create the *magic circle* is a warning and a trap, but it is not an overt threat—summoned devils recognize it as part of the procedure to call them to the Material Plane. Note that even silver candlesticks or bells can be used as weapons of opportunity, but the best defense, should the wizard choose to display force, is a weapon bonded with alchemical silver.
+Devils regard both holy items and silver as deadly substances, and instinctively shy away from contact with such items. Even those for whom silver presents no danger avoid its touch whenever possible. Binders who want to deal with infernal outsiders as putative allies keep these substances at least 60 feet from the summoning circle; however, if they wish to threaten their infernal subjects, they keep them close at hand. The powdered silver used to create the _magic circle_ is a warning and a trap, but it is not an overt threat—summoned devils recognize it as part of the procedure to call them to the Material Plane. Note that even silver candlesticks or bells can be used as weapons of opportunity, but the best defense, should the wizard choose to display force, is a weapon bonded with alchemical silver.
 
 An even better defense against devils, however, is a holy weapon. As with demons, a holy weapon is strong enough to drive through any devil's natural defenses, and the presence of such an item in the summoning chamber is an affront to more powerful or subtle devils.
 
@@ -287,11 +287,11 @@ Additionally, one can enhance summoning for specific kinds of devils by appealin
 
 True elementals are simple creatures, thriving spirits animating bodies of pure elemental matter. They regard their lives as an eternal struggle to best themselves and each other. Each elemental type is uniquely suited to adapting to conditions on its particular plane, and is arrogant about its powers when surrounded by its element... and uniquely frightened and cowed when shown a greater power or encased in an element not its own. Most elementals do not bargain for favors—they respect only strength. Genies are the more human-like denizens of the elemental planes, both in shape and mentality. They consider themselves physically and culturally superior to true elementals.
 
-In general, one summons an elemental for brute work and combat, and a genie for magical power or ancient wisdom, and would thus use *summon monster* and *[[rangoric-srd/spells/Planar Binding|planar binding]]* for those tasks, respectively. However, should a conjurer wish to bind an elemental as he would a genie or fiend, the ritual is one of wrestling with the elemental's creativity in reaching its home element. Elementals are immune to bleed, paralysis, poison, sleep effects, and stunning. They are not subject to critical hits, precision-based attacks like sneak attack, or flanking.
+In general, one summons an elemental for brute work and combat, and a genie for magical power or ancient wisdom, and would thus use _summon monster_ and _[[rangoric-srd/spells/Planar Binding|planar binding]]_ for those tasks, respectively. However, should a conjurer wish to bind an elemental as he would a genie or fiend, the ritual is one of wrestling with the elemental's creativity in reaching its home element. Elementals are immune to bleed, paralysis, poison, sleep effects, and stunning. They are not subject to critical hits, precision-based attacks like sneak attack, or flanking.
 
 Genies seek and value power, though they are more brash and boastful than most. It is said the best way to secure the attentions of a genie is to speak its true name, and to offer it aid in battles against its political enemies—a wise conjurer researches the inner battles of geniekind before summoning a genie, or else is prepared to cow the genie with strong magic.
 
-**[[rangoric-srd/monsters/elemental/Air Elemental|Air Elemental]]**: When summoning an air elemental, inscribe the *magic circle* with diamond powder, and release the elemental only once it has acquiesced to the caster's power. This costs an additional 2,000 gp but adds +4 to the Charisma check.
+**[[rangoric-srd/monsters/elemental/Air Elemental|Air Elemental]]**: When summoning an air elemental, inscribe the _magic circle_ with diamond powder, and release the elemental only once it has acquiesced to the caster's power. This costs an additional 2,000 gp but adds +4 to the Charisma check.
 
 **[[rangoric-srd/monsters/Belker|Belker]]**: These dull-witted creatures enjoy expensive incense and exotic green woods that create heavy smoke.
 
@@ -303,7 +303,7 @@ Genies seek and value power, though they are more brash and boastful than most. 
 
 **[[rangoric-srd/monsters/genie/Efreeti|Efreeti]]**: These warlike creatures value weapons with enhancement bonuses of at least +2 and scrolls of 4th-level or higher spells; these provide a +2 bonus on the binder's Charisma check. Efreet also appreciate attractive humanoid slaves, which give a +1 bonus on the binder's Charisma check for every 10 slaves offered.
 
-**[[rangoric-srd/monsters/elemental/Fire Elemental|Fire Elementals]]**: When summoning a fire elemental, enclose the casting chamber with stone, remove flammable materials from the room, and prepare a *magic circle* and spells to protect against fire. Keeping large blocks of ice in the room saps the elemental's power and cows it into submission more quickly, giving the caster a +4 bonus on the Charisma check to trap the elemental.
+**[[rangoric-srd/monsters/elemental/Fire Elemental|Fire Elementals]]**: When summoning a fire elemental, enclose the casting chamber with stone, remove flammable materials from the room, and prepare a _magic circle_ and spells to protect against fire. Keeping large blocks of ice in the room saps the elemental's power and cows it into submission more quickly, giving the caster a +4 bonus on the Charisma check to trap the elemental.
 
 **Ice Elemental**: Binders use actual fire, fire spells, protections against cold, and sometimes even fire creatures to keep ice elementals at bay during summoning. An ice elemental often yields to its binder as soon as serious melting occurs.
 
@@ -327,7 +327,7 @@ Genies seek and value power, though they are more brash and boastful than most. 
 
 **[[rangoric-srd/monsters/Thoqqua|Thoqqua]]**: Natives of the harsh landscape where the Planes of Fire and Earth collide, thoqquas are dangerous creatures to summon and bind, and typically rage against their confines, even when properly bound. Those wishing to bind a thoqqua frequently use mephit intermediaries, as those creatures seem to understand thoqquas enough to calm them.
 
-**[[rangoric-srd/monsters/elemental/Water Elemental|Water Elemental]]**: When summoning a water elemental, remove sources of water from the room and prepare a bonfire. A ring of fire around the *magic circle* exposes the elemental to its hated enemy the instant it appears on the Material Plane, distracting it long enough for the binder to seize control. This is an opposed Will check, granting a +1 bonus to the caster for each large fire in the room; success grants a +4 bonus on the Charisma check.
+**[[rangoric-srd/monsters/elemental/Water Elemental|Water Elemental]]**: When summoning a water elemental, remove sources of water from the room and prepare a bonfire. A ring of fire around the _magic circle_ exposes the elemental to its hated enemy the instant it appears on the Material Plane, distracting it long enough for the binder to seize control. This is an opposed Will check, granting a +1 bonus to the caster for each large fire in the room; success grants a +4 bonus on the Charisma check.
 
 ### Inevitables
 
@@ -347,7 +347,7 @@ Originally created by the [[rangoric-srd/monsters/Axiomite|axiomites]] as an unf
 
 Slithering creatures of pure chaos, proteans claim they were the masters of the multiverse before the first gods created the other planes from the pure chaos of the primeval beginnings. They seek to tear down the multiverse and restore it to its original chaotic form. Bound proteans seek to find a way to achieve this goal even when bargaining with those who dare summon and bind them.
 
-Proteans are immune to acid and have resistance to electricity 10 and sonic 10. Their amorphous anatomy grants them immunity to polymorph effects and resistance to critical hits and sneak attack damage. They are protected by a continuous *[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]*, as per the spell.
+Proteans are immune to acid and have resistance to electricity 10 and sonic 10. Their amorphous anatomy grants them immunity to polymorph effects and resistance to critical hits and sneak attack damage. They are protected by a continuous _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_, as per the spell.
 
 **[[rangoric-srd/monsters/proteans/Imentesh|Imentesh]]**: These heralds of chaos often heed the call of binders who wish to utilize the power of proteans. In conversation they are often talkative, seemingly helpful, and polite, but they are always plotting their escape in order to unleash as much chaos as possible.
 

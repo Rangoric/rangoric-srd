@@ -18,11 +18,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Basic Telekinesis
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Aether Element|aether]]
-  - **Type**: utility (Sp)
-  - **Level**: 1
-  - **Burn**: 0
+- **Element**: [[rangoric-srd/class-options/elements/Aether Element|aether]]
+- **Type**: utility (Sp)
+- **Level**: 1
+- **Burn**: 0
 
-This ability is similar to *[[rangoric-srd/spells/Mage Hand|mage hand]]*, except you can move an object that weighs up to 5 pounds per 2 kineticist levels you possess (minimum 5 pounds), and you can move magical objects. Additionally, you can create a container of entwined strands of aether in order to hold liquids or piles of small objects of the same weight. You can dip the container to pick up or drop a liquid as a move action. If you possess the [[rangoric-srd/class-options/wild-talents/Extended Range|extended range]] wild talent, you can increase the range of basic telekinesis to medium range and increase the rate of movement to 30 feet per round, and if you possess the [[rangoric-srd/class-options/wild-talents/Extreme Range|extreme range]] wild talent, you can increase the range of basic telekinesis to long range and increase the rate of movement to 60 feet per round. You can also use your basic telekinesis to duplicate the effects of the *[[rangoric-srd/spells/Open-Close|open/close]]* cantrip.
+This ability is similar to _[[rangoric-srd/spells/Mage Hand|mage hand]]_, except you can move an object that weighs up to 5 pounds per 2 kineticist levels you possess (minimum 5 pounds), and you can move magical objects. Additionally, you can create a container of entwined strands of aether in order to hold liquids or piles of small objects of the same weight. You can dip the container to pick up or drop a liquid as a move action. If you possess the [[rangoric-srd/class-options/wild-talents/Extended Range|extended range]] wild talent, you can increase the range of basic telekinesis to medium range and increase the rate of movement to 30 feet per round, and if you possess the [[rangoric-srd/class-options/wild-talents/Extreme Range|extreme range]] wild talent, you can increase the range of basic telekinesis to long range and increase the rate of movement to 60 feet per round. You can also use your basic telekinesis to duplicate the effects of the _[[rangoric-srd/spells/Open-Close|open/close]]_ cantrip.

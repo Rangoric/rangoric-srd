@@ -17,11 +17,11 @@ tags: [rangoric, rangoric/class-option]
 
 # White Mage
 
-*An [[rangoric-srd/classes/Arcanist#^arcanist-archetypes|arcanist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_An [[rangoric-srd/classes/Arcanist#^arcanist-archetypes|arcanist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A white mage is an arcanist touched by a divine power and gifted with the ability to heal others.
 
-**Spontaneous Healing (Su)**: At 1st level, a white mage can expend 1 point from her [[rangoric-srd/classes/Arcanist#^arcanist-arcane-reservoir|arcane reservoir]] to use one of her spell slots to cast a cure spell (any spell with "cure" in its name) from the [[rangoric-srd/spells/Cleric Spell List|cleric spell list]] as if it were on her spell list and prepared. The spell must be of a level the arcanist can cast. At 10th level, the white mage can expend 5 points from her arcane reservoir and a spell slot of at least 5th level to cast *[[rangoric-srd/spells/Breath of Life|breath of life]]*. This ability replaces the [[rangoric-srd/classes/Arcanist#^arcanist-exploits|arcanist exploits]] gained at 1st and 9th levels.
+**Spontaneous Healing (Su)**: At 1st level, a white mage can expend 1 point from her [[rangoric-srd/classes/Arcanist#^arcanist-arcane-reservoir|arcane reservoir]] to use one of her spell slots to cast a cure spell (any spell with "cure" in its name) from the [[rangoric-srd/spells/Cleric Spell List|cleric spell list]] as if it were on her spell list and prepared. The spell must be of a level the arcanist can cast. At 10th level, the white mage can expend 5 points from her arcane reservoir and a spell slot of at least 5th level to cast _[[rangoric-srd/spells/Breath of Life|breath of life]]_. This ability replaces the [[rangoric-srd/classes/Arcanist#^arcanist-exploits|arcanist exploits]] gained at 1st and 9th levels.
 
 **Greater Exploit**: At 11th level, a white mage can select the following [[rangoric-srd/classes/Arcanist#^arcanist-greater-exploits|greater exploit]].
 

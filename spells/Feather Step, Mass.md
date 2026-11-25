@@ -29,15 +29,15 @@ tags: [rangoric, rangoric/spell]
 
 # Feather Step, Mass
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Brd 3, Drd 3, Hun 3, Psy 3, Rgr 3, Skd 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature/level, no two of which can be more than 30 ft. apart
-  - **Duration**: 10 minutes/level
-  - **Saving Throw**: Fortitude negates (harmless)
-  - **Spell Resistance**: Yes
+- **Level**: Brd 3, Drd 3, Hun 3, Psy 3, Rgr 3, Skd 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature/level, no two of which can be more than 30 ft. apart
+- **Duration**: 10 minutes/level
+- **Saving Throw**: Fortitude negates (harmless)
+- **Spell Resistance**: Yes
 
-As *[[rangoric-srd/spells/Feather Step|feather step]]*, except this spell affects multiple creatures.
+As _[[rangoric-srd/spells/Feather Step|feather step]]_, except this spell affects multiple creatures.

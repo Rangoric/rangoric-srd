@@ -30,15 +30,15 @@ tags: [rangoric, rangoric/spell]
 
 # Sundered Serpent Coil
 
-*Conjuration (Creation)*
+_Conjuration (Creation)_
 
-  - **Level**: Mag 3, Sor/Wiz 3, Sum 3, SumU 3, Wit 3
-  - **Components**: V, S, M (a snake scale)
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Area**: One 5-foot square
-  - **Duration**: 1 round/level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Mag 3, Sor/Wiz 3, Sum 3, SumU 3, Wit 3
+- **Components**: V, S, M (a snake scale)
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Area**: One 5-foot square
+- **Duration**: 1 round/level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-This spell functions like *[[rangoric-srd/spells/Black Tentacles|black tentacles]]*, except it creates a Large decapitated snake, which erupts from the ground and grapples a creature you specify within its 5-foot reach. As a standard action, you can command the snake to release its grappled target and direct it to attack a different creature.
+This spell functions like _[[rangoric-srd/spells/Black Tentacles|black tentacles]]_, except it creates a Large decapitated snake, which erupts from the ground and grapples a creature you specify within its 5-foot reach. As a standard action, you can command the snake to release its grappled target and direct it to attack a different creature.

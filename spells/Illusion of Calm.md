@@ -30,16 +30,16 @@ tags: [rangoric, rangoric/spell]
 
 # Illusion of Calm
 
-*Illusion (Figment)*
+_Illusion (Figment)_
 
-  - **Level**: Alc 1, Mag 1, Mes 1, Occ 1, Psy 1, Sor/Wiz 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: Will disbelieve (on hit; see below)
-  - **Spell Resistance**: No
+- **Level**: Alc 1, Mag 1, Mes 1, Occ 1, Psy 1, Sor/Wiz 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 minute/level
+- **Saving Throw**: Will disbelieve (on hit; see below)
+- **Spell Resistance**: No
 
 When casting this spell, you create an illusory double that takes the same space of you. That double makes it look like you are standing still, even when you are not. While under the effects of this spell, you do not provoke attacks of opportunity when you cast a spell, make a ranged attack with a thrown weapon, or move out of your first square during a move action. It does not hide ranged attacks made with any type of projectile weapon.
 

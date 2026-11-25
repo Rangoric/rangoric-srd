@@ -31,16 +31,16 @@ tags: [rangoric, rangoric/spell]
 
 # Barkskin
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 2, Drd 2, Hun 2, Rgr 2, Plant 2, Sha 2, Sum 2, SumU 2
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Living creature touched
-  - **Duration**: 10 min./level
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Alc 2, Drd 2, Hun 2, Rgr 2, Plant 2, Sha 2, Sum 2, SumU 2
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Living creature touched
+- **Duration**: 10 min./level
+- **Saving Throw**: None
+- **Spell Resistance**: Yes (harmless)
 
 Barkskin toughens a creature’s skin. The effect grants a +2 enhancement bonus to the creature’s existing natural armor bonus. This enhancement bonus increases by 1 for every three caster levels above 3rd, to a maximum of +5 at caster level 12th.
 

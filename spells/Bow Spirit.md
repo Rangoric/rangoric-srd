@@ -25,15 +25,15 @@ tags: [rangoric, rangoric/spell]
 
 # Bow Spirit
 
-*Conjuration (Creation)*
+_Conjuration (Creation)_
 
-  - **Level**: Hun 4, Rgr 4
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level
+- **Level**: Hun 4, Rgr 4
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level
 
-A *bow spirit* is a shapeless force that hovers about you, taking ammunition from your quiver and firing it. For as long as the *bow spirit* lasts, you can spend a swift action to direct the *bow spirit* to fire an arrow or a bolt at a target of your choice, as if the *bow spirit* were firing the necessary ranged weapon. The *bow spirit uses* your base attack bonus plus your Dexterity modifier, as well as any bonuses and effects from feats you have that affect ranged attacks, or bonuses from the ammunition it uses. A *bow spirit*'s attacks do not provoke attacks of opportunity. There must be ammunition available for the *bow spirit* to use, and it expends ammunition as if used by you.
+A _bow spirit_ is a shapeless force that hovers about you, taking ammunition from your quiver and firing it. For as long as the _bow spirit_ lasts, you can spend a swift action to direct the _bow spirit_ to fire an arrow or a bolt at a target of your choice, as if the _bow spirit_ were firing the necessary ranged weapon. The _bow spirit uses_ your base attack bonus plus your Dexterity modifier, as well as any bonuses and effects from feats you have that affect ranged attacks, or bonuses from the ammunition it uses. A _bow spirit_'s attacks do not provoke attacks of opportunity. There must be ammunition available for the _bow spirit_ to use, and it expends ammunition as if used by you.
 
-A *bow spirit* occupies your space, and moves with you. It cannot be attacked or harmed by physical attacks, but *[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, *[[rangoric-srd/spells/Disintegrate|disintegrate]]*, a *[[rangoric-srd/magic-items/artifacts/Sphere of Annihilation|sphere of annihilation]]*, or a *[[rangoric-srd/magic-items/rods/Rod of Cancellation|rod of cancellation]]* affects it. A *bow spirit*'s AC against touch attacks is 10 + your Dexterity modifier.
+A _bow spirit_ occupies your space, and moves with you. It cannot be attacked or harmed by physical attacks, but _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Disintegrate|disintegrate]]_, a _[[rangoric-srd/magic-items/artifacts/Sphere of Annihilation|sphere of annihilation]]_, or a _[[rangoric-srd/magic-items/rods/Rod of Cancellation|rod of cancellation]]_ affects it. A _bow spirit_'s AC against touch attacks is 10 + your Dexterity modifier.

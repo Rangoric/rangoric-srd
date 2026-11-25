@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/racial-trait, racial-trait/magical, racial-trait/stand
 
 **Race**: [[rangoric-srd/races/Svirfneblin|Svirfneblin]]. **Replaces**: svirfneblin magic.
 
-Svirfneblin add +1 to the caster level of any spells with the earth descriptor they cast. Svirfneblin also gain the following spell-like abilities: Constant—*[[rangoric-srd/spells/Nondetection|nondetection]]*; 1/day—*[[rangoric-srd/spells/Magic Stone|magic stone]]*, *[[rangoric-srd/spells/Stone Shape|stone shape]]*, *[[rangoric-srd/spells/Stone Tell|stone tell]]* (caster level equal to the svirfneblin's character level).
+Svirfneblin add +1 to the caster level of any spells with the earth descriptor they cast. Svirfneblin also gain the following spell-like abilities: Constant—_[[rangoric-srd/spells/Nondetection|nondetection]]_; 1/day—_[[rangoric-srd/spells/Magic Stone|magic stone]]_, _[[rangoric-srd/spells/Stone Shape|stone shape]]_, _[[rangoric-srd/spells/Stone Tell|stone tell]]_ (caster level equal to the svirfneblin's character level).

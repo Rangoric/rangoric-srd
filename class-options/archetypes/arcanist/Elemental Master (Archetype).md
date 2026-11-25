@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Elemental Master
 
-*An [[rangoric-srd/classes/Arcanist#^arcanist-archetypes|arcanist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_An [[rangoric-srd/classes/Arcanist#^arcanist-archetypes|arcanist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Arcanists with an affinity for elemental forces sometimes focus on one and display its power in everything they do.
 

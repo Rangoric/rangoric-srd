@@ -23,10 +23,10 @@ tags: [rangoric, rangoric/magic-item]
 
 This staff appears to be nothing more than a finely made walking stick, but closer inspection reveals that it is inlaid with a fine copper tracery that makes up an intricate and incomprehensible arcane map. The staff allows use of the following spells:
 
-- *[[rangoric-srd/spells/Dimension Door|Dimension door]]* (1 charge)
-- *[[rangoric-srd/spells/Fly|Fly]]* (1 charge)
-- *[[rangoric-srd/spells/Teleport|Teleport]]* (2 charges)
+- _[[rangoric-srd/spells/Dimension Door|Dimension door]]_ (1 charge)
+- _[[rangoric-srd/spells/Fly|Fly]]_ (1 charge)
+- _[[rangoric-srd/spells/Teleport|Teleport]]_ (2 charges)
 
-In addition to these spells, the wielder of the *staff of travel* receives a +10-foot enhancement bonus to his base speed.
+In addition to these spells, the wielder of the _staff of travel_ receives a +10-foot enhancement bonus to his base speed.
 
-Moderate conjuration; CL 9th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Dimension Door|dimension door]]*, *[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]*, *[[rangoric-srd/spells/Fly|fly]]*, *[[rangoric-srd/spells/Teleport|teleport]]*; Price 54,400 gp; Cost 27,200 gp; Weight 3 lbs.
+Moderate conjuration; CL 9th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Dimension Door|dimension door]]_, _[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]_, _[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/Teleport|teleport]]_; Price 54,400 gp; Cost 27,200 gp; Weight 3 lbs.

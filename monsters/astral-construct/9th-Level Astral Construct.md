@@ -37,24 +37,24 @@ tags: [rangoric, rangoric/monster]
 
 # 9th-Level Astral Construct
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
-  - **Hit Dice**: 19d10+40 (144 hp)
-  - **Initiative**: +0
-  - **Speed**: 50 ft. (10 squares)
-  - **Armor Class**: 33 (+25 natural, -2 size), touch 8, flatfooted 33
-  - **Base Attack**: +16; **CMB**: +34; **CMD**: 44
-  - **Attack**: Slam +28 melee (2d6+16)
-  - **Full Attack**: 2 slams +28 melee (2d6+16)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: -
-  - **Special Qualities**: Two abilities from Menu C, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/magic, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|darkvision]] 60 ft., low-light vision
-  - **Saves**: Fort +6, Ref +6, Will +6
-  - **Abilities**: Str 43, Dex 11, Con -, Int -, Wis 11, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +38
-  - **Feats**: -
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Treasure**: None
-  - **Alignment**: Always Neutral
-  - **Advancement**: -
-  - **Level Adjustment**: -
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
+- **Hit Dice**: 19d10+40 (144 hp)
+- **Initiative**: +0
+- **Speed**: 50 ft. (10 squares)
+- **Armor Class**: 33 (+25 natural, -2 size), touch 8, flatfooted 33
+- **Base Attack**: +16; **CMB**: +34; **CMD**: 44
+- **Attack**: Slam +28 melee (2d6+16)
+- **Full Attack**: 2 slams +28 melee (2d6+16)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: -
+- **Special Qualities**: Two abilities from Menu C, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/magic, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|darkvision]] 60 ft., low-light vision
+- **Saves**: Fort +6, Ref +6, Will +6
+- **Abilities**: Str 43, Dex 11, Con -, Int -, Wis 11, Cha 10
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +38
+- **Feats**: -
+- **Environment**: Any
+- **Organization**: Solitary
+- **Treasure**: None
+- **Alignment**: Always Neutral
+- **Advancement**: -
+- **Level Adjustment**: -

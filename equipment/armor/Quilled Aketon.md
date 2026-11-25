@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/armor]
 
 # Quilled Aketon
 
-*Light armor.* Cost 10 gp; Armor Bonus +1; Maximum Dex Bonus +8; Armor Check Penalty 0; Arcane Spell Failure 9%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 15 lb. ^stats
+_Light armor._ Cost 10 gp; Armor Bonus +1; Maximum Dex Bonus +8; Armor Check Penalty 0; Arcane Spell Failure 9%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 15 lb. ^stats
 
 Sometimes called an arming doublet, this is a heavy, quilted garment is usually worn as protective cushioning beneath a full suit of plate armor. A standard aketon is really nothing more than unembellished padded armor, often with hooks and eyelets embedded in it for securing pieces of plate. Occasionally, one has strips of chain mail attached to the parts that typically remain exposed by overlaying armor and equipment.
 

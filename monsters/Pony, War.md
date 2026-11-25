@@ -35,26 +35,26 @@ tags: [rangoric, rangoric/monster]
 
 # Pony, War
 
-  - Medium Animal
-  - **Hit Dice**: 2d8+4 (13 hp)
-  - **Initiative**: +1
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 13 (+1 Dex, +2 natural), touch 11, flat-footed 12
-  - **Base Attack**: +1; **CMB**: +3; **CMD**: 14 (18 vs. trip)
-  - **Attack**: Hoof +3 melee (1d3+2)
-  - **Full Attack**: 2 hooves +3 melee (1d3+2)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: Low-light vision, scent
-  - **Saves**: Fort +5, Ref +4, Will +0
-  - **Abilities**: Str 15, Dex 13, Con 14, Int 2, Wis 11, Cha 4
-  - **Skills**: Perception +5
-  - **Feats**: Endurance
-  - **Environment**: Temperate plains
-  - **Organization**: Domesticated
-  - **Challenge Rating**: 1/2
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium Animal
+- **Hit Dice**: 2d8+4 (13 hp)
+- **Initiative**: +1
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 13 (+1 Dex, +2 natural), touch 11, flat-footed 12
+- **Base Attack**: +1; **CMB**: +3; **CMD**: 14 (18 vs. trip)
+- **Attack**: Hoof +3 melee (1d3+2)
+- **Full Attack**: 2 hooves +3 melee (1d3+2)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: Low-light vision, scent
+- **Saves**: Fort +5, Ref +4, Will +0
+- **Abilities**: Str 15, Dex 13, Con 14, Int 2, Wis 11, Cha 4
+- **Skills**: Perception +5
+- **Feats**: Endurance
+- **Environment**: Temperate plains
+- **Organization**: Domesticated
+- **Challenge Rating**: 1/2
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Warponies are bred for strength and aggression, and are similar to light warhorses.
 

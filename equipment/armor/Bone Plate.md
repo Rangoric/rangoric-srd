@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Bone Plate
 
-*Medium armor.* Cost 15 gp; Armor Bonus +3; Maximum Dex Bonus +4; Armor Check Penalty –4; Arcane Spell Failure 25%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 22 lb. ^stats
+_Medium armor._ Cost 15 gp; Armor Bonus +3; Maximum Dex Bonus +4; Armor Check Penalty –4; Arcane Spell Failure 25%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 22 lb. ^stats
 
 This armor is fashioned from whale rib bones (usually in lengths from 6 inches to 3 feet), and strung together with sealskin. These long bones prove good deflection from enemy weapons.

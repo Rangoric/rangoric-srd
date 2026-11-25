@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Benefit of Wisdom
 
-*A [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]] (Ex) of the [[rangoric-srd/class-options/spirits/Lore Spirit|lore spirit]].*
+_A [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]] (Ex) of the [[rangoric-srd/class-options/spirits/Lore Spirit|lore spirit]]._
 
 The shaman relies on wisdom rather than intellect to gain and retain knowledge. She can use her Wisdom modifier instead of her Intelligence modifier on all Intelligence-based skill checks.

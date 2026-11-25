@@ -18,4 +18,4 @@ tags: [rangoric, rangoric/magic-item]
 
 Armor and shields with this ability are made of finely polished steel, often embossed with gold. This ability grants the wearer a +2 enhancement bonus to Charisma. In addition, the wearer gains a +2 circumstance bonus on all [[rangoric-srd/skills/Persuasion|Persuasion]] checks.
 
-Moderate enchantment; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Eagle’s Splendor|eagle’s splendor]]*, *[[rangoric-srd/spells/Resistance|resistance]]*; Price +1 bonus.
+Moderate enchantment; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Eagle’s Splendor|eagle’s splendor]]_, _[[rangoric-srd/spells/Resistance|resistance]]_; Price +1 bonus.

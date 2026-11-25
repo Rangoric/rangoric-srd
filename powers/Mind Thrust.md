@@ -33,7 +33,7 @@ Telepathy \[Mind-Affecting\]
 **Duration:** Instantaneous  
 **Saving Throw:** Will negates  
 **Power Resistance:** Yes  
-**Power Points:** 1  
+**Power Points:** 1
 
 You instantly deliver a massive assault on the thought pathways of any one creature, dealing 1d10 points of damage to it.
 

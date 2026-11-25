@@ -49,32 +49,32 @@ A half-fiend uses all the base creature’s statistics and special abilities exc
 
 **Spell-Like Abilities**: A half-fiend with an Intelligence or Wisdom score of 8 or higher has spell-like abilities depending on its Hit Dice, as indicated on the table below. The abilities are cumulative. Unless otherwise noted, an ability is usable once per day. Caster level equals the creature’s HD, and the save DC is Charisma-based.
 
-| HD    | Abilities                                                                                              |
-| ----- | ------------------------------------------------------------------------------------------------------ |
-| 1–2   | [[rangoric-srd/spells/Darkness\|Darkness]] 3/day                                                     |
-| 3–4   | [[rangoric-srd/spells/Desecrate\|Desecrate]]                                                         |
-| 5–6   | [[rangoric-srd/spells/Unholy Blight\|Unholy blight]]                                                 |
-| 7–8   | [[rangoric-srd/spells/Poison\|Poison]] 3/day                                                         |
-| 9–10  | [[rangoric-srd/spells/Contagion\|Contagion]]                                                         |
-| 11–12 | [[rangoric-srd/spells/Blasphemy\|Blasphemy]]                                                         |
+| HD    | Abilities                                                                                          |
+| ----- | -------------------------------------------------------------------------------------------------- |
+| 1–2   | [[rangoric-srd/spells/Darkness\|Darkness]] 3/day                                                   |
+| 3–4   | [[rangoric-srd/spells/Desecrate\|Desecrate]]                                                       |
+| 5–6   | [[rangoric-srd/spells/Unholy Blight\|Unholy blight]]                                               |
+| 7–8   | [[rangoric-srd/spells/Poison\|Poison]] 3/day                                                       |
+| 9–10  | [[rangoric-srd/spells/Contagion\|Contagion]]                                                       |
+| 11–12 | [[rangoric-srd/spells/Blasphemy\|Blasphemy]]                                                       |
 | 13–14 | [[rangoric-srd/spells/Unholy Aura\|Unholy aura]] 3/day, [[rangoric-srd/spells/Unhallow\|unhallow]] |
-| 15–16 | [[rangoric-srd/spells/Horrid Wilting\|Horrid wilting]]                                               |
-| 17–18 | [[rangoric-srd/spells/Summon Monster IX\|Summon monster IX]] (fiends only)                           |
-| 19–20 | [[rangoric-srd/spells/Destruction\|Destruction]]                                                     |
+| 15–16 | [[rangoric-srd/spells/Horrid Wilting\|Horrid wilting]]                                             |
+| 17–18 | [[rangoric-srd/spells/Summon Monster IX\|Summon monster IX]] (fiends only)                         |
+| 19–20 | [[rangoric-srd/spells/Destruction\|Destruction]]                                                   |
 
 **Special Qualities**: A half-fiend has all the special qualities of the base creature, plus the following special qualities.
 
-  - Darkvision out to 60 feet.
+- Darkvision out to 60 feet.
 
-  - Immunity to [[rangoric-srd/rules/Afflictions#Poison|poison]].
+- Immunity to [[rangoric-srd/rules/Afflictions#Poison|poison]].
 
-  - [[rangoric-srd/monsters/abilities/Resistance|Resistance to acid]] 10, cold 10, electricity 10, and fire 10.
+- [[rangoric-srd/monsters/abilities/Resistance|Resistance to acid]] 10, cold 10, electricity 10, and fire 10.
 
-  - [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]]: 5/magic (if HD 11 or less) or 10/magic (if HD 12 or more).
+- [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]]: 5/magic (if HD 11 or less) or 10/magic (if HD 12 or more).
 
-  - A half-fiend’s natural weapons are treated as magic weapons for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
+- A half-fiend’s natural weapons are treated as magic weapons for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
-  - [[rangoric-srd/monsters/abilities/Spell Resistance|Spell resistance]] equal to creature’s HD + 10 (maximum 35).
+- [[rangoric-srd/monsters/abilities/Spell Resistance|Spell resistance]] equal to creature’s HD + 10 (maximum 35).
 
 **Abilities: Increase from the base creature as follows**: Str +4, Dex +4, Con +2, Int +4, Cha +2.
 

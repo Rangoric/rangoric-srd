@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Holy Weapons
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “holy weapons”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “holy weapons”, on the Special Attacks line.
 
 Any weapon wielded by a zuishin is treated as if it had the holy special ability. A zuishin creates arrows out of nothing as part of its attacks with any bow it wields. The [[rangoric-srd/monsters/kamis/Zuishin|zuishin]] has it.

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Minor Archon
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “minor archon”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “minor archon”, on the Special Qualities line.
 
 Harbinger archons lack the aura of menace and teleport abilities of more powerful archons. The [[rangoric-srd/monsters/archon/Harbinger Archon|harbinger archon]] has it.

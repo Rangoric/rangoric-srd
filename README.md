@@ -19,12 +19,12 @@ Every note has these, except the root notes (this README, the Changelog, Rangori
 doesn't meet them yet is marked `sweep: failing`, with one line per problem under `sweep-issues`, and its folder's
 Note Rules note lists it.
 
-| Key | Required | Values |
-| --- | --- | --- |
-| `srd-type` | yes | `text` |
-| `status` | yes | `base`, `draft`, `playtest`, `settled`, `replaced` |
-| `change` | yes | `copied`, `modified`, `new` |
-| `pi-review` | yes | |
-| `tags` | yes | list including `rangoric` and `rangoric/*` |
-| `based-on` | when `change` is not `new` | |
-| `replaced-by` | when `status` is `replaced` | |
+| Key           | Required                    | Values                                             |
+| ------------- | --------------------------- | -------------------------------------------------- |
+| `srd-type`    | yes                         | `text`                                             |
+| `status`      | yes                         | `base`, `draft`, `playtest`, `settled`, `replaced` |
+| `change`      | yes                         | `copied`, `modified`, `new`                        |
+| `pi-review`   | yes                         |                                                    |
+| `tags`        | yes                         | list including `rangoric` and `rangoric/*`         |
+| `based-on`    | when `change` is not `new`  |                                                    |
+| `replaced-by` | when `status` is `replaced` |                                                    |

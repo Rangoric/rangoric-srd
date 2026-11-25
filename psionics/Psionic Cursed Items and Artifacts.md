@@ -27,19 +27,19 @@ Subversive: A cursed item of this sort appears identical to a standard psionic i
 
 ###### Specific Cursed Item
 
-  - [[rangoric-srd/magic-items/cursed-items/Reverse Capacitor|Reverse Capacitor]]
+- [[rangoric-srd/magic-items/cursed-items/Reverse Capacitor|Reverse Capacitor]]
 
 ### Psionic Artifacts
 
 ##### Minor Artifacts
 
-Minor artifacts are not necessarily unique items, Instead, they are psionic items that no longer can be made, at least by common mortal means.  
+Minor artifacts are not necessarily unique items, Instead, they are psionic items that no longer can be made, at least by common mortal means.
 
-  - [[rangoric-srd/magic-items/artifacts/Sutra of Tranquil Thought|Sutra of Tranquil Thought]]
+- [[rangoric-srd/magic-items/artifacts/Sutra of Tranquil Thought|Sutra of Tranquil Thought]]
 
 ##### Major Artifacts
 
-Major artifacts are unique items - only one of each such item exists. They are difficult to find and dangerous to handle, but once found, are often even more difficult to destroy. A major psionic artifact has only a single, specific means of destruction.  
+Major artifacts are unique items - only one of each such item exists. They are difficult to find and dangerous to handle, but once found, are often even more difficult to destroy. A major psionic artifact has only a single, specific means of destruction.
 
-  - [[rangoric-srd/magic-items/artifacts/Annulus|Annulus]]
-  - [[rangoric-srd/magic-items/artifacts/Psicrown of the Crystal Mind|Psicrown of the Crystal Mind]]
+- [[rangoric-srd/magic-items/artifacts/Annulus|Annulus]]
+- [[rangoric-srd/magic-items/artifacts/Psicrown of the Crystal Mind|Psicrown of the Crystal Mind]]

@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/rules]
 
 # Background Generator Step 1
 
-*Step 1 of the [[rangoric-srd/unearthed-arcana/Character Background/Background Generator|Background Generator]].*
+_Step 1 of the [[rangoric-srd/unearthed-arcana/Character Background/Background Generator|Background Generator]]._
 
 ## Homeland, Family, and Childhood
 
@@ -34,7 +34,7 @@ Many dwarves come from industrious and tight-knit communities of like-minded ind
 **Table: Dwarf Homeland**
 
 | d%     | Result                                                                                                                  |
-|--------|-------------------------------------------------------------------------------------------------------------------------|
+| ------ | ----------------------------------------------------------------------------------------------------------------------- |
 | 01–40  | **Hills or Mountains**: You gain access to the Goldsniffer race trait and the Highlander regional trait.                |
 | 41–80  | **Underground**: You gain access to the Surface Stranger regional trait and the Tunnel Fighter race trait.              |
 | 81–87  | **Non-Dwarven Town or Village**: You gain access to the Brewmaster race trait and the Militia Veteran regional trait.   |
@@ -44,7 +44,7 @@ Many dwarves come from industrious and tight-knit communities of like-minded ind
 **Table: Dwarf Parents**
 
 | d%     | Result                                                                       |
-|--------|------------------------------------------------------------------------------|
+| ------ | ---------------------------------------------------------------------------- |
 | 01–60  | Both of your parents are alive.                                              |
 | 61–73  | Only your father is alive.                                                   |
 | 74–86  | Only your mother is alive.                                                   |
@@ -53,7 +53,7 @@ Many dwarves come from industrious and tight-knit communities of like-minded ind
 **Table: Dwarf Siblings**
 
 | d%     | Result                                                                                                                                                                                                                      |
-|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 01–80  | 1d4 biological siblings. With two or more siblings, you gain access to the Kin Guardian combat trait.                                                                                                                       |
 | 81–90  | 1d4+1 biological siblings. You gain access to the Kin Guardian combat trait.                                                                                                                                                |
 | 91–95  | 1d3–1 biological siblings and 1d3–1 adopted siblings. With two or more siblings, you gain access to the Kin Guardian combat trait. Roll on the Race of Adopted Sibling table to determine the race of any adopted siblings. |
@@ -66,7 +66,7 @@ Elves are often raised in insular elven communities, and the longevity of these 
 **Table: Elf Homeland**
 
 | d%     | Result                                                                                                                                                                                                                                  |
-|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 01–60  | **Forest**: You gain access to the Log Roller regional trait.                                                                                                                                                                           |
 | 61–80  | **Non-Elven City or Metropolis**: If you're an elf, you gain access to the Civilized social trait and the Forlorn race trait. If you're a half-elf, you gain access to the Civilized social trait and the Failed Apprentice race trait. |
 | 81–95  | **Non-Elven Town or Village**: If you're an elf, you gain access to the Forlorn race trait. If you're a half-elf, you gain access to the Failed Apprentice race trait.                                                                  |
@@ -75,7 +75,7 @@ Elves are often raised in insular elven communities, and the longevity of these 
 **Table: Elf Parents**
 
 | d%     | Result                                                                       |
-|--------|------------------------------------------------------------------------------|
+| ------ | ---------------------------------------------------------------------------- |
 | 01–79  | Both of your parents are alive.                                              |
 | 80–87  | Only your father is alive.                                                   |
 | 88–95  | Only your mother is alive.                                                   |
@@ -84,7 +84,7 @@ Elves are often raised in insular elven communities, and the longevity of these 
 **Table: Elf Siblings**
 
 | d%     | Result                                                                                                                                                                                                                                                    |
-|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 01–80  | 1d2 biological siblings. If you roll 2 siblings, you gain access to the Kin Guardian combat trait.                                                                                                                                                        |
 | 81–85  | 1d4+1 biological siblings. You gain access to the Kin Guardian combat trait.                                                                                                                                                                              |
 | 86–90  | 1d4+1 biological siblings. 1d3–1 of these siblings are half-elves, adopted, or a mix of the two (your choice). You gain access to the Kin Guardian combat trait. Roll on the Race of Adopted Sibling table to determine the race of any adopted siblings. |
@@ -97,7 +97,7 @@ The capricious and carefree gnomes of the world are widespread and varied. They 
 **Table: Gnome Homeland**
 
 | d%     | Result                                                                                         |
-|--------|------------------------------------------------------------------------------------------------|
+| ------ | ---------------------------------------------------------------------------------------------- |
 | 01–30  | **Forest**: You gain access to the Log Roller regional trait and the Animal Friend race trait. |
 | 31–65  | **Non-Gnome Town or Village**: You gain access to the Animal Friend race trait.                |
 | 66–95  | **Non-Gnome City or Metropolis**: You gain access to the Rapscallion race trait.               |
@@ -106,7 +106,7 @@ The capricious and carefree gnomes of the world are widespread and varied. They 
 **Table: Gnome Parents**
 
 | d%     | Result                                                                       |
-|--------|------------------------------------------------------------------------------|
+| ------ | ---------------------------------------------------------------------------- |
 | 01–90  | Both of your parents are alive.                                              |
 | 91–93  | Only your father is alive.                                                   |
 | 94–96  | Only your mother is alive.                                                   |
@@ -115,7 +115,7 @@ The capricious and carefree gnomes of the world are widespread and varied. They 
 **Table: Gnome Siblings**
 
 | d%     | Result                                                                                                                                                                                                                   |
-|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 01–50  | 1d4 biological siblings. With two or more siblings, you gain access to the Kin Guardian combat trait.                                                                                                                    |
 | 51–60  | 1d4–1 biological siblings and one adopted sibling. With two or more siblings, you gain access to the Kin Guardian combat trait. Roll on the Race of Adopted Sibling table to determine the race of any adopted siblings. |
 | 61–100 | No siblings.                                                                                                                                                                                                             |
@@ -127,7 +127,7 @@ Born of two very different worlds, half-elves rarely have easy childhoods. Torn 
 **Table: Half-Elf Homeland**
 
 | d%     | Result                                                            |
-|--------|-------------------------------------------------------------------|
+| ------ | ----------------------------------------------------------------- |
 | 01–25  | **Raised in an Elven Homeland**: Roll on the Elf Homeland table.  |
 | 26–75  | **Raised in a Human Homeland**: Roll on the Human Homeland table. |
 | 76–95  | **Forest**: You gain access to the Log Roller regional trait.     |
@@ -136,7 +136,7 @@ Born of two very different worlds, half-elves rarely have easy childhoods. Torn 
 **Table: Half-Elf Parents**
 
 | d%     | Result                                                                       |
-|--------|------------------------------------------------------------------------------|
+| ------ | ---------------------------------------------------------------------------- |
 | 01–20  | Both of your parents are alive.                                              |
 | 21–55  | Only your father is alive.                                                   |
 | 56–90  | Only your mother is alive.                                                   |
@@ -145,7 +145,7 @@ Born of two very different worlds, half-elves rarely have easy childhoods. Torn 
 **Table: Half-Elf Siblings**
 
 | d%     | Result                                                                                                                             |
-|--------|------------------------------------------------------------------------------------------------------------------------------------|
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------- |
 | 01–20  | 1d2 half-siblings (either elf or human, your choice). With two or more siblings, you gain access to the Kin Guardian combat trait. |
 | 21–30  | One half-elf sibling. You gain access to the Kin Bond magic trait.                                                                 |
 | 31–100 | No siblings.                                                                                                                       |
@@ -157,7 +157,7 @@ Only rarely the result of a happy union between the humans and orcs that bring t
 **Table: Half-Orc Homeland**
 
 | d%     | Result                                                                                                      |
-|--------|-------------------------------------------------------------------------------------------------------------|
+| ------ | ----------------------------------------------------------------------------------------------------------- |
 | 01–25  | **Subterranean**: You gain access to either the Scrapper race trait or the Surface Stranger regional trait. |
 | 26–60  | **Orc Settlement**: You gain access to the Scrapper race trait.                                             |
 | 61–75  | **Raised in a Human Homeland**: Roll on the Human Homeland table.                                           |
@@ -167,7 +167,7 @@ Only rarely the result of a happy union between the humans and orcs that bring t
 **Table: Half-Orc Parents**
 
 | d%     | Result                                                                      |
-|--------|-----------------------------------------------------------------------------|
+| ------ | --------------------------------------------------------------------------- |
 | 01–10  | Both of your parents are alive.                                             |
 | 11–35  | Only your father is alive.                                                  |
 | 36–60  | Only your mother is alive.                                                  |
@@ -176,7 +176,7 @@ Only rarely the result of a happy union between the humans and orcs that bring t
 **Table: Half-Orc Siblings**
 
 | d%     | Result                                                                                           |
-|--------|--------------------------------------------------------------------------------------------------|
+| ------ | ------------------------------------------------------------------------------------------------ |
 | 01–60  | 1d6+1 orc siblings. You gain access to the Kin Guardian combat trait.                            |
 | 61–70  | 1d4 human siblings. With two or more siblings, you gain access to the Kin Guardian combat trait. |
 | 71–80  | One half-orc sibling.                                                                            |
@@ -189,7 +189,7 @@ Social and amicable by nature, halflings fit equally well in both communities of
 **Table: Halfling Homeland**
 
 | d%     | Result                                                                                                           |
-|--------|------------------------------------------------------------------------------------------------------------------|
+| ------ | ---------------------------------------------------------------------------------------------------------------- |
 | 01–50  | **Halfling Settlement**: You gain access to the Civilized social trait and the Well-Informed race trait.         |
 | 51–80  | **Human Settlement**: You gain access to the Child of the Streets social trait and the Well-Informed race trait. |
 | 81–95  | **Traveling Band or Caravan**: You gain access to the Friend in Every Town social trait.                         |
@@ -198,7 +198,7 @@ Social and amicable by nature, halflings fit equally well in both communities of
 **Table: Halfling Parents**
 
 | d%     | Result                                                                       |
-|--------|------------------------------------------------------------------------------|
+| ------ | ---------------------------------------------------------------------------- |
 | 01–70  | Both parents living.                                                         |
 | 71–80  | Only your father is alive.                                                   |
 | 81–90  | Only your mother is alive.                                                   |
@@ -207,7 +207,7 @@ Social and amicable by nature, halflings fit equally well in both communities of
 **Table: Halfling Siblings**
 
 | d%     | Result                                                                             |
-|--------|------------------------------------------------------------------------------------|
+| ------ | ---------------------------------------------------------------------------------- |
 | 01–30  | 1d2 siblings. With two siblings, you gain access to the Kin Guardian combat trait. |
 | 31–90  | 1d4+1 siblings. You gain access to the Kin Guardian combat trait.                  |
 | 91–100 | No siblings.                                                                       |
@@ -219,7 +219,7 @@ As diverse as they are widespread, humans tend to grow up in small or large soci
 **Table: Human Homeland**
 
 | d%     | Result                                                                                                                                                                                                                                                                                                                                         |
-|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 01–50  | **Town or Village**: You gain access to the Militia Veteran regional trait.                                                                                                                                                                                                                                                                    |
 | 51–85  | **City or Metropolis**: If you're a human, you gain access to the Civilized social trait and the Vagabond Child regional trait. If you're a half-elf, you gain access to the Civilized social trait and the Failed Apprentice race trait. If you're a half-orc, you gain access to the Brute race trait and the Vagabond Child regional trait. |
 | 86–95  | **Frontier**: You gain access to the Frontier-Forged regional trait.                                                                                                                                                                                                                                                                           |
@@ -228,7 +228,7 @@ As diverse as they are widespread, humans tend to grow up in small or large soci
 **Table: Human Parents**
 
 | d%     | Result                                                                       |
-|--------|------------------------------------------------------------------------------|
+| ------ | ---------------------------------------------------------------------------- |
 | 01–50  | Both of your parents are alive.                                              |
 | 51–70  | Only your father is alive.                                                   |
 | 71–90  | Only your mother is alive.                                                   |
@@ -237,7 +237,7 @@ As diverse as they are widespread, humans tend to grow up in small or large soci
 **Table: Human Siblings**
 
 | d%     | Result                                                                                                                                                          |
-|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 01–40  | 1d2 siblings. With two siblings, you gain access to the Kin Guardian combat trait.                                                                              |
 | 41–70  | 1d2 siblings and 1d2 half-siblings (roll d% to determine each one's race; 01–50: half-elf, 51–100: half-orc). You gain access to the Kin Guardian combat trait. |
 | 71–90  | 2d4 siblings. You gain access to the Kin Guardian combat trait.                                                                                                 |
@@ -250,7 +250,7 @@ If you have at least one sibling, roll on the table below to determine the relat
 **Table: Relative Age of Sibling** ^relative-age-of-sibling
 
 | d%     | Result                                                                                                                                                                                                                             |
-|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 01–48  | Your sibling is older than you.                                                                                                                                                                                                    |
 | 49–96  | Your sibling is younger than you.                                                                                                                                                                                                  |
 | 97–100 | You and a sibling are twins (identical or fraternal, your choice). Roll on this table again. If you roll this result again, you are one of triplets; otherwise, your sibling's relative age determines which of you emerged first. |
@@ -258,7 +258,7 @@ If you have at least one sibling, roll on the table below to determine the relat
 **Table: Race of Adopted Sibling**
 
 | %     | Result      |
-|-------|-------------|
+| ----- | ----------- |
 | 01    | Aasimar     |
 | 02    | Catfolk     |
 | 03–04 | Changeling  |
@@ -303,7 +303,7 @@ You grew up in a region not typically associated with the lands that your people
 **Table: Unusual Homeland**
 
 | d%     | Result                                                                                                        |
-|--------|---------------------------------------------------------------------------------------------------------------|
+| ------ | ------------------------------------------------------------------------------------------------------------- |
 | 01–10  | **Subterranean**: You gain access to the Surface Stranger regional trait.                                     |
 | 11–25  | **Mountains**: You gain access to the Highlander regional trait.                                              |
 | 26–40  | **Plains**: You gain access to the Savanna Child regional trait.                                              |
@@ -323,10 +323,10 @@ Roll once to determine the circumstances of your birth.
 **Table: Circumstance of Birth**
 
 | d%    | Result                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 01–40 | Lower-Class Birth: You were born among peasants or slum denizens. You grew up working the land around a village or manor, practicing a rudimentary trade, or begging in a settlement. You gain access to the Poverty-Stricken social trait. Roll 2d20 on the Parents' Profession table to determine your parents' occupation, instead of rolling d%.                                                                                                       |
 | 41–65 | Middle-Class Birth: You were born to the middle class, which includes merchants, artisans, and tradespeople. You likely grew up in a good-sized settlement, and one of your parents is likely associated with a guild or other trade organization. As a free person, you don't experience the bondage of serfdom or peasantry, but you also lack the privilege of the nobility. You gain access to the Artisan social trait and the Merchant social trait. |
-| 66–70 | Noble Birth: You were born to privilege among the nobility. Unless one of your parents is the regent, your family serves a higher-ranked noble but lesser nobles serve your family in turn. You gain access to the Influence social trait and the Rich Parents social trait. Roll on the Nobility table to determine your family's noble rank.                                                                                                   |
+| 66–70 | Noble Birth: You were born to privilege among the nobility. Unless one of your parents is the regent, your family serves a higher-ranked noble but lesser nobles serve your family in turn. You gain access to the Influence social trait and the Rich Parents social trait. Roll on the Nobility table to determine your family's noble rank.                                                                                                             |
 | 71–72 | Adopted Outside Your Race: You were not raised by your birth family and grew up in a family of a different race than your own. Roll on the Adopted Outside Your Race table.                                                                                                                                                                                                                                                                                |
 | 73–77 | Adopted: You were not raised by your birth family, but taken in by another family within your race or culture. Roll twice instead of once on the Parents' Profession table—once for your birth family and a second time for your adoptive family. You gain access to traits granted by both sets of parents.                                                                                                                                               |
 | 78–81 | Bastard Born: Your parents had a tryst that resulted in your birth out of wedlock. You know one of your parents, but the other remains unknown or a distant presence at best. You gain access to the Bastard social trait and the Shamed story feat.                                                                                                                                                                                                       |
@@ -352,9 +352,9 @@ Most of the time, your parents both come from the same social stratum. It's unco
 **Table: Parents' Profession**
 
 | d%     | Result                                                                                           |
-|--------|--------------------------------------------------------------------------------------------------|
+| ------ | ------------------------------------------------------------------------------------------------ |
 | 01–05  | **Slaves**: You gain access to the Life of Toil social trait.                                    |
-| 06–25  | **Serfs/Peasants**: You gain access to the Poverty-Stricken social trait.                       |
+| 06–25  | **Serfs/Peasants**: You gain access to the Poverty-Stricken social trait.                        |
 | 26–30  | **Entertainers**: You gain access to the Talented social trait.                                  |
 | 31–34  | **Soldiers**: You gain access to the Tactician combat trait.                                     |
 | 35–37  | **Sailors**: You gain access to the Worldly social trait.                                        |
@@ -372,7 +372,7 @@ If you made a roll that determined your character was adopted outside your race,
 **Table: Adopted Outside Your Race**
 
 | d%     | Result                                                                                                                                                                                                                                                                                                                                                                                                       |
-|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 01–05  | **Adopted by Dragons**: For its own purposes, a dragon raised you as its own. You have learned the language and history, wisdom, power, and might of dragonkind. You gain access to the Blood of Dragons bloodline race trait and the Magical Knack magic trait.                                                                                                                                             |
 | 06–10  | **Adopted by the Fey**: Your adoptive parents were fey creatures such as korreds, pixies, or a dryad. You gain access to the Charming social trait and the Magical Knack magic trait.                                                                                                                                                                                                                        |
 | 11–13  | **Raised Among the Dead**: Your adoptive parent is a nonliving creature, such as a spectre, ghost, lich, or vampire. You were likely raised in empty ruined halls, among tombs and crypts, by a creature that feeds on life. What its purpose was for raising you, none can say. You gain access to the Deathtouched bloodline race trait, the Magical Knack magic trait, and the Glimpse Beyond story feat. |
@@ -389,7 +389,7 @@ As a person of noble rank, you have access to a degree of wealth, privilege, or 
 **Table: Nobility**
 
 | d%    | Result                                                                                                                                                                                                                                                                                                                                                         |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 01–60 | **Gentry**: You are the child of a minor lord, lady, or noble with an income, hereditary land such as a manor, and titles. You likely grew up in a manor and your parents were paid tribute by peasants. Your parents serve a higher baron, count, or duke.                                                                                                    |
 | 61–78 | **Knight**: You are the child of a knight, a noble with estates, titles, and lands who serves a lord. Your family has sworn an oath of fealty to a liege—such as a baron, count, or duke—and commits to military service in his or her name. As the child of a knight, you may serve as a squire to another knight while pursuing your own path to knighthood. |
 | 79–85 | **Baron**: You are the child of a baron or baroness, a noble responsible for a land encompassing several smaller manors that pay tribute. Your parents receive orders directly from the monarch, and you're expected to attend the royal court. You are entitled to hereditary estates, titles, and land.                                                      |
@@ -405,10 +405,10 @@ During your childhood, you were influenced by a significant event that helped to
 **Table: Major Childhood Event**
 
 | d%     | Result                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 01–05  | **Academy Training**: You attended a private academy where you studied a number of skills and gained training in your current profession. Whether you were a brilliant student or a dropout, the university environment was your home for a good portion of your formative years. You gain access to the Focused Mind magic trait.                                                                                                                                             |
 | 06–10  | **Betrayal**: A friend or family member whom you trusted more than anyone else betrayed you. You have never fully trusted anyone since and prefer to rely on your own abilities rather than place your trust in others. You gain access to the Suspicious social trait.                                                                                                                                                                                                        |
-| 11–15  | **Bullied**: In your early life, you were a victim—easy prey for those stronger or cleverer than yourself. They beat you when they could, using you for their sport. This abuse nursed a powerful flame of vengeance. You gain access to the Bullied combat trait.                                                                                                                                                                                                            |
+| 11–15  | **Bullied**: In your early life, you were a victim—easy prey for those stronger or cleverer than yourself. They beat you when they could, using you for their sport. This abuse nursed a powerful flame of vengeance. You gain access to the Bullied combat trait.                                                                                                                                                                                                             |
 | 16–20  | **Competition Champion**: You distinguished yourself at an early age when you won a competition. This might have been a martial contest of arms, a showing of apprentice magicians, high stakes gambling, or something mundane like an eating championship. You gain access to the Influence social trait and the Champion story feat.                                                                                                                                         |
 | 21–25  | **Death in the Family**: You were profoundly affected by the death of the relative closest to you—a parent, grandparent, favorite sibling, aunt, uncle, or cousin. This death affected you profoundly, and you've never been able to let go of it. You gain access to the Reactionary combat trait and the Deny the Reaper story feat.                                                                                                                                         |
 | 26–30  | **Died**: You died, or came so close to death that you walked the boundary between the realms of the living and the dead. Having passed from life's domain once, you have a unique perspective on life, perhaps even a greater appreciation for it—or maybe your experience caused you to reject all trivial things, focusing only on matters of true import. You gain access to the Fearless Defiance faith trait and the Arisen story feat.                                  |
@@ -416,9 +416,9 @@ During your childhood, you were influenced by a significant event that helped to
 | 36–40  | **Fell in with a Bad Crowd**: In your youth, you ran with a brutal, evil, or sadistic crowd. You might have belonged to a gang, a thieves' guild, or some other nefarious organization. It was easy to cave in to pressure and do whatever they told you to do, and your outlook is colored by moral ambiguity. You gain access to the Child of the Streets social trait.                                                                                                      |
 | 41–45  | **First Kill**: You've had blood on your hands since your youth, when you first took the life of another creature. Whether this act repulsed you or gave you pleasure, it was a formative experience. You gain access to the Killer combat trait and the Innocent Blood story feat.                                                                                                                                                                                            |
 | 46–50  | **Troubled First Love**: Your first love was everything you imagined it would be. That is, until you were separated from your beloved. This may have been the result of distance, changing perspectives, death, or differences in class or family. Some have said this made you jaded—you think it has granted you insight on how the world really works. You gain access to the Worldly social trait and you roll a d12 instead of a d20 on the Romantic Relationships table. |
-| 51–55  | **Imprisoned**: Your criminal record began when you were young. You were imprisoned, punished, and possibly displayed in public as a criminal. Whether or not you committed the crime, the experience has stayed with you. You gain access to the Criminal social trait. See [[rangoric-srd/unearthed-arcana/Character Background/Background Generator Step 3#Crime and Punishment\|Crime and Punishment]]. You also gain access to the Liberator story feat.                                                                                                    |
+| 51–55  | **Imprisoned**: Your criminal record began when you were young. You were imprisoned, punished, and possibly displayed in public as a criminal. Whether or not you committed the crime, the experience has stayed with you. You gain access to the Criminal social trait. See [[rangoric-srd/unearthed-arcana/Character Background/Background Generator Step 3#Crime and Punishment\|Crime and Punishment]]. You also gain access to the Liberator story feat.                  |
 | 56–60  | **Inheritance**: A great sum of wealth or property was bequeathed to you at an early age, providing you with extraordinary means. Daily costs of living have ceased to concern you, and you've learned that there is little that money cannot buy. You gain access to the Rich Parents social trait.                                                                                                                                                                           |
-| 61–65  | **Kidnapped**: You were kidnapped at some point in your childhood. The kidnappers might have been pirates, slavers, thieves looking for ransom, a powerful guild seeking to blackmail your parents, a cult, and so on. Before you were released, were ransomed, or escaped, you picked up on various aspects of the criminal underworld. You gain access to the Canter social trait and the Liberator story feat.                                                         |
+| 61–65  | **Kidnapped**: You were kidnapped at some point in your childhood. The kidnappers might have been pirates, slavers, thieves looking for ransom, a powerful guild seeking to blackmail your parents, a cult, and so on. Before you were released, were ransomed, or escaped, you picked up on various aspects of the criminal underworld. You gain access to the Canter social trait and the Liberator story feat.                                                              |
 | 66–70  | **Magical Gift**: When you were a child, you found, stole, or were given a magic item that gave you an extraordinary ability. You may have used this item for mischief, crime, or good. Since that time, magic items have always held a special fascination for you. You gain access to the Magical Talent magic trait.                                                                                                                                                        |
 | 71–75  | **Major Disaster**: You witnessed—and survived—a major disaster in your childhood years, such as a great fire, flood, earthquake, volcano, or storm. It obliterated the settlement where you lived, whether a small village, large city, or entire island. You gain access to the Resilient combat trait and the Unforgotten story feat.                                                                                                                                       |
 | 76–80  | **Mentorship/Patronage**: A mentor or patron took an interest in your development and volunteered to train or sponsor you. This creature's motives might not be entirely clear, but without its influence you would not be who you are. You gain access to the Mentored social trait.                                                                                                                                                                                          |

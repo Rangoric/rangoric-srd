@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Desert Stride
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “desert stride”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “desert stride”, on the Special Qualities line.
 
 A kasatha moves through nonmagical difficult terrain in desert environments at normal speed. The [[rangoric-srd/monsters/Kasatha|kasatha]] has it.

@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Alchemical Solvent
 
-This bubbling purple gel eats through adhesives. Each vial can cover a single 5-foot square. It destroys normal adhesives (such as tar, tree sap, or glue) in a single round but takes 1d4+1 rounds to deal with more powerful adhesives ([[rangoric-srd/equipment/gear/Tanglefoot Bag|tanglefoot bags]], spider webbing, and so on). It has no effect on fully magical adhesives, including *[[rangoric-srd/magic-items/wondrous-items/Sovereign Glue|sovereign glue]]*.
+This bubbling purple gel eats through adhesives. Each vial can cover a single 5-foot square. It destroys normal adhesives (such as tar, tree sap, or glue) in a single round but takes 1d4+1 rounds to deal with more powerful adhesives ([[rangoric-srd/equipment/gear/Tanglefoot Bag|tanglefoot bags]], spider webbing, and so on). It has no effect on fully magical adhesives, including _[[rangoric-srd/magic-items/wondrous-items/Sovereign Glue|sovereign glue]]_.
 
 Price 20 gp/vial; Weight 1/2 lb.

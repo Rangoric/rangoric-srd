@@ -26,15 +26,15 @@ tags: [rangoric, rangoric/spell]
 
 # Fly, Mass
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Psy 7, Sor/Wiz 7
-  - **Components**: V, S, F (a wing feather)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature/level, no two of which can be more than 30 ft. apart
-  - **Duration**: 10 minutes/level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Psy 7, Sor/Wiz 7
+- **Components**: V, S, F (a wing feather)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature/level, no two of which can be more than 30 ft. apart
+- **Duration**: 10 minutes/level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-This spell functions as *[[rangoric-srd/spells/Fly|fly]]*, save that it can target numerous creatures and lasts longer.
+This spell functions as _[[rangoric-srd/spells/Fly|fly]]_, save that it can target numerous creatures and lasts longer.

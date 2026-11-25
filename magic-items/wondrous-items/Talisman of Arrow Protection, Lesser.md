@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/magic-item]
 
 A talisman works as described under [[rangoric-srd/magic-items/Magic Item Basics#^talismans|Talismans]] in the rules for magic items on the body. A lesser talisman has only enough magic to protect its wearer once, after which it crumbles to dust.
 
-The first time the wearer is hit by two or more ranged attacks in one round, he is immediately affected by *[[rangoric-srd/spells/Protection from Arrows|protection from arrows]]*.
+The first time the wearer is hit by two or more ranged attacks in one round, he is immediately affected by _[[rangoric-srd/spells/Protection from Arrows|protection from arrows]]_.
 
-Faint abjuration; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Protection from Arrows|protection from arrows]]*; Price 600 gp; Cost 300 gp; Weight 1 lb.
+Faint abjuration; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Protection from Arrows|protection from arrows]]_; Price 600 gp; Cost 300 gp; Weight 1 lb.

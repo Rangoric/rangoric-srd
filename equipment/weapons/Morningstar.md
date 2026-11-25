@@ -21,4 +21,4 @@ tags: [rangoric, rangoric/weapon, weapon-group/flails]
 
 # Morningstar
 
-*Simple one-handed melee weapon.* Cost 8 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Weight 6 lb.; Type Bludgeoning and piercing. ^stats
+_Simple one-handed melee weapon._ Cost 8 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Weight 6 lb.; Type Bludgeoning and piercing. ^stats

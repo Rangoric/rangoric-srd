@@ -18,12 +18,12 @@ tags: [rangoric, rangoric/class-option]
 
 # Shimmering Mirage
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Water Element|water]]
-  - **Type**: utility (Sp)
-  - **Level**: 5
-  - **Burn**: 1
-  - **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Shroud of Water|shroud of water]]
+- **Element**: [[rangoric-srd/class-options/elements/Water Element|water]]
+- **Type**: utility (Sp)
+- **Level**: 5
+- **Burn**: 1
+- **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Shroud of Water|shroud of water]]
 
 Your shroud bends light, creating a shimmering mirage. While your [[rangoric-srd/class-options/wild-talents/Shroud of Water|shroud of water]] is active, attacks against you suffer a 20% miss chance due to concealment until the next time your [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]] is removed.

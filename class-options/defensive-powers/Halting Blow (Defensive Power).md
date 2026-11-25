@@ -13,6 +13,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Halting Blow
 
-*A [[rangoric-srd/prestige-classes/Stalwart Defender#Defensive Powers|defensive power]] (Ex).*
+_A [[rangoric-srd/prestige-classes/Stalwart Defender#Defensive Powers|defensive power]] (Ex)._
 
 If a foe's movement in the defender's threatened area provokes an attack of opportunity and the defender successfully hits the foe with the attack, the foe's movement ends immediately. The foe cannot move again until its next turn but can still take the rest of its action. A defender must have selected the bulwark power prior to selecting halting blow.

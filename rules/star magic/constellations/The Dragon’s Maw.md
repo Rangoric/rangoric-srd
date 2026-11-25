@@ -28,17 +28,17 @@ tags: [rangoric, rangoric/constellation]
 
 # The Dragon’s Maw
 
-*[[rangoric-srd/rules/star magic/Star Magic|Constellation]]* \[Fire\]
+_[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_ \[Fire\]
 
-  - **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Destruction|Destruction]], [[rangoric-srd/rules/star magic/stars/Star of Fire|Fire]], [[rangoric-srd/rules/star magic/stars/Star of Hate|Hate]]
-  - **Call Level**: 5th ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Area**: 15-ft.-radius spread
-  - **Duration**: Instantaneous, or 3 or 9 rounds at higher call levels (see text)
-  - **Saving Throw**: Reflex half
-  - **Spell Resistance**: Yes
+- **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Destruction|Destruction]], [[rangoric-srd/rules/star magic/stars/Star of Fire|Fire]], [[rangoric-srd/rules/star magic/stars/Star of Hate|Hate]]
+- **Call Level**: 5th ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Area**: 15-ft.-radius spread
+- **Duration**: Instantaneous, or 3 or 9 rounds at higher call levels (see text)
+- **Saving Throw**: Reflex half
+- **Spell Resistance**: Yes
 
 Magical flames of every color fill a sphere centered on a point you choose, appearing everywhere in it at once, so walls, closed doors and other barriers inside the area give no protection. Everything in the area takes 1d6 points of fire damage per caster level (maximum 15d6). Objects save as usual or take the damage.
 

@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Spider Climb, Communal
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 3, Drd 3, Hun 3, Occ 3, Psy 3, Sor/Wiz 3, Sum 3, SumU 3
-  - **Components**: V, S, M (a live spider)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creatures touched
-  - **Duration**: 10 min./level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Alc 3, Drd 3, Hun 3, Occ 3, Psy 3, Sor/Wiz 3, Sum 3, SumU 3
+- **Components**: V, S, M (a live spider)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creatures touched
+- **Duration**: 10 min./level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-This spell functions like *[[rangoric-srd/spells/Spider Climb|spider climb]]*, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 10-minute intervals among the creatures touched.
+This spell functions like _[[rangoric-srd/spells/Spider Climb|spider climb]]_, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 10-minute intervals among the creatures touched.

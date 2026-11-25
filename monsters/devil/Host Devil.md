@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Host Devil
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Devil, Evil, Extraplanar, Lawful)
-  - **Hit Dice**: 7d10+21 (59 hp)
-  - **Initiative**: +4
-  - **Speed**: 20 ft. (4 squares), fly 50 ft. (average)
-  - **Armor Class**: 23 (+4 Dex, +1 dodge, +8 natural), touch 15, flat-footed 18
-  - **Base Attack**: +7; **CMB**: +11; **CMD**: 26
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Ranseur|ranseur]] +12 melee (2d4+6/×3) or claw +11 melee (1d6+4 plus 2 bleed)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Ranseur|ranseur]] +12/+7 melee (2d4+6/×3); or 2 claws +11 melee (1d6+4 plus 2 bleed)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Noxious Breath|Noxious breath]], rend (2 claws, 1d6+6 plus 2 [[rangoric-srd/monsters/abilities/Bleed|bleed]]), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect magic, [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Master Grappler|master grappler]], [[rangoric-srd/monsters/abilities/Shared Senses|shared senses]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and cold 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17
-  - **Saves**: Fort +8, Ref +9, Will +3
-  - **Abilities**: Str 18, Dex 19, Con 16, Int 10, Wis 12, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +4 (+0 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +14
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Mobility|Mobility]]
-  - **Environment**: Any (a lawful evil-aligned plane: Hell)
-  - **Organization**: Solitary, pair, or flock (2–6)
-  - **Challenge Rating**: 6
-  - **Treasure**: Standard (mwk ranseur, other treasure)
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Devil, Evil, Extraplanar, Lawful)
+- **Hit Dice**: 7d10+21 (59 hp)
+- **Initiative**: +4
+- **Speed**: 20 ft. (4 squares), fly 50 ft. (average)
+- **Armor Class**: 23 (+4 Dex, +1 dodge, +8 natural), touch 15, flat-footed 18
+- **Base Attack**: +7; **CMB**: +11; **CMD**: 26
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Ranseur|ranseur]] +12 melee (2d4+6/×3) or claw +11 melee (1d6+4 plus 2 bleed)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Ranseur|ranseur]] +12/+7 melee (2d4+6/×3); or 2 claws +11 melee (1d6+4 plus 2 bleed)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Noxious Breath|Noxious breath]], rend (2 claws, 1d6+6 plus 2 [[rangoric-srd/monsters/abilities/Bleed|bleed]]), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect magic, [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Master Grappler|master grappler]], [[rangoric-srd/monsters/abilities/Shared Senses|shared senses]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and cold 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17
+- **Saves**: Fort +8, Ref +9, Will +3
+- **Abilities**: Str 18, Dex 19, Con 16, Int 10, Wis 12, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +4 (+0 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +14
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Mobility|Mobility]]
+- **Environment**: Any (a lawful evil-aligned plane: Hell)
+- **Organization**: Solitary, pair, or flock (2–6)
+- **Challenge Rating**: 6
+- **Treasure**: Standard (mwk ranseur, other treasure)
+- **Alignment**: Usually lawful evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Hunters of souls, host devils retrieve Hell's most elusive property. Whether souls that have long evaded capture upon the plains of Hell's first layer, damned beings who have somehow managed to escape Hell, or creatures that have reneged upon infernal contracts, vast flocks of these winged fiends fly from the Pit to recover their prey. Rarely seen alone, host devils travel in great swarms that often number in the thousands. These four-winged mockeries of the angelic form swarm in enormous columns, moving in tandem as though they were one colossal, infernal beast controlled by a single brain.
 
@@ -71,7 +71,7 @@ Host devils speak Celestial, Draconic and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +12): Constant—*[[rangoric-srd/spells/Detect Magic|detect magic]]*; At will—*[[rangoric-srd/spells/Teleport, Greater|greater teleport]]* (self plus 50 lbs. of objects only); 1/day—[[rangoric-srd/monsters/abilities/Summon|summon]] (CL 3rd, 1 magaav 40%).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +12): Constant—_[[rangoric-srd/spells/Detect Magic|detect magic]]_; At will—_[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only); 1/day—[[rangoric-srd/monsters/abilities/Summon|summon]] (CL 3rd, 1 magaav 40%).
 
 **[[rangoric-srd/monsters/abilities/Master Grappler|Master Grappler]] (Ex)**: A magaav can wield a weapon and still attempt grapple checks. While not wielding a weapon, a magaav gains a +4 bonus on grapple checks.
 

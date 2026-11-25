@@ -27,6 +27,6 @@ Psychoportation
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 min./level (D)  
-**Power Points:** 7  
+**Power Points:** 7
 
 As the [[rangoric-srd/spells/Fly|fly]] spell, except as noted here.

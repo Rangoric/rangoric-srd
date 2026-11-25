@@ -17,6 +17,6 @@ Demodands are chaotic evil outsiders who stalk the Abyss. They speak Abyssal, Ce
 
 Demodands have the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^demodand|demodand subtype]]: immunity to acid and poison, resistance to cold and fire, the power to summon others of their kind, the faith-stealing strike, a heretical soul that shields them from divine magic, and the languages they speak.
 
-  - [[rangoric-srd/monsters/demodands/Shaggy Demodand|Shaggy Demodand]]
-  - [[rangoric-srd/monsters/demodands/Slimy Demodand|Slimy Demodand]]
-  - [[rangoric-srd/monsters/demodands/Tarry Demodand|Tarry Demodand]]
+- [[rangoric-srd/monsters/demodands/Shaggy Demodand|Shaggy Demodand]]
+- [[rangoric-srd/monsters/demodands/Slimy Demodand|Slimy Demodand]]
+- [[rangoric-srd/monsters/demodands/Tarry Demodand|Tarry Demodand]]

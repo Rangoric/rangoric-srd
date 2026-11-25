@@ -30,16 +30,16 @@ tags: [rangoric, rangoric/spell]
 
 # Magic Fang
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Drd 1, Hun 1, Rgr 1, Spi 1, Sum 1, SumU 1, Tot 1
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Living creature touched
-  - **Duration**: 1 min./level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Drd 1, Hun 1, Rgr 1, Spi 1, Sum 1, SumU 1, Tot 1
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Living creature touched
+- **Duration**: 1 min./level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 Magic fang gives one natural weapon of the subject a +1 enhancement bonus on attack and damage rolls. The spell can affect a slam attack, fist, bite, or other natural weapon. (The spell does not change an unarmed strike’s damage from nonlethal damage to lethal damage.)
 

@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Spell Resistance
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Alc 5, Clr 5, Inq 5, Magic 5, Occ 5, Protection 5, Psy 5, Spi 5
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 min./level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Alc 5, Clr 5, Inq 5, Magic 5, Occ 5, Protection 5, Psy 5, Spi 5
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 min./level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 The creature gains spell resistance equal to 12 + your caster level.

@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Divine Commander
 
-*A [[rangoric-srd/classes/Warpriest#^warpriest-archetypes|warpriest]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Warpriest#^warpriest-archetypes|warpriest]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Some warpriests are called to lead great armies and face legions of foes. These divine commanders live for war and fight for glory. Their hearts quicken at battle cries, and they charge forth with their deity's symbol held high. These leaders of armies do so to promote the agenda of their faith, and lead armies of devoted followers willing to give their lives for the cause. (Several of the divine commander's abilities reference and interact with the mass combat rules.)
 

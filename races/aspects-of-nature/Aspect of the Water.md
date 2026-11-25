@@ -28,10 +28,10 @@ Those devoted to the Aspect of the Water believe in water’s ability to foster 
 
 How these effects work is in [[rangoric-srd/races/aspects-of-nature/Aspects of Nature#Aspect of Nature Effects|Aspect of Nature Effects]].
 
-| Facet | Bonus | Penalty |
-| --- | --- | --- |
-| The Lake | capable spellcasting (cold) | crude spellcasting (fire) |
-| The Ocean | spell resistant (acid) | spell vulnerable (sonic) |
-| The River | +1 to Attack rolls 3x/day | -1 Damage rolls 3x/day |
-| The Springs | spell resistant (cold) | spell vulnerable (fire) |
+| Facet             | Bonus                           | Penalty                    |
+| ----------------- | ------------------------------- | -------------------------- |
+| The Lake          | capable spellcasting (cold)     | crude spellcasting (fire)  |
+| The Ocean         | spell resistant (acid)          | spell vulnerable (sonic)   |
+| The River         | +1 to Attack rolls 3x/day       | -1 Damage rolls 3x/day     |
+| The Springs       | spell resistant (cold)          | spell vulnerable (fire)    |
 | The Watery Depths | capable spellcasting (darkness) | crude spellcasting (light) |

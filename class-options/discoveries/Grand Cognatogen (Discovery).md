@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Grand Cognatogen
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]] (Su).*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]] (Su)._
 
 The alchemist’s cognatogen now grants a +6 natural armor bonus, a +8 alchemical bonus to one mental ability score (Intelligence, Wisdom, or Charisma), a +6 alchemical bonus to a second mental ability score, and a +4 alchemical bonus to a third mental ability score. The alchemist takes a –2 penalty to his Strength, Dexterity, and Constitution as long as the cognatogen persists, and takes 2 points of ability damage to each physical ability score when the cognatogen ends. An alchemist must be at least 16th level and must have the [[rangoric-srd/class-options/discoveries/Greater Cognatogen (Discovery)|greater cognatogen]] discovery or class ability before selecting this discovery.

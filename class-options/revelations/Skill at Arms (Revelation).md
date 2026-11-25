@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Skill at Arms
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Battle Mystery|battle]] and [[rangoric-srd/class-options/mysteries/Metal Mystery|metal]] mysteries.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Battle Mystery|battle]] and [[rangoric-srd/class-options/mysteries/Metal Mystery|metal]] mysteries._
 
 You gain proficiency in all martial weapons and heavy armor.

@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Enchantment Implements
 
-*An [[rangoric-srd/classes/Occultist#^occultist-implements|implement school]] of the [[rangoric-srd/classes/Occultist|occultist]].*
+_An [[rangoric-srd/classes/Occultist#^occultist-implements|implement school]] of the [[rangoric-srd/classes/Occultist|occultist]]._
 
 Enchantment implements allow the occultist to befuddle the mind and charm his foes.
 

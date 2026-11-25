@@ -32,7 +32,7 @@ Target: One corporeal creature
 Duration: Instantaneous  
 Saving Throw: Fortitude half  
 Power Resistance: Yes  
-Power Points: 9  
+Power Points: 9
 
 You psychoportively disperse minuscule portions of the subject, dealing 9d6 points of damage. Targets can be protected from the effects of baleful teleport by [[rangoric-srd/powers/Dimensional Anchor, Psionic|dimensional anchor]].
 

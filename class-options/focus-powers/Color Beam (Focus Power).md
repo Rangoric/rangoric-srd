@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Color Beam
 
-*A focus power of [[rangoric-srd/class-options/implement-schools/Illusion Implements|illusion implements]], for the [[rangoric-srd/classes/Occultist|occultist]] (Sp).*
+_A focus power of [[rangoric-srd/class-options/implement-schools/Illusion Implements|illusion implements]], for the [[rangoric-srd/classes/Occultist|occultist]] (Sp)._
 
 As a standard action, you can expend 1 point of mental focus to unleash a beam of cascading colors at any one target within 30 feet. Doing so requires a ranged touch attack. If the beam hits, the target is [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 1 round if it has a number of Hit Dice equal to or lower than your occultist level. A foe with a number of Hit Dice greater than your occultist level is instead [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] for 1 round. The foe can attempt a Will save to negate the effect. Regardless of whether it succeeds at its save, the target is then immune to this effect for 1 day. This is a mind-affecting illusion effect.

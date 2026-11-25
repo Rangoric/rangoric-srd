@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Clockwork Steed
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]] (Clockwork)
-  - **Hit Dice**: 8d10+30 (74 hp)
-  - **Initiative**: +5
-  - **Speed**: 50 ft. (10 squares)
-  - **Armor Class**: 20 (+1 Dex, +2 dodge, +8 natural, –1 size), touch 12, flat-footed 17
-  - **Base Attack**: +8; **CMB**: +16; **CMD**: 29 (33 vs. trip)
-  - **Attack**: Bite +14 melee (1d8+7) or hoof +14 melee (1d6+3)
-  - **Full Attack**: Bite +14 melee (1d8+7) and 2 hooves +9 melee (1d6+3)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Kick|Powerful kick]], [[rangoric-srd/monsters/abilities/Trample|trample]] (1d6+7, DC 21)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], difficult to create, swift reactions, winding, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], vulnerable to electricity
-  - **Saves**: Fort +2, Ref +5, Will +2
-  - **Abilities**: Str 24, Dex 13, Con —, Int —, Wis 10, Cha 1
-  - **Skills**: —
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
-  - **Environment**: Any land
-  - **Organization**: Solitary
-  - **Challenge Rating**: 6
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]] (Clockwork)
+- **Hit Dice**: 8d10+30 (74 hp)
+- **Initiative**: +5
+- **Speed**: 50 ft. (10 squares)
+- **Armor Class**: 20 (+1 Dex, +2 dodge, +8 natural, –1 size), touch 12, flat-footed 17
+- **Base Attack**: +8; **CMB**: +16; **CMD**: 29 (33 vs. trip)
+- **Attack**: Bite +14 melee (1d8+7) or hoof +14 melee (1d6+3)
+- **Full Attack**: Bite +14 melee (1d8+7) and 2 hooves +9 melee (1d6+3)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Kick|Powerful kick]], [[rangoric-srd/monsters/abilities/Trample|trample]] (1d6+7, DC 21)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], difficult to create, swift reactions, winding, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], vulnerable to electricity
+- **Saves**: Fort +2, Ref +5, Will +2
+- **Abilities**: Str 24, Dex 13, Con —, Int —, Wis 10, Cha 1
+- **Skills**: —
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
+- **Environment**: Any land
+- **Organization**: Solitary
+- **Challenge Rating**: 6
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 These tireless constructs were designed by engineers as a replacement for normal horses. They can gallop ceaselessly for hours or even days if required. In addition to their endurance, clockwork steeds pack a powerful physical punch—blows from their hooves can send smaller creatures flying. Though many riders enjoy the unquestioning way that clockwork steeds accept commands from their riders, others find these steeds' lack of personality frustrating. Unlike normal horses, a clockwork steed lacks the ability to create a bond with its rider.
 
@@ -71,4 +71,4 @@ These tireless constructs were designed by engineers as a replacement for normal
 
 ### Construction
 
-CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*, *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, creator must be at least caster level 12th; Skill [[rangoric-srd/skills/Craft|Craft]] (clockwork) DC 20; Price 29,000 gp (33,500 gp for a clockwork charger); Cost 16,000 gp (18,750 gp for a clockwork charger).
+CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, creator must be at least caster level 12th; Skill [[rangoric-srd/skills/Craft|Craft]] (clockwork) DC 20; Price 29,000 gp (33,500 gp for a clockwork charger); Cost 16,000 gp (18,750 gp for a clockwork charger).

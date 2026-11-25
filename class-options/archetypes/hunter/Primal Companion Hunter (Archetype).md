@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Primal Companion Hunter
 
-*A [[rangoric-srd/classes/Hunter#^hunter-archetypes|hunter]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Hunter#^hunter-archetypes|hunter]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Most hunters are skilled at awakening the primal beasts inside themselves. However, some can instead activate the primal essence within their animal companion. These primal companion hunters bestow upon their companions the ability to suddenly manifest new and terrifying powers—throwbacks to long-extinct beasts, bizarre mutations from extreme environments, or new abilities crafted from generations of selective breeding.
 

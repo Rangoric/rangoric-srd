@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Veil
 
-*Illusion (Glamer)*
+_Illusion (Glamer)_
 
-  - **Level**: Brd 6, Mes 6, Psy 6, Skd 6, Sor/Wiz 6
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Long (400 ft. + 40 ft./level)
-  - **Targets**: One or more creatures, no two of which can be more than 30 ft. apart
-  - **Duration**: Concentration + 1 hour/level (D)
-  - **Saving Throw**: Will negates; see text
-  - **Spell Resistance**: Yes; see text
+- **Level**: Brd 6, Mes 6, Psy 6, Skd 6, Sor/Wiz 6
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Long (400 ft. + 40 ft./level)
+- **Targets**: One or more creatures, no two of which can be more than 30 ft. apart
+- **Duration**: Concentration + 1 hour/level (D)
+- **Saving Throw**: Will negates; see text
+- **Spell Resistance**: Yes; see text
 
 You instantly change the appearance of the subjects and then maintain that appearance for the spell’s duration. You can make the subjects appear to be anything you wish. The subjects look, feel, and smell just like the creatures the spell makes them resemble. Affected creatures resume their normal appearances if slain. You must succeed on an [[rangoric-srd/skills/Imitation|Imitation]] check to duplicate the appearance of a specific individual. This spell gives you a +10 bonus on the check.
 

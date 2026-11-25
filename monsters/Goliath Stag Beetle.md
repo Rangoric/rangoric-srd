@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Goliath Stag Beetle
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
-  - **Hit Dice**: 11d8+55 (104 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares), fly 30 ft. (poor)
-  - **Armor Class**: 21 (+13 natural, –2 size), touch 8, flat-footed 21
-  - **Base Attack**: +8; **CMB**: +21; **CMD**: 31 (39 vs. trip)
-  - **Attack**: Bite +17 melee (3d8+16)
-  - **Full Attack**: Bite +17 melee (3d8+16)
-  - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (3d8+16, DC 26)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-  - **Saves**: Fort +12, Ref +3, Will +3
-  - **Abilities**: Str 32, Dex 10, Con 21, Int —, Wis 10, Cha 4
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –8
-  - **Feats**: —
-  - **Environment**: Warm forests or plains
-  - **Organization**: Solitary, pair, or herd (3–8)
-  - **Challenge Rating**: 8
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
+- **Hit Dice**: 11d8+55 (104 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares), fly 30 ft. (poor)
+- **Armor Class**: 21 (+13 natural, –2 size), touch 8, flat-footed 21
+- **Base Attack**: +8; **CMB**: +21; **CMD**: 31 (39 vs. trip)
+- **Attack**: Bite +17 melee (3d8+16)
+- **Full Attack**: Bite +17 melee (3d8+16)
+- **Space/Reach**: 15 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (3d8+16, DC 26)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
+- **Saves**: Fort +12, Ref +3, Will +3
+- **Abilities**: Str 32, Dex 10, Con 21, Int —, Wis 10, Cha 4
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –8
+- **Feats**: —
+- **Environment**: Warm forests or plains
+- **Organization**: Solitary, pair, or herd (3–8)
+- **Challenge Rating**: 8
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Making its home in tropical and subtropical forests across the globe, the goliath beetle is among the largest species of giant beetle. While its diminutive cousins are primarily herbivores, the goliath stag beetle is carnivorous, hunting herd animals, humanoids, and even giants with ease. They typically use their trample attack against creatures smaller than themselves, returning after this punishing assault to pick off anything that's still moving with swift and deadly bites.
 

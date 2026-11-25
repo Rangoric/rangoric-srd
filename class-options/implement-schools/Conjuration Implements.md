@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Conjuration Implements
 
-*An [[rangoric-srd/classes/Occultist#^occultist-implements|implement school]] of the [[rangoric-srd/classes/Occultist|occultist]].*
+_An [[rangoric-srd/classes/Occultist#^occultist-implements|implement school]] of the [[rangoric-srd/classes/Occultist|occultist]]._
 
 Implements used in conjuration allow the occultist to perform magic that transports or calls creatures.
 
@@ -30,7 +30,7 @@ Implements used in conjuration allow the occultist to perform magic that transpo
 
 **Base Focus Power**: All occultists who learn to use conjuration implements gain the following [[rangoric-srd/classes/Occultist#^occultist-focus-powers|focus power]].
 
-**Servitor (Sp)**: As a standard action, you can expend 1 point of mental focus to summon a servitor. This ability functions as *[[rangoric-srd/spells/Summon Monster I|summon monster i]]*, but you can use it only to summon a single creature, and the effect lasts for 1 minute. At 4th level and every 3 levels thereafter, the level of the *summon monster* spell increases by 1, to a maximum of *[[rangoric-srd/spells/Summon Monster VII|summon monster vii]]* at 19th level. You can’t have more than one servitor in effect at a time. At any time, you can expend 1 point of mental focus as a free action to extend the duration of an active servitor by 1 minute. ^conjuration-base-focus-power
+**Servitor (Sp)**: As a standard action, you can expend 1 point of mental focus to summon a servitor. This ability functions as _[[rangoric-srd/spells/Summon Monster I|summon monster i]]_, but you can use it only to summon a single creature, and the effect lasts for 1 minute. At 4th level and every 3 levels thereafter, the level of the _summon monster_ spell increases by 1, to a maximum of _[[rangoric-srd/spells/Summon Monster VII|summon monster vii]]_ at 19th level. You can’t have more than one servitor in effect at a time. At any time, you can expend 1 point of mental focus as a free action to extend the duration of an active servitor by 1 minute. ^conjuration-base-focus-power
 
 ## Focus Powers
 

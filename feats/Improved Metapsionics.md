@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic, psionic]
 
 # Improved Metapsionics
 
-You can manifest powers using metapsionic feats more easily than normal.  
+You can manifest powers using metapsionic feats more easily than normal.
 
 Prerequisites: Character level 21st, four metapsionic feats, [[rangoric-srd/skills/Psionics (Skill)|Psionics]] 27 ranks.
 

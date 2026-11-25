@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/axes]
 
 # Widowmaker Axe
 
-*Martial two-handed melee weapon.* Cost 35 gp; Dmg 1d10 (S), 1d12 (M); Critical 19-20/x3; Weight 25 lb.; Type Slashing. ^stats
+_Martial two-handed melee weapon._ Cost 35 gp; Dmg 1d10 (S), 1d12 (M); Critical 19-20/x3; Weight 25 lb.; Type Slashing. ^stats
 
 A widowmaker is a huge double-bladed axe crafted primarily by humanoids such as hobgoblins. The top portion of each axe blade is extended and barbed, allowing the widowmaker to be used as a piercing weapon, dealing 1d8 points of damage.

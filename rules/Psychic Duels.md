@@ -19,7 +19,7 @@ The manifestations, manifestation points and manifesting level of a psychic duel
 
 ## Instigating a Psychic Duel
 
-A psychic spellcaster creates a binary mindscape when a target fails its save against *[[rangoric-srd/spells/Instigate Psychic Duel|instigate psychic duel]]*. The caster’s and the target’s minds are then merged in a psychic duel within that mindscape until the spell’s duration ends or the duel reaches its conclusion (see [[rangoric-srd/rules/Psychic Duels#Concluding a Psychic Duel|Concluding a Psychic Duel]]). If the duel begins during combat, each duelist keeps its place in the initiative order, and the duel goes on alongside the combat.
+A psychic spellcaster creates a binary mindscape when a target fails its save against _[[rangoric-srd/spells/Instigate Psychic Duel|instigate psychic duel]]_. The caster’s and the target’s minds are then merged in a psychic duel within that mindscape until the spell’s duration ends or the duel reaches its conclusion (see [[rangoric-srd/rules/Psychic Duels#Concluding a Psychic Duel|Concluding a Psychic Duel]]). If the duel begins during combat, each duelist keeps its place in the initiative order, and the duel goes on alongside the combat.
 
 If the duel begins outside combat, the initiator can take a swift action to create a psychic manifestation upon entering the binary mindscape, before her opponent’s first turn.
 
@@ -51,7 +51,7 @@ To create a psychic manifestation, a combatant generates MP in any of four ways:
 
 Generating MP from ability scores doesn’t deplete the scores, but it has other consequences for the combatant once the duel ends (below). Every other source of MP depletes the spent resources in the real world as well.
 
-**From Ability Scores**: Every combatant begins a psychic duel with a pool of MP equal to its Hit Dice + the average of its Intelligence, Wisdom and Charisma scores. As a free action, a combatant can draw from this pool to generate MP. A combatant who draws any points from the pool is [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] upon leaving the binary mindscape. One who draws half or more of them is [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]] upon leaving the mindscape, and takes a –4 penalty to Intelligence, Wisdom and Charisma for 24 hours afterward. One who spends the entire pool becomes [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] after leaving the mindscape. These conditions and the –4 penalty ignore all immunities and last for 24 hours; nothing but *[[rangoric-srd/spells/Wish|wish]]* or *[[rangoric-srd/spells/Miracle|miracle]]* removes them sooner.
+**From Ability Scores**: Every combatant begins a psychic duel with a pool of MP equal to its Hit Dice + the average of its Intelligence, Wisdom and Charisma scores. As a free action, a combatant can draw from this pool to generate MP. A combatant who draws any points from the pool is [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] upon leaving the binary mindscape. One who draws half or more of them is [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]] upon leaving the mindscape, and takes a –4 penalty to Intelligence, Wisdom and Charisma for 24 hours afterward. One who spends the entire pool becomes [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] after leaving the mindscape. These conditions and the –4 penalty ignore all immunities and last for 24 hours; nothing but _[[rangoric-srd/spells/Wish|wish]]_ or _[[rangoric-srd/spells/Miracle|miracle]]_ removes them sooner.
 
 **From Class Features**: As a free action, a combatant with an [[rangoric-srd/classes/Magus#^magus-arcane-pool|arcane pool]], [[rangoric-srd/classes/Gunslinger#^gunslinger-grit|grit]], a [[rangoric-srd/classes/Monk#^monk-ki-pool|ki pool]], [[rangoric-srd/classes/Swashbuckler#^swashbuckler-panache|panache]] or a [[rangoric-srd/classes/Psychic (Class)#^psychic-phrenic-pool|phrenic pool]] (or another similar class feature the GM chooses) can spend points from it to generate MP, at 1 MP per point spent.
 
@@ -65,7 +65,7 @@ There are three kinds of psychic manifestation: offensive manifestations, defens
 
 #### Offensive Manifestations
 
-*Full-round action.* An offensive manifestation is a direct attack on an opponent, a thought-form creature or both. It can attack a variety of defenses, depending on the MP spent and its creator’s wishes. Creating one takes three steps.
+_Full-round action._ An offensive manifestation is a direct attack on an opponent, a thought-form creature or both. It can attack a variety of defenses, depending on the MP spent and its creator’s wishes. Creating one takes three steps.
 
 **Step 1, Sensory Effects**: Only the creator’s imagination limits a manifestation’s look, sound, feel and smell, and these sensory effects guide the later choices. For example, a combatant who pictures his offensive manifestation as a giant ball of lava hurled at his opponent might have it call for a Reflex save rather than target the opponent’s AC. Whatever its form, a manifestation’s damage is always untyped, and only defensive manifestations can reduce it.
 
@@ -77,17 +77,17 @@ If a saving throw can negate or reduce an offensive manifestation’s effects, t
 
 **Step 3, Damage and Conditions**: The creator then sets the manifestation’s number of damage dice. She must spend at least 1 MP on damage, which gives the manifestation 1 damage die, and can spend more for more dice, as the table shows.
 
-| MP Spent on Damage | Damage Dice |
-| --- | --- |
-| 1 | 1 die |
-| 2 | 4 dice |
-| 3 | 6 dice |
-| 4 | 8 dice |
-| 5 | 10 dice |
-| 6 | 12 dice |
-| 7 | 14 dice |
-| 8 | 16 dice |
-| 9 | 1 die per manifesting level (maximum 20 dice) |
+| MP Spent on Damage | Damage Dice                                   |
+| ------------------ | --------------------------------------------- |
+| 1                  | 1 die                                         |
+| 2                  | 4 dice                                        |
+| 3                  | 6 dice                                        |
+| 4                  | 8 dice                                        |
+| 5                  | 10 dice                                       |
+| 6                  | 12 dice                                       |
+| 7                  | 14 dice                                       |
+| 8                  | 16 dice                                       |
+| 9                  | 1 die per manifesting level (maximum 20 dice) |
 
 The damage die depends on where the manifestation’s MP came from. Sacrificed psychic spells and psychic spell-like abilities give d8s; arcane spells and other spell-like abilities give d6s; every other way of generating MP (including mixed ways) gives d4s. If the manifestation’s attack resolves against AC or touch AC, a natural 20 on the attack roll threatens a [[rangoric-srd/combat/Combat Actions#^critical-hits|critical hit]], for double damage.
 
@@ -102,7 +102,7 @@ If the manifestation allows a saving throw, the creator can spend more MP to add
 
 #### Defensive Manifestations
 
-*Action varies.* Defensive manifestations protect a combatant from her opponent’s manifestations. A combatant in a psychic duel can create these.
+_Action varies._ Defensive manifestations protect a combatant from her opponent’s manifestations. A combatant in a psychic duel can create these.
 
 - **Evasive Mind** (1 or more MP; swift action): The combatant gains a +2 bonus on all saving throws and gains [[rangoric-srd/rules/Special Abilities and Conditions#Evasion and Improved Evasion|evasion]] for a number of rounds equal to the MP spent.
 - **Hardened Mind** (1 to 4 MP; swift action): For 1 round, the combatant’s Armor Class increases by the MP spent, and her touch AC by half that (minimum +0).
@@ -113,7 +113,7 @@ If the manifestation allows a saving throw, the creator can spend more MP to add
 
 #### Thought-Form Creatures
 
-*1-round action.* A thought-form creature is a mentally constructed thrall that takes any form its creator wants. Creating one takes 1 full round (as casting a spell with a casting time of 1 round), and it lasts as long as its creator concentrates on its existence as a full-round action; a combatant can have only one thought-form creature at a time. A thought-form creature must attack the opposing thought-form creature if there is one; if not, it can attack its creator’s opponent. It makes its attacks when its creator uses a full-round action to concentrate on it. When a thought-form creature is reduced to 0 or fewer hit points, it disappears and its creator takes damage equal to its psychic backlash. A thought-form creature can be dismissed as a free action.
+_1-round action._ A thought-form creature is a mentally constructed thrall that takes any form its creator wants. Creating one takes 1 full round (as casting a spell with a casting time of 1 round), and it lasts as long as its creator concentrates on its existence as a full-round action; a combatant can have only one thought-form creature at a time. A thought-form creature must attack the opposing thought-form creature if there is one; if not, it can attack its creator’s opponent. It makes its attacks when its creator uses a full-round action to concentrate on it. When a thought-form creature is reduced to 0 or fewer hit points, it disappears and its creator takes damage equal to its psychic backlash. A thought-form creature can be dismissed as a free action.
 
 A basic thought-form creature costs 1 MP and has these statistics.
 
@@ -136,6 +136,6 @@ A basic thought-form creature costs 1 MP and has these statistics.
 
 ## Concluding a Psychic Duel
 
-A psychic duel can end, and the combatants’ minds return to their bodies, in several ways besides the end of the *instigate psychic duel* spell that started it. The duel ends at once if one of the combatants reaches 0 or fewer hit points, or if both combatants agree to end it; each can agree as a free action, even when it isn’t that combatant’s turn. Rarely, a spell or ability lets combatants leave a psychic duel: unlike most spells, *[[rangoric-srd/spells/Mindscape Door|mindscape door]]* can be cast during a psychic duel, letting the caster leave the mindscape and end the duel.
+A psychic duel can end, and the combatants’ minds return to their bodies, in several ways besides the end of the _instigate psychic duel_ spell that started it. The duel ends at once if one of the combatants reaches 0 or fewer hit points, or if both combatants agree to end it; each can agree as a free action, even when it isn’t that combatant’s turn. Rarely, a spell or ability lets combatants leave a psychic duel: unlike most spells, _[[rangoric-srd/spells/Mindscape Door|mindscape door]]_ can be cast during a psychic duel, letting the caster leave the mindscape and end the duel.
 
 Lastly, a creature adjacent to a combatant’s body can try to shake it out of its torpor as a standard action. This is a melee touch attack that deals no damage but lets the combatant attempt a new saving throw against the effect that started the psychic duel. If the save succeeds, the roused creature’s mind returns to its body and the duel ends. A creature in a psychic duel can attempt no more than one extra save per round this way.

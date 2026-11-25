@@ -18,7 +18,6 @@ tags: [rangoric, rangoric/gear]
 
 This two-wheeled vehicle is drawn by a horse. This type of chariot is typically used as a fighting platform or for transporting material quickly onto the battlefield.
 
-
 See also the [[rangoric-srd/equipment/gear/Chariot, Light|light]] and [[rangoric-srd/equipment/gear/Chariot, Medium|medium]] chariots.
 
 Price 200 gp; Weight —; Passage 2 cp per mile.

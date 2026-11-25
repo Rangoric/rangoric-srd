@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Gladiator Champion
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 10d10+20 (75 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 19 (+3 armor, +1 deflection, +3 Dex, +1 dodge, +1 shield), touch 15, flat-footed 15
-  - **Base Attack**: +10; **CMB**: +12; **CMD**: 27
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +12 melee (1d8+3) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Mace|light mace]] +11 melee (1d6+1) or [[rangoric-srd/equipment/weapons/Trident|trident]] +12 melee (1d8+3) or [[rangoric-srd/equipment/weapons/Trident|trident]] +13 ranged (1d8+3) or [[rangoric-srd/equipment/weapons/Dart|dart]] +13 ranged (1d4+2) or net +9 ranged touch (entangle)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +12/+7 melee (1d8+3) and [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Mace|light mace]] +11 melee (1d6+1); or [[rangoric-srd/equipment/weapons/Trident|trident]] +12/+7 melee (1d8+3); or [[rangoric-srd/equipment/weapons/Trident|trident]] +13 ranged (1d8+3); or [[rangoric-srd/equipment/weapons/Dart|dart]] +13 ranged (1d4+2); or net +9 ranged touch (entangle)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: —
-  - **Saves**: Fort +7, Ref +6, Will +2
-  - **Abilities**: Str 14, Dex 16, Con 10, Int 10, Wis 8, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9
-  - **Feats**: [[rangoric-srd/feats/Dazzling Display|Dazzling Display]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Two-Weapon Defense|Two-Weapon Defense]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (short sword)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 8
-  - **Treasure**: NPC gear (combat gear: potion of cure moderate wounds, potion of heroism; other gear: studded leather, +1 short sword, darts (10), net, masterwork light mace, trident, belt of giant strength +2, ring of protection +1, antitoxin, 240 gp)
-  - **Alignment**: Neutral evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 10d10+20 (75 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 19 (+3 armor, +1 deflection, +3 Dex, +1 dodge, +1 shield), touch 15, flat-footed 15
+- **Base Attack**: +10; **CMB**: +12; **CMD**: 27
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +12 melee (1d8+3) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Mace|light mace]] +11 melee (1d6+1) or [[rangoric-srd/equipment/weapons/Trident|trident]] +12 melee (1d8+3) or [[rangoric-srd/equipment/weapons/Trident|trident]] +13 ranged (1d8+3) or [[rangoric-srd/equipment/weapons/Dart|dart]] +13 ranged (1d4+2) or net +9 ranged touch (entangle)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +12/+7 melee (1d8+3) and [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Mace|light mace]] +11 melee (1d6+1); or [[rangoric-srd/equipment/weapons/Trident|trident]] +12/+7 melee (1d8+3); or [[rangoric-srd/equipment/weapons/Trident|trident]] +13 ranged (1d8+3); or [[rangoric-srd/equipment/weapons/Dart|dart]] +13 ranged (1d4+2); or net +9 ranged touch (entangle)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: —
+- **Saves**: Fort +7, Ref +6, Will +2
+- **Abilities**: Str 14, Dex 16, Con 10, Int 10, Wis 8, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9
+- **Feats**: [[rangoric-srd/feats/Dazzling Display|Dazzling Display]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Two-Weapon Defense|Two-Weapon Defense]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (short sword)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 8
+- **Treasure**: NPC gear (combat gear: potion of cure moderate wounds, potion of heroism; other gear: studded leather, +1 short sword, darts (10), net, masterwork light mace, trident, belt of giant strength +2, ring of protection +1, antitoxin, 240 gp)
+- **Alignment**: Neutral evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A gladiator champion is a [[rangoric-srd/monsters/human/Human|human]] with 10 levels of [[rangoric-srd/classes/Warrior|warrior]]. The gladiator champion rose up from hopeless slavery to great fame, winning match after match with luck, skill, and the approval of the crowd. He has defeated single opponents and dozens of warriors at once, fought tigers and strange beasts, and even battled a minotaur and things that have no name in any human tongue.
 

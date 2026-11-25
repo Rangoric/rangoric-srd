@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Serpent Shaman
 
-*A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A shaman with this totem calls upon the cunning serpent, the stealthy deceiver who draws the weak minded in and strikes while they are unaware. Some hate its treacherous nature, while others praise its thoughtful pragmatism.
 
@@ -29,9 +29,9 @@ A shaman with this totem calls upon the cunning serpent, the stealthy deceiver w
 
 **Wild Empathy (Ex)**: A serpent shaman can use [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] with reptiles as a full-round action with a +4 bonus.
 
-**Totem Transformation (Su)**: At 2nd level, a serpent shaman may adopt an aspect of the snake while retaining her normal form. This ability functions as the [[rangoric-srd/class-options/archetypes/druid/Bear Shaman (Archetype)|bear shaman ability]], but the druid may select from the following bonuses: movement (climb speed 20 feet, swim speed 20 feet), scales (+2 natural armor bonus to AC), senses ([[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Scent|scent]]), or natural weapons (bite \[1d4\], [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poison]] \[*frequency* 1 round (6), *effect* 1 Con damage, *Cure* 1 save, Con-based DC\] for a Medium druid, +2 [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Bonus|CMB]] to [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]]). While using totem transformation, the serpent shaman may speak normally and can cast *[[rangoric-srd/spells/Speak with Animals|speak with animals]]* (reptiles only) at will. This ability replaces [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]].
+**Totem Transformation (Su)**: At 2nd level, a serpent shaman may adopt an aspect of the snake while retaining her normal form. This ability functions as the [[rangoric-srd/class-options/archetypes/druid/Bear Shaman (Archetype)|bear shaman ability]], but the druid may select from the following bonuses: movement (climb speed 20 feet, swim speed 20 feet), scales (+2 natural armor bonus to AC), senses ([[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Scent|scent]]), or natural weapons (bite \[1d4\], [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poison]] \[_frequency_ 1 round (6), _effect_ 1 Con damage, _Cure_ 1 save, Con-based DC\] for a Medium druid, +2 [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Bonus|CMB]] to [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]]). While using totem transformation, the serpent shaman may speak normally and can cast _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_ (reptiles only) at will. This ability replaces [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]].
 
-**Totemic Summons (Su)**: At 5th level, a serpent shaman may cast *[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature's ally]]* as a standard action when summoning snakes, and these summoned creatures gain temporary hit points equal to her druid level. This ability otherwise functions as the [[rangoric-srd/class-options/archetypes/druid/Bear Shaman (Archetype)|bear shaman ability]].
+**Totemic Summons (Su)**: At 5th level, a serpent shaman may cast _[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature's ally]]_ as a standard action when summoning snakes, and these summoned creatures gain temporary hit points equal to her druid level. This ability otherwise functions as the [[rangoric-srd/class-options/archetypes/druid/Bear Shaman (Archetype)|bear shaman ability]].
 
 **Wild Shape (Su)**: At 6th level, a serpent shaman's [[rangoric-srd/classes/Druid#^druid-wild-shape|wild shape]] ability functions at her druid level – 2. If she takes on the form of a snake, she instead uses her druid level + 2.
 

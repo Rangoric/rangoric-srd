@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Terrain Mastery, Greater
 
-*An [[rangoric-srd/classes/Rogue#^rogue-advanced-talents|advanced talent]] (Ex).*
+_An [[rangoric-srd/classes/Rogue#^rogue-advanced-talents|advanced talent]] (Ex)._
 
 A rogue with this talent can select a single favored terrain. Her bonuses in that terrain increase to +4. At 13th level and 18th level, they increase by an additional +2 (to a maximum of +8). A rogue must have the [[rangoric-srd/class-options/rogue-talents/Terrain Mastery (Rogue Talent)|terrain mastery]] talent to select this advanced talent.

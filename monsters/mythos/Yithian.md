@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Yithian
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 14d8+42 (105 hp)
-  - **Initiative**: +1
-  - **Speed**: 20 ft. (4 squares), climb 10 ft.
-  - **Armor Class**: 23 (+1 Dex, +13 natural, –1 size), touch 10, flat-footed 22
-  - **Base Attack**: +10; **CMB**: +17; **CMD**: 28
-  - **Attack**: Pincer +15 melee (2d8+9/×3)
-  - **Full Attack**: 2 pincers +15 melee (2d8+9/×3)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: Amnesia, deadly pincers, mind swap, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/monsters/abilities/Blindsense|blindsense]] 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., scholar, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and fire 10
-  - **Saves**: Fort +9, Ref +5, Will +15
-  - **Abilities**: Str 22, Dex 13, Con 17, Int 24, Wis 19, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +21, [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Emulation|Emulation]] +18, [[rangoric-srd/skills/Engineering|Engineering]] +21, [[rangoric-srd/skills/Investigation|Investigation]] +11, [[rangoric-srd/skills/Linguistics|Linguistics]] +21, [[rangoric-srd/skills/Medicine|Medicine]] +18, [[rangoric-srd/skills/Perception|Perception]] +27, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Society|Society]] +21, [[rangoric-srd/skills/Theology|Theology]] +24
-  - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Great Fortitude|Improved Great Fortitude]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, band (3–9), or enclave (10–100)
-  - **Challenge Rating**: 9
-  - **Treasure**: Standard
-  - **Alignment**: Usually lawful neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 14d8+42 (105 hp)
+- **Initiative**: +1
+- **Speed**: 20 ft. (4 squares), climb 10 ft.
+- **Armor Class**: 23 (+1 Dex, +13 natural, –1 size), touch 10, flat-footed 22
+- **Base Attack**: +10; **CMB**: +17; **CMD**: 28
+- **Attack**: Pincer +15 melee (2d8+9/×3)
+- **Full Attack**: 2 pincers +15 melee (2d8+9/×3)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: Amnesia, deadly pincers, mind swap, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/monsters/abilities/Blindsense|blindsense]] 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., scholar, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and fire 10
+- **Saves**: Fort +9, Ref +5, Will +15
+- **Abilities**: Str 22, Dex 13, Con 17, Int 24, Wis 19, Cha 18
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +21, [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Emulation|Emulation]] +18, [[rangoric-srd/skills/Engineering|Engineering]] +21, [[rangoric-srd/skills/Investigation|Investigation]] +11, [[rangoric-srd/skills/Linguistics|Linguistics]] +21, [[rangoric-srd/skills/Medicine|Medicine]] +18, [[rangoric-srd/skills/Perception|Perception]] +27, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Society|Society]] +21, [[rangoric-srd/skills/Theology|Theology]] +24
+- **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Great Fortitude|Improved Great Fortitude]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any
+- **Organization**: Solitary, pair, band (3–9), or enclave (10–100)
+- **Challenge Rating**: 9
+- **Treasure**: Standard
+- **Alignment**: Usually lawful neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Untold eons ago, the yithians inhabited a dying world. To escape their doomed planet, they cast their minds through time and space, eventually coming to rest in the strange, alien bodies they possess today. While these strange beings now reside in a distant galaxy, the yithians make use of their ability to astrally project to explore other planets, eager to find new worlds to explore.
 
@@ -69,7 +69,7 @@ Yithians speak Aklo, Common, Yithian and 20 other languages.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 15th; concentration +19): At will—*[[rangoric-srd/spells/Astral Projection|astral projection]]* (self only), *[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]* (DC 16), *[[rangoric-srd/spells/Hold Monster|hold monster]]* (DC 19), *[[rangoric-srd/spells/Modify Memory|modify memory]]* (DC 18).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 15th; concentration +19): At will—_[[rangoric-srd/spells/Astral Projection|astral projection]]_ (self only), _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (DC 16), _[[rangoric-srd/spells/Hold Monster|hold monster]]_ (DC 19), _[[rangoric-srd/spells/Modify Memory|modify memory]]_ (DC 18).
 
 **Amnesia (Su)**: Once per day as a standard action, a yithian can attempt to inflict amnesia on a target it is able to communicate telepathically with. A target can resist this attack with a DC 21 Will save. If the target fails its save, it takes a permanent –4 penalty on Will saving throws and all skill checks, and loses all memories save for those the yithian chooses to leave intact. This effect can be cured by heal or greater restoration. This is a mind-affecting insanity effect. The save DC is Charisma-based.
 

@@ -23,12 +23,12 @@ Like some mortal worlds’ standing stones, the Great Stone Ring acts as a celes
 
 **Personalities:** n/a
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* The Great Stone Ring can help seers and fortunetellers read the future.
+_Common:_ The Great Stone Ring can help seers and fortunetellers read the future.
 
-*Uncommon:* The Seelie Court assembled the Great Stone Ring over seven millennia ago.
+_Uncommon:_ The Seelie Court assembled the Great Stone Ring over seven millennia ago.
 
-*Rare:* If you look carefully, you can find traces of fey *doorways* that seem to be outlined by nearly every pair of Sarsen stones. Apparently no one can remember to where they all go or how to activate them. If anyone does know, no one seems willing to share such knowledge.
+_Rare:_ If you look carefully, you can find traces of fey _doorways_ that seem to be outlined by nearly every pair of Sarsen stones. Apparently no one can remember to where they all go or how to activate them. If anyone does know, no one seems willing to share such knowledge.
 
-*Obscure:* Some fey *doorways* have many different keys that will activate them, leading the user to different locations.
+_Obscure:_ Some fey _doorways_ have many different keys that will activate them, leading the user to different locations.

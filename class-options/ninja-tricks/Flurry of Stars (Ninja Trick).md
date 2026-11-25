@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Flurry of Stars
 
-*A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Ex).*
+_A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Ex)._
 
 A ninja with this ability can expend 1 ki point from her ki pool as a swift action before she makes a full-attack attack with shuriken. During that attack, she can throw two additional shuriken at her highest attack bonus, but all of her shuriken attacks are made at a –2 penalty, including the two extra attacks.

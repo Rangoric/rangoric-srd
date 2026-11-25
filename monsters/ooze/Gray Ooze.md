@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Gray Ooze
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]]
-  - **Hit Dice**: 4d8+32 (50 hp)
-  - **Initiative**: –5
-  - **Speed**: 10 ft. (2 squares)
-  - **Armor Class**: 5 (–5 Dex), touch 5, flat-footed 5
-  - **Base Attack**: +3; **CMB**: +6 (+10 grapple); **CMD**: 11 (can't be tripped)
-  - **Attack**: Slam +6 melee (1d6+4 plus 1d6 acid and [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Slam +6 melee (1d6+4 plus 1d6 acid and [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Acid, [[rangoric-srd/monsters/abilities/Constrict|constrict]] (1d6+4 plus 1d6 acid)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], transparent, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and fire
-  - **Saves**: Fort +9, Ref –4, Will –4
-  - **Abilities**: Str 16, Dex 1, Con 26, Int —, Wis 1, Cha 1
-  - **Skills**: —
-  - **Feats**: —
-  - **Environment**: Cold marshes and underground
-  - **Organization**: Solitary
-  - **Challenge Rating**: 4
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: 4–6 HD (Medium); 7–9 HD (Large)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]]
+- **Hit Dice**: 4d8+32 (50 hp)
+- **Initiative**: –5
+- **Speed**: 10 ft. (2 squares)
+- **Armor Class**: 5 (–5 Dex), touch 5, flat-footed 5
+- **Base Attack**: +3; **CMB**: +6 (+10 grapple); **CMD**: 11 (can't be tripped)
+- **Attack**: Slam +6 melee (1d6+4 plus 1d6 acid and [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Slam +6 melee (1d6+4 plus 1d6 acid and [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Acid, [[rangoric-srd/monsters/abilities/Constrict|constrict]] (1d6+4 plus 1d6 acid)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], transparent, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and fire
+- **Saves**: Fort +9, Ref –4, Will –4
+- **Abilities**: Str 16, Dex 1, Con 26, Int —, Wis 1, Cha 1
+- **Skills**: —
+- **Feats**: —
+- **Environment**: Cold marshes and underground
+- **Organization**: Solitary
+- **Challenge Rating**: 4
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: 4–6 HD (Medium); 7–9 HD (Large)
+- **Level Adjustment**: —
 
 Slinking their way through cold swamps and bleary marshlands, or sometimes even dungeons and caverns, gray oozes consume any organic materials they encounter. Despite its lack of intelligence, the gray ooze is a most problematic creature due to its transparency. While the ooze cannot easily climb walls or swim, its habit of lurking in the thick mud that lines the banks of marsh pools or lying in harmless-looking pools on dull-colored dungeon floors makes it dangerously easy to overlook and step on.
 
@@ -71,7 +71,7 @@ The gray ooze adapts readily and swiftly to changes in environments, the simple 
 
 **Crystal Ooze (CR 4)**: The crystal ooze is an aquatic variant that dwells in deeper waters than most commonly found in the gray ooze's beloved swamps. A crystal ooze has the aquatic subtype and a swim speed of 30 ft. The crystal ooze lacks the gray ooze's constrict ability, but it does secrete a paralytic toxin that causes those whom it strikes to become [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 3d6 rounds if they fail a Fortitude saving throw (the save DC is Constitution-based).
 
-**Id Ooze (CR 6)**: Perhaps the strangest variant gray oozes are those that have developed a rudimentary intelligence, including the ability to communicate telepathically with other oozes, or even the ability to blast enemies with pulses of raw mental power. Id oozes are advanced gray oozes with an Intelligence score of 2 (and thus gain skill ranks and feats—typically 4 ranks in Stealth, Improved Initiative, and Toughness), can communicate basic empathic information with other id oozes within 100 feet via telepathy, and can use *lesser confusion* at will as a spell-like ability (CL equals the id ooze's HD).
+**Id Ooze (CR 6)**: Perhaps the strangest variant gray oozes are those that have developed a rudimentary intelligence, including the ability to communicate telepathically with other oozes, or even the ability to blast enemies with pulses of raw mental power. Id oozes are advanced gray oozes with an Intelligence score of 2 (and thus gain skill ranks and feats—typically 4 ranks in Stealth, Improved Initiative, and Toughness), can communicate basic empathic information with other id oozes within 100 feet via telepathy, and can use _lesser confusion_ at will as a spell-like ability (CL equals the id ooze's HD).
 
 A gray ooze can grow to a diameter of up to 10 feet and a thickness of about 6 inches. A typical specimen weighs about 700 pounds.
 

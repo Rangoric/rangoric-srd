@@ -37,16 +37,16 @@ tags: [rangoric, rangoric/spell]
 
 # Find the Path
 
-*Divination*
+_Divination_
 
-  - **Level**: Brd 6, Clr 6, Drd 6, Fey Roads 6, Hun 6, Inq 6, Knowledge 6, Occ 6, Psy 6, Sha 6, Skd 6, Spi 6, Travel 6, Wit 6
-  - **Components**: V, S, F
-  - **Casting Time**: 3 rounds
-  - **Range**: Personal or touch
-  - **Target**: You or creature touched
-  - **Duration**: 10 min./level
-  - **Saving Throw**: None or Will negates (harmless)
-  - **Spell Resistance**: No or Yes (harmless)
+- **Level**: Brd 6, Clr 6, Drd 6, Fey Roads 6, Hun 6, Inq 6, Knowledge 6, Occ 6, Psy 6, Sha 6, Skd 6, Spi 6, Travel 6, Wit 6
+- **Components**: V, S, F
+- **Casting Time**: 3 rounds
+- **Range**: Personal or touch
+- **Target**: You or creature touched
+- **Duration**: 10 min./level
+- **Saving Throw**: None or Will negates (harmless)
+- **Spell Resistance**: No or Yes (harmless)
 
 The recipient of this spell can find the shortest, most direct physical route to a specified destination, be it the way into or out of a locale. The locale can be outdoors, underground, or even inside a maze spell. Find the path works with respect to locations, not objects or creatures at a locale. The location must be on the same plane as you are at the time of casting.
 
@@ -54,4 +54,4 @@ The spell enables the subject to sense the correct direction that will eventuall
 
 This divination is keyed to the recipient, not its companions, and its effect does not predict or allow for the actions of creatures (including guardians).
 
-*Focus*: A set of divination counters of the sort you favor.
+_Focus_: A set of divination counters of the sort you favor.

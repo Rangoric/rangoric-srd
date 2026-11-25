@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Ghoulish
 
-A *ghoulish* weapon reeks of carrion and has an unhealthy look to it. Any time that it strikes a successful critical hit on a living creature, the target must make a Fortitude save at DC 14 or be [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 1d6+2 rounds. Even if the target survives an encounter with such a weapon, it is potentially infected with [[rangoric-srd/rules/afflictions/Ghoul Fever|ghoul fever]] (Fortitude save DC 12, for effects see the [[rangoric-srd/monsters/ghoul/Ghoul|ghoul]]).
+A _ghoulish_ weapon reeks of carrion and has an unhealthy look to it. Any time that it strikes a successful critical hit on a living creature, the target must make a Fortitude save at DC 14 or be [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 1d6+2 rounds. Even if the target survives an encounter with such a weapon, it is potentially infected with [[rangoric-srd/rules/afflictions/Ghoul Fever|ghoul fever]] (Fortitude save DC 12, for effects see the [[rangoric-srd/monsters/ghoul/Ghoul|ghoul]]).
 
-Moderate necromancy; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Animate Dead|animate dead]]*, *[[rangoric-srd/spells/Ghoul Touch|ghoul touch]]*; Price +3 bonus.
+Moderate necromancy; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Animate Dead|animate dead]]_, _[[rangoric-srd/spells/Ghoul Touch|ghoul touch]]_; Price +3 bonus.

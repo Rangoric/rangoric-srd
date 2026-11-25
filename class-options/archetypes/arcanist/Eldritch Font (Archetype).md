@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Eldritch Font
 
-*An [[rangoric-srd/classes/Arcanist#^arcanist-archetypes|arcanist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_An [[rangoric-srd/classes/Arcanist#^arcanist-archetypes|arcanist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 For some arcanists, the power bubbling up from within is nearly too much to contain. They become adept at shaping this magical energy without needing to bind it up in spells.
 

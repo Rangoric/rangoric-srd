@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Bulette
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 8d10+40 (84 hp)
-  - **Initiative**: +6
-  - **Speed**: 40 ft. (8 squares), burrow 20 ft.
-  - **Armor Class**: 22 (+2 Dex, +12 natural, –2 size), touch 10, flat-footed 20
-  - **Base Attack**: +8; **CMB**: +16; **CMD**: 28 (32 vs. trip)
-  - **Attack**: Bite +13 melee (2d8+9/19–20) or claw +12 melee (2d6+6)
-  - **Full Attack**: Bite +13 melee (2d8+9/19–20) and 2 claws +12 melee (2d6+6)
-  - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: Leap, savage bite
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft
-  - **Saves**: Fort +11, Ref +8, Will +5
-  - **Abilities**: Str 23, Dex 15, Con 20, Int 2, Wis 13, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +6 (+14 jumping), [[rangoric-srd/skills/Perception|Perception]] +11
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
-  - **Environment**: Temperate hills
-  - **Organization**: Solitary or pair
-  - **Challenge Rating**: 7
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: 10–16 HD (Huge); 17–27 HD (Gargantuan)
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 8d10+40 (84 hp)
+- **Initiative**: +6
+- **Speed**: 40 ft. (8 squares), burrow 20 ft.
+- **Armor Class**: 22 (+2 Dex, +12 natural, –2 size), touch 10, flat-footed 20
+- **Base Attack**: +8; **CMB**: +16; **CMD**: 28 (32 vs. trip)
+- **Attack**: Bite +13 melee (2d8+9/19–20) or claw +12 melee (2d6+6)
+- **Full Attack**: Bite +13 melee (2d8+9/19–20) and 2 claws +12 melee (2d6+6)
+- **Space/Reach**: 15 ft./10 ft.
+- **Special Attacks**: Leap, savage bite
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft
+- **Saves**: Fort +11, Ref +8, Will +5
+- **Abilities**: Str 23, Dex 15, Con 20, Int 2, Wis 13, Cha 6
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +6 (+14 jumping), [[rangoric-srd/skills/Perception|Perception]] +11
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
+- **Environment**: Temperate hills
+- **Organization**: Solitary or pair
+- **Challenge Rating**: 7
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: 10–16 HD (Huge); 17–27 HD (Gargantuan)
+- **Level Adjustment**: —
 
 The creation of some unknown [[rangoric-srd/classes/Arcanist|arcanist]] in millennia past, the bulette has bred true to become one of the fiercest predators of the hills. Burrowing rapidly through the earth just beneath the surface, sometimes with its armored fin cutting a distinctive wake behind it, the bulette launches itself free of stone and soil to tear into its prey without remorse, giving rise to the common appellation “landshark.”
 

@@ -18,8 +18,8 @@ tags: [rangoric, rangoric/magic-item]
 
 A successful hit with a weapon with this ability does no damage to the target, but destroys 1 point of Armor Class gained from any physical armor (not natural armor or any magical enhancements) by cutting leather or padded armor or slicing through cords, straps, and bands holding more substantial protection in place.
 
-*Rending* weapons have enhancement bonuses that add to the wielder’s attack roll and allow him to damage magical armor with an equal or lesser enhancement bonus, but the bonus of a *rending* weapon doesn’t increase the damage it does to an opponent’s armor. No *rending* weapon is able to damage an artifact.
+_Rending_ weapons have enhancement bonuses that add to the wielder’s attack roll and allow him to damage magical armor with an equal or lesser enhancement bonus, but the bonus of a _rending_ weapon doesn’t increase the damage it does to an opponent’s armor. No _rending_ weapon is able to damage an artifact.
 
-As *rending* weapons do no damage to the person inside the armor, there’s no reason to imbue this ability in high-damage melee weapons, so most rending weapons are light weapons (such as daggers and handaxes) used in the off hand, while a damaging weapon is held in the wielder’s primary hand to press the advantage the *rending* weapon creates.
+As _rending_ weapons do no damage to the person inside the armor, there’s no reason to imbue this ability in high-damage melee weapons, so most rending weapons are light weapons (such as daggers and handaxes) used in the off hand, while a damaging weapon is held in the wielder’s primary hand to press the advantage the _rending_ weapon creates.
 
-Moderate transmutation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Keen Edge|keen edge]]*; Price +1 bonus.
+Moderate transmutation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Keen Edge|keen edge]]_; Price +1 bonus.

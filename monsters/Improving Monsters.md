@@ -58,29 +58,29 @@ Note that if a creature acquires a character class, it improves according to its
 
 **Table: Creature Improvement by Type**
 
-|                    | Hit Die | Attack Bonus             | Good Saving Throws             | Skill Points (\*)         |
-| ------------------ | ------- | ------------------------ | ------------------------------ | ------------------------- |
-| Aberration         | d8      | HD x3/4 (medium)         | Will                           | 4 + Int mod per HD        |
-| Animal             | d8      | HD x3/4 (medium)         | Fort, Ref (and sometimes Will) | 2 + Int mod per HD        |
-| Construct          | d10     | HD (fast)                | —                              | 2 + Int mod per HD (\*\*) |
-| Dragon             | d12     | HD (fast)                | Fort, Ref, Will                | 6 + Int mod per HD        |
-| Fey                | d6      | HD x1/2 (slow)           | Ref, Will                      | 6 + Int mod per HD        |
-| Humanoid           | d8      | HD x3/4 (medium)         | Varies (any one)               | 2 + Int mod per HD        |
-| Magical beast      | d10     | HD (fast)                | Fort, Ref                      | 2 + Int mod per HD        |
-| Monstrous humanoid | d10     | HD (fast)                | Ref, Will                      | 4 + Int mod per HD        |
-| Ooze               | d8      | HD x3/4 (medium)         | —                              | 2 + Int mod per HD (\*\*) |
-| Outsider           | d10     | HD (fast)                | Varies (any two)               | 6 + Int mod per HD        |
-| Plant              | d8      | HD x3/4 (medium)         | Fort                           | 2 + Int mod per HD (\*\*) |
-| Undead             | d8      | HD x3/4 (medium)         | Will                           | 4 + Int mod per HD (\*\*) |
-| Vermin             | d8      | HD x3/4 (medium)         | Fort                           | 2 + Int mod per HD (\*\*) |
+|                    | Hit Die | Attack Bonus     | Good Saving Throws             | Skill Points (\*)         |
+| ------------------ | ------- | ---------------- | ------------------------------ | ------------------------- |
+| Aberration         | d8      | HD x3/4 (medium) | Will                           | 4 + Int mod per HD        |
+| Animal             | d8      | HD x3/4 (medium) | Fort, Ref (and sometimes Will) | 2 + Int mod per HD        |
+| Construct          | d10     | HD (fast)        | —                              | 2 + Int mod per HD (\*\*) |
+| Dragon             | d12     | HD (fast)        | Fort, Ref, Will                | 6 + Int mod per HD        |
+| Fey                | d6      | HD x1/2 (slow)   | Ref, Will                      | 6 + Int mod per HD        |
+| Humanoid           | d8      | HD x3/4 (medium) | Varies (any one)               | 2 + Int mod per HD        |
+| Magical beast      | d10     | HD (fast)        | Fort, Ref                      | 2 + Int mod per HD        |
+| Monstrous humanoid | d10     | HD (fast)        | Ref, Will                      | 4 + Int mod per HD        |
+| Ooze               | d8      | HD x3/4 (medium) | —                              | 2 + Int mod per HD (\*\*) |
+| Outsider           | d10     | HD (fast)        | Varies (any two)               | 6 + Int mod per HD        |
+| Plant              | d8      | HD x3/4 (medium) | Fort                           | 2 + Int mod per HD (\*\*) |
+| Undead             | d8      | HD x3/4 (medium) | Will                           | 4 + Int mod per HD (\*\*) |
+| Vermin             | d8      | HD x3/4 (medium) | Fort                           | 2 + Int mod per HD (\*\*) |
 
-*A creature gains one feat at 1 Hit Die and one more for every 2 Hit Dice after the first (1 at 1 HD, 2 at 3 HD, 3 at 5 HD, and so on).*
+_A creature gains one feat at 1 Hit Die and one more for every 2 Hit Dice after the first (1 at 1 HD, 2 at 3 HD, 3 at 5 HD, and so on)._
 
-*Elementals and giants are outsiders and humanoids with a subtype (see [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^retyped|retyped creatures]]). Each type’s class skills are in its entry in [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|Monster Types, Subtypes, and Special Abilities]].*
+_Elementals and giants are outsiders and humanoids with a subtype (see [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^retyped|retyped creatures]]). Each type’s class skills are in its entry in [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|Monster Types, Subtypes, and Special Abilities]]._
 
-\* *As long as a creature has an Intelligence of at least 1, it gains a minimum of 1 skill point per Hit Die.*
+\* _As long as a creature has an Intelligence of at least 1, it gains a minimum of 1 skill point per Hit Die._
 
-\*\* *Creatures with an Intelligence score of “—” gain no feats, and get skill points as [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^mindless|mindless creatures]] do.*
+\*\* _Creatures with an Intelligence score of “—” gain no feats, and get skill points as [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^mindless|mindless creatures]] do._
 
 ##### Size Increases
 
@@ -93,15 +93,15 @@ A size increase affects any special ability the creature has that is affected by
 | Old Size (\*) | New Size   | Str  | Dex  | Con  | Natural Armor | AC/Attack |
 | ------------- | ---------- | ---- | ---- | ---- | ------------- | --------- |
 | Fine          | Diminutive | Same | –2   | Same | Same          | –4        |
-| Diminutive    | Tiny       | +2  | –2   | Same | Same          | –2        |
-| Tiny          | Small      | +4  | –2   | Same | Same          | –1        |
-| Small         | Medium     | +4  | –2   | +2  | Same          | –1        |
-| Medium        | Large      | +8  | –2   | +4  | +2           | –1        |
-| Large         | Huge       | +8  | –2   | +4  | +3           | –1        |
-| Huge          | Gargantuan | +8  | Same | +4  | +4           | –2        |
-| Gargantuan    | Colossal   | +8  | Same | +4  | +5           | –4        |
+| Diminutive    | Tiny       | +2   | –2   | Same | Same          | –2        |
+| Tiny          | Small      | +4   | –2   | Same | Same          | –1        |
+| Small         | Medium     | +4   | –2   | +2   | Same          | –1        |
+| Medium        | Large      | +8   | –2   | +4   | +2            | –1        |
+| Large         | Huge       | +8   | –2   | +4   | +3            | –1        |
+| Huge          | Gargantuan | +8   | Same | +4   | +4            | –2        |
+| Gargantuan    | Colossal   | +8   | Same | +4   | +5            | –4        |
 
-\* *Repeat the adjustment if the creature moves up more than one size.*
+\* _Repeat the adjustment if the creature moves up more than one size._
 
 **Table: Increased Damage By Size**
 
@@ -116,7 +116,7 @@ A size increase affects any special ability the creature has that is affected by
 | 2d6                    | 3d6        |
 | 2d8                    | 3d8        |
 
-\* *Repeat the adjustment if the creature moves up more than one size category.*
+\* _Repeat the adjustment if the creature moves up more than one size category._
 
 ### Templates
 
@@ -222,20 +222,20 @@ When you improve a monster by adding Hit Dice, use Table: Improved Monster CR In
 
 **Table: Improved Monster CR Increase**
 
-| Creature’s Original Type                                                                        | CR Increase                    |
-| ----------------------------------------------------------------------------------------------- | ------------------------------ |
+| Creature’s Original Type                                                                        | CR Increase                   |
+| ----------------------------------------------------------------------------------------------- | ----------------------------- |
 | Aberration, construct, elemental, fey, giant, humanoid, ooze, plant, undead, vermin             | +1 per 4 HD added             |
 | Animal, magical beast, monstrous humanoid                                                       | +1 per 3 HD added             |
 | Dragon, outsider, nonassociated class levels                                                    | +1 per 2 HD or 2 levels added |
 | Directly associated class levels                                                                | +1 per level added            |
-| Other Modifiers:                                                                                |                                |
+| Other Modifiers:                                                                                |                               |
 | Size increased to Large or larger                                                               | +1 to CR                      |
 | Monster’s ability scores based on elite array (\*)                                              | +1 to CR                      |
 | Monster possesses special attacks or qualities that significantly improve combat effectiveness  | +2 to CR                      |
 | Monster possesses special attacks or qualities that improve combat effectiveness in a minor way | +1 to CR                      |
 | Template added                                                                                  | + template CR modifier        |
 
-\* *Do not apply this increase if you advance a monster by class levels. (Monsters advanced by class levels are assumed to use the elite array.)*
+\* _Do not apply this increase if you advance a monster by class levels. (Monsters advanced by class levels are assumed to use the elite array.)_
 
 ##### Increasing Size
 

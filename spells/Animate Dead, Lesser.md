@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Animate Dead, Lesser
 
-*Necromancy \[Evil\]*
+_Necromancy \[Evil\]_
 
-  - **Level**: Clr 2, Occ 2, Sha 2, Sor/Wiz 3, Spi 2
-  - **Components**: V, S, M (an onyx gem worth at least 25 gp per Hit Die of the undead)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: One corpse
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Clr 2, Occ 2, Sha 2, Sor/Wiz 3, Spi 2
+- **Components**: V, S, M (an onyx gem worth at least 25 gp per Hit Die of the undead)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: One corpse
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-This spell functions as *[[rangoric-srd/spells/Animate Dead|animate dead]]*, except you can only create a single Small or Medium skeleton or zombie. You cannot create variant skeletons or zombies with this spell.
+This spell functions as _[[rangoric-srd/spells/Animate Dead|animate dead]]_, except you can only create a single Small or Medium skeleton or zombie. You cannot create variant skeletons or zombies with this spell.

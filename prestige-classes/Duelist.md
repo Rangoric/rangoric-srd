@@ -52,17 +52,17 @@ The duelist’s class skills (and the key ability for each skill) are [[rangoric
 
 **Table: The Duelist**
 
-| Level | Special              |
-| ----- | -------------------- |
-| 1st   | Canny defense, precise strike |
-| 2nd   | Improved reaction +2, parry |
-| 3rd   | Enhanced mobility    |
-| 4th   | Combat Reflexes, grace |
-| 5th   | Precise strike +1d6, riposte |
-| 6th   | Acrobatic charge     |
-| 7th   | Elaborate parry      |
-| 8th   | Improved reaction +4 |
-| 9th   | Deflect Arrows, no retreat |
+| Level | Special                                 |
+| ----- | --------------------------------------- |
+| 1st   | Canny defense, precise strike           |
+| 2nd   | Improved reaction +2, parry             |
+| 3rd   | Enhanced mobility                       |
+| 4th   | Combat Reflexes, grace                  |
+| 5th   | Precise strike +1d6, riposte            |
+| 6th   | Acrobatic charge                        |
+| 7th   | Elaborate parry                         |
+| 8th   | Improved reaction +4                    |
+| 9th   | Deflect Arrows, no retreat              |
 | 10th  | Precise strike +2d6, crippling critical |
 
 ###### Class Features

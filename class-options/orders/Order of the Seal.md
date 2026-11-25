@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Order of the Seal
 
-*A [[rangoric-srd/classes/Cavalier#^cavalier-order|cavalier order]].*
+_A [[rangoric-srd/classes/Cavalier#^cavalier-order|cavalier order]]._
 
 Cavaliers of the order of the seal are a secretive order, each charged with the protection of a specific object (such as a dangerous magic item), place (a lost temple), or secret (that a certain peasant is actually the last descendant of the royal line). Such cavaliers are the defenders of ancient traditions or the servants of rulers with important secrets to hide, sometimes having to search out such secrets in order to properly protect and preserve them.
 

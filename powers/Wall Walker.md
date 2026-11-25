@@ -27,7 +27,7 @@ Psychoportation
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 min./level  
-**Power Points:** 3  
+**Power Points:** 3
 
 You can walk on vertical surfaces or even traverse ceilings (you need not make [[rangoric-srd/skills/Athletics|Athletics]] checks to traverse these surfaces). Because of the need to keep at least one foot in contact with the wall or ceiling at all times, you cannot jump or use the run action, and you can move at only half speed.
 

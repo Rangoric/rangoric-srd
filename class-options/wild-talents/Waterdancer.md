@@ -18,11 +18,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Waterdancer
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Water Element|water]]
-  - **Type**: utility (Sp)
-  - **Level**: 3
-  - **Burn**: 0
+- **Element**: [[rangoric-srd/class-options/elements/Water Element|water]]
+- **Type**: utility (Sp)
+- **Level**: 3
+- **Burn**: 0
 
-You call forth a current of water to increase your speed and allow you to swim with ease, as if under the effects of *[[rangoric-srd/spells/Slipstream|slipstream]]* with unlimited duration.
+You call forth a current of water to increase your speed and allow you to swim with ease, as if under the effects of _[[rangoric-srd/spells/Slipstream|slipstream]]_ with unlimited duration.

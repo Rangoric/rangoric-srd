@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 The leather strap attached to these bulbous lenses allows their wearer to fit them to his head. The wearer of these goggles can make ranged [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attacks]] from any distance instead of the normal 30 feet. When making ranged sneak attacks within 30 feet, the wearer gains a +2 circumstance bonus on each sneak attack damage die.
 
-Faint divination; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/True Strike|true strike]]*; Price 20,000 gp; Cost 10,000 gp; Weight 1 lb.
+Faint divination; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/True Strike|true strike]]_; Price 20,000 gp; Cost 10,000 gp; Weight 1 lb.

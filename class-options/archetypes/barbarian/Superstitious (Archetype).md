@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Superstitious
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-archetypes|barbarian]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-archetypes|barbarian]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Many barbarians distrust magic. While most just shy away from magic, others focus their rage on users of such foul arts. These barbarians are naturally distrusting, and develop keen senses to protect them from harm. A superstitious barbarian has the following class features.
 

@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Chupacabra
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 4d10+8 (30 hp)
-  - **Initiative**: +7
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 16 (+3 Dex, +2 natural, +1 size), touch 14, flat-footed 13
-  - **Base Attack**: +4; **CMB**: +4 (+8 grapple); **CMD**: 17
-  - **Attack**: Bite +6 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +6 melee (1d3+1)
-  - **Full Attack**: Bite +6 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +6 melee (1d3+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Chupar|Chupar]], [[rangoric-srd/monsters/abilities/Pounce|pounce]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
-  - **Saves**: Fort +6, Ref +7, Will +3
-  - **Abilities**: Str 13, Dex 16, Con 14, Int 3, Wis 15, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +1 (+5 jumping), [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +16
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
-  - **Environment**: Warm hills or plains
-  - **Organization**: Solitary, pair, or gang (3–7)
-  - **Challenge Rating**: 3
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 4d10+8 (30 hp)
+- **Initiative**: +7
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 16 (+3 Dex, +2 natural, +1 size), touch 14, flat-footed 13
+- **Base Attack**: +4; **CMB**: +4 (+8 grapple); **CMD**: 17
+- **Attack**: Bite +6 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +6 melee (1d3+1)
+- **Full Attack**: Bite +6 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +6 melee (1d3+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Chupar|Chupar]], [[rangoric-srd/monsters/abilities/Pounce|pounce]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
+- **Saves**: Fort +6, Ref +7, Will +3
+- **Abilities**: Str 13, Dex 16, Con 14, Int 3, Wis 15, Cha 6
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +1 (+5 jumping), [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +16
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
+- **Environment**: Warm hills or plains
+- **Organization**: Solitary, pair, or gang (3–7)
+- **Challenge Rating**: 3
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 These notorious predators have an undeniable thirst for blood. Chupacabras prefer to prey upon the weak and slow, often watching potential prey from hiding for long periods before attacking. Spry and stealthy, they prefer to keep to areas of high grass and protective rock, their slightly reflective scales allowing them to blend in well with such surroundings.
 

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Catfolk Bard
 
-*A [[rangoric-srd/races/Catfolk|catfolk]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Bard#^bard-class-bonuses|bard]] level.*
+_A [[rangoric-srd/races/Catfolk|catfolk]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Bard#^bard-class-bonuses|bard]] level._
 
 Add +1/2 to the bard's [[rangoric-srd/classes/Bard#^bardic-knowledge|bardic knowledge]] bonus.

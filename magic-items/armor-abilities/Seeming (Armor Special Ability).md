@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Seeming
 
-Armor of *seeming* is a favorite of assassins and burglars alike. Once per day with a command word, the wearer can instantly disguise himself as with the spell *[[rangoric-srd/spells/Alter Self|alter self]]* cast by a 6th level caster (1 hour duration).
+Armor of _seeming_ is a favorite of assassins and burglars alike. Once per day with a command word, the wearer can instantly disguise himself as with the spell _[[rangoric-srd/spells/Alter Self|alter self]]_ cast by a 6th level caster (1 hour duration).
 
-Moderate transmutation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Alter Self|alter self]]*; Price +2 bonus.
+Moderate transmutation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Alter Self|alter self]]_; Price +2 bonus.

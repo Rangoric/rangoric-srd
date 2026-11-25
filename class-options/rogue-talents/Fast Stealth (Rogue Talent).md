@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Fast Stealth
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] and a [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Ex).*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] and a [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Ex)._
 
 This ability allows a rogue or ninja to move at full speed using the Stealth skill without penalty.

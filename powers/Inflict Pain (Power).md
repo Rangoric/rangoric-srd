@@ -35,7 +35,7 @@ Telepathy \[Mind-Affecting\]
 **Duration:** 1 round/level  
 **Saving Throw:** Will partial; see text  
 **Power Resistance:** Yes  
-**Power Points:** 3  
+**Power Points:** 3
 
 You telepathically stab the mind of your foe, causing horrible agony. The subject suffers wracking pain that imposes a -4 penalty on attack rolls, skill checks, and ability checks. If the target makes its save, it takes only a -2 penalty.
 

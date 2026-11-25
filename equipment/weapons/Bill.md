@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/pole-arms]
 
 # Bill
 
-*Martial two-handed melee weapon (blocking, brace, disarm, reach).* Cost 11 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 11 lb.; Type Slashing. ^stats
+_Martial two-handed melee weapon (blocking, brace, disarm, reach)._ Cost 11 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 11 lb.; Type Slashing. ^stats
 
 The blade of this polearm is a curved or hooked chopping blade with a spiked projection on the back of the blade. The spike is commonly used to block and parry. A mounted opponent hit by a bill takes a –1 penalty on his [[rangoric-srd/skills/Animal Handling|Animal Handling]] check to stay mounted.
 

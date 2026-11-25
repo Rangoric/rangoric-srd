@@ -31,7 +31,7 @@ Perks:
 - Hatred: +1 bonus on attack rolls against humanoid creatures of the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^reptilian|reptilian]] and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dwarf|dwarf]] subtypes.
 - Stonecunning: Svirfneblin have the [[rangoric-srd/races/Dwarf|dwarf]]'s [[rangoric-srd/races/Dwarf#^dwarf-stonecunning|stonecunning]].
 - Spell Resistance: Svirfneblin have [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] equal to 11 plus their class levels.
-- Svirfneblin Magic: Add +1 to the Difficulty Class for all saving throws against illusion spells cast by svirfneblin. Svirfneblin also have the following spell-like abilities: Constant—*[[rangoric-srd/spells/Nondetection|nondetection]]*; 1/day—*[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]*, *[[rangoric-srd/spells/Blur|blur]]*, *[[rangoric-srd/spells/Disguise Self|disguise self]]* (caster level equal to the svirfneblin's character level).
+- Svirfneblin Magic: Add +1 to the Difficulty Class for all saving throws against illusion spells cast by svirfneblin. Svirfneblin also have the following spell-like abilities: Constant—_[[rangoric-srd/spells/Nondetection|nondetection]]_; 1/day—_[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]_, _[[rangoric-srd/spells/Blur|blur]]_, _[[rangoric-srd/spells/Disguise Self|disguise self]]_ (caster level equal to the svirfneblin's character level).
 - Weapon Familiarity: Svirfneblin treat any weapon with the word “gnome” in its name as a martial weapon.
 
 Languages:
@@ -58,17 +58,17 @@ Level Adjustment: +1 (see [[rangoric-srd/monsters/Monsters as Races#^level-adjus
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 40 years | +4d6 | +6d6 | +9d6 |
+| --------- | --------- | ----------- | ------- |
+| 40 years  | +4d6      | +6d6        | +9d6    |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 100 years | 150 years | 200 years | +3d% years |
+| Middle Age | Old       | Venerable | Maximum Age |
+| ---------- | --------- | --------- | ----------- |
+| 100 years  | 150 years | 200 years | +3d% years  |
 
-| Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Male | 3 ft. 0 in. | +2d4 | 35 lb. | × 1 lb. |
-| Female | 2 ft. 10 in. | +2d4 | 30 lb. | × 1 lb. |
+| Gender | Base Height  | Height Modifier | Base Weight | Weight Modifier |
+| ------ | ------------ | --------------- | ----------- | --------------- |
+| Male   | 3 ft. 0 in.  | +2d4            | 35 lb.      | × 1 lb.         |
+| Female | 2 ft. 10 in. | +2d4            | 30 lb.      | × 1 lb.         |
 
 ### Description
 
@@ -78,9 +78,9 @@ In the dark below earth, svirfneblin protect their enclaves, keeping their small
 
 A svirfneblin can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Healthy\|Healthy]] | Fortunate |
+| Trait                                                     | Replaces          |
+| --------------------------------------------------------- | ----------------- |
+| [[rangoric-srd/races/racial-traits/Healthy\|Healthy]]     | Fortunate         |
 | [[rangoric-srd/races/racial-traits/Stoneseer\|Stoneseer]] | Svirfneblin magic |
 
 ### Class Bonuses
@@ -93,6 +93,6 @@ A svirfneblin gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bon
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
+| Archetype                                                                                | Class                                         |
+| ---------------------------------------------------------------------------------------- | --------------------------------------------- |
 | [[rangoric-srd/class-options/archetypes/alchemist/Deep Bomber (Archetype)\|Deep Bomber]] | [[rangoric-srd/classes/Alchemist\|Alchemist]] |

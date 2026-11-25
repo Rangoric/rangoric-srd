@@ -11,11 +11,11 @@ tags: [rangoric, rangoric/monster]
 
 # Shark
 
-  - [[rangoric-srd/monsters/shark/Bull Shark|Bull Shark]]
-  - [[rangoric-srd/monsters/shark/Great White Shark|Great White Shark]]
-  - [[rangoric-srd/monsters/shark/Shark, Medium|Shark, Medium]]
-  - [[rangoric-srd/monsters/shark/Shark, Large|Shark, Large]]
-  - [[rangoric-srd/monsters/shark/Shark, Huge|Shark, Huge]]
+- [[rangoric-srd/monsters/shark/Bull Shark|Bull Shark]]
+- [[rangoric-srd/monsters/shark/Great White Shark|Great White Shark]]
+- [[rangoric-srd/monsters/shark/Shark, Medium|Shark, Medium]]
+- [[rangoric-srd/monsters/shark/Shark, Large|Shark, Large]]
+- [[rangoric-srd/monsters/shark/Shark, Huge|Shark, Huge]]
 
 These carnivorous fish are aggressive and liable to make unprovoked attacks against anything that approaches them.
 

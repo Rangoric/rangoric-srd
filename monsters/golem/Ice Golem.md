@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Ice Golem
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]] (Cold)
-  - **Hit Dice**: 6d10+20 (53 hp)
-  - **Initiative**: –1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 17 (–1 Dex, +8 natural), touch 9, flat-footed 17
-  - **Base Attack**: +6; **CMB**: +9; **CMD**: 18
-  - **Attack**: Slam +9 melee (1d6+3 plus 1d6 cold)
-  - **Full Attack**: 2 slams +9 melee (1d6+3 plus 1d6 cold)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (20-ft. cone, 3d6 cold damage, Reflex DC 13 half, usable once every 1d4 rounds), [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^cold|cold (1d6)]], icy destruction
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/adamantine, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to fire]]
-  - **Saves**: Fort +2, Ref +1, Will +2
-  - **Abilities**: Str 16, Dex 9, Con —, Int —, Wis 11, Cha 1
-  - **Skills**: —
-  - **Feats**: —
-  - **Environment**: Any cold
-  - **Organization**: Solitary or gang (2–4)
-  - **Challenge Rating**: 5
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]] (Cold)
+- **Hit Dice**: 6d10+20 (53 hp)
+- **Initiative**: –1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 17 (–1 Dex, +8 natural), touch 9, flat-footed 17
+- **Base Attack**: +6; **CMB**: +9; **CMD**: 18
+- **Attack**: Slam +9 melee (1d6+3 plus 1d6 cold)
+- **Full Attack**: 2 slams +9 melee (1d6+3 plus 1d6 cold)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (20-ft. cone, 3d6 cold damage, Reflex DC 13 half, usable once every 1d4 rounds), [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^cold|cold (1d6)]], icy destruction
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/adamantine, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to fire]]
+- **Saves**: Fort +2, Ref +1, Will +2
+- **Abilities**: Str 16, Dex 9, Con —, Int —, Wis 11, Cha 1
+- **Skills**: —
+- **Feats**: —
+- **Environment**: Any cold
+- **Organization**: Solitary or gang (2–4)
+- **Challenge Rating**: 5
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Ice golems are humanoid automatons formed of carved ice. Their appearance can range from roughly chiseled figures of ice and snow to elaborately detailed ice sculptures and beautiful crystalline statues.
 
@@ -71,7 +71,7 @@ Ice golems cannot speak, and move with the sound of cracking and popping ice. An
 
 An ice golem's body must be constructed from a single block of ice weighing at least 1,000 pounds. The ice is treated with magical powders and unguents worth at least 500 gp. Creating the body requires a DC 17 [[rangoric-srd/skills/Craft|Craft]] (sculptures) check.
 
-CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Chill Touch|chill touch]]*, *[[rangoric-srd/spells/Cone of Cold|cone of cold]]*, *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, *[[rangoric-srd/spells/Ice Storm|ice storm]]*, *[[rangoric-srd/spells/Resist Energy|resist energy]]* (cold), caster must be at least 12th level; Price 18,500 gp; Cost 9,500 gp.
+CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Chill Touch|chill touch]]_, _[[rangoric-srd/spells/Cone of Cold|cone of cold]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Ice Storm|ice storm]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_ (cold), caster must be at least 12th level; Price 18,500 gp; Cost 9,500 gp.
 
 **Cold (Ex)**: An ice golem's body generates intense cold, dealing 1d6 points of damage with its touch. Creatures attacking an ice golem with unarmed strikes or natural weapons take this same cold damage each time one of their attacks hits.
 
@@ -79,5 +79,5 @@ CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd
 
 **Immunity to Magic (Ex)**: An ice golem is immune to any spell or spell-like ability that allows spell resistance, with the exception of spells and spell-like abilities that have the Fire descriptor, which affect it normally. In addition, certain spells and effects function differently against the creature, as noted below.
 
-- A magical attack that deals electricity damage slows an ice golem (as the *[[rangoric-srd/spells/Slow|slow]]* spell) for 2d6 rounds, with no saving throw.
-- A magical attack that deals cold damage breaks any *[[rangoric-srd/spells/Slow|slow]]* effect on the golem and heals 1 point of damage for every 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. An ice golem gets no saving throw against cold effects.
+- A magical attack that deals electricity damage slows an ice golem (as the _[[rangoric-srd/spells/Slow|slow]]_ spell) for 2d6 rounds, with no saving throw.
+- A magical attack that deals cold damage breaks any _[[rangoric-srd/spells/Slow|slow]]_ effect on the golem and heals 1 point of damage for every 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. An ice golem gets no saving throw against cold effects.

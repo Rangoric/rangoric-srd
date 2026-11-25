@@ -40,25 +40,25 @@ tags: [rangoric, rangoric/monster]
 
 # Magma Elemental, Elder
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Earth, Elemental, Extraplanar, Fire)
-  - **Hit Dice**: 16d10+64 (152 hp)
-  - **Initiative**: +3
-  - **Speed**: 20 ft. (4 squares), burrow 20 ft.; earth glide
-  - **Armor Class**: 25 (–1 Dex, +18 natural, –2 size), touch 7, flat-footed 25
-  - **Base Attack**: +16; **CMB**: +26; **CMD**: 35
-  - **Attack**: Slam +22 melee (3d6+8 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
-  - **Full Attack**: 2 slams +22 melee (3d6+8 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (3d6, DC 20), [[rangoric-srd/monsters/elemental/Magma Elemental#^lava-puddle|lava puddle]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], vulnerable to cold
-  - **Saves**: Fort +14, Ref +9, Will +5
-  - **Abilities**: Str 26, Dex 8, Con 19, Int 10, Wis 11, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +27, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +19, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +10, [[rangoric-srd/skills/Theology|Theology]] +19
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Greater Overrun|Greater Overrun]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
-  - **Environment**: Any (Elemental Plane of Fire)
-  - **Organization**: Solitary, pair, or gang (3–8)
-  - **Challenge Rating**: 11
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Earth, Elemental, Extraplanar, Fire)
+- **Hit Dice**: 16d10+64 (152 hp)
+- **Initiative**: +3
+- **Speed**: 20 ft. (4 squares), burrow 20 ft.; earth glide
+- **Armor Class**: 25 (–1 Dex, +18 natural, –2 size), touch 7, flat-footed 25
+- **Base Attack**: +16; **CMB**: +26; **CMD**: 35
+- **Attack**: Slam +22 melee (3d6+8 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
+- **Full Attack**: 2 slams +22 melee (3d6+8 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (3d6, DC 20), [[rangoric-srd/monsters/elemental/Magma Elemental#^lava-puddle|lava puddle]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], vulnerable to cold
+- **Saves**: Fort +14, Ref +9, Will +5
+- **Abilities**: Str 26, Dex 8, Con 19, Int 10, Wis 11, Cha 11
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +27, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +19, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +10, [[rangoric-srd/skills/Theology|Theology]] +19
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Greater Overrun|Greater Overrun]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
+- **Environment**: Any (Elemental Plane of Fire)
+- **Organization**: Solitary, pair, or gang (3–8)
+- **Challenge Rating**: 11
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —

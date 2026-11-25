@@ -15,16 +15,16 @@ tags: [rangoric, rangoric/occult-ritual]
 
 # Seek Astral Insights
 
-*Divination; [[rangoric-srd/rules/occult-rituals/Occult Rituals|occult ritual]] level 6*
+_Divination; [[rangoric-srd/rules/occult-rituals/Occult Rituals|occult ritual]] level 6_
 
-  - **Level**: 6
-  - **Casting Time**: 60 minutes
-  - **Components**: V, S, M (pure beeswax candles, one for each wandering star in conjunction when the ritual is attempted), F (a mithral chain worth 5,000 gp), SC (up to 8)
-  - **Skill Checks**: [[rangoric-srd/skills/Arcana|Arcana]] DC 31, 3 successes; [[rangoric-srd/skills/Theology|Theology]] DC 31, 3 successes
-  - **Range**: primary caster
-  - **Duration**: 1 hour/character level of the primary caster
-  - **Backlash**: The primary caster is unable to speak for 1 week (if the ritual fails, this begins after the *feeblemind* effect ends).
-  - **Failure**: The primary caster’s Intelligence and Charisma scores drop to 1, and she gains the other effects of a *[[rangoric-srd/spells/Feeblemind|feeblemind]]* spell, for 24 hours.
+- **Level**: 6
+- **Casting Time**: 60 minutes
+- **Components**: V, S, M (pure beeswax candles, one for each wandering star in conjunction when the ritual is attempted), F (a mithral chain worth 5,000 gp), SC (up to 8)
+- **Skill Checks**: [[rangoric-srd/skills/Arcana|Arcana]] DC 31, 3 successes; [[rangoric-srd/skills/Theology|Theology]] DC 31, 3 successes
+- **Range**: primary caster
+- **Duration**: 1 hour/character level of the primary caster
+- **Backlash**: The primary caster is unable to speak for 1 week (if the ritual fails, this begins after the _feeblemind_ effect ends).
+- **Failure**: The primary caster’s Intelligence and Charisma scores drop to 1, and she gains the other effects of a _[[rangoric-srd/spells/Feeblemind|feeblemind]]_ spell, for 24 hours.
 
 This ritual can be cast only at midnight on a night when at least three wandering stars (planets) are in conjunction and within view of the casters, at the top of a hill, mountain or other natural vantage point. The primary caster is wrapped in the focus chain and the candles are lit in the pattern of the stars in conjunction; she sits in complete silence, concentrating on the candlelight, while the secondary casters circle her, chanting the incantation.
 

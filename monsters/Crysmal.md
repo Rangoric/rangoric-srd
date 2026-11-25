@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Crysmal
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Earth, Elemental)
-  - **Hit Dice**: 4d10+4 (26 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares), burrow 20 ft.
-  - **Armor Class**: 17 (+2 Dex, +4 natural, +1 size), touch 13, flat-footed 15
-  - **Base Attack**: +4; **CMB**: +5; **CMD**: 17 (29 vs. trip)
-  - **Attack**: Sting +7 melee (2d6+3)
-  - **Full Attack**: Sting +7 melee (2d6+3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Shard spike +7 (3d6, range increment 60 ft.), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., crystal sense, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and fire, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10
-  - **Saves**: Fort +7, Ref +8, Will +2
-  - **Abilities**: Str 15, Dex 14, Con 13, Int 6, Wis 13, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +13 (+15 in rocky areas)
-  - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any underground (Plane of Earth)
-  - **Organization**: Solitary or cluster (2–5)
-  - **Challenge Rating**: 3
-  - **Treasure**: Standard (gems and magic gemstones only)
-  - **Alignment**: Usually neutral
-  - **Advancement**: 7-12 HD (Medium); 13-18 HD (Large)
-  - **Level Adjustment**: -
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Earth, Elemental)
+- **Hit Dice**: 4d10+4 (26 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares), burrow 20 ft.
+- **Armor Class**: 17 (+2 Dex, +4 natural, +1 size), touch 13, flat-footed 15
+- **Base Attack**: +4; **CMB**: +5; **CMD**: 17 (29 vs. trip)
+- **Attack**: Sting +7 melee (2d6+3)
+- **Full Attack**: Sting +7 melee (2d6+3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Shard spike +7 (3d6, range increment 60 ft.), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., crystal sense, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and fire, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10
+- **Saves**: Fort +7, Ref +8, Will +2
+- **Abilities**: Str 15, Dex 14, Con 13, Int 6, Wis 13, Cha 14
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +13 (+15 in rocky areas)
+- **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any underground (Plane of Earth)
+- **Organization**: Solitary or cluster (2–5)
+- **Challenge Rating**: 3
+- **Treasure**: Standard (gems and magic gemstones only)
+- **Alignment**: Usually neutral
+- **Advancement**: 7-12 HD (Medium); 13-18 HD (Large)
+- **Level Adjustment**: -
 
 Scorpion-like crysmals originate in the deepest caverns of the Plane of Earth. On rare occasions, these strange creatures wind up on the Material Plane, usually in subterranean areas rich with natural gem and crystal formations. The crystalline planes of their bodies absorb and refract natural light, which some claim is the source of their supernatural powers.
 
@@ -75,7 +75,7 @@ The psionic version is [[rangoric-srd/monsters/Crysmal, Psionic|Crysmal, Psionic
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +6): At will—*[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Ghost Sound|ghost sound]]* (DC 12), *[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Silent Image|silent image]]* (DC 13); 3/day—*[[rangoric-srd/spells/Dimension Door|dimension door]], [[rangoric-srd/spells/Sanctuary|sanctuary]]* (DC 13), *[[rangoric-srd/spells/Touch of Idiocy|touch of idiocy]]* (DC 14).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +6): At will—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 12), _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Silent Image|silent image]]_ (DC 13); 3/day—_[[rangoric-srd/spells/Dimension Door|dimension door]], [[rangoric-srd/spells/Sanctuary|sanctuary]]_ (DC 13), _[[rangoric-srd/spells/Touch of Idiocy|touch of idiocy]]_ (DC 14).
 
 **Crystal Sense (Sp)**: Crysmals can sense the presence of any crystals or gems within 30 feet as if using the scent ability.
 

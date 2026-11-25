@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Dire Collar
 
-This leather collar resizes to fit almost any size of creature. Once per day on command, the creature that fastened the dire collar to the animal can cause that animal to grow larger and more bestial. The collar's fastener must be within 30 feet of the animal to do so. The animal gains the benefits of an *[[rangoric-srd/spells/Enlarge Person|enlarge person]]* spell (despite the normal targeting restrictions of that spell) for 1 minute.
+This leather collar resizes to fit almost any size of creature. Once per day on command, the creature that fastened the dire collar to the animal can cause that animal to grow larger and more bestial. The collar's fastener must be within 30 feet of the animal to do so. The animal gains the benefits of an _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ spell (despite the normal targeting restrictions of that spell) for 1 minute.
 
-Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Animal Growth|animal growth]]*; Price 1,000 gp; Cost 500 gp; Weight 2 lbs.
+Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Animal Growth|animal growth]]_; Price 1,000 gp; Cost 500 gp; Weight 2 lbs.

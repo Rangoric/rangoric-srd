@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Formian Worker
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Lawful, Extraplanar)
-  - **Hit Dice**: 1d10+1 (6 hp)
-  - **Initiative**: +0 (+4 with hive mind)
-  - **Speed**: 40 ft. (8 squares), burrow 10 ft.
-  - **Armor Class**: 12 (+1 natural, +1 size), touch 11, flat-footed 12
-  - **Base Attack**: +1; **CMB**: +1; **CMD**: 11 (15 vs. trip)
-  - **Attack**: Bite +3 melee (1d6+1)
-  - **Full Attack**: Bite +3 melee (1d6+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/formian/Formian#^hive-mind|hive mind]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 60 ft., able assistant, [[rangoric-srd/monsters/formian/Formian#^formian-traits|formian traits]], peerless bearer, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to sonic 10
-  - **Saves**: Fort +1, Ref +2, Will +2
-  - **Abilities**: Str 13, Dex 10, Con 13, Int 10, Wis 10, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Craft|Craft]] (any one) +4, [[rangoric-srd/skills/Engineering|Engineering]] +4, [[rangoric-srd/skills/Perception|Perception]] +4 (+8 with hive mind), [[rangoric-srd/skills/Profession|Profession]] (miner) +7, [[rangoric-srd/skills/Stealth|Stealth]] +8
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Profession (miner))
-  - **Environment**: Warm or temperate land or underground; a lawful-aligned plane
-  - **Organization**: Solitary, work crew (6–12 plus 1 taskmaster), band (3–15 plus 5–8 warriors and 1 taskmaster), team (2–4), or crew (7–18)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: Incidental (occasionally a 10–50 gp gem embedded into a worker's carapace)
-  - **Alignment**: Always lawful neutral
-  - **Advancement**: 2–3 HD (Medium)
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Lawful, Extraplanar)
+- **Hit Dice**: 1d10+1 (6 hp)
+- **Initiative**: +0 (+4 with hive mind)
+- **Speed**: 40 ft. (8 squares), burrow 10 ft.
+- **Armor Class**: 12 (+1 natural, +1 size), touch 11, flat-footed 12
+- **Base Attack**: +1; **CMB**: +1; **CMD**: 11 (15 vs. trip)
+- **Attack**: Bite +3 melee (1d6+1)
+- **Full Attack**: Bite +3 melee (1d6+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/formian/Formian#^hive-mind|hive mind]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 60 ft., able assistant, [[rangoric-srd/monsters/formian/Formian#^formian-traits|formian traits]], peerless bearer, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to sonic 10
+- **Saves**: Fort +1, Ref +2, Will +2
+- **Abilities**: Str 13, Dex 10, Con 13, Int 10, Wis 10, Cha 9
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Craft|Craft]] (any one) +4, [[rangoric-srd/skills/Engineering|Engineering]] +4, [[rangoric-srd/skills/Perception|Perception]] +4 (+8 with hive mind), [[rangoric-srd/skills/Profession|Profession]] (miner) +7, [[rangoric-srd/skills/Stealth|Stealth]] +8
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Profession (miner))
+- **Environment**: Warm or temperate land or underground; a lawful-aligned plane
+- **Organization**: Solitary, work crew (6–12 plus 1 taskmaster), band (3–15 plus 5–8 warriors and 1 taskmaster), team (2–4), or crew (7–18)
+- **Challenge Rating**: 1/2
+- **Treasure**: Incidental (occasionally a 10–50 gp gem embedded into a worker's carapace)
+- **Alignment**: Always lawful neutral
+- **Advancement**: 2–3 HD (Medium)
+- **Level Adjustment**: —
 
 These lowest-caste formians stand a little taller than a large dog, and their small mandibles are better equipped for slicing leaves and cutting fruit from the vine than carving into flesh. Regardless, many humanoids find the sight of these centaurlike ant creatures intimidating. Their iridescent chitin is nearly featureless, marked only by small scarring as they age and a series of markings on their chest. A few more accomplished formian workers bear small gems proudly glued to their carapace, tokens granted them by taskmasters for particularly impressive accomplishments.
 

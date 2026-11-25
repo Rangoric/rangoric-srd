@@ -29,9 +29,9 @@ The leather wrapping of this book is of an indeterminate type, and gives off a f
 
 ## Spells
 
-- **3rd**: *[[rangoric-srd/spells/Fireball|fireball]]*<sup>S</sup>, *[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]*<sup>S</sup>
-- **2nd**: *[[rangoric-srd/spells/Acid Arrow|acid arrow]]*, *[[rangoric-srd/spells/Darkness|darkness]]*<sup>S</sup>, *[[rangoric-srd/spells/Ghoul Touch|ghoul touch]]*, *[[rangoric-srd/spells/Gust of Wind|gust of wind]]*<sup>S</sup>
-- **1st**: *[[rangoric-srd/spells/Burning Hands|burning hands]]*<sup>S</sup>, *[[rangoric-srd/spells/Color Spray|color spray]]*, *[[rangoric-srd/spells/Corrosive Touch|corrosive touch]]*<sup>S</sup>, *[[rangoric-srd/spells/Hydraulic Push|hydraulic push]]*<sup>S</sup>, *[[rangoric-srd/spells/Hypnotism|hypnotism]]*, *[[rangoric-srd/spells/Magic Missile|magic missile]]*<sup>S</sup>, *[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]*, *[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]*<sup>S</sup>
+- **3rd**: _[[rangoric-srd/spells/Fireball|fireball]]_<sup>S</sup>, _[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_<sup>S</sup>
+- **2nd**: _[[rangoric-srd/spells/Acid Arrow|acid arrow]]_, _[[rangoric-srd/spells/Darkness|darkness]]_<sup>S</sup>, _[[rangoric-srd/spells/Ghoul Touch|ghoul touch]]_, _[[rangoric-srd/spells/Gust of Wind|gust of wind]]_<sup>S</sup>
+- **1st**: _[[rangoric-srd/spells/Burning Hands|burning hands]]_<sup>S</sup>, _[[rangoric-srd/spells/Color Spray|color spray]]_, _[[rangoric-srd/spells/Corrosive Touch|corrosive touch]]_<sup>S</sup>, _[[rangoric-srd/spells/Hydraulic Push|hydraulic push]]_<sup>S</sup>, _[[rangoric-srd/spells/Hypnotism|hypnotism]]_, _[[rangoric-srd/spells/Magic Missile|magic missile]]_<sup>S</sup>, _[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]_, _[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]_<sup>S</sup>
 
 ## Preparation Ritual
 

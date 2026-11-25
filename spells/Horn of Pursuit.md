@@ -30,15 +30,15 @@ tags: [rangoric, rangoric/spell]
 
 # Horn of Pursuit
 
-*Evocation \[Sonic\]*
+_Evocation \[Sonic\]_
 
-  - **Level**: Brd 1, Hun 1, Inq 1, Pal 1, Rgr 1, Skd 1
-  - **Components**: S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Effect**: 3 peals of a horn
-  - **Duration**: 1 round
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Brd 1, Hun 1, Inq 1, Pal 1, Rgr 1, Skd 1
+- **Components**: S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Effect**: 3 peals of a horn
+- **Duration**: 1 round
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You create the sound of a large hunting horn, blowing up to three notes as loud as a roaring dragon. These notes can be heard up to 2 miles away in typical outdoor conditions. You can make these sounds at any point during the spell's duration as a free action, and each sounding can be short or long, allowing you to send very simple coded messages.

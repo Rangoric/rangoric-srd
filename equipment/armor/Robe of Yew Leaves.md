@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Robe of Yew Leaves
 
-*Light armor.* Cost 50 gp; Armor Bonus +2; Maximum Dex Bonus +6; Armor Check Penalty 0; Arcane Spell Failure 10%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 5 lb. ^stats
+_Light armor._ Cost 50 gp; Armor Bonus +2; Maximum Dex Bonus +6; Armor Check Penalty 0; Arcane Spell Failure 10%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 5 lb. ^stats
 
 Druids have long fashioned their own armor from the bounties of nature, and this unique set of armor is no exception. Fashioned from the leaves of the yew tree and reinforced with thin strips of tanned leather, this armor is both functional and often quite beautiful.

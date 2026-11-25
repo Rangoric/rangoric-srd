@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Interposing Hand
 
-*Evocation \[Force\]*
+_Evocation \[Force\]_
 
-  - **Level**: Mag 5, Occ 5, Psy 5, Sor/Wiz 5
-  - **Components**: V, S, F
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Effect**: 10-ft. hand
-  - **Duration**: 1 round/level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Mag 5, Occ 5, Psy 5, Sor/Wiz 5
+- **Components**: V, S, F
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Effect**: 10-ft. hand
+- **Duration**: 1 round/level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 Interposing hand creates a Large magic hand that appears between you and one opponent. This floating, disembodied hand then moves to remain between the two of you, regardless of where you move or how the opponent tries to get around it, providing cover (+4 AC) for you against that opponent. Nothing can fool the hand—it sticks with the selected opponent in spite of darkness, invisibility, polymorphing, or any other attempt at hiding or disguise. The hand does not pursue an opponent, however.
 
@@ -52,4 +52,4 @@ Any creature weighing 2,000 pounds or less that tries to push past the hand is s
 
 Directing the spell to a new target is a move action.
 
-*Focus*: A soft glove.
+_Focus_: A soft glove.

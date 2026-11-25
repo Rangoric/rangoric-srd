@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Dimorphodon
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 2d8+2 (11 hp)
-  - **Initiative**: +3
-  - **Speed**: 10 ft. (2 squares), fly 30 ft. (average)
-  - **Armor Class**: 14 (+3 Dex, +1 natural), touch 13, flat-footed 11
-  - **Base Attack**: +1; **CMB**: +3; **CMD**: 16
-  - **Attack**: Bite +3 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: Bite +3 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +4, Ref +6, Will +1
-  - **Abilities**: Str 15, Dex 17, Con 12, Int 2, Wis 13, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Perception|Perception]] +5
-  - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]]
-  - **Environment**: Warm coasts or forests
-  - **Organization**: Solitary, pair, or flock (3–9)
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 2d8+2 (11 hp)
+- **Initiative**: +3
+- **Speed**: 10 ft. (2 squares), fly 30 ft. (average)
+- **Armor Class**: 14 (+3 Dex, +1 natural), touch 13, flat-footed 11
+- **Base Attack**: +1; **CMB**: +3; **CMD**: 16
+- **Attack**: Bite +3 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: Bite +3 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +4, Ref +6, Will +1
+- **Abilities**: Str 15, Dex 17, Con 12, Int 2, Wis 13, Cha 12
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Perception|Perception]] +5
+- **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]]
+- **Environment**: Warm coasts or forests
+- **Organization**: Solitary, pair, or flock (3–9)
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The dimorphodon's jaws contain two separate rows teeth: several large fangs near the front (used to grip prey and inject poison) and numerous smaller, sharp teeth along the rest of the jaw.
 
@@ -70,4 +70,4 @@ A dimorphodon's wingspan is between 4 and 5 feet long.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; *save* Fort DC 12; *frequency* 1/round for 4 rounds; *effect* 1d2 Str; *cure* 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; _save_ Fort DC 12; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Str; _cure_ 1 save.

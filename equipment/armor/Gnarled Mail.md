@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Gnarled Mail
 
-*Heavy armor.* Cost 800 gp; Armor Bonus +7; Maximum Dex Bonus 0; Armor Check Penalty –7; Arcane Spell Failure 42%; Speed 20 ft. (2) (30 ft.), 15 ft. (2) (20 ft.); Weight 50 lb. ^stats
+_Heavy armor._ Cost 800 gp; Armor Bonus +7; Maximum Dex Bonus 0; Armor Check Penalty –7; Arcane Spell Failure 42%; Speed 20 ft. (2) (30 ft.), 15 ft. (2) (20 ft.); Weight 50 lb. ^stats
 
 This unusual looking suit of armor is made from bony external plating. This mail is made up of various overlapping plates of bone that are fastened onto a leather backing. A more expensive version is available which is enameled and carefully shaped, giving it a more aesthetically pleasing look. This design work adds an additional 100 gp to the price.

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Extra Initiative
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “extra initiative”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “extra initiative”, on the Special Attacks line.
 
 When an encounter starts, a maharaja rolls twice for initiative. The maharaja acts normally on the higher of the two initiative counts each round. On the lower initiative count, the maharaja can take a single standard action. The [[rangoric-srd/monsters/rakshasas/Maharaja|maharaja]] has it.

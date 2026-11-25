@@ -21,9 +21,9 @@ tags: [rangoric, rangoric/class-option]
 
 # Unarmed Fighter
 
-*A [[rangoric-srd/classes/Fighter#^fighter-archetypes|fighter]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Fighter#^fighter-archetypes|fighter]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
-Not all fighters need weapons to make their mark on the world. The unarmed fighter picks up a weapon only rarely, and when he does, he prefers the weapons of the monk. There are even those who mistake them for monks, but these fighters enter the fight without *ki*, and instead have a tough perseverance that few can rival.
+Not all fighters need weapons to make their mark on the world. The unarmed fighter picks up a weapon only rarely, and when he does, he prefers the weapons of the monk. There are even those who mistake them for monks, but these fighters enter the fight without _ki_, and instead have a tough perseverance that few can rival.
 
 **Weapon and Armor Proficiency**: An unarmed fighter is not [[rangoric-srd/classes/Fighter#^fighter-weapon-and-armor-proficiency|proficient]] with medium armor, heavy armor, or shields. An unarmed fighter is proficient with all [[rangoric-srd/equipment/Equipment Weapons#^weapon-groups|monk weapons]], including exotic monk weapons.
 

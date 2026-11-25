@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 Each of these rune-carved brass rings is keyed to a specific spell at creation. When using the [[rangoric-srd/skills/Emulation|Emulation]] skill to activate a scroll or spell trigger item based on that spell, the bearer gains a +10 insight bonus on the skill check.
 
-Faint universal; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Guidance|guidance]]*, creator must have 10 ranks in the [[rangoric-srd/skills/Emulation|Emulation]] skill; Price 3,000 gp; Cost 1,500 gp; Weight 8 lbs.
+Faint universal; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Guidance|guidance]]_, creator must have 10 ranks in the [[rangoric-srd/skills/Emulation|Emulation]] skill; Price 3,000 gp; Cost 1,500 gp; Weight 8 lbs.

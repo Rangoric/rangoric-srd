@@ -36,23 +36,23 @@ tags: [rangoric, rangoric/monster]
 
 # Monstrous Centipede, Gargantuan
 
-  - Gargantuan Vermin
-  - **Hit Dice**: 12d8+12 (66 hp)
-  - **Initiative**: +2
-  - **Speed**: 40 ft. (8 squares), climb 40 ft.
-  - **Armor Class**: 18 (–4 size, +2 Dex, +10 natural), touch 8, flat-footed 16
-  - **Base Attack**: +9; **CMB**: +19; **CMD**: 31 (can't be tripped)
-  - **Attack**: Bite +11 melee (2d8+9 plus poison)
-  - **Full Attack**: Bite +11 melee (2d8+9 plus poison)
-  - **Space/Reach**: 20 ft./15 ft.
-  - **Special Attacks**: Poison
-  - **Special Qualities**: Darkvision 60 ft., vermin traits
-  - **Saves**: Fort +9, Ref +6, Will +4
-  - **Abilities**: Str 23, Dex 15, Con 12, Int —, Wis 10, Cha 2
-  - **Skills**: Athletics +6 (+14 climbing), Perception +4, Stealth +13
-  - **Feats**: —
-  - **Environment**: Underground
-  - **Organization**: Solitary
-  - **Challenge Rating**: 6
-  - **Advancement**: 17–23 HD (Gargantuan)
-  - **Level Adjustment**: —
+- Gargantuan Vermin
+- **Hit Dice**: 12d8+12 (66 hp)
+- **Initiative**: +2
+- **Speed**: 40 ft. (8 squares), climb 40 ft.
+- **Armor Class**: 18 (–4 size, +2 Dex, +10 natural), touch 8, flat-footed 16
+- **Base Attack**: +9; **CMB**: +19; **CMD**: 31 (can't be tripped)
+- **Attack**: Bite +11 melee (2d8+9 plus poison)
+- **Full Attack**: Bite +11 melee (2d8+9 plus poison)
+- **Space/Reach**: 20 ft./15 ft.
+- **Special Attacks**: Poison
+- **Special Qualities**: Darkvision 60 ft., vermin traits
+- **Saves**: Fort +9, Ref +6, Will +4
+- **Abilities**: Str 23, Dex 15, Con 12, Int —, Wis 10, Cha 2
+- **Skills**: Athletics +6 (+14 climbing), Perception +4, Stealth +13
+- **Feats**: —
+- **Environment**: Underground
+- **Organization**: Solitary
+- **Challenge Rating**: 6
+- **Advancement**: 17–23 HD (Gargantuan)
+- **Level Adjustment**: —

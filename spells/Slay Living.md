@@ -30,15 +30,15 @@ tags: [rangoric, rangoric/spell]
 
 # Slay Living
 
-*Necromancy \[Death\]*
+_Necromancy \[Death\]_
 
-  - **Level**: Apl 4, Clr 5, Death 5, Sha 6, Spi 5, Wit 6
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Living creature touched
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Fortitude partial
-  - **Spell Resistance**: Yes
+- **Level**: Apl 4, Clr 5, Death 5, Sha 6, Spi 5, Wit 6
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Living creature touched
+- **Duration**: Instantaneous
+- **Saving Throw**: Fortitude partial
+- **Spell Resistance**: Yes
 
 You can slay any one living creature. You must succeed on a melee touch attack to touch the subject, and it can avoid death with a successful Fortitude save. If it succeeds, it instead takes 3d6 points of damage +1 point per caster level.

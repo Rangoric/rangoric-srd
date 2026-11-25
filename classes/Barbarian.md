@@ -43,28 +43,28 @@ The barbarian’s class skills (and the key ability for each skill) are [[rangor
 
 **Table: The Barbarian** ^table-the-barbarian
 
-| Level | Special                               |
-| ----- | ------------------------------------- |
-| 1st   | Fast movement, rage |
-| 2nd   | Rage power, uncanny dodge |
-| 3rd   | Trap sense +1 |
-| 4th   | Rage power |
-| 5th   | Improved uncanny dodge |
-| 6th   | Rage power, trap sense +2 |
-| 7th   | Damage reduction 1/— |
-| 8th   | Rage power |
-| 9th   | Trap sense +3 |
+| Level | Special                          |
+| ----- | -------------------------------- |
+| 1st   | Fast movement, rage              |
+| 2nd   | Rage power, uncanny dodge        |
+| 3rd   | Trap sense +1                    |
+| 4th   | Rage power                       |
+| 5th   | Improved uncanny dodge           |
+| 6th   | Rage power, trap sense +2        |
+| 7th   | Damage reduction 1/—             |
+| 8th   | Rage power                       |
+| 9th   | Trap sense +3                    |
 | 10th  | Damage reduction 2/—, rage power |
-| 11th  | Greater rage |
-| 12th  | Rage power, trap sense +4 |
-| 13th  | Damage reduction 3/— |
-| 14th  | Indomitable will, rage power |
-| 15th  | Trap sense +5 |
+| 11th  | Greater rage                     |
+| 12th  | Rage power, trap sense +4        |
+| 13th  | Damage reduction 3/—             |
+| 14th  | Indomitable will, rage power     |
+| 15th  | Trap sense +5                    |
 | 16th  | Damage reduction 4/—, rage power |
-| 17th  | Tireless rage |
-| 18th  | Rage power, trap sense +6 |
-| 19th  | Damage reduction 5/— |
-| 20th  | Mighty rage, rage power |
+| 17th  | Tireless rage                    |
+| 18th  | Rage power, trap sense +6        |
+| 19th  | Damage reduction 5/—             |
+| 20th  | Mighty rage, rage power          |
 
 ###### Class Features
 
@@ -74,7 +74,7 @@ All of the following are class features of the barbarian.
 
 **Fast Movement (Ex)**: A barbarian’s land speed is faster than the norm for his race by +10 feet. This benefit applies only when he is wearing no armor, light armor, or medium armor and not carrying a heavy load. Apply this bonus before modifying the barbarian’s speed because of any load carried or armor worn. This bonus stacks with any other bonuses to the barbarian’s land speed. ^barbarian-fast-movement
 
-**Rage (Ex)**: A barbarian can call upon inner reserves of strength and ferocity, granting him additional combat prowess. Starting at 1st level, a barbarian can rage for a number of rounds per day equal to 4 + his Constitution modifier. At each level after 1st, he can rage for 2 additional rounds. Temporary increases to Constitution, such as those gained from rage and spells like *[[rangoric-srd/spells/Bear’s Endurance|bear’s endurance]]*, do not increase the total number of rounds that a barbarian can rage per day. A barbarian can enter rage as a free action. The total number of rounds of rage per day is renewed after resting for 8 hours, although these hours do not need to be consecutive. ^barbarian-rage
+**Rage (Ex)**: A barbarian can call upon inner reserves of strength and ferocity, granting him additional combat prowess. Starting at 1st level, a barbarian can rage for a number of rounds per day equal to 4 + his Constitution modifier. At each level after 1st, he can rage for 2 additional rounds. Temporary increases to Constitution, such as those gained from rage and spells like _[[rangoric-srd/spells/Bear’s Endurance|bear’s endurance]]_, do not increase the total number of rounds that a barbarian can rage per day. A barbarian can enter rage as a free action. The total number of rounds of rage per day is renewed after resting for 8 hours, although these hours do not need to be consecutive. ^barbarian-rage
 
 While in rage, a barbarian gains a +4 morale bonus to his Strength and Constitution, as well as a +2 morale bonus on Will saves. In addition, he takes a –2 penalty to Armor Class. The increase to Constitution grants the barbarian 2 hit points per Hit Dice, but these disappear when the rage ends and are not lost first like temporary hit points. While raging, a barbarian cannot use any Charisma-, Dexterity-, or Intelligence-based skills (except for [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Escape Artist|Escape Artist]], [[rangoric-srd/skills/Intimidation|Intimidation]], and [[rangoric-srd/skills/Animal Handling|Animal Handling]]), [[rangoric-srd/rules/Concentration (Check)|concentration]] or [[rangoric-srd/skills/Meditation|Meditation]] checks, or any abilities that require patience or concentration, nor can he cast spells or activate magic items that require a command word, a spell trigger (such as a wand), or spell completion (such as a scroll) to function. He can use any feat he has except [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Feats Item Creation|item creation feats]], and [[rangoric-srd/feats/Feats Metamagic|metamagic feats]].
 

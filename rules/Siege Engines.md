@@ -55,7 +55,7 @@ Firearm siege weapons do not gain a mishap on a natural 1, but instead have a mi
 Siege engines are broken down for transport and can be reassembled on the battlefield, requiring the time and number of workers noted below. Each assembly worker must make a DC 10 [[rangoric-srd/skills/Craft|Craft]] (siege engine) check; if untrained, they may not take 10. Assembly can be performed with at least half the required number of workers by doubling the time required. If fewer than half are available, the weapon cannot be assembled.
 
 | Engine Size | Time Required | Workers Required |
-|-------------|---------------|------------------|
+| ----------- | ------------- | ---------------- |
 | Small       | 1 minute      | 1                |
 | Medium      | 10 minutes    | 2                |
 | Large       | 1 hour        | 4                |
@@ -118,7 +118,7 @@ Indirect-fire weapons use a targeting mechanic similar to that described for [[r
 To fire an indirect-fire ranged siege engine, the crew leader makes a targeting check against the DC of the siege engine. This check uses his base attack bonus, his Intelligence modifier (if not trained in [[rangoric-srd/skills/Engineering|Engineering]]) or Engineering skill modifier (if trained in that skill), any penalty for not being proficient in the siege engine, and the appropriate modifiers. If the check succeeds, the ammunition of the indirect attack hits the square the siege engine was aimed at, dealing the indicated damage or effect to any object or creature within the area of its attack. Creatures may get a saving throw to limit the effect of the attack; this is typically based on the type of ammunition used. If the attack misses the intended square, roll 1d8 to determine in what direction the shot veers. A roll of 1 indicates the ammunition falls short (toward the siege engine), with rolls of 2 through 8 counting squares clockwise around the target square. Roll 1d4 for every range increment at which the attack was made (1d4 if the target square is within the engine's first range increment, 2d4 if the target square is within the second range increment, and so on). The total is the number of squares by which the attack misses, with the direction in which the squares are counted determined by the d8 roll. The ammunition deals its damage and any other effects in the square it lands on.
 
 | Condition                                                                                                  | Modifier                                      |
-|------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| ---------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
 | No line of sight to target square                                                                          | –6                                            |
 | Successive shots (crew can see where most recent miss landed)                                              | Cumulative +2 per previous miss (maximum +10) |
 | Successive shots (crew can't see where most recent missed shot landed, but observer is providing feedback) | Cumulative +1 per previous miss (maximum +5)  |
@@ -169,11 +169,11 @@ All these building statistics assume that the structure's inside is somewhat hol
 For larger buildings, put together multiple buildings of these sizes and add the hit points together.
 
 | Material      | Hardness | Hit Points Large | Hit Points Huge | Hit Points Gargantuan | Hit Points Colossal |
-|---------------|----------|------------------|-----------------|---------------------|-----------------------|
-| Wood          | 5        | 120              | 270             | 960                 | 3,240                 |
-| Stone         | 8        | 200              | 450             | 1,600               | 5400                  |
-| Iron or steel | 10       | 400              | 900             | 3,200               | 10,800                |
-| Adamantine    | 20       | 560              | 1,260           | 4,480               | 15,120                |
+| ------------- | -------- | ---------------- | --------------- | --------------------- | ------------------- |
+| Wood          | 5        | 120              | 270             | 960                   | 3,240               |
+| Stone         | 8        | 200              | 450             | 1,600                 | 5400                |
+| Iron or steel | 10       | 400              | 900             | 3,200                 | 10,800              |
+| Adamantine    | 20       | 560              | 1,260           | 4,480                 | 15,120              |
 
 Table: Buildings
 
@@ -186,12 +186,12 @@ Gates can be magically treated. Doing so doubles the hardness and hit points. Ma
 Gates can be attacked and damaged, or they can become broken (as the condition) with a successful Strength check, usually as a result of ramming. When a gate gains the broken condition, it is effectively breached, and can be moved through as if it were an opening one size smaller.
 
 | Material                                                                                                                                                                                                                                                                         | Break DC 1 | Hardness | Hit Points Large | Hit Points Huge | Hit Points Gargantuan | Hit Points Colossal |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|----------|------------------|-----------------|---------------------|-----------------------|
-| Wood                                                                                                                                                                                                                                                                             | 35         | 5        | 60               | 135             | 240                 | 540                   |
-| Stone                                                                                                                                                                                                                                                                            | 38         | 8        | 100              | 225             | 400                 | 900                   |
-| Iron or steel                                                                                                                                                                                                                                                                    | 24         | 10       | 200              | 500             | 800                 | 1,800                 |
-| Adamantine                                                                                                                                                                                                                                                                       | 48         | 20       | 280              | 630             | 1,120               | 2,520                 |
-| <sup>1</sup> The DC assumes the gate is size Large and is barred and locked. Huge doors increase the break DC by 5, Gargantuan doors increase the DC by 10, and Colossal doors increase the DC by 15. *[[rangoric-srd/spells/Arcane Lock\|Arcane lock]]* increases the DC by 10. |            |          |                  |                 |                     |                       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------- | ---------------- | --------------- | --------------------- | ------------------- |
+| Wood                                                                                                                                                                                                                                                                             | 35         | 5        | 60               | 135             | 240                   | 540                 |
+| Stone                                                                                                                                                                                                                                                                            | 38         | 8        | 100              | 225             | 400                   | 900                 |
+| Iron or steel                                                                                                                                                                                                                                                                    | 24         | 10       | 200              | 500             | 800                   | 1,800               |
+| Adamantine                                                                                                                                                                                                                                                                       | 48         | 20       | 280              | 630             | 1,120                 | 2,520               |
+| <sup>1</sup> The DC assumes the gate is size Large and is barred and locked. Huge doors increase the break DC by 5, Gargantuan doors increase the DC by 10, and Colossal doors increase the DC by 15. _[[rangoric-srd/spells/Arcane Lock\|Arcane lock]]_ increases the DC by 10. |            |          |                  |                 |                       |                     |
 
 Table: Gates
 

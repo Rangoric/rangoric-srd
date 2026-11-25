@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Festering Spirit
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Incorporeal)
-  - **Hit Dice**: 9d8+18 (58 hp)
-  - **Initiative**: +9
-  - **Speed**: fly 40 ft. (good)
-  - **Armor Class**: 18 (+2 deflection, +5 Dex, +1 dodge), touch 18, flat-footed 12
-  - **Base Attack**: +6; **CMB**: +11; **CMD**: 24
-  - **Attack**: Incorporeal touch +11 melee (1d4 Con damage plus [[rangoric-srd/monsters/abilities/Slime|slime]])
-  - **Full Attack**: Incorporeal touch +11 melee (1d4 Con damage plus [[rangoric-srd/monsters/abilities/Slime|slime]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Create Spawn|Create spawn]], [[rangoric-srd/monsters/abilities/Slime|slime]], [[rangoric-srd/monsters/abilities/Trample|trample]] (1 Con plus slime, DC 16)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Stench|stench]] (DC 14, 10 rounds), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Ghost Touch|ghost touch]], [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-  - **Saves**: Fort +5, Ref +8, Will +7
-  - **Abilities**: Str —, Dex 20, Con —, Int 6, Wis 12, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +17
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]]
-  - **Environment**: Any land or underground
-  - **Organization**: Solitary, pair, or gang (3–6)
-  - **Challenge Rating**: 8
-  - **Treasure**: Incidental
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Incorporeal)
+- **Hit Dice**: 9d8+18 (58 hp)
+- **Initiative**: +9
+- **Speed**: fly 40 ft. (good)
+- **Armor Class**: 18 (+2 deflection, +5 Dex, +1 dodge), touch 18, flat-footed 12
+- **Base Attack**: +6; **CMB**: +11; **CMD**: 24
+- **Attack**: Incorporeal touch +11 melee (1d4 Con damage plus [[rangoric-srd/monsters/abilities/Slime|slime]])
+- **Full Attack**: Incorporeal touch +11 melee (1d4 Con damage plus [[rangoric-srd/monsters/abilities/Slime|slime]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Create Spawn|Create spawn]], [[rangoric-srd/monsters/abilities/Slime|slime]], [[rangoric-srd/monsters/abilities/Trample|trample]] (1 Con plus slime, DC 16)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Stench|stench]] (DC 14, 10 rounds), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Ghost Touch|ghost touch]], [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
+- **Saves**: Fort +5, Ref +8, Will +7
+- **Abilities**: Str —, Dex 20, Con —, Int 6, Wis 12, Cha 15
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +17
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]]
+- **Environment**: Any land or underground
+- **Organization**: Solitary, pair, or gang (3–6)
+- **Challenge Rating**: 8
+- **Treasure**: Incidental
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A festering spirit arises when a vile person's corpse is put in a mass grave, or when such a person is buried, exhumed, and placed in a charnel house or ossuary. The lingering hatred and evil of the dead mixes with the worst remnants of dozens of other people, creating a frustrated incorporeal shade of sickness, hate, and rot. Powerful mortals might arise as multiple festering spirits, each spawned from a different aspect of the original creature's personality.
 

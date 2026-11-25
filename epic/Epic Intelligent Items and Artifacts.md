@@ -13,9 +13,9 @@ tags: [rangoric, rangoric/overview]
 
 ### Intelligent Items
 
-Just like nonepic magic items, epic magic items sometimes possess intelligence of their own. Such items are fully sentient and should be treated as NPCs. The Random Epic Magic Items section details the chances that epic armor, shields, rings, rods, staffs, wondrous items, and weapons might be intelligent. In short, a ring, rod, staff, wondrous item, armor, or shield has a 1% chance to be intelligent, a ranged weapon has a 5% chance to be intelligent, and a melee weapon has a 15% chance to be intelligent. Rather than using the tables for nonepic items, use the tables below to determine the properties of an intelligent item: the number of powers, unusual properties, alignment, and special purpose of the item (if any). Of the three mental ability scores, two scores are favored (2d6 + some number) and one is completely random (3d6). Choose which scores get assigned which number, or roll 1d4 and determine randomly according to the following table.  
+Just like nonepic magic items, epic magic items sometimes possess intelligence of their own. Such items are fully sentient and should be treated as NPCs. The Random Epic Magic Items section details the chances that epic armor, shields, rings, rods, staffs, wondrous items, and weapons might be intelligent. In short, a ring, rod, staff, wondrous item, armor, or shield has a 1% chance to be intelligent, a ranged weapon has a 5% chance to be intelligent, and a melee weapon has a 15% chance to be intelligent. Rather than using the tables for nonepic items, use the tables below to determine the properties of an intelligent item: the number of powers, unusual properties, alignment, and special purpose of the item (if any). Of the three mental ability scores, two scores are favored (2d6 + some number) and one is completely random (3d6). Choose which scores get assigned which number, or roll 1d4 and determine randomly according to the following table.
 
-Table: Mental Ability Scores for Intelligent Items   
+Table: Mental Ability Scores for Intelligent Items
 
 |     |              |              |           |
 | --- | ------------ | ------------ | --------- |
@@ -25,7 +25,7 @@ Table: Mental Ability Scores for Intelligent Items
 | 3   | Wisdom       | Intelligence | Charisma  |
 | 4   | Charisma     | Intelligence | Wisdom    |
 
-The first step in determining the properties of a random intelligent epic magic item is to determine its general capabilities. These are found by rolling d% and consulting Table: Epic Items Intelligence, Wisdom, Charisma, and Capabilities.  
+The first step in determining the properties of a random intelligent epic magic item is to determine its general capabilities. These are found by rolling d% and consulting Table: Epic Items Intelligence, Wisdom, Charisma, and Capabilities.
 
 Table: Epic Item Intelligence, Wisdom, Charisma, and Capabilities
 
@@ -40,17 +40,17 @@ Table: Epic Item Intelligence, Wisdom, Charisma, and Capabilities
 | 74     | Roll again, but add 1d6 to each ability score (1)                                   |                                                                        |
 | 75-100 | Use nonepic magic item Table: Item Intelligence, Wisdom, Charisma, and Capabilities |                                                                        |
 
-1 Cumulative if rolled multiple times.  
+1 Cumulative if rolled multiple times.
 
 ##### Market Price Modifier
 
-To find the market price for an epic magic item, use these expanded guidelines, adjusting as necessary to find an appropriate final price. Each point of Intelligence bonus, Wisdom bonus, or Charisma bonus increases the item’s market price by 400 gp. Any form of communication possessed by the item increases its market price by the number shown on Table: Epic Item Communication. Each primary ability possessed by the item increases its market price by 2,000 to 10,000 gp (average 6,000 gp). Each extraordinary ability possessed by the item increases its market price by 15,000 to 35,000 gp (average 25,000 gp). A special purpose increases the item’s market price by 50,000 gp. An awesome power increases the item’s market price by 100,000 gp.  
+To find the market price for an epic magic item, use these expanded guidelines, adjusting as necessary to find an appropriate final price. Each point of Intelligence bonus, Wisdom bonus, or Charisma bonus increases the item’s market price by 400 gp. Any form of communication possessed by the item increases its market price by the number shown on Table: Epic Item Communication. Each primary ability possessed by the item increases its market price by 2,000 to 10,000 gp (average 6,000 gp). Each extraordinary ability possessed by the item increases its market price by 15,000 to 35,000 gp (average 25,000 gp). A special purpose increases the item’s market price by 50,000 gp. An awesome power increases the item’s market price by 100,000 gp.
 
 ##### Intelligent Item Alignment
 
-Any item with Intelligence has an alignment. Make sure that the alignment choosen or determine randomly (using Table: Item Alignment) matches any alignment-oriented special abilities of the item. Any character whose alignment is not compatible with that of the item gains one negative level for every 10 points of the weapon’s Ego (see Item Ego, below) if he or she so much as picks up the item. Although this never results in actual level loss, the negative levels remain as long as the item is in hand and cannot be overcome in any way (including restoration spells). These negative levels are cumulative with any other penalties the item might already place on inappropriate wielders.  
+Any item with Intelligence has an alignment. Make sure that the alignment choosen or determine randomly (using Table: Item Alignment) matches any alignment-oriented special abilities of the item. Any character whose alignment is not compatible with that of the item gains one negative level for every 10 points of the weapon’s Ego (see Item Ego, below) if he or she so much as picks up the item. Although this never results in actual level loss, the negative levels remain as long as the item is in hand and cannot be overcome in any way (including restoration spells). These negative levels are cumulative with any other penalties the item might already place on inappropriate wielders.
 
-Table: Item Alignment   
+Table: Item Alignment
 
 | d%     | Alignment of Item   |
 | ------ | ------------------- |
@@ -64,29 +64,29 @@ Table: Item Alignment
 | 61–80  | Neutral good (1)    |
 | 81–100 | Neutral             |
 
-1 *The item can also be used by any character whose alignment corresponds to the nonneutral portion of the item’s alignment.*
+1 _The item can also be used by any character whose alignment corresponds to the nonneutral portion of the item’s alignment._
 
 ##### Item Communication
 
-Like a character, an intelligent item speaks Common plus one language per point of Intelligence bonus. Choose appropriate languages, taking into account the item’s origin and purposes. An item with multiple modes of communication can use any of its modes at will.  
+Like a character, an intelligent item speaks Common plus one language per point of Intelligence bonus. Choose appropriate languages, taking into account the item’s origin and purposes. An item with multiple modes of communication can use any of its modes at will.
 
-Table: Epic Item Communication   
+Table: Epic Item Communication
 
 | d%     | Communication Mode           | Market Price Modifier |
 | ------ | ---------------------------- | --------------------- |
-| 01-10  | Semiempathy (1)              | +1,000 gp            |
-| 11-35  | Empathy (2)                  | +2,000 gp            |
-| 36-75  | Speech (3)                   | +3,000 gp            |
-| 76-85  | Telepathy (4)                | +5,000 gp            |
-| 86-100 | Speech (3) and telepathy (4) | +8,000 gp            |
+| 01-10  | Semiempathy (1)              | +1,000 gp             |
+| 11-35  | Empathy (2)                  | +2,000 gp             |
+| 36-75  | Speech (3)                   | +3,000 gp             |
+| 76-85  | Telepathy (4)                | +5,000 gp             |
+| 86-100 | Speech (3) and telepathy (4) | +8,000 gp             |
 
 1 The possessor receives some signal (a throb or tingle, for example) when the item’s ability functions.      
 2 The possessor feels urges and sometimes emotions from the item that encourage or discourage certain courses of action.      
 3 Speaks Common plus one language per point of Intelligence bonus. Roll d%: 01-05, the item cannot read any languages; 06-75, the item can read any language it can speak (+1,000 gp to market price); 76-90, it can read all languages (+2,000 gp to market price); 91-100, it can read all languages as well as read magic (+3,000 gp to market price).      
-4 The item can communicate silently with any wielder who has an Intelligence of 1 or higher, regardless of any language barrier.      
+4 The item can communicate silently with any wielder who has an Intelligence of 1 or higher, regardless of any language barrier.    
 
-INTELLIGENT ITEM ABILITIES   
-Using the number of capabilities determined above, find the item’s specific abilities by rolling on the appropriate tables below.  
+INTELLIGENT ITEM ABILITIES  
+Using the number of capabilities determined above, find the item’s specific abilities by rolling on the appropriate tables below.
 
 | d%     | Primary Ability                                                  |
 | ------ | ---------------------------------------------------------------- |
@@ -115,9 +115,9 @@ Using the number of capabilities determined above, find the item’s specific ab
 | 81-90  | Roll twice again on this table                                   |
 | 91-100 | Roll on Table: Intelligent Item Extraordinary Powers instead     |
 
-If the same ability is rolled twice or more, the range, frequency, or effectiveness of the power is doubled, tripled, and so on. All abilities function only when the item is held, drawn, or otherwise brandished and the possessor is concentrating on the desired result. Activating a power is a standard action, but using a free feat is not. Feats may be used regardless of prerequisites, but the item still must be held and drawn (or worn, in the case of such items). An intelligent item might activate a power on its own.  
+If the same ability is rolled twice or more, the range, frequency, or effectiveness of the power is doubled, tripled, and so on. All abilities function only when the item is held, drawn, or otherwise brandished and the possessor is concentrating on the desired result. Activating a power is a standard action, but using a free feat is not. Feats may be used regardless of prerequisites, but the item still must be held and drawn (or worn, in the case of such items). An intelligent item might activate a power on its own.
 
-Table: Intelligent Item Extraordinary Powers   
+Table: Intelligent Item Extraordinary Powers
 
 | d%     | Extraordinary Power                                                                              | Uses    |
 | ------ | ------------------------------------------------------------------------------------------------ | ------- |
@@ -146,14 +146,14 @@ Table: Intelligent Item Extraordinary Powers
 | 83     | Summon monster VI                                                                                | 1/day   |
 | 84     | Finger of death (100 ft. range, DC 17 (1))                                                       | 1/day   |
 | 85     | Passwall                                                                                         | At will |
-| 86-90  | Roll twice again on this table                                                                   | -      |
-| 91-100 | Roll again on this table, and then roll for a special purpose on Table: Intelligent Item Purpose | -      |
+| 86-90  | Roll twice again on this table                                                                   | -       |
+| 91-100 | Roll again on this table, and then roll for a special purpose on Table: Intelligent Item Purpose | -       |
 
-1 Choose an ability score of the item (usually the highest) at the time the item is created or randomly generated. Add that ability’s bonus to the given DC.  
+1 Choose an ability score of the item (usually the highest) at the time the item is created or randomly generated. Add that ability’s bonus to the given DC.
 
 If the same power is rolled twice, the uses per day are doubled. (If true seeing or passwall is rolled twice, roll again.) Powers function only when the item is drawn and held, and the possessor is concentrating upon the desired effect. Activating a power is a standard action. An intelligent item might activate a power on its own.
 
-Table: Intelligent Item Awesome Powers  
+Table: Intelligent Item Awesome Powers
 
 | d%     | Awesome Power                                                                                                        | Uses  |
 | ------ | -------------------------------------------------------------------------------------------------------------------- | ----- |
@@ -175,20 +175,20 @@ Table: Intelligent Item Awesome Powers
 | 69-72  | Summon monster IX (2) (extended; 40-round duration)                                                                  | 1/day |
 | 73-76  | Sunburst (heightened to 9th level; DC 19 (1))                                                                        | 2/day |
 | 77-80  | Teleport without error                                                                                               | 2/day |
-| 81-90  | Roll twice again on this table                                                                                       | -    |
-| 91-100 | Roll again on this table, and then roll for a special purpose on nonepic magic item Table: Intelligent Item Purpose. | -    |
+| 81-90  | Roll twice again on this table                                                                                       | -     |
+| 91-100 | Roll again on this table, and then roll for a special purpose on nonepic magic item Table: Intelligent Item Purpose. | -     |
 
 1 Choose an ability score of the item (usually the highest) at the time the item is created or randomly generated. Add that ability’s bonus to the listed DC.      
-2 The weapon can only summon monsters whose alignment has no components that oppose the item’s alignment.   
+2 The weapon can only summon monsters whose alignment has no components that oppose the item’s alignment.
 
-Unless otherwise stated, all awesome powers function at 20th caster level. If a power is rolled twice, the uses per day are doubled. Powers function only when the item is drawn and held, and the possessor is concentrating upon the desired effect. Activating a power is a standard action. An intelligent item might activate a power on its own.  
+Unless otherwise stated, all awesome powers function at 20th caster level. If a power is rolled twice, the uses per day are doubled. Powers function only when the item is drawn and held, and the possessor is concentrating upon the desired effect. Activating a power is a standard action. An intelligent item might activate a power on its own.
 
 ##### Special Purpose Items
 
 Purpose  
-An item’s purpose must suit the type and alignment of the item and should always be treated reasonably.  
+An item’s purpose must suit the type and alignment of the item and should always be treated reasonably.
 
-Table: Intelligent Item Purpose   
+Table: Intelligent Item Purpose
 
 | d%     | Purpose                                                                                                   |
 | ------ | --------------------------------------------------------------------------------------------------------- |
@@ -204,33 +204,33 @@ Table: Intelligent Item Purpose
 | 91–95  | Defeat/slay all (other than the item and the wielder)                                                     |
 | 96–100 | Choose one                                                                                                |
 
-1 *The purpose of the neutral (N) version of this item is to preserve the balance by defeating/slaying powerful beings of the extreme alignments (LG, LE, CG, CE).*
+1 _The purpose of the neutral (N) version of this item is to preserve the balance by defeating/slaying powerful beings of the extreme alignments (LG, LE, CG, CE)._
 
 ##### Special Purpose Power
 
-A special purpose power operates only when the item is in pursuit of its special purpose. This is always up to the purview of the item. It should always be easy and straightforward to see how the ends justify the means. That is to say that if the player’s reasoning for how a particular action serves the item’s purpose is not completely believable, the item won’t allow it.  
+A special purpose power operates only when the item is in pursuit of its special purpose. This is always up to the purview of the item. It should always be easy and straightforward to see how the ends justify the means. That is to say that if the player’s reasoning for how a particular action serves the item’s purpose is not completely believable, the item won’t allow it.
 
-Table: Intelligent Item Special Purpose Powers   
+Table: Intelligent Item Special Purpose Powers
 
-| d%     | Special Purpose Power                                                            |
-| ------ | -------------------------------------------------------------------------------- |
-| 01–10  | Blindness (1) (DC 17 (2)) for 2d6 rounds                                         |
-| 11-20  | Confusion (1) (DC 19 (2)) for 2d6 rounds                                         |
-| 21-25  | Fear (1) (DC 19 (2)) for 1d4 rounds                                              |
-| 26-55  | Hold monster (1) (DC 19 (2)) for 1d4 rounds                                      |
-| 56-65  | Slay living (1) (DC 20 (2))                                                      |
-| 66-75  | Disintegrate (1) (DC 21 (2))                                                     |
-| 76-80  | True resurrection on wielder, one time only                                      |
+| d%     | Special Purpose Power                                                           |
+| ------ | ------------------------------------------------------------------------------- |
+| 01–10  | Blindness (1) (DC 17 (2)) for 2d6 rounds                                        |
+| 11-20  | Confusion (1) (DC 19 (2)) for 2d6 rounds                                        |
+| 21-25  | Fear (1) (DC 19 (2)) for 1d4 rounds                                             |
+| 26-55  | Hold monster (1) (DC 19 (2)) for 1d4 rounds                                     |
+| 56-65  | Slay living (1) (DC 20 (2))                                                     |
+| 66-75  | Disintegrate (1) (DC 21 (2))                                                    |
+| 76-80  | True resurrection on wielder, one time only                                     |
 | 81-100 | +4 luck bonus on all saving throws, +4 deflection AC bonus, spell resistance 30 |
 
 1 This power affects the opponent of the item’s wielder on a successful hit unless the opponent makes a Will save at the listed DC.      
-2 Choose an ability score of the item (usually the highest) at the time the item is created or randomly generated. Add that ability’s bonus to the listed DC.   
+2 Choose an ability score of the item (usually the highest) at the time the item is created or randomly generated. Add that ability’s bonus to the listed DC.
 
 ##### Item Ego
 
-Ego is a measure of the total power and force of personality that an item possesses. Only after all aspects of an item have been generated and recorded can its Ego score be determined. Ego is a factor with regard to the dominance of item over character, as detailed below.  
+Ego is a measure of the total power and force of personality that an item possesses. Only after all aspects of an item have been generated and recorded can its Ego score be determined. Ego is a factor with regard to the dominance of item over character, as detailed below.
 
-Table: Item Ego   
+Table: Item Ego
 
 | Attribute of Item                    | Ego Points |
 | ------------------------------------ | ---------- |
@@ -248,37 +248,37 @@ Table: Item Ego
 | Each +1 of Wisdom bonus              | 1          |
 | Each +1 of Charisma bonus            | 1          |
 
-1 If uses per day are doubled, Ego points are doubled as well.   
+1 If uses per day are doubled, Ego points are doubled as well.
 
 ##### Items Against Characters
 
 When an item has an Ego of its own, it has a will of its own. The item is, of course, absolutely true to its alignment. If the character who possesses the item is not true to that alignment’s goals or the item’s special purpose, personality conflict-item against character-results. Similarly, any item with an Ego score of 20 or higher always considers itself superior to any character, and a personality conflict results if the possessor does not always agree with the item. When a personality conflict occurs, the possessor must make a Will saving throw (DC = item’s Ego). If the possessor succeeds, he or she is dominant. If he or she fails, the item is dominant. Dominance lasts for one day or until a critical situation occurs (such as a major battle, a serious threat to either item or character, and so on). Should an item gain dominance, it resists the character’s desires and demands concessions such as any of the following:
 
-  - Removal of associates or items whose alignment or personality is distasteful to the item.
+- Removal of associates or items whose alignment or personality is distasteful to the item.
 
-  - The character divesting him or herself of all other magic items or items of a certain type.
+- The character divesting him or herself of all other magic items or items of a certain type.
 
-  - Obedience from the character so the item can direct where they go for its own purposes.
+- Obedience from the character so the item can direct where they go for its own purposes.
 
-  - Immediate seeking out and slaying of creatures hateful to the item.
+- Immediate seeking out and slaying of creatures hateful to the item.
 
-  - Magical protections and devices to protect the item from molestation when it is not in use.
+- Magical protections and devices to protect the item from molestation when it is not in use.
 
-  - That the character carry the item with him or her on all occasions.
+- That the character carry the item with him or her on all occasions.
 
-  - That the character relinquish the item in favor of a more suitable possessor due to alignment differences or conduct.
+- That the character relinquish the item in favor of a more suitable possessor due to alignment differences or conduct.
 
 In extreme circumstances, the item can resort to even harsher measures.
 
-  - Force its possessor into combat.
+- Force its possessor into combat.
 
-  - Refuse to strike opponents.
+- Refuse to strike opponents.
 
-  - Strike at its wielder or his or her associates.
+- Strike at its wielder or his or her associates.
 
-  - Force its possessor to surrender to an opponent.
+- Force its possessor to surrender to an opponent.
 
-  - Cause itself to drop from the character’s grasp.
+- Cause itself to drop from the character’s grasp.
 
 Naturally, such actions are unlikely when harmony reigns between the character’s and item’s alignments or when their purposes and personalities are well matched. Even so, an item might wish to have a lesser character possess it in order to easily command him or her, or a higher-level possessor so as to better accomplish its goals. All magic items with personalities desire to play an important role in whatever activity is under way, particularly combat. Such items are rivals of each other, even if they are of the same alignment. No intelligent item wants to share its wielder with others. An intelligent item is aware of the presence of any other intelligent item within 60 feet, and most intelligent items try their best to mislead or distract their host so that he or she ignores or destroys the rival. Of course, alignment might change this sort of behavior.
 
@@ -288,23 +288,23 @@ Items with personalities are never totally controlled or silenced by the charact
 
 #### Minor Artifacts
 
-Minor artifacts are not necessarily unique items, but rather magic items that no longer can be made by common mortal means-even by the hands of epic creators. Such items have no established market price. Below is a selection of known minor artifacts.  
+Minor artifacts are not necessarily unique items, but rather magic items that no longer can be made by common mortal means-even by the hands of epic creators. Such items have no established market price. Below is a selection of known minor artifacts.
 
-  - [[rangoric-srd/magic-items/artifacts/Everfull Purse|Everfull Purse]]
-  - [[rangoric-srd/magic-items/artifacts/Libram of Gainful Conjuration|Libram of Gainful Conjuration]]
-  - [[rangoric-srd/magic-items/artifacts/Libram of Ineffable Damnation|Libram of Ineffable Damnation]]
-  - [[rangoric-srd/magic-items/artifacts/Libram of Silver Magic|Libram of Silver Magic]]
-  - [[rangoric-srd/magic-items/artifacts/Manual of Puissant Skill at Arms|Manual of Puissant Skill at Arms]]
-  - [[rangoric-srd/magic-items/artifacts/Manual of Stealthy Pilfering|Manual of Stealthy Pilfering]]
-  - [[rangoric-srd/magic-items/artifacts/Rogue’s Dice|Rogue’s Dice]]
+- [[rangoric-srd/magic-items/artifacts/Everfull Purse|Everfull Purse]]
+- [[rangoric-srd/magic-items/artifacts/Libram of Gainful Conjuration|Libram of Gainful Conjuration]]
+- [[rangoric-srd/magic-items/artifacts/Libram of Ineffable Damnation|Libram of Ineffable Damnation]]
+- [[rangoric-srd/magic-items/artifacts/Libram of Silver Magic|Libram of Silver Magic]]
+- [[rangoric-srd/magic-items/artifacts/Manual of Puissant Skill at Arms|Manual of Puissant Skill at Arms]]
+- [[rangoric-srd/magic-items/artifacts/Manual of Stealthy Pilfering|Manual of Stealthy Pilfering]]
+- [[rangoric-srd/magic-items/artifacts/Rogue’s Dice|Rogue’s Dice]]
 
 #### Major Artifacts
 
-  - [[rangoric-srd/magic-items/artifacts/Axe of the Dwarvish Lords|Axe of the Dwarvish Lords]]
-  - [[rangoric-srd/magic-items/artifacts/Codex of the Infinite Planes|Codex of the Infinite Planes]]
-  - [[rangoric-srd/magic-items/artifacts/Cup and Talisman of the Demigod|Cup and Talisman of the Demigod]]
-  - [[rangoric-srd/magic-items/artifacts/Eye of the Orc|Eye of the Orc]]
-  - [[rangoric-srd/magic-items/artifacts/Golem Armor|Golem Armor]]
-  - [[rangoric-srd/magic-items/artifacts/Invulnerable Coat|Invulnerable Coat]]
-  - [[rangoric-srd/magic-items/artifacts/Iron Gauntlet of War|Iron Gauntlet of War]]
-  - [[rangoric-srd/magic-items/artifacts/Ring of Nine Facets|Ring of Nine Facets]]
+- [[rangoric-srd/magic-items/artifacts/Axe of the Dwarvish Lords|Axe of the Dwarvish Lords]]
+- [[rangoric-srd/magic-items/artifacts/Codex of the Infinite Planes|Codex of the Infinite Planes]]
+- [[rangoric-srd/magic-items/artifacts/Cup and Talisman of the Demigod|Cup and Talisman of the Demigod]]
+- [[rangoric-srd/magic-items/artifacts/Eye of the Orc|Eye of the Orc]]
+- [[rangoric-srd/magic-items/artifacts/Golem Armor|Golem Armor]]
+- [[rangoric-srd/magic-items/artifacts/Invulnerable Coat|Invulnerable Coat]]
+- [[rangoric-srd/magic-items/artifacts/Iron Gauntlet of War|Iron Gauntlet of War]]
+- [[rangoric-srd/magic-items/artifacts/Ring of Nine Facets|Ring of Nine Facets]]

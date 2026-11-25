@@ -21,13 +21,13 @@ tags: [rangoric, rangoric/spell]
 
 # Peripety
 
-Abjuration   
+Abjuration  
 Casting DC: 27  
 Components: V, S  
 Casting Time: 1 minute  
 Range: Personal  
 Target: You  
 Duration: 12 hours  
-To Develop: 243,000 gp; 5 days; 9,720 XP. Seed: reflect (DC 27).  
+To Develop: 243,000 gp; 5 days; 9,720 XP. Seed: reflect (DC 27).
 
 Ranged attacks targeted against the character rebound on the original attacker. Any time during the duration, five attacks are automatically reflected back on the original attacker; the character decides which attacks before damage is rolled. The reflected attack rebounds on the attacker using the same attack roll. Once five attacks are so reflected, the spell ends.

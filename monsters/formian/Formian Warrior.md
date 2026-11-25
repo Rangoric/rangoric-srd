@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Formian Warrior
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Lawful, Extraplanar)
-  - **Hit Dice**: 4d10+8 (30 hp)
-  - **Initiative**: +3 (+7 with hive mind)
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 17 (+3 Dex, +4 natural), touch 13, flat-footed 14
-  - **Base Attack**: +4; **CMB**: +6 (+10 grapple); **CMD**: 19 (23 vs. trip)
-  - **Attack**: Sting +6 melee (1d4+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or claw +6 melee (1d4+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +7 ranged (1d6+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: Sting +6 melee (1d4+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and 2 claws +6 melee (1d4+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]]); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +7 ranged (1d6+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Deadly grasp, [[rangoric-srd/monsters/abilities/Poison|poison]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/formian/Formian#^hive-mind|hive mind]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 60 ft., coordinate, [[rangoric-srd/monsters/formian/Formian#^formian-traits|formian traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to sonic 10
-  - **Saves**: Fort +3, Ref +7, Will +4
-  - **Abilities**: Str 14, Dex 17, Con 15, Int 11, Wis 10, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +9 (+13 jumping), [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +7 (+11 with hive mind), [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics), [[rangoric-srd/feats/Step Up|Step Up]]
-  - **Environment**: Warm or temperate land or underground; a lawful-aligned plane
-  - **Organization**: Solitary, pair, band (5–8 plus 3–15 workers and 1 taskmaster), patrol (3–12), team (2–4), or troop (6–11)
-  - **Challenge Rating**: 3
-  - **Treasure**: Standard (6 javelins, other treasure)
-  - **Alignment**: Always lawful neutral
-  - **Advancement**: 5–8 HD (Medium); 9–12 HD (Large)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Lawful, Extraplanar)
+- **Hit Dice**: 4d10+8 (30 hp)
+- **Initiative**: +3 (+7 with hive mind)
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 17 (+3 Dex, +4 natural), touch 13, flat-footed 14
+- **Base Attack**: +4; **CMB**: +6 (+10 grapple); **CMD**: 19 (23 vs. trip)
+- **Attack**: Sting +6 melee (1d4+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or claw +6 melee (1d4+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +7 ranged (1d6+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: Sting +6 melee (1d4+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and 2 claws +6 melee (1d4+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]]); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +7 ranged (1d6+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Deadly grasp, [[rangoric-srd/monsters/abilities/Poison|poison]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/formian/Formian#^hive-mind|hive mind]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 60 ft., coordinate, [[rangoric-srd/monsters/formian/Formian#^formian-traits|formian traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to sonic 10
+- **Saves**: Fort +3, Ref +7, Will +4
+- **Abilities**: Str 14, Dex 17, Con 15, Int 11, Wis 10, Cha 12
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +9 (+13 jumping), [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +7 (+11 with hive mind), [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics), [[rangoric-srd/feats/Step Up|Step Up]]
+- **Environment**: Warm or temperate land or underground; a lawful-aligned plane
+- **Organization**: Solitary, pair, band (5–8 plus 3–15 workers and 1 taskmaster), patrol (3–12), team (2–4), or troop (6–11)
+- **Challenge Rating**: 3
+- **Treasure**: Standard (6 javelins, other treasure)
+- **Alignment**: Always lawful neutral
+- **Advancement**: 5–8 HD (Medium); 9–12 HD (Large)
+- **Level Adjustment**: —
 
 Composing the fighting caste of the hive, formian warriors grow from grubs hatched in the flesh of carnivores and similar fierce creatures. All are sterile females, although in rare circumstances they spontaneously become fertile after the death of their queen. In the rigid hierarchy of the formian hive, they rank above the worker caste and below all others. Allowed independent initiative to better hone their battle skills, formian warriors have more latitude in following commands than many other formians. Owing to this latitude, formian warriors are more likely to chafe under hive strictures than workers and taskmasters.
 

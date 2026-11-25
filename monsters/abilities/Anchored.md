@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Anchored
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “anchored”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “anchored”, on the Special Qualities line.
 
 As a full-round action, the creature can affix itself to a solid surface. While anchored, it cannot move, and it gains a +4 bonus to its CMD on all checks to resist being bull-rushed, dragged, overrun, or repositioned. This bonus increases by +4 for each size category larger the creature is compared to the opponent attempting the maneuver. The creature can unanchor itself as a full-round action. The [[rangoric-srd/monsters/Giant Sea Anemone|giant sea anemone]] has it.

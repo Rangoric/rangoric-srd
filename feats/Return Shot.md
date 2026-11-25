@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Return Shot
 
-You can return incoming arrows, as well as crossbow bolts, spears, and other projectile or thrown weapons.  
+You can return incoming arrows, as well as crossbow bolts, spears, and other projectile or thrown weapons.
 
 Prerequisite: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Psionic Shot|Psionic Shot]], [[rangoric-srd/feats/Fell Shot|Fell Shot]], base attack bonus +3.
 

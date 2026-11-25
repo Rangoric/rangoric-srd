@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Electric Eel
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 2d8+8 (17 hp)
-  - **Initiative**: +6
-  - **Speed**: 5 ft. (1 square), swim 30 ft.
-  - **Armor Class**: 15 (+2 Dex, +2 natural, +1 size), touch 13, flat-footed 13
-  - **Base Attack**: +1; **CMB**: +1; **CMD**: 13 (can't be tripped)
-  - **Attack**: Bite +3 melee (1d6+1) or tail +3 melee touch (1d6 electricity)
-  - **Full Attack**: Bite +3 melee (1d6+1) and tail –2 melee touch (1d6 electricity)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10
-  - **Saves**: Fort +7, Ref +5, Will +0
-  - **Abilities**: Str 13, Dex 14, Con 19, Int 1, Wis 10, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
-  - **Environment**: Warm fresh water
-  - **Organization**: Solitary
-  - **Challenge Rating**: 2
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 2d8+8 (17 hp)
+- **Initiative**: +6
+- **Speed**: 5 ft. (1 square), swim 30 ft.
+- **Armor Class**: 15 (+2 Dex, +2 natural, +1 size), touch 13, flat-footed 13
+- **Base Attack**: +1; **CMB**: +1; **CMD**: 13 (can't be tripped)
+- **Attack**: Bite +3 melee (1d6+1) or tail +3 melee touch (1d6 electricity)
+- **Full Attack**: Bite +3 melee (1d6+1) and tail –2 melee touch (1d6 electricity)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10
+- **Saves**: Fort +7, Ref +5, Will +0
+- **Abilities**: Str 13, Dex 14, Con 19, Int 1, Wis 10, Cha 6
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
+- **Environment**: Warm fresh water
+- **Organization**: Solitary
+- **Challenge Rating**: 2
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The electric eel is a curious fish that breathes air instead of water, yet certainly its most unusual characteristic is its ability to generate powerful jolts of electricity. An electric eel is 6 feet long and weighs 45 pounds.
 

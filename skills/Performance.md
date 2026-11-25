@@ -20,25 +20,25 @@ Like Craft, Knowledge, and Profession, Performance is actually a number of separ
 
 Each of the nine categories of the Performance skill includes a variety of methods, instruments, or techniques, a small list of which is provided for each category below.
 
-  - Act (comedy, drama, mime)
-  - Comedy (buffoonery, limericks, joke-telling)
-  - Dance (ballet, waltz, jig)
-  - Keyboard instruments (harpsichord, piano, pipe organ)
-  - Oratory (epic, ode, storytelling)
-  - Percussion instruments (bells, chimes, drums, gong)
-  - String instruments (fiddle, harp, lute, mandolin)
-  - Wind instruments (flute, pan pipes, recorder, shawm, trumpet)
-  - Sing (ballad, chant, melody)
+- Act (comedy, drama, mime)
+- Comedy (buffoonery, limericks, joke-telling)
+- Dance (ballet, waltz, jig)
+- Keyboard instruments (harpsichord, piano, pipe organ)
+- Oratory (epic, ode, storytelling)
+- Percussion instruments (bells, chimes, drums, gong)
+- String instruments (fiddle, harp, lute, mandolin)
+- Wind instruments (flute, pan pipes, recorder, shawm, trumpet)
+- Sing (ballad, chant, melody)
 
 **Check**: You can impress audiences with your talent and skill.
 
 | Performance DC | Performance                                                                                                                                                                |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 10         | Routine performance. Trying to earn money by playing in public is essentially begging. You can earn 1d10 cp/day.                                                           |
-| 15         | Enjoyable performance. In a prosperous city, you can earn 1d10 sp/day.                                                                                                     |
-| 20         | Great performance. In a prosperous city, you can earn 3d10 sp/day. In time, you may be invited to join a professional troupe and may develop a regional reputation.        |
-| 25         | Memorable performance. In a prosperous city, you can earn 1d6 gp/day. In time, you may come to the attention of noble patrons and develop a national reputation.           |
-| 30         | Extraordinary performance. In a prosperous city, you can earn 3d6 gp/day. In time, you may draw attention from distant potential patrons, or even from extraplanar beings. |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 10             | Routine performance. Trying to earn money by playing in public is essentially begging. You can earn 1d10 cp/day.                                                           |
+| 15             | Enjoyable performance. In a prosperous city, you can earn 1d10 sp/day.                                                                                                     |
+| 20             | Great performance. In a prosperous city, you can earn 3d10 sp/day. In time, you may be invited to join a professional troupe and may develop a regional reputation.        |
+| 25             | Memorable performance. In a prosperous city, you can earn 1d6 gp/day. In time, you may come to the attention of noble patrons and develop a national reputation.           |
+| 30             | Extraordinary performance. In a prosperous city, you can earn 3d6 gp/day. In time, you may draw attention from distant potential patrons, or even from extraplanar beings. |
 
 A [[rangoric-srd/equipment/gear/Musical Instrument, Masterwork|masterwork musical instrument]] helps with Performance checks that involve its use.
 

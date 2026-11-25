@@ -22,7 +22,7 @@ Perks:
 - +2 Intelligence
 - -2 Constitution
 - Darkvision: Sylphs can see in the dark up to 60 feet; see [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] for how it works.
-- Spell-Like Ability: *[[rangoric-srd/spells/Feather Fall|Feather fall]]* 1/day (caster level equal to the sylph's character level).
+- Spell-Like Ability: _[[rangoric-srd/spells/Feather Fall|Feather fall]]_ 1/day (caster level equal to the sylph's character level).
 - Energy Resistance: Sylphs have electricity resistance 5 (see [[rangoric-srd/rules/Special Abilities and Conditions#Resistance to Energy|resistance to energy]]).
 - Air Affinity: Sylph [[rangoric-srd/classes/Sorcerer|sorcerers]] with the [[rangoric-srd/class-options/bloodlines/Elemental Bloodline|elemental (air) bloodline]] treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Sylph spellcasters with the [[rangoric-srd/class-options/domains/Air Domain|Air domain]] use their domain powers and spells at +1 caster level.
 
@@ -46,17 +46,17 @@ Bonus Languages:
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 60 years | +4d6 | +6d6 | +8d6 |
+| --------- | --------- | ----------- | ------- |
+| 60 years  | +4d6      | +6d6        | +8d6    |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 150 years | 200 years | 250 years | +6d% years |
+| Middle Age | Old       | Venerable | Maximum Age |
+| ---------- | --------- | --------- | ----------- |
+| 150 years  | 200 years | 250 years | +6d% years  |
 
 | Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Male | 5 ft. 2 in. | +2d8 | 110 lb. | × 5 lb. |
-| Female | 5 ft. 0 in. | +2d8 | 90 lb. | × 5 lb. |
+| ------ | ----------- | --------------- | ----------- | --------------- |
+| Male   | 5 ft. 2 in. | +2d8            | 110 lb.     | × 5 lb.         |
+| Female | 5 ft. 0 in. | +2d8            | 90 lb.      | × 5 lb.         |
 
 ### Description
 
@@ -76,15 +76,15 @@ Born from the descendants of humans and beings of elemental air such as djinn, s
 
 A sylph can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Elemental Insight\|Air Insight]] | Air affinity |
-| [[rangoric-srd/races/racial-traits/Breeze-Kissed\|Breeze-Kissed]] | Air affinity |
-| [[rangoric-srd/races/racial-traits/Like the Wind\|Like the Wind]] | Energy resistance |
-| [[rangoric-srd/races/racial-traits/Sky Speaker\|Sky Speaker]] | Spell-like ability |
-| [[rangoric-srd/races/racial-traits/Elemental Vitality\|Storm in the Blood]] | Air affinity |
-| [[rangoric-srd/races/racial-traits/Thunderous Resilience\|Thunderous Resilience]] | Energy resistance |
-| [[rangoric-srd/races/racial-traits/Weather Savvy\|Weather Savvy]] | Spell-like ability |
+| Trait                                                                                | Replaces           |
+| ------------------------------------------------------------------------------------ | ------------------ |
+| [[rangoric-srd/races/racial-traits/Elemental Insight\|Air Insight]]                  | Air affinity       |
+| [[rangoric-srd/races/racial-traits/Breeze-Kissed\|Breeze-Kissed]]                    | Air affinity       |
+| [[rangoric-srd/races/racial-traits/Like the Wind\|Like the Wind]]                    | Energy resistance  |
+| [[rangoric-srd/races/racial-traits/Sky Speaker\|Sky Speaker]]                        | Spell-like ability |
+| [[rangoric-srd/races/racial-traits/Elemental Vitality\|Storm in the Blood]]          | Air affinity       |
+| [[rangoric-srd/races/racial-traits/Thunderous Resilience\|Thunderous Resilience]]    | Energy resistance  |
+| [[rangoric-srd/races/racial-traits/Weather Savvy\|Weather Savvy]]                    | Spell-like ability |
 | [[rangoric-srd/races/racial-traits/Whispering Wind (Racial Trait)\|Whispering Wind]] | Spell-like ability |
 
 ### Class Bonuses
@@ -97,7 +97,7 @@ A sylph gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]]
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
+| Archetype                                                                                 | Class                                   |
+| ----------------------------------------------------------------------------------------- | --------------------------------------- |
 | [[rangoric-srd/class-options/archetypes/wizard/Wind Listener (Archetype)\|Wind Listener]] | [[rangoric-srd/classes/Wizard\|Wizard]] |
-| [[rangoric-srd/class-options/archetypes/druid/Sky Druid (Archetype)\|Sky Druid]] | [[rangoric-srd/classes/Druid\|Druid]] |
+| [[rangoric-srd/class-options/archetypes/druid/Sky Druid (Archetype)\|Sky Druid]]          | [[rangoric-srd/classes/Druid\|Druid]]   |

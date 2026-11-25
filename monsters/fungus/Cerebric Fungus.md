@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Cerebric Fungus
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
-  - **Hit Dice**: 4d8+12 (30 hp)
-  - **Initiative**: +4
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 15 (+5 natural), touch 10, flat-footed 15
-  - **Base Attack**: +3; **CMB**: +5; **CMD**: 15 (21 vs. trip)
-  - **Attack**: Bite +10 melee (1d6+2) or tendrils +3 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Pull|pull]])
-  - **Full Attack**: Bite +5 melee (1d6+2) and 2 tendrils +3 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Pull|pull]])
-  - **Space/Reach**: 5 ft./5 ft. (15 ft. with tendrils)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pull|Pull]] (tendril, 5 ft.), [[rangoric-srd/monsters/abilities/Star-Shriek|star-shriek]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Unsettling Appearance|unsettling appearance]] (60 ft., DC 14), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Otherworldly Mind|otherworldly mind]], [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 5, vulnerable to sonic
-  - **Saves**: Fort +7, Ref +1, Will +6
-  - **Abilities**: Str 14, Dex 11, Con 16, Int 15, Wis 20, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +7
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Multiattack|Multiattack]]
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, or colony (3–12)
-  - **Challenge Rating**: 3
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
+- **Hit Dice**: 4d8+12 (30 hp)
+- **Initiative**: +4
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 15 (+5 natural), touch 10, flat-footed 15
+- **Base Attack**: +3; **CMB**: +5; **CMD**: 15 (21 vs. trip)
+- **Attack**: Bite +10 melee (1d6+2) or tendrils +3 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Pull|pull]])
+- **Full Attack**: Bite +5 melee (1d6+2) and 2 tendrils +3 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Pull|pull]])
+- **Space/Reach**: 5 ft./5 ft. (15 ft. with tendrils)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Pull|Pull]] (tendril, 5 ft.), [[rangoric-srd/monsters/abilities/Star-Shriek|star-shriek]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Unsettling Appearance|unsettling appearance]] (60 ft., DC 14), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Otherworldly Mind|otherworldly mind]], [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 5, vulnerable to sonic
+- **Saves**: Fort +7, Ref +1, Will +6
+- **Abilities**: Str 14, Dex 11, Con 16, Int 15, Wis 20, Cha 15
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +7
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Multiattack|Multiattack]]
+- **Environment**: Any
+- **Organization**: Solitary, pair, or colony (3–12)
+- **Challenge Rating**: 3
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Cerebric fungi are a race of carnivorous, intelligent fungi native to a distant planet. Although they are one of the lowliest life forms on their homeworld, the fungi still possess an alien intellect far beyond that of most terrestrial creatures. Cerebric fungi display great curiosity about other races and species when they visit other worlds, asking endless, apparently senseless, questions and engaging in disturbing experiments. Some eccentric scholars claim to have learned unsettling secrets from these interrogations.
 
@@ -70,7 +70,7 @@ Cerebric fungus speak telepathy 100 ft.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +6): Constant—*[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]* (DC 14); At will-touch of madness (DC 14); 3/day—*[[rangoric-srd/spells/Calm Emotions|calm emotions]]* (DC 14), *[[rangoric-srd/spells/Touch of Idiocy|touch of idiocy]]* (DC 14).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +6): Constant—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (DC 14); At will-touch of madness (DC 14); 3/day—_[[rangoric-srd/spells/Calm Emotions|calm emotions]]_ (DC 14), _[[rangoric-srd/spells/Touch of Idiocy|touch of idiocy]]_ (DC 14).
 
 **[[rangoric-srd/monsters/abilities/Otherworldly Mind|Otherworldly Mind]] (Ex)**: Any creature attempting to contact a cerebric fungus's mind or read its thoughts with a divination spell or similar ability must succeed at a DC 16 Will save or be overwhelmed by the alien thoughts in the creature's head. Those who fail take 1d6 points of nonlethal damage and are [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1d6 rounds, and the divination effect immediately ends. The save is Charisma-based and includes a +2 racial bonus.
 

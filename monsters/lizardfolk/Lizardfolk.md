@@ -41,38 +41,38 @@ tags: [rangoric, rangoric/monster]
 
 # Lizardfolk
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Reptilian)
-  - **Hit Dice**: 2d8+2 (11 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares), swim 15 ft.
-  - **Armor Class**: 17 (+5 natural, +2 shield), touch 10, flat-footed 17
-  - **Base Attack**: +1; **CMB**: +2; **CMD**: 12
-  - **Attack**: [[rangoric-srd/equipment/weapons/Morningstar|Morningstar]] +2 melee (1d8+1) or claw +2 melee (1d4+1) or bite +2 melee (1d4+1) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +1 ranged (1d6+1)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Morningstar|Morningstar]] +2 melee (1d8+1) and bite +0 melee (1d4); or claw +2 melee (1d4+1) and bite +2 melee (1d4+1); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +1 ranged (1d6+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Hold Breath|Hold breath]]
-  - **Saves**: Fort +4, Ref +0, Will +0
-  - **Abilities**: Str 13, Dex 10, Con 13, Int 9, Wis 10, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Perception|Perception]] +1
-  - **Feats**: [[rangoric-srd/feats/Multiattack|Multiattack]]
-  - **Environment**: Temperate swamps; temperate marshes
-  - **Organization**: Solitary, pair, band (3–12), tribe (13–60), or gang (2–3)
-  - **Challenge Rating**: 1
-  - **Treasure**: NPC gear (heavy wooden shield, morningstar, 3 javelins)
-  - **Alignment**: Usually neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: +1
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Reptilian)
+- **Hit Dice**: 2d8+2 (11 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares), swim 15 ft.
+- **Armor Class**: 17 (+5 natural, +2 shield), touch 10, flat-footed 17
+- **Base Attack**: +1; **CMB**: +2; **CMD**: 12
+- **Attack**: [[rangoric-srd/equipment/weapons/Morningstar|Morningstar]] +2 melee (1d8+1) or claw +2 melee (1d4+1) or bite +2 melee (1d4+1) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +1 ranged (1d6+1)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Morningstar|Morningstar]] +2 melee (1d8+1) and bite +0 melee (1d4); or claw +2 melee (1d4+1) and bite +2 melee (1d4+1); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +1 ranged (1d6+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Hold Breath|Hold breath]]
+- **Saves**: Fort +4, Ref +0, Will +0
+- **Abilities**: Str 13, Dex 10, Con 13, Int 9, Wis 10, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Perception|Perception]] +1
+- **Feats**: [[rangoric-srd/feats/Multiattack|Multiattack]]
+- **Environment**: Temperate swamps; temperate marshes
+- **Organization**: Solitary, pair, band (3–12), tribe (13–60), or gang (2–3)
+- **Challenge Rating**: 1
+- **Treasure**: NPC gear (heavy wooden shield, morningstar, 3 javelins)
+- **Alignment**: Usually neutral
+- **Advancement**: By character class
+- **Level Adjustment**: +1
 
 **Also in this entry:**
 
-  - Lizardfolk Barbarians: [[rangoric-srd/monsters/lizardfolk/Lizardfolk Vanguard|Lizardfolk Vanguard]] (CR 2), [[rangoric-srd/monsters/lizardfolk/Lizardfolk Berserker|Lizardfolk Berserker]] (CR 5)
-  - Lizardfolk Rangers: [[rangoric-srd/monsters/lizardfolk/Lizardfolk Stalker|Lizardfolk Stalker]] (CR 3), [[rangoric-srd/monsters/lizardfolk/Lizardfolk Swamp Lurker|Lizardfolk Swamp Lurker]] (CR 8)
-  - Lizardfolk Rattler: [[rangoric-srd/monsters/lizardfolk/Lizardfolk Rattler|Lizardfolk Rattler]] (CR 5)
-  - Lizardfolk Champion: [[rangoric-srd/monsters/lizardfolk/Lizardfolk Champion|Lizardfolk Champion]] (CR 10)
-  - Lizardfolk Sorcerer: [[rangoric-srd/monsters/lizardfolk/Lizardfolk Sorcerer|Lizardfolk Sorcerer]] (CR 12)
-  - Lizardfolk Clutch Mother: [[rangoric-srd/monsters/lizardfolk/Lizardfolk Clutch Mother|Lizardfolk Clutch Mother]] (CR 13)
-  - [[rangoric-srd/monsters/lizardfolk/Lizard Scion|Lizard Scion]] (CR 5)
+- Lizardfolk Barbarians: [[rangoric-srd/monsters/lizardfolk/Lizardfolk Vanguard|Lizardfolk Vanguard]] (CR 2), [[rangoric-srd/monsters/lizardfolk/Lizardfolk Berserker|Lizardfolk Berserker]] (CR 5)
+- Lizardfolk Rangers: [[rangoric-srd/monsters/lizardfolk/Lizardfolk Stalker|Lizardfolk Stalker]] (CR 3), [[rangoric-srd/monsters/lizardfolk/Lizardfolk Swamp Lurker|Lizardfolk Swamp Lurker]] (CR 8)
+- Lizardfolk Rattler: [[rangoric-srd/monsters/lizardfolk/Lizardfolk Rattler|Lizardfolk Rattler]] (CR 5)
+- Lizardfolk Champion: [[rangoric-srd/monsters/lizardfolk/Lizardfolk Champion|Lizardfolk Champion]] (CR 10)
+- Lizardfolk Sorcerer: [[rangoric-srd/monsters/lizardfolk/Lizardfolk Sorcerer|Lizardfolk Sorcerer]] (CR 12)
+- Lizardfolk Clutch Mother: [[rangoric-srd/monsters/lizardfolk/Lizardfolk Clutch Mother|Lizardfolk Clutch Mother]] (CR 13)
+- [[rangoric-srd/monsters/lizardfolk/Lizard Scion|Lizard Scion]] (CR 5)
 
 Lizardfolk are proud and powerful reptilian predators that make their communal homes in scattered villages deep within swamps and marshes. Uninterested in colonization of the dry lands and content with the simple weapons and rituals that have served them well for millennia, lizardfolk are viewed by many other races as backwater savages, but within their isolated communities lizardfolk are actually a vibrant people filled with tradition and an oral history stretching back to before humans walked upright.
 

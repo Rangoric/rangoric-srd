@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Vanishing Trick
 
-*A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Su).*
+_A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Su)._
 
-As a swift action, the ninja can disappear for 1 round per level. This ability functions as *[[rangoric-srd/spells/Invisibility|invisibility]]*. Using this ability uses up 1 ki point.
+As a swift action, the ninja can disappear for 1 round per level. This ability functions as _[[rangoric-srd/spells/Invisibility|invisibility]]_. Using this ability uses up 1 ki point.

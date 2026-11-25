@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Celestial Blood, Greater
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su)._
 
 Once per rage, the barbarian can reroll one ability check, skill check, or saving throw she just made. She must take the second result, even if it’s lower. She must decide to use this ability after the die is rolled but before the result is revealed.
 

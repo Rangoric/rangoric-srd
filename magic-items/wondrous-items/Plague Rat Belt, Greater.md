@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Plague Rat Belt, Greater
 
-This belt functions as a *[[rangoric-srd/magic-items/wondrous-items/Plague Rat Belt|plague rat belt]]*, except it grants the wearer a +2 enhancement bonus to Dexterity and Constitution. Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
+This belt functions as a _[[rangoric-srd/magic-items/wondrous-items/Plague Rat Belt|plague rat belt]]_, except it grants the wearer a +2 enhancement bonus to Dexterity and Constitution. Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
 
-Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Bear’s Endurance|bear's endurance]]*, *[[rangoric-srd/spells/Cat’s Grace|cat's grace]]*, *[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]*, *[[rangoric-srd/spells/Remove Disease|remove disease]]*; Price 11,200 gp; Cost 5,600 gp; Weight 1 lb.
+Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Bear’s Endurance|bear's endurance]]_, _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_, _[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]_, _[[rangoric-srd/spells/Remove Disease|remove disease]]_; Price 11,200 gp; Cost 5,600 gp; Weight 1 lb.

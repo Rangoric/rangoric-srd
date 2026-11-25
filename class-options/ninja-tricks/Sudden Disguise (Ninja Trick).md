@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Sudden Disguise
 
-*A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Su).*
+_A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Su)._
 
-As a swift action, a ninja can change her appearance for 1 minute per level. This ability functions as *[[rangoric-srd/spells/Disguise Self|disguise self]]*. Each use of this ability uses up 1 ki point.
+As a swift action, a ninja can change her appearance for 1 minute per level. This ability functions as _[[rangoric-srd/spells/Disguise Self|disguise self]]_. Each use of this ability uses up 1 ki point.

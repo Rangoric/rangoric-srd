@@ -31,6 +31,6 @@ Psychoportation
 **Duration:** Permanent  
 **Saving Throw:** None  
 **Power Resistance:** No  
-**Power Points:** 3  
+**Power Points:** 3
 
 A psionic lock manifested upon a door, chest, or portal psionically locks it. You can freely pass your own lock without affecting it; otherwise, a door or object secured with psionic lock can be opened only by breaking in or by a successful [[rangoric-srd/powers/Dispel Psionics|dispel psionics]] effect. Add +10 to the normal DC to break open a door or portal affected by this power.

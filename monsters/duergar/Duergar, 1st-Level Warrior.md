@@ -39,46 +39,47 @@ change: modified
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---
+
 # Duergar, 1st-Level Warrior
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Dwarf)
-  - **Hit Dice**: 1d10+2 (8 hp)
-  - **Initiative**: –1
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 17 (+6 armor, –1 Dex, +2 shield), touch 9, flat-footed 17
-  - **Base Attack**: +1; **CMB**: +2; **CMD**: 11
-  - **Attack**: [[rangoric-srd/equipment/weapons/Warhammer|Warhammer]] +3 melee (1d8+1/×3) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +0 ranged (1d8/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Warhammer|Warhammer]] +3 melee (1d8+1/×3); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +0 ranged (1d8/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., slow and steady, stability, immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], phantasms and poison, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-  - **Saves**: Fort +4, Ref –1, Will +1
-  - **Abilities**: Str 12, Dex 9, Con 15, Int 10, Wis 13, Cha 4
-  - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +1, [[rangoric-srd/skills/Stealth|Stealth]] –3
-  - **Feats**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (warhammer)
-  - **Environment**: Any underground
-  - **Organization**: Solitary, team (2–5), squad (6–12 plus 3 sergeants of 3rd level and 1 leader of 3rd–8th level), or clan (13–80 plus 25% noncombatant children plus 1 sergeant of 3rd level per 5 adults, 3–6 lieutenants of 3rd–6th level, and 1–4 captains of 9th level)
-  - **Challenge Rating**: 1/3
-  - **Treasure**: NPC Gear (chainmail, heavy steel shield, warhammer, light crossbow [20 bolts], 3d6 gp, other treasure)
-  - **Alignment**: Often lawful evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: +1
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Dwarf)
+- **Hit Dice**: 1d10+2 (8 hp)
+- **Initiative**: –1
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 17 (+6 armor, –1 Dex, +2 shield), touch 9, flat-footed 17
+- **Base Attack**: +1; **CMB**: +2; **CMD**: 11
+- **Attack**: [[rangoric-srd/equipment/weapons/Warhammer|Warhammer]] +3 melee (1d8+1/×3) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +0 ranged (1d8/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Warhammer|Warhammer]] +3 melee (1d8+1/×3); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +0 ranged (1d8/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., slow and steady, stability, immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], phantasms and poison, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
+- **Saves**: Fort +4, Ref –1, Will +1
+- **Abilities**: Str 12, Dex 9, Con 15, Int 10, Wis 13, Cha 4
+- **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +1, [[rangoric-srd/skills/Stealth|Stealth]] –3
+- **Feats**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (warhammer)
+- **Environment**: Any underground
+- **Organization**: Solitary, team (2–5), squad (6–12 plus 3 sergeants of 3rd level and 1 leader of 3rd–8th level), or clan (13–80 plus 25% noncombatant children plus 1 sergeant of 3rd level per 5 adults, 3–6 lieutenants of 3rd–6th level, and 1–4 captains of 9th level)
+- **Challenge Rating**: 1/3
+- **Treasure**: NPC Gear (chainmail, heavy steel shield, warhammer, light crossbow [20 bolts], 3d6 gp, other treasure)
+- **Alignment**: Often lawful evil
+- **Advancement**: By character class
+- **Level Adjustment**: +1
 
 **Also in this entry:**
 
-  - Duergar Rangers: [[rangoric-srd/monsters/duergar/Duergar Sharpshooter|Duergar Sharpshooter]] (CR 1/2), [[rangoric-srd/monsters/duergar/Duergar Lieutenant|Duergar Lieutenant]] (CR 5)
-  - Duergar Rogues: [[rangoric-srd/monsters/duergar/Duergar Slaver|Duergar Slaver]] (CR 1/2), [[rangoric-srd/monsters/duergar/Duergar Taskmaster|Duergar Taskmaster]] (CR 9)
-  - Duergar Bombardier: [[rangoric-srd/monsters/duergar/Duergar Bombardier|Duergar Bombardier]] (CR 1)
-  - Duergar Monks: [[rangoric-srd/monsters/duergar/Duergar Anvil|Duergar Anvil]] (CR 1), [[rangoric-srd/monsters/duergar/Duergar Hammer|Duergar Hammer]] (CR 11)
-  - Duergar Soldiers: [[rangoric-srd/monsters/duergar/Duergar Sergeant|Duergar Sergeant]] (CR 1), [[rangoric-srd/monsters/duergar/Duergar Captain|Duergar Captain]] (CR 8)
-  - Duergar High Priest: [[rangoric-srd/monsters/duergar/Duergar High Priest|Duergar High Priest]] (CR 12)
-  - Duergar Mounts: [[rangoric-srd/monsters/Dark Spitter Beetle|Dark Spitter Beetle]] (CR 3), [[rangoric-srd/monsters/Juggernaut Beetle|Juggernaut Beetle]] (CR 14)
+- Duergar Rangers: [[rangoric-srd/monsters/duergar/Duergar Sharpshooter|Duergar Sharpshooter]] (CR 1/2), [[rangoric-srd/monsters/duergar/Duergar Lieutenant|Duergar Lieutenant]] (CR 5)
+- Duergar Rogues: [[rangoric-srd/monsters/duergar/Duergar Slaver|Duergar Slaver]] (CR 1/2), [[rangoric-srd/monsters/duergar/Duergar Taskmaster|Duergar Taskmaster]] (CR 9)
+- Duergar Bombardier: [[rangoric-srd/monsters/duergar/Duergar Bombardier|Duergar Bombardier]] (CR 1)
+- Duergar Monks: [[rangoric-srd/monsters/duergar/Duergar Anvil|Duergar Anvil]] (CR 1), [[rangoric-srd/monsters/duergar/Duergar Hammer|Duergar Hammer]] (CR 11)
+- Duergar Soldiers: [[rangoric-srd/monsters/duergar/Duergar Sergeant|Duergar Sergeant]] (CR 1), [[rangoric-srd/monsters/duergar/Duergar Captain|Duergar Captain]] (CR 8)
+- Duergar High Priest: [[rangoric-srd/monsters/duergar/Duergar High Priest|Duergar High Priest]] (CR 12)
+- Duergar Mounts: [[rangoric-srd/monsters/Dark Spitter Beetle|Dark Spitter Beetle]] (CR 3), [[rangoric-srd/monsters/Juggernaut Beetle|Juggernaut Beetle]] (CR 14)
 
 Cousins to dwarves, duergar are foul-tempered creatures that loathe intruders to their underground realms—but not nearly as much as they do their kinfolk closer to the surface.
 
 Duergar dwell in communities deep underground, and appear as darker, more twisted versions of their kinder kin. Their skin is a dull gray, as though rubbed with dust or ash, but this is a natural coloration that better allows them to blend with their underground surroundings. They are a race of slavers, but while non-dwarven prisoners are usually put to backbreaking work, dwarven prisoners are generally slain on the spot.
 
-In combat, duergar fire crossbows from a distance, then shift to the warhammer after a few rounds. If outnumbered, or given sufficient threat (and space), a duergar will use its *[[rangoric-srd/spells/Enlarge Person|enlarge person]]* ability and begin lashing out at its enemies.
+In combat, duergar fire crossbows from a distance, then shift to the warhammer after a few rounds. If outnumbered, or given sufficient threat (and space), a duergar will use its _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ ability and begin lashing out at its enemies.
 
 When veterans of campaigns in the deep caverns beneath the world gather, they hiss warnings to those of a mind to brave the world's depths. They speak with horror of the drow and shudder when describing the perversions of the derros, but avoid altogether talk of the gray dwarves and their grim enclaves. It's a difficult subject in the presence of friendly dwarves whose ancestors long ago heard the call of the surface world. The duergar's folly serves as a lesson on the hazards of pride and stubbornness, and lays bare those flaws of the dwarven people.
 
@@ -92,7 +93,7 @@ The dwarves were lucky, for their gods were good and just, and cared for the wel
 
 Less than a generation after the great retreat, the calamities that were foretold came to pass. The once-grand subterranean holds were ripped apart by earthquakes and scorched by magma flows. Those who remained had to flee deeper into the earth in search of pockets of relative safety and calm, competing with an influx of ancient enemies, displaced predators, and unspeakable evils freed from once-sealed vaults deep under the earth. Within only a few years, most of the dwarves left behind had perished, and the survivors were scattered and utterly desperate. In their hour of need, their calls to the old gods were answered only with silence. Such entreaties were nothing more than screams into the darkness... but sometimes the darkness answers back.
 
-According to legend, an outcast dwarven god heard the pleas of those left to suffer. A deceiver and a cheat, this god had lost nearly all of his former followers, but offered these forsaken dwarves one chance for survival: if they worshiped and served him, and bound their descendants to the same fate, he would restore them to glory. Given little choice, the desperate dwarves agreed. The outcast god turned the dwarves' skin ashen gray and caused most of the males' hair (except for eyebrows and beards) to fall out as a reminder of the bargain made, so their gray faces—or *duergar* in the Dwarven tongue—would set them apart from those cowards who fled the crucible that forged the true members of the dwarven race.
+According to legend, an outcast dwarven god heard the pleas of those left to suffer. A deceiver and a cheat, this god had lost nearly all of his former followers, but offered these forsaken dwarves one chance for survival: if they worshiped and served him, and bound their descendants to the same fate, he would restore them to glory. Given little choice, the desperate dwarves agreed. The outcast god turned the dwarves' skin ashen gray and caused most of the males' hair (except for eyebrows and beards) to fall out as a reminder of the bargain made, so their gray faces—or _duergar_ in the Dwarven tongue—would set them apart from those cowards who fled the crucible that forged the true members of the dwarven race.
 
 Since that cataclysm and the deal they wrought, the duergar have steadily taken back what was once theirs using the tools of their new lord: murder, slavery, toil, and hatred. Believing themselves the true race of dwarves, they have no interest in the land above other than engaging in occasional raids to murder their cousins or to replenish their stock of slaves. They see themselves as the masters of the only land worth having: the mineral-rich true homeland of the dwarven people.
 
@@ -108,4 +109,4 @@ Duergar speak Common, Dwarven, and Undercommon.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd): 1/day—*[[rangoric-srd/spells/Enlarge Person|enlarge person]]* (self only), *[[rangoric-srd/spells/Invisibility|invisibility]]* (self only).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd): 1/day—_[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ (self only), _[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only).

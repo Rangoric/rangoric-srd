@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Antiemetic Snuff
 
-*Remedy*
+_Remedy_
 
 This snuff can be used to shake off the effects of nausea. If you take it before being exposed to an effect that would give you the [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] condition and allows a saving throw, you attempt two saving throws against the effect and take the higher result. A single dose provides this benefit for 1 hour.
 

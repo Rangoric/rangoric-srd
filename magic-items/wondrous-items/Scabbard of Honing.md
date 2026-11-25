@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This leather scabbard resizes itself to fit any axe, sword, dagger, or similar item normally stored in a scabbard. Sheathing a nonmagical weapon in the scabbard for 1 minute hones its edge as if it had been sharpened with a [[rangoric-srd/equipment/gear/Whetstone|whetstone]].
 
-Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Mending|mending]]*; Price 500 gp; Cost 250 gp; Weight 1 lb.
+Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Mending|mending]]_; Price 500 gp; Cost 250 gp; Weight 1 lb.

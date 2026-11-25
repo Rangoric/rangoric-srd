@@ -21,4 +21,4 @@ tags: [rangoric, rangoric/magic-item]
 
 The wearer of this ring can make a melee touch attack against an undead creature no more than one size category larger than himself, cutting off that creature from undying energy. The wearer never suffers any ill effects that might normally occur from coming into physical contact with an undead creature touched in this way. On a successful hit, the undead cannot be healed or aided by the effects of negative energy for 1d4 rounds. During this duration, positive energy affects the undead creature normally.
 
-Faint necromancy; CL 1st; [[rangoric-srd/feats/Forge Ring|Forge Ring]], *[[rangoric-srd/spells/Sculpt Corpse|sculpt corpse]]*; Price 2,000 gp; Cost 1,000 gp.
+Faint necromancy; CL 1st; [[rangoric-srd/feats/Forge Ring|Forge Ring]], _[[rangoric-srd/spells/Sculpt Corpse|sculpt corpse]]_; Price 2,000 gp; Cost 1,000 gp.

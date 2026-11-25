@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Jitterbugs
 
-*Illusion (Figment) \[Mind-affecting\]*
+_Illusion (Figment) \[Mind-affecting\]_
 
-  - **Level**: Brd 1, Mes 1, Psy 2, Skd 1, Sor/Wiz 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Short (25 ft. +5 ft. 2/levels)
-  - **Target**: One creature
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 1, Mes 1, Psy 2, Skd 1, Sor/Wiz 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Short (25 ft. +5 ft. 2/levels)
+- **Target**: One creature
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 You cause the target to perceive itself as being covered in creeping, crawling, stinging bugs. This causes the target to become jittery and unable to stay still, forcing it to constantly move and twitch. The target takes a –4 penalty on all Dexterity checks and Dexterity-based skill checks, and cannot take the delay, ready, or total defense actions.

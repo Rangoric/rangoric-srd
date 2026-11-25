@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Cursed Treasure
 
-*Necromancy \[Curse\]*
+_Necromancy \[Curse\]_
 
-  - **Level**: Apl 3, Blr 4, Clr 3, Sor/Wiz 4, Spi 3, Wit 3
-  - **Components**: V, S, M (a platinum piece)
-  - **Casting Time**: 1 minute
-  - **Range**: Touch
-  - **Target**: Unattended object touched
-  - **Duration**: Permanent until discharged, then permanent (see text)
-  - **Saving Throw**: Fortitude negates (object), then Will negates (see text)
-  - **Spell Resistance**: Yes
+- **Level**: Apl 3, Blr 4, Clr 3, Sor/Wiz 4, Spi 3, Wit 3
+- **Components**: V, S, M (a platinum piece)
+- **Casting Time**: 1 minute
+- **Range**: Touch
+- **Target**: Unattended object touched
+- **Duration**: Permanent until discharged, then permanent (see text)
+- **Saving Throw**: Fortitude negates (object), then Will negates (see text)
+- **Spell Resistance**: Yes
 
-You touch a piece of treasure or container filled with treasure and place a terrible curse upon it, choosing from any option available with *[[rangoric-srd/spells/Bestow Curse|bestow curse]]*. The next creature to take the treasure or remove items from the container is affected by the curse, unless it succeeds at a Will save (spell resistance applies). If you are the next creature to take the treasure or get objects from the container, though, the spell discharges harmlessly instead.
+You touch a piece of treasure or container filled with treasure and place a terrible curse upon it, choosing from any option available with _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_. The next creature to take the treasure or remove items from the container is affected by the curse, unless it succeeds at a Will save (spell resistance applies). If you are the next creature to take the treasure or get objects from the container, though, the spell discharges harmlessly instead.

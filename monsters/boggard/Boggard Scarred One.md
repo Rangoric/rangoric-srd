@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Boggard Scarred One
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Boggard)
-  - **Hit Dice**: 3d8+4d12+42 (86 hp)
-  - **Initiative**: –1
-  - **Speed**: 30 ft. (6 squares), swim 30 ft.
-  - **Armor Class**: 14 (+4 armor, –1 Dex, +3 natural, –2 rage), touch 7, flat-footed 14
-  - **Base Attack**: +6; **CMB**: +13; **CMD**: 20
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Spear|spear]] +15 melee (1d8+11/×3) or tongue +13 melee touch (sticky tongue) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +5 ranged (1d6+7)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Spear|spear]] +15/+10 melee (1d8+11/×3) and tongue +8 melee touch (sticky tongue); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +5 ranged (1d6+7)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (14 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Knockback (Rage Power)|knockback]], [[rangoric-srd/class-options/rage-powers/Superstition (Rage Power)|superstition]] +3), [[rangoric-srd/monsters/boggard/Boggard#^terrifying-croak|terrifying croak]] (DC 14)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +1, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/boggard/Boggard#^swamp-stride|swamp stride]]
-  - **Saves**: Fort +13, Ref +3, Will +5 (+3 vs. magic)
-  - **Abilities**: Str 24, Dex 9, Con 22, Int 6, Wis 13, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +20 (+36 jumping), [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +0 (+8 in swamps)
-  - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spear)
-  - **Environment**: Temperate marshes
-  - **Organization**: Solitary, or with other boggards (see [[rangoric-srd/monsters/boggard/Boggard|Boggard]])
-  - **Challenge Rating**: 6
-  - **Treasure**: NPC gear (combat gear: potions of cure serious wounds (2), potion of shield of faith; other gear: +1 studded leather, +1 spear, javelins (3), 70 gp)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Boggard)
+- **Hit Dice**: 3d8+4d12+42 (86 hp)
+- **Initiative**: –1
+- **Speed**: 30 ft. (6 squares), swim 30 ft.
+- **Armor Class**: 14 (+4 armor, –1 Dex, +3 natural, –2 rage), touch 7, flat-footed 14
+- **Base Attack**: +6; **CMB**: +13; **CMD**: 20
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Spear|spear]] +15 melee (1d8+11/×3) or tongue +13 melee touch (sticky tongue) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +5 ranged (1d6+7)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Spear|spear]] +15/+10 melee (1d8+11/×3) and tongue +8 melee touch (sticky tongue); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +5 ranged (1d6+7)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (14 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Knockback (Rage Power)|knockback]], [[rangoric-srd/class-options/rage-powers/Superstition (Rage Power)|superstition]] +3), [[rangoric-srd/monsters/boggard/Boggard#^terrifying-croak|terrifying croak]] (DC 14)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +1, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/boggard/Boggard#^swamp-stride|swamp stride]]
+- **Saves**: Fort +13, Ref +3, Will +5 (+3 vs. magic)
+- **Abilities**: Str 24, Dex 9, Con 22, Int 6, Wis 13, Cha 12
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +20 (+36 jumping), [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +0 (+8 in swamps)
+- **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spear)
+- **Environment**: Temperate marshes
+- **Organization**: Solitary, or with other boggards (see [[rangoric-srd/monsters/boggard/Boggard|Boggard]])
+- **Challenge Rating**: 6
+- **Treasure**: NPC gear (combat gear: potions of cure serious wounds (2), potion of shield of faith; other gear: +1 studded leather, +1 spear, javelins (3), 70 gp)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A boggard scarred one is a [[rangoric-srd/monsters/boggard/Boggard|boggard]] with 4 levels of [[rangoric-srd/classes/Barbarian|barbarian]], one of the boggard barbarians. Boggard barbarians are terrifying and unpredictable.
 

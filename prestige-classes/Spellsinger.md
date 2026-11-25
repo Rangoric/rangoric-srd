@@ -53,18 +53,18 @@ The spellsinger’s class skills (and the key ability for each skill) are [[rang
 
 **Table: The Spellsinger** ^table-the-spellsinger
 
-| Level | Special | Spells per Day |
-| --- | --- | --- |
-| 1st | Spellsinging, bardic performance | +1 level of existing class |
-| 2nd | Greater countersong | +1 level of existing class |
-| 3rd | Pierce silence | +1 level of existing class |
-| 4th | Singing radius I | +1 level of existing class |
-| 5th | Spell shout | +1 level of existing class |
-| 6th | Accompaniment | +1 level of existing class |
-| 7th | Singing radius II | +1 level of existing class |
-| 8th | Pierce countersong | +1 level of existing class |
-| 9th | Orchestrate spellsong | +1 level of existing class |
-| 10th | Singing radius III | +1 level of existing class |
+| Level | Special                          | Spells per Day             |
+| ----- | -------------------------------- | -------------------------- |
+| 1st   | Spellsinging, bardic performance | +1 level of existing class |
+| 2nd   | Greater countersong              | +1 level of existing class |
+| 3rd   | Pierce silence                   | +1 level of existing class |
+| 4th   | Singing radius I                 | +1 level of existing class |
+| 5th   | Spell shout                      | +1 level of existing class |
+| 6th   | Accompaniment                    | +1 level of existing class |
+| 7th   | Singing radius II                | +1 level of existing class |
+| 8th   | Pierce countersong               | +1 level of existing class |
+| 9th   | Orchestrate spellsong            | +1 level of existing class |
+| 10th  | Singing radius III               | +1 level of existing class |
 
 ###### Class Features
 
@@ -80,11 +80,11 @@ When casting a spellsong, the process varies slightly depending on whether the c
 
 Characters that play instruments treat their spellsongs as having a somatic and verbal component. They suffer the normal chance for spell failure but receive a +1 bonus to their effective caster level. The character must have the appropriate instrument on hand to make use of this ability.
 
-To cast a spellsong, the character must meet the spell component requirements of the spell, which makes *[[rangoric-srd/spells/Silence|silence]]* incredibly effective against spellsingers. The spellsinger must make a [[rangoric-srd/skills/Performance|Performance]] check against DC 10 + the level of the spell being cast. If this fails, the spellsong is expended for the day, but it does not go off, much like a failed [[rangoric-srd/rules/Concentration (Check)|concentration check]]. If the Performance check succeeds, the spellsinger then makes whatever concentration checks are necessary and suffers all appropriate attacks of opportunity. If the concentration checks are successful, the spell is cast.
+To cast a spellsong, the character must meet the spell component requirements of the spell, which makes _[[rangoric-srd/spells/Silence|silence]]_ incredibly effective against spellsingers. The spellsinger must make a [[rangoric-srd/skills/Performance|Performance]] check against DC 10 + the level of the spell being cast. If this fails, the spellsong is expended for the day, but it does not go off, much like a failed [[rangoric-srd/rules/Concentration (Check)|concentration check]]. If the Performance check succeeds, the spellsinger then makes whatever concentration checks are necessary and suffers all appropriate attacks of opportunity. If the concentration checks are successful, the spell is cast.
 
 A spellsinger casting spells appears to most people to simply be singing or playing a musical instrument, but anyone may make a [[rangoric-srd/skills/Mysticism|Mysticism]] check (DC 20 + the level of the spell being cast) to notice arcane undertones in the song.
 
-Any spellsong with a duration of concentration requires the caster to keep making music of some type while concentrating. If the spellsinger is affected by *silence* while concentrating, any spells being maintained end immediately.
+Any spellsong with a duration of concentration requires the caster to keep making music of some type while concentrating. If the spellsinger is affected by _silence_ while concentrating, any spells being maintained end immediately.
 
 **Bardic Performance**: A spellsinger’s class levels add to her bard levels for her rounds per day of [[rangoric-srd/classes/Bard#^bardic-music|bardic performance]] (“bardic music” in older rules; see [[rangoric-srd/classes/Bard#^bardic-music-in-older-rules|bardic music in older rules]]), or to her skald levels for her rounds per day of [[rangoric-srd/classes/Skald#^skald-raging-song|raging song]]. ^spellsinger-bardic-performance
 
@@ -94,13 +94,13 @@ Any spellsong with a duration of concentration requires the caster to keep makin
 
 **Singing Radius**: At 4th level, when preparing spells (or when casting them, for sorcerers and bards), the spellsinger may choose to increase the range of her spells to affect everyone nearby. This acts as a metamagic feat that increases the spell slot required for the spell, and the spell must be prepared or cast as a spellsong. Using this ability in all ways functions exactly like using a metamagic feat. Everyone within the radius is affected by the spell, be they friend or foe. ^spellsinger-singing-radius
 
-*Singing radius I* (4th level) allows the spellsinger to cast spells with a range of personal with a radius of 10 feet, at a cost of two spell levels higher than the original spell.
+_Singing radius I_ (4th level) allows the spellsinger to cast spells with a range of personal with a radius of 10 feet, at a cost of two spell levels higher than the original spell.
 
-*Singing radius II* (7th level) allows the spellsinger to cast spells with a range of personal or touch with a radius of 20 feet, at a cost of three levels higher than the original spell.
+_Singing radius II_ (7th level) allows the spellsinger to cast spells with a range of personal or touch with a radius of 20 feet, at a cost of three levels higher than the original spell.
 
-*Singing radius III* (10th level) allows the spellsinger to cast spells with a range of personal, touch or close with a radius of 30 feet, at a cost of four levels higher than the original spell.
+_Singing radius III_ (10th level) allows the spellsinger to cast spells with a range of personal, touch or close with a radius of 30 feet, at a cost of four levels higher than the original spell.
 
-*Example*: A spellsinger wishes to prepare *[[rangoric-srd/spells/Mage Armor|mage armor]]*, a 1st-level spell, using singing radius III. This requires a 4th-level spell slot, and when cast it affects everyone in a 30-foot radius of the spellsinger.
+_Example_: A spellsinger wishes to prepare _[[rangoric-srd/spells/Mage Armor|mage armor]]_, a 1st-level spell, using singing radius III. This requires a 4th-level spell slot, and when cast it affects everyone in a 30-foot radius of the spellsinger.
 
 **Spell Shout (Sp)**: At 5th level, once per day the spellsinger may use the spell shout ability to break through a magical silence for one round. The spellsinger may make noise for one round and then returns to being silenced. ^spellsinger-spell-shout
 
@@ -108,4 +108,4 @@ Any spellsong with a duration of concentration requires the caster to keep makin
 
 **Pierce Countersong (Su)**: At 8th level, when countersong is used against the spellsinger, the person using countersong takes a –10 circumstance penalty on the roll when using it against the spellsinger’s spellsongs. ^spellsinger-pierce-countersong
 
-**Orchestrate Spellsong**: At 9th level, the spellsinger can create spell sheet music, or *arcane orchestras* as they are more commonly called. These function as scrolls but require a Performance check (DC 15 + the level of the spell) to cast from the sheet music successfully. Anyone with the Performance skill may use spell sheet music, even if they are not able to cast arcane spells or do not have the [[rangoric-srd/skills/Emulation|Emulation]] skill. Creating a piece of spell sheet music follows the same rules as creating a scroll ([[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]]). ^spellsinger-orchestrate-spellsong
+**Orchestrate Spellsong**: At 9th level, the spellsinger can create spell sheet music, or _arcane orchestras_ as they are more commonly called. These function as scrolls but require a Performance check (DC 15 + the level of the spell) to cast from the sheet music successfully. Anyone with the Performance skill may use spell sheet music, even if they are not able to cast arcane spells or do not have the [[rangoric-srd/skills/Emulation|Emulation]] skill. Creating a piece of spell sheet music follows the same rules as creating a scroll ([[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]]). ^spellsinger-orchestrate-spellsong

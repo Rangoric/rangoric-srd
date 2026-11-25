@@ -30,14 +30,14 @@ tags: [rangoric, rangoric/spell]
 
 # False Belief
 
-*Enchantment (Compulsion) \[MindAffecting\]*
+_Enchantment (Compulsion) \[MindAffecting\]_
 
-  - **Level**: Brd 2, Mes 2, Psy 2, Skd 2
-  - **Components**: V, S, M (lemon juice and a scrap of parchment)
-  - **Casting Time**: 10 minutes
-  - **Range**: Touch
-  - **Target**: Willing creature touched
-  - **Duration**: Caster level hour(s)
-  - **Spell Resistance**: Yes
+- **Level**: Brd 2, Mes 2, Psy 2, Skd 2
+- **Components**: V, S, M (lemon juice and a scrap of parchment)
+- **Casting Time**: 10 minutes
+- **Range**: Touch
+- **Target**: Willing creature touched
+- **Duration**: Caster level hour(s)
+- **Spell Resistance**: Yes
 
-You temporarily alter the target's memory (similar to *modify* memory) to eliminate, change, or implant a memory of up to 1 hour in length. When the duration of this expires, the target's real memory returns, and the false memory fades to little more than a vague outline, like a dream. This false memory seems true to the target, so effects that detect lies or force the target to speak the truth (as the subject understands it) don't detect the falsehood.
+You temporarily alter the target's memory (similar to _modify_ memory) to eliminate, change, or implant a memory of up to 1 hour in length. When the duration of this expires, the target's real memory returns, and the false memory fades to little more than a vague outline, like a dream. This false memory seems true to the target, so effects that detect lies or force the target to speak the truth (as the subject understands it) don't detect the falsehood.

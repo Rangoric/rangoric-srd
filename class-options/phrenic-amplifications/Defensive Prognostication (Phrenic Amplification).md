@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Defensive Prognostication
 
-*A psychic’s [[rangoric-srd/classes/Psychic (Class)#^psychic-phrenic-amplifications|phrenic amplification]] (Su).*
+_A psychic’s [[rangoric-srd/classes/Psychic (Class)#^psychic-phrenic-amplifications|phrenic amplification]] (Su)._
 
 When casting a divination spell, the psychic sees a glimmer of her future. By spending 1 point from her [[rangoric-srd/classes/Psychic (Class)#^psychic-phrenic-pool|phrenic pool]] as she casts a divination spell, she gains a +2 insight bonus to AC for a number of rounds equal to the linked spell’s level. She can instead spend 2 points to increase the bonus to +4. This amplification can be linked only to divination spells.

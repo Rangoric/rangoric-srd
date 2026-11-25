@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Fortuitous
 
-This special ability can be placed only on melee weapons. A *fortuitous* weapon grants the wielder more attacks of opportunity. Once per round, when the wielder of a *fortuitous* weapon hits with an attack of opportunity, he can make a second attack of opportunity with this weapon against that foe at a –5 penalty.
+This special ability can be placed only on melee weapons. A _fortuitous_ weapon grants the wielder more attacks of opportunity. Once per round, when the wielder of a _fortuitous_ weapon hits with an attack of opportunity, he can make a second attack of opportunity with this weapon against that foe at a –5 penalty.
 
-Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Haste|haste]]*; Price +1 bonus.
+Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Haste|haste]]_; Price +1 bonus.

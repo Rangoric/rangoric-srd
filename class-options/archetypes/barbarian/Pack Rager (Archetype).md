@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Pack Rager
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-archetypes|barbarian]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-archetypes|barbarian]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Barbarian rages can be a thing of savage beauty, exhibiting a lethal grace. While such uncontrolled displays of carnage often disregard group tactics, there are those barbarians whose rages inspire and spur on their allies during the ferocious dance of death. Pack ragers are common among gnolls.
 

@@ -26,15 +26,15 @@ tags: [rangoric, rangoric/spell]
 
 # Shapechanger’s Gift, Greater
 
-*Transmutation (Polymorph)*
+_Transmutation (Polymorph)_
 
-  - **Level**: Sor/Wiz 7
-  - **Components**: V, S, M (a piece of the creature whose form you plan to grant)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Willing living creature touched
-  - **Duration**: Caster level hour(s)
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Sor/Wiz 7
+- **Components**: V, S, M (a piece of the creature whose form you plan to grant)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Willing living creature touched
+- **Duration**: Caster level hour(s)
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
-This spell functions as [[rangoric-srd/spells/Shapechanger’s Gift|shapechanger's gift]] except the chosen form can be an animal (as per *beast shape* I), elemental (as per *elemental body* I), fey (as per *fey form I*\*), humanoid (as per *alter* self), monstrous humanoid (as per *monstrous physique* IUM), or vermin (as per *vermin shape* IUM) and the chosen form can have a fly speed.
+This spell functions as [[rangoric-srd/spells/Shapechanger’s Gift|shapechanger's gift]] except the chosen form can be an animal (as per _beast shape_ I), elemental (as per _elemental body_ I), fey (as per _fey form I_\*), humanoid (as per _alter_ self), monstrous humanoid (as per _monstrous physique_ IUM), or vermin (as per _vermin shape_ IUM) and the chosen form can have a fly speed.

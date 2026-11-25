@@ -21,9 +21,9 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Abjurer’s Chalk
 
-*Unguent; Special*
+_Unguent; Special_
 
-While not essential, abjurer’s chalk can help in casting protective circles or making sigils and marks. If used in casting a spell where symbols (visible or invisible) are traced to delineate a spell’s area of effect or boundaries (a magic circle or *symbol*), it adds a +1 to any die of effect or total DC effect. Its best use is in conjunction with *instant summons,* as it negates the need to sacrifice other physical components if the abjurer’s chalk was used to make the *arcane mark* on the item being summoned. It can be used to help the following spells: *alarm, arcane lock, arcane mark, binding, consecrate* (1 charge instead of 1 pound of silver dust), *explosive runes, glyph of warding, illusory script* (replaces normal components), *mark of justice,* the various *symbol* spells*,* and *teleportation circle* (replaces normal components)*.*
+While not essential, abjurer’s chalk can help in casting protective circles or making sigils and marks. If used in casting a spell where symbols (visible or invisible) are traced to delineate a spell’s area of effect or boundaries (a magic circle or _symbol_), it adds a +1 to any die of effect or total DC effect. Its best use is in conjunction with _instant summons,_ as it negates the need to sacrifice other physical components if the abjurer’s chalk was used to make the _arcane mark_ on the item being summoned. It can be used to help the following spells: _alarm, arcane lock, arcane mark, binding, consecrate_ (1 charge instead of 1 pound of silver dust), _explosive runes, glyph of warding, illusory script_ (replaces normal components), _mark of justice,_ the various _symbol_ spells*,* and _teleportation circle_ (replaces normal components)_._
 
 Abjurer’s chalk is a slightly greasy grey-green compound of dried resins, turmeric root, and various other herbs and substances. It comes in a small leathern pouch and can be used 3d12 times before it is worn away to dust.
 

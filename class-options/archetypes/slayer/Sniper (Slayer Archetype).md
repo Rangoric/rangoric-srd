@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Sniper
 
-*A [[rangoric-srd/classes/Slayer#^slayer-archetypes|slayer]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Slayer#^slayer-archetypes|slayer]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Whether it's with a bullet from a sling, a quarrel from a crossbow, or even an expertly thrown dagger, the sniper ensures that a single shot disables his targets.
 

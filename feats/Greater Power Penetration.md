@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Greater Power Penetration
 
-Your powers are especially potent at breaking through power resistance.  
+Your powers are especially potent at breaking through power resistance.
 
 Prerequisite: [[rangoric-srd/feats/Power Penetration|Power Penetration]].
 

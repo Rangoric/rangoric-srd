@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Cloudkill
 
-*Conjuration (Creation)*
+_Conjuration (Creation)_
 
-  - **Level**: Mag 5, Sor/Wiz 5, Spi 5, SumU 5, Wit 5
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Effect**: Cloud spreads in 20-ft. radius, 20 ft. high
-  - **Duration**: 1 min./level
-  - **Saving Throw**: Fortitude partial; see text
-  - **Spell Resistance**: No
+- **Level**: Mag 5, Sor/Wiz 5, Spi 5, SumU 5, Wit 5
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Effect**: Cloud spreads in 20-ft. radius, 20 ft. high
+- **Duration**: 1 min./level
+- **Saving Throw**: Fortitude partial; see text
+- **Spell Resistance**: No
 
 This spell generates a bank of fog, similar to a fog cloud, except that its vapors are yellowish green and poisonous. These vapors automatically kill any living creature with 3 or fewer HD (no save). A living creature with 4 to 6 HD is slain unless it succeeds on a Fortitude save (in which case it takes 1d4 points of Constitution damage on your turn each round while in the cloud).
 

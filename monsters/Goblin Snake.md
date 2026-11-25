@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Goblin Snake
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 2d8+4 (13 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares), burrow 5 ft., swim 20 ft.
-  - **Armor Class**: 14 (+2 Dex, +1 natural, +1 size), touch 13, flat-footed 12
-  - **Base Attack**: +1; **CMB**: +2; **CMD**: 14 (can't be tripped)
-  - **Attack**: Bite +4 melee (1d4+3)
-  - **Full Attack**: Bite +4 melee (1d4+3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Goblin Breath|Goblin breath]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Snake Empathy|snake empathy]] +7
-  - **Saves**: Fort +2, Ref +2, Will +4
-  - **Abilities**: Str 14, Dex 15, Con 14, Int 9, Wis 12, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Society|Society]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Feats**: [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
-  - **Environment**: Any underground or swamps
-  - **Organization**: Solitary, pair, or nest (3–12 plus 1–6 venomous snakes)
-  - **Challenge Rating**: 1
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 2d8+4 (13 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares), burrow 5 ft., swim 20 ft.
+- **Armor Class**: 14 (+2 Dex, +1 natural, +1 size), touch 13, flat-footed 12
+- **Base Attack**: +1; **CMB**: +2; **CMD**: 14 (can't be tripped)
+- **Attack**: Bite +4 melee (1d4+3)
+- **Full Attack**: Bite +4 melee (1d4+3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Goblin Breath|Goblin breath]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Snake Empathy|snake empathy]] +7
+- **Saves**: Fort +2, Ref +2, Will +4
+- **Abilities**: Str 14, Dex 15, Con 14, Int 9, Wis 12, Cha 13
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Society|Society]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
+- **Environment**: Any underground or swamps
+- **Organization**: Solitary, pair, or nest (3–12 plus 1–6 venomous snakes)
+- **Challenge Rating**: 1
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Tenacious predators and bullies, goblin snakes are shrill, impulsive, and endlessly hungry. When their instinctual cunning takes hold, however, these maniacal creatures exhibit all the stealth and deadly cunning of serpents coupled with the capricious destructiveness of goblins.
 

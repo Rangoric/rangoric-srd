@@ -26,15 +26,15 @@ tags: [rangoric, rangoric/spell]
 
 # Ray of Frost
 
-*Evocation \[Cold\]*
+_Evocation \[Cold\]_
 
-  - **Level**: Mag 0, Sor/Wiz 0
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: Ray
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Mag 0, Sor/Wiz 0
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: Ray
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 A ray of freezing air and ice projects from your pointing finger. You must succeed on a ranged touch attack with the ray to deal damage to a target. The ray deals 1d3 points of cold damage.

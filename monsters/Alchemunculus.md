@@ -37,27 +37,27 @@ tags: [rangoric, rangoric/monster]
 
 # Alchemunculus
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
-  - **Hit Dice**: 1d10 (5 hp)
-  - **Initiative**: +5
-  - **Speed**: 25 ft. (5 squares), climb 25 ft.
-  - **Armor Class**: 17 (+3 Dex, +2 size, +2 natural), touch 15, flat-footed 14
-  - **Base Attack**: +1; **CMB**: +2; **CMD**: 11
-  - **Attack**: Claw +3 melee (1d2–1 plus poison)
-  - **Full Attack**: 2 claws +3 melee (1d2–1 plus poison)
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: Leaping, [[rangoric-srd/monsters/abilities/Poison|poison]]
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], spider climb
-  - **Saves**: Fort +0, Ref +3, Will +0
-  - **Abilities**: Str 9, Dex 16, Con —, Int 8, Wis 9, Cha 8 (at least; or half the creator’s scores)
-  - **Skills**: —
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]] (innate)
-  - **Environment**: Any land or underground
-  - **Organization**: Solitary
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Any (same as creator)
-  - **Advancement**: 2–4 HD (Tiny) or as familiar
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
+- **Hit Dice**: 1d10 (5 hp)
+- **Initiative**: +5
+- **Speed**: 25 ft. (5 squares), climb 25 ft.
+- **Armor Class**: 17 (+3 Dex, +2 size, +2 natural), touch 15, flat-footed 14
+- **Base Attack**: +1; **CMB**: +2; **CMD**: 11
+- **Attack**: Claw +3 melee (1d2–1 plus poison)
+- **Full Attack**: 2 claws +3 melee (1d2–1 plus poison)
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: Leaping, [[rangoric-srd/monsters/abilities/Poison|poison]]
+- **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], spider climb
+- **Saves**: Fort +0, Ref +3, Will +0
+- **Abilities**: Str 9, Dex 16, Con —, Int 8, Wis 9, Cha 8 (at least; or half the creator’s scores)
+- **Skills**: —
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]] (innate)
+- **Environment**: Any land or underground
+- **Organization**: Solitary
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Any (same as creator)
+- **Advancement**: 2–4 HD (Tiny) or as familiar
 
 One of the hidden secrets of alchana is the alchemunculus, a mostly nonmagical servitor and construct for alchemists. The minuscule figures act as spies, scouts, messengers, lab aides, and familiars after a fashion. These constructs are far less hideous than the more commonly seen [[rangoric-srd/monsters/Homunculus|homunculus]], as alchemy does not add in magical shortcuts or require the construct to be molded out of clay ahead of time. After all, the high secrets of alchemy take care of building the form from the basic building blocks within the components.
 
@@ -73,7 +73,7 @@ Alchemunculi tend to hide and leap out at any foes who threaten their creators, 
 
 **Leaping (Ex)**: The thin, wiry alchemunculus can leap the following distances: running jump 6 ft.; standing jump 3 ft.; jump back 3 ft.
 
-**Spider Climb (Ex)**: Due to various adhesives within the chymicals for its construction, alchemunculi can move as if under the effects of a *[[rangoric-srd/spells/Spider Climb|spider climb]]* at will and they move at their full speed, not half speed as per the spell.
+**Spider Climb (Ex)**: Due to various adhesives within the chymicals for its construction, alchemunculi can move as if under the effects of a _[[rangoric-srd/spells/Spider Climb|spider climb]]_ at will and they move at their full speed, not half speed as per the spell.
 
 **Poison (Ex)**: The alchemunculus’ claws seep an alchemical toxin: injury, Fortitude DC 10, initial damage [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nausea]] for 1 minute, secondary damage sleep for 1d4 minutes.
 
@@ -85,7 +85,7 @@ An alchemunculus costs 300 gp to create in all, from labor to construction eleme
 
 On the dawn of the fourth day, other substances are gathered from the creator or the person to whom the alchemunculus will be bound: an ounce of tears, an ounce of perspiration, eight eyelashes, three fistfuls of hair (often leaving the donating wizard shaved nearly or fully bald), a full pint of blood, and finger- and toenail trimmings equal to at least one full thumbnail (if not an entire thumbnail removed for this purpose). All this is combined in a purifying solvent, then sublimated under high heat. The vapors from that process then drip and seep into the still-sealed mold for three more days.
 
-The creation of the alchemunculus is only completed by the creator casting *[[rangoric-srd/spells/Summon Monster I|summon monster I]]* upon the sealed mold on the eighth day of the process. The ritual drains 50 XP and 1d4 hp from the caster/creator, and the alchemist must succeed on a [[rangoric-srd/skills/Craft|Craft]] (alchemy) check (DC 22) for the alchemunculus to be viable and whole. The mold is opened and, if all is successful, the alchemunculus emerges to begin its servitude with its creator.
+The creation of the alchemunculus is only completed by the creator casting _[[rangoric-srd/spells/Summon Monster I|summon monster I]]_ upon the sealed mold on the eighth day of the process. The ritual drains 50 XP and 1d4 hp from the caster/creator, and the alchemist must succeed on a [[rangoric-srd/skills/Craft|Craft]] (alchemy) check (DC 22) for the alchemunculus to be viable and whole. The mold is opened and, if all is successful, the alchemunculus emerges to begin its servitude with its creator.
 
 There are rumors of greater alchemunculi, crafted by high practitioners of alchemy with far greater abilities and powers. The most oft-repeated tale mentions an alchemunculus that acts like a [[rangoric-srd/monsters/lich/Lich|lich]]’s phylactery to store the soul of its deceased master (or become fully possessed by him) until such time as it can alchemically or magically have its master restored.
 

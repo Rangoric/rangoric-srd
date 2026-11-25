@@ -30,15 +30,15 @@ tags: [rangoric, rangoric/spell]
 
 # Insect Spies
 
-*Divination*
+_Divination_
 
-  - **Level**: Drd 3, Hun 3, Rgr 3, Sor/Wiz 4, Sum 3, SumU 3, Wit 4
-  - **Components**: V, S, M (a drop of honey)
-  - **Casting Time**: 1 round
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: Up to one insect spy/4 levels
-  - **Duration**: 10 \* caster level minute(s)
-  - **Spell Resistance**: No
+- **Level**: Drd 3, Hun 3, Rgr 3, Sor/Wiz 4, Sum 3, SumU 3, Wit 4
+- **Components**: V, S, M (a drop of honey)
+- **Casting Time**: 1 round
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: Up to one insect spy/4 levels
+- **Duration**: 10 \* caster level minute(s)
+- **Spell Resistance**: No
 
 You summon one or more glossy black beetles, which have a measure of intelligence and make for excellent spies. When they are in your presence, the insects obey your mental commands, and you can issue orders to any number of them as a single standard action, provided that you issue the same orders to each one. In order to issue different orders to different insects, you must spend a separate standard action for each set of orders. An insect in physical contact with you can answer simple questions about what it has observed, at a rate of one question per round. It can relate only what it perceived with its senses, and can't repeat speech. It has difficulty making subjective judgments, and questions that demand such reasoning are unlikely to yield a clear answer. For example, an insect is unable to relay someone's emotional state or determine who among several people it saw might be in charge.
 

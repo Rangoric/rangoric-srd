@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/monster]
 
 # Couatl, Psionic
 
-Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^native|Native]], Psionic)   
+Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^native|Native]], Psionic)
 
 **Special Attacks:** [[rangoric-srd/monsters/abilities/Constrict|Constrict]] 2d8+6, [[rangoric-srd/monsters/abilities/Grab|improved grab]], [[rangoric-srd/monsters/abilities/Poison|poison]], psi-like abilities, spells
 

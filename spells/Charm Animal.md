@@ -23,9 +23,9 @@ tags: [rangoric, rangoric/spell]
 
 # Charm Animal
 
-*Enchantment (Charm) \[Mind-Affecting\]*
+_Enchantment (Charm) \[Mind-Affecting\]_
 
-  - **Level**: Drd 1, Hun 1, Psy 1, Rgr 1, Sha 1, Tot 1
-  - **Target**: One animal
+- **Level**: Drd 1, Hun 1, Psy 1, Rgr 1, Sha 1, Tot 1
+- **Target**: One animal
 
 This spell functions like [[rangoric-srd/spells/Charm Person|charm person]], except that it affects a creature of the animal type.

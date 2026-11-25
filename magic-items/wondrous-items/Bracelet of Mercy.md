@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This metal bracelet is set with multiple gems blessed by a priest. If the wearer has the [[rangoric-srd/classes/Paladin#^paladin-lay-on-hands|lay on hands]] class feature, she can use it one additional time per day and is always treated as if she has the [[rangoric-srd/class-options/mercies/Diseased (Mercy)|diseased]] [[rangoric-srd/classes/Paladin#^paladin-mercy|mercy]]. If the wearer already has that mercy, her effective caster level for removing diseases increases by +4.
 
-Faint conjuration (healing); CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Remove Disease|remove disease]]*; Price 15,000 gp; Cost 7,500 gp.
+Faint conjuration (healing); CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Remove Disease|remove disease]]_; Price 15,000 gp; Cost 7,500 gp.

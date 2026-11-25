@@ -18,12 +18,12 @@ tags: [rangoric, rangoric/class-option]
 
 # Searing Flesh
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Defense Wild Talents|defense wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Defense Wild Talents|defense wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Fire Element|fire]]
-  - **Type**: defense (Su)
-  - **Level**: —
-  - **Burn**: 0
+- **Element**: [[rangoric-srd/class-options/elements/Fire Element|fire]]
+- **Type**: defense (Su)
+- **Level**: —
+- **Burn**: 0
 
 Your body becomes painfully hot. Whenever a creature hits you with a natural attack or an unarmed strike, that creature takes 1 point of fire damage per 4 kineticist levels you possess (minimum 1 point of fire damage). A creature in a grapple with you takes double this amount of damage at the end of each of its turns. Weapons that strike you also take this damage, though the damage is unlikely to penetrate the weapon’s hardness. By accepting 1 point of [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]], you can increase this damage by 1 point per 4 kineticist levels you possess until the next time your burn is removed. You can increase the damage in this way up to seven times.
 

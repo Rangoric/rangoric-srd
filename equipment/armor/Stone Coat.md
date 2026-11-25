@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/armor]
 
 # Stone Coat
 
-*Heavy armor.* Cost 500 gp; Armor Bonus +8; Maximum Dex Bonus 0; Armor Check Penalty –7; Arcane Spell Failure 40%; Speed 20 ft. (2) (30 ft.), 15 ft. (2) (20 ft.); Weight 45 lb. ^stats
+_Heavy armor._ Cost 500 gp; Armor Bonus +8; Maximum Dex Bonus 0; Armor Check Penalty –7; Arcane Spell Failure 40%; Speed 20 ft. (2) (30 ft.), 15 ft. (2) (20 ft.); Weight 45 lb. ^stats
 
 This weighty breastplate consists of lamellar crafted from stones. It is worn in conjunction with kikko leg protectors (see [[rangoric-srd/equipment/armor/Kikko Armor|kikko armor]]).

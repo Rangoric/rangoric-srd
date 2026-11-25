@@ -33,7 +33,7 @@ Telepathy \[Mind-Affecting\]
 **Duration:** Instantaneous  
 **Saving Throw:** Will negates  
 **Power Resistance:** Yes  
-**Power Points:** 5  
+**Power Points:** 5
 
 The air ripples with the force of your mental attack, which blasts the minds of all creatures in range. Psionic blast [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stuns]] all affected creatures for 1 round.
 

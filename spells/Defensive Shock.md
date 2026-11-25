@@ -29,13 +29,13 @@ tags: [rangoric, rangoric/spell]
 
 # Defensive Shock
 
-*Evocation \[Electricity\]*
+_Evocation \[Electricity\]_
 
-  - **Level**: Alc 2, Blr 2, Mag 2, Occ 2, Sor/Wiz 2
-  - **Components**: V, S, M (a hollow metal sphere)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 minute/level or until discharged
+- **Level**: Alc 2, Blr 2, Mag 2, Occ 2, Sor/Wiz 2
+- **Components**: V, S, M (a hollow metal sphere)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 minute/level or until discharged
 
 Electrical energy floods your body, shocking the next creature that touches you. Any creature striking you with its body or a handheld weapon takes 1d6 points of electricity damage per two caster levels (maximum 6d6). If the attacker has spell resistance, it applies against this damage. Each time the spell discharges, the number of damage dice it deals is halved (rounded down); when the spell's damage dice reach 0, the spell ends.

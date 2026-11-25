@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Philosopher’s Stone
 
-*Alchana, Greater; Special*
+_Alchana, Greater; Special_
 
 The most famous of the Five Great Alchana Stones, the Philosopher’s Stone is the ultimate creation of alchemy— the stone that can turn common metals into mage-metals, the most perfect metals in the worlds! Like the other Alchana Stones, there are abilities gained simply by carrying the stone next to one’s flesh (most often on a chain like an amulet or pendant): +2 on all saving throws. The Philosopher’s Stone’s primary power, though, is to change base metals into mage-metals (either mage-silver or mage-gold).
 
@@ -32,13 +32,13 @@ The Philosopher’s Stone is a jet black stone with infrequent sparkles within t
 **Table: Mage-Metal Conversion Rates** ^table-mage-metal-conversion
 
 | Starting metal (10 pounds) | Mage-silver (charges/days) | Mage-gold (charges/days) |
-|---|---|---|
-| Common | 4/4d10 | 5/5d12 |
-| Copper | 3/3d8 | 4/4d10 |
-| Silver | 1/1d4 | 3/3d8 |
-| Iron | 2/2d6 | 2/2d6 |
-| Gold | 2/2d6 | 1/1d4 |
-| Steel | 1/1d4 | 1/1d4 |
+| -------------------------- | -------------------------- | ------------------------ |
+| Common                     | 4/4d10                     | 5/5d12                   |
+| Copper                     | 3/3d8                      | 4/4d10                   |
+| Silver                     | 1/1d4                      | 3/3d8                    |
+| Iron                       | 2/2d6                      | 2/2d6                    |
+| Gold                       | 2/2d6                      | 1/1d4                    |
+| Steel                      | 1/1d4                      | 1/1d4                    |
 
 Add one additional die roll of time per each additional 10 pounds of material the Philosopher’s Stone is affecting.
 

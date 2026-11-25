@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Terrain Mastery
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex).*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex)._
 
 A rogue with this talent gains a favored terrain, as the [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|ranger class feature]] of the same name, but the bonus does not increase with her level. A rogue can select this talent multiple times, each time applying it to a new terrain.

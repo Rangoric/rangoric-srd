@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Deep Cover
 
-*A [[rangoric-srd/classes/Ninja#^ninja-master-tricks|master trick]] (Ex).*
+_A [[rangoric-srd/classes/Ninja#^ninja-master-tricks|master trick]] (Ex)._
 
 A ninja with this trick gains the [[rangoric-srd/classes/Vigilante#^vigilante-dual-identity|dual identity]] and [[rangoric-srd/classes/Vigilante#^vigilante-seamless-guise|seamless guise]] class features as a [[rangoric-srd/classes/Vigilante|vigilante]], except that the ninja can spend 1 [[rangoric-srd/classes/Ninja#^ninja-ki-pool|ki point]] to change identities as a move action. The ninja's identities are referred to as social and ninja, rather than social and vigilante.

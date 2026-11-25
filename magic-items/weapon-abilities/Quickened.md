@@ -18,4 +18,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This enhancement allows the wielder to attack swiftly, often landing the first blow in a fight. It provides the wielder with a +4 initiative bonus while wielding the weapon.
 
-Moderate transmutation; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], *[[rangoric-srd/spells/Cat’s Grace|cat’s grace]]*; Price +2 bonus.
+Moderate transmutation; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], _[[rangoric-srd/spells/Cat’s Grace|cat’s grace]]_; Price +2 bonus.

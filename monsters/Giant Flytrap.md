@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Giant Flytrap
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
-  - **Hit Dice**: 13d8+91 (149 hp)
-  - **Initiative**: +8
-  - **Speed**: 10 ft. (2 squares)
-  - **Armor Class**: 22 (+4 Dex, +10 natural, –2 size), touch 12, flat-footed 18
-  - **Base Attack**: +9; **CMB**: +18 (+22 grapple); **CMD**: 32 (can't be tripped)
-  - **Attack**: Bite +15 melee (1d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: 4 bites +15 melee (1d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Engulf|Engulf]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 20
-  - **Saves**: Fort +17, Ref +8, Will +5
-  - **Abilities**: Str 25, Dex 18, Con 25, Int 1, Wis 12, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +9 (+17 in undergrowth)
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
-  - **Environment**: Temperate swamps
-  - **Organization**: Solitary, pair, or grove (3–6)
-  - **Challenge Rating**: 10
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
+- **Hit Dice**: 13d8+91 (149 hp)
+- **Initiative**: +8
+- **Speed**: 10 ft. (2 squares)
+- **Armor Class**: 22 (+4 Dex, +10 natural, –2 size), touch 12, flat-footed 18
+- **Base Attack**: +9; **CMB**: +18 (+22 grapple); **CMD**: 32 (can't be tripped)
+- **Attack**: Bite +15 melee (1d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: 4 bites +15 melee (1d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Engulf|Engulf]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 20
+- **Saves**: Fort +17, Ref +8, Will +5
+- **Abilities**: Str 25, Dex 18, Con 25, Int 1, Wis 12, Cha 6
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +9 (+17 in undergrowth)
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
+- **Environment**: Temperate swamps
+- **Organization**: Solitary, pair, or grove (3–6)
+- **Challenge Rating**: 10
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A hardy plant that grows in areas with poor soil but abundant animal life, this dangerous predator is an immense version of its more common (and much smaller) kin. Whereas the smaller flytraps supplement their growth by catching insects, the giant flytrap does the same with animals, humanoids, and anything else foolish enough to draw too near. Local legends call this plant names like “mancatcher,” “snapperjaw plant,” “dragonleaf plant,” “cowbiter,” and “green gulper,” but adventurers know it simply as the giant flytrap.
 

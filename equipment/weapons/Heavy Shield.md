@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/close]
 
 # Heavy Shield
 
-*Martial one-handed melee weapon.* Cost special; Dmg 1d3 (S), 1d4 (M); Critical x2; Weight special; Type Bludgeoning. ^stats
+_Martial one-handed melee weapon._ Cost special; Dmg 1d3 (S), 1d4 (M); Critical x2; Weight special; Type Bludgeoning. ^stats
 
 You can bash with a shield instead of using it for defense. See Armor for details.

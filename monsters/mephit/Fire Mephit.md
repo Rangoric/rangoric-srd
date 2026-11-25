@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Fire Mephit
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fire|Fire]])
-  - **Hit Dice**: 3d8 (13 hp)
-  - **Initiative**: +5
-  - **Speed**: 30 ft. (6 squares), fly 50 ft. (average)
-  - **Armor Class**: 16 (+1 size, +1 Dex, +4 natural), touch 12, flat-footed 15
-  - **Base Attack**: +3; **CMB**: +2; **CMD**: 14
-  - **Attack**: Claw +4 melee (1d3 and 1d4 fire)
-  - **Full Attack**: 2 claws +4 melee (1d3 and 1d4 fire)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]], spell-like abilities, summon mephit
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/magic, darkvision 60 ft., immunity to fire, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
-  - **Saves**: Fort +3, Ref +4, Will +3
-  - **Abilities**: Str 10, Dex 13, Con 10, Int 6, Wis 11, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6 (+9 with bindings), [[rangoric-srd/skills/Imitation|Imitation]] +4 (+6 acting), [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +11
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Feats All|Improved Initiative]]
-  - **Environment**: Elemental Plane of Fire
-  - **Organization**: Solitary (1), gang (2–4 mephits of mixed types), or mob (5–12 mephits of mixed types)
-  - **Challenge Rating**: 3
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: 4–6 HD (Small); 7–9 HD (Medium)
-  - **Level Adjustment**: +3 (cohort)
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fire|Fire]])
+- **Hit Dice**: 3d8 (13 hp)
+- **Initiative**: +5
+- **Speed**: 30 ft. (6 squares), fly 50 ft. (average)
+- **Armor Class**: 16 (+1 size, +1 Dex, +4 natural), touch 12, flat-footed 15
+- **Base Attack**: +3; **CMB**: +2; **CMD**: 14
+- **Attack**: Claw +4 melee (1d3 and 1d4 fire)
+- **Full Attack**: 2 claws +4 melee (1d3 and 1d4 fire)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]], spell-like abilities, summon mephit
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/magic, darkvision 60 ft., immunity to fire, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
+- **Saves**: Fort +3, Ref +4, Will +3
+- **Abilities**: Str 10, Dex 13, Con 10, Int 6, Wis 11, Cha 15
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6 (+9 with bindings), [[rangoric-srd/skills/Imitation|Imitation]] +4 (+6 acting), [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +11
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Feats All|Improved Initiative]]
+- **Environment**: Elemental Plane of Fire
+- **Organization**: Solitary (1), gang (2–4 mephits of mixed types), or mob (5–12 mephits of mixed types)
+- **Challenge Rating**: 3
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: 4–6 HD (Small); 7–9 HD (Medium)
+- **Level Adjustment**: +3 (cohort)
 
 Fire mephits come from the Elemental Plane of Fire.
 
@@ -74,10 +74,10 @@ Fire mephits speak Common and Ignan.
 
 **Breath Weapon (Su)**: 15-foot cone, damage 1d8 fire, Reflex half DC 12. The save DC is Constitution-based and includes a +1 racial adjustment.
 
-**Spell-Like Abilities**: Caster level 6th. The save DC is Charisma-based.  
+**Spell-Like Abilities**: Caster level 6th. The save DC is Charisma-based.
 
-1/hour - [[rangoric-srd/spells/Scorching Ray|scorching ray]] (DC 14) as the spell cast by a 3rd-level sorcerer;  
+1/hour - [[rangoric-srd/spells/Scorching Ray|scorching ray]] (DC 14) as the spell cast by a 3rd-level sorcerer;
 
-1/day - [[rangoric-srd/spells/Heat Metal|heat metal]] (DC 14).  
+1/day - [[rangoric-srd/spells/Heat Metal|heat metal]] (DC 14).
 
 **Fast Healing (Ex)**: A fire mephit heals only if it is touching a flame at least as large as a torch.

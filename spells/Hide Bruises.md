@@ -34,15 +34,15 @@ tags: [rangoric, rangoric/spell]
 
 # Hide Bruises
 
-*Illusion (Glamer)*
+_Illusion (Glamer)_
 
-  - **Level**: Apl 1, Brd 1, Inq 1, Mes 1, Occ 1, Psy 1, Skd 1, Sor/Wiz 1, Wit 1
-  - **Components**: V, S, M (drop of blood)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: One creature touched
-  - **Duration**: 10 \* caster level minute(s)
-  - **Saving Throw**: None and Will disbelief (see text)
-  - **Spell Resistance**: Yes
+- **Level**: Apl 1, Brd 1, Inq 1, Mes 1, Occ 1, Psy 1, Skd 1, Sor/Wiz 1, Wit 1
+- **Components**: V, S, M (drop of blood)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: One creature touched
+- **Duration**: 10 \* caster level minute(s)
+- **Saving Throw**: None and Will disbelief (see text)
+- **Spell Resistance**: Yes
 
 The target's wounds to seem to disappear. A creature attempting a Medicine check to tell the severity of the target's injuries takes a -10 penalty on that check. A creature that physically touches the glamered areas can attempt a Will save to recognize it as an illusion.

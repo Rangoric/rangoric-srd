@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Daredevil Hunter
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf)
-  - **Hit Dice**: 17d10+44 (142 hp)
-  - **Initiative**: +7
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 33 (+9 armor, +2 deflection, +6 Dex, +1 dodge, +5 natural), touch 19, flat-footed 26
-  - **Base Attack**: +17; **CMB**: +19; **CMD**: 39
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Elven Curve Blade|elven curve blade]] +20 melee (1d10+4/18–20) or +2 [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +26 ranged (1d8+4/19–20/×3)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Elven Curve Blade|elven curve blade]] +20/+15/+10/+5 melee (1d10+4/18–20); or +2 [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +26/+21/+16/+11 ranged (1d8+4/19–20/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (animals +2, dragons +4, giants +4, magical beasts +4)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/classes/Ranger#^ranger-improved-evasion|improved evasion]], [[rangoric-srd/classes/Ranger#^ranger-camouflage|camouflage]], [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (forest +2, mountain +4, plains +4), [[rangoric-srd/classes/Ranger#^ranger-hide-in-plain-sight|hide in plain sight]], [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companions), [[rangoric-srd/classes/Ranger#^ranger-quarry|quarry]], [[rangoric-srd/classes/Ranger#^ranger-swift-tracker|swift tracker]], [[rangoric-srd/classes/Ranger#^ranger-track|track]] +8, [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +17, [[rangoric-srd/classes/Ranger#^ranger-woodland-stride|woodland stride]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison and sleep
-  - **Saves**: Fort +15, Ref +20, Will +9 (+2 vs. enchantments)
-  - **Abilities**: Str 14, Dex 24, Con 15, Int 10, Wis 13, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +23, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +9 (+13 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +21, [[rangoric-srd/skills/Nature|Nature]] +13, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +26
-  - **Feats**: [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (composite longbow), [[rangoric-srd/feats/Manyshot|Manyshot]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Shot on the Run|Shot on the Run]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Tiring Critical|Tiring Critical]], [[rangoric-srd/feats/Track|Track]]
-  - **Environment**: Temperate forest
-  - **Organization**: Solitary, or with other elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])
-  - **Challenge Rating**: 16
-  - **Treasure**: NPC gear (combat gear: +1 dragon-bane arrows (5), +1 giant-bane arrows (5), +1 magical beast-bane arrows (5); potions of displacement (2), potions of fly (2), potions of haste (2), scroll of commune with nature, wand of cure moderate wounds (20 charges); other gear: +3 mithral breastplate, +1 elven curve blade, +2 composite longbow (+2 Str) with 60 arrows, belt of incredible dexterity +4, boots of elvenkind, cloak of resistance +3, efficient quiver, ring of feather falling, ring of protection +2, 1,380 gp)
-  - **Alignment**: Chaotic neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf)
+- **Hit Dice**: 17d10+44 (142 hp)
+- **Initiative**: +7
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 33 (+9 armor, +2 deflection, +6 Dex, +1 dodge, +5 natural), touch 19, flat-footed 26
+- **Base Attack**: +17; **CMB**: +19; **CMD**: 39
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Elven Curve Blade|elven curve blade]] +20 melee (1d10+4/18–20) or +2 [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +26 ranged (1d8+4/19–20/×3)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Elven Curve Blade|elven curve blade]] +20/+15/+10/+5 melee (1d10+4/18–20); or +2 [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +26/+21/+16/+11 ranged (1d8+4/19–20/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (animals +2, dragons +4, giants +4, magical beasts +4)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/classes/Ranger#^ranger-improved-evasion|improved evasion]], [[rangoric-srd/classes/Ranger#^ranger-camouflage|camouflage]], [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (forest +2, mountain +4, plains +4), [[rangoric-srd/classes/Ranger#^ranger-hide-in-plain-sight|hide in plain sight]], [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companions), [[rangoric-srd/classes/Ranger#^ranger-quarry|quarry]], [[rangoric-srd/classes/Ranger#^ranger-swift-tracker|swift tracker]], [[rangoric-srd/classes/Ranger#^ranger-track|track]] +8, [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +17, [[rangoric-srd/classes/Ranger#^ranger-woodland-stride|woodland stride]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison and sleep
+- **Saves**: Fort +15, Ref +20, Will +9 (+2 vs. enchantments)
+- **Abilities**: Str 14, Dex 24, Con 15, Int 10, Wis 13, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +23, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +9 (+13 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +21, [[rangoric-srd/skills/Nature|Nature]] +13, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +26
+- **Feats**: [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (composite longbow), [[rangoric-srd/feats/Manyshot|Manyshot]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Shot on the Run|Shot on the Run]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Tiring Critical|Tiring Critical]], [[rangoric-srd/feats/Track|Track]]
+- **Environment**: Temperate forest
+- **Organization**: Solitary, or with other elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])
+- **Challenge Rating**: 16
+- **Treasure**: NPC gear (combat gear: +1 dragon-bane arrows (5), +1 giant-bane arrows (5), +1 magical beast-bane arrows (5); potions of displacement (2), potions of fly (2), potions of haste (2), scroll of commune with nature, wand of cure moderate wounds (20 charges); other gear: +3 mithral breastplate, +1 elven curve blade, +2 composite longbow (+2 Str) with 60 arrows, belt of incredible dexterity +4, boots of elvenkind, cloak of resistance +3, efficient quiver, ring of feather falling, ring of protection +2, 1,380 gp)
+- **Alignment**: Chaotic neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A daredevil hunter is an [[rangoric-srd/monsters/elf/Elf|elf]] with 17 levels of [[rangoric-srd/classes/Ranger|ranger]]. The daredevil hunter seeks the largest and most dangerouscreatures for trophy kills.
 
@@ -75,4 +75,4 @@ A daredevil hunter speaks Common and Elven.
 
 **Base Statistics**: Without barkskin, bear's endurance, darkvision, delay poison, and longstrider, the ranger's statistics are **Senses** low-light vision; **AC** 28, touch 19, flat-footed 21; **hp** 108; **Fort** +13; **Immune** sleep; **Speed** 30 ft; **Con** 11; **Skills** Acrobatics +23.
 
-**Ranger spells prepared** (CL 14th; concentration +15): 3rd—*[[rangoric-srd/spells/Darkvision|darkvision]]*, *[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]*; 2nd—*[[rangoric-srd/spells/Barkskin|barkskin]]*, *[[rangoric-srd/spells/Bear’s Endurance|bear's endurance]]*, *[[rangoric-srd/spells/Protection from Energy|protection from energy]]*, *[[rangoric-srd/spells/Snare|snare]]*; 1st—*[[rangoric-srd/spells/Delay Poison|delay poison]]*, *[[rangoric-srd/spells/Hide from Animals|hide from animals]]*, *[[rangoric-srd/spells/Longstrider|longstrider]]*, *[[rangoric-srd/spells/Pass without Trace|pass without trace]]*, *[[rangoric-srd/spells/Resist Energy|resist energy]]*.
+**Ranger spells prepared** (CL 14th; concentration +15): 3rd—_[[rangoric-srd/spells/Darkvision|darkvision]]_, _[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]_; 2nd—_[[rangoric-srd/spells/Barkskin|barkskin]]_, _[[rangoric-srd/spells/Bear’s Endurance|bear's endurance]]_, _[[rangoric-srd/spells/Protection from Energy|protection from energy]]_, _[[rangoric-srd/spells/Snare|snare]]_; 1st—_[[rangoric-srd/spells/Delay Poison|delay poison]]_, _[[rangoric-srd/spells/Hide from Animals|hide from animals]]_, _[[rangoric-srd/spells/Longstrider|longstrider]]_, _[[rangoric-srd/spells/Pass without Trace|pass without trace]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_.

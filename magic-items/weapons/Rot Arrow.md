@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Rot Arrow
 
-Carved to look like worm-eaten wood, these *+1 arrows* are most potent against wooden targets. A *rot arrow* fired at a wooden object, or a creature composed primarily of wood, deals normal damage and then produces a *[[rangoric-srd/spells/Disintegrate|disintegrate]]* effect against that target as the spell (22d6 points of damage).
+Carved to look like worm-eaten wood, these _+1 arrows_ are most potent against wooden targets. A _rot arrow_ fired at a wooden object, or a creature composed primarily of wood, deals normal damage and then produces a _[[rangoric-srd/spells/Disintegrate|disintegrate]]_ effect against that target as the spell (22d6 points of damage).
 
-Moderate transmutation; CL 11th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Disintegrate|disintegrate]]*; Price 1,696 gp; Cost 851 gp + 67 XP.
+Moderate transmutation; CL 11th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Disintegrate|disintegrate]]_; Price 1,696 gp; Cost 851 gp + 67 XP.

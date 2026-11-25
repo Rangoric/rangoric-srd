@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Safe Curing
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Life Mystery|life]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Life Mystery|life]] mystery._
 
 Whenever you cast a spell that cures the target of hit point damage, you do not provoke attacks of opportunity for spellcasting.

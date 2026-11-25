@@ -15,12 +15,12 @@ One of the [[rangoric-srd/races/prestige-races/Prestige Races|prestige races]]; 
 
 Creatures choosing the Focus of the Hordes covet the aggressive power and stealthy nature goblins and their kin possess. Adherents to this path seek a means to enhance their own bodies in a similar vein. Following this focus slowly changes the creature into a more primal and aggressive form.
 
-| Step | Cost | Minimum Level | Prerequisite |
-| --- | --- | --- | --- |
-| [[#Goblinoid Creature\|Goblinoid Creature]] | 2,800 XP | 3rd | None |
-| [[#Orc-Blooded Creature\|Orc-Blooded Creature]] | 4,000 XP | 4th | Goblinoid |
-| [[#Hobgoblinoid Creature\|Hobgoblinoid Creature]] | 4,800 XP | 5th | Orc-blooded |
-| [[#Ogrish Creature\|Ogrish Creature]] | 7,250 XP | 8th | Hobgoblinoid |
+| Step                                              | Cost     | Minimum Level | Prerequisite |
+| ------------------------------------------------- | -------- | ------------- | ------------ |
+| [[#Goblinoid Creature\|Goblinoid Creature]]       | 2,800 XP | 3rd           | None         |
+| [[#Orc-Blooded Creature\|Orc-Blooded Creature]]   | 4,000 XP | 4th           | Goblinoid    |
+| [[#Hobgoblinoid Creature\|Hobgoblinoid Creature]] | 4,800 XP | 5th           | Orc-blooded  |
+| [[#Ogrish Creature\|Ogrish Creature]]             | 7,250 XP | 8th           | Hobgoblinoid |
 
 ### Goblinoid Creature
 

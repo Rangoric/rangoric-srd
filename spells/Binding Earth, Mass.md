@@ -20,10 +20,10 @@ tags: [rangoric, rangoric/spell]
 
 # Binding Earth, Mass
 
-*Transmutation \[Earth\]*
+_Transmutation \[Earth\]_
 
-  - **Level**: Drd 6, Hun 6, Wit 6
-  - **Components**: 
-  - **Target**: One creature or object/level, no two of which can be more than 30 ft. apart
+- **Level**: Drd 6, Hun 6, Wit 6
+- **Components**:
+- **Target**: One creature or object/level, no two of which can be more than 30 ft. apart
 
-This spell functions as *[[rangoric-srd/spells/Binding Earth|binding earth]]*, except as noted above.
+This spell functions as _[[rangoric-srd/spells/Binding Earth|binding earth]]_, except as noted above.

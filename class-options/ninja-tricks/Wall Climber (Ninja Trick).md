@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Wall Climber
 
-*A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Su).*
+_A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Su)._
 
 A ninja with this ability gains a climb speed of 20 feet, but only on vertical surfaces. This ability cannot be used to scale perfectly smooth surfaces or to climb on the underside of horizontal surfaces.

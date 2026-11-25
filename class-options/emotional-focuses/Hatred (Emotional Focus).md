@@ -14,13 +14,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Hatred
 
-*An [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-emotional-focus|emotional focus]] for the [[rangoric-srd/classes/Spiritualist (Class)|spiritualist]]’s [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-phantom|phantom]].*
+_An [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-emotional-focus|emotional focus]] for the [[rangoric-srd/classes/Spiritualist (Class)|spiritualist]]’s [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-phantom|phantom]]._
 
 Few things draw a spirit toward the Negative Energy Plane like the emotion of hatred. Phantoms with this focus often are blinded by—and blind others with—this powerful emotion. These phantoms are frequently darker and more foreboding than all but those phantoms with the fear emotional focus. Many of them manifest as dark and dreadful knights, their armor bristling with spikes and their hands seeming to grasp barbed and terrible weapons. Other times they appear as tall, gaunt figures staring down arrogantly at those who approach. These phantoms typically spew a string of curses at their foes, often profane, sometimes poetic. Their auras are pulsating and pitch black, and thrum violently when these horrible phantoms attack.
 
-*Skills*: The phantom gains a number of ranks in [[rangoric-srd/skills/Acrobatics|Acrobatics]] and [[rangoric-srd/skills/Perception|Perception]] equal to its number of Hit Dice. While confined in the spiritualist’s consciousness, the phantom grants the spiritualist [[rangoric-srd/feats/Skill Focus|Skill Focus]] in each of these skills.
+_Skills_: The phantom gains a number of ranks in [[rangoric-srd/skills/Acrobatics|Acrobatics]] and [[rangoric-srd/skills/Perception|Perception]] equal to its number of Hit Dice. While confined in the spiritualist’s consciousness, the phantom grants the spiritualist [[rangoric-srd/feats/Skill Focus|Skill Focus]] in each of these skills.
 
-*Good Saves*: Fortitude and Reflex.
+_Good Saves_: Fortitude and Reflex.
 
 **Weapon Finesse**: The phantom gains [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]] as a bonus feat.
 

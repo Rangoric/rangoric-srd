@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Roused Anger
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
 The barbarian may enter a rage even if [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]]. While raging after using this ability, the barbarian is immune to the fatigued condition. Once this rage ends, the barbarian is [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]] for 10 minutes per round spent raging.

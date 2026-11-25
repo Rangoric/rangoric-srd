@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Spellcrash, Lesser
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Clr 4, Psy 4, Sor/Wiz 4, Wit 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Target**: One creature
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Clr 4, Psy 4, Sor/Wiz 4, Wit 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Target**: One creature
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 You create a discordant blast of energy that disrupts the target's available magic.
 

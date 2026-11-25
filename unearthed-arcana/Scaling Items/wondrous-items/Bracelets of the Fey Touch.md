@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/scaling-item]
 
 # Bracelets of the Fey Touch
 
-*A scaling item ([[rangoric-srd/unearthed-arcana/Scaling Items/Scaling Items#^value-of-scaling-items|bauble]]): its powers unlock as its wielder gains levels.*
+_A scaling item ([[rangoric-srd/unearthed-arcana/Scaling Items/Scaling Items#^value-of-scaling-items|bauble]]): its powers unlock as its wielder gains levels._
 
 These bracelets are crafted from thin yet surprisingly durable silver, and they glitter and sparkle faintly in moonlight or shadow. The wearer can activate the bracelets once per day as a free action to gain a +4 competence bonus on a [[rangoric-srd/skills/Deception|Deception]] or [[rangoric-srd/skills/Stealth|Stealth]] check.
 
@@ -28,4 +28,4 @@ These bracelets are crafted from thin yet surprisingly durable silver, and they 
 
 **8th Level**: The bracelets can be used twice per day, but no more than once per hour.
 
-Faint enchantment; CL 4th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Charm Person|charm person]]*, *[[rangoric-srd/spells/Invisibility|invisibility]]*, creator must be fey; Price 480 gp; Cost 825 gp.
+Faint enchantment; CL 4th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Charm Person|charm person]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_, creator must be fey; Price 480 gp; Cost 825 gp.

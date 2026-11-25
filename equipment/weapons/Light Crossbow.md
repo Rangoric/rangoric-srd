@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/crossbows]
 
 # Light Crossbow
 
-*Simple ranged weapon.* Cost 35 gp; Dmg 1d6 (S), 1d8 (M); Critical 19–20/x2; Range Increment 80 ft.; Weight 4 lb.; Type Piercing. ^stats
+_Simple ranged weapon._ Cost 35 gp; Dmg 1d6 (S), 1d8 (M); Critical 19–20/x2; Range Increment 80 ft.; Weight 4 lb.; Type Piercing. ^stats
 
 You draw a light crossbow back by pulling a lever. Loading a light crossbow is a move action that provokes attacks of opportunity.
 

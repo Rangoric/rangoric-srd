@@ -38,25 +38,25 @@ tags: [rangoric, rangoric/monster]
 
 # 3rd-Level Astral Construct
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
-  - **Hit Dice**: 3d10+20 (36 hp)
-  - **Initiative**: +2
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 20 (+2 Dex, +8 natural), touch 12, flatfooted 18
-  - **Base Attack**: +4; **CMB**: +9; **CMD**: 21
-  - **Attack**: Slam +7 melee (1d6+7)
-  - **Full Attack**: Slam +7 melee (1d6+7)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: -
-  - **Special Qualities**: One ability from Menu A, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], darkvision 60 ft., low-light vision
-  - **Saves**: Fort +1, Ref +3, Will +1
-  - **Abilities**: Str 21, Dex 15, Con -, Int -, Wis 11, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11
-  - **Feats**: -
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 2
-  - **Treasure**: None
-  - **Alignment**: Always Neutral
-  - **Advancement**: -
-  - **Level Adjustment**: -
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
+- **Hit Dice**: 3d10+20 (36 hp)
+- **Initiative**: +2
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 20 (+2 Dex, +8 natural), touch 12, flatfooted 18
+- **Base Attack**: +4; **CMB**: +9; **CMD**: 21
+- **Attack**: Slam +7 melee (1d6+7)
+- **Full Attack**: Slam +7 melee (1d6+7)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: -
+- **Special Qualities**: One ability from Menu A, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], darkvision 60 ft., low-light vision
+- **Saves**: Fort +1, Ref +3, Will +1
+- **Abilities**: Str 21, Dex 15, Con -, Int -, Wis 11, Cha 10
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11
+- **Feats**: -
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 2
+- **Treasure**: None
+- **Alignment**: Always Neutral
+- **Advancement**: -
+- **Level Adjustment**: -

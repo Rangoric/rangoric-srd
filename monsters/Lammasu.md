@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Lammasu
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 9d10+45 (94 hp)
-  - **Initiative**: +5
-  - **Speed**: 30 ft. (6 squares), fly 60 ft. (average)
-  - **Armor Class**: 21 (+1 Dex, +11 natural, –1 size), touch 10, flat-footed 20
-  - **Base Attack**: +9; **CMB**: +16; **CMD**: 27 (31 vs. trip)
-  - **Attack**: Claw +14 melee (1d8+6) or wing +14 melee (1d6+3)
-  - **Full Attack**: 2 claws +14 melee (1d8+6) and 2 wings +9 melee (1d6+3)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +14; 1d8+6), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]] (20 ft.)
-  - **Saves**: Fort +11, Ref +9, Will +8
-  - **Abilities**: Str 23, Dex 12, Con 21, Int 16, Wis 17, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Temperate deserts
-  - **Organization**: Solitary
-  - **Challenge Rating**: 8
-  - **Treasure**: Standard
-  - **Alignment**: Always lawful good
-  - **Advancement**: 8–10 HD (Large); 11–21 HD (Huge)
-  - **Level Adjustment**: +5
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 9d10+45 (94 hp)
+- **Initiative**: +5
+- **Speed**: 30 ft. (6 squares), fly 60 ft. (average)
+- **Armor Class**: 21 (+1 Dex, +11 natural, –1 size), touch 10, flat-footed 20
+- **Base Attack**: +9; **CMB**: +16; **CMD**: 27 (31 vs. trip)
+- **Attack**: Claw +14 melee (1d8+6) or wing +14 melee (1d6+3)
+- **Full Attack**: 2 claws +14 melee (1d8+6) and 2 wings +9 melee (1d6+3)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +14; 1d8+6), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]] (20 ft.)
+- **Saves**: Fort +11, Ref +9, Will +8
+- **Abilities**: Str 23, Dex 12, Con 21, Int 16, Wis 17, Cha 14
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Temperate deserts
+- **Organization**: Solitary
+- **Challenge Rating**: 8
+- **Treasure**: Standard
+- **Alignment**: Always lawful good
+- **Advancement**: 8–10 HD (Large); 11–21 HD (Huge)
+- **Level Adjustment**: +5
 
 Lammasus are protectors of the weak and ever-vigilant champions against evil. These noble creatures dwell in crumbling desert ruins or other remote areas, where they tirelessly fight against the forces of darkness, hoping to defend those they consider lesser races from the evils that often lurk in such places.
 
@@ -74,8 +74,8 @@ Lammasus speak Common, Draconic, and Celestial.
 
 A lammasu attacks with spells or its razor-sharp claws. It almost always enters combat if it observes a good creature being threatened by evil.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +11): 3/day—*[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]*; 1/day—*[[rangoric-srd/spells/Dimension Door|dimension door]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +11): 3/day—_[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]_; 1/day—_[[rangoric-srd/spells/Dimension Door|dimension door]]_.
 
-**Spells known** (CL 7th; concentration +9): 3rd (4/day)—*[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]*, *[[rangoric-srd/spells/Searing Light|searing light]]*; 2nd (7/day)—*[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]], [[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]*, *[[rangoric-srd/spells/Resist Energy|resist energy]]*; 1st (7/day)—*[[rangoric-srd/spells/Bless|bless]]*, *[[rangoric-srd/spells/Command|command]]* (DC 13), *[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]*, *[[rangoric-srd/spells/Detect Evil|detect evil]]*, *[[rangoric-srd/spells/Divine Favor|divine favor]]*; 0 (at will)—*[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Detect Poison|detect poison]]*, *[[rangoric-srd/spells/Guidance|guidance]]*, *[[rangoric-srd/spells/Mending|mending]]*, *[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]*, *[[rangoric-srd/spells/Resistance|resistance]]*, *[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]*.
+**Spells known** (CL 7th; concentration +9): 3rd (4/day)—_[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]_, _[[rangoric-srd/spells/Searing Light|searing light]]_; 2nd (7/day)—_[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]], [[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_; 1st (7/day)—_[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Command|command]]_ (DC 13), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Detect Evil|detect evil]]_, _[[rangoric-srd/spells/Divine Favor|divine favor]]_; 0 (at will)—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Detect Poison|detect poison]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Mending|mending]]_, _[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]_, _[[rangoric-srd/spells/Resistance|resistance]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_.
 
 **Spells**: A lammasu casts spells as a 7th-level oracle, but does not gain any other class abilities possessed by an oracle. It ignores all divine focus material components for spells it casts.

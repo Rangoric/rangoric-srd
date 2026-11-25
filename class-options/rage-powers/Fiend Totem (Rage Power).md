@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Fiend Totem
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su)._
 
 While raging, the barbarian sprouts dozens of wicked barbs from her body. Anyone striking the barbarian with a melee weapon, an unarmed strike, or a natural weapon takes 1d6 points of piercing damage. A barbarian must have the [[rangoric-srd/class-options/rage-powers/Fiend Totem, Lesser (Rage Power)|lesser fiend totem]] rage power to select this rage power.
 

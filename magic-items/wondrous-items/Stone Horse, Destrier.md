@@ -24,6 +24,6 @@ A stone horse can carry 1,000 pounds tirelessly and never needs to rest or feed.
 
 There are two sorts of stone horses.
 
-*Destrier*: This item has the statistics of a heavy warhorse as well as having hardness 10.
+_Destrier_: This item has the statistics of a heavy warhorse as well as having hardness 10.
 
 Strong transmutation; CL 14th; Craft Wondrous Item, flesh to stone, animate objects; Price 14,800 gp; Weight 6,000 lb.

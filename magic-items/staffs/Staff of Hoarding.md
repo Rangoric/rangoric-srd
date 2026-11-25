@@ -23,10 +23,10 @@ tags: [rangoric, rangoric/magic-item]
 
 This gorgeous teak shaft has many gold and silver coins hammered into it. It allows use of the following spells:
 
-- *[[rangoric-srd/spells/Identify|identify]]* (1 charge)
-- *[[rangoric-srd/spells/Locate Object|locate object]]* (1 charge)
-- *[[rangoric-srd/spells/Magic Aura|magic aura]]* (1 charge)
-- *[[rangoric-srd/spells/Secret Chest|secret chest]]* (2 charges)
-- *[[rangoric-srd/spells/Legend Lore|legend lore]]* (3 charges)
+- _[[rangoric-srd/spells/Identify|identify]]_ (1 charge)
+- _[[rangoric-srd/spells/Locate Object|locate object]]_ (1 charge)
+- _[[rangoric-srd/spells/Magic Aura|magic aura]]_ (1 charge)
+- _[[rangoric-srd/spells/Secret Chest|secret chest]]_ (2 charges)
+- _[[rangoric-srd/spells/Legend Lore|legend lore]]_ (3 charges)
 
-Moderate varied; CL 11th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Identify|identify]]*, *[[rangoric-srd/spells/Legend Lore|legend lore]]*, *[[rangoric-srd/spells/Locate Object|locate object]]*, *[[rangoric-srd/spells/Magic Aura|magic aura]]*, *[[rangoric-srd/spells/Secret Chest|secret chest]]*; Price 55,866 gp; Cost 27,933 gp; Weight 5 lbs.
+Moderate varied; CL 11th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Identify|identify]]_, _[[rangoric-srd/spells/Legend Lore|legend lore]]_, _[[rangoric-srd/spells/Locate Object|locate object]]_, _[[rangoric-srd/spells/Magic Aura|magic aura]]_, _[[rangoric-srd/spells/Secret Chest|secret chest]]_; Price 55,866 gp; Cost 27,933 gp; Weight 5 lbs.

@@ -24,23 +24,23 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 
 **Table: Generic Building Events**
 
-| d% | Event |
-| --- | --- |
-| 01–02 | Good fortune |
-| 03–08 | Day of rest |
-| 09–12 | Good weather |
-| 13–15 | Famous visitor |
-| 16–65 | Building-specific event |
-| 66–73 | Rumormongering |
-| 74–77 | Bad weather |
-| 78–80 | Fire |
-| 81–82 | Deadly accident |
-| 83–84 | Infestation |
-| 85–88 | Rivalry |
-| 89–90 | Sickness |
-| 91–94 | Taxes |
-| 95–98 | Criminal activity |
-| 99–100 | Roll twice |
+| d%     | Event                   |
+| ------ | ----------------------- |
+| 01–02  | Good fortune            |
+| 03–08  | Day of rest             |
+| 09–12  | Good weather            |
+| 13–15  | Famous visitor          |
+| 16–65  | Building-specific event |
+| 66–73  | Rumormongering          |
+| 74–77  | Bad weather             |
+| 78–80  | Fire                    |
+| 81–82  | Deadly accident         |
+| 83–84  | Infestation             |
+| 85–88  | Rivalry                 |
+| 89–90  | Sickness                |
+| 91–94  | Taxes                   |
+| 95–98  | Criminal activity       |
+| 99–100 | Roll twice              |
 
 **Bad Weather**: A particularly bad patch of weather plagues the area. There's a 10% chance the weather is devastating. Attempt a DC 20 [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] check. If you succeed, you've anticipated the weather and your building is unaffected. If you fail, the bad weather damages some of your supplies, and you lose 1d4 points of Goods. If the bad weather is devastating, your building gains the broken condition.
 
@@ -54,7 +54,7 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 
 **Famous Visitor**: Someone famous visits the settlement. This could be a beloved actress, a vaunted hero, a celebrated noble, or the like. Attempt a DC 20 [[rangoric-srd/skills/Persuasion|Persuasion]] check. On a success, the famous visitor visits your building, and you gain 1d2 points of Influence. Otherwise you're snubbed and lose 1d2 points of Influence.
 
-**Fire**: A fire breaks out in your building. There's a 75% chance it's just a minor fire that costs you 1d2 points of Goods, but otherwise it's a major fire and becomes a significant danger. For a major fire, unless you utilize magic like *[[rangoric-srd/spells/Quench|quench]]*, *[[rangoric-srd/spells/Pyrotechnics|pyrotechnics]]*, or other fire-suppressing tactics, you lose 2d6 points of Goods, Labor, or Magic (splitting this cost up however you wish) and your building gains the broken condition.
+**Fire**: A fire breaks out in your building. There's a 75% chance it's just a minor fire that costs you 1d2 points of Goods, but otherwise it's a major fire and becomes a significant danger. For a major fire, unless you utilize magic like _[[rangoric-srd/spells/Quench|quench]]_, _[[rangoric-srd/spells/Pyrotechnics|pyrotechnics]]_, or other fire-suppressing tactics, you lose 2d6 points of Goods, Labor, or Magic (splitting this cost up however you wish) and your building gains the broken condition.
 
 **Good Fortune**: You have a run of good luck. For 7 days, this building gains a +4 bonus on its first check to generate capital each day. In addition, the next time you roll a building event, you can roll twice and take either result.
 
@@ -72,33 +72,33 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 
 **Table: Alchemist Events**
 
-| d% | Event |
-| --- | --- |
-| 01–10 | Discovery |
-| 11–30 | Cold remedy |
-| 31–40 | Healing potion demand |
-| 41–45 | Embarrassing affliction |
-| 46–55 | Cosmetic problem |
-| 56–70 | Accidental poisoning |
-| 71–80 | Contamination |
-| 81–85 | Unstable mutation |
-| 86–95 | Explosion |
-| 96–100 | Outbreak |
+| d%     | Event                   |
+| ------ | ----------------------- |
+| 01–10  | Discovery               |
+| 11–30  | Cold remedy             |
+| 31–40  | Healing potion demand   |
+| 41–45  | Embarrassing affliction |
+| 46–55  | Cosmetic problem        |
+| 56–70  | Accidental poisoning    |
+| 71–80  | Contamination           |
+| 81–85  | Unstable mutation       |
+| 86–95  | Explosion               |
+| 96–100 | Outbreak                |
 
 **Table: Bardic College Events**
 
-| d% | Event |
-| --- | --- |
-| 01–10 | Visiting master |
-| 11–25 | Prodigy |
-| 26–30 | Roll on the Magical Academy Events table |
-| 31–50 | Supply shortage |
-| 51–60 | Hazardous stage |
-| 61–70 | Stolen instrument |
-| 71–75 | Failing adept |
-| 76–85 | Vandalism |
-| 86–95 | Adept student |
-| 96–100 | Hazing gone wrong |
+| d%     | Event                                    |
+| ------ | ---------------------------------------- |
+| 01–10  | Visiting master                          |
+| 11–25  | Prodigy                                  |
+| 26–30  | Roll on the Magical Academy Events table |
+| 31–50  | Supply shortage                          |
+| 51–60  | Hazardous stage                          |
+| 61–70  | Stolen instrument                        |
+| 71–75  | Failing adept                            |
+| 76–85  | Vandalism                                |
+| 86–95  | Adept student                            |
+| 96–100 | Hazing gone wrong                        |
 
 **Adept Student**: Harnessing your newest protege's remarkable talent requires extra attention from you, lest a rival college steal her away. If you spend 1d2 points of Influence per day for 1d6 days, the student remains at your school. Otherwise, the student leaves, you lose 1d6 points of Influence, and the building generates half the normal amount of capital for 1d6 days.
 
@@ -120,14 +120,14 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 
 **Table: Caster's Tower Events**
 
-| d% | Event |
-| --- | --- |
-| 01–05 | Arcane breakthrough |
-| 06–10 | Mysterious item |
-| 11–40 | Desperate visitor |
-| 41–65 | Roll on the Magic Shop Events table |
-| 66–95 | Catastrophic mishap |
-| 96–100 | Dangerous surge |
+| d%     | Event                               |
+| ------ | ----------------------------------- |
+| 01–05  | Arcane breakthrough                 |
+| 06–10  | Mysterious item                     |
+| 11–40  | Desperate visitor                   |
+| 41–65  | Roll on the Magic Shop Events table |
+| 66–95  | Catastrophic mishap                 |
+| 96–100 | Dangerous surge                     |
 
 **Arcane Breakthrough**: Your hard work has resulted in the discovery of a new magic spell. Your apprentices have to work frantically to pen the spell, costing you 1d4 points of Labor and 1d6 points of Magic. There's a 75% chance this creates an arcane scroll of a random low-level spell (roll 1d4 to determine the spell level), and a 25% chance it creates an arcane scroll of a random mid-level spell (roll 1d2+4 to determine the spell level).
 
@@ -141,14 +141,14 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 
 **Table: Castle Events**
 
-| d% | Event |
-| --- | --- |
-| 01–20 | Grand feast |
-| 21–35 | New servant |
-| 36–55 | Inadequate defenses |
-| 56–75 | Training drill |
-| 76–85 | Offensive jester |
-| 86–100 | Uprising |
+| d%     | Event               |
+| ------ | ------------------- |
+| 01–20  | Grand feast         |
+| 21–35  | New servant         |
+| 36–55  | Inadequate defenses |
+| 56–75  | Training drill      |
+| 76–85  | Offensive jester    |
+| 86–100 | Uprising            |
 
 **Grand Feast**: Your latest gala, ball, banquet, festival, or similar event turned out smashingly. Visitors from all over made their way to your grand event, and you gain 1d6 points of Influence for throwing such a well-received party.
 
@@ -164,17 +164,17 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 
 **Table: Dance Hall Events**
 
-| d% | Event |
-| --- | --- |
-| 01–25 | Famous dancer |
-| 26–35 | Heart's desire |
-| 36–55 | Ballroom magic |
-| 56–70 | Sweaty pox |
-| 71–85 | Fiendish skill |
-| 86–95 | Accursed lounge |
-| 96–100 | Wild night |
+| d%     | Event           |
+| ------ | --------------- |
+| 01–25  | Famous dancer   |
+| 26–35  | Heart's desire  |
+| 36–55  | Ballroom magic  |
+| 56–70  | Sweaty pox      |
+| 71–85  | Fiendish skill  |
+| 86–95  | Accursed lounge |
+| 96–100 | Wild night      |
 
-**Accursed Lounge**: One of the lounges is rumored to be cursed, and it's affecting business. While the curse persists (whether it is real or imagined), the building's generated currency is reduced by half, but any day that it generates at least 3 points of Influence there is a 25% chance that it also generates 1 point of Magic. You may end this event by spending 2 points of Influence and 1 of Magic, or by casting *[[rangoric-srd/spells/Bless|bless]]*, *[[rangoric-srd/spells/Break Enchantment|break enchantment]]*, or *[[rangoric-srd/spells/Remove Curse|remove curse]]* on the room.
+**Accursed Lounge**: One of the lounges is rumored to be cursed, and it's affecting business. While the curse persists (whether it is real or imagined), the building's generated currency is reduced by half, but any day that it generates at least 3 points of Influence there is a 25% chance that it also generates 1 point of Magic. You may end this event by spending 2 points of Influence and 1 of Magic, or by casting _[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Break Enchantment|break enchantment]]_, or _[[rangoric-srd/spells/Remove Curse|remove curse]]_ on the room.
 
 **Ballroom Magic**: An enthusiastic local spellcaster offers to use magic to temporarily enhance your employees' appeal and skills. If you spend 1d2 points of Magic, the building gains a +10 bonus on checks to generate gp or Influence for the next 2d6 days.
 
@@ -190,13 +190,13 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 
 **Table: Guildhall Events**
 
-| d% | Event |
-| --- | --- |
-| 01–25 | Prosperity |
-| 26–35 | Renovations |
-| 36–55 | Increased taxes |
-| 56–70 | Infighting |
-| 71–85 | Rival guild |
+| d%     | Event            |
+| ------ | ---------------- |
+| 01–25  | Prosperity       |
+| 26–35  | Renovations      |
+| 36–55  | Increased taxes  |
+| 56–70  | Infighting       |
+| 71–85  | Rival guild      |
 | 86–100 | Unfair practices |
 
 **Increased Taxes**: New laws increase the tariffs placed on local guilds—or perhaps you are the victim of an overzealous tax collector with a grudge against you. Attempt a DC 20 [[rangoric-srd/skills/Craft|Craft]] or [[rangoric-srd/skills/Profession|Profession]] check appropriate to the nature of your guild. If you fail, the building takes a permanent –5 penalty on checks to generate capital. Each time you roll this event again, this penalty stacks (maximum –25). At any point you can spend 1d3 points of Goods or Influence to pay these taxes, bribe the tax collector, or find a loophole in the law, reducing the penalty by 5 (minimum 0).
@@ -213,14 +213,14 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 
 **Table: Herbalist Events**
 
-| d% | Event |
-| --- | --- |
-| 01–10 | Dangerous discovery |
-| 11–30 | Roll on the Alchemist Events table |
-| 31–55 | Snake oil |
-| 56–70 | Exhausting concoction |
-| 71–80 | New intoxicant |
-| 81–100 | Noxious fumes |
+| d%     | Event                              |
+| ------ | ---------------------------------- |
+| 01–10  | Dangerous discovery                |
+| 11–30  | Roll on the Alchemist Events table |
+| 31–55  | Snake oil                          |
+| 56–70  | Exhausting concoction              |
+| 71–80  | New intoxicant                     |
+| 81–100 | Noxious fumes                      |
 
 **Dangerous Discovery**: While experimenting with a recipe, you accidentally create a dose of poison. Randomly select one poison from the Sample Poisons table that costs 500 gp or less per dose. You can keep this dose for your own use or sell it at full value. Note that selling poison might be illegal in the settlement.
 
@@ -234,15 +234,15 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 
 **Table: House Events**
 
-| d% | Event |
-| --- | --- |
-| 01–10 | Buried relic |
-| 11–35 | Roll on the Inn Events table |
-| 36–55 | Neighbor rivalry |
-| 56–65 | Haunting |
-| 66–80 | Fussy neighbor |
-| 81–95 | Unstable foundation |
-| 96–100 | Arson |
+| d%     | Event                        |
+| ------ | ---------------------------- |
+| 01–10  | Buried relic                 |
+| 11–35  | Roll on the Inn Events table |
+| 36–55  | Neighbor rivalry             |
+| 56–65  | Haunting                     |
+| 66–80  | Fussy neighbor               |
+| 81–95  | Unstable foundation          |
+| 96–100 | Arson                        |
 
 **Arson**: Someone sets your House on fire to send you a message. Treat this as the fire event.
 
@@ -258,14 +258,14 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 
 **Table: Inn Events**
 
-| d% | Event |
-| --- | --- |
-| 01–15 | Talk of the town |
-| 16–30 | Food shortage |
-| 31–55 | Roll on the Tavern Events table |
-| 56–75 | Strange guest |
-| 76–95 | Theft |
-| 96–100 | Violence |
+| d%     | Event                           |
+| ------ | ------------------------------- |
+| 01–15  | Talk of the town                |
+| 16–30  | Food shortage                   |
+| 31–55  | Roll on the Tavern Events table |
+| 56–75  | Strange guest                   |
+| 76–95  | Theft                           |
+| 96–100 | Violence                        |
 
 **Food Shortage**: Business is booming, but your food and drink stores are depleted by this increased demand. You lose 1d4 points of Goods. If you still have Goods left after paying this cost, you gain 1 point of Influence; otherwise, you lose 1 point of Influence and the building takes a –5 penalty on its next 1d6 checks to generate capital.
 
@@ -279,15 +279,15 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 
 **Table: Library Events**
 
-| d% | Event |
-| --- | --- |
-| 01–30 | Pile of books |
-| 31–45 | Famous writer |
-| 46–50 | Strange visitor |
-| 51–55 | Rare find |
-| 56–70 | Fire |
-| 71–75 | Bookworm infestation |
-| 76–100 | Stolen books |
+| d%     | Event                |
+| ------ | -------------------- |
+| 01–30  | Pile of books        |
+| 31–45  | Famous writer        |
+| 46–50  | Strange visitor      |
+| 51–55  | Rare find            |
+| 56–70  | Fire                 |
+| 71–75  | Bookworm infestation |
+| 76–100 | Stolen books         |
 
 **Bookworm Infestation**: Your Library has become infested with the bane of the printed page—bookworms. You lose 1 point each of Goods and Magic. Proceed as if this were the infestation event from the Generic Building Events section , except that you lose 1 point each of Goods and Magic each day the infestation persists.
 
@@ -305,18 +305,18 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 
 **Table: Magic Shop Events**
 
-| d% | Event |
-| --- | --- |
-| 01–25 | Clueless adventurer |
-| 26–30 | Roll on the Shop Events table |
-| 31–35 | Roll on the Magical Academy Events table |
-| 36–50 | Unexpected magic |
-| 51–70 | Burglary |
-| 71–100 | Concerned citizens |
+| d%     | Event                                    |
+| ------ | ---------------------------------------- |
+| 01–25  | Clueless adventurer                      |
+| 26–30  | Roll on the Shop Events table            |
+| 31–35  | Roll on the Magical Academy Events table |
+| 36–50  | Unexpected magic                         |
+| 51–70  | Burglary                                 |
+| 71–100 | Concerned citizens                       |
 
 **Burglary**: Thieves have attempted to break into your shop to steal your magic. You can immediately spend 1d6 points of Influence to negate this attempt. Otherwise, attempt a DC 25 [[rangoric-srd/skills/Perception|Perception]] or [[rangoric-srd/skills/Mysticism|Mysticism]] check. On a success, your building's defenses work, the thieves are caught, and you gain 1d2 points of Influence. On a failure, you lose 1d4 points of Goods and 2d4 points of Magic.
 
-**Clueless Adventurer**: An adventurer comes to the shop seeking to sell a magic item that she has misidentified or doesn't understand the true nature of. Most of the time, this item is relatively minor (worth less than 1,000 gp), but 10% of the time it's a randomly determined item of a greater value (up to 4,000 gp). The adventurer offers to sell the item to you for half of what she thinks its actual value is (for example, if she thinks a *potion of cure serious wounds* is actually a *potion of cure moderate wounds*, she asks for 150 gp instead of 375 gp). If you inform the adventurer of the item's actual abilities value before buying it (and adjust your buying price accordingly), word of your honesty gets around and you gain 2d6 points of Influence. There is a 50% chance the informed adventurer decides to keep the item and a 50% chance she decides to sell it to you anyway at your offered buying price.
+**Clueless Adventurer**: An adventurer comes to the shop seeking to sell a magic item that she has misidentified or doesn't understand the true nature of. Most of the time, this item is relatively minor (worth less than 1,000 gp), but 10% of the time it's a randomly determined item of a greater value (up to 4,000 gp). The adventurer offers to sell the item to you for half of what she thinks its actual value is (for example, if she thinks a _potion of cure serious wounds_ is actually a _potion of cure moderate wounds_, she asks for 150 gp instead of 375 gp). If you inform the adventurer of the item's actual abilities value before buying it (and adjust your buying price accordingly), word of your honesty gets around and you gain 2d6 points of Influence. There is a 50% chance the informed adventurer decides to keep the item and a 50% chance she decides to sell it to you anyway at your offered buying price.
 
 **Concerned Citizens**: Locals often misunderstand magic, and when strange things or unfortunate accidents occur, they're quick to blame the local Magic Shop. The newest spate of dead cattle, missing children, strange lights in the sky, or ghost sightings might or might not be magical in nature, but unless you can assuage citizens' concerns with a successful DC 25 [[rangoric-srd/skills/Deception|Deception]] or [[rangoric-srd/skills/Persuasion|Persuasion]] check, you lose 2d6 points of Influence.
 
@@ -324,16 +324,16 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 
 **Table: Magical Academy Events**
 
-| d% | Event |
-| --- | --- |
-| 01–10 | Unexpected grant |
-| 11–20 | Student discovery |
-| 21–40 | Roll on the Military Academy Events table |
-| 41–45 | Bitter student |
-| 46–70 | Magical waste |
-| 71–80 | Experiment amok |
-| 81–90 | Explosion |
-| 91–100 | Hazing gone wrong |
+| d%     | Event                                     |
+| ------ | ----------------------------------------- |
+| 01–10  | Unexpected grant                          |
+| 11–20  | Student discovery                         |
+| 21–40  | Roll on the Military Academy Events table |
+| 41–45  | Bitter student                            |
+| 46–70  | Magical waste                             |
+| 71–80  | Experiment amok                           |
+| 81–90  | Explosion                                 |
+| 91–100 | Hazing gone wrong                         |
 
 **Bitter Student**: Whether the pupil is dissatisfied with a grade or was expelled and now holds a grudge, this student has it in for your academy. The bitter student is adept at hiding out—he could be anyone! Until you expose the bitter student, each time you'd roll an event for this building, you must roll twice, and the GM chooses the worse of the two results. When you roll this event, immediately roll twice on the Generic Building Events table , and the GM chooses which of the two possible events occurs. You can try to find and expose the student once per day by attempting a DC 30 [[rangoric-srd/skills/Perception|Perception]] check. The DC lowers by 1 for each prior failure as you get closer to identifying the culprit. The bitter student is exposed automatically if you reroll this event as either of your two rolls.
 
@@ -351,14 +351,14 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 
 **Table: Menagerie Events**
 
-| d% | Event |
-| --- | --- |
-| 01–20 | Exotic donation |
-| 21–55 | Festival |
-| 56–60 | Contagion |
-| 61–75 | Escaped animal |
-| 76–90 | Lost visitor |
-| 91–100 | Unruly druid |
+| d%     | Event           |
+| ------ | --------------- |
+| 01–20  | Exotic donation |
+| 21–55  | Festival        |
+| 56–60  | Contagion       |
+| 61–75  | Escaped animal  |
+| 76–90  | Lost visitor    |
+| 91–100 | Unruly druid    |
 
 **Contagion**: The creatures in your Menagerie suffer from a mysterious malady. Treat this as the sickness event from Generic Building Events , and your building gains the broken condition until the sickness is ended.
 
@@ -374,15 +374,15 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 
 **Table: Military Academy Events**
 
-| d% | Event |
-| --- | --- |
-| 01–10 | Famous alumnus |
-| 11–20 | Unexpected grant |
-| 21–45 | Competition |
-| 46–60 | Scandal |
-| 61–65 | Roll on the Magical Academy Events table |
-| 66–80 | Spoiled student |
-| 81–100 | Duel |
+| d%     | Event                                    |
+| ------ | ---------------------------------------- |
+| 01–10  | Famous alumnus                           |
+| 11–20  | Unexpected grant                         |
+| 21–45  | Competition                              |
+| 46–60  | Scandal                                  |
+| 61–65  | Roll on the Magical Academy Events table |
+| 66–80  | Spoiled student                          |
+| 81–100 | Duel                                     |
 
 **Competition**: Several teachers and classes organize an impromptu competition between students. This competition could be a classic tournament, a mock battle, a military recreation, or even a series of gladiatorial bloodsports. If you spend 1d3 points of Goods to outfit the participants with particularly flashy equipment, you gain 1d6 points of Influence and your building gains a +10 bonus on its next check to generate capital.
 
@@ -398,15 +398,15 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 
 **Table: Monastery Events**
 
-| d% | Event |
-| --- | --- |
-| 01–05 | Visiting relic |
-| 06–25 | Productive day |
-| 26–35 | Traveling priest |
-| 36–60 | Holy day |
-| 61–75 | Inquisitor |
-| 76–85 | Monster attack |
-| 86–95 | Scandal |
+| d%     | Event                           |
+| ------ | ------------------------------- |
+| 01–05  | Visiting relic                  |
+| 06–25  | Productive day                  |
+| 26–35  | Traveling priest                |
+| 36–60  | Holy day                        |
+| 61–75  | Inquisitor                      |
+| 76–85  | Monster attack                  |
+| 86–95  | Scandal                         |
 | 96–100 | Roll on the Temple Events table |
 
 **Holy Day**: Today is a holy day—this could be a minor day of worship or a significant event. If your monastery is philosophical rather than religious, this might be a birthday or the anniversary of a significant historical event. Attempt a DC 25 [[rangoric-srd/skills/Society|Society]] or [[rangoric-srd/skills/Theology|Theology]] check. If you succeed, you gain 1d6 points of Influence and your Monastery gains a +10 bonus on its next check to generate capital.
@@ -425,15 +425,15 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 
 **Table: Shop Events**
 
-| d% | Event |
-| --- | --- |
-| 01–30 | Busy day |
-| 31–45 | Slow day |
-| 46–60 | Shoplifter |
-| 61–75 | Embezzler |
-| 76–90 | Burglary |
-| 91–95 | Protection racket |
-| 96–100 | Robbery |
+| d%     | Event             |
+| ------ | ----------------- |
+| 01–30  | Busy day          |
+| 31–45  | Slow day          |
+| 46–60  | Shoplifter        |
+| 61–75  | Embezzler         |
+| 76–90  | Burglary          |
+| 91–95  | Protection racket |
+| 96–100 | Robbery           |
 
 **Burglary**: Thieves have attempted to break into your Shop to steal your items. You can immediately spend 1d6 points of Influence to negate this attempt. Otherwise, attempt a DC 25 [[rangoric-srd/skills/Intimidation|Intimidation]] or [[rangoric-srd/skills/Perception|Perception]] check. On a success, your building's defenses work, the thieves are caught, and you gain 1d2 points of Influence. On a failure, you lose 1d4 points of Goods. The GM may allow you to pursue or track down the thieves as an adventure hook.
 
@@ -451,17 +451,17 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 
 **Table: Smithy Events**
 
-| d% | Event |
-| --- | --- |
-| 01–15 | Special request |
-| 16–20 | Unforeseen masterwork |
-| 21–25 | Exotic metal |
-| 26–30 | Valuable ore |
-| 31–35 | Roll on the Shop Events table |
-| 36–50 | Forge waste |
-| 51–65 | Supply problems |
-| 66–80 | Forced commission |
-| 81–100 | Deadly accident |
+| d%     | Event                         |
+| ------ | ----------------------------- |
+| 01–15  | Special request               |
+| 16–20  | Unforeseen masterwork         |
+| 21–25  | Exotic metal                  |
+| 26–30  | Valuable ore                  |
+| 31–35  | Roll on the Shop Events table |
+| 36–50  | Forge waste                   |
+| 51–65  | Supply problems               |
+| 66–80  | Forced commission             |
+| 81–100 | Deadly accident               |
 
 **Deadly Accident**: This is the same as the deadly accident event from Generic Building Events , except that there is also a 25% chance that the accident starts a fire (as the fire event in same section).
 
@@ -481,15 +481,15 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 
 **Table: Stable Events**
 
-| d% | Event |
-| --- | --- |
-| 01–15 | Famous visitor |
-| 16–30 | Emergency request |
-| 31–45 | Crazed horse |
-| 46–65 | Predators |
-| 66–80 | Runaway |
-| 81–95 | Horse thieves |
-| 96–100 | Stable fire |
+| d%     | Event             |
+| ------ | ----------------- |
+| 01–15  | Famous visitor    |
+| 16–30  | Emergency request |
+| 31–45  | Crazed horse      |
+| 46–65  | Predators         |
+| 66–80  | Runaway           |
+| 81–95  | Horse thieves     |
+| 96–100 | Stable fire       |
 
 **Crazed Horse**: One of the horses in your Stable goes berserk—perhaps it smells a predator, it dislikes another horse, or someone tried to steal it and fled. You must attempt a DC 25 [[rangoric-srd/skills/Animal Handling|Animal Handling]] or wild empathy check to calm the horse down. If you fail, the horse runs amok, costing you 1d3 points of Goods and 1d2 points of Influence, and there's a 25% chance of having an immediate runaway event (see below).
 
@@ -507,15 +507,15 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 
 **Table: Tavern Events**
 
-| d% | Event |
-| --- | --- |
-| 01–15 | Drinking contest |
-| 16–30 | Shenanigans |
-| 31–50 | Bar brawl |
-| 51–65 | Rousing performance |
-| 66–75 | Protection racket |
-| 76–85 | Notorious visitor |
-| 86–100 | Taproom trouble |
+| d%     | Event               |
+| ------ | ------------------- |
+| 01–15  | Drinking contest    |
+| 16–30  | Shenanigans         |
+| 31–50  | Bar brawl           |
+| 51–65  | Rousing performance |
+| 66–75  | Protection racket   |
+| 76–85  | Notorious visitor   |
+| 86–100 | Taproom trouble     |
 
 **Bar Brawl**: One insult against someone's lineage or beard or beauty, and the next thing you know, there's a fight! Word of the brawl helps spread your Tavern's infamy—you gain 1d4 points of Influence. Attempt a DC 20 [[rangoric-srd/skills/Intimidation|Intimidation]] check. If you fail, you lose 1d3 points of Goods, Labor, and Magic (divided as the GM chooses) because of damage to your building.
 
@@ -533,15 +533,15 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 
 **Table: Temple Events**
 
-| d% | Event |
-| --- | --- |
-| 01 | Major miracle |
-| 02–05 | Sacred ritual |
-| 06–25 | Ceremony request |
-| 26–35 | Important visitor |
-| 36–75 | Healing request |
-| 76–80 | Minor miracle |
-| 81–95 | Scandal |
+| d%     | Event                              |
+| ------ | ---------------------------------- |
+| 01     | Major miracle                      |
+| 02–05  | Sacred ritual                      |
+| 06–25  | Ceremony request                   |
+| 26–35  | Important visitor                  |
+| 36–75  | Healing request                    |
+| 76–80  | Minor miracle                      |
+| 81–95  | Scandal                            |
 | 96–100 | Roll on the Monastery Events table |
 
 **Ceremony Request**: A local person with a good reputation or high social rank has requested a special ceremony from your Temple—a wedding, funeral, blessing for a new business venture, or other service chosen by the GM. Attempt a DC 20 [[rangoric-srd/skills/Theology|Theology]] check. If you succeed, the ceremony is particularly well received and you gain 1d3 points of Influence and 2d20 gp in donations.
@@ -560,16 +560,16 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 
 **Table: Theater Events**
 
-| d% | Event |
-| --- | --- |
-| 01–10 | Rave reviews |
-| 11–25 | Full house |
-| 26–35 | Visiting troupe |
-| 36–55 | Shenanigans |
-| 56–70 | Poor performance |
-| 71–90 | Prima donna |
-| 91–95 | Cursed play |
-| 96–100 | House fire |
+| d%     | Event            |
+| ------ | ---------------- |
+| 01–10  | Rave reviews     |
+| 11–25  | Full house       |
+| 26–35  | Visiting troupe  |
+| 36–55  | Shenanigans      |
+| 56–70  | Poor performance |
+| 71–90  | Prima donna      |
+| 91–95  | Cursed play      |
+| 96–100 | House fire       |
 
 **Cursed Play**: Something has cursed your Theater or its current production. Perhaps an actor quoted a line from an unlucky play, or the script has the power to drive people mad. Attempt a DC 25 [[rangoric-srd/skills/Performance|Performance]] check each day. If you fail, the Theater generates no capital that day. If you succeed, the curse and the event end.
 
@@ -593,16 +593,16 @@ Unlike with buildings, there is no generic organization event table.
 
 **Table: Cabal Events**
 
-| d% | Event |
-| --- | --- |
-| 01–05 | Discovery |
-| 06–20 | Arcane flux |
-| 21–30 | Work opportunity |
-| 31–50 | Portent |
-| 51–60 | Roll on the Caster's Tower Events table |
-| 61–75 | Roll on the Magical Academy Events table |
-| 76–90 | Familiar scraps |
-| 91–100 | Image problem |
+| d%     | Event                                    |
+| ------ | ---------------------------------------- |
+| 01–05  | Discovery                                |
+| 06–20  | Arcane flux                              |
+| 21–30  | Work opportunity                         |
+| 31–50  | Portent                                  |
+| 51–60  | Roll on the Caster's Tower Events table  |
+| 61–75  | Roll on the Magical Academy Events table |
+| 76–90  | Familiar scraps                          |
+| 91–100 | Image problem                            |
 
 **Arcane Flux**: An experimental ritual performed by the Cabal has granted you additional power. Roll 1d4; you gain a bonus arcane spell slot of that spell level (as if from a high ability score, up to a maximum of the highest-level arcane spell slot you can cast) for 24 hours.
 
@@ -618,16 +618,16 @@ Unlike with buildings, there is no generic organization event table.
 
 **Table: Cult Events**
 
-| d% | Event |
-| --- | --- |
-| 01–05 | Divine flux |
-| 06–20 | Portent |
-| 21–45 | Popular ritual |
-| 46–60 | Roll on the Temple Events table |
-| 61–75 | Image problem |
-| 76–90 | Apostate |
-| 91–95 | Blasphemy |
-| 96–100 | Schism |
+| d%     | Event                           |
+| ------ | ------------------------------- |
+| 01–05  | Divine flux                     |
+| 06–20  | Portent                         |
+| 21–45  | Popular ritual                  |
+| 46–60  | Roll on the Temple Events table |
+| 61–75  | Image problem                   |
+| 76–90  | Apostate                        |
+| 91–95  | Blasphemy                       |
+| 96–100 | Schism                          |
 
 **Apostate**: A member of your Cult leaves and badmouths you to outsiders. For 1d6 days, the organization takes a –5 penalty on checks to generate capital. If you rolled a 6 for the number of days, there's a 50% chance the end of this event causes an image problem event as described below. Silencing the apostate (through threats, violence, or bribes worth 1d6 points of Goods or Influence) ends this penalty early.
 
@@ -645,16 +645,16 @@ Unlike with buildings, there is no generic organization event table.
 
 **Table: Mercenary Company Events**
 
-| d% | Event |
-| --- | --- |
-| 01–15 | Impressive results |
-| 16–25 | Windfall |
-| 26–50 | Brawl |
-| 51–70 | Rivalry |
-| 71–80 | Scandal |
-| 81–85 | Duel |
-| 86–95 | Schism |
-| 96–100 | Mutiny |
+| d%     | Event              |
+| ------ | ------------------ |
+| 01–15  | Impressive results |
+| 16–25  | Windfall           |
+| 26–50  | Brawl              |
+| 51–70  | Rivalry            |
+| 71–80  | Scandal            |
+| 81–85  | Duel               |
+| 86–95  | Schism             |
+| 96–100 | Mutiny             |
 
 **Brawl**: This functions like the bar brawl in Tavern Events, except you may attempt a [[rangoric-srd/skills/Profession|Profession]] (soldier) check instead of an [[rangoric-srd/skills/Intimidation|Intimidation]] check, and a failed check causes a loss of Influence and Labor.
 
@@ -674,15 +674,15 @@ Unlike with buildings, there is no generic organization event table.
 
 **Table: Thieves' Guild Events**
 
-| d% | Event |
-| --- | --- |
-| 01–10 | Big Heist |
-| 11–30 | Crime Spree |
-| 31–45 | Rivalry |
-| 46–60 | Crackdown |
-| 61–70 | Entrapment |
-| 71–90 | Meddling Adventurers |
-| 91–100 | Mutiny |
+| d%     | Event                |
+| ------ | -------------------- |
+| 01–10  | Big Heist            |
+| 11–30  | Crime Spree          |
+| 31–45  | Rivalry              |
+| 46–60  | Crackdown            |
+| 61–70  | Entrapment           |
+| 71–90  | Meddling Adventurers |
+| 91–100 | Mutiny               |
 
 **Big Heist**: You have the opportunity to take on a risky but profitable job. If you accept, attempt a DC 30 [[rangoric-srd/skills/Engineering|Engineering]], [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]], or [[rangoric-srd/skills/Stealth|Stealth]] check. If you succeed, the guild gains a +20 bonus on its next check to generate capital and you gain 1d4 points of Influence. If you fail, the guild automatically rolls a 1 on all checks to generate capital for 1 day, and you lose 1 point of Influence. If you fail by 10 or more, there's a 25% chance that a team involved in the heist is captured (treat this as the entrapment event).
 
@@ -700,107 +700,107 @@ Unlike with buildings, there is no generic organization event table.
 
 ## Room/Team
 
-| Room/Team | Create |
-| --- | --- |
-| [[rangoric-srd/unearthed-arcana/Downtime/teams/Acolyte (Downtime)\|Acolyte]] | 2 Goods, 2 Influence, 2 Labor, 3 Magic (440 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Alchemy Lab\|Alchemy Lab]] | 8 Goods, 1 Influence, 5 Labor, 1 Magic (390 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Altar\|Altar]] | 2 Goods, 1 Influence, 2 Labor, 1 Magic (210 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Animal Pen\|Animal Pen]] | 6 Goods, 1 Influence, 5 Labor (250 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/teams/Apprentice\|Apprentice]] | 2 Goods, 2 Influence, 1 Labor, 4 Magic (520 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/teams/Archers\|Archers]] | 4 Goods, 3 Influence, 7 Labor (310 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Armory\|Armory]] | 9 Goods, 3 Influence, 6 Labor (390 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Artisan's Workshop\|Artisan's Workshop]] | 9 Goods, 9 Labor (360 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Auditorium\|Auditorium]] | 19 Goods, 1 Influence, 25 Labor (910 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Ballroom\|Ballroom]] | 19 Goods, 19 Labor (760 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Bar\|Bar]] | 6 Goods, 1 Influence, 5 Labor (250 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Bath (Downtime)\|Bath]] | 3 Goods, 1 Influence, 2 Labor (130 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Battle Ring\|Battle Ring]] | 18 Goods, 4 Influence, 16 Labor (800 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Bedroom\|Bedroom]] | 8 Goods, 7 Labor (300 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Bell Tower\|Bell Tower]] | 11 Goods, 3 Influence, 7 Labor (450 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Book Repository\|Book Repository]] | 8 Goods, 2 Influence, 7 Labor, 1 Magic (460 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Brewery (Downtime)\|Brewery]] | 9 Goods, 2 Influence, 7 Labor (380 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Bunks\|Bunks]] | 7 Goods, 4 Influence, 7 Labor (400 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/teams/Bureaucrats\|Bureaucrats]] | 2 Goods, 4 Influence, 2 Labor (200 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Burial Ground\|Burial Ground]] | 4 Goods, 3 Influence, 4 Labor, 1 Magic (350 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/teams/Cavalry (Downtime)\|Cavalry]] | 8 Goods, 3 Influence, 8 Labor (410 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/teams/Cavalry Archers\|Cavalry Archers]] | 9 Goods, 3 Influence, 10 Labor (470 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Cell\|Cell]] | 5 Goods, 4 Labor (180 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Ceremonial Room\|Ceremonial Room]] | 16 Goods, 2 Influence, 15 Labor, 5 Magic (1,180 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Classroom\|Classroom]] | 6 Goods, 1 Influence, 5 Labor (250 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Clockwork Shop\|Clockwork Shop]] | 9 Goods, 9 Labor (360 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Common Room\|Common Room]] | 7 Goods, 8 Labor (300 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Confessional\|Confessional]] | 2 Goods, 3 Labor (100 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Courtyard\|Courtyard]] | 4 Goods, 5 Labor (180 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/teams/Craftspeople\|Craftspeople]] | 3 Goods, 2 Influence, 4 Labor (200 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Crypt\|Crypt]] | 5 Goods, 3 Influence, 5 Labor, 2 Magic (490 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/teams/Cutpurses\|Cutpurses]] | 3 Influence, 1 Labor (110 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Defensive Wall\|Defensive Wall]] | 5 Goods, 2 Influence, 5 Labor (260 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Dock\|Dock]] | 7 Goods, 2 Influence, 6 Labor (320 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Dojo\|Dojo]] | 7 Goods, 1 Influence, 7 Labor (310 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Drawbridge\|Drawbridge]] | 8 Goods, 2 Influence, 5 Labor (320 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/teams/Driver (Downtime)\|Driver]] | 2 Goods, 1 Influence, 1 Labor (90 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/teams/Elite Archers\|Elite Archers]] | 5 Goods, 4 Influence, 8 Labor (380 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/teams/Elite Guards\|Elite Guards]] | 3 Goods, 1 Influence, 4 Labor (170 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/teams/Elite Soldiers\|Elite Soldiers]] | 5 Goods, 3 Influence, 7 Labor (330 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Escape Route (Downtime)\|Escape Route]] | 9 Goods, 9 Labor (360 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/False Front\|False Front]] | 4 Goods, 1 Influence, 4 Labor (190 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Farmland\|Farmland]] | 15 Goods, 15 Labor (600 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Forge\|Forge]] | 9 Goods, 1 Influence, 8 Labor (370 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Fortification (Downtime)\|Fortification]] | 8 Goods, 7 Labor (300 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Furnishings\|Furnishings]] | 9 Goods, 6 Labor (300 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Game Room\|Game Room]] | 8 Goods, 7 Labor (300 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Garden\|Garden]] | 5 Goods, 4 Labor (180 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Gatehouse\|Gatehouse]] | 15 Goods, 3 Influence, 12 Labor (630 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Gauntlet (Downtime)\|Gauntlet]] | 4 Goods, 4 Labor (160 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Greenhouse\|Greenhouse]] | 8 Goods, 7 Labor (300 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Guard Post\|Guard Post]] | 7 Goods, 2 Influence, 6 Labor (320 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/teams/Guards\|Guards]] | 2 Goods, 3 Labor (100 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Habitat\|Habitat]] | 18 Goods, 3 Influence, 17 Labor (790 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Hatchery\|Hatchery]] | 4 Goods, 1 Influence, 3 Labor (170 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Infirmary\|Infirmary]] | 6 Goods, 1 Influence, 6 Labor, 1 Magic (370 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Kitchen\|Kitchen]] | 4 Goods, 4 Labor (160 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/teams/Laborers\|Laborers]] | 1 Influence, 2 Labor (70 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Labyrinth\|Labyrinth]] | 15 Goods, 15 Labor (370 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/teams/Lackeys\|Lackeys]] | 1 Goods, 2 Influence, 2 Labor (120 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Laundry (Downtime)\|Laundry]] | 3 Goods, 3 Labor (120 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Lavatory\|Lavatory]] | 3 Goods, 3 Labor (120 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Leather Workshop\|Leather Workshop]] | 7 Goods, 1 Influence, 7 Labor (310 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Lodging\|Lodging]] | 10 Goods, 1 Influence, 10 Labor (430 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/teams/Mage\|Mage]] | 3 Goods, 2 Influence, 2 Labor, 8 Magic (960 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Magical Repository\|Magical Repository]] | 9 Goods, 3 Influence, 8 Labor, 3 Magic (730 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Mill Room\|Mill Room]] | 8 Goods, 7 Labor (300 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Nursery\|Nursery]] | 6 Goods, 1 Influence, 5 Labor (250 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Observation Dome\|Observation Dome]] | 8 Goods, 9 Labor, 1 Magic (440 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Office\|Office]] | 3 Goods, 3 Labor (120 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Pit\|Pit]] | 1 Goods, 1 Labor (40 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/teams/Priest (Downtime)\|Priest]] | 3 Goods, 3 Influence, 3 Labor, 6 Magic (810 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Printer\|Printer]] | 9 Goods, 2 Influence, 7 Labor (380 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Reliquary\|Reliquary]] | 4 Goods, 4 Labor, 1 Magic (260 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/teams/Robbers\|Robbers]] | 1 Goods, 4 Influence, 3 Labor (200 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/teams/Sage (Downtime)\|Sage]] | 5 Goods, 2 Influence, 2 Labor (200 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/teams/Sailors\|Sailors]] | 1 Goods, 1 Influence, 2 Labor (90 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Sanctum\|Sanctum]] | 2 Goods, 1 Influence, 1 Labor, 1 Magic (190 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Sauna\|Sauna]] | 3 Goods, 3 Labor (120 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/teams/Scofflaws\|Scofflaws]] | 3 Influence, 2 Labor (130 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Scriptorium\|Scriptorium]] | 7 Goods, 2 Influence, 6 Labor (320 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Scrying Room\|Scrying Room]] | 6 Goods, 1 Influence, 5 Labor, 3 Magic (550 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Secret Room\|Secret Room]] | 5 Goods, 6 Labor (220 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Sewer Access\|Sewer Access]] | 2 Goods, 1 Influence, 2 Labor (110 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Sewing Room\|Sewing Room]] | 8 Goods, 7 Labor (300 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Shack\|Shack]] | 3 Goods, 2 Labor (100 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Sitting Room\|Sitting Room]] | 12 Goods, 12 Labor (480 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/teams/Soldiers\|Soldiers]] | 3 Goods, 2 Influence, 5 Labor (220 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Sports Field\|Sports Field]] | 17 Goods, 3 Influence, 18 Labor (790 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Stall\|Stall]] | 6 Goods, 1 Influence, 5 Labor (250 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Statue (Downtime)\|Statue]] | 1 Goods, 2 Labor (60 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Storage\|Storage]] | 3 Goods, 3 Labor (120 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Storefront\|Storefront]] | 5 Goods, 1 Influence, 3 Labor (190 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Summoning Chamber\|Summoning Chamber]] | 11 Goods, 4 Influence, 10 Labor, 5 Magic (1,040 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Throne Room\|Throne Room]] | 25 Goods, 5 Influence, 25 Labor, 5 Magic (1,650 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Tollbooth\|Tollbooth]] | 2 Goods, 1 Influence, 2 Labor (110 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Torture Chamber\|Torture Chamber]] | 7 Goods, 3 Influence, 5 Labor (330 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Trap\|Trap]] | Special |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Trophy Room\|Trophy Room]] | 6 Goods, 1 Influence, 5 Labor (250 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Vault (Downtime)\|Vault]] | 8 Goods, 7 Labor (300 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/War Room\|War Room]] | 8 Goods, 7 Labor (300 gp) |
-| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Workstation\|Workstation]] | 8 Goods, 7 Labor (300 gp) |
+| Room/Team                                                                                | Create                                              |
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Acolyte (Downtime)\|Acolyte]]             | 2 Goods, 2 Influence, 2 Labor, 3 Magic (440 gp)     |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Alchemy Lab\|Alchemy Lab]]                | 8 Goods, 1 Influence, 5 Labor, 1 Magic (390 gp)     |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Altar\|Altar]]                            | 2 Goods, 1 Influence, 2 Labor, 1 Magic (210 gp)     |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Animal Pen\|Animal Pen]]                  | 6 Goods, 1 Influence, 5 Labor (250 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Apprentice\|Apprentice]]                  | 2 Goods, 2 Influence, 1 Labor, 4 Magic (520 gp)     |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Archers\|Archers]]                        | 4 Goods, 3 Influence, 7 Labor (310 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Armory\|Armory]]                          | 9 Goods, 3 Influence, 6 Labor (390 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Artisan's Workshop\|Artisan's Workshop]]  | 9 Goods, 9 Labor (360 gp)                           |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Auditorium\|Auditorium]]                  | 19 Goods, 1 Influence, 25 Labor (910 gp)            |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Ballroom\|Ballroom]]                      | 19 Goods, 19 Labor (760 gp)                         |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Bar\|Bar]]                                | 6 Goods, 1 Influence, 5 Labor (250 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Bath (Downtime)\|Bath]]                   | 3 Goods, 1 Influence, 2 Labor (130 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Battle Ring\|Battle Ring]]                | 18 Goods, 4 Influence, 16 Labor (800 gp)            |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Bedroom\|Bedroom]]                        | 8 Goods, 7 Labor (300 gp)                           |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Bell Tower\|Bell Tower]]                  | 11 Goods, 3 Influence, 7 Labor (450 gp)             |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Book Repository\|Book Repository]]        | 8 Goods, 2 Influence, 7 Labor, 1 Magic (460 gp)     |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Brewery (Downtime)\|Brewery]]             | 9 Goods, 2 Influence, 7 Labor (380 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Bunks\|Bunks]]                            | 7 Goods, 4 Influence, 7 Labor (400 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Bureaucrats\|Bureaucrats]]                | 2 Goods, 4 Influence, 2 Labor (200 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Burial Ground\|Burial Ground]]            | 4 Goods, 3 Influence, 4 Labor, 1 Magic (350 gp)     |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Cavalry (Downtime)\|Cavalry]]             | 8 Goods, 3 Influence, 8 Labor (410 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Cavalry Archers\|Cavalry Archers]]        | 9 Goods, 3 Influence, 10 Labor (470 gp)             |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Cell\|Cell]]                              | 5 Goods, 4 Labor (180 gp)                           |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Ceremonial Room\|Ceremonial Room]]        | 16 Goods, 2 Influence, 15 Labor, 5 Magic (1,180 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Classroom\|Classroom]]                    | 6 Goods, 1 Influence, 5 Labor (250 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Clockwork Shop\|Clockwork Shop]]          | 9 Goods, 9 Labor (360 gp)                           |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Common Room\|Common Room]]                | 7 Goods, 8 Labor (300 gp)                           |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Confessional\|Confessional]]              | 2 Goods, 3 Labor (100 gp)                           |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Courtyard\|Courtyard]]                    | 4 Goods, 5 Labor (180 gp)                           |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Craftspeople\|Craftspeople]]              | 3 Goods, 2 Influence, 4 Labor (200 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Crypt\|Crypt]]                            | 5 Goods, 3 Influence, 5 Labor, 2 Magic (490 gp)     |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Cutpurses\|Cutpurses]]                    | 3 Influence, 1 Labor (110 gp)                       |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Defensive Wall\|Defensive Wall]]          | 5 Goods, 2 Influence, 5 Labor (260 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Dock\|Dock]]                              | 7 Goods, 2 Influence, 6 Labor (320 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Dojo\|Dojo]]                              | 7 Goods, 1 Influence, 7 Labor (310 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Drawbridge\|Drawbridge]]                  | 8 Goods, 2 Influence, 5 Labor (320 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Driver (Downtime)\|Driver]]               | 2 Goods, 1 Influence, 1 Labor (90 gp)               |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Elite Archers\|Elite Archers]]            | 5 Goods, 4 Influence, 8 Labor (380 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Elite Guards\|Elite Guards]]              | 3 Goods, 1 Influence, 4 Labor (170 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Elite Soldiers\|Elite Soldiers]]          | 5 Goods, 3 Influence, 7 Labor (330 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Escape Route (Downtime)\|Escape Route]]   | 9 Goods, 9 Labor (360 gp)                           |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/False Front\|False Front]]                | 4 Goods, 1 Influence, 4 Labor (190 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Farmland\|Farmland]]                      | 15 Goods, 15 Labor (600 gp)                         |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Forge\|Forge]]                            | 9 Goods, 1 Influence, 8 Labor (370 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Fortification (Downtime)\|Fortification]] | 8 Goods, 7 Labor (300 gp)                           |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Furnishings\|Furnishings]]                | 9 Goods, 6 Labor (300 gp)                           |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Game Room\|Game Room]]                    | 8 Goods, 7 Labor (300 gp)                           |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Garden\|Garden]]                          | 5 Goods, 4 Labor (180 gp)                           |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Gatehouse\|Gatehouse]]                    | 15 Goods, 3 Influence, 12 Labor (630 gp)            |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Gauntlet (Downtime)\|Gauntlet]]           | 4 Goods, 4 Labor (160 gp)                           |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Greenhouse\|Greenhouse]]                  | 8 Goods, 7 Labor (300 gp)                           |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Guard Post\|Guard Post]]                  | 7 Goods, 2 Influence, 6 Labor (320 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Guards\|Guards]]                          | 2 Goods, 3 Labor (100 gp)                           |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Habitat\|Habitat]]                        | 18 Goods, 3 Influence, 17 Labor (790 gp)            |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Hatchery\|Hatchery]]                      | 4 Goods, 1 Influence, 3 Labor (170 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Infirmary\|Infirmary]]                    | 6 Goods, 1 Influence, 6 Labor, 1 Magic (370 gp)     |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Kitchen\|Kitchen]]                        | 4 Goods, 4 Labor (160 gp)                           |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Laborers\|Laborers]]                      | 1 Influence, 2 Labor (70 gp)                        |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Labyrinth\|Labyrinth]]                    | 15 Goods, 15 Labor (370 gp)                         |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Lackeys\|Lackeys]]                        | 1 Goods, 2 Influence, 2 Labor (120 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Laundry (Downtime)\|Laundry]]             | 3 Goods, 3 Labor (120 gp)                           |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Lavatory\|Lavatory]]                      | 3 Goods, 3 Labor (120 gp)                           |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Leather Workshop\|Leather Workshop]]      | 7 Goods, 1 Influence, 7 Labor (310 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Lodging\|Lodging]]                        | 10 Goods, 1 Influence, 10 Labor (430 gp)            |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Mage\|Mage]]                              | 3 Goods, 2 Influence, 2 Labor, 8 Magic (960 gp)     |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Magical Repository\|Magical Repository]]  | 9 Goods, 3 Influence, 8 Labor, 3 Magic (730 gp)     |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Mill Room\|Mill Room]]                    | 8 Goods, 7 Labor (300 gp)                           |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Nursery\|Nursery]]                        | 6 Goods, 1 Influence, 5 Labor (250 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Observation Dome\|Observation Dome]]      | 8 Goods, 9 Labor, 1 Magic (440 gp)                  |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Office\|Office]]                          | 3 Goods, 3 Labor (120 gp)                           |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Pit\|Pit]]                                | 1 Goods, 1 Labor (40 gp)                            |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Priest (Downtime)\|Priest]]               | 3 Goods, 3 Influence, 3 Labor, 6 Magic (810 gp)     |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Printer\|Printer]]                        | 9 Goods, 2 Influence, 7 Labor (380 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Reliquary\|Reliquary]]                    | 4 Goods, 4 Labor, 1 Magic (260 gp)                  |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Robbers\|Robbers]]                        | 1 Goods, 4 Influence, 3 Labor (200 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Sage (Downtime)\|Sage]]                   | 5 Goods, 2 Influence, 2 Labor (200 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Sailors\|Sailors]]                        | 1 Goods, 1 Influence, 2 Labor (90 gp)               |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Sanctum\|Sanctum]]                        | 2 Goods, 1 Influence, 1 Labor, 1 Magic (190 gp)     |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Sauna\|Sauna]]                            | 3 Goods, 3 Labor (120 gp)                           |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Scofflaws\|Scofflaws]]                    | 3 Influence, 2 Labor (130 gp)                       |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Scriptorium\|Scriptorium]]                | 7 Goods, 2 Influence, 6 Labor (320 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Scrying Room\|Scrying Room]]              | 6 Goods, 1 Influence, 5 Labor, 3 Magic (550 gp)     |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Secret Room\|Secret Room]]                | 5 Goods, 6 Labor (220 gp)                           |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Sewer Access\|Sewer Access]]              | 2 Goods, 1 Influence, 2 Labor (110 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Sewing Room\|Sewing Room]]                | 8 Goods, 7 Labor (300 gp)                           |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Shack\|Shack]]                            | 3 Goods, 2 Labor (100 gp)                           |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Sitting Room\|Sitting Room]]              | 12 Goods, 12 Labor (480 gp)                         |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Soldiers\|Soldiers]]                      | 3 Goods, 2 Influence, 5 Labor (220 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Sports Field\|Sports Field]]              | 17 Goods, 3 Influence, 18 Labor (790 gp)            |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Stall\|Stall]]                            | 6 Goods, 1 Influence, 5 Labor (250 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Statue (Downtime)\|Statue]]               | 1 Goods, 2 Labor (60 gp)                            |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Storage\|Storage]]                        | 3 Goods, 3 Labor (120 gp)                           |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Storefront\|Storefront]]                  | 5 Goods, 1 Influence, 3 Labor (190 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Summoning Chamber\|Summoning Chamber]]    | 11 Goods, 4 Influence, 10 Labor, 5 Magic (1,040 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Throne Room\|Throne Room]]                | 25 Goods, 5 Influence, 25 Labor, 5 Magic (1,650 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Tollbooth\|Tollbooth]]                    | 2 Goods, 1 Influence, 2 Labor (110 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Torture Chamber\|Torture Chamber]]        | 7 Goods, 3 Influence, 5 Labor (330 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Trap\|Trap]]                              | Special                                             |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Trophy Room\|Trophy Room]]                | 6 Goods, 1 Influence, 5 Labor (250 gp)              |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Vault (Downtime)\|Vault]]                 | 8 Goods, 7 Labor (300 gp)                           |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/War Room\|War Room]]                      | 8 Goods, 7 Labor (300 gp)                           |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Workstation\|Workstation]]                | 8 Goods, 7 Labor (300 gp)                           |

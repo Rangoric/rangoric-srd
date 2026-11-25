@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Speak with Master
 
-*A [[rangoric-srd/class-options/animal-companions/Animal Companions#^companion-features|companion feature]] of a familiar’s master (a [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|wizard]], [[rangoric-srd/classes/Sorcerer#^sorcerer-familiar|sorcerer]], [[rangoric-srd/classes/Witch|witch]] or [[rangoric-srd/classes/Arcanist|arcanist]]).*
+_A [[rangoric-srd/class-options/animal-companions/Animal Companions#^companion-features|companion feature]] of a familiar’s master (a [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|wizard]], [[rangoric-srd/classes/Sorcerer#^sorcerer-familiar|sorcerer]], [[rangoric-srd/classes/Witch|witch]] or [[rangoric-srd/classes/Arcanist|arcanist]])._
 
 ![[rangoric-srd/classes/Wizard#^familiar-speak-with-master]]

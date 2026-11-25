@@ -28,10 +28,10 @@ Followers of the Aspect of the Fire see their facet of Nature as the giver and t
 
 How these effects work is in [[rangoric-srd/races/aspects-of-nature/Aspects of Nature#Aspect of Nature Effects|Aspect of Nature Effects]].
 
-| Facet | Bonus | Penalty |
-| --- | --- | --- |
-| Ash | practiced spell (fire) | amateur spell (cold) |
-| The Blaze | +1 to Damage rolls 3x/day | -1 to AC 3x/day |
-| The Firestorm | +1 to Attack rolls 3x/day | -1 to AC 3x/day |
-| The Flashfire | capable spellcasting (fire) | crude spellcasting (cold) |
-| Sparking Embers | spell resistant (fire) | spell vulnerable (cold) |
+| Facet           | Bonus                       | Penalty                   |
+| --------------- | --------------------------- | ------------------------- |
+| Ash             | practiced spell (fire)      | amateur spell (cold)      |
+| The Blaze       | +1 to Damage rolls 3x/day   | -1 to AC 3x/day           |
+| The Firestorm   | +1 to Attack rolls 3x/day   | -1 to AC 3x/day           |
+| The Flashfire   | capable spellcasting (fire) | crude spellcasting (cold) |
+| Sparking Embers | spell resistant (fire)      | spell vulnerable (cold)   |

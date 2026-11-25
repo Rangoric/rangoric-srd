@@ -39,32 +39,32 @@ tags: [rangoric, rangoric/monster]
 
 # Unicorn
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 4d10+12 (34 hp)
-  - **Initiative**: +3
-  - **Speed**: 60 ft. (12 squares)
-  - **Armor Class**: 15 (+3 Dex, +3 natural, –1 size; +2 deflection vs. evil), touch 12, flat-footed 12
-  - **Base Attack**: +4; **CMB**: +9; **CMD**: 22 (26 vs. trip)
-  - **Attack**: Gore +8 melee (1d8+4) or hoof +10 melee (1d3+2)
-  - **Full Attack**: Gore +8 melee (1d8+4) and 2 hooves +5 melee (1d3+2)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (gore, 2d8+8), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]], magical strike, wild empathy +17, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to charm, compulsion and poison
-  - **Saves**: Fort +7, Ref +7, Will +6
-  - **Abilities**: Str 18, Dex 17, Con 16, Int 11, Wis 21, Cha 24
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7 (+10 in forests), [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +8
-  - **Feats**: [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (horn)
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary, mated pair, or blessing (3–6)
-  - **Challenge Rating**: 3
-  - **Treasure**: None
-  - **Alignment**: Always chaotic good
-  - **Advancement**: 5-8 HD (Large)
-  - **Level Adjustment**: +4 (cohort)
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 4d10+12 (34 hp)
+- **Initiative**: +3
+- **Speed**: 60 ft. (12 squares)
+- **Armor Class**: 15 (+3 Dex, +3 natural, –1 size; +2 deflection vs. evil), touch 12, flat-footed 12
+- **Base Attack**: +4; **CMB**: +9; **CMD**: 22 (26 vs. trip)
+- **Attack**: Gore +8 melee (1d8+4) or hoof +10 melee (1d3+2)
+- **Full Attack**: Gore +8 melee (1d8+4) and 2 hooves +5 melee (1d3+2)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (gore, 2d8+8), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]], magical strike, wild empathy +17, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to charm, compulsion and poison
+- **Saves**: Fort +7, Ref +7, Will +6
+- **Abilities**: Str 18, Dex 17, Con 16, Int 11, Wis 21, Cha 24
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7 (+10 in forests), [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +8
+- **Feats**: [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (horn)
+- **Environment**: Temperate forests
+- **Organization**: Solitary, mated pair, or blessing (3–6)
+- **Challenge Rating**: 3
+- **Treasure**: None
+- **Alignment**: Always chaotic good
+- **Advancement**: 5-8 HD (Large)
+- **Level Adjustment**: +4 (cohort)
 
 **Also in this entry:**
 
-  - [[rangoric-srd/monsters/unicorn/Celestial Charger, 7th-Level Cleric|Celestial Charger, 7th-Level Cleric]]
+- [[rangoric-srd/monsters/unicorn/Celestial Charger, 7th-Level Cleric|Celestial Charger, 7th-Level Cleric]]
 
 Unicorns are fierce, intelligent creatures of the forest, noble beasts who keep their own counsel and typically appear only to defend their homes against evil. They universally shun all creatures except for good-aligned fey, good-aligned humanoid women, and the woodlands' native animals, though they may fight alongside other good creatures against common enemies. A typical unicorn is 8 feet long and 5 feet tall at the shoulder, weighing 1,200 pounds.
 
@@ -82,7 +82,7 @@ Unicorns speak Sylvan and Common.
 
 Unicorns normally attack only when defending themselves or their forests. They either [[rangoric-srd/combat/Combat Special Attacks#Charge|charge]], impaling foes with their horns like lances, or strike with their hooves. The horn is a +3 magic weapon, though its power fades if removed from the unicorn.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th): At will—*[[rangoric-srd/spells/Detect Evil|detect evil]]* (as free action), *[[rangoric-srd/spells/Light|light]]*; 3/day—*[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]*; 1/day—*[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]]* (within its forest territory), *[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]* (DC 21).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th): At will—_[[rangoric-srd/spells/Detect Evil|detect evil]]_ (as free action), _[[rangoric-srd/spells/Light|light]]_; 3/day—_[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_; 1/day—_[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (within its forest territory), _[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]_ (DC 21).
 
 **Magic Circle against Evil (Su)**: This ability continually duplicates the effect of the spell. The unicorn cannot suppress this ability.
 
@@ -102,7 +102,7 @@ A celestial charger’s natural weapons are treated as magic weapons for the pur
 
 **Smite Evil (Su):** Once per day a celestial charger can make a normal melee attack to deal 15 points of extra damage against an evil foe.
 
-*[[rangoric-srd/spells/Cleric Spell List|Cleric Spells]] Prepared (6/7/6/5/4; save DC 18 + spell level):*
+_[[rangoric-srd/spells/Cleric Spell List|Cleric Spells]] Prepared (6/7/6/5/4; save DC 18 + spell level):_
 
 [[rangoric-srd/spells/Cleric Spell List#0-Level Cleric Spells (Orisons)|0]] — [[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Detect Poison|detect poison]] (2), [[rangoric-srd/spells/Light|light]], [[rangoric-srd/spells/Virtue|virtue]] (2);
 

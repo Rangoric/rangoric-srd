@@ -39,27 +39,27 @@ tags: [rangoric, rangoric/monster]
 
 # Shark Mount
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]] (Aquatic)
-  - **Hit Dice**: 9d8+45 (85 hp)
-  - **Initiative**: +2
-  - **Speed**: swim 60 ft.
-  - **Armor Class**: 26 (+4 armor, +2 Dex, +1 dodge, +10 natural, –1 size), touch 12, flat-footed 23
-  - **Base Attack**: +6; **CMB**: +13; **CMD**: 26
-  - **Attack**: Bite +11 melee (2d6+9)
-  - **Full Attack**: Bite +11/+6 melee (2d6+9)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/class-options/companion-features/Devotion (Companion Feature)|devotion]], [[rangoric-srd/class-options/companion-features/Evasion (Companion Feature)|evasion]], [[rangoric-srd/class-options/companion-features/Link (Companion Feature)|link]]
-  - **Saves**: Fort +10, Ref +10, Will +6
-  - **Abilities**: Str 22, Dex 14, Con 19, Int 3, Wis 12, Cha 2
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Perception|Perception]] +12
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]] (bite), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: —
-  - **Organization**: —
-  - **Challenge Rating**: —
-  - **Treasure**: —
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]] (Aquatic)
+- **Hit Dice**: 9d8+45 (85 hp)
+- **Initiative**: +2
+- **Speed**: swim 60 ft.
+- **Armor Class**: 26 (+4 armor, +2 Dex, +1 dodge, +10 natural, –1 size), touch 12, flat-footed 23
+- **Base Attack**: +6; **CMB**: +13; **CMD**: 26
+- **Attack**: Bite +11 melee (2d6+9)
+- **Full Attack**: Bite +11/+6 melee (2d6+9)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/class-options/companion-features/Devotion (Companion Feature)|devotion]], [[rangoric-srd/class-options/companion-features/Evasion (Companion Feature)|evasion]], [[rangoric-srd/class-options/companion-features/Link (Companion Feature)|link]]
+- **Saves**: Fort +10, Ref +10, Will +6
+- **Abilities**: Str 22, Dex 14, Con 19, Int 3, Wis 12, Cha 2
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Perception|Perception]] +12
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]] (bite), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: —
+- **Organization**: —
+- **Challenge Rating**: —
+- **Treasure**: —
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Shark mounts understand Aquan but can't speak.

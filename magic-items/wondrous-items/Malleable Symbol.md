@@ -29,4 +29,4 @@ This undistinguished metal lump has no powers in its default state. By concentra
 
 The symbol reverts to its nondescript lump form after being away from its bearer for 24 hours.
 
-Moderate conjuration; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Cure Light Wounds, Mass|mass cure light wounds]]*, creator must be able to [[rangoric-srd/combat/Combat Special Attacks#Channel Energy|channel energy]]; Price 10,000 gp; Cost 5,000 gp; Weight 1 lb.
+Moderate conjuration; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Cure Light Wounds, Mass|mass cure light wounds]]_, creator must be able to [[rangoric-srd/combat/Combat Special Attacks#Channel Energy|channel energy]]; Price 10,000 gp; Cost 5,000 gp; Weight 1 lb.

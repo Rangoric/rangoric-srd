@@ -17,7 +17,7 @@ The spiritual power of art and song runs strongly through your family line. This
 
 **Class Skill**: [[rangoric-srd/skills/Performance|Performance]].
 
-**Bonus Spells**: *[[rangoric-srd/spells/Ventriloquism|ventriloquism]]* (3rd), *[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]* (5th), *[[rangoric-srd/spells/Suggestion|suggestion]]* (7th), *[[rangoric-srd/spells/Shout|shout]]* (9th), *[[rangoric-srd/spells/Dominate Person|dominate person]]* (11th), *mass suggestion* (13th), *[[rangoric-srd/spells/Power Word Blind|power word blind]]* (15th), *greater shout* (17th), *[[rangoric-srd/spells/Wail of the Banshee|wail of the banshee]]* (19th).
+**Bonus Spells**: _[[rangoric-srd/spells/Ventriloquism|ventriloquism]]_ (3rd), _[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]_ (5th), _[[rangoric-srd/spells/Suggestion|suggestion]]_ (7th), _[[rangoric-srd/spells/Shout|shout]]_ (9th), _[[rangoric-srd/spells/Dominate Person|dominate person]]_ (11th), _mass suggestion_ (13th), _[[rangoric-srd/spells/Power Word Blind|power word blind]]_ (15th), _greater shout_ (17th), _[[rangoric-srd/spells/Wail of the Banshee|wail of the banshee]]_ (19th).
 
 **Bonus Feats**: [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (enchantment), [[rangoric-srd/feats/Lingering Performance|Lingering Performance]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Imitation, Intimidation, Performance or Persuasion), [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment), Spellsong, [[rangoric-srd/feats/Still Spell|Still Spell]].
 
@@ -27,12 +27,12 @@ The spiritual power of art and song runs strongly through your family line. This
 
 You hear music whenever you cast spells, and can use the songs in your head to create magic effects.
 
-**Beguiling Voice (Ex)**: At 1st level, you can use the sound of your voice to lull a target creature into taking no action. This ability acts as the *[[rangoric-srd/spells/Daze|daze]]* spell, except it is language-dependent, has a duration of 1 round, and affects a living creature whose Hit Dice do not exceed your sorcerer level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+**Beguiling Voice (Ex)**: At 1st level, you can use the sound of your voice to lull a target creature into taking no action. This ability acts as the _[[rangoric-srd/spells/Daze|daze]]_ spell, except it is language-dependent, has a duration of 1 round, and affects a living creature whose Hit Dice do not exceed your sorcerer level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 **Fascinate (Ex)**: At 3rd level, you gain the ability to use a Perform skill to cause one or more creatures to become fascinated with you. This acts as the fascinate bardic perform ability, except the save DC is 10 + 1/2 your sorcerer level + your Charisma bonus, and it lasts 1 round/level. You may use this ability once per day at 3rd level, twice per day at 8th level, three times per day at 13th level, and four times per day at 18th level.
 
 **Perfect Voice (Su)**: At 9th level, you understand all efforts to communicate through sound, and can make yourself understood to any creature able to understand language. You can speak to, and understand the speech of, any creature that understands at least one spoken language. The save DCs of language-dependent spells you cast increase by +1.
 
-**Inspire (Sp)**: At 15th level, your artistic magic can inspire your allies to great accomplishments. You can use *greater heroism* as a spell-like ability. You can use this ability once per day at 15th level, twice per day at 17th level, and three times per day at 19th level.
+**Inspire (Sp)**: At 15th level, your artistic magic can inspire your allies to great accomplishments. You can use _greater heroism_ as a spell-like ability. You can use this ability once per day at 15th level, twice per day at 17th level, and three times per day at 19th level.
 
 **Grand Maestro (Su)**: At 20th level, the power of pure magic music flows through you. You cast any spell with a verbal component as if it had the Still Spell metamagic feat applied to it, with no increase to the casting time or spell slot required to cast it. You gain immunity to sonic damage and language-dependent spells.

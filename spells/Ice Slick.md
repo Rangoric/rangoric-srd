@@ -31,16 +31,16 @@ tags: [rangoric, rangoric/spell]
 
 # Ice Slick
 
-*Evocation \[Cold\]*
+_Evocation \[Cold\]_
 
-  - **Level**: Drd 2, Hun 2, Mag 2, Rgr 2, Sor/Wiz 2, Wit 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Area**: 5-ft.-radius burst
-  - **Duration**: Instantaneous (see text)
-  - **Saving Throw**: Reflex partial (see text)
-  - **Spell Resistance**: See text
+- **Level**: Drd 2, Hun 2, Mag 2, Rgr 2, Sor/Wiz 2, Wit 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Area**: 5-ft.-radius burst
+- **Duration**: Instantaneous (see text)
+- **Saving Throw**: Reflex partial (see text)
+- **Spell Resistance**: See text
 
 You create a blast of intense cold, coating all solid surfaces in the area with a thin coating of ice. Any creature in the area when the spell is cast takes 1d6 points of cold damage + 1 point per caster level (maximum +10) and falls prone; creatures that succeed at a Reflex save take half damage and don't fall prone. Spell resistance applies to this initial effect.
 

@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Body Fuel
 
-You can expand your power point total at the expense of your health.  
+You can expand your power point total at the expense of your health.
 
 Benefit: You can recover 2 power points by taking 1 point of ability burn damage to each of your three ability scores: Strength, Dexterity, and Constitution.
 

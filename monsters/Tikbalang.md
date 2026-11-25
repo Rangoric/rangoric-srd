@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Tikbalang
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
-  - **Hit Dice**: 12d10+48 (114 hp)
-  - **Initiative**: +3
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 22 (+3 Dex, +1 dodge, +9 natural, –1 size), touch 13, flat-footed 18
-  - **Base Attack**: +12; **CMB**: +20; **CMD**: 34
-  - **Attack**: Bite +18 melee (2d4+7/19–20) or hoof +18 melee (1d8+10) or spine +14 ranged (1d6+8)
-  - **Full Attack**: Bite +18 melee (2d4+7/19–20) and 2 hooves +13 melee (1d8+10); or 4 spines +14 ranged (1d6+8)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Spines|spines]], [[rangoric-srd/monsters/abilities/Trample|trample]] (1d8+10, DC 23), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (Small or Medium humanoid, alter self), powerful blows (hooves), [[rangoric-srd/monsters/abilities/Sound Mimicry|sound mimicry]] (sounds and voices)
-  - **Saves**: Fort +10, Ref +11, Will +11
-  - **Abilities**: Str 24, Dex 16, Con 19, Int 11, Wis 16, Cha 19
-  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +21, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12, [[rangoric-srd/skills/Imitation|Imitation]] +4, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +14
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
-  - **Environment**: Warm jungles or forests
-  - **Organization**: Solitary, pair, or gang (3–5)
-  - **Challenge Rating**: 9
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
+- **Hit Dice**: 12d10+48 (114 hp)
+- **Initiative**: +3
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 22 (+3 Dex, +1 dodge, +9 natural, –1 size), touch 13, flat-footed 18
+- **Base Attack**: +12; **CMB**: +20; **CMD**: 34
+- **Attack**: Bite +18 melee (2d4+7/19–20) or hoof +18 melee (1d8+10) or spine +14 ranged (1d6+8)
+- **Full Attack**: Bite +18 melee (2d4+7/19–20) and 2 hooves +13 melee (1d8+10); or 4 spines +14 ranged (1d6+8)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Spines|spines]], [[rangoric-srd/monsters/abilities/Trample|trample]] (1d8+10, DC 23), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (Small or Medium humanoid, alter self), powerful blows (hooves), [[rangoric-srd/monsters/abilities/Sound Mimicry|sound mimicry]] (sounds and voices)
+- **Saves**: Fort +10, Ref +11, Will +11
+- **Abilities**: Str 24, Dex 16, Con 19, Int 11, Wis 16, Cha 19
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +21, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12, [[rangoric-srd/skills/Imitation|Imitation]] +4, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +14
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
+- **Environment**: Warm jungles or forests
+- **Organization**: Solitary, pair, or gang (3–5)
+- **Challenge Rating**: 9
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Dangerous protectors of deep forests and lush jungles, tikbalangs are malicious creatures that enjoy leading travelers astray. Tikbalangs mimic sounds to lure explorers off their determined path, even separating a single traveler from his group and kidnapping him. They use their magical abilities to make the forest confusing to those passing through, often weaving illusions around a path to hide important turns or cloaking the entire jungle in an unfamiliar appearance.
 
@@ -71,6 +71,6 @@ Tikbalangs speak Common and Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +16): Constant—*[[rangoric-srd/spells/Spider Climb|spider climb]]*; At will—*[[rangoric-srd/spells/Ventriloquism|ventriloquism]]* (DC 15), *[[rangoric-srd/spells/Invisibility|invisibility]]*; 3/day—*[[rangoric-srd/spells/Major Image|major image]]* (DC 17); 1/day—*[[rangoric-srd/spells/Fly|fly]]* (self only), *[[rangoric-srd/spells/Mirage Arcana|mirage arcana]]* (DC 19); 1/week—*[[rangoric-srd/spells/Maze|maze]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +16): Constant—_[[rangoric-srd/spells/Spider Climb|spider climb]]_; At will—_[[rangoric-srd/spells/Ventriloquism|ventriloquism]]_ (DC 15), _[[rangoric-srd/spells/Invisibility|invisibility]]_; 3/day—_[[rangoric-srd/spells/Major Image|major image]]_ (DC 17); 1/day—_[[rangoric-srd/spells/Fly|fly]]_ (self only), _[[rangoric-srd/spells/Mirage Arcana|mirage arcana]]_ (DC 19); 1/week—_[[rangoric-srd/spells/Maze|maze]]_.
 
 **[[rangoric-srd/monsters/abilities/Spines|Spines]] (Ex)**: As a standard action, a tikbalang can launch four spines from its mane, each dealing 1d6 points of damage plus its Strength bonus. This attack has a range of 120 feet with no range increment. All targets must be within 30 feet of each other. A tikbalang can launch only 24 spines in any 24-hour period.

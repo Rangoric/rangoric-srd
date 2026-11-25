@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Sanctify Armor
 
-*Abjuration \[Good\]*
+_Abjuration \[Good\]_
 
-  - **Level**: Inq 4, Pal 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Armor touched
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: Will negates (harmless, object)
-  - **Spell Resistance**: Yes (harmless, object)
+- **Level**: Inq 4, Pal 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Armor touched
+- **Duration**: 1 minute/level
+- **Saving Throw**: Will negates (harmless, object)
+- **Spell Resistance**: Yes (harmless, object)
 
 You imbue your armor with a righteous aura. It gains a +1 enhancement bonus per four caster levels (maximum +5 at 20th level). When using your judgment or smite ability, you gain DR 5/evil.
 

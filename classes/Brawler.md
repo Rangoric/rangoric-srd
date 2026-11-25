@@ -43,28 +43,28 @@ The brawler’s class skills (and the key ability for each skill) are [[rangoric
 
 **Table: The Brawler** ^table-the-brawler
 
-| Level | Unarmed Damage | Special |
-| --- | --- | --- |
-| 1st | 1d6 | Brawler's cunning, martial flexibility, martial training, unarmed strike |
-| 2nd | 1d6 | Bonus combat feat, brawler's flurry (Two-Weapon Fighting) |
-| 3rd | 1d6 | Maneuver training 1 |
-| 4th | 1d8 | AC bonus +1, knockout 1/day |
-| 5th | 1d8 | Bonus combat feat, brawler's strike (magic), close weapon mastery |
-| 6th | 1d8 | Martial flexibility (swift action) |
-| 7th | 1d8 | Maneuver training 2 |
-| 8th | 1d10 | Bonus combat feat, brawler's flurry (Improved Two-Weapon Fighting) |
-| 9th | 1d10 | AC bonus +2, brawler's strike (cold iron and silver) |
-| 10th | 1d10 | Martial flexibility (free action), knockout 2/day |
-| 11th | 1d10 | Bonus combat feat, maneuver training 3 |
-| 12th | 2d6 | Brawler's strike (alignment), martial flexibility (immediate action) |
-| 13th | 2d6 | AC bonus +3 |
-| 14th | 2d6 | Bonus combat feat |
-| 15th | 2d6 | Brawler's flurry (Greater Two-Weapon Fighting), maneuver training 4 |
-| 16th | 2d8 | Awesome blow, knockout 3/day |
-| 17th | 2d8 | Bonus combat feat, brawler's strike (adamantine) |
-| 18th | 2d8 | AC bonus +4 |
-| 19th | 2d8 | Maneuver training 5 |
-| 20th | 2d10 | Bonus combat feat, improved awesome blow, martial flexibility (any number) |
+| Level | Unarmed Damage | Special                                                                    |
+| ----- | -------------- | -------------------------------------------------------------------------- |
+| 1st   | 1d6            | Brawler's cunning, martial flexibility, martial training, unarmed strike   |
+| 2nd   | 1d6            | Bonus combat feat, brawler's flurry (Two-Weapon Fighting)                  |
+| 3rd   | 1d6            | Maneuver training 1                                                        |
+| 4th   | 1d8            | AC bonus +1, knockout 1/day                                                |
+| 5th   | 1d8            | Bonus combat feat, brawler's strike (magic), close weapon mastery          |
+| 6th   | 1d8            | Martial flexibility (swift action)                                         |
+| 7th   | 1d8            | Maneuver training 2                                                        |
+| 8th   | 1d10           | Bonus combat feat, brawler's flurry (Improved Two-Weapon Fighting)         |
+| 9th   | 1d10           | AC bonus +2, brawler's strike (cold iron and silver)                       |
+| 10th  | 1d10           | Martial flexibility (free action), knockout 2/day                          |
+| 11th  | 1d10           | Bonus combat feat, maneuver training 3                                     |
+| 12th  | 2d6            | Brawler's strike (alignment), martial flexibility (immediate action)       |
+| 13th  | 2d6            | AC bonus +3                                                                |
+| 14th  | 2d6            | Bonus combat feat                                                          |
+| 15th  | 2d6            | Brawler's flurry (Greater Two-Weapon Fighting), maneuver training 4        |
+| 16th  | 2d8            | Awesome blow, knockout 3/day                                               |
+| 17th  | 2d8            | Bonus combat feat, brawler's strike (adamantine)                           |
+| 18th  | 2d8            | AC bonus +4                                                                |
+| 19th  | 2d8            | Maneuver training 5                                                        |
+| 20th  | 2d10           | Bonus combat feat, improved awesome blow, martial flexibility (any number) |
 
 ###### Class Features
 
@@ -88,7 +88,7 @@ At 12th level, a brawler can use this ability to gain the benefit of one combat 
 
 At 20th level, a brawler can use this ability to gain the benefit of any number of combat feats as a swift action. Each feat selected counts toward her daily uses of this ability.
 
-**Martial Training (Ex)**: At 1st level, a brawler counts her total brawler levels as both [[rangoric-srd/classes/Fighter|fighter]] levels and [[rangoric-srd/classes/Monk|monk]] levels for the purpose of qualifying for feats. She also counts as both a fighter and a monk for feats and magic items that have different effects based on whether the character has levels in those classes (such as [[rangoric-srd/feats/Stunning Fist|Stunning Fist]] and a *[[rangoric-srd/magic-items/wondrous-items/Monk’s Robe|monk’s robe]]*). This ability does not automatically grant feats normally granted to fighters and monks based on class level, namely Stunning Fist. ^brawler-martial-training
+**Martial Training (Ex)**: At 1st level, a brawler counts her total brawler levels as both [[rangoric-srd/classes/Fighter|fighter]] levels and [[rangoric-srd/classes/Monk|monk]] levels for the purpose of qualifying for feats. She also counts as both a fighter and a monk for feats and magic items that have different effects based on whether the character has levels in those classes (such as [[rangoric-srd/feats/Stunning Fist|Stunning Fist]] and a _[[rangoric-srd/magic-items/wondrous-items/Monk’s Robe|monk’s robe]]_). This ability does not automatically grant feats normally granted to fighters and monks based on class level, namely Stunning Fist. ^brawler-martial-training
 
 **Unarmed Strike**: At 1st level, a brawler gains [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]] as a bonus feat. A brawler may attack with fists, elbows, knees, and feet. This means that a brawler may make unarmed strikes with her hands full. A brawler applies her full Strength modifier (not half) on damage rolls for all her unarmed strikes. ^brawler-unarmed-strike
 
@@ -101,7 +101,7 @@ A brawler also deals more damage with her unarmed strikes than others, as shown 
 **Table: Small or Large Brawler Unarmed Damage** ^table-brawler-small-large-unarmed-damage
 
 | Level     | Damage (Small Brawler) | Damage (Large Brawler) |
-|-----------|------------------------|------------------------|
+| --------- | ---------------------- | ---------------------- |
 | 1st–3rd   | 1d4                    | 1d8                    |
 | 4th–7th   | 1d6                    | 2d6                    |
 | 8th–11th  | 1d8                    | 2d8                    |

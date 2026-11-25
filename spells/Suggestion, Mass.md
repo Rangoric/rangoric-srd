@@ -26,10 +26,10 @@ tags: [rangoric, rangoric/spell]
 
 # Suggestion, Mass
 
-*Enchantment (Compulsion) \[Language-Dependent, Mind-Affecting\]*
+_Enchantment (Compulsion) \[Language-Dependent, Mind-Affecting\]_
 
-  - **Level**: Brd 5, Mes 5, Occ 5, Psy 5, Skd 5, Sor/Wiz 6, Wit 6
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Targets**: One creature/level, no two of which can be more than 30 ft. apart
+- **Level**: Brd 5, Mes 5, Occ 5, Psy 5, Skd 5, Sor/Wiz 6, Wit 6
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Targets**: One creature/level, no two of which can be more than 30 ft. apart
 
 This spell functions like [[rangoric-srd/spells/Suggestion|suggestion]], except that it can affect more creatures. The same suggestion applies to all these creatures.

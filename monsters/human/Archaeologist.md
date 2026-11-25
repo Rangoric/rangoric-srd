@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Archaeologist
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 7d8+7 (38 hp)
-  - **Initiative**: +7
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 17 (+3 armor, +3 Dex, +1 shield), touch 13, flat-footed 14
-  - **Base Attack**: +5; **CMB**: +8 (+10 to trip); **CMD**: 17 (19 vs. trip)
-  - **Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +8 melee (1d6+3) or [[rangoric-srd/equipment/weapons/Whip|whip]] +8 melee (1d3–1 nonlethal) or [[rangoric-srd/equipment/weapons/Hand Crossbow|hand crossbow]] +8 ranged (1d4/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +8 melee (1d6+3); or [[rangoric-srd/equipment/weapons/Whip|whip]] +8 melee (1d3–1 nonlethal); or [[rangoric-srd/equipment/weapons/Hand Crossbow|hand crossbow]] +8 ranged (1d4/19–20)
-  - **Space/Reach**: 5 ft./5 ft. (15 ft. with whip)
-  - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +4d6 plus slow reactions, [[rangoric-srd/classes/Rogue#^rogue-debilitating-injury|debilitating injury]]
-  - **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-evasion|Evasion]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +2, [[rangoric-srd/classes/Rogue#^rogue-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Ledge Walker (Rogue Talent)|ledge walker]], [[rangoric-srd/class-options/rogue-talents/Slow Reactions (Rogue Talent)|slow reactions]], [[rangoric-srd/class-options/rogue-talents/Trap Spotter (Rogue Talent)|trap spotter]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +3, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (short sword), [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]] ([[rangoric-srd/skills/Engineering|Engineering]])
-  - **Saves**: Fort +3, Ref +8, Will +3
-  - **Abilities**: Str 8, Dex 16, Con 13, Int 16, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Appraise|Appraise]] +12, [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +10, [[rangoric-srd/skills/Emulation|Emulation]] +10, [[rangoric-srd/skills/Engineering|Engineering]] +15, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Linguistics|Linguistics]] +10, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Profession|Profession]] (architect) +10, [[rangoric-srd/skills/Profession|Profession]] (librarian) +10, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +7, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +10, [[rangoric-srd/skills/Theology|Theology]] +5
-  - **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Trip|Improved Trip]]
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 6
-  - **Treasure**: NPC gear (combat gear: scrolls of comprehend languages, detect secret doors, erase; other gear: masterwork studded leather, masterwork buckler, hand crossbow with 10 bolts, short sword, whip, hand of the mage, handy haversack, rope of climbing, unguent of timelessness, everburning torch)
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 7d8+7 (38 hp)
+- **Initiative**: +7
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 17 (+3 armor, +3 Dex, +1 shield), touch 13, flat-footed 14
+- **Base Attack**: +5; **CMB**: +8 (+10 to trip); **CMD**: 17 (19 vs. trip)
+- **Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +8 melee (1d6+3) or [[rangoric-srd/equipment/weapons/Whip|whip]] +8 melee (1d3–1 nonlethal) or [[rangoric-srd/equipment/weapons/Hand Crossbow|hand crossbow]] +8 ranged (1d4/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +8 melee (1d6+3); or [[rangoric-srd/equipment/weapons/Whip|whip]] +8 melee (1d3–1 nonlethal); or [[rangoric-srd/equipment/weapons/Hand Crossbow|hand crossbow]] +8 ranged (1d4/19–20)
+- **Space/Reach**: 5 ft./5 ft. (15 ft. with whip)
+- **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +4d6 plus slow reactions, [[rangoric-srd/classes/Rogue#^rogue-debilitating-injury|debilitating injury]]
+- **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-evasion|Evasion]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +2, [[rangoric-srd/classes/Rogue#^rogue-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Ledge Walker (Rogue Talent)|ledge walker]], [[rangoric-srd/class-options/rogue-talents/Slow Reactions (Rogue Talent)|slow reactions]], [[rangoric-srd/class-options/rogue-talents/Trap Spotter (Rogue Talent)|trap spotter]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +3, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (short sword), [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]] ([[rangoric-srd/skills/Engineering|Engineering]])
+- **Saves**: Fort +3, Ref +8, Will +3
+- **Abilities**: Str 8, Dex 16, Con 13, Int 16, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Appraise|Appraise]] +12, [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +10, [[rangoric-srd/skills/Emulation|Emulation]] +10, [[rangoric-srd/skills/Engineering|Engineering]] +15, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Linguistics|Linguistics]] +10, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Profession|Profession]] (architect) +10, [[rangoric-srd/skills/Profession|Profession]] (librarian) +10, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +7, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +10, [[rangoric-srd/skills/Theology|Theology]] +5
+- **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Trip|Improved Trip]]
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 6
+- **Treasure**: NPC gear (combat gear: scrolls of comprehend languages, detect secret doors, erase; other gear: masterwork studded leather, masterwork buckler, hand crossbow with 10 bolts, short sword, whip, hand of the mage, handy haversack, rope of climbing, unguent of timelessness, everburning torch)
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 An archaeologist is a [[rangoric-srd/monsters/human/Human|human]] with 7 levels of [[rangoric-srd/classes/Rogue|rogue]]. An archaeologist is a cunning scholar and explorer of ancient texts and ruins. She is knowledgeable in a wide range of fields, as quick with a quip or quotation as with a blade, bolt, or lash. An archaeologist might partner with a medium to placate the spirits of the dead disturbed in her explorations (CR 7), or supply a traveling merchant with exotic relics (CR 8).
 

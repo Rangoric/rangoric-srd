@@ -21,12 +21,12 @@ Though far from unique in function within the borders of FaerieLand, this mill i
 
 **Personalities:** The grist-miller; the sawyer
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* The Millhouse is a flurry of activity, a cacophony of noise, and the best place to find milled materials with which to build wooden structures.
+_Common:_ The Millhouse is a flurry of activity, a cacophony of noise, and the best place to find milled materials with which to build wooden structures.
 
-*Uncommon:* The sawyer welcomes visitors, and will often fulfill special orders without hesitation.
+_Uncommon:_ The sawyer welcomes visitors, and will often fulfill special orders without hesitation.
 
-*Rare:* With the assistance of the grist-miller, one can grind grain from the fields into a highly nutritious golden flour which, when baked into a loaf of bread, can sustain a mortal for one week. Convincing the miller to help is the challenge.
+_Rare:_ With the assistance of the grist-miller, one can grind grain from the fields into a highly nutritious golden flour which, when baked into a loaf of bread, can sustain a mortal for one week. Convincing the miller to help is the challenge.
 
-*Obscure:* -
+_Obscure:_ -

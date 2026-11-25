@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Evasive
 
-*A [[rangoric-srd/classes/Gunslinger#^gunslinger-deeds|gunslinger deed]] (Ex), 15th level.*
+_A [[rangoric-srd/classes/Gunslinger#^gunslinger-deeds|gunslinger deed]] (Ex), 15th level._
 
 At 15th level, when the gunslinger has at least 1 grit point, she gains the benefit of the [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/classes/Rogue#^rogue-uncanny-dodge|uncanny dodge]], and [[rangoric-srd/classes/Rogue#^rogue-improved-uncanny-dodge|improved uncanny dodge]] rogue class features. She uses her gunslinger level as her rogue level for improved uncanny dodge.

@@ -28,13 +28,13 @@ tags: [rangoric, rangoric/spell]
 
 # Extreme Flexibility
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 2, Blr 2, Mag 2, Med 2, Psy 2, Sor/Wiz 2, Wit 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 minute/level
+- **Level**: Alc 2, Blr 2, Mag 2, Med 2, Psy 2, Sor/Wiz 2, Wit 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 minute/level
 
 You gain a +1 dodge bonus to AC, a +4 circumstance bonus on Escape Artist checks and combat maneuver checks to grapple, and +4 circumstance bonus to your CMD against grapple attempts.

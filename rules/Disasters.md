@@ -41,7 +41,7 @@ When the world's crust ruptures and expels its molten heart, one of the most dra
 
 **Poisonous Gas**: One of the more insidious threats of a volcano is toxic gas, often escaping notice amid the fire and destruction. A wide variety of poisonous vapors can result from a volcanic eruption, some visible, some unseen. Poisonous gas causes 1d6 points of Constitution damage per round if inhaled (Fortitude DC 15 negates, the DC increases by 1 per previous save), and visible gases also function as heavy [[rangoric-srd/rules/Wilderness, Weather, and Environment#Smoke Effects|smoke]]. Poisonous gas clouds flow toward low ground, and are typically 50 feet high. Gale-force winds can divert gas clouds, as can high barriers—provided the gas has somewhere else to go.
 
-**Pyroclastic Flows**: Some volcanic eruptions create a devastating wave of burning ash, hot gases, and volcanic debris called a pyroclastic flow that can travel for miles. Treat a pyroclastic flow as an avalanche traveling at 500 feet per round, combined with the effects of poisonous gas listed above. Contact with the searing-hot debris of the flow causes 2d6 points of fire damage per round, while any creature buried in the flow suffers 10d6 points of damage per round. Only reality-warping magic like *[[rangoric-srd/spells/Miracle|miracle]]* or *[[rangoric-srd/spells/Wish|wish]]* can turn aside or impede a pyroclastic flow.
+**Pyroclastic Flows**: Some volcanic eruptions create a devastating wave of burning ash, hot gases, and volcanic debris called a pyroclastic flow that can travel for miles. Treat a pyroclastic flow as an avalanche traveling at 500 feet per round, combined with the effects of poisonous gas listed above. Contact with the searing-hot debris of the flow causes 2d6 points of fire damage per round, while any creature buried in the flow suffers 10d6 points of damage per round. Only reality-warping magic like _[[rangoric-srd/spells/Miracle|miracle]]_ or _[[rangoric-srd/spells/Wish|wish]]_ can turn aside or impede a pyroclastic flow.
 
 ## Undead Uprising
 
@@ -57,12 +57,12 @@ Undead uprisings occur in waves, with the timing varying according to the underl
 
 As the uprising gathers strength, the unquiet souls of bodies long since turned to dust awaken as well. Ghosts, shadows, wraiths, and even spectres arise to prey upon the living. A handful of the ghosts might be free from the malevolent influence of the uprising, and enterprising PCs may be able to glean valuable intelligence from these troubled spirits.
 
-The infusion of negative energy strengthens the undead within the area of the incursion, providing the benefits of a *[[rangoric-srd/spells/Desecrate|desecrate]]* spell. Areas that were once consecrated are now treated as normal ground, and may well provide new sources of corpses for the undead armies, but hallowed ground remains inviolate.
+The infusion of negative energy strengthens the undead within the area of the incursion, providing the benefits of a _[[rangoric-srd/spells/Desecrate|desecrate]]_ spell. Areas that were once consecrated are now treated as normal ground, and may well provide new sources of corpses for the undead armies, but hallowed ground remains inviolate.
 
 As the undead grow stronger, the growing flood of negative energy brings the [[rangoric-srd/rules/planes/Shadow Plane|Shadow Plane]] closer, leaving colors muted or gray except during the brightest hours of daylight. Even those undead most vulnerable to light can move about with impunity from late afternoon to mid-morning.
 
 ### Necropolis
 
-If the flow of negative energy is not reversed, darkness finally claims the area, cloaking it in perpetual shadow. The entire area of the undead uprising functions as if under the effects of an *[[rangoric-srd/spells/Unhallow|unhallow]]* spell (with no additional spell effect tied to it). Hallowed ground remains a rare sanctuary, but only until destroyed by the malevolent forces without.
+If the flow of negative energy is not reversed, darkness finally claims the area, cloaking it in perpetual shadow. The entire area of the undead uprising functions as if under the effects of an _[[rangoric-srd/spells/Unhallow|unhallow]]_ spell (with no additional spell effect tied to it). Hallowed ground remains a rare sanctuary, but only until destroyed by the malevolent forces without.
 
 Heroes who perished in the battle against the uprising return as fearsome undead generals. The few living survivors are enslaved as thralls. The area becomes a city of the dead, or construction begins if no such city existed or survived. Free-willed undead flock to this new sanctuary, and only the greatest of heroes can return this now-blighted area to the world of the living.

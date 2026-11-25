@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Feat
 
-*An [[rangoric-srd/classes/Rogue#^rogue-advanced-talents|advanced talent]] and a [[rangoric-srd/classes/Ninja#^ninja-master-tricks|master trick]].*
+_An [[rangoric-srd/classes/Rogue#^rogue-advanced-talents|advanced talent]] and a [[rangoric-srd/classes/Ninja#^ninja-master-tricks|master trick]]._
 
 A rogue or ninja may gain any feat that she qualifies for in place of a rogue talent or ninja trick.

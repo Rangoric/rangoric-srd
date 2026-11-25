@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Eternal Potion
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]].*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]]._
 
 If an alchemist drinks a potion that he extends, the effects of that potion become permanent until he chooses to make another potion effect permanent. An alchemist must be at least 16th level and must possess the [[rangoric-srd/class-options/discoveries/Extend Potion (Discovery)|extend potion]] discovery before selecting this discovery.

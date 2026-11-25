@@ -28,10 +28,10 @@ Adherents to the Aspect of the Spring are occasionally mistaken for immature or 
 
 How these effects work is in [[rangoric-srd/races/aspects-of-nature/Aspects of Nature#Aspect of Nature Effects|Aspect of Nature Effects]].
 
-| Facet | Bonus | Penalty |
-| --- | --- | --- |
+| Facet             | Bonus                                | Penalty                          |
+| ----------------- | ------------------------------------ | -------------------------------- |
 | Blooming Splendor | capable spellcasting (transmutation) | crude spellcasting (conjuration) |
-| Fertility | +1 to AC 3x/day | -1 to Attack rolls 3x/day |
-| Sown Earth | spell resistant (acid) | spell vulnerable (sonic) |
-| Spring’s Triumph | +1 to Fortitude saving throws | -1 to Reflex saving throws |
-| Vernal Showers | spell resistant (cold) | spell vulnerable (fire) |
+| Fertility         | +1 to AC 3x/day                      | -1 to Attack rolls 3x/day        |
+| Sown Earth        | spell resistant (acid)               | spell vulnerable (sonic)         |
+| Spring’s Triumph  | +1 to Fortitude saving throws        | -1 to Reflex saving throws       |
+| Vernal Showers    | spell resistant (cold)               | spell vulnerable (fire)          |

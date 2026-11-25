@@ -38,30 +38,30 @@ tags: [rangoric, rangoric/monster]
 
 # Moonflower
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
-  - **Hit Dice**: 11d8+55 (104 hp)
-  - **Initiative**: +4
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 21 (+13 natural, –2 size), touch 8, flat-footed 21
-  - **Base Attack**: +8; **CMB**: +19 (+23 grapple); **CMD**: 29 (can't be tripped)
-  - **Attack**: Bite +15 melee (2d6+9 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or tentacle +18 melee (1d8+4)
-  - **Full Attack**: Bite +15 melee (2d6+9 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 tentacles +13 melee (1d8+4)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Light Pulse|Light pulse]], [[rangoric-srd/monsters/abilities/Pod Prison|pod prison]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 1 mile, [[rangoric-srd/monsters/abilities/Pod Spawn|pod spawn]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, vulnerable to fire
-  - **Saves**: Fort +12, Ref +3, Will +4
-  - **Abilities**: Str 28, Dex 10, Con 21, Int 5, Wis 12, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +4 (+20 in thick vegetation)
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
-  - **Environment**: Any land
-  - **Organization**: Solitary or cluster (2–8)
-  - **Challenge Rating**: 8
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
+- **Hit Dice**: 11d8+55 (104 hp)
+- **Initiative**: +4
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 21 (+13 natural, –2 size), touch 8, flat-footed 21
+- **Base Attack**: +8; **CMB**: +19 (+23 grapple); **CMD**: 29 (can't be tripped)
+- **Attack**: Bite +15 melee (2d6+9 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or tentacle +18 melee (1d8+4)
+- **Full Attack**: Bite +15 melee (2d6+9 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 tentacles +13 melee (1d8+4)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Light Pulse|Light pulse]], [[rangoric-srd/monsters/abilities/Pod Prison|pod prison]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 1 mile, [[rangoric-srd/monsters/abilities/Pod Spawn|pod spawn]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, vulnerable to fire
+- **Saves**: Fort +12, Ref +3, Will +4
+- **Abilities**: Str 28, Dex 10, Con 21, Int 5, Wis 12, Cha 17
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +4 (+20 in thick vegetation)
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
+- **Environment**: Any land
+- **Organization**: Solitary or cluster (2–8)
+- **Challenge Rating**: 8
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
-A fully grown moonflower easily stands 20 feet tall, its massive trunk frequently 4 feet or more in diameter. The roots extend away from the base and into the soil, making the plant seem well anchored, but the roots themselves possess an agility that belies the great size of the plant and allows the moonflower to uproot itself and move with surprising speed. The tendrils of the plant are independently prehensile and writhe around the large flytrap-like *“*;head*”*; that crowns the stem.
+A fully grown moonflower easily stands 20 feet tall, its massive trunk frequently 4 feet or more in diameter. The roots extend away from the base and into the soil, making the plant seem well anchored, but the roots themselves possess an agility that belies the great size of the plant and allows the moonflower to uproot itself and move with surprising speed. The tendrils of the plant are independently prehensile and writhe around the large flytrap-like _“_;head*”*; that crowns the stem.
 
 Moonflowers have never been known to communicate with other creatures, even with [[rangoric-srd/classes/Druid|druids]] and others who regularly converse with plants. The plants do possess some manner of strange telepathy, though, and are in constant communication with their nearby brethren. Those who manage to intrude upon the creatures*'* alien thoughts face an assault of horrible visions of terrifying jungles filled with ancient, sentient, and malign plants.
 

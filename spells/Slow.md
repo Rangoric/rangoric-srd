@@ -34,19 +34,19 @@ tags: [rangoric, rangoric/spell]
 
 # Slow
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Blr 3, Brd 3, Mag 3, Med 2, Occ 3, Psy 3, Skd 3, Sor/Wiz 3, Spi 3, Sum 2, SumU 3
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Targets**: One creature/level, no two of which can be more than 30 ft. apart
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Blr 3, Brd 3, Mag 3, Med 2, Occ 3, Psy 3, Skd 3, Sor/Wiz 3, Spi 3, Sum 2, SumU 3
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Targets**: One creature/level, no two of which can be more than 30 ft. apart
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 An affected creature moves and attacks at a drastically slowed rate. A slowed creature can take only a single move action or standard action each turn, but not both (nor may it take full-round actions). Additionally, it takes a –1 penalty on attack rolls, AC, and Reflex saves. A slowed creature moves at half its normal speed (round down to the next 5-foot increment), which affects the creature’s jumping distance as normal for decreased speed.
 
 Multiple slow effects don’t stack. Slow counters and dispels haste.
 
-*Material Component*: A drop of molasses.
+_Material Component_: A drop of molasses.

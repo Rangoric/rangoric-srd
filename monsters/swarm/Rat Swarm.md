@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Rat Swarm
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]] (Swarm)
-  - **Hit Dice**: 3d8+3 (16 hp)
-  - **Initiative**: +6
-  - **Speed**: 15 ft. (3 squares), climb 15 ft., swim 15 ft.
-  - **Armor Class**: 14 (+2 Dex, +2 size), touch 14, flat-footed 12
-  - **Base Attack**: +2; **CMB**: —; **CMD**: —
-  - **Attack**: Swarm (1d6 plus [[rangoric-srd/monsters/abilities/Disease|disease]])
-  - **Full Attack**: Swarm (1d6 plus [[rangoric-srd/monsters/abilities/Disease|disease]])
-  - **Space/Reach**: 10 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Disease|Disease]], [[rangoric-srd/monsters/abilities/Distraction|distraction]] (DC 12)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]]
-  - **Saves**: Fort +4, Ref +5, Will +2
-  - **Abilities**: Str 2, Dex 15, Con 13, Int 2, Wis 13, Cha 2
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +14
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any
-  - **Organization**: Solitary, pack (2–5 swarms), or infestation (6–12 swarms)
-  - **Challenge Rating**: 2
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: None
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]] (Swarm)
+- **Hit Dice**: 3d8+3 (16 hp)
+- **Initiative**: +6
+- **Speed**: 15 ft. (3 squares), climb 15 ft., swim 15 ft.
+- **Armor Class**: 14 (+2 Dex, +2 size), touch 14, flat-footed 12
+- **Base Attack**: +2; **CMB**: —; **CMD**: —
+- **Attack**: Swarm (1d6 plus [[rangoric-srd/monsters/abilities/Disease|disease]])
+- **Full Attack**: Swarm (1d6 plus [[rangoric-srd/monsters/abilities/Disease|disease]])
+- **Space/Reach**: 10 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Disease|Disease]], [[rangoric-srd/monsters/abilities/Distraction|distraction]] (DC 12)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]]
+- **Saves**: Fort +4, Ref +5, Will +2
+- **Abilities**: Str 2, Dex 15, Con 13, Int 2, Wis 13, Cha 2
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +14
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any
+- **Organization**: Solitary, pack (2–5 swarms), or infestation (6–12 swarms)
+- **Challenge Rating**: 2
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: None
+- **Level Adjustment**: —
 
 A rat swarm typically consists of a biting, roiling mass of hundreds of disease-ridden rats driven to uncharacteristic heights of aggression by fantastic and overwhelming hunger. In such numbers, they become voracious hunters, capable of killing a full-grown human with hundreds of bites. Rat swarms are often found in the sewers of large human settlements.
 
@@ -70,4 +70,4 @@ Rat swarms surround and attack any warm-blooded prey in their path.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Filth Fever|Filth Fever]]: Swarm—injury; *save* Fort DC 12; *onset* 1d3 days; *frequency* 1/day; *effect* 1d3 Dex damage and 1d3 Con damage; *cure* 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Filth Fever|Filth Fever]]: Swarm—injury; _save_ Fort DC 12; _onset_ 1d3 days; _frequency_ 1/day; _effect_ 1d3 Dex damage and 1d3 Con damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.

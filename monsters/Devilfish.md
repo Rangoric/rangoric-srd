@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Devilfish
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Aquatic)
-  - **Hit Dice**: 5d10+15 (42 hp)
-  - **Initiative**: +3
-  - **Speed**: 10 ft. (2 squares), swim 40 ft.; jet (240 ft.)
-  - **Armor Class**: 17 (+3 Dex, +5 natural, –1 size), touch 12, flat-footed 14
-  - **Base Attack**: +5; **CMB**: +9 (+13 grapple); **CMD**: 22 (can't be tripped)
-  - **Attack**: Tentacle +7 melee (3d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Tentacles +7 melee (3d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 10 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Savage Bite (Devilfish)|Savage bite]] (+7 melee, 2d6+4/18-20 plus poison), [[rangoric-srd/monsters/abilities/Unholy Blood|unholy blood]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Water Dependency|water dependency]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10
-  - **Saves**: Fort +7, Ref +7, Will +2
-  - **Abilities**: Str 17, Dex 17, Con 16, Int 3, Wis 12, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +3
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Any aquatic
-  - **Organization**: Solitary
-  - **Challenge Rating**: 4
-  - **Treasure**: None
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Aquatic)
+- **Hit Dice**: 5d10+15 (42 hp)
+- **Initiative**: +3
+- **Speed**: 10 ft. (2 squares), swim 40 ft.; jet (240 ft.)
+- **Armor Class**: 17 (+3 Dex, +5 natural, –1 size), touch 12, flat-footed 14
+- **Base Attack**: +5; **CMB**: +9 (+13 grapple); **CMD**: 22 (can't be tripped)
+- **Attack**: Tentacle +7 melee (3d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Tentacles +7 melee (3d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 10 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Savage Bite (Devilfish)|Savage bite]] (+7 melee, 2d6+4/18-20 plus poison), [[rangoric-srd/monsters/abilities/Unholy Blood|unholy blood]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Water Dependency|water dependency]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10
+- **Saves**: Fort +7, Ref +7, Will +2
+- **Abilities**: Str 17, Dex 17, Con 16, Int 3, Wis 12, Cha 8
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +3
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Any aquatic
+- **Organization**: Solitary
+- **Challenge Rating**: 4
+- **Treasure**: None
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Although the devilfish superficially resembles a seven-armed octopus, it is an altogether different creature. Possessing a rudimentary intellect, a devilfish can understand and even speak a few words and phrases in various languages, although when it speaks, it has a tendency to mix languages together, making it somewhat difficult to understand for anyone who doesn't speak all the languages known by the devilfish.
 
@@ -70,7 +70,7 @@ A devilfish is 10 feet long and weighs 500 pounds.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Devilfish Venom|Devilfish Venom]]: Savage bite—injury; *save* Fort DC 15; *frequency* 1/round for 6 rounds; *effect* 1d2 Str; *cure* 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Devilfish Venom|Devilfish Venom]]: Savage bite—injury; _save_ Fort DC 15; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Str; _cure_ 2 consecutive saves.
 
 **[[rangoric-srd/monsters/abilities/Savage Bite (Devilfish)|Savage Bite]] (Ex)**: A devilfish can attack with its savage bite whenever it makes a successful grapple check. This attack is in place of any other action made with a successful grapple check. The bite threatens a critical hit on a roll of 18–20, and injects the target with poison as well.
 

@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Tonic of Topicalapse
 
-*Ingestible; Special*
+_Ingestible; Special_
 
 The Tonic of Topicalapse is an antidote that provides an immediate Fort. Save vs. the effects of any unguents or topical substances (including toxins and poisons). Thus, it can be used to forcibly negate the effects of ironskin powders or wildernessalves as well as negate external poisons.
 

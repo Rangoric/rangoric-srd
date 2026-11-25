@@ -29,7 +29,7 @@ Manifesting Time: 1 minute
 Range: Personal  
 Target: You  
 Duration: Instantaneous  
-Power Points: 1  
+Power Points: 1
 
 By meditating on a subject, you can recall natural memories and knowledge otherwise inaccessible to you.
 

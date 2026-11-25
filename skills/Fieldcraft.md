@@ -26,17 +26,17 @@ Fieldcraft covers living and working in the field: tracking, foraging and findin
 
 Fieldcraft does not allow you to follow difficult tracks unless you are a ranger or have the [[rangoric-srd/feats/Track|Track]] feat (see the Restriction section below).
 
-| Fieldcraft DC | Task                                                                                                                                                                                                                                                                              |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 10          | Get along in the wild. Move up to one-half your overland speed while hunting and foraging (no food or water supplies needed). You can provide food and water for one other person for every 2 points by which your check result exceeds 10.                                       |
-| 15          | Gain a +2 bonus on all Fortitude saves against severe weather while moving up to one-half your overland speed, or gain a +4 bonus if you remain stationary. You may grant the same bonus to one other character for every 1 point by which your Fieldcraft check result exceeds 15. |
-| 15          | Keep from getting lost or avoid natural hazards, such as quicksand.                                                                                                                                                                                                               |
-| 15          | Predict the weather up to 24 hours in advance. For every 5 points by which your Fieldcraft check result exceeds 15, you can predict the weather for one additional day in advance.                                                                                                  |
-| Varies      | Follow tracks (see the Track feat).                                                                                                                                                                                                                                               |
-| 40 | Get along in the wild while moving at full speed. The character can provide food and water for one other person for every 2 points by which the check result exceeds 40. |
-| 60 | Automatically succeed on all Fortitude saves against severe weather. The character can extend this benefit to one other character for every 2 points by which the check result exceeds 60. |
-| 60 | Ignore overland movement penalties of terrain. The character and his or her mount can move at full overland speed regardless of terrain. The character can extend this benefit to one other character for every 5 points by which the check result exceeds 60. |
-| 60 | Identify race/kind of creature(s) by tracks (requires the Track feat). |
+| Fieldcraft DC | Task                                                                                                                                                                                                                                                                                |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 10            | Get along in the wild. Move up to one-half your overland speed while hunting and foraging (no food or water supplies needed). You can provide food and water for one other person for every 2 points by which your check result exceeds 10.                                         |
+| 15            | Gain a +2 bonus on all Fortitude saves against severe weather while moving up to one-half your overland speed, or gain a +4 bonus if you remain stationary. You may grant the same bonus to one other character for every 1 point by which your Fieldcraft check result exceeds 15. |
+| 15            | Keep from getting lost or avoid natural hazards, such as quicksand.                                                                                                                                                                                                                 |
+| 15            | Predict the weather up to 24 hours in advance. For every 5 points by which your Fieldcraft check result exceeds 15, you can predict the weather for one additional day in advance.                                                                                                  |
+| Varies        | Follow tracks (see the Track feat).                                                                                                                                                                                                                                                 |
+| 40            | Get along in the wild while moving at full speed. The character can provide food and water for one other person for every 2 points by which the check result exceeds 40.                                                                                                            |
+| 60            | Automatically succeed on all Fortitude saves against severe weather. The character can extend this benefit to one other character for every 2 points by which the check result exceeds 60.                                                                                          |
+| 60            | Ignore overland movement penalties of terrain. The character and his or her mount can move at full overland speed regardless of terrain. The character can extend this benefit to one other character for every 5 points by which the check result exceeds 60.                      |
+| 60            | Identify race/kind of creature(s) by tracks (requires the Track feat).                                                                                                                                                                                                              |
 
 **Action**: Varies. A single Fieldcraft check may represent activity over the course of hours or a full day. A Fieldcraft check made to find tracks is at least a full-round action, and it may take even longer.
 
@@ -50,9 +50,9 @@ A [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|ranger]] gains a bonus on 
 
 ### Advanced Uses
 
-The character can ignore the effects of terrain on movement and withstand even the harshest weather. If the character is capable of tracking, he or she can identify the races of creatures being tracked.  
+The character can ignore the effects of terrain on movement and withstand even the harshest weather. If the character is capable of tracking, he or she can identify the races of creatures being tracked.
 
-Wherever the character is, he or she can determine the direction to a location on the same plane.  
+Wherever the character is, he or she can determine the direction to a location on the same plane.
 
 | Familiarity with Location | DC  |
 | ------------------------- | --- |
@@ -73,22 +73,22 @@ Fieldcraft can take any [[rangoric-srd/actions/First Aid|First Aid]] action: sta
 **Check**: Most tasks with a rope are relatively simple. The DCs for various tasks utilizing this skill are summarized on the table below.
 
 | Fieldcraft DC | Task                                                                             |
-| ----------- | -------------------------------------------------------------------------------- |
-| 10          | Tie a firm knot                                                                  |
-| 10 (1)      | Secure a grappling hook                                                          |
-| 15          | Tie a special knot, such as one that slips, slides slowly, or loosens with a tug |
-| 15          | Tie a rope around yourself one-handed                                            |
-| 15          | Splice two ropes together                                                        |
-| Varies      | Bind a character                                                                 |
-| 50 | Quick splicing |
-| 60 | Tie unique knot |
-| 80 | Animate held rope |
+| ------------- | -------------------------------------------------------------------------------- |
+| 10            | Tie a firm knot                                                                  |
+| 10 (1)        | Secure a grappling hook                                                          |
+| 15            | Tie a special knot, such as one that slips, slides slowly, or loosens with a tug |
+| 15            | Tie a rope around yourself one-handed                                            |
+| 15            | Splice two ropes together                                                        |
+| Varies        | Bind a character                                                                 |
+| 50            | Quick splicing                                                                   |
+| 60            | Tie unique knot                                                                  |
+| 80            | Animate held rope                                                                |
 
-1 *Add 2 to the DC for every 10 feet the hook is thrown; see below.*
+1 _Add 2 to the DC for every 10 feet the hook is thrown; see below._
 
-*Secure a Grappling Hook*: Securing a grappling hook requires a Fieldcraft check (DC 10, +2 for every 10 feet of distance the grappling hook is thrown, to a maximum DC of 20 at 50 feet). Failure by 4 or less indicates that the hook fails to catch and falls, allowing you to try again. Failure by 5 or more indicates that the grappling hook initially holds, but comes loose after 1d4 rounds of supporting weight. This check is made secretly, so that you don’t know whether the rope will hold your weight.
+_Secure a Grappling Hook_: Securing a grappling hook requires a Fieldcraft check (DC 10, +2 for every 10 feet of distance the grappling hook is thrown, to a maximum DC of 20 at 50 feet). Failure by 4 or less indicates that the hook fails to catch and falls, allowing you to try again. Failure by 5 or more indicates that the grappling hook initially holds, but comes loose after 1d4 rounds of supporting weight. This check is made secretly, so that you don’t know whether the rope will hold your weight.
 
-*Bind a Character*: When you bind another character with a rope, any Escape Artist check that the bound character makes is opposed by your Fieldcraft check. You get a +10 bonus on this check because it is easier to bind someone than to escape from bonds. You don’t even make your Fieldcraft check until someone tries to escape.
+_Bind a Character_: When you bind another character with a rope, any Escape Artist check that the bound character makes is opposed by your Fieldcraft check. You get a +10 bonus on this check because it is easier to bind someone than to escape from bonds. You don’t even make your Fieldcraft check until someone tries to escape.
 
 **Action**: Varies. Throwing a grappling hook is a standard action that provokes an attack of opportunity. Tying a knot, tying a special knot, or tying a rope around yourself one-handed is a full-round action that provokes an attack of opportunity. Splicing two ropes together takes 5 minutes. Binding a character takes 1 minute.
 
@@ -96,13 +96,13 @@ Fieldcraft can take any [[rangoric-srd/actions/First Aid|First Aid]] action: sta
 
 ### Advanced Uses
 
-The character can splice ropes together quickly, tie unique knots, and even animate a rope he or she holds.  
+The character can splice ropes together quickly, tie unique knots, and even animate a rope he or she holds.
 
-*Quick Splicing*: The character can splice two ropes together as a move-equivalent action.
+_Quick Splicing_: The character can splice two ropes together as a move-equivalent action.
 
-*Tie Unique Knot*: The character can tie a knot that only he or she knows how to untie. This doesn’t affect any Escape Artist checks made to escape these bindings.
+_Tie Unique Knot_: The character can tie a knot that only he or she knows how to untie. This doesn’t affect any Escape Artist checks made to escape these bindings.
 
-*Animate Held Rope*: The character can command any rope he or she holds as if it had the animate rope spell cast upon it (except that using the skill in this way doesn’t grant any bonus on Fieldcraft checks made with the animated rope). Each command requires a separate Fieldcraft check. Because the effect isn’t magical, it can’t be dispelled.  
+_Animate Held Rope_: The character can command any rope he or she holds as if it had the animate rope spell cast upon it (except that using the skill in this way doesn’t grant any bonus on Fieldcraft checks made with the animated rope). Each command requires a separate Fieldcraft check. Because the effect isn’t magical, it can’t be dispelled.
 
 ## Unlocks
 
@@ -112,7 +112,7 @@ You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill
 
 **5 Ranks**: You reduce all nonlethal damage you take from heat, cold, starvation, or thirst by 1 point for every 5 ranks you possess in Fieldcraft.
 
-**10 Ranks**: You can track creatures that leave no tracks, including flying and swimming creatures and creatures using trackless step or *pass without trace,* taking a –20 penalty on your Fieldcraft check.
+**10 Ranks**: You can track creatures that leave no tracks, including flying and swimming creatures and creatures using trackless step or _pass without trace,_ taking a –20 penalty on your Fieldcraft check.
 
 **15 Ranks**: Once per day, you can spend 1 hour and attempt a DC 30 Fieldcraft check. Success grants you cold resistance or fire resistance 5 for 24 hours. You can share this with one ally for every 5 by which you exceeded the check.
 
@@ -140,17 +140,17 @@ You channel mysterious forces in the nearby environment to locate hidden resourc
 
 **Check**: Once per day, you can follow a [[rangoric-srd/equipment/gear/Dowsing Rod|dowsing rod]]’s movements to locate a particular kind of place. Each attempt takes 10 minutes of intense concentration, after which you attempt a Fieldcraft check against the DC on the table below. The most distant thing you can detect by dowsing is 400 feet + 40 feet per rank you have in Fieldcraft. The rod’s directions last for up to 10 minutes. You choose one target each time you dowse, and on a successful check you learn the following.
 
-*Find Water*: The dowsing rod points toward the largest source of fresh water within range, including aquifers, lakes, ponds and springs.
+_Find Water_: The dowsing rod points toward the largest source of fresh water within range, including aquifers, lakes, ponds and springs.
 
-*Grave Dowsing*: The dowsing rod points toward the largest burial site, cairn or tomb within range.
+_Grave Dowsing_: The dowsing rod points toward the largest burial site, cairn or tomb within range.
 
-*Locate Metal and Gems*: You concentrate on a specific metal or mineral. On a successful check, the dowsing rod points to the largest quantity of it within range.
+_Locate Metal and Gems_: You concentrate on a specific metal or mineral. On a successful check, the dowsing rod points to the largest quantity of it within range.
 
-| Dowsing Target | DC |
-| --- | --- |
-| Water | 15 |
-| Grave | 20 |
-| Mineral | 25 |
+| Dowsing Target | DC  |
+| -------------- | --- |
+| Water          | 15  |
+| Grave          | 20  |
+| Mineral        | 25  |
 
 **Action**: Dowsing takes 10 minutes to begin. Its results last for 10 minutes afterward.
 

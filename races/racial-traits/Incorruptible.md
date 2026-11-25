@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/racial-trait]
 
 **Race**: [[rangoric-srd/races/Aasimar|Aasimar]]. **Replaces**: spell-like ability.
 
-Occasionally, aasimars arise with the ability to further ward away evil. Aasimars with this racial trait can cast *[[rangoric-srd/spells/Corruption Resistance|corruption resistance]]* against evil once per day as a spell-like ability. If an aasimar uses this ability on herself, the duration increases to 1 hour per level.
+Occasionally, aasimars arise with the ability to further ward away evil. Aasimars with this racial trait can cast _[[rangoric-srd/spells/Corruption Resistance|corruption resistance]]_ against evil once per day as a spell-like ability. If an aasimar uses this ability on herself, the duration increases to 1 hour per level.

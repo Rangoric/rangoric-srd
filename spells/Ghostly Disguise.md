@@ -32,14 +32,14 @@ tags: [rangoric, rangoric/spell]
 
 # Ghostly Disguise
 
-*Illusion (Glamer)*
+_Illusion (Glamer)_
 
-  - **Level**: Alc 2, Brd 2, Inq 2, Med 2, Mes 2, Occ 2, Psy 2, Skd 2, Sor/Wiz 2, Wit 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 10 minute/level (D)
+- **Level**: Alc 2, Brd 2, Inq 2, Med 2, Mes 2, Occ 2, Psy 2, Skd 2, Sor/Wiz 2, Wit 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 10 minute/level (D)
 
 You make yourself—including clothing, armor, weapons, and equipment—appear translucent like a ghost. Any mundane or magical disguise on you is affected by this illusion as well; for example, if you are disguised as the king or a sahuagin, you look like a ghostly version of the king or a sahuagin. Your ghostly form may have a pale green, blue, or violet coloration, or a muted version of your normal appearance.
 

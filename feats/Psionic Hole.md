@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat]
 
 # Psionic Hole
 
-You are anathema to psionic creatures and characters.  
+You are anathema to psionic creatures and characters.
 
 Prerequisite: Con 15.
 

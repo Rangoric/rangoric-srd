@@ -27,7 +27,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Atheists’ Paste
 
-*Unguent/Toxin; Special*
+_Unguent/Toxin; Special_
 
 Atheists’ paste is an unguent that only becomes toxic when exposed to divine spells and magical energies. This toxin is a two-stage poison. First, it is a basic contact poison which causes blindness and nausea for 1d4 rounds (unless a Fortitude save is made against a DC of 17). The secondary effect only activates if the paste comes in contact with divine magical energies—it evaporates into a cloud of toxic vapor in a 20-foot radius from the point of origin, and this gas inflicts 1d4 points of damage per round to any within this cloud. The gas dissipates in 1d12 rounds.
 
@@ -41,6 +41,6 @@ Alchemists created this toxin centuries ago to help commoners strike back at an 
 - **Save**: Fortitude DC 17
 - **Effect**: [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] and [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d4 rounds; divine magic turns the paste into its vapor (see above)
 
-**Construction**: Faint magic; CL 4th; [[rangoric-srd/feats/Craft Toxins|Craft Toxins]], *detect magic*; DC: 17; Price: 5,000 gp
+**Construction**: Faint magic; CL 4th; [[rangoric-srd/feats/Craft Toxins|Craft Toxins]], _detect magic_; DC: 17; Price: 5,000 gp
 
 An item of the alchemical and herbal catalog ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Item Categories and Definitions|categories]]); its entry follows the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Catalog Template|catalog template]].

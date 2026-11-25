@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Slag Giant
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
-  - **Hit Dice**: 10d8+40 (85 hp)
-  - **Initiative**: +1
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 20 (+3 armor, +1 Dex, +7 natural, –1 size), touch 10, flat-footed 19
-  - **Base Attack**: +7; **CMB**: +16 (+18 sunder); **CMD**: 29 (31 vs. sunder)
-  - **Attack**: [[rangoric-srd/equipment/weapons/Warhammer|Warhammer]] +15 melee (2d6+12/×3) or slam +14 melee (1d8+8) or rock +8 ranged (1d8+8)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Warhammer|Warhammer]] +15/+10 melee (2d6+12/×3); or 2 slams +14 melee (1d8+8); or rock +8 ranged (1d8+8)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (120 ft.)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/monsters/abilities/Shattering Blow|shattering blow]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 30
-  - **Saves**: Fort +11, Ref +6, Will +4
-  - **Abilities**: Str 27, Dex 12, Con 19, Int 10, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (armor) +12, [[rangoric-srd/skills/Craft|Craft]] (weapons) +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +9
-  - **Feats**: [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (warhammer), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (warhammer)
-  - **Environment**: Warm mountains or underground
-  - **Organization**: Solitary, pair, mining expedition (3–7), or tribe (5–20 plus 25% noncombatants and 1 cleric, or 1 fighter of 4th to 6th level plus 1–3 giant frilled lizards)
-  - **Challenge Rating**: 7
-  - **Treasure**: Standard (warhammer, studded leather, other treasure)
-  - **Alignment**: Usually lawful neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
+- **Hit Dice**: 10d8+40 (85 hp)
+- **Initiative**: +1
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 20 (+3 armor, +1 Dex, +7 natural, –1 size), touch 10, flat-footed 19
+- **Base Attack**: +7; **CMB**: +16 (+18 sunder); **CMD**: 29 (31 vs. sunder)
+- **Attack**: [[rangoric-srd/equipment/weapons/Warhammer|Warhammer]] +15 melee (2d6+12/×3) or slam +14 melee (1d8+8) or rock +8 ranged (1d8+8)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Warhammer|Warhammer]] +15/+10 melee (2d6+12/×3); or 2 slams +14 melee (1d8+8); or rock +8 ranged (1d8+8)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (120 ft.)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/monsters/abilities/Shattering Blow|shattering blow]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 30
+- **Saves**: Fort +11, Ref +6, Will +4
+- **Abilities**: Str 27, Dex 12, Con 19, Int 10, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Craft|Craft]] (armor) +12, [[rangoric-srd/skills/Craft|Craft]] (weapons) +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +9
+- **Feats**: [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (warhammer), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (warhammer)
+- **Environment**: Warm mountains or underground
+- **Organization**: Solitary, pair, mining expedition (3–7), or tribe (5–20 plus 25% noncombatants and 1 cleric, or 1 fighter of 4th to 6th level plus 1–3 giant frilled lizards)
+- **Challenge Rating**: 7
+- **Treasure**: Standard (warhammer, studded leather, other treasure)
+- **Alignment**: Usually lawful neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Magically crafted and crossbred from fire giants and stone giants by ancient [[rangoric-srd/classes/Wizard|wizards]], slag giants are among the foremost artisans and crafters of giantkind. Proportioned more like stone giants than fire giants, slag giants have long limbs with lean muscles; they stand 14 feet tall and weigh 3,000 pounds. Slag giants' skin color ranges from a deep and ruddy hue to a rusty orange. Their hair is black, gray, or white, though males and females both tend to keep their hair cropped close or shaved off. Slag giants can live to be 400 years old.
 

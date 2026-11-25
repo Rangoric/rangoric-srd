@@ -41,25 +41,25 @@ tags: [rangoric, rangoric/monster]
 
 # Fire Elemental, Huge
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Elemental, Extraplanar, Fire)
-  - **Hit Dice**: 10d10+30 (85 hp)
-  - **Initiative**: +11
-  - **Speed**: 60 ft. (12 squares)
-  - **Armor Class**: 21 (+7 Dex, +1 dodge, +5 natural, –2 size), touch 16, flat-footed 13
-  - **Base Attack**: +10; **CMB**: +16; **CMD**: 34
-  - **Attack**: Slam +15 melee (2d6+4 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
-  - **Full Attack**: 2 slams +15 melee (2d6+4 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (2d6, DC 18)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability]] to cold
-  - **Saves**: Fort +10, Ref +14, Will +5
-  - **Abilities**: Str 18, Dex 25, Con 16, Int 6, Wis 11, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Theology|Theology]] +7
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any (Elemental Plane of Fire)
-  - **Organization**: Solitary, pair, or gang (3–8)
-  - **Challenge Rating**: 7
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 11–20 HD (Huge)
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Elemental, Extraplanar, Fire)
+- **Hit Dice**: 10d10+30 (85 hp)
+- **Initiative**: +11
+- **Speed**: 60 ft. (12 squares)
+- **Armor Class**: 21 (+7 Dex, +1 dodge, +5 natural, –2 size), touch 16, flat-footed 13
+- **Base Attack**: +10; **CMB**: +16; **CMD**: 34
+- **Attack**: Slam +15 melee (2d6+4 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
+- **Full Attack**: 2 slams +15 melee (2d6+4 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (2d6, DC 18)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability]] to cold
+- **Saves**: Fort +10, Ref +14, Will +5
+- **Abilities**: Str 18, Dex 25, Con 16, Int 6, Wis 11, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Theology|Theology]] +7
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any (Elemental Plane of Fire)
+- **Organization**: Solitary, pair, or gang (3–8)
+- **Challenge Rating**: 7
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 11–20 HD (Huge)
+- **Level Adjustment**: —

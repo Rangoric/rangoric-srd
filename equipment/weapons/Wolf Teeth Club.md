@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/hammers]
 
 # Wolf Teeth Club
 
-*Martial two-handed melee weapon.* Cost 8 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 5 lb.; Type Bludgeoning and piercing. ^stats
+_Martial two-handed melee weapon._ Cost 8 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 5 lb.; Type Bludgeoning and piercing. ^stats
 
-(*Lan Ya Ban*): A large bludgeoning tool, the wolf teeth club is essentially a large, spiked head affixed to a slender five-foot pole.
+(_Lan Ya Ban_): A large bludgeoning tool, the wolf teeth club is essentially a large, spiked head affixed to a slender five-foot pole.

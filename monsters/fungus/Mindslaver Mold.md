@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Mindslaver Mold
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
-  - **Hit Dice**: 4d8+12 (30 hp)
-  - **Initiative**: +7
-  - **Speed**: 5 ft. (1 square), climb 5 ft.
-  - **Armor Class**: 15 (+3 Dex, +1 dodge, +1 size), touch 15, flat-footed 11
-  - **Base Attack**: +3; **CMB**: –2; **CMD**: 12 (can't be tripped)
-  - **Attack**: Spore pod +7 ranged touch (spores)
-  - **Full Attack**: Spore pod +7 ranged touch (spores)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Infestation (Mindslaver Mold)|Infestation]], [[rangoric-srd/monsters/abilities/Spores (Mindslaver Mold)|spores]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Avoidance|avoidance]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 14
-  - **Saves**: Fort +7, Ref +4, Will +2
-  - **Abilities**: Str 2, Dex 17, Con 17, Int 14, Wis 12, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +14
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
-  - **Environment**: Any
-  - **Organization**: Solitary or infestation (2–10)
-  - **Challenge Rating**: 3
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
+- **Hit Dice**: 4d8+12 (30 hp)
+- **Initiative**: +7
+- **Speed**: 5 ft. (1 square), climb 5 ft.
+- **Armor Class**: 15 (+3 Dex, +1 dodge, +1 size), touch 15, flat-footed 11
+- **Base Attack**: +3; **CMB**: –2; **CMD**: 12 (can't be tripped)
+- **Attack**: Spore pod +7 ranged touch (spores)
+- **Full Attack**: Spore pod +7 ranged touch (spores)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Infestation (Mindslaver Mold)|Infestation]], [[rangoric-srd/monsters/abilities/Spores (Mindslaver Mold)|spores]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Avoidance|avoidance]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 14
+- **Saves**: Fort +7, Ref +4, Will +2
+- **Abilities**: Str 2, Dex 17, Con 17, Int 14, Wis 12, Cha 13
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +14
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
+- **Environment**: Any
+- **Organization**: Solitary or infestation (2–10)
+- **Challenge Rating**: 3
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Mindslaver mold is an infestation from the primal world of fey that is particularly common in remote forests, islands, and mountain valleys where it is sometimes worshiped as a strange god by isolated, primitive tribes. The mold is joined together by a single consciousness, though individual patches retain their own goals. It seeks humanoid hosts, parasitizing them and forcing them to serve as its bodyguards and protectors.
 

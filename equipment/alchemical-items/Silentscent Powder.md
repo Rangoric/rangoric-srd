@@ -27,7 +27,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Silentscent Powder
 
-*Powder/Toxin; Special*
+_Powder/Toxin; Special_
 
 Always bottled in a tiny purple glass tube shaped like a screaming humanoid face, silentscent powder is an inhaled toxin blown into the face of a victim. The inhaled dust deadens their vocal cords and tightens the throat, making it impossible to speak or use any vocal abilities, assuming the person fails the Fort save (DC 18). This powder can also induce unconsciousness, if a person fails a second Fort save (DC 18) and passes out for 1d12 minutes due to throat constriction and lack of air.
 

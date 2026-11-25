@@ -13,20 +13,20 @@ tags: [rangoric, rangoric/overview]
 
 ### Power Descriptions
 
-The description of each power is presented in a standard format. Each category of information is explained and defined below.  
+The description of each power is presented in a standard format. Each category of information is explained and defined below.
 
 ##### Name
 
-The first line of every power description gives the name by which the power is generally known. A power might be known by other names in some locales, and specific manifesters might have names of their own for their powers.  
+The first line of every power description gives the name by which the power is generally known. A power might be known by other names in some locales, and specific manifesters might have names of their own for their powers.
 
 ##### Discipline (Subdiscipline)
 
 Beneath the power name is a line giving the discipline (and the subdiscipline in parentheses, if appropriate) that the power belongs to.  
-Every power is associated with one of six disciplines. A discipline is a group of related powers that work in similar ways. Each of the disciplines is discussed below.  
+Every power is associated with one of six disciplines. A discipline is a group of related powers that work in similar ways. Each of the disciplines is discussed below.
 
 ###### Clairsentience
 
-Clairsentience powers enable you to learn secrets long forgotten, to glimpse the immediate future and predict the far future, to find hidden objects, and to know what is normally unknowable.  
+Clairsentience powers enable you to learn secrets long forgotten, to glimpse the immediate future and predict the far future, to find hidden objects, and to know what is normally unknowable.
 
 For the purpose of psionics-magic transparency, clairsentience powers are equivalent to powers of the divination school (thus, creatures immune to divination spells are also immune to clairsentience powers).
 
@@ -37,7 +37,7 @@ Scrying: A power of the scrying subdiscipline creates an invisible sensor that s
 ###### Metacreativity
 
 Metacreativity powers create objects, creatures, or some form of matter. Creatures you create usually, but not always, obey your commands.  
-A metacreativity power draws raw ectoplasm from the Astral Plane to create an object or creature in the place the psionic character designates (subject to the limits noted above). Objects created in this fashion are as solid and durable as normal objects, despite their originally diaphanous substance. Psionic creatures created with metacreativity powers are considered constructs, not outsiders.  
+A metacreativity power draws raw ectoplasm from the Astral Plane to create an object or creature in the place the psionic character designates (subject to the limits noted above). Objects created in this fashion are as solid and durable as normal objects, despite their originally diaphanous substance. Psionic creatures created with metacreativity powers are considered constructs, not outsiders.
 
 A creature or object brought into being cannot appear inside another creature or object, nor can it appear floating in an empty space. It must arrive in an open location on a surface capable of supporting it. The creature or object must appear within the power’s range, but it does not have to remain within the range.
 
@@ -47,13 +47,13 @@ Creation: A power of the creation subdiscipline creates an object or creature in
 
 ###### Psychokinesis
 
-Psychokinesis powers manipulate energy or tap the power of the mind to produce a desired end. Many of these powers produce spectacular effects above and beyond the power’s standard display (see [[#Display|Display]], below), such as moving, melting, transforming, or blasting a target. Psychokinesis powers can deal large amounts of damage.  
+Psychokinesis powers manipulate energy or tap the power of the mind to produce a desired end. Many of these powers produce spectacular effects above and beyond the power’s standard display (see [[#Display|Display]], below), such as moving, melting, transforming, or blasting a target. Psychokinesis powers can deal large amounts of damage.
 
 For the purpose of psionics-magic transparency, psychokinesis powers are equivalent to powers of the evocation school (thus, creatures immune to evocation spells are also immune to psychokinesis powers).
 
 ###### Psychometabolism
 
-Psychometabolism powers change the physical properties of some creature, thing, or condition.  
+Psychometabolism powers change the physical properties of some creature, thing, or condition.
 
 For the purpose of psionics- magic transparency, psychometabolism powers are equivalent to powers of the transmutation school (thus, creatures immune to transmutation spells are also immune to psychometabolism powers).
 
@@ -61,7 +61,7 @@ Healing: Psychometabolism powers of the healing subdiscipline can remove damage 
 
 ###### Psychoportation
 
-Psychoportation powers move the manifester, an object, or another creature through space and time.  
+Psychoportation powers move the manifester, an object, or another creature through space and time.
 
 For the purpose of psionics-magic transparency, psychoportation powers do not have an equivalent school.
 
@@ -69,7 +69,7 @@ Teleportation: A power of the teleportation subdiscipline transports one or more
 
 ###### Telepathy
 
-Telepathy powers can spy on and affect the minds of others, influencing or controlling their behavior.  
+Telepathy powers can spy on and affect the minds of others, influencing or controlling their behavior.
 
 Most telepathy powers are mind-affecting.
 
@@ -81,7 +81,7 @@ Compulsion: A power of the compulsion subdiscipline forces the subject to act in
 
 ##### \[Descriptor\]
 
-Appearing on the same line as the discipline and subdiscipline (when applicable) is a descriptor that further categorizes the power in some way. Some powers have more than one descriptor.  
+Appearing on the same line as the discipline and subdiscipline (when applicable) is a descriptor that further categorizes the power in some way. Some powers have more than one descriptor.
 
 The descriptors that apply to powers are acid, cold, death, electricity, evil, fire, force, good, language-dependent, light, mind-affecting, and sonic.
 
@@ -93,11 +93,11 @@ A mind-affecting power works only against creatures with an Intelligence score o
 
 ##### Level
 
-The next line of the power description gives a power’s level, a number between 1 and 9 that defines the power’s relative strength. This number is preceded by the name of the class whose members can manifest the power. If a power is part of a discipline’s list instead of the psion’s general power list, this will be indicated by the name of the discipline’s specialist. The specialists a power can be associated with include Egoist (psychometabolism), Kineticist (psychokinesis), Nomad (psychoportation), Seer (clairsentience), Shaper (metacreativity), and Telepath (telepathy).  
+The next line of the power description gives a power’s level, a number between 1 and 9 that defines the power’s relative strength. This number is preceded by the name of the class whose members can manifest the power. If a power is part of a discipline’s list instead of the psion’s general power list, this will be indicated by the name of the discipline’s specialist. The specialists a power can be associated with include Egoist (psychometabolism), Kineticist (psychokinesis), Nomad (psychoportation), Seer (clairsentience), Shaper (metacreativity), and Telepath (telepathy).
 
 ##### Display
 
-When a power is manifested, a display may accompany the primary effect. This secondary effect may be auditory, material, mental, olfactory, or visual. No power’s display is significant enough to create consequences for the psionic creatures, allies, or opponents during combat. The secondary effect for a power occurs only if the power’s description indicates it. If multiple powers with similar displays are in effect simultaneously, the displays do not necessary become more intense. Instead, the overall display remains much the same, though with minute spikes in intensity. A [[rangoric-srd/skills/Psionics (Skill)|Psionics]] check (DC 10 + 1 per additional power in use) reveals the exact number of simultaneous powers in play.  
+When a power is manifested, a display may accompany the primary effect. This secondary effect may be auditory, material, mental, olfactory, or visual. No power’s display is significant enough to create consequences for the psionic creatures, allies, or opponents during combat. The secondary effect for a power occurs only if the power’s description indicates it. If multiple powers with similar displays are in effect simultaneously, the displays do not necessary become more intense. Instead, the overall display remains much the same, though with minute spikes in intensity. A [[rangoric-srd/skills/Psionics (Skill)|Psionics]] check (DC 10 + 1 per additional power in use) reveals the exact number of simultaneous powers in play.
 
 Dispense with Displays: Despite the fact that almost every power has a display, a psionic character can always choose to manifest the power without the flashy accompaniment. To manifest a power without any display (no matter how many displays it might have), a manifester must make a [[rangoric-srd/rules/Concentration (Check)|Concentration check]]. This check is part of the action of manifesting the power. If the check is unsuccessful, the power manifests normally with its display.
 
@@ -115,7 +115,7 @@ Visual: The manifester’s eyes burn like points of silver fire while the power 
 
 ##### Manifesting Time
 
-Most powers have a manifesing time of 1 standard action. Others take 1 round or more, while a few require only a free action.  
+Most powers have a manifesing time of 1 standard action. Others take 1 round or more, while a few require only a free action.
 
 A power that takes 1 round to manifest requires a full-round action. It comes into effect just before the beginning of your turn in the round after you began manifesting the power. You then act normally after the power is completed.
 
@@ -129,13 +129,13 @@ You make all pertinent decisions about a power (range, target, area, effect, ver
 
 Swift Action: A swift action consumes a very small amount of time, but represents a larger expenditure of effort and energy than a free action. You can perform one swift action per turn without affecting your ability to perform other actions. In that regard, a swift action is like a free action. However, you can perform only a single swift action per turn, regardless of what other actions you take. You can take a swift action any time you would normally be allowed to take a free action. Swift actions usually involve psionics or the activation of psionic items; many characters (especially those who don’t use psionics) never have an opportunity to take a swift action.  
 Manifesting a quickened power is a swift action. In addition, manifesting any power with a casting time of 1 swift action is a swift action.  
-Manifesting a power with a manifesting time of 1 swift action does not provoke attacks of opportunity.  
+Manifesting a power with a manifesting time of 1 swift action does not provoke attacks of opportunity.
 
 Immediate Action: Much like a swift action, an immediate action consumes a very small amount of time, but represents a larger expenditure of effort and energy than a free action. However, unlike a swift action, an immediate action can be performed at any time - even if it’s not your turn. Using an immediate action on your turn is the same as using a swift action, and counts as your swift action for that turn. You cannot use another immediate action or a swift action until after your next turn if you have used an immediate action when it is not currently your turn (effectively, using an immediate action before your turn is equivalent to using your swift action for the coming turn). You also cannot use an immediate action if you are currently flat-footed.
 
 ##### Range
 
-A power’s range indicates how far from you it can reach, as defined in the Range entry of the power description. A power’s range is the maximum distance from you that the power’s effect can occur, as well as the maximum distance at which you can designate the power’s point of origin. If any portion of the area would extend beyond the range, that area is wasted. Standard ranges include the following.  
+A power’s range indicates how far from you it can reach, as defined in the Range entry of the power description. A power’s range is the maximum distance from you that the power’s effect can occur, as well as the maximum distance at which you can designate the power’s point of origin. If any portion of the area would extend beyond the range, that area is wasted. Standard ranges include the following.
 
 Personal: The power affects only you.
 
@@ -151,7 +151,7 @@ Range Expressed in Feet: Some powers have no standard range category, just a ran
 
 ##### Aiming a Power
 
-You must make some choice about whom the power is to affect or where the power’s effect is to originate, depending on the type of power. The next entry in a power description defines the power’s target (or targets), its effect, or its area, as appropriate.  
+You must make some choice about whom the power is to affect or where the power’s effect is to originate, depending on the type of power. The next entry in a power description defines the power’s target (or targets), its effect, or its area, as appropriate.
 
 Target or Targets: Some powers have a target or targets. You manifest these powers on creatures or objects, as defined by the power itself. You must be able to see or touch the target, and you must specifically choose that target. However, you do not have to select your target until you finish manifesting the power.
 
@@ -199,7 +199,7 @@ A burst, cone, or emanation power affects only an area, creatures, or objects to
 
 ##### Duration
 
-A power’s Duration line tells you how long the psionic energy of the power lasts.  
+A power’s Duration line tells you how long the psionic energy of the power lasts.
 
 Timed Durations: Many durations are measured in rounds, minutes, hours, or some other increment. When the time is up, the psionic energy sustaining the effect fades, and the power ends. If a power’s duration is variable it is rolled secretly.
 
@@ -221,7 +221,7 @@ Discharge: Occasionally a power lasts for a set duration or until triggered or d
 
 ##### Saving Throw
 
-Usually a harmful power allows a target to make a saving throw to avoid some or all of the effect. The Saving Throw line in a power description defines which type of saving throw the power allows and describes how saving throws against the power work.  
+Usually a harmful power allows a target to make a saving throw to avoid some or all of the effect. The Saving Throw line in a power description defines which type of saving throw the power allows and describes how saving throws against the power work.
 
 Negates: The power has no effect on a subject that makes a successful saving throw.
 
@@ -249,7 +249,7 @@ Items Surviving after a Saving Throw: Unless the descriptive text for the power 
 
 Determine which four objects carried or worn by the creature are most likely to be affected and roll randomly among them. The randomly determined item must make a saving throw against the attack form or take whatever damage the attack deals.
 
-Table: Items Affected by Psionic Attacks     
+Table: Items Affected by Psionic Attacks   
 
 | Order (1) | Item                                                |
 | --------- | --------------------------------------------------- |
@@ -264,7 +264,7 @@ Table: Items Affected by Psionic Attacks   
 | 9th       | Psionic or magic jewelry (including rings)          |
 | 10th      | Anything else                                       |
 
-1 *In order of most likely to least likely to be affected.*
+1 _In order of most likely to least likely to be affected._
 
 ##### Power Resistance
 
@@ -276,25 +276,25 @@ The terms “object” and “harmless” mean the same thing for power resistan
 
 ##### Power Points
 
-All powers have a Power Points line, indicating the power’s cost.  
+All powers have a Power Points line, indicating the power’s cost.
 
 The psionic character class tables show how many power points a character has access to each day, depending on level.
 
 A power’s cost is determined by its level, as shown below. Every power’s cost is noted in its description for ease of reference.
 
-Table: Power Points by Power Level     
+Table: Power Points by Power Level   
 
-| Power Level      | 1 | 2 | 3 | 4 | 5 | 6  | 7  | 8  | 9  |
-| ---------------- | - | - | - | - | - | -- | -- | -- | -- |
-| Power Point Cost | 1 | 3 | 5 | 7 | 9 | 11 | 13 | 15 | 17 |
+| Power Level      | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
+| ---------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Power Point Cost | 1   | 3   | 5   | 7   | 9   | 11  | 13  | 15  | 17  |
 
-Power Point Limit: Some powers allow you to spend more than their base cost to achieve an improved effect, or augment the power. The maximum number of points you can spend on a power (for any reason) is equal to your manifester level.  
+Power Point Limit: Some powers allow you to spend more than their base cost to achieve an improved effect, or augment the power. The maximum number of points you can spend on a power (for any reason) is equal to your manifester level.
 
 XP Cost (XP): On the same line that the power point cost of a power is indicated, the power’s experience point cost, if any, is noted. Particularly powerful effects entail an experience point cost to you. No spell or power can restore XP lost in this manner. You cannot spend so much XP that you lose a level, so you cannot manifest a power with an XP cost unless you have enough XP to spare. However, you can, on gaining enough XP to attain a new level, use those XP for manifesting a power rather than keeping them and advancing a level. The XP are expended when you manifest the power, whether or not the manifestation succeeds.
 
 ##### Descriptive Text
 
-This portion of a power description details what the power does and how it works. If one of the previous lines in the description included “see text,” this is where the explanation is found. If the power you’re reading about is based on another power you might have to refer to a different power for the “see text” information. If a power is the equivalent of a spell an entry of “see spell text” directs you to the appropriate spell description.  
+This portion of a power description details what the power does and how it works. If one of the previous lines in the description included “see text,” this is where the explanation is found. If the power you’re reading about is based on another power you might have to refer to a different power for the “see text” information. If a power is the equivalent of a spell an entry of “see spell text” directs you to the appropriate spell description.
 
 Augment: Many powers have variable effects based on the number of power points you spend when you manifest them. The more points spent, the more powerful the manifestation. How this extra expenditure affects a power is specific to the power. Some augmentations allow you to increase the number of damage dice, while others extend a power’s duration or modify a power in unique ways. Each power that can be augmented includes an entry giving how many power points it costs to augment and the effects of doing so. However, you can spend only a total number of points on a power equal to your manifester level.
 

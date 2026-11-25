@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Regenerate
 
-*Conjuration (Healing)*
+_Conjuration (Healing)_
 
-  - **Level**: Clr 7, Drd 9, Healing 7, Sha 7, Wit 7
-  - **Components**: V, S, DF
-  - **Casting Time**: 3 full rounds
-  - **Range**: Touch
-  - **Target**: Living creature touched
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Fortitude negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Clr 7, Drd 9, Healing 7, Sha 7, Wit 7
+- **Components**: V, S, DF
+- **Casting Time**: 3 full rounds
+- **Range**: Touch
+- **Target**: Living creature touched
+- **Duration**: Instantaneous
+- **Saving Throw**: Fortitude negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 The subject’s severed body members (fingers, toes, hands, feet, arms, legs, tails, or even heads of multiheaded creatures), broken bones, and ruined organs grow back. After the spell is cast, the physical regeneration is complete in 1 round if the severed members are present and touching the creature. It takes 2d10 rounds otherwise.
 

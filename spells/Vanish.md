@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Vanish
 
-*Illusion (Glamer)*
+_Illusion (Glamer)_
 
-  - **Level**: Brd 1, Mag 1, Mes 1, Occ 1, Psy 1, Skd 1, Sor/Wiz 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 round/level (up to 5 rounds) (D)
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Brd 1, Mag 1, Mes 1, Occ 1, Psy 1, Skd 1, Sor/Wiz 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 round/level (up to 5 rounds) (D)
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-This spell functions like *[[rangoric-srd/spells/Invisibility|invisibility]]*, except the effect only lasts for 1 round per caster level (maximum of 5 rounds). Like *[[rangoric-srd/spells/Invisibility|invisibility]]*, the spell immediately ends if the subject attacks any creature.
+This spell functions like _[[rangoric-srd/spells/Invisibility|invisibility]]_, except the effect only lasts for 1 round per caster level (maximum of 5 rounds). Like _[[rangoric-srd/spells/Invisibility|invisibility]]_, the spell immediately ends if the subject attacks any creature.

@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This loose-fitting blouse is adorned with grotesque fetishes and trophies, granting the wearer a +2 competence bonus on [[rangoric-srd/skills/Intimidation|Intimidation]] checks. If the wearer is a [[rangoric-srd/classes/Witch#^witch-hex|witch]], she gains the [[rangoric-srd/class-options/hexes/Cackle (Hex)|cackle]] hex. If the wearer already has the cackle hex, twice per day she can use her cackle ability as a swift action instead of a move action.
 
-Faint enchantment; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]* or the [[rangoric-srd/class-options/hexes/Cackle (Hex)|cackle]] hex, creator must have 5 ranks in Intimidation; Price 6,000 gp; Cost 3,000 gp; Weight 2 lbs.
+Faint enchantment; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]_ or the [[rangoric-srd/class-options/hexes/Cackle (Hex)|cackle]] hex, creator must have 5 ranks in Intimidation; Price 6,000 gp; Cost 3,000 gp; Weight 2 lbs.

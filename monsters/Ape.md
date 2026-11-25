@@ -35,26 +35,26 @@ tags: [rangoric, rangoric/monster]
 
 # Ape
 
-  - Large Animal
-  - **Hit Dice**: 4d8+11 (29 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares), climb 30 ft.
-  - **Armor Class**: 14 (–1 size, +2 Dex, +3 natural), touch 11, flat-footed 12
-  - **Base Attack**: +3; **CMB**: +9; **CMD**: 21
-  - **Attack**: Claws +7 melee (1d6+5)
-  - **Full Attack**: 2 claws +7 melee (1d6+5) and bite +2 melee (1d6+2)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: Low-light vision, scent
-  - **Saves**: Fort +6, Ref +6, Will +2
-  - **Abilities**: Str 21, Dex 15, Con 14, Int 2, Wis 12, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9 (+17 climbing), Perception +10
-  - **Feats**: Skill Focus (Perception), Toughness
-  - **Environment**: Warm forests
-  - **Organization**: Solitary, pair, or company (3–5)
-  - **Challenge Rating**: 2
-  - **Advancement**: 5–8 HD (Large)
-  - **Level Adjustment**: —
+- Large Animal
+- **Hit Dice**: 4d8+11 (29 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares), climb 30 ft.
+- **Armor Class**: 14 (–1 size, +2 Dex, +3 natural), touch 11, flat-footed 12
+- **Base Attack**: +3; **CMB**: +9; **CMD**: 21
+- **Attack**: Claws +7 melee (1d6+5)
+- **Full Attack**: 2 claws +7 melee (1d6+5) and bite +2 melee (1d6+2)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: —
+- **Special Qualities**: Low-light vision, scent
+- **Saves**: Fort +6, Ref +6, Will +2
+- **Abilities**: Str 21, Dex 15, Con 14, Int 2, Wis 12, Cha 7
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9 (+17 climbing), Perception +10
+- **Feats**: Skill Focus (Perception), Toughness
+- **Environment**: Warm forests
+- **Organization**: Solitary, pair, or company (3–5)
+- **Challenge Rating**: 2
+- **Advancement**: 5–8 HD (Large)
+- **Level Adjustment**: —
 
 These powerful omnivores resemble gorillas but are far more aggressive; they kill and eat anything they can catch. An adult male ape is 5-1/2 to 6 feet tall and weighs 300 to 400 pounds.
 

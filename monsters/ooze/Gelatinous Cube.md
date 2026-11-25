@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Gelatinous Cube
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]]
-  - **Hit Dice**: 4d8+32 (50 hp)
-  - **Initiative**: –5
-  - **Speed**: 15 ft. (3 squares)
-  - **Armor Class**: 4 (–5 Dex, –1 size), touch 4, flat-footed 4
-  - **Base Attack**: +3; **CMB**: +4; **CMD**: 9 (can't be tripped)
-  - **Attack**: Slam +2 melee (1d6 plus 1d6 acid)
-  - **Full Attack**: Slam +2 melee (1d6 plus 1d6 acid)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Engulf|Engulf]], [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., transparent, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]]
-  - **Saves**: Fort +9, Ref –4, Will –4
-  - **Abilities**: Str 10, Dex 1, Con 26, Int —, Wis 1, Cha 1
-  - **Skills**: —
-  - **Feats**: —
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 3
-  - **Treasure**: Incidental
-  - **Alignment**: Always neutral
-  - **Advancement**: 5–12 HD (Large); 13–24 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]]
+- **Hit Dice**: 4d8+32 (50 hp)
+- **Initiative**: –5
+- **Speed**: 15 ft. (3 squares)
+- **Armor Class**: 4 (–5 Dex, –1 size), touch 4, flat-footed 4
+- **Base Attack**: +3; **CMB**: +4; **CMD**: 9 (can't be tripped)
+- **Attack**: Slam +2 melee (1d6 plus 1d6 acid)
+- **Full Attack**: Slam +2 melee (1d6 plus 1d6 acid)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Engulf|Engulf]], [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., transparent, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]]
+- **Saves**: Fort +9, Ref –4, Will –4
+- **Abilities**: Str 10, Dex 1, Con 26, Int —, Wis 1, Cha 1
+- **Skills**: —
+- **Feats**: —
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 3
+- **Treasure**: Incidental
+- **Alignment**: Always neutral
+- **Advancement**: 5–12 HD (Large); 13–24 HD (Huge)
+- **Level Adjustment**: —
 
 One of the dungeon's most unusual and specialized predators, gelatinous cubes spend their existence mindlessly roaming dungeon halls and dark caverns, swallowing up organic material such as plants, refuse, carrion, and even living creatures. Materials the cube cannot digest, such as metal and stone, can eventually fill up the creature's mass with such detritus, and at times the creature may excrete some of this material out of its body. Often the treasure and possessions of past victims remain inside the gelatinous cube, leaving a ghostly impression of their material remains.
 

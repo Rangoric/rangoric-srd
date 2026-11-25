@@ -28,6 +28,6 @@ Psychometabolism
 **Range:** Personal  
 **Target:** You  
 **Duration:** Instantaneous  
-**Power Points:** 3  
+**Power Points:** 3
 
 You can go without food and water for one day. Each time you manifest this power, your body manufactures sufficient solid and liquid nourishment to satisfy your needs for that time.

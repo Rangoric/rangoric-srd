@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # First Mate
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 4d8+5d10+18 (63 hp)
-  - **Initiative**: +4
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 21 (+7 armor, +4 Dex), touch 14, flat-footed 17
-  - **Base Attack**: +8; **CMB**: +10; **CMD**: 24
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +15 melee (1d6+6/17–20) or +1 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +13 melee (1d6+5/17–20) or +1 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +13 melee (1d6+6/17–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Whip|whip]] +11 melee (1d3+1 nonlethal) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +13 ranged (1d10/19–20)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +15/+10 melee (1d6+6/17–20); or +1 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +13/+8 melee (1d6+6/17–20) and +1 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +13/+8 melee (1d6+5/17–20); or +1 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +13/+8 melee (1d6+6/17–20) and [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Whip|whip]] +11 melee (1d3+1 nonlethal); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +13 ranged (1d10/19–20)
-  - **Space/Reach**: 5 ft./5 ft. (15 ft. with whip)
-  - **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (light blades +1)
-  - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1
-  - **Saves**: Fort +7, Ref +6, Will +6 (+1 vs. fear)
-  - **Abilities**: Str 14, Dex 18, Con 14, Int 8, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Craft|Craft]] (ships) +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Linguistics|Linguistics]] +3, [[rangoric-srd/skills/Nature|Nature]] +3, [[rangoric-srd/skills/Perception|Perception]] +10, Perform (sing) +4, Perform (wind) +4, [[rangoric-srd/skills/Profession|Profession]] (sailor) +12, [[rangoric-srd/skills/Society|Society]] +3
-  - **Feats**: [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (whip), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (short sword), [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Athletics), [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (shortsword), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (short sword)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 8
-  - **Treasure**: NPC gear (combat gear: potion of water breathing, feather tokens (anchor, fan); other gear: +1 breastplate, +1 short swords (2), masterwork heavy crossbow with 10 bolts, masterwork whip, ring of swimming, everburning torch, musical instrument (concertina or fife))
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 4d8+5d10+18 (63 hp)
+- **Initiative**: +4
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 21 (+7 armor, +4 Dex), touch 14, flat-footed 17
+- **Base Attack**: +8; **CMB**: +10; **CMD**: 24
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +15 melee (1d6+6/17–20) or +1 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +13 melee (1d6+5/17–20) or +1 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +13 melee (1d6+6/17–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Whip|whip]] +11 melee (1d3+1 nonlethal) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +13 ranged (1d10/19–20)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +15/+10 melee (1d6+6/17–20); or +1 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +13/+8 melee (1d6+6/17–20) and +1 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +13/+8 melee (1d6+5/17–20); or +1 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +13/+8 melee (1d6+6/17–20) and [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Whip|whip]] +11 melee (1d3+1 nonlethal); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +13 ranged (1d10/19–20)
+- **Space/Reach**: 5 ft./5 ft. (15 ft. with whip)
+- **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (light blades +1)
+- **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1
+- **Saves**: Fort +7, Ref +6, Will +6 (+1 vs. fear)
+- **Abilities**: Str 14, Dex 18, Con 14, Int 8, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Craft|Craft]] (ships) +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Linguistics|Linguistics]] +3, [[rangoric-srd/skills/Nature|Nature]] +3, [[rangoric-srd/skills/Perception|Perception]] +10, Perform (sing) +4, Perform (wind) +4, [[rangoric-srd/skills/Profession|Profession]] (sailor) +12, [[rangoric-srd/skills/Society|Society]] +3
+- **Feats**: [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (whip), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (short sword), [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Athletics), [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (shortsword), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (short sword)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 8
+- **Treasure**: NPC gear (combat gear: potion of water breathing, feather tokens (anchor, fan); other gear: +1 breastplate, +1 short swords (2), masterwork heavy crossbow with 10 bolts, masterwork whip, ring of swimming, everburning torch, musical instrument (concertina or fife))
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A first mate is a [[rangoric-srd/monsters/human/Human|human]] with 4 levels of [[rangoric-srd/classes/Expert|expert]] and 5 levels of [[rangoric-srd/classes/Fighter|fighter]]. A first mate is the loyal assistant to a ship's captain. He oversees duties and discipline aboard ship, feared but always respected; he is able to entertain with a sea shanty one moment and ply his trusty lash or flashing cutlasses the next. A first mate could also be the warden of an exotic island prison. Away from their ships, first mates can be found with a traveling merchant quartermaster (CR 9), or a captain (CR 12).
 

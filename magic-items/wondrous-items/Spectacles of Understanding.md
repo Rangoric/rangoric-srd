@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Spectacles of Understanding
 
-When worn, these innocent-looking spectacles convert any written language to one known by the wearer, as the *[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]* spell. The glasses are also good at detecting falsified documents, granting their wearer a +5 bonus to [[rangoric-srd/skills/Linguistics|Linguistics]] checks to identify forgeries and the ability make such checks untrained.
+When worn, these innocent-looking spectacles convert any written language to one known by the wearer, as the _[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_ spell. The glasses are also good at detecting falsified documents, granting their wearer a +5 bonus to [[rangoric-srd/skills/Linguistics|Linguistics]] checks to identify forgeries and the ability make such checks untrained.
 
-Faint divination; CL 2nd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]*; Price 3,000 gp; Cost 1,500 gp.
+Faint divination; CL 2nd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_; Price 3,000 gp; Cost 1,500 gp.

@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Hellwasp Swarm
 
-  - Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]] (Extraplanar, Swarm)
-  - **Hit Dice**: 12d8+36 (90 hp)
-  - **Initiative**: +10
-  - **Speed**: 5 ft. (1 square), fly 40 ft. (good)
-  - **Armor Class**: 21 (+6 Dex, +1 dodge, +4 size), touch 21, flat-footed 14
-  - **Base Attack**: +9; **CMB**: —; **CMD**: —
-  - **Attack**: Swarm (3d6 plus [[rangoric-srd/monsters/abilities/Distraction|distraction]] and [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: Swarm (3d6 plus [[rangoric-srd/monsters/abilities/Distraction|distraction]] and [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 10 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (DC 18), inhabit, [[rangoric-srd/monsters/abilities/Poison|poison]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], hive mind, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to weapon damage, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
-  - **Saves**: Fort +10, Ref +10, Will +7
-  - **Abilities**: Str 1, Dex 22, Con 14, Int 6, Wis 13, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +25, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +24
-  - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (poison), [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: A lawful evil-aligned plane
-  - **Organization**: Solitary, pair, infestation (3–6), fright (2–4 swarms), or terror (5–8 swarms)
-  - **Challenge Rating**: 8
-  - **Treasure**: Incidental
-  - **Alignment**: Always lawful evil
-  - **Advancement**: None
-  - **Level Adjustment**: —
+- Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]] (Extraplanar, Swarm)
+- **Hit Dice**: 12d8+36 (90 hp)
+- **Initiative**: +10
+- **Speed**: 5 ft. (1 square), fly 40 ft. (good)
+- **Armor Class**: 21 (+6 Dex, +1 dodge, +4 size), touch 21, flat-footed 14
+- **Base Attack**: +9; **CMB**: —; **CMD**: —
+- **Attack**: Swarm (3d6 plus [[rangoric-srd/monsters/abilities/Distraction|distraction]] and [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: Swarm (3d6 plus [[rangoric-srd/monsters/abilities/Distraction|distraction]] and [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 10 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (DC 18), inhabit, [[rangoric-srd/monsters/abilities/Poison|poison]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], hive mind, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to weapon damage, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
+- **Saves**: Fort +10, Ref +10, Will +7
+- **Abilities**: Str 1, Dex 22, Con 14, Int 6, Wis 13, Cha 9
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +25, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +24
+- **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (poison), [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: A lawful evil-aligned plane
+- **Organization**: Solitary, pair, infestation (3–6), fright (2–4 swarms), or terror (5–8 swarms)
+- **Challenge Rating**: 8
+- **Treasure**: Incidental
+- **Alignment**: Always lawful evil
+- **Advancement**: None
+- **Level Adjustment**: —
 
 Even the fiendish inhabitants of the lawful evil planes know to stay clear of the maddening buzz of hellwasp swarms. While individual hellwasps are mindless, when swarmed together they gain a hive mind that torments the living and the dead alike. Sages and diabolists argue as to why this happens, but a favored explanation is that all hellwasps contain the dispersed soul of some greater devil, scattered and imprisoned by his rivals for infractions lost to mortal knowledge.
 
@@ -82,6 +82,6 @@ A hellwasp-inhabited creature is easy to spot, since its skin crawls with the fo
 
 A [[rangoric-srd/spells/Remove Disease|remove disease]] or [[rangoric-srd/spells/Heal (Spell)|heal]] spell cast on an inhabited victim forces the hellwasp swarm to abandon its host.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Hellwasp Swarm Venom|Hellwasp Swarm Venom]]: Swarm—injury; *save* Fort DC 20; *frequency* 1/round for 6 rounds; *effect* 1d6 Dex; *cure* 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Hellwasp Swarm Venom|Hellwasp Swarm Venom]]: Swarm—injury; _save_ Fort DC 20; _frequency_ 1/round for 6 rounds; _effect_ 1d6 Dex; _cure_ 2 consecutive saves.
 
 **Hive Mind (Ex)**: Any hellwasp swarm with at least 1 hit point per Hit Die (or 12 hit points, for a standard hellwasp swarm) forms a hive mind, giving it an Intelligence of 6. When a hellwasp swarm is reduced below this hit point threshold, it becomes mindless.

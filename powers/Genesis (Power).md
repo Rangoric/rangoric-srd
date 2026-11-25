@@ -34,7 +34,7 @@ Metacreativity (Creation)
 **Duration:** Instantaneous  
 **Saving Throw:** None  
 **Power Resistance:** No  
-**Power Points:** 17, XP  
+**Power Points:** 17, XP
 
 You create a finite plane with limited access: a demiplane. Demiplanes created by this power are very small, very minor planes. This power works best when manifested while you are on the Astral Plane. Manifestation of this power creates a local density fluctuation that precipitates the creation of a demiplane. At first, the fledgling plane grows in radius at a rate of 1 foot per day to an initial maximum radius of 180 feet as it rapidly draws substance from the surrounding astral ectoplasm. Once the new demiplane reaches its maximum size, it doesn’t really stop growing, but its growth rate decreases to only 1 foot per week (approximately a 50-foot increase in radius per year). Once your demiplane is created, you can travel to it using [[rangoric-srd/powers/Astral Caravan|astral caravan]], [[rangoric-srd/powers/Plane Shift, Psionic|plane shift]], or some other power or permanent link that you arrange for separately.
 

@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Nauseated
 
-*A [[rangoric-srd/classes/Antipaladin#^antipaladin-cruelty|cruelty]], available from 9th level.*
+_A [[rangoric-srd/classes/Antipaladin#^antipaladin-cruelty|cruelty]], available from 9th level._
 
 The target is [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round per three levels of the antipaladin.
 

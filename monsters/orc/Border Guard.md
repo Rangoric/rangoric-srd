@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Border Guard
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human, Orc)
-  - **Hit Dice**: 4d10+4 (30 hp)
-  - **Initiative**: +4
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 18 (+4 armor, +4 Dex), touch 14, flat-footed 14
-  - **Base Attack**: +4; **CMB**: +6; **CMD**: 20
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Falchion|falchion]] +7 melee (2d4+3/18–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +9 ranged (1d8+2/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Falchion|falchion]] +7 melee (2d4+3/18–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +9 ranged (1d8+2/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (elves +2)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (plains +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companions), [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/classes/Ranger#^ranger-track|track]] +2, [[rangoric-srd/races/Half-Orc|weapon familiarity]], [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +3, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
-  - **Saves**: Fort +5, Ref +8, Will +2
-  - **Abilities**: Str 14, Dex 18, Con 12, Int 10, Wis 13, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Nature|Nature]] +7, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Track|Track]]
-  - **Environment**: Temperate hills, mountains, or underground
-  - **Organization**: Solitary, or with other half-orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])
-  - **Challenge Rating**: 3
-  - **Treasure**: NPC gear (combat gear: +1 flaming arrows (3), potion of cure moderate wounds, potion of divine favor, potion of shield of faith; other gear: masterwork chain shirt, masterwork composite longbow (+2 Str) with 20 arrows, masterwork falchion, elixir of hiding, 26 gp)
-  - **Alignment**: Neutral evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human, Orc)
+- **Hit Dice**: 4d10+4 (30 hp)
+- **Initiative**: +4
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 18 (+4 armor, +4 Dex), touch 14, flat-footed 14
+- **Base Attack**: +4; **CMB**: +6; **CMD**: 20
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Falchion|falchion]] +7 melee (2d4+3/18–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +9 ranged (1d8+2/×3)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Falchion|falchion]] +7 melee (2d4+3/18–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +9 ranged (1d8+2/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (elves +2)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (plains +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companions), [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/classes/Ranger#^ranger-track|track]] +2, [[rangoric-srd/races/Half-Orc|weapon familiarity]], [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +3, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
+- **Saves**: Fort +5, Ref +8, Will +2
+- **Abilities**: Str 14, Dex 18, Con 12, Int 10, Wis 13, Cha 8
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Nature|Nature]] +7, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Track|Track]]
+- **Environment**: Temperate hills, mountains, or underground
+- **Organization**: Solitary, or with other half-orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])
+- **Challenge Rating**: 3
+- **Treasure**: NPC gear (combat gear: +1 flaming arrows (3), potion of cure moderate wounds, potion of divine favor, potion of shield of faith; other gear: masterwork chain shirt, masterwork composite longbow (+2 Str) with 20 arrows, masterwork falchion, elixir of hiding, 26 gp)
+- **Alignment**: Neutral evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A border guard is a [[rangoric-srd/monsters/orc/Orc#Half-Orcs|half-orc]] with 4 levels of [[rangoric-srd/classes/Ranger|ranger]]. A border guard protects the lands of her tribe.
 
@@ -75,4 +75,4 @@ A border guard speaks Common and Orc.
 
 **Base Statistics**: Without resist energy, the ranger's statistics are **Resist** none.
 
-**Ranger spells prepared** (CL 1st; concentration +2): 1st—*[[rangoric-srd/spells/Resist Energy|resist energy]]*.
+**Ranger spells prepared** (CL 1st; concentration +2): 1st—_[[rangoric-srd/spells/Resist Energy|resist energy]]_.

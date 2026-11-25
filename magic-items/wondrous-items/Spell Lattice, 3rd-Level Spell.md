@@ -21,8 +21,8 @@ tags: [rangoric, rangoric/magic-item]
 
 # Spell Lattice, 3rd-Level Spell
 
-A *spell lattice* is a block of transparent crystal, internally etched with a three-dimensional representation of a spell. This spell is chosen when the item is created (the contained spell determines the school of the lattice's aura). When a *spell lattice* is wielded by a spontaneous spellcaster who has the spell contained within it on her class spell list, she can use her spell slots to cast that spell as if it were one of her spells known. When an [[rangoric-srd/classes/Arcanist|arcanist]] holds a *spell lattice*, as long as she has the contained spell on her class spell list, she can use her spell slots to cast that spell as if it were one of her spells currently prepared.
+A _spell lattice_ is a block of transparent crystal, internally etched with a three-dimensional representation of a spell. This spell is chosen when the item is created (the contained spell determines the school of the lattice's aura). When a _spell lattice_ is wielded by a spontaneous spellcaster who has the spell contained within it on her class spell list, she can use her spell slots to cast that spell as if it were one of her spells known. When an [[rangoric-srd/classes/Arcanist|arcanist]] holds a _spell lattice_, as long as she has the contained spell on her class spell list, she can use her spell slots to cast that spell as if it were one of her spells currently prepared.
 
-A spellcaster who uses a spellbook or [[rangoric-srd/classes/Alchemist#^alchemist-alchemy|formula book]] can copy the spell from a *spell lattice* as if it were a scroll. Doing so expends the spell from the *spell lattice*.
+A spellcaster who uses a spellbook or [[rangoric-srd/classes/Alchemist#^alchemist-alchemy|formula book]] can copy the spell from a _spell lattice_ as if it were a scroll. Doing so expends the spell from the _spell lattice_.
 
 Varies (see text); CL 17th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], creator must be able to cast the spell placed in the spell lattice; Price 9,000 gp; Cost 4,500 gp; Weight 1 lb.

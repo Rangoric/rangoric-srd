@@ -15,8 +15,8 @@ tags: [rangoric, rangoric/class-option]
 
 # Glory Blessing
 
-*A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Glory Domain|Glory domain]].*
+_A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Glory Domain|Glory domain]]._
 
-**Glorious Presence (minor)**: At 1st level, you can touch an ally and grant it a glorious blessing. For 1 minute, the ally becomes mesmerizing to her foes. This functions as *[[rangoric-srd/spells/Sanctuary|sanctuary]]*, except if the ally attacks an opponent, this effect ends with respect to only that opponent. This is a mind-affecting effect.
+**Glorious Presence (minor)**: At 1st level, you can touch an ally and grant it a glorious blessing. For 1 minute, the ally becomes mesmerizing to her foes. This functions as _[[rangoric-srd/spells/Sanctuary|sanctuary]]_, except if the ally attacks an opponent, this effect ends with respect to only that opponent. This is a mind-affecting effect.
 
 **Demoralizing Glory (major)**: At 10th level, when you successfully damage an opponent with a melee attack or attack spell, as a swift action you can attempt to demoralize that opponent with the [[rangoric-srd/skills/Intimidation|Intimidation]] skill using your ranks in Intimidation or your warpriest level, whichever is higher.

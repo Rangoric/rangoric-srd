@@ -23,16 +23,16 @@ tags: [rangoric, rangoric/star]
 
 # Star of Shadow
 
-*[[rangoric-srd/rules/star magic/Star Magic|Star]]*
+_[[rangoric-srd/rules/star magic/Star Magic|Star]]_
 
-  - **Call Level**: 1st ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
-  - **Aspect**: Ascendant in autumn, descendant in spring, on the horizon in summer and winter ([[rangoric-srd/rules/star magic/Star Magic#^seasons|seasons]])
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Area**: 20-ft.-radius spread
-  - **Duration**: Concentration
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Call Level**: 1st ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
+- **Aspect**: Ascendant in autumn, descendant in spring, on the horizon in summer and winter ([[rangoric-srd/rules/star magic/Star Magic#^seasons|seasons]])
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Area**: 20-ft.-radius spread
+- **Duration**: Concentration
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 The shadows in the area grow and leap at your will, spoiling sight and aim. Choose one creature in the area per call level: as long as you concentrate, those creatures can't score critical threats (a natural roll in their threat range is just a hit).

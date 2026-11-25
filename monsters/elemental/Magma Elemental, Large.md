@@ -40,25 +40,25 @@ tags: [rangoric, rangoric/monster]
 
 # Magma Elemental, Large
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Earth, Elemental, Extraplanar, Fire)
-  - **Hit Dice**: 8d10+16 (60 hp)
-  - **Initiative**: +3
-  - **Speed**: 20 ft. (4 squares), burrow 20 ft.; earth glide
-  - **Armor Class**: 16 (–1 Dex, +8 natural, –1 size), touch 8, flat-footed 16
-  - **Base Attack**: +8; **CMB**: +13; **CMD**: 22
-  - **Attack**: Slam +11 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
-  - **Full Attack**: 2 slams +11 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (1d6, DC 14), [[rangoric-srd/monsters/elemental/Magma Elemental#^lava-puddle|lava puddle]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], vulnerable to cold
-  - **Saves**: Fort +8, Ref +5, Will +2
-  - **Abilities**: Str 18, Dex 8, Con 15, Int 6, Wis 11, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +9, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +6
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Any (Elemental Plane of Fire)
-  - **Organization**: Solitary, pair, or gang (3–8)
-  - **Challenge Rating**: 5
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Earth, Elemental, Extraplanar, Fire)
+- **Hit Dice**: 8d10+16 (60 hp)
+- **Initiative**: +3
+- **Speed**: 20 ft. (4 squares), burrow 20 ft.; earth glide
+- **Armor Class**: 16 (–1 Dex, +8 natural, –1 size), touch 8, flat-footed 16
+- **Base Attack**: +8; **CMB**: +13; **CMD**: 22
+- **Attack**: Slam +11 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
+- **Full Attack**: 2 slams +11 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (1d6, DC 14), [[rangoric-srd/monsters/elemental/Magma Elemental#^lava-puddle|lava puddle]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], vulnerable to cold
+- **Saves**: Fort +8, Ref +5, Will +2
+- **Abilities**: Str 18, Dex 8, Con 15, Int 6, Wis 11, Cha 11
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +9, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +6
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Any (Elemental Plane of Fire)
+- **Organization**: Solitary, pair, or gang (3–8)
+- **Challenge Rating**: 5
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —

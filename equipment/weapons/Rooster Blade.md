@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/heavy-blades]
 
 # Rooster Blade
 
-*Exotic one-handed melee weapon.* Cost 16 gp; Dmg 1d4 (S), 1d6 (M); Critical x3; Weight 2 lb.; Type Piercing. ^stats
+_Exotic one-handed melee weapon._ Cost 16 gp; Dmg 1d4 (S), 1d6 (M); Critical x3; Weight 2 lb.; Type Piercing. ^stats
 
 (Xiong Dao) Resembling a flattened all-metal tonfa with elaborate protrusions and a spear-like thrusting head, the rooster blade is used to stab. Rooster blades are normally used in pairs.

@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Kitsune
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Kitsune, Shapechanger)
-  - **Hit Dice**: 1d6–1 (5 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 13 (+2 Dex, +1 dodge), touch 13, flat-footed 10
-  - **Base Attack**: +0; **CMB**: –1; **CMD**: 12
-  - **Attack**: Bite +4 melee (1d4–1) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]] –5 melee (1d6–1)
-  - **Full Attack**: Bite –1 melee (1d4–1) and [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]] –5 melee (1d6–1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], bloodline arcana (+2 DC for compulsion spells), [[rangoric-srd/monsters/abilities/Change Shape|change shape]], kitsune magic
-  - **Saves**: Fort –1, Ref +2, Will +4
-  - **Abilities**: Str 8, Dex 15, Con 8, Int 12, Wis 14, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +5, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +3
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]]
-  - **Environment**: Temperate forests, hills, or mountains
-  - **Organization**: Solitary, pair, or gang (3–8)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: NPC gear (potion of cure light wounds, mwk quarterstaff, other treasure)
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Kitsune, Shapechanger)
+- **Hit Dice**: 1d6–1 (5 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 13 (+2 Dex, +1 dodge), touch 13, flat-footed 10
+- **Base Attack**: +0; **CMB**: –1; **CMD**: 12
+- **Attack**: Bite +4 melee (1d4–1) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]] –5 melee (1d6–1)
+- **Full Attack**: Bite –1 melee (1d4–1) and [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]] –5 melee (1d6–1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], bloodline arcana (+2 DC for compulsion spells), [[rangoric-srd/monsters/abilities/Change Shape|change shape]], kitsune magic
+- **Saves**: Fort –1, Ref +2, Will +4
+- **Abilities**: Str 8, Dex 15, Con 8, Int 12, Wis 14, Cha 17
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +5, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +3
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]]
+- **Environment**: Temperate forests, hills, or mountains
+- **Organization**: Solitary, pair, or gang (3–8)
+- **Challenge Rating**: 1/2
+- **Treasure**: NPC gear (potion of cure light wounds, mwk quarterstaff, other treasure)
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Wily but noble, kitsune are a race of shapechanging fox-folk. Each Kitsune has two shapes—a slender and attractive human form and its true form of an anthropomorphic fox. In either form, it displays physical grace and natural beauty. Most kitsune have ruddy, auburn fur and salient amber or pale blue eyes, though some are born with black, gray, or even white fur. White-furred kitsune are revered for their close connection to their spirit ancestors and typically raised as [[rangoric-srd/classes/Oracle|oracles]].
 
@@ -72,7 +72,7 @@ Kitsunes speak Common, Elven and Sylvan.
 
 ### Combat
 
-**Sorcerer spells known** (CL 1st; concentration +4): 1st (4/day)—*[[rangoric-srd/spells/Charm Person|charm person]]* (DC 15), *[[rangoric-srd/spells/Sleep|sleep]]*(DC 17); 0 (at will)—*[[rangoric-srd/spells/Daze|daze]]*, *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]*, *[[rangoric-srd/spells/Read Magic|read magic]]*; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Fey Bloodline|fey]].
+**Sorcerer spells known** (CL 1st; concentration +4): 1st (4/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 15), _[[rangoric-srd/spells/Sleep|sleep]]_(DC 17); 0 (at will)—_[[rangoric-srd/spells/Daze|daze]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Fey Bloodline|fey]].
 
 **[[rangoric-srd/monsters/abilities/Change Shape|Change Shape]] (Su)**: A kitsune can assume the appearance of a specific single human form of the same sex. The kitsune always takes this specific form when she uses this ability. A kitsune in human form cannot use her bite attack, but gains a +10 racial bonus on Imitation checks made to appear human. This ability otherwise functions as alter self, except that the kitsune does not adjust her ability scores.
 

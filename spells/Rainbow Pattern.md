@@ -31,16 +31,16 @@ tags: [rangoric, rangoric/spell]
 
 # Rainbow Pattern
 
-*Illusion (Pattern) \[Mind-Affecting\]*
+_Illusion (Pattern) \[Mind-Affecting\]_
 
-  - **Level**: Brd 4, Psy 4, Skd 4, Sor/Wiz 4
-  - **Components**: V (Brd only), S, M, F; see text
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Effect**: Colorful lights with a 20-ft.-radius spread
-  - **Duration**: Concentration +1 round/ level (D)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 4, Psy 4, Skd 4, Sor/Wiz 4
+- **Components**: V (Brd only), S, M, F; see text
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Effect**: Colorful lights with a 20-ft.-radius spread
+- **Duration**: Concentration +1 round/ level (D)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 A glowing, rainbow-hued pattern of interweaving colors fascinates those within it. Rainbow pattern fascinates a maximum of 24 Hit Dice of creatures. Creatures with the fewest HD are affected first. Among creatures with equal HD, those who are closest to the spell’s point of origin are affected first. An affected creature that fails its saves is [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinated]] by the pattern.
 
@@ -48,8 +48,8 @@ With a simple gesture (a free action), you can make the rainbow pattern move up 
 
 The spell does not affect sightless creatures.
 
-*Verbal Component*: A wizard or sorcerer need not utter a sound to cast this spell, but a bard must sing, play music, or recite a rhyme as a verbal component.
+_Verbal Component_: A wizard or sorcerer need not utter a sound to cast this spell, but a bard must sing, play music, or recite a rhyme as a verbal component.
 
-*Material Component*: A piece of phosphor.
+_Material Component_: A piece of phosphor.
 
-*Focus*: A crystal prism.
+_Focus_: A crystal prism.

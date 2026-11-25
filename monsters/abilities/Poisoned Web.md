@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Poisoned Web
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “poisoned web”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “poisoned web”, on the Special Attacks line.
 
 This ability works like [[rangoric-srd/monsters/abilities/Web|web]], but affects all creatures in a 10-foot-radius burst. In addition, any creature hit by the web must save against the creature's poison. The [[rangoric-srd/monsters/spider/Goliath Spider|goliath spider]] has it.

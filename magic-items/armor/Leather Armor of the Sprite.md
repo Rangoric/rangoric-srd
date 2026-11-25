@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Leather Armor of the Sprite
 
-Two ornately designed wings are tooled and painted onto the back of this suit of *+2 leather armor*. Once per week, the armor can be commanded to allow the wearer to *[[rangoric-srd/spells/Fly|fly]]* as if a 6th-level sorcerer had cast the spell.
+Two ornately designed wings are tooled and painted onto the back of this suit of _+2 leather armor_. Once per week, the armor can be commanded to allow the wearer to _[[rangoric-srd/spells/Fly|fly]]_ as if a 6th-level sorcerer had cast the spell.
 
-CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Fly|fly]]*; Price 16,160 gp; Cost 8,080 gp + 650 XP.
+CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Fly|fly]]_; Price 16,160 gp; Cost 8,080 gp + 650 XP.

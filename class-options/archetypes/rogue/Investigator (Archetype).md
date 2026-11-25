@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Investigator
 
-*A [[rangoric-srd/classes/Rogue#^rogue-archetypes|rogue]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Rogue#^rogue-archetypes|rogue]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Not all rogues work against the law. Investigators use their skills to serve the law, often in the employ of nobles or in the pursuit of noble causes. In some cities cabals of investigators work for rulers or bureaucracies, but often an investigator is a free agent who pursues whatever mysteries come across her path. Of course, not all investigators serve the law. Crime lords and guildmasters often have squads of investigators serving their own nefarious purposes.
 

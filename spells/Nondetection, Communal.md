@@ -29,15 +29,15 @@ tags: [rangoric, rangoric/spell]
 
 # Nondetection, Communal
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Apl 4, Mes 4, Occ 4, Psy 4, Sor/Wiz 4
-  - **Components**: V, S, M (diamond dust worth 25 gp per target)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creatures or objects touched
-  - **Duration**: 1 hour/level
-  - **Saving Throw**: Will negates (harmless, object)
-  - **Spell Resistance**: Yes (harmless, object)
+- **Level**: Apl 4, Mes 4, Occ 4, Psy 4, Sor/Wiz 4
+- **Components**: V, S, M (diamond dust worth 25 gp per target)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creatures or objects touched
+- **Duration**: 1 hour/level
+- **Saving Throw**: Will negates (harmless, object)
+- **Spell Resistance**: Yes (harmless, object)
 
-This spell functions like *[[rangoric-srd/spells/Nondetection|nondetection]]*, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-hour increments among the creatures or objects touched.
+This spell functions like _[[rangoric-srd/spells/Nondetection|nondetection]]_, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-hour increments among the creatures or objects touched.

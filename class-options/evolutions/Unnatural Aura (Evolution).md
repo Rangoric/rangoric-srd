@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Unnatural Aura
 
-*A 1-point evolution (Su) for a [[rangoric-srd/classes/Summoner|summoner]]’s or [[rangoric-srd/classes/Unchained Summoner|unchained summoner]]’s eidolon.*
+_A 1-point evolution (Su) for a [[rangoric-srd/classes/Summoner|summoner]]’s or [[rangoric-srd/classes/Unchained Summoner|unchained summoner]]’s eidolon._
 
 An eidolon is obviously of unnatural origin. Normal animals do not willingly approach the eidolon unless the animal’s master makes a DC 25 Animal Handling or wild empathy check.

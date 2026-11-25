@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Ratfolk Druid
 
-*A [[rangoric-srd/races/Ratfolk|ratfolk]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Druid#^druid-class-bonuses|druid]] level.*
+_A [[rangoric-srd/races/Ratfolk|ratfolk]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Druid#^druid-class-bonuses|druid]] level._
 
 Add a +1 bonus on [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] checks made to influence animals and magical beasts that live underground.

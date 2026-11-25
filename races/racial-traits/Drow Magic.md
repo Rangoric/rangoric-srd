@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/racial-trait]
 
 **Race**: [[rangoric-srd/races/Half-Elf|Half-Elf]]. **Replaces**: adaptability.
 
-A few half-elves with drow ancestry exhibit the innate magic of that race. Half-elves with this trait have [[rangoric-srd/races/Drow|drow]] blood somewhere in their background, and can cast *[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Darkness|darkness]]*, and *[[rangoric-srd/spells/Faerie Fire|faerie fire]]* each once per day, using the half-elf's character level as the caster level for these spell-like abilities.
+A few half-elves with drow ancestry exhibit the innate magic of that race. Half-elves with this trait have [[rangoric-srd/races/Drow|drow]] blood somewhere in their background, and can cast _[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Darkness|darkness]]_, and _[[rangoric-srd/spells/Faerie Fire|faerie fire]]_ each once per day, using the half-elf's character level as the caster level for these spell-like abilities.

@@ -24,13 +24,13 @@ tags: [rangoric, rangoric/spell]
 
 # Step Sideways
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Hun 4, Rgr 4, Sor/Wiz 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level
+- **Level**: Hun 4, Rgr 4, Sor/Wiz 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level
 
-The *step sideways* spell allows the caster to make a single stride (a 5-foot move) into the borderland between the world and the fey realm. To onlookers, the caster has disappeared as if he stepped through a *[[rangoric-srd/spells/Dimension Door|dimension door]]*. While in the borderland, the caster cannot move other than to *step sideways* back into the mortal world. He can choose to wait in the borderland for a number of rounds equal to his caster level before stepping back sideways to the mortal world. If this duration lapses and the caster remains *sideways*, the caster risks being lost in the borderland (a 40% chance, less 1% per caster level).
+The _step sideways_ spell allows the caster to make a single stride (a 5-foot move) into the borderland between the world and the fey realm. To onlookers, the caster has disappeared as if he stepped through a _[[rangoric-srd/spells/Dimension Door|dimension door]]_. While in the borderland, the caster cannot move other than to _step sideways_ back into the mortal world. He can choose to wait in the borderland for a number of rounds equal to his caster level before stepping back sideways to the mortal world. If this duration lapses and the caster remains _sideways_, the caster risks being lost in the borderland (a 40% chance, less 1% per caster level).

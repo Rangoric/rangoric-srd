@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Soul Forger
 
-*A [[rangoric-srd/classes/Magus#^magus-archetypes|magus]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Magus#^magus-archetypes|magus]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 The soul forger has learned the skill of infusing the raw magical essence of his soul into armaments of surpassing power, combining the mystic arts with the arts of war in a unity of steely perfection.
 

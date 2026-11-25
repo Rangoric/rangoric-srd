@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Surprising Charge
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Battle Mystery|battle]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Battle Mystery|battle]] mystery._
 
 Once per day, you can move up to your speed as an immediate action. You can use this ability one additional time per day at 7th level and 15th level.

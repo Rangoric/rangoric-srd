@@ -20,14 +20,14 @@ tags: [rangoric, rangoric/magic-item]
 
 This slender staff of oak so dark it seems black is shod with iron. Decorated with necromantic runes, it is capped with a deep purple gem. It has the following powers:
 
-- *[[rangoric-srd/spells/Cause Fear|Cause fear]]* (at will, DC 13)
+- _[[rangoric-srd/spells/Cause Fear|Cause fear]]_ (at will, DC 13)
 
-- *[[rangoric-srd/spells/Scare|Scare]]* (1 charge, DC 15)
+- _[[rangoric-srd/spells/Scare|Scare]]_ (1 charge, DC 15)
 
-- *[[rangoric-srd/spells/Fear|Fear]]* (1 charge, DC 18)
+- _[[rangoric-srd/spells/Fear|Fear]]_ (1 charge, DC 18)
 
-- *[[rangoric-srd/spells/Nightmare (Spell)|Nightmare]]* (2 charges, DC 17)
+- _[[rangoric-srd/spells/Nightmare (Spell)|Nightmare]]_ (2 charges, DC 17)
 
-- *[[rangoric-srd/spells/Dream Travel (Spell)|Dream travel]]* (2 charges)
+- _[[rangoric-srd/spells/Dream Travel (Spell)|Dream travel]]_ (2 charges)
 
-CL 17th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (necromancy), *[[rangoric-srd/spells/Cause Fear|cause fear]]*, *[[rangoric-srd/spells/Dream Travel (Spell)|dream travel]]*, *[[rangoric-srd/spells/Fear|fear]]*, *[[rangoric-srd/spells/Nightmare (Spell)|nightmare]]*, *[[rangoric-srd/spells/Scare|scare]]*; Price 124,500 gp.
+CL 17th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (necromancy), _[[rangoric-srd/spells/Cause Fear|cause fear]]_, _[[rangoric-srd/spells/Dream Travel (Spell)|dream travel]]_, _[[rangoric-srd/spells/Fear|fear]]_, _[[rangoric-srd/spells/Nightmare (Spell)|nightmare]]_, _[[rangoric-srd/spells/Scare|scare]]_; Price 124,500 gp.

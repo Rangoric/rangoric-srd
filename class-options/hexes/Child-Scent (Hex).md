@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Child-Scent
 
-*A [[rangoric-srd/classes/Witch#^witch-hex|hex]] (Ex).*
+_A [[rangoric-srd/classes/Witch#^witch-hex|hex]] (Ex)._
 
 The witch gains the [[rangoric-srd/rules/Special Abilities and Conditions#Scent|scent]] ability, but only with respect to humanoid children and immature animals. Thus, she could sniff out a child's hiding place or a den of wolf pups, but not the child's parents or the den mother.

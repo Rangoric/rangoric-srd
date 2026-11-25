@@ -15,8 +15,8 @@ tags: [rangoric, rangoric/spell]
 
 # Malignant Web
 
-*Conjuration*
+_Conjuration_
 
-  - **Level**: Sor/Wiz 7
+- **Level**: Sor/Wiz 7
 
-As *[[rangoric-srd/spells/Sinister Web|sinister web]]*, except that paralyzed creatures take one point of temporary Dexterity damage each round they are paralyzed. The Dexterity damage is also a nonmagical poison effect.
+As _[[rangoric-srd/spells/Sinister Web|sinister web]]_, except that paralyzed creatures take one point of temporary Dexterity damage each round they are paralyzed. The Dexterity damage is also a nonmagical poison effect.

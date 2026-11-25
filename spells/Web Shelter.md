@@ -34,16 +34,16 @@ tags: [rangoric, rangoric/spell]
 
 # Web Shelter
 
-*Conjuration (Creation)*
+_Conjuration (Creation)_
 
-  - **Level**: Clr 2, Drd 2, Hun 2, Rgr 2, Sha 2, Sor/Wiz 2, Sum 2, SumU 2, Wit 2
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 minute
-  - **Range**: Close (25 ft. + 5 ft./two levels)
-  - **Effect**: 5 ft.–10 ft. diameter web sphere or 5 ft.–20 ft. hemisphere
-  - **Duration**: 1 hour/level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Clr 2, Drd 2, Hun 2, Rgr 2, Sha 2, Sor/Wiz 2, Sum 2, SumU 2, Wit 2
+- **Components**: V, S, DF
+- **Casting Time**: 1 minute
+- **Range**: Close (25 ft. + 5 ft./two levels)
+- **Effect**: 5 ft.–10 ft. diameter web sphere or 5 ft.–20 ft. hemisphere
+- **Duration**: 1 hour/level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You create a shelter of slightly sticky webbing. The shelter has a hinged door large enough to accommodate a Medium creature. The opaque walls of the shelter measure 1 inch thick and provide total cover to anyone within it.
 

@@ -26,6 +26,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/firearms]
 
 # Blunderbuss
 
-*Exotic two-handed early firearm (scatter).* Cost 2,000 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Range special; Misfire 1–2 (10 ft.); Capacity 1; Weight 8 lb.; Type Bludgeoning and piercing. ^stats
+_Exotic two-handed early firearm (scatter)._ Cost 2,000 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Range special; Misfire 1–2 (10 ft.); Capacity 1; Weight 8 lb.; Type Bludgeoning and piercing. ^stats
 
 This weapon fires pellets or a bullet from its trumpet-shaped barrel, making it an effective fowling weapon or close-fighting personal defense weapon. The blunderbuss fires in a 15-foot cone when firing pellets, and has a 10-foot range increment when firing a bullet. A blunderbuss uses a bullet or pellets and a single dose of black powder or a single alchemical cartridge as ammunition.

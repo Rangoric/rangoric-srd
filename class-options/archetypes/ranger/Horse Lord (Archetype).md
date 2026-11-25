@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Horse Lord
 
-*A [[rangoric-srd/classes/Ranger#^ranger-archetypes|ranger]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Ranger#^ranger-archetypes|ranger]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Rangers of the plains use horses or other riding beasts to hunt their lands, forging a near-mystical relationship with their mounts. Horse lords are unparalleled mounted combatants, the envy of even the most dedicated cavalier. Though called “horse lords” as a generic term, these rangers are not restricted to horses for their animal companions—any creature the ranger can ride is included in these abilities. A horse lord has the following class features.
 
@@ -29,4 +29,4 @@ Rangers of the plains use horses or other riding beasts to hunt their lands, for
 
 **Strong Bond (Ex)**: At 12th level, the horse lord strengthens his bond with his mount. The ranger's effective druid level for his mount is now equal to his ranger level. This ability replaces [[rangoric-srd/classes/Ranger#^ranger-camouflage|camouflage]].
 
-**Spiritual Bond (Su)**: At 17th level, the horse lord can grant his animal companion temporary hit points equal to his ranger level once per day. While these temporary hit points last, when his mount is within 30 feet of him, he can choose to share the damage taken by his mount as if using *[[rangoric-srd/spells/Shield Other|shield other]]*. This ability replaces [[rangoric-srd/classes/Ranger#^ranger-hide-in-plain-sight|hide in plain sight]].
+**Spiritual Bond (Su)**: At 17th level, the horse lord can grant his animal companion temporary hit points equal to his ranger level once per day. While these temporary hit points last, when his mount is within 30 feet of him, he can choose to share the damage taken by his mount as if using _[[rangoric-srd/spells/Shield Other|shield other]]_. This ability replaces [[rangoric-srd/classes/Ranger#^ranger-hide-in-plain-sight|hide in plain sight]].

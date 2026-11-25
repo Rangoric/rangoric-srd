@@ -49,18 +49,18 @@ The battle scion’s class skills (and the key ability for each skill) are [[ran
 
 **Table: The Battle Scion**
 
-| Level | Special |
-| --- | --- |
-| 1st | Bonus feat, Weapon Specialization or Two-Weapon Fighting |
-| 2nd | — |
-| 3rd | — |
-| 4th | Bonus feat |
-| 5th | — |
-| 6th | — |
-| 7th | Bonus feat |
-| 8th | — |
-| 9th | — |
-| 10th | Bonus feat |
+| Level | Special                                                  |
+| ----- | -------------------------------------------------------- |
+| 1st   | Bonus feat, Weapon Specialization or Two-Weapon Fighting |
+| 2nd   | —                                                        |
+| 3rd   | —                                                        |
+| 4th   | Bonus feat                                               |
+| 5th   | —                                                        |
+| 6th   | —                                                        |
+| 7th   | Bonus feat                                               |
+| 8th   | —                                                        |
+| 9th   | —                                                        |
+| 10th  | Bonus feat                                               |
 
 ^table-the-battle-scion
 
@@ -70,7 +70,7 @@ The following are class features of the battle scion prestige class. A legendary
 
 **Weapon and Armor Proficiency**: Battle scions gain no proficiency with any weapon or armor, not even with their legendary weapon (see [[rangoric-srd/unearthed-arcana/Legendary Weapons & Familiar Items#^scion-proficiency|Rules and Restrictions]]). ^battle-scion-proficiency
 
-**Bonus Feats:** At 1st level, a battle scion receives a bonus feat. Thereafter, he gains an additional bonus feat at 4th, 7th, and 10th level. These bonus feats must be [[rangoric-srd/feats/Feats Overview#Fighter Bonus Feats|fighter bonus feats]] (the tag *fighter-bonus*). A battle scion must still meet all prerequisites to take a bonus feat.
+**Bonus Feats:** At 1st level, a battle scion receives a bonus feat. Thereafter, he gains an additional bonus feat at 4th, 7th, and 10th level. These bonus feats must be [[rangoric-srd/feats/Feats Overview#Fighter Bonus Feats|fighter bonus feats]] (the tag _fighter-bonus_). A battle scion must still meet all prerequisites to take a bonus feat.
 
 **Two-Weapon Fighting ([[rangoric-srd/unearthed-arcana/Legendary Weapons & Familiar Items#^blade-and-staff-scions|staff scions]] only)**: If a staff scion does not already have the [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]] feat, he gains it at 1st level. The wielder does not benefit from the Two-Weapon Fighting feat unless he meets the feat’s prerequisites, however. If the legendary weapon does not actually require two hands to use in combat, the wielder gains [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] with the weapon instead. ^battle-scion-two-weapon-fighting
 

@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Perfect Thrust
 
-*A [[rangoric-srd/classes/Swashbuckler#^swashbuckler-deeds|swashbuckler deed]] (Ex), 15th level.*
+_A [[rangoric-srd/classes/Swashbuckler#^swashbuckler-deeds|swashbuckler deed]] (Ex), 15th level._
 
 At 15th level, while the swashbuckler has at least 1 panache point, she can as a full-round action make a perfect thrust, pooling all of her attack potential into a single melee attack made with a light or one-handed piercing melee weapon. When she does, she makes the attack against the target's touch AC, and ignores all damage reduction.

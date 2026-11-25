@@ -41,25 +41,25 @@ tags: [rangoric, rangoric/monster]
 
 # Air Elemental, Huge
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Air, Elemental, Extraplanar)
-  - **Hit Dice**: 10d10+40 (95 hp)
-  - **Initiative**: +13
-  - **Speed**: fly 100 ft. (perfect)
-  - **Armor Class**: 22 (+9 Dex, +1 dodge, +4 natural, –2 size), touch 18, flat-footed 12
-  - **Base Attack**: +10; **CMB**: +18; **CMD**: 38
-  - **Attack**: Slam +17 melee (2d6+6)
-  - **Full Attack**: 2 slams +17 melee (2d6+6)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Whirlwind|Whirlwind]] (DC 21)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/elemental/Air Elemental#^air-mastery|air mastery]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-  - **Saves**: Fort +11, Ref +16, Will +5
-  - **Abilities**: Str 22, Dex 29, Con 18, Int 6, Wis 11, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +23, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +18, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +9, [[rangoric-srd/skills/Theology|Theology]] +7
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Elemental Plane of Air
-  - **Organization**: Solitary, pair, or gang (3–8)
-  - **Challenge Rating**: 7
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 11–20 HD (Huge)
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Air, Elemental, Extraplanar)
+- **Hit Dice**: 10d10+40 (95 hp)
+- **Initiative**: +13
+- **Speed**: fly 100 ft. (perfect)
+- **Armor Class**: 22 (+9 Dex, +1 dodge, +4 natural, –2 size), touch 18, flat-footed 12
+- **Base Attack**: +10; **CMB**: +18; **CMD**: 38
+- **Attack**: Slam +17 melee (2d6+6)
+- **Full Attack**: 2 slams +17 melee (2d6+6)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Whirlwind|Whirlwind]] (DC 21)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/elemental/Air Elemental#^air-mastery|air mastery]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
+- **Saves**: Fort +11, Ref +16, Will +5
+- **Abilities**: Str 22, Dex 29, Con 18, Int 6, Wis 11, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +23, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +18, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +9, [[rangoric-srd/skills/Theology|Theology]] +7
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Elemental Plane of Air
+- **Organization**: Solitary, pair, or gang (3–8)
+- **Challenge Rating**: 7
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 11–20 HD (Huge)
+- **Level Adjustment**: —

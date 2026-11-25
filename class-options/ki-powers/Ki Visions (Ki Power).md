@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Ki Visions
 
-*A [[rangoric-srd/classes/Unchained Monk#^unchained-monk-ki-powers|ki power]] (Su).*
+_A [[rangoric-srd/classes/Unchained Monk#^unchained-monk-ki-powers|ki power]] (Su)._
 
-A monk with this ability often sees visions of spirits or hears the voice of his departed mentor in his dreams. On any given night during which the monk dreams, he can use this ability to gain the benefits of a *[[rangoric-srd/spells/Divination|divination]]*. If he does, he spends 2 ki points from the next day's total. A monk must be at least 10th level before selecting this ki power.
+A monk with this ability often sees visions of spirits or hears the voice of his departed mentor in his dreams. On any given night during which the monk dreams, he can use this ability to gain the benefits of a _[[rangoric-srd/spells/Divination|divination]]_. If he does, he spends 2 ki points from the next day's total. A monk must be at least 10th level before selecting this ki power.

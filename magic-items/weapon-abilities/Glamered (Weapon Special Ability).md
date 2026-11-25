@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Glamered
 
-A *glamered* weapon can be commanded to change its shape and appearance to assume the form of another object of similar size. The weapon retains all its properties (including weight) when so disguised but does not radiate magic. Only *[[rangoric-srd/spells/True Seeing|true seeing]]* or similar magic reveals the true nature of a *glamered* weapon while it is disguised. After a *glamered* weapon is used to attack, this special ability is suppressed for 1 minute.
+A _glamered_ weapon can be commanded to change its shape and appearance to assume the form of another object of similar size. The weapon retains all its properties (including weight) when so disguised but does not radiate magic. Only _[[rangoric-srd/spells/True Seeing|true seeing]]_ or similar magic reveals the true nature of a _glamered_ weapon while it is disguised. After a _glamered_ weapon is used to attack, this special ability is suppressed for 1 minute.
 
-Moderate illusion; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Disguise Self|disguise self]]*, *[[rangoric-srd/spells/Magic Aura|magic aura]]*; Price +4,000 gp.
+Moderate illusion; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Disguise Self|disguise self]]_, _[[rangoric-srd/spells/Magic Aura|magic aura]]_; Price +4,000 gp.

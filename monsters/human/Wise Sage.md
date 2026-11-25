@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Wise Sage
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 8d8–8 (28 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 11 (+1 deflection), touch 11, flat-footed 11
-  - **Base Attack**: +6; **CMB**: +5; **CMD**: 16
-  - **Attack**: [[rangoric-srd/equipment/weapons/Quarterstaff|Quarterstaff]] +5 melee (1d6–1)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Quarterstaff|Quarterstaff]] +5/+0 melee (1d6–1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: —
-  - **Saves**: Fort +2, Ref +3, Will +8
-  - **Abilities**: Str 9, Dex 10, Con 8, Int 16, Wis 13, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +14, [[rangoric-srd/skills/Arcana|Arcana]] +18, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +7, [[rangoric-srd/skills/Emulation|Emulation]] +14, [[rangoric-srd/skills/Engineering|Engineering]] +7, [[rangoric-srd/skills/Linguistics|Linguistics]] +14, [[rangoric-srd/skills/Nature|Nature]] +17, [[rangoric-srd/skills/Society|Society]] +14, [[rangoric-srd/skills/Theology|Theology]] +17
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Arcana, Knowledge \[arcana, Emulation, nature, planes\])
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 6
-  - **Treasure**: NPC gear (combat gear: potion of cure moderate wounds, scroll of expeditious retreat, scroll of glitterdust, scrolls of identify (4), scroll of invisibility, scroll of mage armor, scroll of remove curse, wand of detect magic (20 charges), wand of scorching ray (10 charges); other gear: quarterstaff, cloak of resistance +1, ring of protection +1, everburning torch, bit and bridle, light horse, riding saddle, 628 gp)
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 8d8–8 (28 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 11 (+1 deflection), touch 11, flat-footed 11
+- **Base Attack**: +6; **CMB**: +5; **CMD**: 16
+- **Attack**: [[rangoric-srd/equipment/weapons/Quarterstaff|Quarterstaff]] +5 melee (1d6–1)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Quarterstaff|Quarterstaff]] +5/+0 melee (1d6–1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: —
+- **Saves**: Fort +2, Ref +3, Will +8
+- **Abilities**: Str 9, Dex 10, Con 8, Int 16, Wis 13, Cha 11
+- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +14, [[rangoric-srd/skills/Arcana|Arcana]] +18, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +7, [[rangoric-srd/skills/Emulation|Emulation]] +14, [[rangoric-srd/skills/Engineering|Engineering]] +7, [[rangoric-srd/skills/Linguistics|Linguistics]] +14, [[rangoric-srd/skills/Nature|Nature]] +17, [[rangoric-srd/skills/Society|Society]] +14, [[rangoric-srd/skills/Theology|Theology]] +17
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Arcana, Knowledge \[arcana, Emulation, nature, planes\])
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 6
+- **Treasure**: NPC gear (combat gear: potion of cure moderate wounds, scroll of expeditious retreat, scroll of glitterdust, scrolls of identify (4), scroll of invisibility, scroll of mage armor, scroll of remove curse, wand of detect magic (20 charges), wand of scorching ray (10 charges); other gear: quarterstaff, cloak of resistance +1, ring of protection +1, everburning torch, bit and bridle, light horse, riding saddle, 628 gp)
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A wise sage is a [[rangoric-srd/monsters/human/Human|human]] with 8 levels of [[rangoric-srd/classes/Expert|expert]]. A wise sage's cantankerous manner evaporates when she's expounding on matters of scholarly minutia. The sage's breadth of general knowledge allows her to speak on most topics, and her precious magic items let her gain enough clues to direct her further research. If she reaches her limit on a topic, she may refer the questioner to a specialist in that field—or she may not, in order to preserve her pride.
 

@@ -17,4 +17,4 @@ You use your gnome magic to take on an eerie illusory appearance.
 
 **Prerequisites**: Cha 13, [[rangoric-srd/races/Gnome|gnome magic]] racial trait, [[rangoric-srd/skills/Arcana|Arcana]] 1 rank.
 
-**Benefit**: You add *[[rangoric-srd/spells/Haunted Fey Aspect|haunted fey aspect]]* to your list of [[rangoric-srd/races/Gnome|gnome magic]] spell-like abilities, and you can use this spell-like ability twice per day.
+**Benefit**: You add _[[rangoric-srd/spells/Haunted Fey Aspect|haunted fey aspect]]_ to your list of [[rangoric-srd/races/Gnome|gnome magic]] spell-like abilities, and you can use this spell-like ability twice per day.

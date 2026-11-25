@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Spellsteal
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Clr 5, Psy 5, Sor/Wiz 5, Wit 5
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Target**: One creature
-  - **Duration**: Instantaneous and see text
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Clr 5, Psy 5, Sor/Wiz 5, Wit 5
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Target**: One creature
+- **Duration**: Instantaneous and see text
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 You create a discordant blast of energy that disrupts the target's available magic and transfers knowledge of that magic to you.
 

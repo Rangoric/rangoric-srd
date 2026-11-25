@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/pole-arms]
 
 # Tepoztopilli
 
-*Martial two-handed melee weapon (reach).* Cost 8 gp; Dmg 1d8 (S), 1d10 (M); Critical 19–20/x2; Weight 8 lb.; Type Piercing or slashing. ^stats
+_Martial two-handed melee weapon (reach)._ Cost 8 gp; Dmg 1d8 (S), 1d10 (M); Critical 19–20/x2; Weight 8 lb.; Type Piercing or slashing. ^stats
 
 The head of this wooden polearm is edged with jagged bits obsidian, glass, teeth, or similar materials. The wide head serves well for both piercing and slashing attacks.
 

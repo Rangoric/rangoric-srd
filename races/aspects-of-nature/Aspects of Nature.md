@@ -24,7 +24,7 @@ In addition to the bonuses and penalties, there are physical, emotional, and mag
 
 For example, a feeorin [[rangoric-srd/classes/Sorcerer|sorcerer]] decides to champion the season autumn. After taking the Nature’s Aspect feat, his skin turns a reddish-hued sepia tone, and his hair becomes a mottled orange and brown pattern. His hair also grows thicker and almost twig-like in some places. This change grants him a +3 circumstance bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks in natural surroundings during autumn while leaves shift to vivid colors. Upon choosing the role of a Fey of Autumnal Splendor, he gains a +1 resistance bonus to Reflex saves and a –1 resistance penalty to Fortitude saves.
 
-Any spells cast by the character are also slightly affected by the Aspect of Nature, shifting in their visual or audible effects slightly. These subtle change can help those feats work more effectively (add +1 to the DC of any Mysticism check made to identify an affected spell; see [[rangoric-srd/skills/Mysticism|Mysticism]]). For example, if that feeorin casts the spell *[[rangoric-srd/spells/Magic Missile|magic missile]]*, it still appears as a missile of magical energy darting from his fingertips. His Aspect of the Autumn, however, could manifest a whooshing noise similar to rustling leaves with the normally silent spell, or autumn leaves themselves might seem to stream behind the *magic missile* as it streaks toward its target.
+Any spells cast by the character are also slightly affected by the Aspect of Nature, shifting in their visual or audible effects slightly. These subtle change can help those feats work more effectively (add +1 to the DC of any Mysticism check made to identify an affected spell; see [[rangoric-srd/skills/Mysticism|Mysticism]]). For example, if that feeorin casts the spell _[[rangoric-srd/spells/Magic Missile|magic missile]]_, it still appears as a missile of magical energy darting from his fingertips. His Aspect of the Autumn, however, could manifest a whooshing noise similar to rustling leaves with the normally silent spell, or autumn leaves themselves might seem to stream behind the _magic missile_ as it streaks toward its target.
 
 Given the strong feelings that draw a fey to champion an Aspect of Nature, it is not uncommon for a fey to retain a particular aspect for his entire life. Some even become so representative of their chosen Aspect that they become inseparably associated with it.
 
@@ -89,15 +89,15 @@ The various facets that make up an Aspect of Nature have two distinct categories
 
 Permanent Effects are constantly in effect and can not be turned off without changing or removing the facet or Aspect.
 
-**Capable Spellcasting:** Spells of a particular school or descriptor are cast as if by a spellcaster of one level higher. This is offset by the *crude spellcasting* effect on an opposing school(s) or descriptor(s).
+**Capable Spellcasting:** Spells of a particular school or descriptor are cast as if by a spellcaster of one level higher. This is offset by the _crude spellcasting_ effect on an opposing school(s) or descriptor(s).
 
-**Crude Spellcasting:** When spells of a certain school or descriptor are cast, they are cast as if by a spellcaster of one level lower. This is offset by the *capable spellcasting* effect on an opposing school or descriptor.
+**Crude Spellcasting:** When spells of a certain school or descriptor are cast, they are cast as if by a spellcaster of one level lower. This is offset by the _capable spellcasting_ effect on an opposing school or descriptor.
 
 **Saving Throws:** A bonus to one saving throw offsets a penalty to another; these never incur more than a +1/-1 adjustment unless stacking with another facet.
 
-**Spell Resistant:** Resistant is the ability to shrug off one point of damage per die (to a minimum of one point of damage sustained per die) when being injured by a particular element or type of magic. This is offset by the *spell vulnerable* effect.
+**Spell Resistant:** Resistant is the ability to shrug off one point of damage per die (to a minimum of one point of damage sustained per die) when being injured by a particular element or type of magic. This is offset by the _spell vulnerable_ effect.
 
-**Spell Vulnerable:** Vulnerabilities add an additional point of damage per die suffered by the character. This is offset by the *spell resistant* effect.
+**Spell Vulnerable:** Vulnerabilities add an additional point of damage per die suffered by the character. This is offset by the _spell resistant_ effect.
 
 ### Temporary Effects
 

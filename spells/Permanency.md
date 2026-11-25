@@ -25,12 +25,12 @@ tags: [rangoric, rangoric/spell]
 
 # Permanency
 
-*Universal*
+_Universal_
 
-  - **Level**: Psy 5, Sor/Wiz 5
-  - **Components**: V, S, XP
-  - **Casting Time**: 2 rounds
-  - **Range**: See text
+- **Level**: Psy 5, Sor/Wiz 5
+- **Components**: V, S, XP
+- **Casting Time**: 2 rounds
+- **Range**: See text
 
 Target, Effect, or Area: See text  
 Duration: Permanent; see text  
@@ -43,8 +43,8 @@ Depending on the spell, you must be of a minimum caster level and must expend a 
 
 You can make the following spells permanent in regard to yourself.
 
-| Spell                                                                | Minimum Caster Level | XP Cost  |
-| -------------------------------------------------------------------- | -------------------- | -------- |
+| Spell                                                              | Minimum Caster Level | XP Cost  |
+| ------------------------------------------------------------------ | -------------------- | -------- |
 | [[rangoric-srd/spells/Arcane Sight\|Arcane sight]]                 | 11th                 | 1,500 XP |
 | [[rangoric-srd/spells/Comprehend Languages\|Comprehend languages]] | 9th                  | 500 XP   |
 | [[rangoric-srd/spells/Darkvision\|Darkvision]]                     | 10th                 | 1,000 XP |
@@ -57,22 +57,22 @@ You cast the desired spell and then follow it with the permanency spell. You can
 
 In addition to personal use, permanency can be used to make the following spells permanent on yourself, another creature, or an object (as appropriate).
 
-| Spell                                                              | Minimum Caster Level | XP Cost  |
-| ------------------------------------------------------------------ | -------------------- | -------- |
+| Spell                                                            | Minimum Caster Level | XP Cost  |
+| ---------------------------------------------------------------- | -------------------- | -------- |
 | [[rangoric-srd/spells/Enlarge Person\|Enlarge person]]           | 9th                  | 500 XP   |
-| [[rangoric-srd/spells/Feyform\|Feyform]] | 16th | 4,000 XP |
+| [[rangoric-srd/spells/Feyform\|Feyform]]                         | 16th                 | 4,000 XP |
 | [[rangoric-srd/spells/Magic Fang\|Magic fang]]                   | 9th                  | 500 XP   |
 | [[rangoric-srd/spells/Magic Fang, Greater\|Magic fang, greater]] | 11th                 | 1,500 XP |
 | [[rangoric-srd/spells/Reduce Person\|Reduce person]]             | 9th                  | 500 XP   |
 | [[rangoric-srd/spells/Resistance\|Resistance]]                   | 9th                  | 500 XP   |
 | [[rangoric-srd/spells/Telepathic Bond\|Telepathic bond]] (1)     | 13th                 | 2,500 XP |
 
-1 *Only bonds two creatures per casting of permanency.*
+1 _Only bonds two creatures per casting of permanency._
 
 Additionally, the following spells can be cast upon objects or areas only and rendered permanent.
 
-| Spell                                                                    | Minimum Caster Level | XP Cost  |
-| ------------------------------------------------------------------------ | -------------------- | -------- |
+| Spell                                                                  | Minimum Caster Level | XP Cost  |
+| ---------------------------------------------------------------------- | -------------------- | -------- |
 | [[rangoric-srd/spells/Alarm\|Alarm]]                                   | 9th                  | 500 XP   |
 | [[rangoric-srd/spells/Animate Objects\|Animate objects]]               | 14th                 | 3,000 XP |
 | [[rangoric-srd/spells/Dancing Lights\|Dancing lights]]                 | 9th                  | 500 XP   |
@@ -102,4 +102,4 @@ Additionally, the following spells can be cast upon objects or areas only and re
 
 Spells cast on other creatures, objects, or locations (not on you) are vulnerable to dispel magic as normal.
 
-*XP Cost*: See tables above.
+_XP Cost_: See tables above.

@@ -57,17 +57,17 @@ The dragon disciple’s class skills (and the key ability for each skill) are [[
 
 **Table: The Dragon Disciple**
 
-| Level | Special                                             | Bonus Spells | Spells per Day |
-| ----- | --------------------------------------------------- | ------------ | -------------- |
-| 1st   | Blood of dragons, natural armor increase (+1)       | 1            | — |
-| 2nd   | Ability boost (Str +2), bloodline feat, claws and bite | 1            | +1 level of existing arcane spellcasting class |
-| 3rd   | Breath weapon                                       | 0            | +1 level of existing arcane spellcasting class |
-| 4th   | Ability boost (Str +2), natural armor increase (+2) | 1            | +1 level of existing arcane spellcasting class |
-| 5th   | Blindsense 30 ft., bloodline feat                   | 1            | — |
-| 6th   | Ability boost (Con +2), energy bite                 | 1            | +1 level of existing arcane spellcasting class |
-| 7th   | Dragon form (1/day), natural armor increase (+3) | 0            | +1 level of existing arcane spellcasting class |
-| 8th   | Ability boost (Int +2), bloodline feat              | 1            | +1 level of existing arcane spellcasting class |
-| 9th   | Wings                                               | 1            | — |
+| Level | Special                                                   | Bonus Spells | Spells per Day                                 |
+| ----- | --------------------------------------------------------- | ------------ | ---------------------------------------------- |
+| 1st   | Blood of dragons, natural armor increase (+1)             | 1            | —                                              |
+| 2nd   | Ability boost (Str +2), bloodline feat, claws and bite    | 1            | +1 level of existing arcane spellcasting class |
+| 3rd   | Breath weapon                                             | 0            | +1 level of existing arcane spellcasting class |
+| 4th   | Ability boost (Str +2), natural armor increase (+2)       | 1            | +1 level of existing arcane spellcasting class |
+| 5th   | Blindsense 30 ft., bloodline feat                         | 1            | —                                              |
+| 6th   | Ability boost (Con +2), energy bite                       | 1            | +1 level of existing arcane spellcasting class |
+| 7th   | Dragon form (1/day), natural armor increase (+3)          | 0            | +1 level of existing arcane spellcasting class |
+| 8th   | Ability boost (Int +2), bloodline feat                    | 1            | +1 level of existing arcane spellcasting class |
+| 9th   | Wings                                                     | 1            | —                                              |
 | 10th  | Blindsense 60 ft., dragon apotheosis, dragon form (2/day) | 0            | +1 level of existing arcane spellcasting class |
 
 ###### Class Features

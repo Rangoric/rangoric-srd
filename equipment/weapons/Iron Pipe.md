@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/hammers, weapon-group/mo
 
 # Iron Pipe
 
-*Simple one-handed melee weapon.* Cost 5 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 2 lb.; Type Bludgeoning. ^stats
+_Simple one-handed melee weapon._ Cost 5 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 2 lb.; Type Bludgeoning. ^stats
 
-(*Tie Yan Dao*): Another seemingly innocuous weapon, the iron pipe is a long, slender smoking pipe constructed entirely of iron. The bowl is heavy enough to strike clubbing blows. All monks are automatically proficient in the use of this weapon.
+(_Tie Yan Dao_): Another seemingly innocuous weapon, the iron pipe is a long, slender smoking pipe constructed entirely of iron. The bowl is heavy enough to strike clubbing blows. All monks are automatically proficient in the use of this weapon.

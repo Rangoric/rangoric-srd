@@ -25,15 +25,15 @@ tags: [rangoric, rangoric/spell]
 
 # Severed Fate
 
-*Enchantment*
+_Enchantment_
 
-  - **Level**: Clr 3, Wit 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One living creature
-  - **Duration**: 10 minutes/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Clr 3, Wit 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One living creature
+- **Duration**: 10 minutes/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
-You curse the target, preventing it from drawing upon the powers of destiny. The target is shaken and cannot use [[rangoric-srd/unearthed-arcana/Hero Points|hero points]] for the duration of the spell. This effect can be removed by *dispel magic, remove curse*, or other similar effects.
+You curse the target, preventing it from drawing upon the powers of destiny. The target is shaken and cannot use [[rangoric-srd/unearthed-arcana/Hero Points|hero points]] for the duration of the spell. This effect can be removed by _dispel magic, remove curse_, or other similar effects.

@@ -31,16 +31,16 @@ tags: [rangoric, rangoric/spell]
 
 # Whispering Wind
 
-*Transmutation \[Air\]*
+_Transmutation \[Air\]_
 
-  - **Level**: Brd 2, Inq 2, Med 2, Mes 2, Psy 2, Skd 2, Sor/Wiz 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: 1 mile/level
-  - **Area**: 10-ft.-radius spread
-  - **Duration**: No more than 1 hour/level or until discharged (destination is reached)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Brd 2, Inq 2, Med 2, Mes 2, Psy 2, Skd 2, Sor/Wiz 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: 1 mile/level
+- **Area**: 10-ft.-radius spread
+- **Duration**: No more than 1 hour/level or until discharged (destination is reached)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You send a message or sound on the wind to a designated spot. The whispering wind travels to a specific location within range that is familiar to you, provided that it can find a way to the location. A whispering wind is as gentle and unnoticed as a zephyr until it reaches the location. It then delivers its whisper-quiet message or other sound. Note that the message is delivered regardless of whether anyone is present to hear it. The wind then dissipates.
 

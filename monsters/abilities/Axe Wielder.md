@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Axe Wielder
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “axe wielder”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “axe wielder”, on the Special Qualities line.
 
 All cave giants are proficient with handaxes, battleaxes, and greataxes. The [[rangoric-srd/monsters/giant/Cave Giant|cave giant]] has it.

@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/weapon]
 
 # Adamantine Firearm Bullet
 
-*Ammunition for firearms.* Cost 61 gp; Weight —. ^stats
+_Ammunition for firearms._ Cost 61 gp; Weight —. ^stats
 
 These expensive bullets are crafted from adamantine. They ignore hardness 20 or less when attacking objects.

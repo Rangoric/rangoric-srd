@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Unexpected Strike
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
 The vigilante gains [[rangoric-srd/feats/Quick Draw|Quick Draw]] as a bonus feat. At 8th level, he can draw hidden weapons as a swift action (instead of a move action).

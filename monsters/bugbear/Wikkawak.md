@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Wikkawak
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Goblinoid)
-  - **Hit Dice**: 6d8+12 (39 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 19 (+3 armor, +3 Dex, +3 natural), touch 13, flat-footed 16
-  - **Base Attack**: +4; **CMB**: +9; **CMD**: 22
-  - **Attack**: [[rangoric-srd/equipment/weapons/Battleaxe|Battleaxe]] +9 melee (1d8+7/×3) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +7 ranged (1d6+5)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Battleaxe|Battleaxe]] +9 melee (1d8+7/×3); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +7 ranged (1d6+5)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Thuggery|thuggery]], [[rangoric-srd/monsters/abilities/Trackless|trackless]] step, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 5
-  - **Saves**: Fort +4, Ref +8, Will +3
-  - **Abilities**: Str 20, Dex 17, Con 15, Int 12, Wis 13, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +16
-  - **Feats**: [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (battleaxe), [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Cold mountains
-  - **Organization**: Solitary, pair, gang (3–6), or warband (7–12 plus 3 warriors of 1st level and 1 chieftain of 3rd–5th level)
-  - **Challenge Rating**: 4
-  - **Treasure**: NPC gear (mwk studded leather armor, battleaxe, 3 javelins, other treasure)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Goblinoid)
+- **Hit Dice**: 6d8+12 (39 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 19 (+3 armor, +3 Dex, +3 natural), touch 13, flat-footed 16
+- **Base Attack**: +4; **CMB**: +9; **CMD**: 22
+- **Attack**: [[rangoric-srd/equipment/weapons/Battleaxe|Battleaxe]] +9 melee (1d8+7/×3) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +7 ranged (1d6+5)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Battleaxe|Battleaxe]] +9 melee (1d8+7/×3); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +7 ranged (1d6+5)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Thuggery|thuggery]], [[rangoric-srd/monsters/abilities/Trackless|trackless]] step, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 5
+- **Saves**: Fort +4, Ref +8, Will +3
+- **Abilities**: Str 20, Dex 17, Con 15, Int 12, Wis 13, Cha 12
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +16
+- **Feats**: [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (battleaxe), [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Cold mountains
+- **Organization**: Solitary, pair, gang (3–6), or warband (7–12 plus 3 warriors of 1st level and 1 chieftain of 3rd–5th level)
+- **Challenge Rating**: 4
+- **Treasure**: NPC gear (mwk studded leather armor, battleaxe, 3 javelins, other treasure)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The goblinoid race of bugbears infests all regions of the world, and these cruel creatures have adapted to the various climes where they make their homes. In the icy wastes, a race of albino bugbears called wikkawaks stalk the windswept glaciers and frozen mountaintops.
 
@@ -77,6 +77,6 @@ Wikkawaks speak Common, Giant and Goblin.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +5): 3/day—*[[rangoric-srd/spells/Quench|quench]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +5): 3/day—_[[rangoric-srd/spells/Quench|quench]]_.
 
 **[[rangoric-srd/monsters/abilities/Thuggery|Thuggery]] (Ex)**: Intimidation and Perception are class skills for wikkawaks.

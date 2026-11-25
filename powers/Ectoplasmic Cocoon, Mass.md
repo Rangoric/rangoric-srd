@@ -27,7 +27,7 @@ Area: 20-ft.-radius burst
 Duration: 1 hour/level (D)  
 Saving Throw: Reflex negates  
 Power Resistance: No  
-Power Points: 13  
+Power Points: 13
 
 As [[rangoric-srd/powers/Ectoplasmic Cocoon|ectoplasmic cocoon]], except you can cocoon several creatures (or a single big creature that fits in a 20-footradius sphere or hemisphere) in a mass of writhing ectoplasm. Targets entirely within the area who fail their save are caught and cocooned. If a creature’s body is only partially within the area, this power does not affect that creature.
 

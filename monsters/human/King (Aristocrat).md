@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # King (Aristocrat)
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 10d8+5 (50 hp)
-  - **Initiative**: +0
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 18 (+7 armor, +1 deflection), touch 11, flat-footed 18
-  - **Base Attack**: +7; **CMB**: +6; **CMD**: 17
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +8 melee (1d8–1/19–20) or [[rangoric-srd/equipment/weapons/Light Mace|light mace]] +6 melee (1d6–1) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +8 ranged (1d4–1/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +8/+3 melee (1d8–1/19–20); or [[rangoric-srd/equipment/weapons/Light Mace|light mace]] +6/+1 melee (1d6–1); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +8/+3 ranged (1d4–1/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: —
-  - **Saves**: Fort +6, Ref +4, Will +10
-  - **Abilities**: Str 8, Dex 11, Con 10, Int 14, Wis 10, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Linguistics|Linguistics]] +9, [[rangoric-srd/skills/Perception|Perception]] +11, Perform (dance) +6, Perform (oratory) +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +21, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Society|Society]] +15, [[rangoric-srd/skills/Theology|Theology]] +8
-  - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Persuasion), [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 8
-  - **Treasure**: NPC gear (combat gear: potion of cure serious wounds, potion of delay poison; other gear: +1 glamered breastplate, masterwork dagger, masterwork longsword, cloak of resistance +1, ring of protection +1, royal outfit, crown (worth 500 gp), royal scepter (worth 250 gp, as light mace in combat), royal seal (worth 150 gp), 233 gp)
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 10d8+5 (50 hp)
+- **Initiative**: +0
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 18 (+7 armor, +1 deflection), touch 11, flat-footed 18
+- **Base Attack**: +7; **CMB**: +6; **CMD**: 17
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +8 melee (1d8–1/19–20) or [[rangoric-srd/equipment/weapons/Light Mace|light mace]] +6 melee (1d6–1) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +8 ranged (1d4–1/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +8/+3 melee (1d8–1/19–20); or [[rangoric-srd/equipment/weapons/Light Mace|light mace]] +6/+1 melee (1d6–1); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +8/+3 ranged (1d4–1/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: —
+- **Saves**: Fort +6, Ref +4, Will +10
+- **Abilities**: Str 8, Dex 11, Con 10, Int 14, Wis 10, Cha 14
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Linguistics|Linguistics]] +9, [[rangoric-srd/skills/Perception|Perception]] +11, Perform (dance) +6, Perform (oratory) +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +21, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Society|Society]] +15, [[rangoric-srd/skills/Theology|Theology]] +8
+- **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Persuasion), [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 8
+- **Treasure**: NPC gear (combat gear: potion of cure serious wounds, potion of delay poison; other gear: +1 glamered breastplate, masterwork dagger, masterwork longsword, cloak of resistance +1, ring of protection +1, royal outfit, crown (worth 500 gp), royal scepter (worth 250 gp, as light mace in combat), royal seal (worth 150 gp), 233 gp)
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A king (aristocrat) is a [[rangoric-srd/monsters/human/Human|human]] with 10 levels of [[rangoric-srd/classes/Aristocrat|aristocrat]]. Though once an even-tempered and capable ruler, the king tires of the responsibilities of the crown and reflects fondly on his days as a questing noble knight, free of court intrigue and stifling castle walls. Petitioners who bore or offend him risk arousing his anger, as do sycophants and hangers-on. He admires soldiers, knights, and adventurers, though he doesn't tolerate disrespect of himself, his family, or his country.
 

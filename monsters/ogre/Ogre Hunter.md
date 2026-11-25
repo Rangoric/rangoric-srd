@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Ogre Hunter
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
-  - **Hit Dice**: 4d8+6d10+30 (81 hp)
-  - **Initiative**: +5
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 22 (+6 armor, +1 deflection, +1 Dex, +5 natural, –1 size), touch 11, flat-footed 21
-  - **Base Attack**: +9; **CMB**: +18; **CMD**: 30
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +18 melee (3d6+12/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Shortbow|composite shortbow]] +10 ranged (1d8+8/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +18/+13 melee (3d6+12/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Shortbow|composite shortbow]] +10/+5 ranged (1d8+8/×3)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] ([[rangoric-srd/class-options/combat-styles/Two-Handed Weapon Combat Style|two-handed weapon]]), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (animals +2, humans +4)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (forest +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter’s bond]] ([[rangoric-srd/class-options/animal-companions/Wolf (Animal Companion)|wolf]] [[rangoric-srd/classes/Ranger#^ranger-animal-companion|animal companion]]), [[rangoric-srd/classes/Ranger|track]] +3, [[rangoric-srd/classes/Ranger|wild empathy]] +3
-  - **Saves**: Fort +13, Ref +10, Will +6
-  - **Abilities**: Str 26, Dex 12, Con 17, Int 8, Wis 10, Cha 5
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +9
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greatsword)
-  - **Environment**: Temperate or cold hills
-  - **Organization**: Solitary, or with other ogres (see [[rangoric-srd/monsters/ogre/Ogre|Ogre]])
-  - **Challenge Rating**: 9
-  - **Treasure**: NPC gear (combat gear: potion of cure moderate wounds; other gear: rhino hide, masterwork composite shortbow with 20 arrows, masterwork greatsword, cloak of resistance +1, ring of protection +1, 60 gp)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
+- **Hit Dice**: 4d8+6d10+30 (81 hp)
+- **Initiative**: +5
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 22 (+6 armor, +1 deflection, +1 Dex, +5 natural, –1 size), touch 11, flat-footed 21
+- **Base Attack**: +9; **CMB**: +18; **CMD**: 30
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +18 melee (3d6+12/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Shortbow|composite shortbow]] +10 ranged (1d8+8/×3)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +18/+13 melee (3d6+12/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Shortbow|composite shortbow]] +10/+5 ranged (1d8+8/×3)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] ([[rangoric-srd/class-options/combat-styles/Two-Handed Weapon Combat Style|two-handed weapon]]), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (animals +2, humans +4)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (forest +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter’s bond]] ([[rangoric-srd/class-options/animal-companions/Wolf (Animal Companion)|wolf]] [[rangoric-srd/classes/Ranger#^ranger-animal-companion|animal companion]]), [[rangoric-srd/classes/Ranger|track]] +3, [[rangoric-srd/classes/Ranger|wild empathy]] +3
+- **Saves**: Fort +13, Ref +10, Will +6
+- **Abilities**: Str 26, Dex 12, Con 17, Int 8, Wis 10, Cha 5
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greatsword)
+- **Environment**: Temperate or cold hills
+- **Organization**: Solitary, or with other ogres (see [[rangoric-srd/monsters/ogre/Ogre|Ogre]])
+- **Challenge Rating**: 9
+- **Treasure**: NPC gear (combat gear: potion of cure moderate wounds; other gear: rhino hide, masterwork composite shortbow with 20 arrows, masterwork greatsword, cloak of resistance +1, ring of protection +1, 60 gp)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 An ogre hunter is an [[rangoric-srd/monsters/ogre/Ogre|ogre]] with 6 levels of [[rangoric-srd/classes/Ranger|ranger]], one of the ogre hunters. Ogre hunters love to track, stalk, terrorize, and torture their prey for as long as their prey can endure it.
 

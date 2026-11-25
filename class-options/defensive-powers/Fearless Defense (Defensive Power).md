@@ -13,6 +13,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Fearless Defense
 
-*A [[rangoric-srd/prestige-classes/Stalwart Defender#Defensive Powers|defensive power]] (Ex).*
+_A [[rangoric-srd/prestige-classes/Stalwart Defender#Defensive Powers|defensive power]] (Ex)._
 
 While in a defensive stance, the defender is immune to the shaken and frightened conditions. He must be at least 4th level before selecting this power.

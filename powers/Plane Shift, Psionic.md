@@ -27,6 +27,6 @@ Psychoportation
 **Range:** Touch  
 **Targets:** Willing creature touched, or up to eight willing creatures joining hands  
 **Duration:** Instantaneous  
-**Power Points:** 9  
+**Power Points:** 9
 
 As the [[rangoric-srd/spells/Plane Shift|plane shift]] spell, except as noted here.

@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Delectable Flesh
 
-*Transmutation \[MindAffecting, Polymorph\]*
+_Transmutation \[MindAffecting, Polymorph\]_
 
-  - **Level**: Drd 7, Sor/Wiz 6, Wit 6
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: All creatures in a 15-foot-radius burst centered on a single living creature
-  - **Duration**: Caster level minute(s)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Drd 7, Sor/Wiz 6, Wit 6
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: All creatures in a 15-foot-radius burst centered on a single living creature
+- **Duration**: Caster level minute(s)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 Choose a creature within range as the object of hunger. All other creatures within 15 feet of the target that can see or smell the target's delectable flesh must succeed at a Will save or spiral into a depraved state from which they gain a single purpose — to consume as much of the target's delicious flesh as possible. The creature chosen as the target of this spell is not affected by this depravity.
 

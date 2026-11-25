@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Thunderstomp, Greater
 
-*Evocation \[Earth\]*
+_Evocation \[Earth\]_
 
-  - **Level**: Blr 3, Drd 3, Hun 3, Mag 3, Rgr 3, Sor/Wiz 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: 60 ft.
-  - **Area**: 60-ft. line
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Blr 3, Drd 3, Hun 3, Mag 3, Rgr 3, Sor/Wiz 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: 60 ft.
+- **Area**: 60-ft. line
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
-This spell functions as *[[rangoric-srd/spells/Thunderstomp|thunderstomp]]*, except as noted. It allows you target multiple creatures with this spell, including creatures more than one size category larger than you. When you attempt the combat maneuver check, apply its result to each creature within the area.
+This spell functions as _[[rangoric-srd/spells/Thunderstomp|thunderstomp]]_, except as noted. It allows you target multiple creatures with this spell, including creatures more than one size category larger than you. When you attempt the combat maneuver check, apply its result to each creature within the area.

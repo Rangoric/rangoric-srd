@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # Bleed
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Clr 0, Inq 0, Med 0, Mes 0, Occ 0, Psy 0, Sha 0, Sor/Wiz 0, Spi 0, Wit 0
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One living creature
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Clr 0, Inq 0, Med 0, Mes 0, Occ 0, Psy 0, Sha 0, Sor/Wiz 0, Spi 0, Wit 0
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One living creature
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 You cause a living creature that is below 0 hit points but stabilized to resume dying. Upon casting this spell, you target a living creature that has –1 or fewer hit points. That creature begins dying, taking 1 point of damage per round. The creature can be stabilized later normally. This spell causes a creature that is dying to take 1 point of damage.

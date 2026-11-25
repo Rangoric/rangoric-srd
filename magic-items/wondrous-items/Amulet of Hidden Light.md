@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This large amulet crafted of rough-cut glass can, on command, shed light as a sunrod. Unlike a normal light source, creatures outside this area cannot see the amulet's light.
 
-Faint illusion; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Light|light]]*, *[[rangoric-srd/spells/Invisibility|invisibility]]*; Price 9,000 gp; Cost 4,500 gp.
+Faint illusion; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_; Price 9,000 gp; Cost 4,500 gp.

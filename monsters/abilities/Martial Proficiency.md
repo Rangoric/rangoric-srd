@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Martial Proficiency
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “martial proficiency”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “martial proficiency”, on the Special Qualities line.
 
 Sinspawn are proficient in all simple and martial weapons, armor, and shields (except tower shields). The [[rangoric-srd/monsters/Sinspawn|sinspawn]] has it.

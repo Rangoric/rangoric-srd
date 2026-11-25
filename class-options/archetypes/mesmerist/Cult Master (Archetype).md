@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Cult Master
 
-*A [[rangoric-srd/classes/Mesmerist#^mesmerist-archetypes|mesmerist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Mesmerist#^mesmerist-archetypes|mesmerist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A cult master leads followers who believe in him and obey him.
 
@@ -31,9 +31,9 @@ A cult master leads followers who believe in him and obey him.
 
 **Cult Tricks (Su)**: The following new tricks can be selected by a cult master. These tricks can be implanted only in a cohort or follower of the cult master.
 
-*Double*: An illusion makes either the cult master's cohort or one of his followers appear to be him. The cult master can trigger this trick when he is targeted by an attack, provided he is adjacent to the subject, to give the attack a 50% miss chance. If the attack misses the cult master, it targets the subject instead. This is an illusion (glamer) effect.
+_Double_: An illusion makes either the cult master's cohort or one of his followers appear to be him. The cult master can trigger this trick when he is targeted by an attack, provided he is adjacent to the subject, to give the attack a 50% miss chance. If the attack misses the cult master, it targets the subject instead. This is an illusion (glamer) effect.
 
-*Extol*: A mental compulsion causes a cohort or follower to extol the virtues of the cult master. The cult master can trigger this trick whenever he attempts a Persuasion check, as long as he is within 60 feet of the subject. The subject takes the aid another action on the cult master's Persuasion check. If the subject is successful, the cult master gains a +4 bonus on his check. This is an enchantment (compulsion) effect.
+_Extol_: A mental compulsion causes a cohort or follower to extol the virtues of the cult master. The cult master can trigger this trick whenever he attempts a Persuasion check, as long as he is within 60 feet of the subject. The subject takes the aid another action on the cult master's Persuasion check. If the subject is successful, the cult master gains a +4 bonus on his check. This is an enchantment (compulsion) effect.
 
 This ability alters [[rangoric-srd/classes/Mesmerist#^mesmerist-tricks|mesmerist tricks]].
 
@@ -45,10 +45,10 @@ This ability alters [[rangoric-srd/classes/Mesmerist#^mesmerist-tricks|mesmerist
 
 **Masterful Cult Tricks (Su)**: The following new masterful tricks can be selected by any cult master of 12th level or higher. These tricks can be implanted only in a cohort or follower of the cult master.
 
-*Avenge Me*: The cult master creates a compulsion for one of his followers to avenge him. Whenever the cult master takes hit point damage from an attack, he can trigger this trick as long as he is within 60 feet of the subject. The subject is immediately affected as if by the *[[rangoric-srd/spells/Rage|rage]]* spell for 1 round per mesmerist level.
+_Avenge Me_: The cult master creates a compulsion for one of his followers to avenge him. Whenever the cult master takes hit point damage from an attack, he can trigger this trick as long as he is within 60 feet of the subject. The subject is immediately affected as if by the _[[rangoric-srd/spells/Rage|rage]]_ spell for 1 round per mesmerist level.
 
-*Die for Me*: The cult master instills within either his cohort or one of his followers the desire to give her life for him. The cult master can trigger this trick whenever he would take hit point damage from an attack, spell, or effect and the subject is within 60 feet of him. Half the damage is psychically transferred to the subject. This is an enchantment (compulsion) effect.
+_Die for Me_: The cult master instills within either his cohort or one of his followers the desire to give her life for him. The cult master can trigger this trick whenever he would take hit point damage from an attack, spell, or effect and the subject is within 60 feet of him. Half the damage is psychically transferred to the subject. This is an enchantment (compulsion) effect.
 
 This ability alters [[rangoric-srd/classes/Mesmerist#^mesmerist-masterful-tricks|masterful tricks]].
 
-**Reborn (Su)**: At 20th level, a cult master can ensure his own survival upon his death. The cult master can perform a 1-hour ceremony costing 5,000 gp in rare materials in which he uses his psychic powers to implant a small portion of his essence into his cohort, who must be a minimum of 17th level. When the cult master dies, in 7 days the cohort physically and mentally transforms into the cult master as if *[[rangoric-srd/spells/Clone|clone]]* had been cast, except that the cohort's body takes the place of the inert body. The cult master can't use this ability again until he gains a new cohort of at least 17th level and performs the necessary ceremony. The cohort can't be brought back to life except through *[[rangoric-srd/spells/Miracle|miracle]]* or *[[rangoric-srd/spells/Wish|wish]]*. This ability replaces [[rangoric-srd/classes/Mesmerist#^mesmerist-rule-minds|rule minds]].
+**Reborn (Su)**: At 20th level, a cult master can ensure his own survival upon his death. The cult master can perform a 1-hour ceremony costing 5,000 gp in rare materials in which he uses his psychic powers to implant a small portion of his essence into his cohort, who must be a minimum of 17th level. When the cult master dies, in 7 days the cohort physically and mentally transforms into the cult master as if _[[rangoric-srd/spells/Clone|clone]]_ had been cast, except that the cohort's body takes the place of the inert body. The cult master can't use this ability again until he gains a new cohort of at least 17th level and performs the necessary ceremony. The cohort can't be brought back to life except through _[[rangoric-srd/spells/Miracle|miracle]]_ or _[[rangoric-srd/spells/Wish|wish]]_. This ability replaces [[rangoric-srd/classes/Mesmerist#^mesmerist-rule-minds|rule minds]].

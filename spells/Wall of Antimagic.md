@@ -24,15 +24,15 @@ tags: [rangoric, rangoric/spell]
 
 # Wall of Antimagic
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Sor/Wiz 8
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: Wall whose area is up to one 10ft. square/level or a sphere or hemisphere with a radius of up to 1 ft./level
-  - **Duration**: 1 minute/level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Sor/Wiz 8
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: Wall whose area is up to one 10ft. square/level or a sphere or hemisphere with a radius of up to 1 ft./level
+- **Duration**: 1 minute/level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-This spell creates a shimmering wall that completely blocks any magical effect. Anything encountering the wall behaves as if it had encountered an *[[rangoric-srd/spells/Antimagic Field|antimagic field]]*, except that nonpermanent effects are dispelled, not suppressed. As an *[[rangoric-srd/spells/Antimagic Field|antimagic field]]*, *wall of antimagic* is not subject to *[[rangoric-srd/spells/Dispel Magic|dispel magic]]*.
+This spell creates a shimmering wall that completely blocks any magical effect. Anything encountering the wall behaves as if it had encountered an _[[rangoric-srd/spells/Antimagic Field|antimagic field]]_, except that nonpermanent effects are dispelled, not suppressed. As an _[[rangoric-srd/spells/Antimagic Field|antimagic field]]_, _wall of antimagic_ is not subject to _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_.

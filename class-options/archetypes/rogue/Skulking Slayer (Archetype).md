@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Skulking Slayer
 
-*A [[rangoric-srd/classes/Rogue#^rogue-archetypes|rogue]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Half-Orc|half-orcs]].*
+_A [[rangoric-srd/classes/Rogue#^rogue-archetypes|rogue]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Half-Orc|half-orcs]]._
 
 Pushed into a life of crime by the society around them, half-orcs gravitate toward criminal activities that suit them best. Half-orc rogues leave subtle tactics and finesse to halflings and elves, and rely on brute strength and thuggery when they go about making mischief. Skulking slayers have turned the use of raw strength and surprise into an art form. A skulking slayer has the following class features.
 

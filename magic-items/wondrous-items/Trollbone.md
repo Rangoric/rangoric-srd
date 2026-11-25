@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 Runic engravings adorn this charred rib bone pulled from a slain troll. When the bone is tossed up to 20 feet away, it can grow into a full-sized [[rangoric-srd/monsters/troll/Troll|troll]] under the user's control on command. The troll normally remains for 2d4 rounds, but if the user is maintaining a [[rangoric-srd/classes/Bard#^bardic-music|bardic performance]] when the item is activated, the duration is extended until the end of the performance. When the troll is slain or the duration ends, it turns back into a bone that then crumbles into dust.
 
-Moderate conjuration; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Summon Monster IV|summon monster IV]]*; Price 2,400 gp; Cost 1,200 gp; Weight 1 lb.
+Moderate conjuration; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Summon Monster IV|summon monster IV]]_; Price 2,400 gp; Cost 1,200 gp; Weight 1 lb.

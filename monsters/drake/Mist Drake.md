@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Mist Drake
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Air)
-  - **Hit Dice**: 6d12+18 (57 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares), fly 80 ft. (average)
-  - **Armor Class**: 19 (+2 Dex, +1 dodge, +7 natural, –1 size), touch 12, flat-footed 16
-  - **Base Attack**: +6; **CMB**: +11; **CMD**: 24
-  - **Attack**: Bite +9 melee (2d6+4) or tail slap +9 melee (1d8+2)
-  - **Full Attack**: Bite +9 melee (2d6+4) and tail slap +4 melee (1d8+2)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Fogburst|Fogburst]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fogvision|fogvision]], [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Misty Camouflage|misty camouflage]], [[rangoric-srd/monsters/abilities/Speed Surge|speed surge]], immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep
-  - **Saves**: Fort +8, Ref +7, Will +6
-  - **Abilities**: Str 19, Dex 15, Con 16, Int 9, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +7 (+15 in fog or mist)
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Hover|Hover]]
-  - **Environment**: Cold or temperate coasts, hills, or marshes
-  - **Organization**: Solitary, pair, or rampage (3–12)
-  - **Challenge Rating**: 5
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Air)
+- **Hit Dice**: 6d12+18 (57 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares), fly 80 ft. (average)
+- **Armor Class**: 19 (+2 Dex, +1 dodge, +7 natural, –1 size), touch 12, flat-footed 16
+- **Base Attack**: +6; **CMB**: +11; **CMD**: 24
+- **Attack**: Bite +9 melee (2d6+4) or tail slap +9 melee (1d8+2)
+- **Full Attack**: Bite +9 melee (2d6+4) and tail slap +4 melee (1d8+2)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Fogburst|Fogburst]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fogvision|fogvision]], [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Misty Camouflage|misty camouflage]], [[rangoric-srd/monsters/abilities/Speed Surge|speed surge]], immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep
+- **Saves**: Fort +8, Ref +7, Will +6
+- **Abilities**: Str 19, Dex 15, Con 16, Int 9, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +7 (+15 in fog or mist)
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Hover|Hover]]
+- **Environment**: Cold or temperate coasts, hills, or marshes
+- **Organization**: Solitary, pair, or rampage (3–12)
+- **Challenge Rating**: 5
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Mist drakes are less openly aggressive than most drakes, as they are not as physically strong and imposing as most of their kin. Their bodies are narrow and serpentine, more suited for quick strikes and hit-and-run tactics than for close combat. However, they excel at stealth for creatures of their size, and can expel a burst of thick fog whenever they need to create a diversion or screen themselves from archers trying to target them. In the mist, they move swiftly and silently to disperse groups of foes with their explosive breath and then single out one of their enemies for a quick and deadly attack before their victim's allies can regroup and come to its rescue.
 

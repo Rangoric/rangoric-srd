@@ -18,4 +18,4 @@ tags: [rangoric, rangoric/magic-item]
 
 Weapons with the aquatic quality function normally underwater. The wielder does not suffer any attack or damage penalties for using the weapon in normal fresh or salt water. This quality does not allow the wielder to use the weapon unhindered in other liquids, such as acid, magma, or magical solutions.
 
-Moderate abjuration; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]*; Price +1 bonus.
+Moderate abjuration; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_; Price +1 bonus.

@@ -38,25 +38,25 @@ tags: [rangoric, rangoric/monster]
 
 # Animated Object, Tiny
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
-  - **Hit Dice**: 1/2 d10 (2 hp)
-  - **Initiative**: 2
-  - **Speed**: 40 ft. (8 squares); 50 ft. legs, 60 ft. multiple legs; 80 ft. wheels
-  - **Armor Class**: 14 (+2 size, +2 Dex), touch 14, flat-footed 12
-  - **Base Attack**: +0; **CMB**: +0; **CMD**: 9
-  - **Attack**: Slam +1 melee (1d3–1)
-  - **Full Attack**: Slam +1 melee (1d3–1)
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: See text
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], darkvision 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]; also see text
-  - **Saves**: Fort +0, Ref +2, Will –5
-  - **Abilities**: Str 8, Dex 14, Con —, Int —, Wis 1, Cha 1
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +3
-  - **Feats**: —
-  - **Environment**: Any
-  - **Organization**: Group (4)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
+- **Hit Dice**: 1/2 d10 (2 hp)
+- **Initiative**: 2
+- **Speed**: 40 ft. (8 squares); 50 ft. legs, 60 ft. multiple legs; 80 ft. wheels
+- **Armor Class**: 14 (+2 size, +2 Dex), touch 14, flat-footed 12
+- **Base Attack**: +0; **CMB**: +0; **CMD**: 9
+- **Attack**: Slam +1 melee (1d3–1)
+- **Full Attack**: Slam +1 melee (1d3–1)
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: See text
+- **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], darkvision 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]; also see text
+- **Saves**: Fort +0, Ref +2, Will –5
+- **Abilities**: Str 8, Dex 14, Con —, Int —, Wis 1, Cha 1
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +3
+- **Feats**: —
+- **Environment**: Any
+- **Organization**: Group (4)
+- **Challenge Rating**: 1/2
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: —
+- **Level Adjustment**: —

@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Hide in Plain Sight
 
-*An [[rangoric-srd/classes/Rogue#^rogue-advanced-talents|advanced talent]] (Ex).*
+_An [[rangoric-srd/classes/Rogue#^rogue-advanced-talents|advanced talent]] (Ex)._
 
 A character with this talent can select a single terrain from the ranger’s favored terrain list. She is a master at hiding in that terrain, and while within that terrain, she can use the Stealth skill to hide, even while being observed. A character may take this advanced talent more than once, each time selecting a different terrain from the favored terrain list.

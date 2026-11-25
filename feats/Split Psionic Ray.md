@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, metapsionic]
 
 # Split Psionic Ray
 
-You can affect two targets with a single ray.  
+You can affect two targets with a single ray.
 
 Prerequisite: Any other metapsionic feat.
 

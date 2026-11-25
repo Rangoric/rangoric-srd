@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Crawling Vine
 
-*A plant companion that a [[rangoric-srd/class-options/archetypes/druid/Treesinger (Archetype)|treesinger]] can choose for her plant bond.*
+_A plant companion that a [[rangoric-srd/class-options/archetypes/druid/Treesinger (Archetype)|treesinger]] can choose for her plant bond._
 
 - **Size**: Medium
 - **Speed**: 20 ft., climb 20 ft.

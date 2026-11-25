@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Immortality
 
-*An [[rangoric-srd/classes/Wizard#^wizard-arcane-discoveries|arcane discovery]] (Ex).*
+_An [[rangoric-srd/classes/Wizard#^wizard-arcane-discoveries|arcane discovery]] (Ex)._
 
 You discover a cure for aging, and from this point forward you take no penalty to your physical ability scores from advanced age. If you are already taking such penalties, they are removed at this time. You must be at least a 20th-level wizard to select this discovery.

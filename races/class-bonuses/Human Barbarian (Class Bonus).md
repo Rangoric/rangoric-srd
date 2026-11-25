@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Human Barbarian
 
-*A [[rangoric-srd/races/Human|human]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Barbarian#^barbarian-class-bonuses|barbarian]] level.*
+_A [[rangoric-srd/races/Human|human]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Barbarian#^barbarian-class-bonuses|barbarian]] level._
 
 Add a +1/2 bonus to [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] or +1/3 to the bonus from the [[rangoric-srd/class-options/rage-powers/Superstition (Rage Power)|superstition]] [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]].

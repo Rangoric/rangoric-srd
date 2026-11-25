@@ -18,14 +18,14 @@ tags: [rangoric, rangoric/class-option]
 
 # Summer Blast
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#^composite-blasts|composite blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#^composite-blasts|composite blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Elements**: [[rangoric-srd/class-options/elements/Fire Element|fire]] and [[rangoric-srd/class-options/elements/Wood Element|wood]]
-  - **Type**: composite blast (Sp)
-  - **Level**: —
-  - **Burn**: 2
-  - **Prerequisites**: [[rangoric-srd/class-options/wild-talents/Fire Blast|fire blast]], [[rangoric-srd/class-options/wild-talents/Wood Blast|wood blast]]
-  - **Blast Type**: physical
-  - **Damage**: half fire and half bludgeoning, piercing, or slashing
+- **Elements**: [[rangoric-srd/class-options/elements/Fire Element|fire]] and [[rangoric-srd/class-options/elements/Wood Element|wood]]
+- **Type**: composite blast (Sp)
+- **Level**: —
+- **Burn**: 2
+- **Prerequisites**: [[rangoric-srd/class-options/wild-talents/Fire Blast|fire blast]], [[rangoric-srd/class-options/wild-talents/Wood Blast|wood blast]]
+- **Blast Type**: physical
+- **Damage**: half fire and half bludgeoning, piercing, or slashing
 
 A burning blast of heat and sun-dried foliage tears at your foe.

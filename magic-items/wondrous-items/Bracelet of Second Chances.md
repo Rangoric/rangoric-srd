@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This bracelet is adorned with seven coral beads carved in intricate designs. When a critical hit or [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] is confirmed on the wearer, as an immediate action before damage is rolled, he can choose to convert the critical hit or sneak attack into a normal hit. Each time the wearer negates a critical hit or sneak attack in this manner, one bead shatters. When all seven are used up, the bracelet itself crumbles into powder.
 
-Moderate conjuration; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Breath of Life|breath of life]]*; Price 15,750 gp; Cost 7,875 gp.
+Moderate conjuration; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Breath of Life|breath of life]]_; Price 15,750 gp; Cost 7,875 gp.

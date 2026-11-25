@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Camouflaged Step
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “camouflaged step”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “camouflaged step”, on the Special Qualities line.
 
 Skulks can pass through forest and subterranean settings almost without a trace. Add +10 to the DC to track a skulk in these environments. The [[rangoric-srd/monsters/Skulk|skulk]] has it.

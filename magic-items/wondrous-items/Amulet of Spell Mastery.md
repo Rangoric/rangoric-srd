@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This platinum locket only has power when used as a [[rangoric-srd/classes/Wizard|wizard]]'s [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|bonded object]]. It allows the wizard to prepare an additional 6 levels of spells per day.
 
-Strong transmutation; CL 11th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Mnemonic Enhancer|mnemonic enhancer]]*; Price 22,000 gp; Cost 11,000 gp; Weight 1 lb.
+Strong transmutation; CL 11th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Mnemonic Enhancer|mnemonic enhancer]]_; Price 22,000 gp; Cost 11,000 gp; Weight 1 lb.

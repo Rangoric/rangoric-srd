@@ -19,13 +19,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Pain Discipline
 
-*A [[rangoric-srd/classes/Psychic (Class)#^psychic-discipline|psychic discipline]].*
+_A [[rangoric-srd/classes/Psychic (Class)#^psychic-discipline|psychic discipline]]._
 
 Mental blocks prevent your immense inborn psychic energies from flowing freely. They are unleashed only when you suffer pain.
 
 **Phrenic Pool Ability**: Charisma.
 
-**Bonus Spells**: *[[rangoric-srd/spells/Persuasive Goad|persuasive goad]]* (1st), *[[rangoric-srd/spells/Pain Strike|pain strike]]* (4th), *[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]* (6th), *[[rangoric-srd/spells/Pain Strike, Mass|mass pain strike]]* (8th), *[[rangoric-srd/spells/Synapse Overload|synapse overload]]* (10th), *[[rangoric-srd/spells/Inflict Pain, Mass|mass inflict pain]]* (12th), *[[rangoric-srd/spells/Waves of Exhaustion|waves of exhaustion]]* (14th), *[[rangoric-srd/spells/Horrid Wilting|horrid wilting]]* (16th), *[[rangoric-srd/spells/Suffocation, Mass|mass suffocation]]* (18th).
+**Bonus Spells**: _[[rangoric-srd/spells/Persuasive Goad|persuasive goad]]_ (1st), _[[rangoric-srd/spells/Pain Strike|pain strike]]_ (4th), _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_ (6th), _[[rangoric-srd/spells/Pain Strike, Mass|mass pain strike]]_ (8th), _[[rangoric-srd/spells/Synapse Overload|synapse overload]]_ (10th), _[[rangoric-srd/spells/Inflict Pain, Mass|mass inflict pain]]_ (12th), _[[rangoric-srd/spells/Waves of Exhaustion|waves of exhaustion]]_ (14th), _[[rangoric-srd/spells/Horrid Wilting|horrid wilting]]_ (16th), _[[rangoric-srd/spells/Suffocation, Mass|mass suffocation]]_ (18th).
 
 ## Discipline Powers
 

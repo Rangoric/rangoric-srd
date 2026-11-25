@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Ride the Waves
 
-*Transmutation \[Water\]*
+_Transmutation \[Water\]_
 
-  - **Level**: Blr 4, Clr 4, Drd 4, Hun 4, Sha 4, Sor/Wiz 4, Wit 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 hour/level (D)
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Blr 4, Clr 4, Drd 4, Hun 4, Sha 4, Sor/Wiz 4, Wit 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 hour/level (D)
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 The target gains the ability to breathe water and a swim speed of 30 feet. This swim speed means the target also gains the standard +8 bonus on Athletics checks and the ability to take 10 on Athletics checks even while distracted or endangered. The target can use the run action while swimming, provided it swims in a straight line. The spell does not make the target unable to breathe air.

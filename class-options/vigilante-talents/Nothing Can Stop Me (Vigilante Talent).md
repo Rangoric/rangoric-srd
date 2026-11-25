@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Nothing Can Stop Me
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
 Once per round, while the vigilante is moving, he can make one attack as a free action against an unattended object in the way of his path, such as a door or table. If his attack deals enough damage to destroy the object, he can continue to move. If he doesn’t destroy the object, his move ends. This attack is made as part of his move action and doesn’t count against his attacks this round. If his attack inadvertently targets a creature (such as a mimic), it automatically misses and his move ends (although he can still attack the creature as normal at the end of his movement).
 

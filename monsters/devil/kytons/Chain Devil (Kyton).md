@@ -38,30 +38,31 @@ change: modified
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---
+
 # Chain Devil (Kyton)
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Evil, Extraplanar, Kyton, Lawful)
-  - **Hit Dice**: 8d10+16 (60 hp)
-  - **Initiative**: +7
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 21 (+4 armor, +3 Dex, +4 natural), touch 13, flat-footed 18
-  - **Base Attack**: +8; **CMB**: +10; **CMD**: 23
-  - **Attack**: Chains +11 melee (2d4+2)
-  - **Full Attack**: 4 chains +11 melee (2d4+2)
-  - **Space/Reach**: 5 ft/5 ft. (10 ft. with chains)
-  - **Special Attacks**: Dancing chains, unnerving [[rangoric-srd/monsters/abilities/Gaze|gaze]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 2 (good weapons and spells, silver weapons), chain armor, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/silver or good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17
-  - **Saves**: Fort +8, Ref +9, Will +3
-  - **Abilities**: Str 15, Dex 17, Con 14, Int 11, Wis 12, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Craft|Craft]] (blacksmithing) +11, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +15
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (chain), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, link (3–6), chain (7–20), gang (2–4), band (6–10), or mob (11–20)
-  - **Challenge Rating**: 6
-  - **Treasure**: Standard
-  - **Alignment**: Always lawful evil
-  - **Advancement**: 9–16 HD (Medium)
-  - **Level Adjustment**: +6
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Evil, Extraplanar, Kyton, Lawful)
+- **Hit Dice**: 8d10+16 (60 hp)
+- **Initiative**: +7
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 21 (+4 armor, +3 Dex, +4 natural), touch 13, flat-footed 18
+- **Base Attack**: +8; **CMB**: +10; **CMD**: 23
+- **Attack**: Chains +11 melee (2d4+2)
+- **Full Attack**: 4 chains +11 melee (2d4+2)
+- **Space/Reach**: 5 ft/5 ft. (10 ft. with chains)
+- **Special Attacks**: Dancing chains, unnerving [[rangoric-srd/monsters/abilities/Gaze|gaze]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 2 (good weapons and spells, silver weapons), chain armor, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/silver or good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17
+- **Saves**: Fort +8, Ref +9, Will +3
+- **Abilities**: Str 15, Dex 17, Con 14, Int 11, Wis 12, Cha 12
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Craft|Craft]] (blacksmithing) +11, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +15
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (chain), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any
+- **Organization**: Solitary, pair, link (3–6), chain (7–20), gang (2–4), band (6–10), or mob (11–20)
+- **Challenge Rating**: 6
+- **Treasure**: Standard
+- **Alignment**: Always lawful evil
+- **Advancement**: 9–16 HD (Medium)
+- **Level Adjustment**: +6
 
 Often classified among the ranks of the infernal and called chain devils by the uninitiated, the sadomasochistic kytons are not true devils. Many suggest that kytons were natives of the lawful evil planes who existed there before the advent of devilkind, while others hypothesize they were later brought to the plane by some sadistic power. Regardless of their origins, kytons roam the planes in their lust to cause and receive suffering, seeking pain through violent abductions and sadistic debauches.
 

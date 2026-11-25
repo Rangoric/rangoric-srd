@@ -12,7 +12,7 @@ tags: [rangoric, rangoric/magic-item, epic]
 
 # Ring of Nine Facets
 
-This ring is set with a gem of nine facets, each one in-scribed with a different incomprehensible rune. Each day at sunrise, the gem turns to display a different facet. The active facet determines the Ring’s power for that day. Each day, roll 1d10 to determine which facet (and thus which power) is active.  
+This ring is set with a gem of nine facets, each one in-scribed with a different incomprehensible rune. Each day at sunrise, the gem turns to display a different facet. The active facet determines the Ring’s power for that day. Each day, roll 1d10 to determine which facet (and thus which power) is active.
 
 | 1d10 | Active Facet Power                                |
 | ---- | ------------------------------------------------- |

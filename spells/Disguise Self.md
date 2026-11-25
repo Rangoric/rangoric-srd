@@ -33,14 +33,14 @@ tags: [rangoric, rangoric/spell]
 
 # Disguise Self
 
-*Illusion (Glamer)*
+_Illusion (Glamer)_
 
-  - **Level**: Alc 1, Apl 1, Brd 1, Fpk 1, Inq 1, Med 1, Mes 1, Occ 1, Psy 1, Skd 1, Sor/Wiz 1, Trickery 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 10 min./level (D)
+- **Level**: Alc 1, Apl 1, Brd 1, Fpk 1, Inq 1, Med 1, Mes 1, Occ 1, Psy 1, Skd 1, Sor/Wiz 1, Trickery 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 10 min./level (D)
 
 You make yourself—including clothing, armor, weapons, and equipment—look different. You can seem 1 foot shorter or taller, thin, fat, or in between. You cannot change your body type. Otherwise, the extent of the apparent change is up to you. You could add or obscure a minor feature or look like an entirely different person.
 

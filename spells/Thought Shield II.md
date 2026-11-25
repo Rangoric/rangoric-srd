@@ -23,15 +23,15 @@ tags: [rangoric, rangoric/spell]
 
 # Thought Shield II
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Psy 3
-  - **Components**: V
-  - **Casting Time**: 1 immediate action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Psy 3
+- **Components**: V
+- **Casting Time**: 1 immediate action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-This functions as *[[rangoric-srd/spells/Thought Shield I|thought shield I]]*, but the circumstance bonus on Will saves to resist mind-affecting effects increases to +6. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].
+This functions as _[[rangoric-srd/spells/Thought Shield I|thought shield I]]_, but the circumstance bonus on Will saves to resist mind-affecting effects increases to +6. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].

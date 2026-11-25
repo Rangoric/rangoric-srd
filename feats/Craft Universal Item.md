@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, item-creation]
 
 # Craft Universal Item
 
-You can create universal psionic items.  
+You can create universal psionic items.
 
 Prerequisite: Manifester level 3rd.
 

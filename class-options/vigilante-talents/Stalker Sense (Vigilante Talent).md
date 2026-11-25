@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Stalker Sense
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
 The vigilante has a sense for danger. He always acts on the surprise round.
 

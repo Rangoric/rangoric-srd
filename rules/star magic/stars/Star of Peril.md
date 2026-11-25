@@ -23,16 +23,16 @@ tags: [rangoric, rangoric/star]
 
 # Star of Peril
 
-*[[rangoric-srd/rules/star magic/Star Magic|Star]]*
+_[[rangoric-srd/rules/star magic/Star Magic|Star]]_
 
-  - **Call Level**: 1st ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
-  - **Aspect**: Ascendant in spring, descendant in autumn, on the horizon in summer and winter ([[rangoric-srd/rules/star magic/Star Magic#^seasons|seasons]])
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Area**: 15-ft.-radius burst
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Call Level**: 1st ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
+- **Aspect**: Ascendant in spring, descendant in autumn, on the horizon in summer and winter ([[rangoric-srd/rules/star magic/Star Magic#^seasons|seasons]])
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Area**: 15-ft.-radius burst
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 Every creature in the area, friend or foe, takes a −2 penalty per call level to its Armor Class. The penalty can lower a creature's AC to 0 but not below.

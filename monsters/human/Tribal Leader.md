@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Tribal Leader
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 13d8+16 (78 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 21 (+6 armor, +2 Dex, +1 dodge, +2 shield), touch 13, flat-footed 18
-  - **Base Attack**: +9; **CMB**: +11; **CMD**: 24
-  - **Attack**: +2 [[rangoric-srd/equipment/weapons/Spear|spear]] +14 melee (1d8+5/19–20/×3) or +2 [[rangoric-srd/equipment/weapons/Spear|spear]] +14 ranged (1d8+4/19–20/×3)
-  - **Full Attack**: +2 [[rangoric-srd/equipment/weapons/Spear|spear]] +14/+9 melee (1d8+5/19–20/×3); or +2 [[rangoric-srd/equipment/weapons/Spear|spear]] +14/+9 ranged (1d8+4/19–20/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Bard#^bardic-music|Bardic performance]] 32 rounds/day (swift action; countersong, dirge of doom, distraction, fascinate, inspire competence +4, inspire courage +3, inspire greatness, soothing performance, suggestion)
-  - **Special Qualities**: *[[rangoric-srd/spells/See Invisibility|See invisibility]]*, [[rangoric-srd/classes/Bard|bardic knowledge]] +6, [[rangoric-srd/classes/Bard#^bard-jack-of-all-trades|jack-of-all-trades]] (use any skill), [[rangoric-srd/classes/Bard#^bard-lore-master|lore master]] 2/day, [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (oratory, percussion, dance)
-  - **Saves**: Fort +5, Ref +10, Will +8 (+4 vs. bardic performance, language-dependent, and sonic)
-  - **Abilities**: Str 14, Dex 14, Con 12, Int 10, Wis 10, Cha 19
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Deception|Deception]] +16, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +10, [[rangoric-srd/skills/Emulation|Emulation]] +15, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Knowledge|Knowledge]] +10, [[rangoric-srd/skills/Nature|Nature]] +15, [[rangoric-srd/skills/Perception|Perception]] +10, Perform (dance, oratory, percussion) +20, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Society|Society]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +14, [[rangoric-srd/skills/Theology|Theology]] +10
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (spear), [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion), [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spear)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 12
-  - **Treasure**: NPC gear (combat gear: scrolls of bull's strength (2), scroll of fog cloud, scroll of web, wand of magic missile (CL 5th, 50 charges); other gear: +3 studded leather, +1 buckler, +2 spear, headband of alluring Charisma +2, 8 gp)
-  - **Alignment**: Lawful evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 13d8+16 (78 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 21 (+6 armor, +2 Dex, +1 dodge, +2 shield), touch 13, flat-footed 18
+- **Base Attack**: +9; **CMB**: +11; **CMD**: 24
+- **Attack**: +2 [[rangoric-srd/equipment/weapons/Spear|spear]] +14 melee (1d8+5/19–20/×3) or +2 [[rangoric-srd/equipment/weapons/Spear|spear]] +14 ranged (1d8+4/19–20/×3)
+- **Full Attack**: +2 [[rangoric-srd/equipment/weapons/Spear|spear]] +14/+9 melee (1d8+5/19–20/×3); or +2 [[rangoric-srd/equipment/weapons/Spear|spear]] +14/+9 ranged (1d8+4/19–20/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Bard#^bardic-music|Bardic performance]] 32 rounds/day (swift action; countersong, dirge of doom, distraction, fascinate, inspire competence +4, inspire courage +3, inspire greatness, soothing performance, suggestion)
+- **Special Qualities**: _[[rangoric-srd/spells/See Invisibility|See invisibility]]_, [[rangoric-srd/classes/Bard|bardic knowledge]] +6, [[rangoric-srd/classes/Bard#^bard-jack-of-all-trades|jack-of-all-trades]] (use any skill), [[rangoric-srd/classes/Bard#^bard-lore-master|lore master]] 2/day, [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (oratory, percussion, dance)
+- **Saves**: Fort +5, Ref +10, Will +8 (+4 vs. bardic performance, language-dependent, and sonic)
+- **Abilities**: Str 14, Dex 14, Con 12, Int 10, Wis 10, Cha 19
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Deception|Deception]] +16, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +10, [[rangoric-srd/skills/Emulation|Emulation]] +15, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Knowledge|Knowledge]] +10, [[rangoric-srd/skills/Nature|Nature]] +15, [[rangoric-srd/skills/Perception|Perception]] +10, Perform (dance, oratory, percussion) +20, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Society|Society]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +14, [[rangoric-srd/skills/Theology|Theology]] +10
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (spear), [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion), [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spear)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 12
+- **Treasure**: NPC gear (combat gear: scrolls of bull's strength (2), scroll of fog cloud, scroll of web, wand of magic missile (CL 5th, 50 charges); other gear: +3 studded leather, +1 buckler, +2 spear, headband of alluring Charisma +2, 8 gp)
+- **Alignment**: Lawful evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A tribal leader is a [[rangoric-srd/monsters/human/Human|human]] with 13 levels of [[rangoric-srd/classes/Bard|bard]]. Tribal leaders use their abilities rather than brute strength to guide their tribes to victory.
 
@@ -73,4 +73,4 @@ A tribal leader speaks Common.
 
 **During Combat**: The bard uses hallucinatory terrain to befuddle and confuse enemies. To aid her side, she casts summon monster IV. She targets casters with silence and other combatants with slow, using her wand of magic missiles to aid in dealing damage.
 
-**Bard spells known** (CL 13th; concentration +17): 5th (1/day)—*[[rangoric-srd/spells/Suggestion, Mass|mass suggestion]]* (DC 19), *[[rangoric-srd/spells/Nightmare (Spell)|nightmare]]* (DC 19); 4th (4/day)—*[[rangoric-srd/spells/Cure Critical Wounds|cure critical wounds]]* (DC 18), *[[rangoric-srd/spells/Hallucinatory Terrain|hallucinatory terrain]]* (DC 18), *[[rangoric-srd/spells/Speak with Plants|speak with plants]]*, *[[rangoric-srd/spells/Summon Monster IV|summon monster IV]]*; 3rd (5/day)—*[[rangoric-srd/spells/Fear|fear]]* (DC 17), *[[rangoric-srd/spells/Haste|haste]]* (DC 17), *[[rangoric-srd/spells/See Invisibility|see invisibility]]*, *[[rangoric-srd/spells/Slow|slow]]* (DC 17), *[[rangoric-srd/spells/Speak with Animals|speak with animals]]*; 2nd (6/day)—*[[rangoric-srd/spells/Cat’s Grace|cat's grace]]*, *[[rangoric-srd/spells/Invisibility|invisibility]]*, *[[rangoric-srd/spells/Rage|rage]]*, *[[rangoric-srd/spells/Silence|silence]]* (DC 16), *[[rangoric-srd/spells/Tongues|tongues]]*; 1st (6/day)—*[[rangoric-srd/spells/Charm Person|charm person]]* (DC 15), *[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]*, *[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]*, *[[rangoric-srd/spells/Grease|grease]]*, *[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]* (DC 15), *[[rangoric-srd/spells/Ventriloquism|ventriloquism]]* (DC 15); 0 (at will)—*[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Flare|flare]]* (DC 14), *[[rangoric-srd/spells/Ghost Sound|ghost sound]]* (DC 14), *[[rangoric-srd/spells/Light|light]]*, *[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Message|message]]*.
+**Bard spells known** (CL 13th; concentration +17): 5th (1/day)—_[[rangoric-srd/spells/Suggestion, Mass|mass suggestion]]_ (DC 19), _[[rangoric-srd/spells/Nightmare (Spell)|nightmare]]_ (DC 19); 4th (4/day)—_[[rangoric-srd/spells/Cure Critical Wounds|cure critical wounds]]_ (DC 18), _[[rangoric-srd/spells/Hallucinatory Terrain|hallucinatory terrain]]_ (DC 18), _[[rangoric-srd/spells/Speak with Plants|speak with plants]]_, _[[rangoric-srd/spells/Summon Monster IV|summon monster IV]]_; 3rd (5/day)—_[[rangoric-srd/spells/Fear|fear]]_ (DC 17), _[[rangoric-srd/spells/Haste|haste]]_ (DC 17), _[[rangoric-srd/spells/See Invisibility|see invisibility]]_, _[[rangoric-srd/spells/Slow|slow]]_ (DC 17), _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_; 2nd (6/day)—_[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Rage|rage]]_, _[[rangoric-srd/spells/Silence|silence]]_ (DC 16), _[[rangoric-srd/spells/Tongues|tongues]]_; 1st (6/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 15), _[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, _[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]_, _[[rangoric-srd/spells/Grease|grease]]_, _[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]_ (DC 15), _[[rangoric-srd/spells/Ventriloquism|ventriloquism]]_ (DC 15); 0 (at will)—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Flare|flare]]_ (DC 14), _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 14), _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Message|message]]_.

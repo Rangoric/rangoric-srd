@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Archaeologist
 
-*A [[rangoric-srd/classes/Bard#^bard-archetypes|bard]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Bard#^bard-archetypes|bard]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 No stodgy researcher, this archaeologist meets his research head-on in the field. Archaeologists sacrifice the bard's inspirational performance for a smattering of [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]]. This archetype also fits roguelike characters that focus more on learning than on stabbing foes in the back.
 

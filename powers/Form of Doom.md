@@ -27,7 +27,7 @@ Psychometabolism
 **Range:** Personal; see text  
 **Target:** You  
 **Duration:** 1 round/level (D)  
-**Power Points:** 11  
+**Power Points:** 11
 
 You wrench from your subconscious a terrifying visage of deadly hunger and become one with it. You are transformed into a nightmarish version of yourself, complete with an ooze-sleek skin coating, lashing tentacles, and a fright-inducing countenance. You effectively gain a +10 bonus on [[rangoric-srd/skills/Imitation|Imitation]] checks, though you retain your basic shape and can continue to use your equipment. This power cannot be used to impersonate someone; while horrible, your form is recognizably your own.
 

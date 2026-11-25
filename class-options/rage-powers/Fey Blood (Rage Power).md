@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Fey Blood
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su)._
 
 While raging, when the barbarian charges, she ignores difficult terrain (including magical terrain, but not other creatures).
 

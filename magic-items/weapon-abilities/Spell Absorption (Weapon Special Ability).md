@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Spell Absorption
 
-Adventurers worlds over covet weapons that possess this enchantment. *Spell absorption* weapons can absorb spells that are cast directly at the wielder. The weapon converts absorbed spells into pure magical energy that can be channeled by the wielder to either boost attacks or to heal.
+Adventurers worlds over covet weapons that possess this enchantment. _Spell absorption_ weapons can absorb spells that are cast directly at the wielder. The weapon converts absorbed spells into pure magical energy that can be channeled by the wielder to either boost attacks or to heal.
 
 When targeted by a spell, the wielder is entitled to a [[rangoric-srd/skills/Mysticism|Mysticism]] check to identify the spell being cast. If successful, the wielder can choose whether to absorb the spell effect or not. If the check fails, the spell is automatically absorbed.
 
@@ -28,4 +28,4 @@ Once absorbing energy, the weapon must be discharged in one round. A charged wea
 
 If the wielder does not use the absorbed magical energy within one round, or if she attacks a creature but fails to hit with the spell-charged weapon, she immediately suffers 1d4 points of damage per spell level (Fortitude save; DC 22 for half) as the weapon discharges the energy contained within it. A spell absorption weapon can absorb up to 10 spell levels per day.
 
-Strong abjuration; CL 15th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Spell Turning|spell turning]]*; Price +3 bonus.
+Strong abjuration; CL 15th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Spell Turning|spell turning]]_; Price +3 bonus.

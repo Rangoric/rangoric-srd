@@ -18,9 +18,9 @@ tags: [rangoric, rangoric/spell]
 
 # Spellcrash
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Clr 6, Psy 6, Sor/Wiz 6, Wit 6
-  - **Components**: 
+- **Level**: Clr 6, Psy 6, Sor/Wiz 6, Wit 6
+- **Components**:
 
-This spell functions as *[[rangoric-srd/spells/Spellcrash, Lesser|lesser spellcrash]]*, except that it affects 5th-level or lower prepared spell or spell slot.
+This spell functions as _[[rangoric-srd/spells/Spellcrash, Lesser|lesser spellcrash]]_, except that it affects 5th-level or lower prepared spell or spell slot.

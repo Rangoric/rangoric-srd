@@ -39,34 +39,34 @@ tags: [rangoric, rangoric/monster]
 
 # Gorgon
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 8d10+56 (100 hp)
-  - **Initiative**: +4
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 20 (+11 natural, –1 size), touch 9, flat-footed 20
-  - **Base Attack**: +8; **CMB**: +16; **CMD**: 26
-  - **Attack**: Gore +14 melee (2d8+7) or hoof +14 melee (1d6+3)
-  - **Full Attack**: Gore +14 melee (2d8+7) and 2 hooves +9 melee (1d6+3)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (60-foot cone, turn to stone, Fortitude DC 21 negates), [[rangoric-srd/monsters/abilities/Trample|trample]] (2d8+10, DC 21)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +13, Ref +6, Will +7
-  - **Abilities**: Str 24, Dex 10, Con 24, Int 2, Wis 16, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +17
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Temperate plains, rocky hills, and underground
-  - **Organization**: Solitary, pair, pack (3–4), or herd (5–12)
-  - **Challenge Rating**: 8
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: 9–15 HD (Large); 16–24 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 8d10+56 (100 hp)
+- **Initiative**: +4
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 20 (+11 natural, –1 size), touch 9, flat-footed 20
+- **Base Attack**: +8; **CMB**: +16; **CMD**: 26
+- **Attack**: Gore +14 melee (2d8+7) or hoof +14 melee (1d6+3)
+- **Full Attack**: Gore +14 melee (2d8+7) and 2 hooves +9 melee (1d6+3)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (60-foot cone, turn to stone, Fortitude DC 21 negates), [[rangoric-srd/monsters/abilities/Trample|trample]] (2d8+10, DC 21)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +13, Ref +6, Will +7
+- **Abilities**: Str 24, Dex 10, Con 24, Int 2, Wis 16, Cha 9
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +17
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Temperate plains, rocky hills, and underground
+- **Organization**: Solitary, pair, pack (3–4), or herd (5–12)
+- **Challenge Rating**: 8
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: 9–15 HD (Large); 16–24 HD (Huge)
+- **Level Adjustment**: —
 
 Gorgons are magical, foul-tempered creatures—while they might appear to be constructs at first glance, beneath their artifical-looking armor plates they are made of flesh and bone. Like aggressive bulls, they challenge any unfamiliar creature they encounter, often trampling their opponent's corpse or shattering its stony remnants until the creature is unrecognizable. The females are just as dangerous as the males, and the two sexes appear identical. A typical gorgon stands 6 feet tall and 8 feet long. It weighs 4,000 pounds.
 
 Gorgons derive nutrients from the consumption of minerals, particularly the stone of their [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrified]] victims, and any statues they create are likely to be gnawed thoroughly. They cannot digest metal or gems, so their dung (which resembles bitter-smelling gray powder) often contains small, raw crystals and nuggets of ore. Their aggression toward all other creatures means that there are few to no predators or other prey animals in their grazing grounds. Each herd is led by a dominant bull; solitary gorgons are usually adolescent bulls driven out of their herd by the lead bull.
 
-Their flesh is tough but beefy (once the armored hide is removed), and to those who acquire the taste, quite filling. Many stone giant tribes believe eating gorgon meat enhances their own natural armor. Powdered gorgon horn is worth 250 gp as an alternate material component for magic items using *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*, *[[rangoric-srd/spells/Stoneskin|stoneskin]]*, *[[rangoric-srd/spells/Flesh to Stone|flesh to stone]]*, *[[rangoric-srd/spells/Statue|statue]]*, and similar magic.
+Their flesh is tough but beefy (once the armored hide is removed), and to those who acquire the taste, quite filling. Many stone giant tribes believe eating gorgon meat enhances their own natural armor. Powdered gorgon horn is worth 250 gp as an alternate material component for magic items using _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Stoneskin|stoneskin]]_, _[[rangoric-srd/spells/Flesh to Stone|flesh to stone]]_, _[[rangoric-srd/spells/Statue|statue]]_, and similar magic.
 
 There is no way to calm these furious creatures, and they are impossible to domesticate.
 

@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Universalist School
 
-*The universalist school (for a wizard who doesn’t specialize).*
+_The universalist school (for a wizard who doesn’t specialize)._
 
 Wizards who do not specialize (known as universalists) have the most diversity of all arcane spellcasters.
 

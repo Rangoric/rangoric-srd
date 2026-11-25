@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Stink
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “stink”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “stink”, on the Special Attacks line.
 
 Once every 24 hours, a garden ooze can release foul-smelling gases in a 5-foot-radius spread centered on the ooze. The ooze usually does so after it is first injured. The stench of these vapors is overpowering during the first round it exists, causing living creatures within it to become [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1d3 rounds (Fort DC 13 negates). This is a poison effect. The save DC is Constitution-based. The [[rangoric-srd/monsters/ooze/Garden Ooze|garden ooze]] has it.

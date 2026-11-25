@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Chuul
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Aquatic)
-  - **Hit Dice**: 10d8+40 (85 hp)
-  - **Initiative**: +7
-  - **Speed**: 30 ft. (6 squares), swim 20 ft.
-  - **Armor Class**: 22 (+3 Dex, +10 natural, –1 size), touch 12, flat-footed 19
-  - **Base Attack**: +7; **CMB**: +15 (+19 grapple); **CMD**: 28 (32 vs. trip)
-  - **Attack**: Claw +14 melee (2d6+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: 2 claws +14 melee (2d6+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d6+7), paralytic tentacles
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison
-  - **Saves**: Fort +7, Ref +6, Will +9
-  - **Abilities**: Str 25, Dex 16, Con 18, Int 10, Wis 14, Cha 5
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +28, [[rangoric-srd/skills/Nature|Nature]] +8, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +9
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Temperate swamps; temperate marshes
-  - **Organization**: Solitary, pair, or pack (3–6)
-  - **Challenge Rating**: 7
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: 12–16 HD (Large); 17–33 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Aquatic)
+- **Hit Dice**: 10d8+40 (85 hp)
+- **Initiative**: +7
+- **Speed**: 30 ft. (6 squares), swim 20 ft.
+- **Armor Class**: 22 (+3 Dex, +10 natural, –1 size), touch 12, flat-footed 19
+- **Base Attack**: +7; **CMB**: +15 (+19 grapple); **CMD**: 28 (32 vs. trip)
+- **Attack**: Claw +14 melee (2d6+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: 2 claws +14 melee (2d6+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d6+7), paralytic tentacles
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison
+- **Saves**: Fort +7, Ref +6, Will +9
+- **Abilities**: Str 25, Dex 16, Con 18, Int 10, Wis 14, Cha 5
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +28, [[rangoric-srd/skills/Nature|Nature]] +8, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Temperate swamps; temperate marshes
+- **Organization**: Solitary, pair, or pack (3–6)
+- **Challenge Rating**: 7
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: 12–16 HD (Large); 17–33 HD (Huge)
+- **Level Adjustment**: —
 
 Chuuls are armored, crustacean-like predators that lurk beneath the surfaces of shallow ponds and mires, bursting from concealment to snatch up prey in their chitinous pincers and then paralyzing them with their mouth tentacles before eating them alive.
 

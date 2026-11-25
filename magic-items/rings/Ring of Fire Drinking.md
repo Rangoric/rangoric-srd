@@ -20,4 +20,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This brass ring works as a ring of major elemental resistance (fire) but only in regards to nonmagical fires. Also, the wearer can hold fire in his hands and drink the fire. This act replenishes the body’s fluids, so he never needs water. The ring must be worn for seven consecutive days before it starts working.
 
-CL 6th; [[rangoric-srd/feats/Forge Ring|Forge Ring]], *[[rangoric-srd/spells/Protection from Energy|protection from energy]]*; Price 20,000 gp.
+CL 6th; [[rangoric-srd/feats/Forge Ring|Forge Ring]], _[[rangoric-srd/spells/Protection from Energy|protection from energy]]_; Price 20,000 gp.

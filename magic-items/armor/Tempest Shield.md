@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Tempest Shield
 
-The face of this *+1 bashing heavy steel shield* swirls with the image of swirling clouds, driving rain, or falling snow. When used to make a shield bash attack, the shield's wielder can make a [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]] maneuver as a free action against her target without provoking an attack of opportunity from the creature being bull rushed. Once per day on command, the wielder can cause the *tempest shield* to emit a stream of high-powered air as the *[[rangoric-srd/spells/Gust of Wind|gust of wind]]* spell.
+The face of this _+1 bashing heavy steel shield_ swirls with the image of swirling clouds, driving rain, or falling snow. When used to make a shield bash attack, the shield's wielder can make a [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]] maneuver as a free action against her target without provoking an attack of opportunity from the creature being bull rushed. Once per day on command, the wielder can cause the _tempest shield_ to emit a stream of high-powered air as the _[[rangoric-srd/spells/Gust of Wind|gust of wind]]_ spell.
 
-Moderate evocation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*, *[[rangoric-srd/spells/Gust of Wind|gust of wind]]*; Price 15,170 gp; Cost 8,170 gp.
+Moderate evocation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Gust of Wind|gust of wind]]_; Price 15,170 gp; Cost 8,170 gp.

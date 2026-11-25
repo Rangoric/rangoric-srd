@@ -63,7 +63,7 @@ Organization: Solitary or pair    
 Challenge Rating: 57      
 Treasure: Standard      
 Alignment: Always chaotic evil      
-Advancement: 53-58 HD (Huge); 59-70 HD (Gargantuan); 71-140 HD (Colossal)      
+Advancement: 53-58 HD (Huge); 59-70 HD (Gargantuan); 71-140 HD (Colossal)    
 
 A hecatoncheires’ natural weapons are treated as epic, evil, and chaotic-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
@@ -73,9 +73,9 @@ Superior Multiweapon Fighting (Ex): A hecatoncheires fights with a greatsword or
 
 Skills: A hecatoncheires’ fifty heads give it a +50 racial bonus on [[rangoric-srd/skills/Perception|Perception]] and [[rangoric-srd/skills/Investigation|Investigation]] checks.
 
-Spell-Like Abilities: Caster level 50th; save DC 17 + spell level. The DC is Charisma-based.  
+Spell-Like Abilities: Caster level 50th; save DC 17 + spell level. The DC is Charisma-based.
 
-At will - [[rangoric-srd/spells/Spells F to G|greater magic weapon]], [[rangoric-srd/spells/Fly|fly]], [[rangoric-srd/spells/Shield|shield]].  
+At will - [[rangoric-srd/spells/Spells F to G|greater magic weapon]], [[rangoric-srd/spells/Fly|fly]], [[rangoric-srd/spells/Shield|shield]].
 
 Summon Hecatoncheires (Sp): A hecatoncheires can summon one other hecatoncheires once per day, though is loath to do so because then it will be similarly obligated to answer its sibling’s summoning. A summoned hecatoncheires cannot use its summoning power while “summoned.”
 

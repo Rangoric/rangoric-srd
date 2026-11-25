@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Shoggti
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Evil, Extraplanar, Qlippoth)
-  - **Hit Dice**: 7d10+42 (80 hp)
-  - **Initiative**: +7
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 21 (+3 Dex, +9 natural, –1 size), touch 12, flat-footed 18
-  - **Base Attack**: +7; **CMB**: +14 (+18 grapple); **CMD**: 27 (31 vs. trip)
-  - **Attack**: Bite +12 melee (1d8+6) or tentacle +13 melee (1d4+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +12 melee (1d8+6) and 4 tentacles +8 melee (1d4+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Braincloud|Braincloud]], [[rangoric-srd/monsters/abilities/Horrific Appearance|horrific appearance]] (DC 15), [[rangoric-srd/monsters/abilities/Constrict|constrict]] (1d4+6), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., uncanny dodge, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron or lawful, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, poison and mind-affecting effects, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, electricity 10 and fire 10
-  - **Saves**: Fort +11, Ref +5, Will +9
-  - **Abilities**: Str 22, Dex 16, Con 23, Int 12, Wis 19, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Emulation|Emulation]] +19, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +9, [[rangoric-srd/skills/Theology|Theology]] +11
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Emulation), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacles)
-  - **Environment**: Any (a chaotic evil-aligned plane: the [[rangoric-srd/rules/planes/The Abyss|Abyss]])
-  - **Organization**: Solitary, pair, or slaver band (3–10 plus 6–12 slaves of various races)
-  - **Challenge Rating**: 7
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Evil, Extraplanar, Qlippoth)
+- **Hit Dice**: 7d10+42 (80 hp)
+- **Initiative**: +7
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 21 (+3 Dex, +9 natural, –1 size), touch 12, flat-footed 18
+- **Base Attack**: +7; **CMB**: +14 (+18 grapple); **CMD**: 27 (31 vs. trip)
+- **Attack**: Bite +12 melee (1d8+6) or tentacle +13 melee (1d4+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +12 melee (1d8+6) and 4 tentacles +8 melee (1d4+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Braincloud|Braincloud]], [[rangoric-srd/monsters/abilities/Horrific Appearance|horrific appearance]] (DC 15), [[rangoric-srd/monsters/abilities/Constrict|constrict]] (1d4+6), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., uncanny dodge, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron or lawful, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, poison and mind-affecting effects, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, electricity 10 and fire 10
+- **Saves**: Fort +11, Ref +5, Will +9
+- **Abilities**: Str 22, Dex 16, Con 23, Int 12, Wis 19, Cha 15
+- **Skills**: [[rangoric-srd/skills/Emulation|Emulation]] +19, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +9, [[rangoric-srd/skills/Theology|Theology]] +11
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Emulation), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacles)
+- **Environment**: Any (a chaotic evil-aligned plane: the [[rangoric-srd/rules/planes/The Abyss|Abyss]])
+- **Organization**: Solitary, pair, or slaver band (3–10 plus 6–12 slaves of various races)
+- **Challenge Rating**: 7
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The shoggti are masters of mind manipulation, capable of seizing control of the thoughts of others and charming them into docile allies. They invade other realms in slaver bands, seeking out creatures to capture alive and return to the [[rangoric-srd/rules/planes/The Abyss|Abyss]] as charmed slaves—the fates of these poor souls is unknown, but likely has something to do with the qlippoth drive to reclaim the [[rangoric-srd/rules/planes/The Abyss|Abyss]] as their own.
 
@@ -72,7 +72,7 @@ Shoggtis speak Abyssal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +9): Constant—*[[rangoric-srd/spells/Tongues|tongues]]*; At will—*[[rangoric-srd/spells/Command|command]]* (DC 13); 3/day—*[[rangoric-srd/spells/Charm Person|charm person]]* (DC 13), *[[rangoric-srd/spells/Protection from Law|protection from law]]*; 1/day—*[[rangoric-srd/spells/Charm Monster|charm monster]]* (DC 16), *[[rangoric-srd/spells/Dimension Door|dimension door]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +9): Constant—_[[rangoric-srd/spells/Tongues|tongues]]_; At will—_[[rangoric-srd/spells/Command|command]]_ (DC 13); 3/day—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 13), _[[rangoric-srd/spells/Protection from Law|protection from law]]_; 1/day—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 16), _[[rangoric-srd/spells/Dimension Door|dimension door]]_.
 
 **[[rangoric-srd/monsters/abilities/Braincloud|Braincloud]] (Su)**: Once per round, in place of a melee attack with a tentacle, a shoggti can make a melee touch attack with the pincer on the end of that tentacle. If it hits, the target takes 1d4 points of Wisdom damage. Shoggti use this ability to mentally debilitate their victims so they can more easily use their charm spell-like abilities against them.
 

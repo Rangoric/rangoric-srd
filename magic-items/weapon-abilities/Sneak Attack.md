@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Sneak Attack
 
-Once per day, a user with the [[rangoric-srd/classes/Rogue|sneak attack]] ability may use a weapon with this enchantment to make a sneak attack with a +20 insight bonus to the attack roll. *Sneak attack* weapons are often given as prizes to low-level members of thieves’ guilds.
+Once per day, a user with the [[rangoric-srd/classes/Rogue|sneak attack]] ability may use a weapon with this enchantment to make a sneak attack with a +20 insight bonus to the attack roll. _Sneak attack_ weapons are often given as prizes to low-level members of thieves’ guilds.
 
-Faint divination; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/True Strike|true strike]]*; Price +1 bonus.
+Faint divination; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/True Strike|true strike]]_; Price +1 bonus.

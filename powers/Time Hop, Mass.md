@@ -27,7 +27,7 @@ Psychoportation
 **Range:** Close (25 ft. + 5 ft./2 levels)  
 **Targets:** All willing creatures in range  
 **Duration:** Up to 1 hour/level; see text  
-**Power Points:** 15  
+**Power Points:** 15
 
 As time hop, except you can affect any number of willing subjects in range, including yourself. You can choose which creatures are affected by the power. The subjects hop forward in time a number of hours equal to your manifester level, or some shorter number of hours; you decide how many hours the mass time hop lasts when you manifest the power.
 

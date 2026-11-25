@@ -14,11 +14,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Nature Spirit
 
-*A [[rangoric-srd/classes/Shaman#^shaman-spirit|shaman spirit]].*
+_A [[rangoric-srd/classes/Shaman#^shaman-spirit|shaman spirit]]._
 
 A shaman who selects the nature spirit takes on an appearance that reflects the aspect of the natural world she has the closest connection to. A nature shaman from the forest has a green tinge to her skin and hair, with eyes of sparkling emerald and the scent of green leaves and flowers about her. A nature shaman from the tundra is typically alabaster pale, with platinum hair and crystal blue eyes, and her skin always seems strangely cold.
 
-**Spirit Magic Spells**: *[[rangoric-srd/spells/Charm Animal|charm animal]]* (1st), *[[rangoric-srd/spells/Barkskin|barkskin]]* (2nd), *[[rangoric-srd/spells/Speak with Plants|speak with plants]]* (3rd), *[[rangoric-srd/spells/Grove of Respite|grove of respite]]* (4th), *[[rangoric-srd/spells/Awaken|awaken]]* (5th), *[[rangoric-srd/spells/Stone Tell|stone tell]]* (6th), *[[rangoric-srd/spells/Creeping Doom|creeping doom]]* (7th), *[[rangoric-srd/spells/Animal Shapes|animal shapes]]* (8th), *[[rangoric-srd/spells/World Wave|world wave]]* (9th).
+**Spirit Magic Spells**: _[[rangoric-srd/spells/Charm Animal|charm animal]]_ (1st), _[[rangoric-srd/spells/Barkskin|barkskin]]_ (2nd), _[[rangoric-srd/spells/Speak with Plants|speak with plants]]_ (3rd), _[[rangoric-srd/spells/Grove of Respite|grove of respite]]_ (4th), _[[rangoric-srd/spells/Awaken|awaken]]_ (5th), _[[rangoric-srd/spells/Stone Tell|stone tell]]_ (6th), _[[rangoric-srd/spells/Creeping Doom|creeping doom]]_ (7th), _[[rangoric-srd/spells/Animal Shapes|animal shapes]]_ (8th), _[[rangoric-srd/spells/World Wave|world wave]]_ (9th).
 
 **Hexes**: [[rangoric-srd/class-options/hexes/Entangling Curse (Hex)|entangling curse]], [[rangoric-srd/class-options/hexes/Erosion Curse (Hex)|erosion curse]], [[rangoric-srd/class-options/hexes/Friend to Animals (Hex)|friend to animals]], [[rangoric-srd/class-options/hexes/Speak with Animals (Hex)|speak with animals]], [[rangoric-srd/class-options/hexes/Stormwalker (Hex)|stormwalker]].
 
@@ -28,7 +28,7 @@ A shaman who selects the nature spirit takes on an appearance that reflects the 
 
 A shaman who chooses the nature spirit as her [[rangoric-srd/classes/Shaman#^shaman-spirit|spirit]] or [[rangoric-srd/classes/Shaman#^shaman-wandering-spirit|wandering spirit]] gains the following ability.
 
-**Storm Burst (Su)**: As a standard action, the shaman causes a small storm of swirling wind and rain to form around one creature within 30 feet. This storm causes the target to treat all foes as if they had concealment, suffering a 20% miss chance for 1 round plus 1 round for every 4 shaman levels she possesses. The shaman can use this ability a number of times per day equal to 3 + her Charisma modifier. At 11th level, any weapon she wields is treated as a *[[rangoric-srd/magic-items/weapon-abilities/Thundering|thundering]]* weapon.
+**Storm Burst (Su)**: As a standard action, the shaman causes a small storm of swirling wind and rain to form around one creature within 30 feet. This storm causes the target to treat all foes as if they had concealment, suffering a 20% miss chance for 1 round plus 1 round for every 4 shaman levels she possesses. The shaman can use this ability a number of times per day equal to 3 + her Charisma modifier. At 11th level, any weapon she wields is treated as a _[[rangoric-srd/magic-items/weapon-abilities/Thundering|thundering]]_ weapon.
 
 ## Greater Spirit Ability
 

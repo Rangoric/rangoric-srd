@@ -18,11 +18,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Ice Sculptor
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Water Element|water]]
-  - **Type**: utility (Sp)
-  - **Level**: 4
-  - **Burn**: 0
+- **Element**: [[rangoric-srd/class-options/elements/Water Element|water]]
+- **Type**: utility (Sp)
+- **Level**: 4
+- **Burn**: 0
 
-You can sculpt ice and snow into new shapes, as the spell *[[rangoric-srd/spells/Stone Shape|stone shape]]* but affecting ice and snow instead of stone.
+You can sculpt ice and snow into new shapes, as the spell _[[rangoric-srd/spells/Stone Shape|stone shape]]_ but affecting ice and snow instead of stone.

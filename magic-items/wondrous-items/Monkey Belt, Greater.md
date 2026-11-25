@@ -21,8 +21,8 @@ tags: [rangoric, rangoric/magic-item]
 
 # Monkey Belt, Greater
 
-This belt functions as a *[[rangoric-srd/magic-items/wondrous-items/Monkey Belt|monkey belt]]*, except it grants the wearer a +2 enhancement bonus to Strength and Dexterity. Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
+This belt functions as a _[[rangoric-srd/magic-items/wondrous-items/Monkey Belt|monkey belt]]_, except it grants the wearer a +2 enhancement bonus to Strength and Dexterity. Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
 
-When the wearer speaks the command word to transform the belt into a prehensile tail, a *greater monkey belt* also gives the wearer a +5 circumstance bonus on Athletics checks.
+When the wearer speaks the command word to transform the belt into a prehensile tail, a _greater monkey belt_ also gives the wearer a +5 circumstance bonus on Athletics checks.
 
-Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Beast Shape I|beast shape I]]*, *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*, *[[rangoric-srd/spells/Cat’s Grace|cat's grace]]*; Price 18,000 gp; Cost 9,000 gp; Weight 1 lb.
+Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Beast Shape I|beast shape I]]_, _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_; Price 18,000 gp; Cost 9,000 gp; Weight 1 lb.

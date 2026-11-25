@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/monster]
 
 # Pyrohydra
 
-  - Huge Magical Beast (Fire)
+- Huge Magical Beast (Fire)
 
 A variant of the [[rangoric-srd/monsters/hydra/Hydra|hydra]] with any number of heads (+2 CR). The pyrohydra lives in warm marshes, deserts or volcanic mountains, and gains the Fire subtype. These reddish hydras have a [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]] in each head (15-ft. cone, 3d6 fire damage, Reflex half), usable every 1d4 rounds. The save DC is 10 + 1/2 the hydra’s HD + the hydra’s Con modifier.
 

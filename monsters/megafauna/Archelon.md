@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Archelon
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 7d8+28 (59 hp)
-  - **Initiative**: +5
-  - **Speed**: 15 ft. (3 squares), swim 50 ft.
-  - **Armor Class**: 19 (+10 armor, +1 Dex, –2 size), touch 9, flat-footed 18
-  - **Base Attack**: +5; **CMB**: +13; **CMD**: 24 (28 vs. trip)
-  - **Attack**: Bite +10 melee (2d8+9)
-  - **Full Attack**: Bite +10 melee (2d8+9)
-  - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Capsize|Capsize]] (DC 25)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]]
-  - **Saves**: Fort +9, Ref +6, Will +5
-  - **Abilities**: Str 22, Dex 13, Con 19, Int 2, Wis 12, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Perception|Perception]] +10
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
-  - **Environment**: Warm or temperate water or coastlines
-  - **Organization**: Solitary or bale (2–6)
-  - **Challenge Rating**: 5
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 7d8+28 (59 hp)
+- **Initiative**: +5
+- **Speed**: 15 ft. (3 squares), swim 50 ft.
+- **Armor Class**: 19 (+10 armor, +1 Dex, –2 size), touch 9, flat-footed 18
+- **Base Attack**: +5; **CMB**: +13; **CMD**: 24 (28 vs. trip)
+- **Attack**: Bite +10 melee (2d8+9)
+- **Full Attack**: Bite +10 melee (2d8+9)
+- **Space/Reach**: 15 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Capsize|Capsize]] (DC 25)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]]
+- **Saves**: Fort +9, Ref +6, Will +5
+- **Abilities**: Str 22, Dex 13, Con 19, Int 2, Wis 12, Cha 6
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Perception|Perception]] +10
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
+- **Environment**: Warm or temperate water or coastlines
+- **Organization**: Solitary or bale (2–6)
+- **Challenge Rating**: 5
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 An ancient relative of the smaller leatherback sea turtle, the archelon can grow up to 13 feet long and 16 feet from flipper to flipper. Weighing as much as 5,000 pounds, the archelon has an exceedingly powerful bite, and doesn't hesitate to use it to deter aquatic nuisances.
 

@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Sinspawn
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 3d8+6 (19 hp)
-  - **Initiative**: +5
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 14 (+1 Dex, +1 dodge, +2 natural), touch 12, flat-footed 12
-  - **Base Attack**: +2; **CMB**: +3; **CMD**: 15
-  - **Attack**: [[rangoric-srd/equipment/weapons/Ranseur|Ranseur]] +3 melee (2d4+1/×3) or bite +3 melee (1d6 plus sinful bite) or bite +3 melee (1d6+1 plus sinful bite) or claw +3 melee (1d4+1)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Ranseur|Ranseur]] +3 melee (2d4+1/×3) and bite –2 melee (1d6 plus sinful bite); or bite +3 melee (1d6+1 plus sinful bite) and 2 claws +3 melee (1d4+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Sin-Scent|sin-scent]], [[rangoric-srd/monsters/abilities/Martial Proficiency|martial proficiency]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 13
-  - **Saves**: Fort +3, Ref +2, Will +4
-  - **Abilities**: Str 13, Dex 13, Con 14, Int 10, Wis 13, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +7
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
-  - **Environment**: Any ruins
-  - **Organization**: Solitary, pair, or cult (3–8)
-  - **Challenge Rating**: 2
-  - **Treasure**: Standard (ranseur, other treasure)
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 3d8+6 (19 hp)
+- **Initiative**: +5
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 14 (+1 Dex, +1 dodge, +2 natural), touch 12, flat-footed 12
+- **Base Attack**: +2; **CMB**: +3; **CMD**: 15
+- **Attack**: [[rangoric-srd/equipment/weapons/Ranseur|Ranseur]] +3 melee (2d4+1/×3) or bite +3 melee (1d6 plus sinful bite) or bite +3 melee (1d6+1 plus sinful bite) or claw +3 melee (1d4+1)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Ranseur|Ranseur]] +3 melee (2d4+1/×3) and bite –2 melee (1d6 plus sinful bite); or bite +3 melee (1d6+1 plus sinful bite) and 2 claws +3 melee (1d4+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Sin-Scent|sin-scent]], [[rangoric-srd/monsters/abilities/Martial Proficiency|martial proficiency]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 13
+- **Saves**: Fort +3, Ref +2, Will +4
+- **Abilities**: Str 13, Dex 13, Con 14, Int 10, Wis 13, Cha 12
+- **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +7
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
+- **Environment**: Any ruins
+- **Organization**: Solitary, pair, or cult (3–8)
+- **Challenge Rating**: 2
+- **Treasure**: Standard (ranseur, other treasure)
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Sinspawn are corrupted products of magic used by spellcasters in a past era as shock troops for their armies. Literally the embodiment of a sin made flesh, they are sentient abominations of distilled ectoplasm imprinted with the soul-image of slain creatures that possessed an abundance of a particular sin.
 

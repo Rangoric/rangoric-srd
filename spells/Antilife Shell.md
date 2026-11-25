@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Antilife Shell
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Animal 6, Clr 6, Drd 6, Hun 6, Psy 6, Sha 6
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 round
-  - **Range**: 10 ft.
-  - **Area**: 10-ft.-radius emanation, centered on you
-  - **Duration**: 10 min./level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Animal 6, Clr 6, Drd 6, Hun 6, Psy 6, Sha 6
+- **Components**: V, S, DF
+- **Casting Time**: 1 round
+- **Range**: 10 ft.
+- **Area**: 10-ft.-radius emanation, centered on you
+- **Duration**: 10 min./level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 You bring into being a mobile, hemispherical energy field that prevents the entrance of most types of living creatures.
 

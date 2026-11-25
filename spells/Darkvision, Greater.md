@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Darkvision, Greater
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 4, Apl 4, Hun 4, Med 4, Occ 4, Psy 4, Rgr 4, Sor/Wiz 4
-  - **Components**: V, S, M (either a pinch of dried carrot or an agate)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 hour/level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Alc 4, Apl 4, Hun 4, Med 4, Occ 4, Psy 4, Rgr 4, Sor/Wiz 4
+- **Components**: V, S, M (either a pinch of dried carrot or an agate)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 hour/level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-This spell functions as *[[rangoric-srd/spells/Darkvision|darkvision]]*, except the target's darkvision has a range of 120 feet.
+This spell functions as _[[rangoric-srd/spells/Darkvision|darkvision]]_, except the target's darkvision has a range of 120 feet.

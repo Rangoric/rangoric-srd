@@ -26,12 +26,12 @@ One such island prominently features a freshwater lake often used to refresh wan
 
 **Seasons:** With the surrounding waters of the Endless Sea to moderate their temperatures in the summer months, the Pirate Isles remain cool from spring until autumn. Winter, however, is harsh and the inhabitants of the islands usually head to the mainland for more moderate weather. Rainfall is heavier in the isles than on the mainland throughout the year, and makes for the only uncomfortable feature of summer—high humidity.
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* It is said that the isles float across the Endless Sea and into the waters of mortal oceans, seeking out ships by which they might be spotted.
+_Common:_ It is said that the isles float across the Endless Sea and into the waters of mortal oceans, seeking out ships by which they might be spotted.
 
-*Uncommon:* Numerous treasures can be found on the islands if you can find a map that matches the island you’re on. The island geography, like the rest of FaerieLand, changes to suit the whim of the regent, making treasure hunting that much more difficult.
+_Uncommon:_ Numerous treasures can be found on the islands if you can find a map that matches the island you’re on. The island geography, like the rest of FaerieLand, changes to suit the whim of the regent, making treasure hunting that much more difficult.
 
-*Rare:* Travel between islands is just as difficult as traveling from the shore to an island, though rumors persist of a current that will take travelers from one end of the chain to the other.
+_Rare:_ Travel between islands is just as difficult as traveling from the shore to an island, though rumors persist of a current that will take travelers from one end of the chain to the other.
 
-*Obscure:* -
+_Obscure:_ -

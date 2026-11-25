@@ -28,6 +28,6 @@ Psychoportation
 **Range:** Personal  
 **Target:** You  
 **Duration:** 10 min./level  
-**Power Points:** 7  
+**Power Points:** 7
 
 As the [[rangoric-srd/spells/Freedom of Movement|freedom of movement]] spell, except as noted here.

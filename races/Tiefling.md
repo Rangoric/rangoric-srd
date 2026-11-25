@@ -25,7 +25,7 @@ Perks:
 - -2 Charisma
 - Darkvision: Tieflings can see in the dark up to 60 feet; see [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] for how it works.
 - Skilled: +2 racial bonus on [[rangoric-srd/skills/Deception|Deception]] and [[rangoric-srd/skills/Stealth|Stealth]] checks.
-- Spell-Like Ability: Tieflings can use *[[rangoric-srd/spells/Darkness|darkness]]* once per day as a spell-like ability (caster level equal to the tiefling's character level).
+- Spell-Like Ability: Tieflings can use _[[rangoric-srd/spells/Darkness|darkness]]_ once per day as a spell-like ability (caster level equal to the tiefling's character level).
 - Fiendish Resistance: Tieflings have cold resistance 5, electricity resistance 5, and fire resistance 5 (see [[rangoric-srd/rules/Special Abilities and Conditions#Resistance to Energy|resistance to energy]]).
 - Fiendish Sorcery: Tiefling [[rangoric-srd/classes/Sorcerer|sorcerers]] with the [[rangoric-srd/class-options/bloodlines/Abyssal Bloodline|Abyssal]] or [[rangoric-srd/class-options/bloodlines/Infernal Bloodline|Infernal]] bloodline treat their Charisma score as 2 points higher for all sorcerer class abilities.
 
@@ -55,17 +55,17 @@ Paragon Class: [[rangoric-srd/classes/Tiefling Paragon|Tiefling Paragon]]
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 60 years | +4d6 | +6d6 | +8d6 |
+| --------- | --------- | ----------- | ------- |
+| 60 years  | +4d6      | +6d6        | +8d6    |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 150 years | 200 years | 250 years | +6d% years |
+| Middle Age | Old       | Venerable | Maximum Age |
+| ---------- | --------- | --------- | ----------- |
+| 150 years  | 200 years | 250 years | +6d% years  |
 
-| Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Male | 4 ft. 10 in. | +2d10 | 120 lb. | × 5 lb. |
-| Female | 4 ft. 5 in. | +2d10 | 85 lb. | × 5 lb. |
+| Gender | Base Height  | Height Modifier | Base Weight | Weight Modifier |
+| ------ | ------------ | --------------- | ----------- | --------------- |
+| Male   | 4 ft. 10 in. | +2d10           | 120 lb.     | × 5 lb.         |
+| Female | 4 ft. 5 in.  | +2d10           | 85 lb.      | × 5 lb.         |
 
 ### Description
 
@@ -87,15 +87,15 @@ Tieflings seldom see another of their own kind, and thus they usually simply ado
 
 A tiefling can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Beguiling Liar\|Beguiling Liar]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Sprinter\|Fiendish Sprinter]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Maw or Claw\|Maw or Claw]] | Spell-like ability |
-| [[rangoric-srd/races/racial-traits/Prehensile Tail\|Prehensile Tail]] | Fiendish sorcery |
-| [[rangoric-srd/races/racial-traits/Scaled Skin\|Scaled Skin]] | Fiendish resistance |
-| [[rangoric-srd/races/racial-traits/Soul Seer\|Soul Seer]] | Spell-like ability and fiendish sorcery |
-| [[rangoric-srd/races/racial-traits/Vestigial Wings\|Vestigial Wings]] | Skilled |
+| Trait                                                                 | Replaces                                |
+| --------------------------------------------------------------------- | --------------------------------------- |
+| [[rangoric-srd/races/racial-traits/Beguiling Liar\|Beguiling Liar]]   | Skilled                                 |
+| [[rangoric-srd/races/racial-traits/Sprinter\|Fiendish Sprinter]]      | Skilled                                 |
+| [[rangoric-srd/races/racial-traits/Maw or Claw\|Maw or Claw]]         | Spell-like ability                      |
+| [[rangoric-srd/races/racial-traits/Prehensile Tail\|Prehensile Tail]] | Fiendish sorcery                        |
+| [[rangoric-srd/races/racial-traits/Scaled Skin\|Scaled Skin]]         | Fiendish resistance                     |
+| [[rangoric-srd/races/racial-traits/Soul Seer\|Soul Seer]]             | Spell-like ability and fiendish sorcery |
+| [[rangoric-srd/races/racial-traits/Vestigial Wings\|Vestigial Wings]] | Skilled                                 |
 
 ### Class Bonuses
 
@@ -107,7 +107,7 @@ A tiefling gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuse
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
+| Archetype                                                                                     | Class                                   |
+| --------------------------------------------------------------------------------------------- | --------------------------------------- |
 | [[rangoric-srd/class-options/archetypes/cleric/Fiendish Vessel (Archetype)\|Fiendish Vessel]] | [[rangoric-srd/classes/Cleric\|Cleric]] |
-| [[rangoric-srd/class-options/archetypes/magus/Fiend Flayer (Archetype)\|Fiend Flayer]] | [[rangoric-srd/classes/Magus\|Magus]] |
+| [[rangoric-srd/class-options/archetypes/magus/Fiend Flayer (Archetype)\|Fiend Flayer]]        | [[rangoric-srd/classes/Magus\|Magus]]   |

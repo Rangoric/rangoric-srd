@@ -31,16 +31,16 @@ tags: [rangoric, rangoric/spell]
 
 # Spiritual Weapon
 
-*Evocation \[Force\]*
+_Evocation \[Force\]_
 
-  - **Level**: Clr 2, Inq 2, Med 2, Sha 2, Spi 2, War 2
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Effect**: Magic weapon of force
-  - **Duration**: 1 round/level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Clr 2, Inq 2, Med 2, Sha 2, Spi 2, War 2
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Effect**: Magic weapon of force
+- **Duration**: 1 round/level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 A weapon made of pure force springs into existence and attacks opponents at a distance, as you direct it, dealing 1d8 force damage per hit, +1 point per three caster levels (maximum +5 at 15th level). The weapon takes the shape of a weapon favored by your deity or a weapon with some spiritual significance or symbolism to you (see below) and has the same threat range and critical multipliers as a real weapon of its form. It strikes the opponent you designate, starting with one attack in the round the spell is cast and continuing each round thereafter on your turn. It uses your base attack bonus (possibly allowing it multiple attacks per round in subsequent rounds) plus your Wisdom modifier as its attack bonus. It strikes as a spell, not as a weapon, so, for example, it can damage creatures that have [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|damage reduction]]. As a force effect, it can strike [[rangoric-srd/rules/Special Abilities and Conditions#^incorporeal|incorporeal]] creatures without the normal miss chance associated with incorporeality. The weapon always strikes from your direction. It does not get a flanking bonus or help a combatant get one. Your feats or combat actions do not affect the weapon. If the weapon goes beyond the spell range, if it goes out of your sight, or if you are not directing it, the weapon returns to you and hovers.
 
@@ -52,10 +52,10 @@ If an attacked creature has spell resistance, you make a caster level check (1d2
 
 The weapon that you get is often a force replica of your deity’s own personal weapon. A cleric without a deity gets a weapon based on his alignment. A neutral cleric without a deity can create a spiritual weapon of any alignment, provided he is acting at least generally in accord with that alignment at the time. The weapons associated with each alignment are as follows.
 
-*Chaos*: Battleaxe
+_Chaos_: Battleaxe
 
-*Evil*: Light flail
+_Evil_: Light flail
 
-*Good*: Warhammer
+_Good_: Warhammer
 
-*Law*: Longsword,
+_Law_: Longsword,

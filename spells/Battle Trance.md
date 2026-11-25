@@ -34,16 +34,16 @@ tags: [rangoric, rangoric/spell]
 
 # Battle Trance
 
-*Enchantment (Compulsion) \[Emotion, Mind-affecting\]*
+_Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
 
-  - **Level**: Alc 3, Apl 3, Clr 4, Hun 3, Inq 3, Rgr 3, Wit 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Alc 3, Apl 3, Clr 4, Hun 3, Inq 3, Rgr 3, Wit 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 minute/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 You are transformed into a single-minded force of destruction. You gain the ferocity monster special ability, a number of temporary hit points equal to 1d6 + your caster level (maximum +10), and a +4 morale bonus on saving throws against mind-affecting effects. You cannot use the withdraw action or willingly move away from a creature that has attacked you.
 

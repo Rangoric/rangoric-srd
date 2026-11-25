@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/flavor, flavor]
 
 # Old Man Winter
 
-***“Master of the Winter”, “Biting Wind of the North”***
+**_“Master of the Winter”, “Biting Wind of the North”_**
 
 Old Man Winter’s strange coloration makes him look like a [[rangoric-srd/races/Feeorin|feeorin]] who has frozen to death; his skin is bluish tinged, his silver-white hair and mustacheless beard are laced with ice crystals, and his ice blue clothing shimmers with patches of frost.
 

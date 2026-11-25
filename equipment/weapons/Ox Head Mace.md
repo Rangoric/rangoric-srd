@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/hammers]
 
 # Ox Head Mace
 
-*Exotic one-handed melee weapon.* Cost 15 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 12 lb.; Type Bludgeoning. ^stats
+_Exotic one-handed melee weapon._ Cost 15 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 12 lb.; Type Bludgeoning. ^stats
 
 Typically wielded by priests and carried as a scepter or badge of office, the head of this weapon is made in the form of the head of an ox or other animal. This two-flanged mace is also worked in such a fashion that the animal’s nostrils make a whistling noise when the weapon is swung. This sound has the effect of unnerving opponents when wielded by an expert, offering a +4 circumstance bonus on [[rangoric-srd/skills/Intimidation|Intimidation]] checks.

@@ -28,7 +28,7 @@ Clairsentience
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 min./level (D)  
-**Power Points:** 1  
+**Power Points:** 1
 
 Your awareness extends a fraction of a second into the future, allowing you to better aim blows against your opponent. You gain a +2 insight bonus on your damage rolls.
 

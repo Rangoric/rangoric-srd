@@ -27,14 +27,14 @@ tags: [rangoric, rangoric/spell]
 
 # Blink
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Brd 3, Fpk 3, Mag 3, Msl 3, Psy 3, Skd 3, Sor/Wiz 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level (D)
+- **Level**: Brd 3, Fpk 3, Mag 3, Msl 3, Psy 3, Skd 3, Sor/Wiz 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level (D)
 
 You “blink” back and forth between the Material Plane and the Ethereal Plane. You look as though you’re winking in and out of reality very quickly and at random.
 

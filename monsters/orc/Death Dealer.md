@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Death Dealer
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human, Orc)
-  - **Hit Dice**: 19d12+114 (243 hp)
-  - **Initiative**: +2
-  - **Speed**: 40 ft. (8 squares), fly 60 ft. (good)
-  - **Armor Class**: 13 (+3 armor, +2 Dex, –2 rage), touch 10, flat-footed 11
-  - **Base Attack**: +19; **CMB**: +29; **CMD**: 39
-  - **Attack**: +1 unholy ghost touch adamantine scythe +31 melee (2d4+16/19–20/×4) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +22 ranged (1d8+10/×3)
-  - **Full Attack**: +1 unholy ghost touch adamantine scythe +31/+26/+21/+16 melee (2d4+16/19–20/×4); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +22/+17/+12/+7 ranged (1d8+10/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-greater-rage|Greater rage]] (42 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Clear Mind (Rage Power)|clear mind]], intimidating [[rangoric-srd/class-options/rage-powers/Intimidating Glare (Rage Power)|glare]], [[rangoric-srd/class-options/rage-powers/Knockback (Rage Power)|knockback]], [[rangoric-srd/class-options/rage-powers/Mighty Swing (Rage Power)|mighty swing]], [[rangoric-srd/class-options/rage-powers/Strength Surge (Rage Power)|strength surge]] +19, [[rangoric-srd/class-options/rage-powers/Superstition (Rage Power)|superstition]] +6, [[rangoric-srd/class-options/rage-powers/Surprise Accuracy (Rage Power)|surprise accuracy]] +5, [[rangoric-srd/class-options/rage-powers/Terrifying Howl (Rage Power)|terrifying howl]] \[DC 29\], [[rangoric-srd/class-options/rage-powers/Unexpected Strike (Rage Power)|unexpected strike]])
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., *[[rangoric-srd/spells/Blink|blink]]*, [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-indomitable-will|indomitable will]], [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +6, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/classes/Barbarian#^barbarian-tireless-rage|tireless rage]], [[rangoric-srd/races/Half-Orc|weapon familiarity]], [[rangoric-srd/classes/Barbarian#^barbarian-damage-reduction|damage reduction]] 5/—
-  - **Saves**: Fort +20, Ref +12, Will +13 (+6 vs. spells and spell-like or supernatural abilities, +4 vs. enchantments)
-  - **Abilities**: Str 30, Dex 14, Con 20, Int 8, Wis 10, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +14 (+14 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +40, [[rangoric-srd/skills/Perception|Perception]] +27
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Dazzling Display|Dazzling Display]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (scythe), [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Shatter Defenses|Shatter Defenses]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (scythe)
-  - **Environment**: Temperate hills, mountains, or underground
-  - **Organization**: Solitary, or with other half-orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])
-  - **Challenge Rating**: 18
-  - **Treasure**: NPC gear (combat gear: oil of magic weapon, potion of bear's endurance, potion of cat's grace, potions of cure moderate wounds (2), potions of enlarge person (4), silversheen, tanglefoot bag; other gear: masterwork studded leather, +1 unholy ghost touch adamantine scythe, masterwork composite longbow (+10 Str) with 20 arrows, belt of giant strength +4, cloak of resistance +4, eyes of the eagle, handy haversack, mask of intimidation, ring of blinking, ring of feather falling, winged boots, 57 gp)
-  - **Alignment**: Chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human, Orc)
+- **Hit Dice**: 19d12+114 (243 hp)
+- **Initiative**: +2
+- **Speed**: 40 ft. (8 squares), fly 60 ft. (good)
+- **Armor Class**: 13 (+3 armor, +2 Dex, –2 rage), touch 10, flat-footed 11
+- **Base Attack**: +19; **CMB**: +29; **CMD**: 39
+- **Attack**: +1 unholy ghost touch adamantine scythe +31 melee (2d4+16/19–20/×4) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +22 ranged (1d8+10/×3)
+- **Full Attack**: +1 unholy ghost touch adamantine scythe +31/+26/+21/+16 melee (2d4+16/19–20/×4); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +22/+17/+12/+7 ranged (1d8+10/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-greater-rage|Greater rage]] (42 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Clear Mind (Rage Power)|clear mind]], intimidating [[rangoric-srd/class-options/rage-powers/Intimidating Glare (Rage Power)|glare]], [[rangoric-srd/class-options/rage-powers/Knockback (Rage Power)|knockback]], [[rangoric-srd/class-options/rage-powers/Mighty Swing (Rage Power)|mighty swing]], [[rangoric-srd/class-options/rage-powers/Strength Surge (Rage Power)|strength surge]] +19, [[rangoric-srd/class-options/rage-powers/Superstition (Rage Power)|superstition]] +6, [[rangoric-srd/class-options/rage-powers/Surprise Accuracy (Rage Power)|surprise accuracy]] +5, [[rangoric-srd/class-options/rage-powers/Terrifying Howl (Rage Power)|terrifying howl]] \[DC 29\], [[rangoric-srd/class-options/rage-powers/Unexpected Strike (Rage Power)|unexpected strike]])
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., _[[rangoric-srd/spells/Blink|blink]]_, [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-indomitable-will|indomitable will]], [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +6, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/classes/Barbarian#^barbarian-tireless-rage|tireless rage]], [[rangoric-srd/races/Half-Orc|weapon familiarity]], [[rangoric-srd/classes/Barbarian#^barbarian-damage-reduction|damage reduction]] 5/—
+- **Saves**: Fort +20, Ref +12, Will +13 (+6 vs. spells and spell-like or supernatural abilities, +4 vs. enchantments)
+- **Abilities**: Str 30, Dex 14, Con 20, Int 8, Wis 10, Cha 12
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +14 (+14 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +40, [[rangoric-srd/skills/Perception|Perception]] +27
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Dazzling Display|Dazzling Display]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (scythe), [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Shatter Defenses|Shatter Defenses]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (scythe)
+- **Environment**: Temperate hills, mountains, or underground
+- **Organization**: Solitary, or with other half-orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])
+- **Challenge Rating**: 18
+- **Treasure**: NPC gear (combat gear: oil of magic weapon, potion of bear's endurance, potion of cat's grace, potions of cure moderate wounds (2), potions of enlarge person (4), silversheen, tanglefoot bag; other gear: masterwork studded leather, +1 unholy ghost touch adamantine scythe, masterwork composite longbow (+10 Str) with 20 arrows, belt of giant strength +4, cloak of resistance +4, eyes of the eagle, handy haversack, mask of intimidation, ring of blinking, ring of feather falling, winged boots, 57 gp)
+- **Alignment**: Chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A death dealer is a [[rangoric-srd/monsters/orc/Orc#Half-Orcs|half-orc]] with 19 levels of [[rangoric-srd/classes/Barbarian|barbarian]]. These fearsome killers seek to feed their dark gods with the souls of those they slice apart with their powerful scythes—weapons powerful enough to cut through both flesh and spirit.
 

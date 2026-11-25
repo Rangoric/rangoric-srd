@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Oread, 1st-Level Fighter
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Native)
-  - **Hit Dice**: 1d10+2 (12 hp)
-  - **Initiative**: +2
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 14 (+2 armor, +2 Dex), touch 12, flat-footed 12
-  - **Base Attack**: +1; **CMB**: +3; **CMD**: 15
-  - **Attack**: [[rangoric-srd/equipment/weapons/Longsword|Longsword]] +3 melee (1d8+3/19–20) or [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +4 ranged (1d8+2/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Longsword|Longsword]] +3 melee (1d8+3/19–20); or [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +4 ranged (1d8+2/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Elemental Affinity|elemental affinity]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 5
-  - **Saves**: Fort +4, Ref +2, Will +4
-  - **Abilities**: Str 15, Dex 15, Con 14, Int 8, Wis 14, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +4
-  - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longbow)
-  - **Environment**: Any land
-  - **Organization**: Solitary, pair, or team (3–5)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: NPC Gear (leather armor, longsword, composite longbow with 20 arrows, other treasure)
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Native)
+- **Hit Dice**: 1d10+2 (12 hp)
+- **Initiative**: +2
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 14 (+2 armor, +2 Dex), touch 12, flat-footed 12
+- **Base Attack**: +1; **CMB**: +3; **CMD**: 15
+- **Attack**: [[rangoric-srd/equipment/weapons/Longsword|Longsword]] +3 melee (1d8+3/19–20) or [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +4 ranged (1d8+2/×3)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Longsword|Longsword]] +3 melee (1d8+3/19–20); or [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +4 ranged (1d8+2/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Elemental Affinity|elemental affinity]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 5
+- **Saves**: Fort +4, Ref +2, Will +4
+- **Abilities**: Str 15, Dex 15, Con 14, Int 8, Wis 14, Cha 8
+- **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +4
+- **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longbow)
+- **Environment**: Any land
+- **Organization**: Solitary, pair, or team (3–5)
+- **Challenge Rating**: 1/2
+- **Treasure**: NPC Gear (leather armor, longsword, composite longbow with 20 arrows, other treasure)
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Oreads are humans whose ancestry includes the touch of an elemental being of earth somewhere along its line, often that of a shaitan genie. Oreads are strong and solidly built, and prefer wearing earth tones that match the coloration of their flesh and hair—shades of gray, brown, black, or white. In rare cases, oreads' stone-like traits are so strong as to leave no question as to their nature, with growths like rocky outcroppings protruding from their skin or hair like crystalline spikes.
 
@@ -73,6 +73,6 @@ Oreads speak Common and Terran.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st; concentration +0): 1/day—*[[rangoric-srd/spells/Magic Stone|magic stone]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st; concentration +0): 1/day—_[[rangoric-srd/spells/Magic Stone|magic stone]]_.
 
 **[[rangoric-srd/monsters/abilities/Earth Affinity|Earth Affinity]] (Ex)**: Oread sorcerers with the Elemental (earth) bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Oread clerics with the Earth domain cast their domain powers and spells at +1 caster level.

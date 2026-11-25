@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/heavy-blades]
 
 # Ghost Head Sword
 
-*Martial two-handed melee weapon.* Cost 80 gp; Dmg 1d8 (S), 1d10 (M); Critical 18-20/x2; Weight 17 lb.; Type Slashing. ^stats
+_Martial two-handed melee weapon._ Cost 80 gp; Dmg 1d8 (S), 1d10 (M); Critical 18-20/x2; Weight 17 lb.; Type Slashing. ^stats
 
-(*Gui Tao Dao*): This heavy broadsword has a curved, tapered, single-edged blade with saw teeth on its back edge. It is typically wielded two handed and used to deal powerful, gaping wounds to its targets.
+(_Gui Tao Dao_): This heavy broadsword has a curved, tapered, single-edged blade with saw teeth on its back edge. It is typically wielded two handed and used to deal powerful, gaping wounds to its targets.

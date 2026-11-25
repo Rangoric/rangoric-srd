@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Treant
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
-  - **Hit Dice**: 12d8+60 (114 hp)
-  - **Initiative**: –1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 21 (–1 Dex, +14 natural, –2 size), touch 7, flat-footed 21
-  - **Base Attack**: +9; **CMB**: +20; **CMD**: 29
-  - **Attack**: Slam +17 melee (2d6+9/19–20) or rock +7 ranged (2d6+13)
-  - **Full Attack**: 2 slams +17 melee (2d6+9/19–20); or rock +7 ranged (2d6+13)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (180 ft.), [[rangoric-srd/monsters/abilities/Trample|trample]] (2d6+13, DC 25)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], animate trees, double damage against objects, treespeech, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/slashing, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], vulnerability to fire
-  - **Saves**: Fort +13, Ref +3, Will +9
-  - **Abilities**: Str 29, Dex 8, Con 21, Int 12, Wis 16, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] –9 (+7 in forests)
-  - **Feats**: [[rangoric-srd/feats/Improved Critical|Improved Critical]] (slam), [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any forest
-  - **Organization**: Solitary or grove (2–7)
-  - **Challenge Rating**: 8
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral good
-  - **Advancement**: 8–16 HD (Huge); 17–21 HD (Gargantuan)
-  - **Level Adjustment**: +5
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
+- **Hit Dice**: 12d8+60 (114 hp)
+- **Initiative**: –1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 21 (–1 Dex, +14 natural, –2 size), touch 7, flat-footed 21
+- **Base Attack**: +9; **CMB**: +20; **CMD**: 29
+- **Attack**: Slam +17 melee (2d6+9/19–20) or rock +7 ranged (2d6+13)
+- **Full Attack**: 2 slams +17 melee (2d6+9/19–20); or rock +7 ranged (2d6+13)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (180 ft.), [[rangoric-srd/monsters/abilities/Trample|trample]] (2d6+13, DC 25)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], animate trees, double damage against objects, treespeech, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/slashing, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], vulnerability to fire
+- **Saves**: Fort +13, Ref +3, Will +9
+- **Abilities**: Str 29, Dex 8, Con 21, Int 12, Wis 16, Cha 13
+- **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] –9 (+7 in forests)
+- **Feats**: [[rangoric-srd/feats/Improved Critical|Improved Critical]] (slam), [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any forest
+- **Organization**: Solitary or grove (2–7)
+- **Challenge Rating**: 8
+- **Treasure**: Standard
+- **Alignment**: Usually neutral good
+- **Advancement**: 8–16 HD (Huge); 17–21 HD (Gargantuan)
+- **Level Adjustment**: +5
 
 Treants are guardians of the forest and speakers for the trees. As long-lived as the forests themselves, and seeing themselves as parents and shepherds rather than gardeners, treants are slow and methodical in most things but terrifying when forced to fight in defense of their flock. Though they rarely seek out the companionship of the short-lived races, and have an inherent distrust of change, they have been known to tolerate those who seek to learn from their long, rambling monologues, especially if the pupils express a desire to help protect the wildlands. Yet against those who would threaten the forest, especially loggers who seek to harvest wood for lumber or those who try to clearcut a section of forest in order to build a fort or establish a town, the treants' wrath is swift and devastating. They are particularly gifted at tearing down what others build—a trait that serves angry treants well.
 

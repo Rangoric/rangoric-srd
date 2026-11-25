@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Elixir of Life, Refined
 
-*Alchana/Ingestible; Special*
+_Alchana/Ingestible; Special_
 
 This is the Ultimate Feat of Creation for White Alchemists— it is a potion that affirms and bolsters life wherever it is found. In short, this elixir retards or stops aging. There are three types of the elixir—Impure (reduces the imbiber’s age by 10 years), Refined (halts aging and its effects on the person for 1d100 years), and Pure (renders the imbiber the same age forever, barring grievous injury and other forms of death). While all are generated from the same formulae and could be created by many white alchemists, ethical concerns limit the numbers on the two greater forms of this elixir. To date, only two people have ever created the Pure Elixir of Life (and rumors claim that they are the ones seeking to prevent more immortals from following in their paths).
 

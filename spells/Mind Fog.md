@@ -33,16 +33,16 @@ tags: [rangoric, rangoric/spell]
 
 # Mind Fog
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Brd 5, Mes 5, Occ 5, Psy 5, Skd 5, Sor/Wiz 5, Spi 5, Wit 5
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Effect**: Fog spreads in 20-ft. radius, 20 ft. high
-  - **Duration**: 30 minutes and 2d6 rounds; see text
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 5, Mes 5, Occ 5, Psy 5, Skd 5, Sor/Wiz 5, Spi 5, Wit 5
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Effect**: Fog spreads in 20-ft. radius, 20 ft. high
+- **Duration**: 30 minutes and 2d6 rounds; see text
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 Mind fog produces a bank of thin mist that weakens the mental resistance of those caught in it. Creatures in the mind fog take a –10 competence penalty on Wisdom checks and Will saves. (A creature that successfully saves against the fog is not affected and need not make further saves even if it remains in the fog.) Affected creatures take the penalty as long as they remain in the fog and for 2d6 rounds thereafter. The fog is stationary and lasts for 30 minutes (or until dispersed by wind).
 

@@ -17,7 +17,7 @@ You trace your heritage to fierce and proud spirits of storm and sky, and living
 
 **Class Skill**: [[rangoric-srd/skills/Nature|Nature]].
 
-**Bonus Spells**: *[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]* (3rd), *[[rangoric-srd/spells/Gust of Wind|gust of wind]]* (5th), *[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]* (7th), *[[rangoric-srd/spells/Shout|shout]]* (9th), *[[rangoric-srd/spells/Overland Flight|overland flight]]* (11th), *[[rangoric-srd/spells/Chain Lightning|chain lightning]]* (13th), *[[rangoric-srd/spells/Control Weather|control weather]]* (15th), *[[rangoric-srd/spells/Whirlwind|whirlwind]]* (17th), *[[rangoric-srd/spells/Storm of Vengeance|storm of vengeance]]* (19th).
+**Bonus Spells**: _[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]_ (3rd), _[[rangoric-srd/spells/Gust of Wind|gust of wind]]_ (5th), _[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_ (7th), _[[rangoric-srd/spells/Shout|shout]]_ (9th), _[[rangoric-srd/spells/Overland Flight|overland flight]]_ (11th), _[[rangoric-srd/spells/Chain Lightning|chain lightning]]_ (13th), _[[rangoric-srd/spells/Control Weather|control weather]]_ (15th), _[[rangoric-srd/spells/Whirlwind|whirlwind]]_ (17th), _[[rangoric-srd/spells/Storm of Vengeance|storm of vengeance]]_ (19th).
 
 **Bonus Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Enlarge Spell|Enlarge Spell]], [[rangoric-srd/feats/Far Shot|Far Shot]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics), [[rangoric-srd/feats/Wind Stance|Wind Stance]].
 
@@ -29,7 +29,7 @@ You trace your heritage to fierce and proud spirits of storm and sky, and living
 
 Your mastery of the storm is reflected in the unique panoply of powers you manifest.
 
-**Thunderstaff (Sp)**: At 1st level, you can touch a weapon as a standard action, giving it the *[[rangoric-srd/magic-items/weapon-abilities/Shock|shock]]* property for a number of rounds equal to 1/2 your sorcerer level (minimum 1). At 9th level, you can confer the *[[rangoric-srd/magic-items/weapon-abilities/Shocking Burst|shocking burst]]* property instead, but the duration of the power is halved. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+**Thunderstaff (Sp)**: At 1st level, you can touch a weapon as a standard action, giving it the _[[rangoric-srd/magic-items/weapon-abilities/Shock|shock]]_ property for a number of rounds equal to 1/2 your sorcerer level (minimum 1). At 9th level, you can confer the _[[rangoric-srd/magic-items/weapon-abilities/Shocking Burst|shocking burst]]_ property instead, but the duration of the power is halved. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 **Stormchild (Ex)**: At 3rd level, you gain resist electricity 5 and resist sonic 5, and treat wind effects as being one step less severe. At 9th level, you treat wind effects as being two steps less severe and gain blindsense 60 feet against concealment from natural or magical fog, mist, or weather effects.
 

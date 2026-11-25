@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Doomsayer
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Apocalypse Mystery|apocalypse]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Apocalypse Mystery|apocalypse]] mystery._
 
 As a standard action, you can utter a dire prophecy that strikes fear in your enemies and causes them to become shaken. To be affected, an enemy must be within 30 feet and able to hear you. This effect persists as long as the enemy is within 30 feet and you use a move action each round to continue your doomsaying. This ability cannot cause a creature to become frightened or panicked, even if the target was already shaken from another effect. This is a mind-affecting fear effect that relies on audible components.
 

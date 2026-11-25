@@ -31,7 +31,7 @@ Psychokinesis
 **Duration:** 10 min./level (D)  
 **Saving Throw:** None  
 **Power Resistance:** See text  
-**Power Points:** 11  
+**Power Points:** 11
 
 An invisible barrier surrounds you and moves with you. The space within this barrier is impervious to most psionic effects, including powers, psi-like abilities, and supernatural abilities. Likewise, it prevents the functioning of any psionic items or powers within its confines. A null psionics field suppresses any power or psionic effect used within, brought into, or manifested into its area, but does not negate it. Time spent within a null psionics field counts against a suppressed effect’s duration.
 

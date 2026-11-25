@@ -48,17 +48,17 @@ The army's size determines not only how many individual units exist in the army,
 
 **Table: Army Sizes**
 
-| Army Size | Number of Units | ACR |
-| --- | --- | --- |
-| Fine | 1 | CR of individual creature –8 |
-| Diminutive | 10 | CR of individual creature –6 |
-| Tiny | 25 | CR of individual creature –4 |
-| Small | 50 | CR of individual creature –2 |
-| Medium | 100 | CR of individual creature |
-| Large | 200 | CR of individual creature +2 |
-| Huge | 500 | CR of individual creature +4 |
-| Gargantuan | 1,000 | CR of individual creature +6 |
-| Colossal | 2,000 | CR of individual creature +8 |
+| Army Size  | Number of Units | ACR                          |
+| ---------- | --------------- | ---------------------------- |
+| Fine       | 1               | CR of individual creature –8 |
+| Diminutive | 10              | CR of individual creature –6 |
+| Tiny       | 25              | CR of individual creature –4 |
+| Small      | 50              | CR of individual creature –2 |
+| Medium     | 100             | CR of individual creature    |
+| Large      | 200             | CR of individual creature +2 |
+| Huge       | 500             | CR of individual creature +4 |
+| Gargantuan | 1,000           | CR of individual creature +6 |
+| Colossal   | 2,000           | CR of individual creature +8 |
 
 **Type**: This lists the nature of the army's individual units, such as "orcs (warrior 1)" or "trolls." These rules assume all units in an army are essentially the same; if an army of 100 orc warriors 1 (meaning 1st-level warriors) actually has a few half-orc warriors or some orc barbarians, their presence has no effect on the army's statistics. If an army has a large number of units that are different than the typical unit in that army, and these differences are enough to change the army's stat block, it is generally best to treat the group as two separate armies with different stat blocks.
 
@@ -82,7 +82,7 @@ The army's size determines not only how many individual units exist in the army,
 
 **Consumption**: This is how many Build Points (BP) an army consumes each week (unlike most kingdom expenses, this cost is per week, not per month), representing the cost to feed, hydrate, arm, train, care for, and pay the units. An army's base Consumption is equal to its ACR divided by 2 (minimum 1). If you fall behind on paying the army's Consumption, reduce its Morale by 2; this penalty ends when you catch up on the army's pay.
 
-**Commander**: This entry lists the army's commander and the commander's Charisma modifier, ranks in [[rangoric-srd/skills/Profession|Profession]] (soldier), and [[rangoric-srd/feats/Leadership|Leadership]] score. The commander must be able to communicate with the army (possibly using *[[rangoric-srd/spells/Message|message]]* spells and similar magical forms of communication) in order to give orders or provide a bonus on the army's rolls.
+**Commander**: This entry lists the army's commander and the commander's Charisma modifier, ranks in [[rangoric-srd/skills/Profession|Profession]] (soldier), and [[rangoric-srd/feats/Leadership|Leadership]] score. The commander must be able to communicate with the army (possibly using _[[rangoric-srd/spells/Message|message]]_ spells and similar magical forms of communication) in order to give orders or provide a bonus on the army's rolls.
 
 ## Battle Phases
 
@@ -112,7 +112,7 @@ If the Offense check is a natural 20, but that check is lower than the enemy arm
 
 In some mass combats, the specifics of a battlefield won't impact either army, but sometimes the battlefield will itself decide the outcome. The modifiers listed below apply only for the duration of the battle. Naturally, the GM should exercise judgment regarding any conditions that don't seem to apply to one of the armies (such as darkness and an army with darkvision, or fog and an army with scent).
 
-At the GM's discretion, large-area spells such as *[[rangoric-srd/spells/Move Earth|move earth]]* might allow armies or commanders to manipulate the battlefield conditions before a conflict. For these spells to have any effect, they must last at least 1 hour and affect at least a 500-foot square. Likewise, magic items such as an *[[rangoric-srd/magic-items/wondrous-items/Instant Fortress|instant fortress]]* (+2 Defense) and spells such as *[[rangoric-srd/spells/Wall of Stone|wall of stone]]* (+1 Defense) can create simple fortifications for an army to use in a battle.
+At the GM's discretion, large-area spells such as _[[rangoric-srd/spells/Move Earth|move earth]]_ might allow armies or commanders to manipulate the battlefield conditions before a conflict. For these spells to have any effect, they must last at least 1 hour and affect at least a 500-foot square. Likewise, magic items such as an _[[rangoric-srd/magic-items/wondrous-items/Instant Fortress|instant fortress]]_ (+2 Defense) and spells such as _[[rangoric-srd/spells/Wall of Stone|wall of stone]]_ (+1 Defense) can create simple fortifications for an army to use in a battle.
 
 **Advantageous Terrain**: Generally, if one army occupies a position of superiority (such as being atop a hill, wedged in a narrow canyon, or protected by a deep river along one flank), the defending army increases its DV by 2.
 
@@ -182,13 +182,13 @@ Once each Melee phase after the first, the commander can alter the army's strate
 
 ### Strategy
 
-| Strategy | DV | OM | Damage Dealt |
-| --- | --- | --- | --- |
-| Defensive | +4 | –4 | –6 |
-| Cautious | +2 | –2 | –3 |
-| Standard | +0 | +0 | +0 |
-| Aggressive | –2 | +2 | +3 |
-| Reckless | –4 | +4 | +6 |
+| Strategy   | DV  | OM  | Damage Dealt |
+| ---------- | --- | --- | ------------ |
+| Defensive  | +4  | –4  | –6           |
+| Cautious   | +2  | –2  | –3           |
+| Standard   | +0  | +0  | +0           |
+| Aggressive | –2  | +2  | +3           |
+| Reckless   | –4  | +4  | +6           |
 
 **Rout**: A rout is a chaotic and disorderly retreat of a defeated army from a battlefield, usually from fear or when overwhelmed by a superior opponent. If an army's hit points are reduced to equal or less than its ACR, its commander must attempt a DC 15 Morale check. If the check fails, the army scatters and retreats from battle. If it cannot retreat, it surrenders and is captured. When an army routs, all armies in the battle can attempt one final Offense check at the fleeing army as a parting shot before it escapes. (Normally, only enemy armies do so, but an aggressive or evil army might strike at a fleeing allied army out of anger or frustration.)
 
@@ -202,17 +202,17 @@ If an army's hit points are reduced to 0, it is defeated. A defeated army may ha
 
 #### Army Size
 
-| Army Size | Economy | Loyalty | Stability |
-| --- | --- | --- | --- |
-| Fine | 0 | 0 | 0 |
-| Diminutive | 0 | –1 | 0 |
-| Tiny | –1 | –1 | 0 |
-| Small | –1 | –1 | –1 |
-| Medium | –2 | –2 | –2 |
-| Large | –3 | –2 | –2 |
-| Huge | –4 | –2 | –2 |
-| Gargantuan | –4 | –2 | –3 |
-| Colossal | –4 | –3 | –3 |
+| Army Size  | Economy | Loyalty | Stability |
+| ---------- | ------- | ------- | --------- |
+| Fine       | 0       | 0       | 0         |
+| Diminutive | 0       | –1      | 0         |
+| Tiny       | –1      | –1      | 0         |
+| Small      | –1      | –1      | –1        |
+| Medium     | –2      | –2      | –2        |
+| Large      | –3      | –2      | –2        |
+| Huge       | –4      | –2      | –2        |
+| Gargantuan | –4      | –2      | –3        |
+| Colossal   | –4      | –3      | –3        |
 
 **Routed**: If the army routs, reduce its Morale by 1. If the army's current hp are lower than the army's ACR, increase its hit points to its ACR. A routed army refuses to fight until you succeed at a Loyalty check during your kingdom's Upkeep phase (you may attempt this check once per turn). Note that a routed army can still be attacked by enemy armies, and can attempt Offense checks in battles—it just can't initiate a battle.
 
@@ -334,17 +334,17 @@ Your army includes catapults, rams, trebuchets, ballistae, and other [[rangoric-
 
 **Table: Resource Scaling**
 
-| Army Size | Multiplier |
-| --- | --- |
-| Fine | ×1/8 |
-| Diminutive | ×1/6 |
-| Tiny | ×1/4 |
-| Small | ×1/2 |
-| Medium | ×1 |
-| Large | ×2 |
-| Huge | ×4 |
-| Gargantuan | ×10 |
-| Colossal | ×20 |
+| Army Size  | Multiplier |
+| ---------- | ---------- |
+| Fine       | ×1/8       |
+| Diminutive | ×1/6       |
+| Tiny       | ×1/4       |
+| Small      | ×1/2       |
+| Medium     | ×1         |
+| Large      | ×2         |
+| Huge       | ×4         |
+| Gargantuan | ×10        |
+| Colossal   | ×20        |
 
 The multiplier affects the resource's initial cost and the increase to Consumption. The multiplier can't reduce the cost of a resource below 1 BP.
 
@@ -572,7 +572,7 @@ When you create an army with this ability, choose either companions or animal.
 
 ## Player Characters in Battles
 
-In addition to the option of your PCs being commanders in your armies, the GM may have you fight smaller groups of enemies before or even during a battle in which your armies clash with the enemy. For example, your PCs might attack an evil necromancer and fight your way through his tower to confront him directly and defeat him while your army battles the undead horde outside the tower. Alternatively, your PCs could use potent spells (such as *[[rangoric-srd/spells/Cloudkill|cloudkill]]*, *[[rangoric-srd/spells/Control Water|control water]]*, or *[[rangoric-srd/spells/Earthquake|earthquake]]*) to alter battlefield conditions in your favor. These possibilities let you use your characters to directly affect the outcome of a battle without forcing you to sit out on an adventure opportunity by personally commanding an army.
+In addition to the option of your PCs being commanders in your armies, the GM may have you fight smaller groups of enemies before or even during a battle in which your armies clash with the enemy. For example, your PCs might attack an evil necromancer and fight your way through his tower to confront him directly and defeat him while your army battles the undead horde outside the tower. Alternatively, your PCs could use potent spells (such as _[[rangoric-srd/spells/Cloudkill|cloudkill]]_, _[[rangoric-srd/spells/Control Water|control water]]_, or _[[rangoric-srd/spells/Earthquake|earthquake]]_) to alter battlefield conditions in your favor. These possibilities let you use your characters to directly affect the outcome of a battle without forcing you to sit out on an adventure opportunity by personally commanding an army.
 
 If your PCs win the small-scale combat or dramatically affect the battlefield with magic, the GM could opt to increase your army's DV and OM by +4 for that battle, or penalize your armies by –4 if you lose. At the GM's discretion, your PCs' failure or victory might have other effects on your armies as well, such as temporarily granting an additional tactic, altering the hit points of one or more armies, or granting or negating a special ability.
 
@@ -624,7 +624,7 @@ This section details sample armies of various humanoid and monster types. The GM
 
 Most of these armies are Medium, showing a player or GM what tactics, resources, and special abilities a typical army of that type has, yet still keeping it easy to scale the army to a larger or smaller size. If an army has a resource, the listed Consumption is for an army of the listed size; if you change the size of the army, remember to subtract the Consumption cost for its original size, scale that cost to the new size, then add the scaled cost to the army's base Consumption cost. If the army lists an additional cost for recruiting the army, this recruitment cost scales in the same way.
 
-The special abilities listed for monster armies are approximations to model the unit monster's special abilities. For example, an individual troglodyte's stench nauseates opponents, but there is no army special ability that does that, so the troglodyte army has paralysis instead, which has a comparable effect. Likewise, the astral deva army has the alchemy ability, which is a reasonable approximation of an individual astral deva's ability to use *[[rangoric-srd/spells/Heal (Spell)|heal]]* once per day; the one-unit army doesn't actually carry alchemist extracts.
+The special abilities listed for monster armies are approximations to model the unit monster's special abilities. For example, an individual troglodyte's stench nauseates opponents, but there is no army special ability that does that, so the troglodyte army has paralysis instead, which has a comparable effect. Likewise, the astral deva army has the alchemy ability, which is a reasonable approximation of an individual astral deva's ability to use _[[rangoric-srd/spells/Heal (Spell)|heal]]_ once per day; the one-unit army doesn't actually carry alchemist extracts.
 
 If a special ability provides a constant bonus (such as the bonus from charge or pounce), that bonus is automatically included in the army's stat block. If the bonus is conditional (like the DV bonus from rock catching or the ranged damage bonus from rock throwing), you need to account for that bonus when the conditions are right.
 

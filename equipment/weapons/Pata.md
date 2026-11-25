@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/axes, weapon-group/light-blades]
 
 # Pata
 
-*Exotic light melee weapon (performance).* Cost 14 gp; Dmg 1d4 (S), 1d6 (M); Critical x3; Weight 3 lb.; Type Piercing. ^stats
+_Exotic light melee weapon (performance)._ Cost 14 gp; Dmg 1d4 (S), 1d6 (M); Critical x3; Weight 3 lb.; Type Piercing. ^stats
 
 An evolution of the punching dagger, the pata is a short sword that ends in a full, fingerless gauntlet hilt. You punch rather than stab with the weapon, allowing you to put more force behind each strike. While wearing a pata, you cannot use that hand for anything else. A pata provides a +10 bonus to your CMD against being [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarmed]].
 

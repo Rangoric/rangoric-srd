@@ -33,20 +33,20 @@ For armors not covered on [[rangoric-srd/unearthed-arcana/Defence Variants|Table
 | Armor           | Armor Bonus (1) | Damage Reduction |
 | --------------- | --------------- | ---------------- |
 | Light armor     |                 |                  |
-| Padded          | +1             | none             |
-| Leather         | +1             | 1/-              |
-| Studded leather | +2             | 1/-              |
-| Chain shirt     | +2             | 2/-              |
+| Padded          | +1              | none             |
+| Leather         | +1              | 1/-              |
+| Studded leather | +2              | 1/-              |
+| Chain shirt     | +2              | 2/-              |
 | Medium armor    |                 |                  |
-| Hide            | +2             | 1/-              |
-| Scale mail      | +2             | 2/-              |
-| Chainmail       | +3             | 2/-              |
-| Breastplate     | +3             | 2/-              |
+| Hide            | +2              | 1/-              |
+| Scale mail      | +2              | 2/-              |
+| Chainmail       | +3              | 2/-              |
+| Breastplate     | +3              | 2/-              |
 | Heavy armor     |                 |                  |
-| Splint mail     | +3             | 3/-              |
-| Banded mail     | +3             | 3/-              |
-| Half-plate      | +4             | 3/-              |
-| Full plate      | +4             | 4/-              |
+| Splint mail     | +3              | 3/-              |
+| Banded mail     | +3              | 3/-              |
+| Half-plate      | +4              | 3/-              |
+| Full plate      | +4              | 4/-              |
 
 1.  Add any enhancement bonus to this value.
 
@@ -124,33 +124,33 @@ As adventurers equip themselves for the trials and tribulations that lie ahead o
 
 **Table: Armor Class or Damage Reduction?**
 
-| Type | Example | Effect |
-| --- | --- | --- |
-| Enchanted armor | *+2 studded leather* | Adds to Armor Class |
-| Shield | Heavy steel shield | Adds to Armor Class |
-| Bracers (1) | *[[rangoric-srd/magic-items/wondrous-items/Bracers of Armor +1\|bracers of armor]] +10* | Adds to Armor Class |
-| Natural armor | *[[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor +1\|amulet of natural armor]] +6* | Adds to Armor Class |
-| Damage reduction | Barbarian ability | Stacks with armor DR |
-| Magic item | *[[rangoric-srd/magic-items/rings/Ring of Ironskin\|ring of ironskin]]* | Separate; DR 15/adamantine |
-| Spell | *[[rangoric-srd/spells/Mage Armor\|mage armor]]* | Adds to Armor Class (2) |
+| Type             | Example                                                                                              | Effect                     |
+| ---------------- | ---------------------------------------------------------------------------------------------------- | -------------------------- |
+| Enchanted armor  | _+2 studded leather_                                                                                 | Adds to Armor Class        |
+| Shield           | Heavy steel shield                                                                                   | Adds to Armor Class        |
+| Bracers (1)      | _[[rangoric-srd/magic-items/wondrous-items/Bracers of Armor +1\|bracers of armor]] +10_              | Adds to Armor Class        |
+| Natural armor    | _[[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor +1\|amulet of natural armor]] +6_ | Adds to Armor Class        |
+| Damage reduction | Barbarian ability                                                                                    | Stacks with armor DR       |
+| Magic item       | _[[rangoric-srd/magic-items/rings/Ring of Ironskin\|ring of ironskin]]_                              | Separate; DR 15/adamantine |
+| Spell            | _[[rangoric-srd/spells/Mage Armor\|mage armor]]_                                                     | Adds to Armor Class (2)    |
 
-1 *Wearing bracers adds to Armor Class, making a creature tougher to hit but not adding any other bonus that actual armor grants under these rules. Bracers of armor +5 don’t grant the DR that chainmail does, for instance; they only add +5 to Armor Class.*
+1 _Wearing bracers adds to Armor Class, making a creature tougher to hit but not adding any other bonus that actual armor grants under these rules. Bracers of armor +5 don’t grant the DR that chainmail does, for instance; they only add +5 to Armor Class._
 
-2 *Spells work (and stack) as they always do; as both bracers of armor and mage armor provide an armor bonus, their effects don’t stack with each other or with wearing armor that grants AC of +4 or better.*
+2 _Spells work (and stack) as they always do; as both bracers of armor and mage armor provide an armor bonus, their effects don’t stack with each other or with wearing armor that grants AC of +4 or better._
 
-*Example*: A 19th-level barbarian with a base DR of 5/– from his class abilities is wearing *+3 scale mail* and a [[rangoric-srd/magic-items/rings/Ring of Ironskin|ring of ironskin]]. That makes his DR 7/– or 15/adamantine. During the first round of combat, he’s attacked by two fighters wielding adamantine longswords (where he’ll have his DR 7/–) and a rogue wielding a *+4 short sword* (where he’ll have his DR 15/adamantine).
+_Example_: A 19th-level barbarian with a base DR of 5/– from his class abilities is wearing _+3 scale mail_ and a [[rangoric-srd/magic-items/rings/Ring of Ironskin|ring of ironskin]]. That makes his DR 7/– or 15/adamantine. During the first round of combat, he’s attacked by two fighters wielding adamantine longswords (where he’ll have his DR 7/–) and a rogue wielding a _+4 short sword_ (where he’ll have his DR 15/adamantine).
 
 ##### Enchanted Armor
 
 The base versions of armor have the same qualities as those on [[rangoric-srd/equipment/Equipment Armor|Table: Armor and Shields]]. Adding enchantments to armor makes it better than its nonmagical counterparts, as detailed below.
 
-**Armor Check Penalties**: These decrease equal to the amount of enchantment placed in the armor. For example, *scale mail +2* would have an armor check penalty of -2 (normally -4). It’s possible to completely remove penalties by highly enchanting armor, but you never receive a bonus for over-enchantment (*scale mail +5* wouldn’t grant a +1 bonus, for instance).
+**Armor Check Penalties**: These decrease equal to the amount of enchantment placed in the armor. For example, _scale mail +2_ would have an armor check penalty of -2 (normally -4). It’s possible to completely remove penalties by highly enchanting armor, but you never receive a bonus for over-enchantment (_scale mail +5_ wouldn’t grant a +1 bonus, for instance).
 
-**Maximum Dexterity Adjustment**: This increase is equal to the amount of enchantment placed into the armor. For example, *scale mail +2* has a Maximum Dexterity Adjustment of +5 (normally only +3).
+**Maximum Dexterity Adjustment**: This increase is equal to the amount of enchantment placed into the armor. For example, _scale mail +2_ has a Maximum Dexterity Adjustment of +5 (normally only +3).
 
 **Arcane Spell Failure**: The maximum reduction allowed is 20% (granted by using both the [[rangoric-srd/magic-items/armor-abilities/Spellcasting|spellcasting]] and [[rangoric-srd/magic-items/armor-abilities/Weightless (Armor Special Ability)|weightless]] armor qualities).
 
-**Speed**: A creature’s speed is normally limited by its race and armor selection, but the armor factor can be negated by adding the *[[rangoric-srd/magic-items/armor-abilities/Weightless (Armor Special Ability)|weightless]]* quality to armor.
+**Speed**: A creature’s speed is normally limited by its race and armor selection, but the armor factor can be negated by adding the _[[rangoric-srd/magic-items/armor-abilities/Weightless (Armor Special Ability)|weightless]]_ quality to armor.
 
 **Table: Second Version Armor and Damage Reduction**
 
@@ -224,7 +224,7 @@ The standard armors aren’t repeated here; they have the values on Table: Armor
 | [[rangoric-srd/equipment/armor/Armor of the Beetle\|Armor of the beetle]]              | +5              | 4/–              |
 | [[rangoric-srd/equipment/armor/Double Plate\|Double plate]]                            | +6              | 6/–              |
 
-1 *Add any enhancement bonus to this value.*
+1 _Add any enhancement bonus to this value._
 
 %% end generated %%
 
@@ -270,19 +270,19 @@ Armor in this system keeps all of its normal statistics and qualities, but its a
 
 **Table: Armor Composition and DR**
 
-| Material | DR Provided | Attacker Size to Bypass DR |
-| --- | --- | --- |
-| Nonmagical armor (1) | DR/magic | Large |
-| Magical armor (1) | DR/adamantine | Huge |
-| Adamantine armor (1) | DR/— | Gargantuan |
+| Material             | DR Provided   | Attacker Size to Bypass DR |
+| -------------------- | ------------- | -------------------------- |
+| Nonmagical armor (1) | DR/magic      | Large                      |
+| Magical armor (1)    | DR/adamantine | Huge                       |
+| Adamantine armor (1) | DR/—          | Gargantuan                 |
 
-1 *Brilliant energy weapons bypass any DR provided by armor. In addition, DR from armor is halved if a creature is grappled or entangled, and does not apply when a creature is helpless or pinned.*
+1 _Brilliant energy weapons bypass any DR provided by armor. In addition, DR from armor is halved if a creature is grappled or entangled, and does not apply when a creature is helpless or pinned._
 
 ###### Natural Armor Bonus and DR
 
 Like a creature's armor bonus, a natural armor bonus is also converted into damage reduction. If a creature is wearing armor and has a natural armor bonus, the creature adds its armor bonus to its natural armor bonus to determine the amount of DR/armor that it has (see Table: Natural Armor Conversion to DR).
 
-For instance, if a creature wearing a *+2 chain shirt* has DR 6/armor is then subject to a *[[rangoric-srd/spells/Barkskin|barkskin]]* spell cast by a 6th-level druid (gaining a +3 natural armor bonus), its DR becomes DR 9/armor for the duration of the spell. This DR is bypassed by adamantine, or the attacks of Huge or larger creatures.
+For instance, if a creature wearing a _+2 chain shirt_ has DR 6/armor is then subject to a _[[rangoric-srd/spells/Barkskin|barkskin]]_ spell cast by a 6th-level druid (gaining a +3 natural armor bonus), its DR becomes DR 9/armor for the duration of the spell. This DR is bypassed by adamantine, or the attacks of Huge or larger creatures.
 
 A creature that has both DR from a source other than armor and a natural armor bonus gains the effects of an enhanced form of DR, similar to how the composition of the armor grants special DR/armor defenses (see Table: Armor Composition and DR). If a creature has magical armor, natural armor, and DR, it takes the best form of the special protection provided by both its armor and its mix of DR and natural armor to its DR/armor.
 
@@ -290,29 +290,29 @@ For instance, if a creature has natural armor and DR/magic and is wearing adaman
 
 **Table: Natural Armor Conversion to DR**
 
-| Natural Armor/DR | DR Provided | Attacker Size to Bypass DR |
-| --- | --- | --- |
-| Natural armor | DR/magic | Large |
-| Natural armor with DR/magic | DR/adamantine | Huge |
-| Natural armor with DR/adamantine | DR/— | Gargantuan |
-| Natural armor with DR/— | DR/— (1) | Colossal |
-| Natural armor with DR/epic | DR/epic (1) | n/a |
+| Natural Armor/DR                 | DR Provided   | Attacker Size to Bypass DR |
+| -------------------------------- | ------------- | -------------------------- |
+| Natural armor                    | DR/magic      | Large                      |
+| Natural armor with DR/magic      | DR/adamantine | Huge                       |
+| Natural armor with DR/adamantine | DR/—          | Gargantuan                 |
+| Natural armor with DR/—          | DR/— (1)      | Colossal                   |
+| Natural armor with DR/epic       | DR/epic (1)   | n/a                        |
 
-1 *A creature that already has DR/— or DR/epic increases its DR by an amount equal to its natural armor bonus.*
+1 _A creature that already has DR/— or DR/epic increases its DR by an amount equal to its natural armor bonus._
 
-**Unusual Creatures and Armor DR**: Amorphous or incorporeal creatures have an easier time bypassing DR/armor. When they attack a creature with DR/armor, they typically treat that DR as a fraction of the DR/armor. Attacks by incorporeal creatures entirely ignore the DR unless that DR comes from a force effect or from armor with the *[[rangoric-srd/magic-items/armor-abilities/Ghost Touch (Armor Special Ability)|ghost touch]]* special armor quality. These traits are detailed in Table: Unusual Creatures and Armor DR.
+**Unusual Creatures and Armor DR**: Amorphous or incorporeal creatures have an easier time bypassing DR/armor. When they attack a creature with DR/armor, they typically treat that DR as a fraction of the DR/armor. Attacks by incorporeal creatures entirely ignore the DR unless that DR comes from a force effect or from armor with the _[[rangoric-srd/magic-items/armor-abilities/Ghost Touch (Armor Special Ability)|ghost touch]]_ special armor quality. These traits are detailed in Table: Unusual Creatures and Armor DR.
 
 **Table: Unusual Creatures and Armor DR**
 
-| Attacking Creature Type | DR Modifier |
-| --- | --- |
-| Amorphous (1) | ×1/2 |
-| Incorporeal | ×0 (×1 if DR is from a force effect or *[[rangoric-srd/magic-items/armor-abilities/Ghost Touch (Armor Special Ability)\|ghost touch]]* armor) |
-| Swarm of Tiny creatures | ×1/2 |
-| Swarm of Diminutive creatures | ×1/4 |
-| Swarm of Fine creatures | ×0 |
+| Attacking Creature Type       | DR Modifier                                                                                                                                   |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Amorphous (1)                 | ×1/2                                                                                                                                          |
+| Incorporeal                   | ×0 (×1 if DR is from a force effect or _[[rangoric-srd/magic-items/armor-abilities/Ghost Touch (Armor Special Ability)\|ghost touch]]_ armor) |
+| Swarm of Tiny creatures       | ×1/2                                                                                                                                          |
+| Swarm of Diminutive creatures | ×1/4                                                                                                                                          |
+| Swarm of Fine creatures       | ×0                                                                                                                                            |
 
-1 *Elementals, oozes, oozelike creatures, and any creature with the amorphous defensive ability.*
+1 _Elementals, oozes, oozelike creatures, and any creature with the amorphous defensive ability._
 
 ##### Critical Hits and Defense
 
@@ -324,12 +324,11 @@ The DC of the check is based on the die roll for the critical threat. It is furt
 
 **Critical defense DC = critical hit roll + 1/2 attacker's base attack bonus + 1 for each critical feat + 1 for each size category larger attacker is than target**
 
-For instance, if a Medium creature is hit with a crossbow fired by a Medium 6th-level fighter with two critical feats, and the critical threat attack roll is a 19, the target of the potential critical hit makes a critical defense check with a DC of 24 to reduce the critical hit to a normal hit. If the target is wearing *+1 leather armor*, has a Dexterity of 18, and is using a *+1 buckler*, that target would have a +9 bonus on the critical defense check to reduce the critical hit to a normal hit. On a roll of 15 or higher, the critical hit is reduced to a normal hit, and the target takes normal damage for the hit (which is reduced by its DR). If the creature firing the crossbow had rolled a 20, the target of the critical hit would need to roll a 16 or higher on its critical defense check to reduce the impact of the critical hit, making it a normal hit.
+For instance, if a Medium creature is hit with a crossbow fired by a Medium 6th-level fighter with two critical feats, and the critical threat attack roll is a 19, the target of the potential critical hit makes a critical defense check with a DC of 24 to reduce the critical hit to a normal hit. If the target is wearing _+1 leather armor_, has a Dexterity of 18, and is using a _+1 buckler_, that target would have a +9 bonus on the critical defense check to reduce the critical hit to a normal hit. On a roll of 15 or higher, the critical hit is reduced to a normal hit, and the target takes normal damage for the hit (which is reduced by its DR). If the creature firing the crossbow had rolled a 20, the target of the critical hit would need to roll a 16 or higher on its critical defense check to reduce the impact of the critical hit, making it a normal hit.
 
 On a failed critical defense check, the target of the critical hit takes the damage for the critical hit. That damage is still reduced by the target of the critical hit's DR.
 
-**Fortification Special Armor Quality**: The *[[rangoric-srd/magic-items/armor-abilities/Fortification|fortification]]* special armor quality acts in concert with the check, coming into play if the armor check fails.
-
+**Fortification Special Armor Quality**: The _[[rangoric-srd/magic-items/armor-abilities/Fortification|fortification]]_ special armor quality acts in concert with the check, coming into play if the armor check fails.
 
 ### Damage Conversion
 

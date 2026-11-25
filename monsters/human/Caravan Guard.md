@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Caravan Guard
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 2d10+5 (16 hp)
-  - **Initiative**: +5
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 19 (+7 armor, +1 Dex, +1 shield), touch 11, flat-footed 18
-  - **Base Attack**: +2; **CMB**: +5; **CMD**: 16
-  - **Attack**: [[rangoric-srd/equipment/weapons/Lance|Lance]] +5 melee (1d8+3/×3) or [[rangoric-srd/equipment/weapons/Longsword|longsword]] +5 melee (1d8+3/19–20) or [[rangoric-srd/equipment/weapons/Kukri|kukri]] +5 melee (1d4+3/18–20) or [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +3 ranged (1d10/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Lance|Lance]] +5 melee (1d8+3/×3); or [[rangoric-srd/equipment/weapons/Longsword|longsword]] +5 melee (1d8+3/19–20); or [[rangoric-srd/equipment/weapons/Kukri|kukri]] +5 melee (1d4+3/18–20); or [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +3 ranged (1d10/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +1
-  - **Saves**: Fort +5, Ref +1, Will +1 (+1 vs. fear)
-  - **Abilities**: Str 17, Dex 13, Con 14, Int 10, Wis 12, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +3, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Profession|Profession]] (drover) +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +1
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Rapid Reload|Rapid Reload]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling, Perception)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 1
-  - **Treasure**: NPC gear
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 2d10+5 (16 hp)
+- **Initiative**: +5
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 19 (+7 armor, +1 Dex, +1 shield), touch 11, flat-footed 18
+- **Base Attack**: +2; **CMB**: +5; **CMD**: 16
+- **Attack**: [[rangoric-srd/equipment/weapons/Lance|Lance]] +5 melee (1d8+3/×3) or [[rangoric-srd/equipment/weapons/Longsword|longsword]] +5 melee (1d8+3/19–20) or [[rangoric-srd/equipment/weapons/Kukri|kukri]] +5 melee (1d4+3/18–20) or [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +3 ranged (1d10/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Lance|Lance]] +5 melee (1d8+3/×3); or [[rangoric-srd/equipment/weapons/Longsword|longsword]] +5 melee (1d8+3/19–20); or [[rangoric-srd/equipment/weapons/Kukri|kukri]] +5 melee (1d4+3/18–20); or [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +3 ranged (1d10/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +1
+- **Saves**: Fort +5, Ref +1, Will +1 (+1 vs. fear)
+- **Abilities**: Str 17, Dex 13, Con 14, Int 10, Wis 12, Cha 8
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +3, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Profession|Profession]] (drover) +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +1
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Rapid Reload|Rapid Reload]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling, Perception)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 1
+- **Treasure**: NPC gear
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A caravan guard is a [[rangoric-srd/monsters/human/Human|human]] with 2 levels of [[rangoric-srd/classes/Fighter|fighter]]. Caravan guards are sturdy veterans with an eye for troublemakers. Often surly and pugnacious, they ride alongside pack and wagon trains with crossbows at the ready, but if real danger threatens most are more comfortable fighting with their boots safely on the ground and sword and shield in hand.
 

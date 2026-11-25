@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Misersorrow Solvent
 
-*Chymical; Special*
+_Chymical; Special_
 
 Misersorrow is actually a solvent even though it was originally called auric acid. Misersorrow dissolves solid gold into a liquid form without reducing its weight or other innate properties. It affects one pound of gold per ounce, so its two-ounce flask poured over gold turns two pounds of solid gold (or 100 gold pieces) to its equal weight in liquid form. It is extremely useful in the alchemist’s lab to reduce gold or mage-gold to liquid for easy distillation or other processes. If the liquid is left undisturbed for 10 days, it thickens and returns to its original hardness.
 

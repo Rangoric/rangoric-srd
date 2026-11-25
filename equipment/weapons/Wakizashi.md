@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades, eastern]
 
 # Wakizashi
 
-*Exotic light melee weapon.* Cost 35 gp; Dmg 1d4 (S), 1d6 (M); Critical 18–20/x2; Weight 2 lb.; Type Piercing or slashing. ^stats
+_Exotic light melee weapon._ Cost 35 gp; Dmg 1d4 (S), 1d6 (M); Critical 18–20/x2; Weight 2 lb.; Type Piercing or slashing. ^stats
 
 These short, slender blades are between 1 to 2 feet long. They are primarily used as back-up weapons, or to decapitate defeated enemies. These blades are specifically worn by samurai and are intended to be paired with a katana. Together, this set of blades is referred to as a daisho. A wakizashi is [[rangoric-srd/equipment/Equipment Weapons#^weapon-deadly|deadly]].

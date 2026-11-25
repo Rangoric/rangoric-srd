@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/monk, weapon-group/pole-
 
 # Rake
 
-*Simple two-handed melee weapon.* Cost 10 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 7 lb.; Type Bludgeoning or piercing. ^stats
+_Simple two-handed melee weapon._ Cost 10 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 7 lb.; Type Bludgeoning or piercing. ^stats
 
-(*Pa*): A quintessential martial artist’s weapon, the rake is a long pole topped with a sturdy metal rake head, each tine of which is sharpened. This martial version of the rake was developed from the common agricultural tool. All monks are automatically proficient in the use of this weapon.
+(_Pa_): A quintessential martial artist’s weapon, the rake is a long pole topped with a sturdy metal rake head, each tine of which is sharpened. This martial version of the rake was developed from the common agricultural tool. All monks are automatically proficient in the use of this weapon.

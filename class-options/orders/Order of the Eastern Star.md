@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Order of the Eastern Star
 
-*A [[rangoric-srd/classes/Cavalier#^cavalier-order|cavalier order]].*
+_A [[rangoric-srd/classes/Cavalier#^cavalier-order|cavalier order]]._
 
 Cavaliers of this order keep dangerous secrets hidden from the world and secretly protect it against threats from beyond the mortal realms, concerned less with morality than with the survival of society itself.
 

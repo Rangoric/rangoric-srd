@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Mi-Go
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
-  - **Hit Dice**: 7d8+35 (66 hp)
-  - **Initiative**: +5
-  - **Speed**: 30 ft. (6 squares), fly 50 ft. (good)
-  - **Armor Class**: 20 (+5 Dex, +1 dodge, +4 natural), touch 16, flat-footed 14
-  - **Base Attack**: +5; **CMB**: +8 (+12 grapple); **CMD**: 24 (32 vs. trip)
-  - **Attack**: Claw +10 melee (1d4+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: 4 claws +10 melee (1d4+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Evisceration, [[rangoric-srd/monsters/abilities/Grab|grab]], sneak attack +2d6
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], deceptive, item creation, [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Starflight|starflight]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10 and fire 10
-  - **Saves**: Fort +10, Ref +7, Will +4
-  - **Abilities**: Str 16, Dex 20, Con 21, Int 25, Wis 14, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Engineering|Engineering]] +12, [[rangoric-srd/skills/Imitation|Imitation]] +16, [[rangoric-srd/skills/Medicine|Medicine]] +9, [[rangoric-srd/skills/Mysticism|Mysticism]] +14, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Society|Society]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +15
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, scouting party (3–9), or invasion (9–16)
-  - **Challenge Rating**: 6
-  - **Treasure**: Double
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
+- **Hit Dice**: 7d8+35 (66 hp)
+- **Initiative**: +5
+- **Speed**: 30 ft. (6 squares), fly 50 ft. (good)
+- **Armor Class**: 20 (+5 Dex, +1 dodge, +4 natural), touch 16, flat-footed 14
+- **Base Attack**: +5; **CMB**: +8 (+12 grapple); **CMD**: 24 (32 vs. trip)
+- **Attack**: Claw +10 melee (1d4+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: 4 claws +10 melee (1d4+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Evisceration, [[rangoric-srd/monsters/abilities/Grab|grab]], sneak attack +2d6
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], deceptive, item creation, [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Starflight|starflight]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10 and fire 10
+- **Saves**: Fort +10, Ref +7, Will +4
+- **Abilities**: Str 16, Dex 20, Con 21, Int 25, Wis 14, Cha 15
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Engineering|Engineering]] +12, [[rangoric-srd/skills/Imitation|Imitation]] +16, [[rangoric-srd/skills/Medicine|Medicine]] +9, [[rangoric-srd/skills/Mysticism|Mysticism]] +14, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Society|Society]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +15
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
+- **Environment**: Any
+- **Organization**: Solitary, pair, scouting party (3–9), or invasion (9–16)
+- **Challenge Rating**: 6
+- **Treasure**: Double
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Mi-go are both scientists and colonists—extraterrestrial travelers from deep space who view the universe as a canvas to be mastered and controlled. Their numbers on any particular planet can vary, but taken on a galactic scale, are mind-numbing in scope.
 

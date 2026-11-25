@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/downtime-room]
 - **Time**: 16 days
 - **Size**: 4-16 squares
 
-A Scrying Room is built to be a quiet place for scrying, seances, and similar divinations. It contains a table, chairs, and either a pool of water (at no additional cost) or a suitable focus object for a scrying spell (for an additional 1,000 gp). A caster using *[[rangoric-srd/spells/Scrying|scrying]]*, *[[rangoric-srd/spells/Locate Creature|locate creature]]*, or a similar targeted divination from here increases the spell's DC by 1.
+A Scrying Room is built to be a quiet place for scrying, seances, and similar divinations. It contains a table, chairs, and either a pool of water (at no additional cost) or a suitable focus object for a scrying spell (for an additional 1,000 gp). A caster using _[[rangoric-srd/spells/Scrying|scrying]]_, _[[rangoric-srd/spells/Locate Creature|locate creature]]_, or a similar targeted divination from here increases the spell's DC by 1.

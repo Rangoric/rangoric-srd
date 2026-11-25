@@ -17,12 +17,12 @@ Changelings are subtle, preferring to blend in and disappear rather than stand o
 
 This focus crosses evolutionary steps with the [[rangoric-srd/races/prestige-races/Focus of the Shapeshifter|Focus of the Shapeshifter]]. Standard XP penalties apply if a character advances to the second step in the Focus of the Shapeshifter instead of remaining on the Changeling’s path.
 
-| Step | Cost | Minimum Level | Prerequisite |
-| --- | --- | --- | --- |
-| [[#Bland Creature\|Bland Creature]] | 1,400 XP | 2nd | None |
-| [[#Chameleon Creature\|Chameleon Creature]] | 2,500 XP | 3rd | Bland |
-| [[#Skinflow Creature\|Skinflow Creature]] | (shared) | | |
-| [[#Changeling Creature\|Changeling Creature]] | 6,000 XP | 6th | Chameleon and [[rangoric-srd/races/prestige-races/Focus of the Shapeshifter\|Skinflow]] |
+| Step                                          | Cost     | Minimum Level | Prerequisite                                                                            |
+| --------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------------------- |
+| [[#Bland Creature\|Bland Creature]]           | 1,400 XP | 2nd           | None                                                                                    |
+| [[#Chameleon Creature\|Chameleon Creature]]   | 2,500 XP | 3rd           | Bland                                                                                   |
+| [[#Skinflow Creature\|Skinflow Creature]]     | (shared) |               |                                                                                         |
+| [[#Changeling Creature\|Changeling Creature]] | 6,000 XP | 6th           | Chameleon and [[rangoric-srd/races/prestige-races/Focus of the Shapeshifter\|Skinflow]] |
 
 ### Bland Creature
 
@@ -46,7 +46,7 @@ This focus crosses evolutionary steps with the [[rangoric-srd/races/prestige-rac
 
 **Details:** The Chameleon Creature takes the skills learned as a Bland Creature to new heights with the added ability to subtly shift her physical form.
 
-**Game Effects:** Gain a +3 competence bonus on [[rangoric-srd/skills/Deception|Deception]] checks and an additional +2 competence bonus on [[rangoric-srd/skills/Imitation|Imitation]] checks. Gain the spell-like ability *[[rangoric-srd/spells/Disguise Self|disguise self]]* (3.0’s *change self*) for use at will. This ability is not an illusion, but rather a shifting of the physical structure of the creature. If a creature is killed while in the form of someone or something else, they revert to their natural form at death.
+**Game Effects:** Gain a +3 competence bonus on [[rangoric-srd/skills/Deception|Deception]] checks and an additional +2 competence bonus on [[rangoric-srd/skills/Imitation|Imitation]] checks. Gain the spell-like ability _[[rangoric-srd/spells/Disguise Self|disguise self]]_ (3.0’s _change self_) for use at will. This ability is not an illusion, but rather a shifting of the physical structure of the creature. If a creature is killed while in the form of someone or something else, they revert to their natural form at death.
 
 ### Skinflow Creature
 

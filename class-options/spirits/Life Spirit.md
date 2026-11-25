@@ -14,11 +14,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Life Spirit
 
-*A [[rangoric-srd/classes/Shaman#^shaman-spirit|shaman spirit]].*
+_A [[rangoric-srd/classes/Shaman#^shaman-spirit|shaman spirit]]._
 
 A shaman who selects the life spirit appears more vibrant than most mortals. Her skin seems to glow, and her teeth are a pearly white. When she calls upon one of this spirit's abilities, her eyes and hair shimmer in the light.
 
-**Spirit Magic Spells**: *[[rangoric-srd/spells/Detect Undead|detect undead]]* (1st), *[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]* (2nd), *[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]* (3rd), *[[rangoric-srd/spells/Restoration|restoration]]* (4th), *[[rangoric-srd/spells/Breath of Life|breath of life]]* (5th), *[[rangoric-srd/spells/Heal (Spell)|heal]]* (6th), *[[rangoric-srd/spells/Restoration, Greater|greater restoration]]* (7th), *[[rangoric-srd/spells/Heal, Mass|mass heal]]* (8th), *[[rangoric-srd/spells/True Resurrection|true resurrection]]* (9th).
+**Spirit Magic Spells**: _[[rangoric-srd/spells/Detect Undead|detect undead]]_ (1st), _[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]_ (2nd), _[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]_ (3rd), _[[rangoric-srd/spells/Restoration|restoration]]_ (4th), _[[rangoric-srd/spells/Breath of Life|breath of life]]_ (5th), _[[rangoric-srd/spells/Heal (Spell)|heal]]_ (6th), _[[rangoric-srd/spells/Restoration, Greater|greater restoration]]_ (7th), _[[rangoric-srd/spells/Heal, Mass|mass heal]]_ (8th), _[[rangoric-srd/spells/True Resurrection|true resurrection]]_ (9th).
 
 **Hexes**: [[rangoric-srd/class-options/hexes/Curse of Suffering (Hex)|curse of suffering]], [[rangoric-srd/class-options/hexes/Deny Succor (Hex)|deny succor]], [[rangoric-srd/class-options/hexes/Enhanced Cures (Hex)|enhanced cures]], [[rangoric-srd/class-options/hexes/Life Link (Hex)|life link]], [[rangoric-srd/class-options/hexes/Life Sight (Hex)|life sight]].
 

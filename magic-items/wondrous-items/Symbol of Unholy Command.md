@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/magic-item]
 
 This unholy symbol is carved entirely from human bone. When the wielder uses this unholy symbol as a focus for the [[rangoric-srd/feats/Command Undead (Feat)|Command Undead]] feat, he gains a +1 profane bonus to the DC of that feat.
 
-Good creatures of 5 Hit Dice or less that attempt to touch the symbol must make a DC 15 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round. Deliberate use of a *symbol of unholy command* is an evil act.
+Good creatures of 5 Hit Dice or less that attempt to touch the symbol must make a DC 15 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round. Deliberate use of a _symbol of unholy command_ is an evil act.
 
-Faint necromancy; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Command Undead (Feat)|Command Undead]] or *[[rangoric-srd/spells/Command Undead|command undead]]*; Price 8,000 gp; Cost 4,000 gp; Weight 1 lb.
+Faint necromancy; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Command Undead (Feat)|Command Undead]] or _[[rangoric-srd/spells/Command Undead|command undead]]_; Price 8,000 gp; Cost 4,000 gp; Weight 1 lb.

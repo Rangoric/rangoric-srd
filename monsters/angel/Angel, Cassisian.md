@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Angel, Cassisian
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Angel, Extraplanar, Good)
-  - **Hit Dice**: 2d10+2 (13 hp)
-  - **Initiative**: +0
-  - **Speed**: fly 60 ft. (perfect)
-  - **Armor Class**: 14 (+3 natural, +1 size; +2 deflection vs. evil), touch 11, flat-footed 14
-  - **Base Attack**: +2; **CMB**: –3; **CMD**: 7 (can't be tripped)
-  - **Attack**: Slam –1 melee (1d3–4)
-  - **Full Attack**: Slam –1 melee (1d3–4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (15-ft. line, 1d6 cold or 1d6 fire, Reflex DC 12 half, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect evil, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Lesser Protective Aura|lesser protective aura]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (2 of the following forms: Small human-like angel, dove, dog, or Tiny fish, polymorph), [[rangoric-srd/monsters/abilities/Perfect Memory|perfect memory]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron or evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, cold and petrification, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10 and fire 10
-  - **Saves**: Fort +4, Ref +3, Will +2
-  - **Abilities**: Str 3, Dex 11, Con 12, Int 6, Wis 11, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Persuasion|Persuasion]] +2, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +8, [[rangoric-srd/skills/Theology|Theology]] +2
-  - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]]
-  - **Environment**: Any good-aligned plane
-  - **Organization**: Solitary, pair, or squad (3–6)
-  - **Challenge Rating**: 2
-  - **Treasure**: None
-  - **Alignment**: Usually neutral good
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Angel, Extraplanar, Good)
+- **Hit Dice**: 2d10+2 (13 hp)
+- **Initiative**: +0
+- **Speed**: fly 60 ft. (perfect)
+- **Armor Class**: 14 (+3 natural, +1 size; +2 deflection vs. evil), touch 11, flat-footed 14
+- **Base Attack**: +2; **CMB**: –3; **CMD**: 7 (can't be tripped)
+- **Attack**: Slam –1 melee (1d3–4)
+- **Full Attack**: Slam –1 melee (1d3–4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (15-ft. line, 1d6 cold or 1d6 fire, Reflex DC 12 half, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect evil, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Lesser Protective Aura|lesser protective aura]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (2 of the following forms: Small human-like angel, dove, dog, or Tiny fish, polymorph), [[rangoric-srd/monsters/abilities/Perfect Memory|perfect memory]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron or evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, cold and petrification, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10 and fire 10
+- **Saves**: Fort +4, Ref +3, Will +2
+- **Abilities**: Str 3, Dex 11, Con 12, Int 6, Wis 11, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Persuasion|Persuasion]] +2, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +8, [[rangoric-srd/skills/Theology|Theology]] +2
+- **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]]
+- **Environment**: Any good-aligned plane
+- **Organization**: Solitary, pair, or squad (3–6)
+- **Challenge Rating**: 2
+- **Treasure**: None
+- **Alignment**: Usually neutral good
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Cassisians are the weakest sort of angel, but are absolutely dedicated to the cause of good. They serve as messengers for more powerful angels, and on the Material Plane they are often bound to good mortals to serve as familiars, acting as spiritual guides, reciting platitudes and quoting scripture from various benign faiths and philosophies (some forgotten for centuries). A 7th-level lawful good with the Improved Familiar feat can select a cassisian as a familiar.
 
@@ -72,7 +72,7 @@ Cassisian angels speak Celestial, Draconic and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +3): Constant—*[[rangoric-srd/spells/Detect Evil|detect evil]]*, *[[rangoric-srd/spells/Know Direction|know direction]]*; 1/day—*[[rangoric-srd/spells/Aid|aid]]*, *[[rangoric-srd/spells/Daylight|daylight]]*; 1/week—*[[rangoric-srd/spells/Commune|commune]]* (six questions, CL 12th).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +3): Constant—_[[rangoric-srd/spells/Detect Evil|detect evil]]_, _[[rangoric-srd/spells/Know Direction|know direction]]_; 1/day—_[[rangoric-srd/spells/Aid|aid]]_, _[[rangoric-srd/spells/Daylight|daylight]]_; 1/week—_[[rangoric-srd/spells/Commune|commune]]_ (six questions, CL 12th).
 
 **[[rangoric-srd/monsters/abilities/Perfect Memory|Perfect Memory]] (Ex)**: Though they are not particularly intelligent, cassisians have perfect memories and remember everything they see or hear. They can faultlessly recite conversations they heard hundreds of years before. They also have the power to erase portions of their own memories, which they do (usually under orders from superior angels) to protect sensitive information.
 

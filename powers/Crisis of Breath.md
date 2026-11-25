@@ -34,7 +34,7 @@ Target: One breathing humanoid
 Duration: 1 round/level  
 Saving Throw: Will negates, Fortitude partial; see text  
 Power Resistance: Yes  
-Power Points: 5  
+Power Points: 5
 
 You compel the subject to purge its entire store of air in one explosive exhalation, and thereby disrupt the subject’s autonomic breathing cycle. The subject’s lungs do not automatically function again while the power’s duration lasts.
 

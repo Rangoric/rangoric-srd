@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Aqua Regia
 
-*Chymical; Special*
+_Chymical; Special_
 
 Within the d20 game context, aqua regia is an odd creation that allows near-instant and thorough cleansing of any matter—organic or inorganic—it touches, removing all light soils and grime (though it will not clear away extraneous rock from pure ores). Thus, it is useful for cleaning recently discovered artifacts of the dust and grime of ages, cleansing clothes or skin of acids or other topicals, or simply allowing one to go from unclean rabble to “royal” look instantly (hence its name). Used in a game, aqua regia’s best effect is allowing a chance to clean away any unguent or topical within the same round (often canceling the need for the second saving throw of a poison or toxin, if removed quickly enough).
 

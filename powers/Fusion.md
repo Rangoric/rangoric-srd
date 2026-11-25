@@ -27,7 +27,7 @@ Psychometabolism
 **Range:** Touch  
 **Targets:** You and one touched willing creature of your type and your size or smaller  
 **Duration:** 1 min./level (D)  
-**Power Points:** 15, XP  
+**Power Points:** 15, XP
 
 You and another willing, corporeal, living creature of the same or smaller size fuse into one being. As the manifester, you control the actions of the fused being. However, you can give up this control to the other creature. Once you give up control, you cannot regain it unless the other creature relinquishes it.
 

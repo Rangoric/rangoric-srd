@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Heraldic Coin Armor
 
-*Medium armor.* Cost 1,500 gp; Armor Bonus +5; Maximum Dex Bonus +3; Armor Check Penalty –4; Arcane Spell Failure 30%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 30 lb. ^stats
+_Medium armor._ Cost 1,500 gp; Armor Bonus +5; Maximum Dex Bonus +3; Armor Check Penalty –4; Arcane Spell Failure 30%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 30 lb. ^stats
 
 This unique set of armor is crafted from the various types of coins found in the realms. Everything from copper to the platinum has been used to create intricate patterns, including family crests in some instances. This armor is highly prized by war captains and nobles as a symbol of their status.

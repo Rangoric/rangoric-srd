@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Lillend
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Azata, Chaotic, Extraplanar, Good)
-  - **Hit Dice**: 7d10+35 (73 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares), fly 70 ft. (average)
-  - **Armor Class**: 20 (+3 Dex, +8 natural, –1 size), touch 12, flat-footed 17
-  - **Base Attack**: +7; **CMB**: +13; **CMD**: 26 (can't be tripped)
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +12 melee (2d6+8/19–20) or tail slap +11 melee (2d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +12/+7 melee (2d6+8/19–20) and tail slap +6 melee (2d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: Bardic performance (20 rounds/day), [[rangoric-srd/monsters/abilities/Constrict|constrict]] (2d6+5), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, petrification and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and fire 10
-  - **Saves**: Fort +7, Ref +10, Will +10
-  - **Abilities**: Str 20, Dex 17, Con 21, Int 14, Wis 16, Cha 19
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Performance|Performance]] (string instruments) +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
-  - **Environment**: A chaotic good-aligned plane
-  - **Organization**: Solitary, pair, choir (3–6), or covey (2–4)
-  - **Challenge Rating**: 7
-  - **Treasure**: Standard (+1 longsword, masterwork harp)
-  - **Alignment**: Always chaotic good
-  - **Advancement**: 8–10 HD (Large); 11–21 HD (Huge)
-  - **Level Adjustment**: +6
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Azata, Chaotic, Extraplanar, Good)
+- **Hit Dice**: 7d10+35 (73 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares), fly 70 ft. (average)
+- **Armor Class**: 20 (+3 Dex, +8 natural, –1 size), touch 12, flat-footed 17
+- **Base Attack**: +7; **CMB**: +13; **CMD**: 26 (can't be tripped)
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +12 melee (2d6+8/19–20) or tail slap +11 melee (2d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +12/+7 melee (2d6+8/19–20) and tail slap +6 melee (2d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: Bardic performance (20 rounds/day), [[rangoric-srd/monsters/abilities/Constrict|constrict]] (2d6+5), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, petrification and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and fire 10
+- **Saves**: Fort +7, Ref +10, Will +10
+- **Abilities**: Str 20, Dex 17, Con 21, Int 14, Wis 16, Cha 19
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Performance|Performance]] (string instruments) +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
+- **Environment**: A chaotic good-aligned plane
+- **Organization**: Solitary, pair, choir (3–6), or covey (2–4)
+- **Challenge Rating**: 7
+- **Treasure**: Standard (+1 longsword, masterwork harp)
+- **Alignment**: Always chaotic good
+- **Advancement**: 8–10 HD (Large); 11–21 HD (Huge)
+- **Level Adjustment**: +6
 
 Among the azatas, lillends are the tale-tellers and chroniclers, gathering lore and recording stories in the form of epic poems and songs. They are generally peaceful, though they are swift to act if they believe a piece of rare art or a talented artist is threatened. A lillend's lower section is about 20 feet long, and a typical lillend weighs 3,800 pounds.
 
@@ -74,10 +74,10 @@ Lillends speak Celestial, Draconic and Infernal, and can speak with almost any c
 
 Lillends are generally peaceful unless they intend vengeance against someone they believe guilty of harming, or even threatening, a favored art form, artwork, or artist. Then they become implacable foes. They use their spells and spell-like abilities to confuse and weaken opponents before entering combat. A covey of lillends usually discusses strategy before a battle.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th): 3/day—*[[rangoric-srd/spells/Darkness|darkness]]*, *[[rangoric-srd/spells/Hallucinatory Terrain|hallucinatory terrain]]* (DC 18), *[[rangoric-srd/spells/Knock|knock]]*, *[[rangoric-srd/spells/Light|light]]*; 1/day—*[[rangoric-srd/spells/Charm Person|charm person]]* (DC 15), *[[rangoric-srd/spells/Speak with Animals|speak with animals]]*, *[[rangoric-srd/spells/Speak with Plants|speak with plants]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th): 3/day—_[[rangoric-srd/spells/Darkness|darkness]]_, _[[rangoric-srd/spells/Hallucinatory Terrain|hallucinatory terrain]]_ (DC 18), _[[rangoric-srd/spells/Knock|knock]]_, _[[rangoric-srd/spells/Light|light]]_; 1/day—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 15), _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_, _[[rangoric-srd/spells/Speak with Plants|speak with plants]]_.
 
 **Spells**: A lillend casts spells as a 7th-level [[rangoric-srd/classes/Bard|bard]]. They favor enchantment and healing spells.
 
-**Spells known** (CL 7th): 3rd (2/day)—*[[rangoric-srd/spells/Charm Monster|charm monster]]* (DC 17), *[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]*; 2nd (4/day)—*[[rangoric-srd/spells/Hold Person|hold person]]* (DC 16), *[[rangoric-srd/spells/Invisibility|invisibility]]*, *[[rangoric-srd/spells/Sound Burst|sound burst]]* (DC 16), *[[rangoric-srd/spells/Suggestion|suggestion]]* (DC 16); 1st (5/day)—*[[rangoric-srd/spells/Charm Person|charm person]]* (DC 15), *[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]*, *[[rangoric-srd/spells/Identify|identify]]*, *[[rangoric-srd/spells/Sleep|sleep]]* (DC 15); 0 (at will)—*[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Daze|daze]]* (DC 14), *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Lullaby|lullaby]]* (DC 14), *[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Read Magic|read magic]]*.
+**Spells known** (CL 7th): 3rd (2/day)—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 17), _[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]_; 2nd (4/day)—_[[rangoric-srd/spells/Hold Person|hold person]]_ (DC 16), _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Sound Burst|sound burst]]_ (DC 16), _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 16); 1st (5/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 15), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Identify|identify]]_, _[[rangoric-srd/spells/Sleep|sleep]]_ (DC 15); 0 (at will)—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Daze|daze]]_ (DC 14), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Lullaby|lullaby]]_ (DC 14), _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_.
 
 **Bardic Performance**: A lillend has the bardic performance ability of a 7th-level bard, granting her access to that ability's countersong, fascinate, inspire courage, inspire competence, and suggestion aspects.

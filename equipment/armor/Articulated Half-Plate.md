@@ -24,6 +24,6 @@ tags: [rangoric, rangoric/armor]
 
 # Articulated Half-Plate
 
-*Heavy armor.* Cost 800 gp; Armor Bonus +7; Maximum Dex Bonus +1; Armor Check Penalty –6; Arcane Spell Failure 40%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 45 lb. ^stats
+_Heavy armor._ Cost 800 gp; Armor Bonus +7; Maximum Dex Bonus +1; Armor Check Penalty –6; Arcane Spell Failure 40%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 45 lb. ^stats
 
 Although as restrictive as normal half-plate for most types of movement, articulated half-plate allows a greater freedom to run than other heavy armor. Half-plate does not restrict you to running at only triple your normal speed. Wearing articulate plate requires special training because it allows much freer movement when taking simple steps forward than it does when attempting other kinds of movement, such as jumping or climbing.

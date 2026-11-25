@@ -23,4 +23,4 @@ This rod is jet black with narrow silver bands every inch along its length. It f
 
 Once per week, this rod may be used to disintegrate a single, inanimate object of not more than 1000 cu. ft.
 
-CL 12th; [[rangoric-srd/feats/Craft Rod|Craft Rod]], *[[rangoric-srd/spells/Disintegrate|disintegrate]]*; Price 57,100 gp; Weight 4 lb.
+CL 12th; [[rangoric-srd/feats/Craft Rod|Craft Rod]], _[[rangoric-srd/spells/Disintegrate|disintegrate]]_; Price 57,100 gp; Weight 4 lb.

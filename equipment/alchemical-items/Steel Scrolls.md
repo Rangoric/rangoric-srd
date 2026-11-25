@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Steel Scrolls
 
-*Alchana/Scroll; Special/Magical*
+_Alchana/Scroll; Special/Magical_
 
 In all ways, these unpolished foil-like scrolls are identical to those used for arcane spell scrolls, except for one thing— they are either metal crafted to work as scrolls or papyrus scrolls transformed to metal. Few alchemists will reveal which is true, though they are happy to make and sell them. The primary reason they are worth the additional expense is their reusability: each steelscroll can be used 2d3 times (-1 on die results for each spell level above 4th) to cast the one spell enscribed upon it, instead of being used up with one casting. The only restrictions are these:
 

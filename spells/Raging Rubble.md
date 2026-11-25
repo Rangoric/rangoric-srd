@@ -34,15 +34,15 @@ tags: [rangoric, rangoric/spell]
 
 # Raging Rubble
 
-*Transmutation \[Earth\]*
+_Transmutation \[Earth\]_
 
-  - **Level**: Blr 3, Brd 3, Clr 3, Drd 3, Hun 3, Skd 3, Sor/Wiz 3, Wit 3
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 round
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: One swarm of stones
-  - **Duration**: Concentration + 2 rounds
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Blr 3, Brd 3, Clr 3, Drd 3, Hun 3, Skd 3, Sor/Wiz 3, Wit 3
+- **Components**: V, S, DF
+- **Casting Time**: 1 round
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: One swarm of stones
+- **Duration**: Concentration + 2 rounds
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 You animate an area of rubble, gravel, or other small stones, creating a dangerous, rolling area of debris. The animated rubble has a space of 10 feet and acts like a swarm, damaging (1d6 hit points) and distracting (DC 12) anything within it. As a move action, you can direct the rubble to move up to 10 feet. If the rubble is attacked, treat it as a Medium animated object with the [[rangoric-srd/monsters/simple-templates/Young Creature|young creature simple template]] and the swarm subtype.

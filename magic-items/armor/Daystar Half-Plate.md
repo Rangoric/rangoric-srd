@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Daystar Half-Plate
 
-The silvery sheen of this *+1 half-plate* causes it to sparkle in even the faintest light. At will, the wearer can command it to shine with a *[[rangoric-srd/spells/Daylight|daylight]]* spell for 10 minutes. Once per day, the wearer can command it to shine as per the *[[rangoric-srd/spells/Sunburst|sunburst]]* spell.
+The silvery sheen of this _+1 half-plate_ causes it to sparkle in even the faintest light. At will, the wearer can command it to shine with a _[[rangoric-srd/spells/Daylight|daylight]]_ spell for 10 minutes. Once per day, the wearer can command it to shine as per the _[[rangoric-srd/spells/Sunburst|sunburst]]_ spell.
 
-Strong evocation; CL 15th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Daylight|daylight]]*, *[[rangoric-srd/spells/Sunburst|sunburst]]*; Price 81,250 gp; Cost 41,000 gp.
+Strong evocation; CL 15th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Daylight|daylight]]_, _[[rangoric-srd/spells/Sunburst|sunburst]]_; Price 81,250 gp; Cost 41,000 gp.

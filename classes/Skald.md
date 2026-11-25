@@ -43,53 +43,53 @@ The skald’s class skills (and the key ability for each skill) are [[rangoric-s
 
 **Table: The Skald** ^table-the-skald
 
-| Level | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | Bardic knowledge, cantrips, inspired rage +1 (+2 Str/Con), raging song, scribe scroll | 1 | — | — | — | — | — |
-| 2nd | Versatile performance, well-versed | 2 | — | — | — | — | — |
-| 3rd | Rage power, song of marching | 3 | — | — | — | — | — |
-| 4th | Inspired rage +2, uncanny dodge | 3 | 1 | — | — | — | — |
-| 5th | Spell kenning 1/day | 4 | 2 | — | — | — | — |
-| 6th | Rage power, song of strength | 4 | 3 | — | — | — | — |
-| 7th | Lore master 1/day, versatile performance | 4 | 3 | 1 | — | — | — |
-| 8th | Improved uncanny dodge, inspired rage +3 (+4 Str/Con) | 4 | 4 | 2 | — | — | — |
-| 9th | Rage power, DR 1/— | 5 | 4 | 3 | — | — | — |
-| 10th | Dirge of doom | 5 | 4 | 3 | 1 | — | — |
-| 11th | Spell kenning 2/day | 5 | 4 | 4 | 2 | — | — |
-| 12th | Inspired rage +4, rage power, versatile performance | 5 | 5 | 4 | 3 | — | — |
-| 13th | Lore master 2/day | 5 | 5 | 4 | 3 | 1 | — |
-| 14th | DR 2/—, song of the fallen | 5 | 5 | 4 | 4 | 2 | — |
-| 15th | Rage power | 5 | 5 | 5 | 4 | 3 | — |
-| 16th | Inspired rage +5 (+6 Str/Con) | 5 | 5 | 5 | 4 | 3 | 1 |
-| 17th | Spell kenning 3/day, versatile performance | 5 | 5 | 5 | 4 | 4 | 2 |
-| 18th | Rage power | 5 | 5 | 5 | 5 | 4 | 3 |
-| 19th | DR 3/—, lore master 3/day | 5 | 5 | 5 | 5 | 5 | 4 |
-| 20th | Inspired rage +6, master skald | 5 | 5 | 5 | 5 | 5 | 5 |
+| Level | Special                                                                               | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
+| ----- | ------------------------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| 1st   | Bardic knowledge, cantrips, inspired rage +1 (+2 Str/Con), raging song, scribe scroll | 1                   | —                   | —                   | —                   | —                   | —                   |
+| 2nd   | Versatile performance, well-versed                                                    | 2                   | —                   | —                   | —                   | —                   | —                   |
+| 3rd   | Rage power, song of marching                                                          | 3                   | —                   | —                   | —                   | —                   | —                   |
+| 4th   | Inspired rage +2, uncanny dodge                                                       | 3                   | 1                   | —                   | —                   | —                   | —                   |
+| 5th   | Spell kenning 1/day                                                                   | 4                   | 2                   | —                   | —                   | —                   | —                   |
+| 6th   | Rage power, song of strength                                                          | 4                   | 3                   | —                   | —                   | —                   | —                   |
+| 7th   | Lore master 1/day, versatile performance                                              | 4                   | 3                   | 1                   | —                   | —                   | —                   |
+| 8th   | Improved uncanny dodge, inspired rage +3 (+4 Str/Con)                                 | 4                   | 4                   | 2                   | —                   | —                   | —                   |
+| 9th   | Rage power, DR 1/—                                                                    | 5                   | 4                   | 3                   | —                   | —                   | —                   |
+| 10th  | Dirge of doom                                                                         | 5                   | 4                   | 3                   | 1                   | —                   | —                   |
+| 11th  | Spell kenning 2/day                                                                   | 5                   | 4                   | 4                   | 2                   | —                   | —                   |
+| 12th  | Inspired rage +4, rage power, versatile performance                                   | 5                   | 5                   | 4                   | 3                   | —                   | —                   |
+| 13th  | Lore master 2/day                                                                     | 5                   | 5                   | 4                   | 3                   | 1                   | —                   |
+| 14th  | DR 2/—, song of the fallen                                                            | 5                   | 5                   | 4                   | 4                   | 2                   | —                   |
+| 15th  | Rage power                                                                            | 5                   | 5                   | 5                   | 4                   | 3                   | —                   |
+| 16th  | Inspired rage +5 (+6 Str/Con)                                                         | 5                   | 5                   | 5                   | 4                   | 3                   | 1                   |
+| 17th  | Spell kenning 3/day, versatile performance                                            | 5                   | 5                   | 5                   | 4                   | 4                   | 2                   |
+| 18th  | Rage power                                                                            | 5                   | 5                   | 5                   | 5                   | 4                   | 3                   |
+| 19th  | DR 3/—, lore master 3/day                                                             | 5                   | 5                   | 5                   | 5                   | 5                   | 4                   |
+| 20th  | Inspired rage +6, master skald                                                        | 5                   | 5                   | 5                   | 5                   | 5                   | 5                   |
 
 **Table: Skald Spells Known** ^table-skald-spells-known
 
 | Level | Spells Known: 0 | Spells Known: 1st | Spells Known: 2nd | Spells Known: 3rd | Spells Known: 4th | Spells Known: 5th | Spells Known: 6th |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | 4 | 2 | — | — | — | — | — |
-| 2nd | 5 | 3 | — | — | — | — | — |
-| 3rd | 6 | 4 | — | — | — | — | — |
-| 4th | 6 | 4 | 2 | — | — | — | — |
-| 5th | 6 | 4 | 3 | — | — | — | — |
-| 6th | 6 | 4 | 4 | — | — | — | — |
-| 7th | 6 | 5 | 4 | 2 | — | — | — |
-| 8th | 6 | 5 | 4 | 3 | — | — | — |
-| 9th | 6 | 5 | 4 | 4 | — | — | — |
-| 10th | 6 | 5 | 5 | 4 | 2 | — | — |
-| 11th | 6 | 6 | 5 | 4 | 3 | — | — |
-| 12th | 6 | 6 | 5 | 4 | 4 | — | — |
-| 13th | 6 | 6 | 5 | 5 | 4 | 2 | — |
-| 14th | 6 | 6 | 6 | 5 | 4 | 3 | — |
-| 15th | 6 | 6 | 6 | 5 | 4 | 4 | — |
-| 16th | 6 | 6 | 6 | 5 | 5 | 4 | 2 |
-| 17th | 6 | 6 | 6 | 6 | 5 | 4 | 3 |
-| 18th | 6 | 6 | 6 | 6 | 5 | 4 | 4 |
-| 19th | 6 | 6 | 6 | 6 | 5 | 5 | 4 |
-| 20th | 6 | 6 | 6 | 6 | 6 | 5 | 5 |
+| ----- | --------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
+| 1st   | 4               | 2                 | —                 | —                 | —                 | —                 | —                 |
+| 2nd   | 5               | 3                 | —                 | —                 | —                 | —                 | —                 |
+| 3rd   | 6               | 4                 | —                 | —                 | —                 | —                 | —                 |
+| 4th   | 6               | 4                 | 2                 | —                 | —                 | —                 | —                 |
+| 5th   | 6               | 4                 | 3                 | —                 | —                 | —                 | —                 |
+| 6th   | 6               | 4                 | 4                 | —                 | —                 | —                 | —                 |
+| 7th   | 6               | 5                 | 4                 | 2                 | —                 | —                 | —                 |
+| 8th   | 6               | 5                 | 4                 | 3                 | —                 | —                 | —                 |
+| 9th   | 6               | 5                 | 4                 | 4                 | —                 | —                 | —                 |
+| 10th  | 6               | 5                 | 5                 | 4                 | 2                 | —                 | —                 |
+| 11th  | 6               | 6                 | 5                 | 4                 | 3                 | —                 | —                 |
+| 12th  | 6               | 6                 | 5                 | 4                 | 4                 | —                 | —                 |
+| 13th  | 6               | 6                 | 5                 | 5                 | 4                 | 2                 | —                 |
+| 14th  | 6               | 6                 | 6                 | 5                 | 4                 | 3                 | —                 |
+| 15th  | 6               | 6                 | 6                 | 5                 | 4                 | 4                 | —                 |
+| 16th  | 6               | 6                 | 6                 | 5                 | 5                 | 4                 | 2                 |
+| 17th  | 6               | 6                 | 6                 | 6                 | 5                 | 4                 | 3                 |
+| 18th  | 6               | 6                 | 6                 | 6                 | 5                 | 4                 | 4                 |
+| 19th  | 6               | 6                 | 6                 | 6                 | 5                 | 5                 | 4                 |
+| 20th  | 6               | 6                 | 6                 | 6                 | 6                 | 5                 | 5                 |
 
 ###### Class Features
 
@@ -131,7 +131,7 @@ If an ally has her own rage class ability (such as [[rangoric-srd/classes/Barbar
 
 **Dirge of Doom (Su)**: At 10th level, a skald can create a sense of growing dread in his enemies, causing them to become [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]]. This only affects enemies that are within 30 feet and able to hear the skald's performance. The effect persists for as long as the enemy is within 30 feet and the skald continues his performance. This cannot cause a creature to become [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] or [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]], even if the targets are already shaken from another effect. This is a sonic mind-affecting fear effect, and relies on audible components. ^skald-dirge-of-doom
 
-**Song of the Fallen (Su)**: At 14th level, a skald can temporarily revive dead allies to continue fighting, with the same limitations as *[[rangoric-srd/spells/Raise Dead|raise dead]]*. The skald selects a dead ally within 60 feet and expends 1 round of raging song to bring that ally back to life. The revived ally is alive but [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]]. Each round, the skald may expend another 1 round of raging song to keep that ally alive for another round. The ally automatically dies if the skald ends this performance or is interrupted. The skald may revive multiple allies with this ability (either at the same time or over successive rounds) but must expend 1 round of raging song per revived ally per round to maintain the effect. ^skald-song-of-the-fallen
+**Song of the Fallen (Su)**: At 14th level, a skald can temporarily revive dead allies to continue fighting, with the same limitations as _[[rangoric-srd/spells/Raise Dead|raise dead]]_. The skald selects a dead ally within 60 feet and expends 1 round of raging song to bring that ally back to life. The revived ally is alive but [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]]. Each round, the skald may expend another 1 round of raging song to keep that ally alive for another round. The ally automatically dies if the skald ends this performance or is interrupted. The skald may revive multiple allies with this ability (either at the same time or over successive rounds) but must expend 1 round of raging song per revived ally per round to maintain the effect. ^skald-song-of-the-fallen
 
 **Scribe Scroll**: At 1st level, a skald gains [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]] as a bonus feat. ^skald-scribe-scroll
 
@@ -171,7 +171,7 @@ If a character already has [[rangoric-srd/classes/Skald#^skald-uncanny-dodge|unc
 
 **Damage Reduction (Ex)**: At 9th level, a skald gains [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|damage reduction]]. Subtract 1 from the damage the skald takes each time he is dealt damage from a weapon or a natural attack. At 14th and 19th levels, this damage reduction increases by 1. Damage reduction can reduce damage to 0, but not below 0. Additionally, the skald grants this DR to all allies affected by his [[rangoric-srd/classes/Skald#^skald-inspired-rage|inspired rage]]. ^skald-damage-reduction
 
-**Master Skald (Su)**: At 20th level, a skald's [[rangoric-srd/classes/Skald#^skald-inspired-rage|inspired rage]] no longer gives allies a penalty to AC, nor limits what skills or abilities they can use. Allies with rage class abilities may use features dependent on those abilities without restriction, such as a [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|barbarian’s rage powers]] and a bloodrager's blood casting and bloodline abilities. Finally, when making a full attack, affected allies may make an additional attack each round (as if using a *[[rangoric-srd/spells/Haste|haste]]* effect). ^skald-master-skald
+**Master Skald (Su)**: At 20th level, a skald's [[rangoric-srd/classes/Skald#^skald-inspired-rage|inspired rage]] no longer gives allies a penalty to AC, nor limits what skills or abilities they can use. Allies with rage class abilities may use features dependent on those abilities without restriction, such as a [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|barbarian’s rage powers]] and a bloodrager's blood casting and bloodline abilities. Finally, when making a full attack, affected allies may make an additional attack each round (as if using a _[[rangoric-srd/spells/Haste|haste]]_ effect). ^skald-master-skald
 
 **Archetypes**: A skald can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The skald’s archetypes, with what each replaces: ^skald-archetypes
 

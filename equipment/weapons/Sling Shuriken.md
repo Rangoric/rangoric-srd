@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon]
 
 # Sling Shuriken
 
-*Ammunition (20).* Cost 5 gp; Dmg 1d4 (S), 1d4 (M); Critical x3; Weight 6 lb.; Type Slashing. ^stats
+_Ammunition (20)._ Cost 5 gp; Dmg 1d4 (S), 1d4 (M); Critical x3; Weight 6 lb.; Type Slashing. ^stats
 
 Sling shuriken are cunning creations of gnomish artisans. They are a combination of sling stone, spinning top, and razorblade. When the shuriken is released from the sling, counterweights inside react against the spin and trigger the release of four viciously sharp blades. If aimed correctly, the sling shuriken blades slice into the target. However, if the sling shuriken blades are deployed an instant too late (the intended target is within 20 ft.), the shuriken bounces off and inflicts only normal sling bullet damage (bludgeoning).

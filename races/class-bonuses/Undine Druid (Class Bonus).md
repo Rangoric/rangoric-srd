@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Undine Druid
 
-*An [[rangoric-srd/races/Undine|undine]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Druid#^druid-class-bonuses|druid]] level.*
+_An [[rangoric-srd/races/Undine|undine]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Druid#^druid-class-bonuses|druid]] level._
 
 Add a +1 bonus on [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] checks to influence animals and magical beasts with the aquatic subtype.

@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Mighty Sundering
 
-This enchantment increases a weapon’s enhancement bonus by +1 only in regards to the magical arms and armors it can damage or be damaged by. Also, this type of weapon deals an additional +1d6 points of damage to inanimate objects (with the exception of constructs). Thus, a +3 weapon with this enchantment can damage armor and weapons with up to a +4 enchantment, doing an additional +1d6 points of damage, while in return a weapon needs at least a +4 enhancement bonus to damage the +3 *mighty sundering* weapon.
+This enchantment increases a weapon’s enhancement bonus by +1 only in regards to the magical arms and armors it can damage or be damaged by. Also, this type of weapon deals an additional +1d6 points of damage to inanimate objects (with the exception of constructs). Thus, a +3 weapon with this enchantment can damage armor and weapons with up to a +4 enchantment, doing an additional +1d6 points of damage, while in return a weapon needs at least a +4 enhancement bonus to damage the +3 _mighty sundering_ weapon.
 
-Moderate evocation; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Stoneskin|stoneskin]]*; Price +1 bonus.
+Moderate evocation; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Stoneskin|stoneskin]]_; Price +1 bonus.

@@ -28,15 +28,15 @@ tags: [rangoric, rangoric/spell]
 
 # Silk to Steel
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Brd 2, Occ 2, Skd 2, Sor/Wiz 2, Wit 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: One scarf
-  - **Duration**: 1 round/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Brd 2, Occ 2, Skd 2, Sor/Wiz 2, Wit 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: One scarf
+- **Duration**: 1 round/level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You imbue an ordinary scarf (or similar piece of clothing) with the strength of steel without altering its weight or flexibility. Each round on your turn, you can decide to use the scarf to defend yourself (gaining a +2 shield bonus to your Armor Class) or to attack as if the scarf were a whip.

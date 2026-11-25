@@ -22,4 +22,4 @@ Gnomes design their masks more for protection during tinkering and crafting than
 
 This is one of the [[rangoric-srd/magic-items/Racial Masks|racial masks]].
 
-Faint evocation and transmutation; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Darkness|darkness]]*, *[[rangoric-srd/spells/Water Breathing|water breathing]]*; Price 66,000 gp; Cost 33,000 gp + 2,400 XP.
+Faint evocation and transmutation; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Darkness|darkness]]_, _[[rangoric-srd/spells/Water Breathing|water breathing]]_; Price 66,000 gp; Cost 33,000 gp + 2,400 XP.

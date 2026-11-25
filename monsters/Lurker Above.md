@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Lurker Above
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 10d8+40 (85 hp)
-  - **Initiative**: +5
-  - **Speed**: 10 ft. (2 squares), climb 5 ft., fly 40 ft. (poor)
-  - **Armor Class**: 19 (+1 Dex, +10 natural, –2 size), touch 9, flat-footed 18
-  - **Base Attack**: +7; **CMB**: +19 (+23 grapple); **CMD**: 30 (can't be tripped)
-  - **Attack**: Slam +15 melee (3d6+15 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Slam +15 melee (3d6+15 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (3d6+15), [[rangoric-srd/monsters/abilities/Smother|smother]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 10 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/piercing or slashing, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-  - **Saves**: Fort +7, Ref +4, Will +9
-  - **Abilities**: Str 30, Dex 12, Con 19, Int 2, Wis 15, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +1, [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +8 (+16 in rocky areas)
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
-  - **Environment**: Any underground
-  - **Organization**: Solitary
-  - **Challenge Rating**: 7
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 10d8+40 (85 hp)
+- **Initiative**: +5
+- **Speed**: 10 ft. (2 squares), climb 5 ft., fly 40 ft. (poor)
+- **Armor Class**: 19 (+1 Dex, +10 natural, –2 size), touch 9, flat-footed 18
+- **Base Attack**: +7; **CMB**: +19 (+23 grapple); **CMD**: 30 (can't be tripped)
+- **Attack**: Slam +15 melee (3d6+15 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Slam +15 melee (3d6+15 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 15 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (3d6+15), [[rangoric-srd/monsters/abilities/Smother|smother]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 10 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/piercing or slashing, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
+- **Saves**: Fort +7, Ref +4, Will +9
+- **Abilities**: Str 30, Dex 12, Con 19, Int 2, Wis 15, Cha 9
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +1, [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +8 (+16 in rocky areas)
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
+- **Environment**: Any underground
+- **Organization**: Solitary
+- **Challenge Rating**: 7
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Lurkers above are the nearly mindless males of the species, and follow much the same tactics as [[rangoric-srd/monsters/Executioner’s Hood|executioner's hoods]], save that they gain the ability to stretch themselves wide, glide with both speed and silence, and can even fly by awkwardly flapping their flesh. They typically hide on cavern ceilings, shifting their coloration and texture to match the surrounding terrain.
 

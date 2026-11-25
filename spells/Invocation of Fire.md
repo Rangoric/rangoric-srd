@@ -26,15 +26,15 @@ tags: [rangoric, rangoric/spell]
 
 # Invocation of Fire
 
-*Evocation \[Fire\]*
+_Evocation \[Fire\]_
 
-  - **Level**: Sor/Wiz 8
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./level)
-  - **Target**: One creature
-  - **Duration**: See text
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Sor/Wiz 8
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./level)
+- **Target**: One creature
+- **Duration**: See text
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 Roaring flames engulfs the subject of this spell. Any person or creature in contact with the target when the spell is cast (e.g. a mounted horse or a carried comrade) is also affected, even if they later separate. The spell inflicts 1d6 points of damage per 2 caster levels (10d6 maximum) each round. A Will save negates the effect. A save is required each round thereafter, but the save DC is reduced by 2 each round. Failure indicates that the spell deals damage again. This continues each round, until either the victim makes a successful saving throw or is destroyed.

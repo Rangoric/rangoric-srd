@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Wall of Thorns
 
-*Conjuration (Creation)*
+_Conjuration (Creation)_
 
-  - **Level**: Drd 5, Hun 5, Plant 5, Sha 5
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Effect**: Wall of thorny brush, up to one 10-ft. cube/level (S)
-  - **Duration**: 10 min./level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Drd 5, Hun 5, Plant 5, Sha 5
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Effect**: Wall of thorny brush, up to one 10-ft. cube/level (S)
+- **Duration**: 10 min./level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 A wall of thorns spell creates a barrier of very tough, pliable, tangled brush bearing needle-sharp thorns as long as a human’s finger. Any creature forced into or attempting to move through a wall of thorns takes slashing damage per round of movement equal to 25 minus the creature’s AC. Dexterity and dodge bonuses to AC do not count for this calculation. (Creatures with an Armor Class of 25 or higher, without considering Dexterity and dodge bonuses, take no damage from contact with the wall.)
 

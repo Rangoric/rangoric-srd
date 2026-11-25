@@ -27,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 # Mummy Dust
 
-Necromancy \[Evil\]   
+Necromancy \[Evil\]  
 Casting DC: 35  
 Components: V, S ,M, XP  
 Casting Time: 1 standard action  
@@ -36,7 +36,7 @@ Effect: Two 18-HD mummies
 Duration: Instantaneous  
 Saving Throw: None  
 Spell Resistance: No  
-To Develop: 315,000 gp; 7 days; 12,600 XP. Seed: animate dead (DC 23). Factors: 1-action casting time (+20 DC). Mitigating factors: burn 400 XP (-4 DC), expensive material component (ad hoc -4 DC).  
+To Develop: 315,000 gp; 7 days; 12,600 XP. Seed: animate dead (DC 23). Factors: 1-action casting time (+20 DC). Mitigating factors: burn 400 XP (-4 DC), expensive material component (ad hoc -4 DC).
 
 When the character sprinkles the dust of ground mummies in conjunction with casting mummy dust, two Large 18-HD mummies (see below) spring up from the dust in an area adjacent to the character. The mummies follow the character’s every command according to their abilities, until they are destroyed or the character loses control of them by attempting to control more Hit Dice of undead than he or she has caster levels.
 

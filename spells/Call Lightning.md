@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Call Lightning
 
-*Evocation \[Electricity\]*
+_Evocation \[Electricity\]_
 
-  - **Level**: Drd 3, Hun 3, Occ 3, Sha 3
-  - **Components**: V, S
-  - **Casting Time**: 1 round
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Effect**: One or more 30-ft.-long vertical lines of lightning
-  - **Duration**: 1 min./level
-  - **Saving Throw**: Reflex half
-  - **Spell Resistance**: Yes
+- **Level**: Drd 3, Hun 3, Occ 3, Sha 3
+- **Components**: V, S
+- **Casting Time**: 1 round
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Effect**: One or more 30-ft.-long vertical lines of lightning
+- **Duration**: 1 min./level
+- **Saving Throw**: Reflex half
+- **Spell Resistance**: Yes
 
 Immediately upon completion of the spell, and once per round thereafter, you may call down a 5-foot-wide, 30-foot-long, vertical bolt of lightning that deals 3d6 points of electricity damage. The bolt of lightning flashes down in a vertical stroke at whatever target point you choose within the spell’s range (measured from your position at the time). Any creature in the target square or in the path of the bolt is affected.
 

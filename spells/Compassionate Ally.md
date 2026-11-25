@@ -34,15 +34,15 @@ tags: [rangoric, rangoric/spell]
 
 # Compassionate Ally
 
-*Enchantment (Compulsion) \[Emotion, Mind-affecting\]*
+_Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
 
-  - **Level**: Brd 2, Clr 2, Med 2, Mes 2, Psy 2, Skd 2, Sor/Wiz 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 2, Clr 2, Med 2, Mes 2, Psy 2, Skd 2, Sor/Wiz 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 At the sight of an injured ally, the target immediately disengages from its current course of action and rushes to provide aid. If the target possesses curative spells or magic items, it utilizes them to help the injured ally. If not, the target provides aid by performing a Medicine check. The target remains with the injured ally to assure her safety and refuses to leave the ally's side until her wounds are fully treated or the spell ends, but can otherwise defend itself and make attacks.

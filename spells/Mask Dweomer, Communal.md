@@ -28,15 +28,15 @@ tags: [rangoric, rangoric/spell]
 
 # Mask Dweomer, Communal
 
-*Illusion (Glamer)*
+_Illusion (Glamer)_
 
-  - **Level**: Occ 2, Psy 2, Wit 2
-  - **Components**: V, S, M (a piece of gauze)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creatures or objects touched
-  - **Duration**: 1 day/level (D)
-  - **Saving Throw**: None; see text
-  - **Spell Resistance**: No
+- **Level**: Occ 2, Psy 2, Wit 2
+- **Components**: V, S, M (a piece of gauze)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creatures or objects touched
+- **Duration**: 1 day/level (D)
+- **Saving Throw**: None; see text
+- **Spell Resistance**: No
 
-This spell functions like *[[rangoric-srd/spells/Mask Dweomer|mask dweomer]]* , except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-day increments among the creatures or objects touched.
+This spell functions like _[[rangoric-srd/spells/Mask Dweomer|mask dweomer]]_ , except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-day increments among the creatures or objects touched.

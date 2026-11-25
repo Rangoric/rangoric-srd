@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Awakened Intellect
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-grand-discovery|alchemist grand discovery]].*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-grand-discovery|alchemist grand discovery]]._
 
 The alchemist’s constant exposure to strange chemicals has expanded his mind. His Intelligence score permanently increases by 2 points.

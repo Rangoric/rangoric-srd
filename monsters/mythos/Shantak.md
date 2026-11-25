@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Shantak
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 11d10+44 (104 hp)
-  - **Initiative**: +3
-  - **Speed**: 20 ft. (4 squares), fly 80 ft. (average)
-  - **Armor Class**: 21 (+3 Dex, +10 natural, –2 size), touch 11, flat-footed 18
-  - **Base Attack**: +11; **CMB**: +21 (+25 grapple); **CMD**: 34 (42 vs. grapple)
-  - **Attack**: Bite +17 melee (2d6+8) 2 talons +17 (1d8+8 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +17 melee (2d6+8) 2 talons +17 (1d8+8 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Slippery|slippery]], [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Share Defenses|share defenses]], [[rangoric-srd/monsters/abilities/Starflight|starflight]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and disease
-  - **Saves**: Fort +11, Ref +10, Will +6
-  - **Abilities**: Str 26, Dex 17, Con 19, Int 8, Wis 17, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +11
-  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Wingover|Wingover]]
-  - **Environment**: Cold mountains
-  - **Organization**: Solitary, pair, or flock (3–12)
-  - **Challenge Rating**: 8
-  - **Treasure**: None
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 11d10+44 (104 hp)
+- **Initiative**: +3
+- **Speed**: 20 ft. (4 squares), fly 80 ft. (average)
+- **Armor Class**: 21 (+3 Dex, +10 natural, –2 size), touch 11, flat-footed 18
+- **Base Attack**: +11; **CMB**: +21 (+25 grapple); **CMD**: 34 (42 vs. grapple)
+- **Attack**: Bite +17 melee (2d6+8) 2 talons +17 (1d8+8 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +17 melee (2d6+8) 2 talons +17 (1d8+8 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Slippery|slippery]], [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Share Defenses|share defenses]], [[rangoric-srd/monsters/abilities/Starflight|starflight]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and disease
+- **Saves**: Fort +11, Ref +10, Will +6
+- **Abilities**: Str 26, Dex 17, Con 19, Int 8, Wis 17, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +11
+- **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Wingover|Wingover]]
+- **Environment**: Cold mountains
+- **Organization**: Solitary, pair, or flock (3–12)
+- **Challenge Rating**: 8
+- **Treasure**: None
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Shantaks speak in a shrill voice that sounds like glass grinding against stone. They are intelligent creatures and cannot be trained as mounts—a would-be shantak rider must use diplomacy or magic to secure a shantak's cooperation as a mount, and even then, shantaks have a tendency to deliberately strand riders in dangerous areas.
 

@@ -29,15 +29,15 @@ tags: [rangoric, rangoric/spell]
 
 # Daybreak Arrow
 
-*Evocation \[Light\]*
+_Evocation \[Light\]_
 
-  - **Level**: Clr 3, Inq 3, Occ 3, Pal 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Up to 50 pieces of ammunition, all of which must be together at the time of casting
-  - **Duration**: 10 minutes/level
-  - **Saving Throw**: Fortitude negates (harmless, object)
-  - **Spell Resistance**: Yes (harmless, object)
+- **Level**: Clr 3, Inq 3, Occ 3, Pal 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Up to 50 pieces of ammunition, all of which must be together at the time of casting
+- **Duration**: 10 minutes/level
+- **Saving Throw**: Fortitude negates (harmless, object)
+- **Spell Resistance**: Yes (harmless, object)
 
 You cause ammunition, including shuriken, to exude radiant energy. Creatures that take penalties in bright light take these penalties for 1 round after being struck by such ammunition. Undead and creatures harmed by sunlight take an additional 1d6 points of damage from such projectiles. This extra damage and half of any other damage you deal with an affected projectile results directly from radiant energy and is not subject to damage resistance. Such a projectile sheds light as if it were a sunrod for 1 round after it is fired or thrown.

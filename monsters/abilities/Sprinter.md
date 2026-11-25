@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Sprinter
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “sprinter”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “sprinter”, on the Special Qualities line.
 
 A catfolk gains a 10-foot racial bonus to its speed when using the charge, run, or withdraw actions. The [[rangoric-srd/monsters/Catfolk|catfolk]] has it.

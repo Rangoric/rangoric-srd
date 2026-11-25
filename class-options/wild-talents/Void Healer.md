@@ -18,11 +18,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Void Healer
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Void Element|void]]
-  - **Type**: utility (Sp)
-  - **Level**: 1
-  - **Burn**: 1
+- **Element**: [[rangoric-srd/class-options/elements/Void Element|void]]
+- **Type**: utility (Sp)
+- **Level**: 1
+- **Burn**: 1
 
 This functions as [[rangoric-srd/class-options/wild-talents/Kinetic Healer|kinetic healer]], except it heals undead (and others healed by negative energy).

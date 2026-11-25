@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # Ear-Piercing Scream
 
-*Evocation \[Sonic\]*
+_Evocation \[Sonic\]_
 
-  - **Level**: Blr 1, Brd 1, Inq 1, Med 1, Psy 1, Skd 1, Sor/Wiz 1, Wit 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: Instantaneous; see text
-  - **Saving Throw**: Fortitude partial (see text)
-  - **Spell Resistance**: Yes
+- **Level**: Blr 1, Brd 1, Inq 1, Med 1, Psy 1, Skd 1, Sor/Wiz 1, Wit 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: Instantaneous; see text
+- **Saving Throw**: Fortitude partial (see text)
+- **Spell Resistance**: Yes
 
 You unleash a powerful scream, inaudible to all but a single target. The target is dazed for 1 round and takes 1d6 points of sonic damage per two caster levels (maximum 5d6). A successful save negates the daze effect and halves the damage.

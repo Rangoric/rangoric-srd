@@ -57,28 +57,28 @@ The unchained monk’s class skills (and the key ability for each skill) are
 
 **Table: The Unchained Monk** ^table-the-unchained-monk
 
-| Level | Special | Unarmed Damage | AC Bonus | Fast Movement |
-| --- | --- | --- | --- | --- |
-| 1st | Bonus feat, flurry of blows (bonus attack), stunning fist, unarmed strike | 1d6 | +0 | +0 ft. |
-| 2nd | Bonus feat, evasion | 1d6 | +0 | +0 ft. |
-| 3rd | Fast movement, ki pool, ki strike (magic) | 1d6 | +0 | +10 ft. |
-| 4th | Ki power, still mind | 1d8 | +1 | +10 ft. |
-| 5th | Purity of body, style strike (1/round) | 1d8 | +1 | +10 ft. |
-| 6th | Bonus feat, ki power | 1d8 | +1 | +20 ft. |
-| 7th | Ki strike (cold iron/silver) | 1d8 | +1 | +20 ft. |
-| 8th | Ki power | 1d10 | +2 | +20 ft. |
-| 9th | Improved evasion, style strike | 1d10 | +2 | +30 ft. |
-| 10th | Bonus feat, ki power, ki strike (lawful) | 1d10 | +2 | +30 ft. |
-| 11th | Flurry of blows (bonus attack) | 1d10 | +2 | +30 ft. |
-| 12th | Ki power | 2d6 | +3 | +40 ft. |
-| 13th | Style strike, tongue of the sun and moon | 2d6 | +3 | +40 ft. |
-| 14th | Bonus feat, ki power | 2d6 | +3 | +40 ft. |
-| 15th | Style strike (2/round) | 2d6 | +3 | +50 ft. |
-| 16th | Ki power, ki strike (adamantine) | 2d8 | +4 | +50 ft. |
-| 17th | Style strike, timeless body | 2d8 | +4 | +50 ft. |
-| 18th | Bonus feat, ki power | 2d8 | +4 | +60 ft. |
-| 19th | Flawless mind | 2d8 | +4 | +60 ft. |
-| 20th | Ki power, perfect self | 2d10 | +5 | +60 ft. |
+| Level | Special                                                                   | Unarmed Damage | AC Bonus | Fast Movement |
+| ----- | ------------------------------------------------------------------------- | -------------- | -------- | ------------- |
+| 1st   | Bonus feat, flurry of blows (bonus attack), stunning fist, unarmed strike | 1d6            | +0       | +0 ft.        |
+| 2nd   | Bonus feat, evasion                                                       | 1d6            | +0       | +0 ft.        |
+| 3rd   | Fast movement, ki pool, ki strike (magic)                                 | 1d6            | +0       | +10 ft.       |
+| 4th   | Ki power, still mind                                                      | 1d8            | +1       | +10 ft.       |
+| 5th   | Purity of body, style strike (1/round)                                    | 1d8            | +1       | +10 ft.       |
+| 6th   | Bonus feat, ki power                                                      | 1d8            | +1       | +20 ft.       |
+| 7th   | Ki strike (cold iron/silver)                                              | 1d8            | +1       | +20 ft.       |
+| 8th   | Ki power                                                                  | 1d10           | +2       | +20 ft.       |
+| 9th   | Improved evasion, style strike                                            | 1d10           | +2       | +30 ft.       |
+| 10th  | Bonus feat, ki power, ki strike (lawful)                                  | 1d10           | +2       | +30 ft.       |
+| 11th  | Flurry of blows (bonus attack)                                            | 1d10           | +2       | +30 ft.       |
+| 12th  | Ki power                                                                  | 2d6            | +3       | +40 ft.       |
+| 13th  | Style strike, tongue of the sun and moon                                  | 2d6            | +3       | +40 ft.       |
+| 14th  | Bonus feat, ki power                                                      | 2d6            | +3       | +40 ft.       |
+| 15th  | Style strike (2/round)                                                    | 2d6            | +3       | +50 ft.       |
+| 16th  | Ki power, ki strike (adamantine)                                          | 2d8            | +4       | +50 ft.       |
+| 17th  | Style strike, timeless body                                               | 2d8            | +4       | +50 ft.       |
+| 18th  | Bonus feat, ki power                                                      | 2d8            | +4       | +60 ft.       |
+| 19th  | Flawless mind                                                             | 2d8            | +4       | +60 ft.       |
+| 20th  | Ki power, perfect self                                                    | 2d10           | +5       | +60 ft.       |
 
 ###### Class Features
 
@@ -96,9 +96,9 @@ These bonuses to AC apply even against touch attacks or when the monk is flat-fo
 
 **Bonus Feat**: At 1st level, 2nd level, and every 4 levels thereafter, a monk can select a bonus feat. These feats must be taken from the following list: Catch Off-Guard, [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Deflect Arrows|Deflect Arrows]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Grapple|Improved Grapple]], Scorpion Style, and Throw Anything. At 6th level, the following feats are added to the list: Gorgon's Fist, [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Feint|Improved Feint]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], and [[rangoric-srd/feats/Mobility|Mobility]]. At 10th level, the following feats are added to the list: [[rangoric-srd/feats/Improved Critical|Improved Critical]], Medusa's Wrath, [[rangoric-srd/feats/Snatch Arrows|Snatch Arrows]], and [[rangoric-srd/feats/Spring Attack|Spring Attack]]. A monk need not have any of the prerequisites normally required for these feats to select them. ^unchained-monk-bonus-feat
 
-**Flurry of Blows (Ex)**: At 1st level, a monk can make a flurry of blows as a full-attack action. When making a flurry of blows, the monk can make one additional attack at his highest base attack bonus. This additional attack stacks with the bonus attacks from *[[rangoric-srd/spells/Haste|haste]]* and other similar effects. When using this ability, the monk can make these attacks with any combination of his unarmed strikes and weapons that have the monk special weapon quality. He takes no penalty for using multiple weapons when making a flurry of blows, but he does not gain any additional attacks beyond what's already granted by the flurry for doing so. (He can still gain additional attacks from a high base attack bonus, from this ability, and from *[[rangoric-srd/spells/Haste|haste]]* and similar effects). ^unchained-monk-flurry-of-blows
+**Flurry of Blows (Ex)**: At 1st level, a monk can make a flurry of blows as a full-attack action. When making a flurry of blows, the monk can make one additional attack at his highest base attack bonus. This additional attack stacks with the bonus attacks from _[[rangoric-srd/spells/Haste|haste]]_ and other similar effects. When using this ability, the monk can make these attacks with any combination of his unarmed strikes and weapons that have the monk special weapon quality. He takes no penalty for using multiple weapons when making a flurry of blows, but he does not gain any additional attacks beyond what's already granted by the flurry for doing so. (He can still gain additional attacks from a high base attack bonus, from this ability, and from _[[rangoric-srd/spells/Haste|haste]]_ and similar effects). ^unchained-monk-flurry-of-blows
 
-At 11th level, a monk can make an additional attack at his highest base attack bonus whenever he makes a flurry of blows. This stacks with the first attack from this ability and additional attacks from *[[rangoric-srd/spells/Haste|haste]]* and similar effects.
+At 11th level, a monk can make an additional attack at his highest base attack bonus whenever he makes a flurry of blows. This stacks with the first attack from this ability and additional attacks from _[[rangoric-srd/spells/Haste|haste]]_ and similar effects.
 
 **Stunning Fist (Ex)**: At 1st level, the monk gains [[rangoric-srd/feats/Stunning Fist|Stunning Fist]] as a bonus feat, even if he does not meet the prerequisites. At 4th level, and every 4 levels thereafter, the monk gains the ability to apply a new condition to the target of his Stunning Fist. This condition replaces stunning the target for 1 round, and a successful saving throw still negates the effect. At 4th level, the monk can choose to make the target [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]]. At 8th level, he can make the target [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1 minute. At 12th level, he can make the target [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1d6+1 rounds. At 16th level, he can permanently blind or deafen the target. At 20th level, he can paralyze the target for 1d6+1 rounds. The monk must choose which condition will apply before the attack roll is made. These effects do not stack with themselves (a creature fatigued by Stunning Fist cannot become exhausted if hit by Stunning Fist again), but additional hits do increase the duration. ^unchained-monk-stunning-fist
 
@@ -110,14 +110,14 @@ The damage dealt by a monk's unarmed strike is determined by the unarmed damage 
 
 **Table: Small or Large Unchained Monk Unarmed Damage**
 
-| Level | Damage (Small Monk) | Damage (Large Monk) |
-| --- | --- | --- |
-| 1st–3rd | 1d4 | 1d8 |
-| 4th–7th | 1d6 | 2d6 |
-| 8th–11th | 1d8 | 2d8 |
-| 12th–15th | 1d10 | 3d6 |
-| 16th–19th | 2d6 | 3d8 |
-| 20th | 2d8 | 4d8 |
+| Level     | Damage (Small Monk) | Damage (Large Monk) |
+| --------- | ------------------- | ------------------- |
+| 1st–3rd   | 1d4                 | 1d8                 |
+| 4th–7th   | 1d6                 | 2d6                 |
+| 8th–11th  | 1d8                 | 2d8                 |
+| 12th–15th | 1d10                | 3d6                 |
+| 16th–19th | 2d6                 | 3d8                 |
+| 20th      | 2d8                 | 4d8                 |
 
 **Evasion (Ex)**: At 2nd level, a monk can avoid damage from many area-effect attacks. If a monk succeeds at a Reflex saving throw against an attack that normally deals half damage on a successful save, he instead takes no damage. Evasion can be used only if a monk is wearing light armor or no armor. A helpless monk does not gain the benefit of evasion. ^unchained-monk-evasion
 
@@ -125,7 +125,7 @@ The damage dealt by a monk's unarmed strike is determined by the unarmed damage 
 
 **Ki Pool (Su)**: At 3rd level, a monk gains a pool of ki points, supernatural energy he can use to accomplish amazing feats. The number of points in a monk's ki pool is equal to 1/2 his monk level + his Wisdom modifier. As long as he has at least 1 point in his ki pool, he can make a ki strike. At 3rd level, ki strike allows his unarmed attacks to be treated as magic weapons for the purpose of overcoming damage reduction. At 7th level, his unarmed attacks are also treated as cold iron and silver for the purpose of overcoming damage reduction. At 10th level, his unarmed attacks are also treated as lawful weapons for the purpose of overcoming damage reduction. At 16th level, his unarmed attacks are treated as adamantine weapons for the purpose of overcoming damage reduction and bypassing hardness. ^unchained-monk-ki-pool
 
-By spending 1 point from his ki pool as a swift action, a monk can make one additional unarmed strike at his highest attack bonus when making a flurry of blows attack. This bonus attack stacks with all bonus attacks gained from flurry of blows, as well as those from *[[rangoric-srd/spells/Haste|haste]]* and similar effects. A monk gains additional powers that consume points from his ki pool as he gains levels.
+By spending 1 point from his ki pool as a swift action, a monk can make one additional unarmed strike at his highest attack bonus when making a flurry of blows attack. This bonus attack stacks with all bonus attacks gained from flurry of blows, as well as those from _[[rangoric-srd/spells/Haste|haste]]_ and similar effects. A monk gains additional powers that consume points from his ki pool as he gains levels.
 
 The ki pool is replenished each morning after 8 hours of rest or meditation; these hours do not need to be consecutive.
 
@@ -139,7 +139,7 @@ The ki pool is replenished each morning after 8 hours of rest or meditation; the
 
 **Improved Evasion (Ex)**: At 9th level, a monk's evasion ability improves. He still takes no damage on successful Reflex saving throws against attacks, but henceforth he takes only half damage on failed saves. A helpless monk does not gain the benefit of improved evasion. ^unchained-monk-improved-evasion
 
-**Tongue of the Sun and Moon (Ex)**: At 13th level, a monk can understand and speak with any living creature, as if under a permanent *[[rangoric-srd/spells/Tongues|tongues]]* effect. ^unchained-monk-tongue-of-the-sun-and-moon
+**Tongue of the Sun and Moon (Ex)**: At 13th level, a monk can understand and speak with any living creature, as if under a permanent _[[rangoric-srd/spells/Tongues|tongues]]_ effect. ^unchained-monk-tongue-of-the-sun-and-moon
 
 **Timeless Body (Ex)**: At 17th level, a monk no longer takes penalties to his ability scores for aging and cannot be magically aged. Any such penalties that he has already taken, however, remain in place. Age bonuses still accrue, and the monk still dies of old age when his time is up. ^unchained-monk-timeless-body
 

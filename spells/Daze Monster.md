@@ -29,10 +29,10 @@ tags: [rangoric, rangoric/spell]
 
 # Daze Monster
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Blr 2, Brd 2, Med 2, Mes 2, Occ 2, Psy 2, Skd 2, Sor/Wiz 2, Sum 1, SumU 1, Wit 2
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Target**: One living creature of 6 HD or less
+- **Level**: Blr 2, Brd 2, Med 2, Mes 2, Occ 2, Psy 2, Skd 2, Sor/Wiz 2, Sum 1, SumU 1, Wit 2
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Target**: One living creature of 6 HD or less
 
 This spell functions like [[rangoric-srd/spells/Daze|daze]], but daze monster can affect any one living creature of any type. Creatures of 7 or more HD are not affected.

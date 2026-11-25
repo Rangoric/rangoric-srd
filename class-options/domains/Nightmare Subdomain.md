@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Nightmare Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Madness Domain|Madness]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Madness Domain|Madness]] domain._
 
 ## Replacement Power
 
@@ -27,8 +27,8 @@ This power replaces the [[rangoric-srd/class-options/domains/Madness Domain#Gran
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 4th | [[rangoric-srd/spells/Phantasmal Killer\|Phantasmal Killer]] | Fearsome illusion kills subject or deals 3d6 damage. |
-| 6th | [[rangoric-srd/spells/Cloak of Dreams\|Cloak of Dreams]] (M) | Causes living creatures within 5 ft. to fall asleep. |
-| 9th | [[rangoric-srd/spells/Weird\|Weird]] | As phantasmal killer, but affects all within 30 ft. |
+| Level | Spell                                                        | Brief Description                                    |
+| ----- | ------------------------------------------------------------ | ---------------------------------------------------- |
+| 4th   | [[rangoric-srd/spells/Phantasmal Killer\|Phantasmal Killer]] | Fearsome illusion kills subject or deals 3d6 damage. |
+| 6th   | [[rangoric-srd/spells/Cloak of Dreams\|Cloak of Dreams]] (M) | Causes living creatures within 5 ft. to fall asleep. |
+| 9th   | [[rangoric-srd/spells/Weird\|Weird]]                         | As phantasmal killer, but affects all within 30 ft.  |

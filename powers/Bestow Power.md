@@ -33,7 +33,7 @@ Target: One psionic creature
 Duration: Instantaneous  
 Saving Throw: None  
 Power Resistance: No  
-Power Points: 3  
+Power Points: 3
 
 You link your mind with another psionic creature’s mind, creating a brief conduit through which mental energy can be shared. When you manifest this power, the subject gains up to 2 power points. You can transfer only as many power points to a subject as it has manifester levels.
 

@@ -31,14 +31,14 @@ tags: [rangoric, rangoric/spell]
 
 # Diagnose Disease
 
-*Divination*
+_Divination_
 
-  - **Level**: Clr 1, Drd 1, Hun 1, Mes 1, Occ 1, Pal 1, Psy 1, Rgr 1, Wit 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Clr 1, Drd 1, Hun 1, Mes 1, Occ 1, Pal 1, Psy 1, Rgr 1, Wit 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You determine whether a creature, object, or area carries any sort of disease or infestation (including molds, slimes, and similar hazards), or any exceptional or supernatural effects causing the sickened or nauseated effects. If there is disease present, you know what disease it is and its effects. If the target is a creature, you gain a +4 bonus on Medicine checks to treat the creature's disease. The spell can penetrate many barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it.

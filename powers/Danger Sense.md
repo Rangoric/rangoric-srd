@@ -28,7 +28,7 @@ Manifesting Time: 1 standard action
 Range: Personal  
 Target: You  
 Duration: 1 hour/level (D)  
-Power Points: 5  
+Power Points: 5
 
 You can sense the presence of danger before your senses would normally allow it. Your intuitive sense alerts you to danger from traps, giving you a +4 insight bonus on Reflex saves to avoid traps and a +4 insight bonus to Armor Class against attacks by traps.
 

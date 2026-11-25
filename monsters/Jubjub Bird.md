@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Jubjub Bird
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 20d10+120 (230 hp)
-  - **Initiative**: +2
-  - **Speed**: 50 ft. (10 squares), fly 20 ft. (poor)
-  - **Armor Class**: 31 (+2 Dex, +1 dodge, +20 natural, –2 size), touch 11, flat-footed 28
-  - **Base Attack**: +20; **CMB**: +35 (+39 grapple); **CMD**: 48
-  - **Attack**: Bite +31 melee (3d6+19/19–20/×3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or talon +31 melee (1d8+13)
-  - **Full Attack**: Bite +31 melee (3d6+19/19–20/×3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 talons +31 melee (1d8+13)
-  - **Space/Reach**: 15 ft./15 ft. (20 ft. with bite)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Deadly Bite|Deadly bite]], [[rangoric-srd/monsters/abilities/Shriek|shriek]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (3d6+19 bludgeoning plus 2d6 acid damage, AC 20, 23 hp)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, [[rangoric-srd/monsters/abilities/Adaptive Defense|adaptive defense]], [[rangoric-srd/monsters/abilities/Planar Acclimation|planar acclimation]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 26
-  - **Saves**: Fort +18, Ref +14, Will +11
-  - **Abilities**: Str 37, Dex 15, Con 22, Int 2, Wis 16, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +13 (+21 jumping), [[rangoric-srd/skills/Perception|Perception]] +24
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Spring Attack|Spring Attack]]
-  - **Environment**: Temperate or warm forests
-  - **Organization**: Solitary or pair
-  - **Challenge Rating**: 15
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 20d10+120 (230 hp)
+- **Initiative**: +2
+- **Speed**: 50 ft. (10 squares), fly 20 ft. (poor)
+- **Armor Class**: 31 (+2 Dex, +1 dodge, +20 natural, –2 size), touch 11, flat-footed 28
+- **Base Attack**: +20; **CMB**: +35 (+39 grapple); **CMD**: 48
+- **Attack**: Bite +31 melee (3d6+19/19–20/×3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or talon +31 melee (1d8+13)
+- **Full Attack**: Bite +31 melee (3d6+19/19–20/×3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 talons +31 melee (1d8+13)
+- **Space/Reach**: 15 ft./15 ft. (20 ft. with bite)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Deadly Bite|Deadly bite]], [[rangoric-srd/monsters/abilities/Shriek|shriek]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (3d6+19 bludgeoning plus 2d6 acid damage, AC 20, 23 hp)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, [[rangoric-srd/monsters/abilities/Adaptive Defense|adaptive defense]], [[rangoric-srd/monsters/abilities/Planar Acclimation|planar acclimation]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 26
+- **Saves**: Fort +18, Ref +14, Will +11
+- **Abilities**: Str 37, Dex 15, Con 22, Int 2, Wis 16, Cha 13
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +13 (+21 jumping), [[rangoric-srd/skills/Perception|Perception]] +24
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Spring Attack|Spring Attack]]
+- **Environment**: Temperate or warm forests
+- **Organization**: Solitary or pair
+- **Challenge Rating**: 15
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The jubjub bird is a rare and dangerous bird that resembles a giant dodo bird, but with long, muscular legs and wings that provide functional, if awkward, flight. When attacked with magic, a jubjub bird's plumage shifts randomly in hue and pattern with each spell hurled against it.
 

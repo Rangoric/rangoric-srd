@@ -21,10 +21,10 @@ Because each variant requires the loss of an existing ability, you can use more 
 
 For example, a campaign might be set up with some or all of the following variants for specialist wizards.
 
-  - All abjurers in the campaign have the resistance to energy variant ability because the setting includes a large number of gates to the elemental planes.
-  - Evokers from a specific city all have the overcome resistance ability, but they do not gain additional spells as specialist wizards. However, other evokers in the campaign gain abilities exactly as standard evokers and consider the evokers of that city a disruptive offshoot of the pure study of magic.
-  - The students and masters at a college of necromancy from a distant region slowly undergo undead apotheosis instead of gaining bonus feats, but most necromancers in the campaign gain abilities exactly as standard necromancers. This difference has led some to feel that the foreign necromancers have a more thorough understanding of the powers of death. Traditional necromancers have a hard time attracting students, while the foreigners gain several new apprentices each year.
-  - One conjurer of particular power in the city cannot obtain a familiar and instead casts summoning spells exceptionally quickly, as described in the rapid summoning variant ability. He claims he can teach others to wield magic as he does, but so far he has gathered few students.
+- All abjurers in the campaign have the resistance to energy variant ability because the setting includes a large number of gates to the elemental planes.
+- Evokers from a specific city all have the overcome resistance ability, but they do not gain additional spells as specialist wizards. However, other evokers in the campaign gain abilities exactly as standard evokers and consider the evokers of that city a disruptive offshoot of the pure study of magic.
+- The students and masters at a college of necromancy from a distant region slowly undergo undead apotheosis instead of gaining bonus feats, but most necromancers in the campaign gain abilities exactly as standard necromancers. This difference has led some to feel that the foreign necromancers have a more thorough understanding of the powers of death. Traditional necromancers have a hard time attracting students, while the foreigners gain several new apprentices each year.
+- One conjurer of particular power in the city cannot obtain a familiar and instead casts summoning spells exceptionally quickly, as described in the rapid summoning variant ability. He claims he can teach others to wield magic as he does, but so far he has gathered few students.
 
 In addition to a description of the variant class's abilities, each entry below includes brief suggestions on sample campaigns, adventures, or characters that might benefit from the use of the variant specialists. These notes are suggestions only, since nearly any campaign can benefit from adding variety to spells and spellcasters.
 
@@ -88,7 +88,7 @@ Conjurers using this variant can "lose" a prepared spell to cast any [[rangoric-
 
 A conjurer using this variant does not gain additional spells per day for being a specialist wizard.
 
-*Note:* Since conjurers using this variant obviously summon monsters frequently, the game master should require the conjurer's player to prepare simple record sheets ahead of time for each monster that the character commonly summons. It is also important to emphasize speedy play on the part of the conjurer and his summoned monsters.
+_Note:_ Since conjurers using this variant obviously summon monsters frequently, the game master should require the conjurer's player to prepare simple record sheets ahead of time for each monster that the character commonly summons. It is also important to emphasize speedy play on the part of the conjurer and his summoned monsters.
 
 ##### Diviner Variants
 

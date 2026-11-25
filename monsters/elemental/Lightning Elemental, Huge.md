@@ -40,25 +40,25 @@ tags: [rangoric, rangoric/monster]
 
 # Lightning Elemental, Huge
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Air, Elemental, Extraplanar)
-  - **Hit Dice**: 10d10+30 (85 hp)
-  - **Initiative**: +12
-  - **Speed**: fly 100 ft. (perfect)
-  - **Armor Class**: 19 (+8 Dex, +1 dodge, +2 natural, –2 size), touch 17, flat-footed 10
-  - **Base Attack**: +10; **CMB**: +17; **CMD**: 36
-  - **Attack**: Slam +16 melee (2d6+5 plus 1d8 electricity)
-  - **Full Attack**: 2 slams +16 melee (2d6+5 plus 1d8 electricity)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/elemental/Lightning Elemental#^metal-mastery|Metal mastery]], [[rangoric-srd/monsters/elemental/Lightning Elemental#^spark-leap|spark leap]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-  - **Saves**: Fort +10, Ref +15, Will +5
-  - **Abilities**: Str 20, Dex 27, Con 16, Int 6, Wis 11, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +21, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +21, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Theology|Theology]] +11
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any (Elemental Plane of Air)
-  - **Organization**: Solitary, pair, or gang (3–8)
-  - **Challenge Rating**: 7
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Air, Elemental, Extraplanar)
+- **Hit Dice**: 10d10+30 (85 hp)
+- **Initiative**: +12
+- **Speed**: fly 100 ft. (perfect)
+- **Armor Class**: 19 (+8 Dex, +1 dodge, +2 natural, –2 size), touch 17, flat-footed 10
+- **Base Attack**: +10; **CMB**: +17; **CMD**: 36
+- **Attack**: Slam +16 melee (2d6+5 plus 1d8 electricity)
+- **Full Attack**: 2 slams +16 melee (2d6+5 plus 1d8 electricity)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/elemental/Lightning Elemental#^metal-mastery|Metal mastery]], [[rangoric-srd/monsters/elemental/Lightning Elemental#^spark-leap|spark leap]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
+- **Saves**: Fort +10, Ref +15, Will +5
+- **Abilities**: Str 20, Dex 27, Con 16, Int 6, Wis 11, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +21, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +21, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Theology|Theology]] +11
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any (Elemental Plane of Air)
+- **Organization**: Solitary, pair, or gang (3–8)
+- **Challenge Rating**: 7
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —

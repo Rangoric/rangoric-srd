@@ -28,15 +28,15 @@ tags: [rangoric, rangoric/spell]
 
 # Unchained Melody
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Brd 1, Skd 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Living creature touched
-  - **Duration**: 1 round per level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 1, Skd 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Living creature touched
+- **Duration**: 1 round per level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
-This insipid spell puts a song in the affected creature’s head that it just cannot seem to shake. Whatever the creature does or thinks, the song’s chorus repeatedly loops in its thoughts. This small dose of madness tends to distract the creature at the worst possible moments, conferring upon it a –1 morale penalty to its first action (attack, skill check or saving throw) each round. If the affected character is a spellcaster, he must make a [[rangoric-srd/rules/Concentration (Check)|concentration check]] (DC 10 + bard’s Cha modifier) each time he wants to cast a spell for the duration of *unchained melody*. If he fails the roll, then his spell is lost.
+This insipid spell puts a song in the affected creature’s head that it just cannot seem to shake. Whatever the creature does or thinks, the song’s chorus repeatedly loops in its thoughts. This small dose of madness tends to distract the creature at the worst possible moments, conferring upon it a –1 morale penalty to its first action (attack, skill check or saving throw) each round. If the affected character is a spellcaster, he must make a [[rangoric-srd/rules/Concentration (Check)|concentration check]] (DC 10 + bard’s Cha modifier) each time he wants to cast a spell for the duration of _unchained melody_. If he fails the roll, then his spell is lost.

@@ -33,17 +33,17 @@ tags: [rangoric, rangoric/spell]
 
 # Bestow Planar Infusion I
 
-*Evocation*
+_Evocation_
 
-  - **Level**: Clr 1, Inq 1, Mag 1, Med 1, Occ 1, Psy 1, Sor/Wiz 1, Sum 1, SumU 1, Wit 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: Caster level hour(s)
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Clr 1, Inq 1, Mag 1, Med 1, Occ 1, Psy 1, Sor/Wiz 1, Sum 1, SumU 1, Wit 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: Caster level hour(s)
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
 This spell draws upon the latent planar energy of the caster's surroundings, allowing her to temporarily infuse a creature with the plane's power.
 
-The touched creature gains that plane's basic infusion for the spell's duration. This spell has no effect if cast on the Material Plane, and it ends as soon as the spell's target leaves the plane with which it has been infused. Details on planar infusions are in each plane's Infusion section (not in Rangoric yet). Once a creature gains the benefits of *bestow planar infusion I*, it remains attuned to that plane for 24 hours. Additional castings of *bestow planar infusion I* during this time bestow the same infusion that was granted by the initial casting that day. Planar infusions that can be used a limited number of times per day are not refreshed by multiple castings of *bestow planar infusion I*.
+The touched creature gains that plane's basic infusion for the spell's duration. This spell has no effect if cast on the Material Plane, and it ends as soon as the spell's target leaves the plane with which it has been infused. Details on planar infusions are in each plane's Infusion section (not in Rangoric yet). Once a creature gains the benefits of _bestow planar infusion I_, it remains attuned to that plane for 24 hours. Additional castings of _bestow planar infusion I_ during this time bestow the same infusion that was granted by the initial casting that day. Planar infusions that can be used a limited number of times per day are not refreshed by multiple castings of _bestow planar infusion I_.

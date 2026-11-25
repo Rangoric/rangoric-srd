@@ -47,17 +47,17 @@ Bonus Languages:
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 12 years | +1d4 | +1d6 | +2d6 |
+| --------- | --------- | ----------- | ------- |
+| 12 years  | +1d4      | +1d6        | +2d6    |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 20 years | 30 years | 40 years | +1d20 years |
+| Middle Age | Old      | Venerable | Maximum Age |
+| ---------- | -------- | --------- | ----------- |
+| 20 years   | 30 years | 40 years  | +1d20 years |
 
 | Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Male | 3 ft. 7 in. | +2d4 | 65 lb. | × 3 lb. |
-| Female | 3 ft. 4 in. | +2d4 | 50 lb. | × 3 lb. |
+| ------ | ----------- | --------------- | ----------- | --------------- |
+| Male   | 3 ft. 7 in. | +2d4            | 65 lb.      | × 3 lb.         |
+| Female | 3 ft. 4 in. | +2d4            | 50 lb.      | × 3 lb.         |
 
 ### Description
 
@@ -79,16 +79,16 @@ When a specific ratfolk warren grows overcrowded and the surrounding environment
 
 A ratfolk can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Cheek Pouches\|Cheek Pouches]] | Swarming |
-| [[rangoric-srd/races/racial-traits/Cleanliness\|Cleanliness]] | Rodent empathy |
-| [[rangoric-srd/races/racial-traits/Cornered Fury\|Cornered Fury]] | Swarming |
-| [[rangoric-srd/races/racial-traits/Lab Rat\|Lab Rat]] | Tinker |
-| [[rangoric-srd/races/racial-traits/Scent (Ratfolk Trait)\|Scent]] | Tinker |
-| [[rangoric-srd/races/racial-traits/Skulk\|Skulk]] | Tinker |
+| Trait                                                                   | Replaces                                 |
+| ----------------------------------------------------------------------- | ---------------------------------------- |
+| [[rangoric-srd/races/racial-traits/Cheek Pouches\|Cheek Pouches]]       | Swarming                                 |
+| [[rangoric-srd/races/racial-traits/Cleanliness\|Cleanliness]]           | Rodent empathy                           |
+| [[rangoric-srd/races/racial-traits/Cornered Fury\|Cornered Fury]]       | Swarming                                 |
+| [[rangoric-srd/races/racial-traits/Lab Rat\|Lab Rat]]                   | Tinker                                   |
+| [[rangoric-srd/races/racial-traits/Scent (Ratfolk Trait)\|Scent]]       | Tinker                                   |
+| [[rangoric-srd/races/racial-traits/Skulk\|Skulk]]                       | Tinker                                   |
 | [[rangoric-srd/races/racial-traits/Surface Sprinter\|Surface Sprinter]] | Darkvision and the base speed of 20 feet |
-| [[rangoric-srd/races/racial-traits/Unnatural\|Unnatural]] | Rodent empathy |
+| [[rangoric-srd/races/racial-traits/Unnatural\|Unnatural]]               | Rodent empathy                           |
 
 ### Class Bonuses
 
@@ -100,7 +100,7 @@ A ratfolk gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
-| [[rangoric-srd/class-options/archetypes/gunslinger/Gulch Gunner (Archetype)\|Gulch Gunner]] | [[rangoric-srd/classes/Gunslinger\|Gunslinger]] |
-| [[rangoric-srd/class-options/archetypes/alchemist/Plague Bringer (Archetype)\|Plague Bringer]] | [[rangoric-srd/classes/Alchemist\|Alchemist]] |
+| Archetype                                                                                      | Class                                           |
+| ---------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| [[rangoric-srd/class-options/archetypes/gunslinger/Gulch Gunner (Archetype)\|Gulch Gunner]]    | [[rangoric-srd/classes/Gunslinger\|Gunslinger]] |
+| [[rangoric-srd/class-options/archetypes/alchemist/Plague Bringer (Archetype)\|Plague Bringer]] | [[rangoric-srd/classes/Alchemist\|Alchemist]]   |

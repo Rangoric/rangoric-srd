@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Feral Gnasher
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-archetypes|barbarian]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Goblin|goblins]].*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-archetypes|barbarian]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Goblin|goblins]]._
 
 Feral gnashers grow up in the wild, either raised by animals or scraping by on their own, and soon learn to fend for themselves. These barbarians often utilize pieced-together armor and fight with their sharp teeth and whatever improvised weapons are within reach. A feral gnasher has the following class features.
 

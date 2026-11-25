@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Lame Curse
 
-*An [[rangoric-srd/classes/Oracle#^oracle-curse|oracle’s curse]].*
+_An [[rangoric-srd/classes/Oracle#^oracle-curse|oracle’s curse]]._
 
 One of your legs is permanently wounded, reducing your base land speed by 10 feet if your base speed is 30 feet or more. If your base speed is less than 30 feet, your speed is reduced by 5 feet. Your speed is never reduced due to encumbrance. At 5th level, you are immune to the [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] condition (but not exhaustion). At 10th level, your speed is never reduced by armor. At 15th level, you are immune to the [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]] condition.

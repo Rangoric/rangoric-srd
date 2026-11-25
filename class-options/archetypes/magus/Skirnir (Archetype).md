@@ -25,7 +25,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Skirnir
 
-*A [[rangoric-srd/classes/Magus#^magus-archetypes|magus]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Magus#^magus-archetypes|magus]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Sometimes called a shield-vassal or shieldmaiden, the skirnir has learned to infuse his power into his shield.
 
@@ -33,7 +33,7 @@ Sometimes called a shield-vassal or shieldmaiden, the skirnir has learned to inf
 
 **Arcane Bond (Su)**: At 1st level, a skirnir gains a shield (except for a tower shield) as an [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]] item. This is identical to the [[rangoric-srd/classes/Wizard|wizard]] class ability, but the skirnir may only bond with a shield, not a familiar or other item.
 
-**Arcane Pool**: At 1st level, a skirnir can use his [[rangoric-srd/classes/Magus#^magus-arcane-pool|arcane pool]] to grant an enhancement bonus to a weapon as normal, as well as to his shield, paying the arcane pool cost separately for each. At 5th level and above, he can also add the following shield special abilities: *[[rangoric-srd/magic-items/armor-abilities/Animated|animated]]*, *[[rangoric-srd/magic-items/armor-abilities/Arrow Catching|arrow catching]]*, *[[rangoric-srd/magic-items/armor-abilities/Arrow Deflection|arrow deflection]]*, *[[rangoric-srd/magic-items/armor-abilities/Bashing|bashing]]*, *[[rangoric-srd/magic-items/armor-abilities/Blinding|blinding]]*, *[[rangoric-srd/magic-items/armor-abilities/Fortification|fortification]]* (any), *[[rangoric-srd/magic-items/armor-abilities/Reflecting|reflecting]]*, *[[rangoric-srd/magic-items/armor-abilities/Spell Resistance (Armor Special Ability)|spell resistance]]* (any).
+**Arcane Pool**: At 1st level, a skirnir can use his [[rangoric-srd/classes/Magus#^magus-arcane-pool|arcane pool]] to grant an enhancement bonus to a weapon as normal, as well as to his shield, paying the arcane pool cost separately for each. At 5th level and above, he can also add the following shield special abilities: _[[rangoric-srd/magic-items/armor-abilities/Animated|animated]]_, _[[rangoric-srd/magic-items/armor-abilities/Arrow Catching|arrow catching]]_, _[[rangoric-srd/magic-items/armor-abilities/Arrow Deflection|arrow deflection]]_, _[[rangoric-srd/magic-items/armor-abilities/Bashing|bashing]]_, _[[rangoric-srd/magic-items/armor-abilities/Blinding|blinding]]_, _[[rangoric-srd/magic-items/armor-abilities/Fortification|fortification]]_ (any), _[[rangoric-srd/magic-items/armor-abilities/Reflecting|reflecting]]_, _[[rangoric-srd/magic-items/armor-abilities/Spell Resistance (Armor Special Ability)|spell resistance]]_ (any).
 
 **Sorcerous Shield (Ex)**: At 1st level, skirnirs are proficient with all types of shields, including tower shields, and do not suffer an [[rangoric-srd/equipment/Equipment Armor#^arcane-spell-failure|arcane spell failure chance]] when casting magus spells while using a shield. They treat their magus levels as their fighter levels for the purpose of qualifying for shield-related feats. This ability replaces [[rangoric-srd/classes/Magus#^magus-spell-combat|spell combat]].
 
@@ -41,7 +41,7 @@ Sometimes called a shield-vassal or shieldmaiden, the skirnir has learned to inf
 
 **Shield Pool (Ex)**: At 4th level, as a free action, a skirnir may spend 1 point from his arcane pool to add his shield bonus to AC (not including enhancement bonuses) on a [[rangoric-srd/rules/Concentration (Check)|concentration check]] to cast defensively. He may also use a touch attack or shield bash with his shield in conjunction with any [[rangoric-srd/class-options/magus-arcana/Pool Strike (Magus Arcana)|pool strike]] magus arcana. This ability replaces [[rangoric-srd/classes/Magus#^magus-spell-recall|spell recall]].
 
-**Spellshield (Su)**: At 7th level, as a standard action, a skirnir may store a magus spell in his shield by spending 1 point from his arcane pool per level of the spell. This functions as the *[[rangoric-srd/magic-items/weapon-abilities/Spell Storing|spell storing]]* weapon special ability, but activates only on a successful shield bash by the skirnir and is not limited to spells of 3rd level or less. This ability replaces [[rangoric-srd/classes/Magus#^magus-knowledge-pool|knowledge pool]].
+**Spellshield (Su)**: At 7th level, as a standard action, a skirnir may store a magus spell in his shield by spending 1 point from his arcane pool per level of the spell. This functions as the _[[rangoric-srd/magic-items/weapon-abilities/Spell Storing|spell storing]]_ weapon special ability, but activates only on a successful shield bash by the skirnir and is not limited to spells of 3rd level or less. This ability replaces [[rangoric-srd/classes/Magus#^magus-knowledge-pool|knowledge pool]].
 
 **Shielded Spell Combat (Su)**: At 8th level, a skirnir gains the [[rangoric-srd/classes/Magus#^magus-spell-combat|spell combat]] ability, but only when wielding his bonded shield. A skirnir may use his shield hand to perform somatic components for magus spells, forfeiting the shield's bonus to AC until the beginning of his next turn; if the bonded shield is a buckler, he retains its bonus to AC. At 14th level, he gains the benefits of improved spell combat.
 

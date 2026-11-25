@@ -11,9 +11,9 @@ tags: [rangoric, rangoric/monster]
 
 # Xorn
 
-  - [[rangoric-srd/monsters/xorn/Minor Xorn|Minor Xorn]]
-  - [[rangoric-srd/monsters/xorn/Average Xorn|Average Xorn]]
-  - [[rangoric-srd/monsters/xorn/Elder Xorn|Elder Xorn]]
+- [[rangoric-srd/monsters/xorn/Minor Xorn|Minor Xorn]]
+- [[rangoric-srd/monsters/xorn/Average Xorn|Average Xorn]]
+- [[rangoric-srd/monsters/xorn/Elder Xorn|Elder Xorn]]
 
 Minor xorns are about 3 feet tall and wide and weigh about 120 pounds. Average xorns are about 5 feet tall and wide, weighing about 600 pounds. Elder xorns are about 8 feet tall and wide and weigh about 9,000 pounds.
 

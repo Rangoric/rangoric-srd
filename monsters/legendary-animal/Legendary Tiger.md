@@ -37,27 +37,27 @@ tags: [rangoric, rangoric/monster]
 
 # Legendary Tiger
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 26d8+188 (305 hp)
-  - **Initiative**: +8 (+4 Dex, +4 [[rangoric-srd/feats/Improved Initiative|Improved Initiative]])
-  - **Speed**: 50 ft.
-  - **Armor Class**: 23 (-1 size, +4 Dex, +10 natural)
-  - **Base Attack**: +19; **CMB**: +31 (+35 grapple); **CMD**: 45 (49 vs. trip)
-  - **Attack**: Claw +29 (2d6+11) melee
-  - **Full Attack**: 2 claws +29 (2d6+11) melee, bite +24 (2d8+5) melee
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Grab|improved grab]], [[rangoric-srd/monsters/abilities/Rake|rake]] 2d6+5
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Scent|Scent]]
-  - **Saves**: Fort +22, Ref +19, Will +12
-  - **Abilities**: Str 32, Dex 18, Con 24, Int 2, Wis 14, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +20 (+28 jumping), [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +18
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Athletics), [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]](x2), [[rangoric-srd/feats/Track|Track]]
-  - **Climate/Terrain**: Any forest, hill, mountains, plains, or underground
-  - **Organization**: Solitary or pair
-  - **Challenge Rating**: 10
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: 27-48 HD (Large)
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 26d8+188 (305 hp)
+- **Initiative**: +8 (+4 Dex, +4 [[rangoric-srd/feats/Improved Initiative|Improved Initiative]])
+- **Speed**: 50 ft.
+- **Armor Class**: 23 (-1 size, +4 Dex, +10 natural)
+- **Base Attack**: +19; **CMB**: +31 (+35 grapple); **CMD**: 45 (49 vs. trip)
+- **Attack**: Claw +29 (2d6+11) melee
+- **Full Attack**: 2 claws +29 (2d6+11) melee, bite +24 (2d8+5) melee
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Grab|improved grab]], [[rangoric-srd/monsters/abilities/Rake|rake]] 2d6+5
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Scent|Scent]]
+- **Saves**: Fort +22, Ref +19, Will +12
+- **Abilities**: Str 32, Dex 18, Con 24, Int 2, Wis 14, Cha 10
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +20 (+28 jumping), [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +18
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Athletics), [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]](x2), [[rangoric-srd/feats/Track|Track]]
+- **Climate/Terrain**: Any forest, hill, mountains, plains, or underground
+- **Organization**: Solitary or pair
+- **Challenge Rating**: 10
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: 27-48 HD (Large)
 
 ### Combat
 

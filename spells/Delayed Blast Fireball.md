@@ -17,10 +17,10 @@ tags: [rangoric, rangoric/spell]
 
 # Delayed Blast Fireball
 
-*Evocation \[Fire\]*
+_Evocation \[Fire\]_
 
-  - **Level**: Sor/Wiz 7
-  - **Duration**: 5 rounds or less; see text
+- **Level**: Sor/Wiz 7
+- **Duration**: 5 rounds or less; see text
 
 This spell functions like [[rangoric-srd/spells/Fireball|fireball]], except that it is more powerful and can detonate up to 5 rounds after the spell is cast. The burst of flame deals 1d6 points of fire damage per caster level (maximum 20d6).
 

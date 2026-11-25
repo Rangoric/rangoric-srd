@@ -17,4 +17,4 @@ You remain briefly translucent after losing invisibility.
 
 **Prerequisites**: [[rangoric-srd/races/Duergar|Duergar]].
 
-**Benefit**: When your *[[rangoric-srd/spells/Invisibility|invisibility]]* ends, you gain [[rangoric-srd/combat/Combat Modifiers#Concealment|concealment]] for 1 round per minute of duration the invisibility effect had remaining (minimum 1 round). This only occurs if the invisibility is from your racial spell-like ability or a spell you cast. Effects that negate invisibility negate this concealment.
+**Benefit**: When your _[[rangoric-srd/spells/Invisibility|invisibility]]_ ends, you gain [[rangoric-srd/combat/Combat Modifiers#Concealment|concealment]] for 1 round per minute of duration the invisibility effect had remaining (minimum 1 round). This only occurs if the invisibility is from your racial spell-like ability or a spell you cast. Effects that negate invisibility negate this concealment.

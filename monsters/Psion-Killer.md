@@ -58,7 +58,7 @@ Full **Attack:** 2 slams +20 melee (2d10+10)   
 Treasure: None     
 **Alignment:** Always neutral     
 **Advancement:** 16-21 HD (Large); 22-45 (Huge)     
-**Level Adjustment:** -     
+**Level Adjustment:** -   
 
 A psion-killer (also called a crystal golem) is 9-1/2 feet tall and weighs around 2,500 pounds. Its body is composed of sharply faceted crystal.
 

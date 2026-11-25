@@ -18,13 +18,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Gravity Blast
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#^simple-blasts|simple blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#^simple-blasts|simple blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Void Element|void]]
-  - **Type**: simple blast (Sp)
-  - **Level**: —
-  - **Burn**: 0
-  - **Blast Type**: physical
-  - **Damage**: bludgeoning
+- **Element**: [[rangoric-srd/class-options/elements/Void Element|void]]
+- **Type**: simple blast (Sp)
+- **Level**: —
+- **Burn**: 0
+- **Blast Type**: physical
+- **Damage**: bludgeoning
 
 You manipulate gravity to distort and buffet your foe’s body.

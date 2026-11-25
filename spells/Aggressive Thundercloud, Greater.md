@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # Aggressive Thundercloud, Greater
 
-*Evocation \[Electricity, Sonic\]*
+_Evocation \[Electricity, Sonic\]_
 
-  - **Level**: Drd 4, Hun 4, Mag 4, Sor/Wiz 4, Wit 4
-  - **Components**: V, S, M/DF (a piece of a tree struck by lightning)
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Effect**: 5-ft.-diameter sphere
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Reflex negates and Fortitude negates (see text)
-  - **Spell Resistance**: Yes
+- **Level**: Drd 4, Hun 4, Mag 4, Sor/Wiz 4, Wit 4
+- **Components**: V, S, M/DF (a piece of a tree struck by lightning)
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Effect**: 5-ft.-diameter sphere
+- **Duration**: 1 round/level
+- **Saving Throw**: Reflex negates and Fortitude negates (see text)
+- **Spell Resistance**: Yes
 
-This spell functions as *[[rangoric-srd/spells/Aggressive Thundercloud|aggressive thundercloud]]*, except it deals 6d6 points of electricity damage to any creature it strikes. The first creature damaged by the cloud is also stunned for 1 round (Fortitude negates); this is a sonic effect.
+This spell functions as _[[rangoric-srd/spells/Aggressive Thundercloud|aggressive thundercloud]]_, except it deals 6d6 points of electricity damage to any creature it strikes. The first creature damaged by the cloud is also stunned for 1 round (Fortitude negates); this is a sonic effect.

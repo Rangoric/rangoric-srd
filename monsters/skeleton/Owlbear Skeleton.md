@@ -37,24 +37,24 @@ tags: [rangoric, rangoric/monster]
 
 # Owlbear Skeleton
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
-  - **Hit Dice**: 5d12 (32 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 13 (–1 size, +2 Dex, +2 natural), touch 11, flat-footed 11
-  - **Base Attack**: +2; **CMB**: +8; **CMD**: 20
-  - **Attack**: Claw +6 melee (1d6+5)
-  - **Full Attack**: 2 claws +6 melee (1d6+5) and bite +1 melee (1d8+2)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/bludgeoning, darkvision 60 ft., immunity to cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
-  - **Saves**: Fort +1, Ref +3, Will +4
-  - **Abilities**: Str 21, Dex 14, Con —, Int —, Wis 10, Cha 1
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
-  - **Environment**: Temperate forests
-  - **Organization**: Any
-  - **Challenge Rating**: 2
-  - **Treasure**: None
-  - **Alignment**: Always neutral evil
-  - **Advancement**: 6–8 HD (Large); 9–15 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
+- **Hit Dice**: 5d12 (32 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 13 (–1 size, +2 Dex, +2 natural), touch 11, flat-footed 11
+- **Base Attack**: +2; **CMB**: +8; **CMD**: 20
+- **Attack**: Claw +6 melee (1d6+5)
+- **Full Attack**: 2 claws +6 melee (1d6+5) and bite +1 melee (1d8+2)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/bludgeoning, darkvision 60 ft., immunity to cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
+- **Saves**: Fort +1, Ref +3, Will +4
+- **Abilities**: Str 21, Dex 14, Con —, Int —, Wis 10, Cha 1
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
+- **Environment**: Temperate forests
+- **Organization**: Any
+- **Challenge Rating**: 2
+- **Treasure**: None
+- **Alignment**: Always neutral evil
+- **Advancement**: 6–8 HD (Large); 9–15 HD (Huge)
+- **Level Adjustment**: —

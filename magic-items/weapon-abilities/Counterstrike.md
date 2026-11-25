@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Counterstrike
 
-The *counterstrike* ability may be bestowed upon any light weapon. Once per round, when an opponent in melee with the wielder of a *counterstrike* weapon attacks and misses, the wielder may immediately launch an attack of opportunity against him with the *counterstrike* weapon— even if he has already attacked in the round.
+The _counterstrike_ ability may be bestowed upon any light weapon. Once per round, when an opponent in melee with the wielder of a _counterstrike_ weapon attacks and misses, the wielder may immediately launch an attack of opportunity against him with the _counterstrike_ weapon— even if he has already attacked in the round.
 
-Strong transmutation; CL 12th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Haste|haste]]*; Price +3 bonus.
+Strong transmutation; CL 12th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Haste|haste]]_; Price +3 bonus.

@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/overview]
 
 ### Wilder
 
-Alignment: Any.  
+Alignment: Any.
 
 Hit Die: d6.
 
@@ -27,13 +27,13 @@ Hit Die: d6.
 
 ###### Class Skills
 
-The wilder’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Meditation|Meditation]]\* (Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Psionics (Skill)|Psionics]]\* (Int), and [[rangoric-srd/skills/Sense Motive|Sense Motive]](Wis).  
+The wilder’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Meditation|Meditation]]\* (Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Psionics (Skill)|Psionics]]\* (Int), and [[rangoric-srd/skills/Sense Motive|Sense Motive]](Wis).
 
-\*New skill or expanded use of existing skill.  
+\*New skill or expanded use of existing skill.
 
-Skill Points at Each Level: 4 + Int modifier.  
+Skill Points at Each Level: 4 + Int modifier.
 
-Table: The Wilder  
+Table: The Wilder
 
 |       |                                   |                  |              |                           |
 | ----- | --------------------------------- | ---------------- | ------------ | ------------------------- |
@@ -61,7 +61,7 @@ Table: The Wilder
 
 ###### Class Features
 
-All the following are class features of the wilder.  
+All the following are class features of the wilder.
 
 Weapon and Armor Proficiency: Wilders are proficient with all simple weapons, with light armor, and with shields (except tower shields).
 

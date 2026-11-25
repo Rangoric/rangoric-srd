@@ -24,18 +24,18 @@ tags: [rangoric, rangoric/star]
 
 # Star of Fire
 
-*[[rangoric-srd/rules/star magic/Star Magic|Star]]*
+_[[rangoric-srd/rules/star magic/Star Magic|Star]]_
 
-  - **Call Level**: 1st ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
-  - **Aspect**: Ascendant in summer, descendant in winter, on the horizon in spring and autumn ([[rangoric-srd/rules/star magic/Star Magic#^seasons|seasons]])
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: One object
-  - **Area**: 15-ft.-radius around the object (see text)
-  - **Duration**: 12 hours
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Call Level**: 1st ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
+- **Aspect**: Ascendant in summer, descendant in winter, on the horizon in spring and autumn ([[rangoric-srd/rules/star magic/Star Magic#^seasons|seasons]])
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: One object
+- **Area**: 15-ft.-radius around the object (see text)
+- **Duration**: 12 hours
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 The object you touch gives off as much warmth as a campfire for 12 hours. It sheds no light and is safe to touch.
 

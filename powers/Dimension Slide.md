@@ -28,7 +28,7 @@ Manifesting Time: 1 standard action
 Range: Close (25 ft. + 5 ft./2 levels)  
 Target: You; see text  
 Duration: Instantaneous  
-Power Points: 5  
+Power Points: 5
 
 You instantly transfer yourself from your current location to any other spot within range to which you have line of sight. You can bring along possessions that amount to as much as a medium load, including living creatures that weigh as much as 20 pounds. Movement caused by the use of dimension slide does not provoke attacks of opportunity.
 

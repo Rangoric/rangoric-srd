@@ -41,28 +41,28 @@ The cavalier’s class skills (and the key ability for each skill) are [[rangori
 
 **Table: The Cavalier** ^table-the-cavalier
 
-| Level | Special |
-| --- | --- |
-| 1st | Challenge 1/day, mount, order, tactician |
-| 2nd | Order ability |
-| 3rd | Cavalier's charge |
-| 4th | Challenge 2/day, expert trainer |
-| 5th | Banner |
-| 6th | Bonus feat |
-| 7th | Challenge 3/day |
-| 8th | Order ability |
-| 9th | Greater tactician |
-| 10th | Challenge 4/day |
-| 11th | Mighty charge |
-| 12th | Bonus feat, demanding challenge |
-| 13th | Challenge 5/day |
-| 14th | Greater banner |
-| 15th | Order ability |
-| 16th | Challenge 6/day |
-| 17th | Master tactician |
-| 18th | Bonus feat |
-| 19th | Challenge 7/day |
-| 20th | Supreme charge |
+| Level | Special                                  |
+| ----- | ---------------------------------------- |
+| 1st   | Challenge 1/day, mount, order, tactician |
+| 2nd   | Order ability                            |
+| 3rd   | Cavalier's charge                        |
+| 4th   | Challenge 2/day, expert trainer          |
+| 5th   | Banner                                   |
+| 6th   | Bonus feat                               |
+| 7th   | Challenge 3/day                          |
+| 8th   | Order ability                            |
+| 9th   | Greater tactician                        |
+| 10th  | Challenge 4/day                          |
+| 11th  | Mighty charge                            |
+| 12th  | Bonus feat, demanding challenge          |
+| 13th  | Challenge 5/day                          |
+| 14th  | Greater banner                           |
+| 15th  | Order ability                            |
+| 16th  | Challenge 6/day                          |
+| 17th  | Master tactician                         |
+| 18th  | Bonus feat                               |
+| 19th  | Challenge 7/day                          |
+| 20th  | Supreme charge                           |
 
 ###### Class Features
 
@@ -88,7 +88,7 @@ A cavalier cannot change his order without undertaking a lengthy process to dedi
 
 **Tactician (Ex)**: At 1st level, a cavalier receives a [[rangoric-srd/feats/Feats Overview#^teamwork-feats|teamwork feat]] as a bonus feat. He must meet the prerequisites for this feat. As a standard action, the cavalier can grant this feat to all allies within 30 feet who can see and hear him. Allies retain the use of this bonus feat for 3 rounds plus 1 round for every two levels the cavalier possesses. Allies do not need to meet the prerequisites of these bonus feats. The cavalier can use this ability once per day at 1st level, plus one additional time per day at 5th level and for every 5 levels thereafter. ^cavalier-tactician
 
-The teamwork feats are the feats with the *teamwork* [[rangoric-srd/Tag Register|tag]]; see [[rangoric-srd/feats/Feats Overview#Teamwork Feats|Teamwork Feats]] for how they work.
+The teamwork feats are the feats with the _teamwork_ [[rangoric-srd/Tag Register|tag]]; see [[rangoric-srd/feats/Feats Overview#Teamwork Feats|Teamwork Feats]] for how they work.
 
 **Cavalier's Charge (Ex)**: At 3rd level, a cavalier learns to make more accurate charge attacks while mounted. The cavalier receives a +4 bonus on melee attack rolls on a charge while mounted (instead of the normal +2). In addition, the cavalier does not suffer any penalty to his AC after making a charge attack while mounted. ^cavalier-cavaliers-charge
 

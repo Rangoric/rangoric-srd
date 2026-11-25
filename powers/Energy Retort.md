@@ -33,7 +33,7 @@ Psychokinesis \[see text\]
 **Duration:** 1 min./level  
 **Saving Throw:** Reflex half or Fortitude half; see text  
 **Power Resistance:** Yes  
-**Power Points:** 5  
+**Power Points:** 5
 
 Upon manifesting this power, you choose cold, electricity, fire, or sonic. You weave a field of potential energy of the chosen type around your body. The first successful attack made against you in each round during the power’s duration prompts a response from the field without any effort on your part. The attack may be physical, the effect of a power, or the effect of a spell (including spell-like, supernatural, and extraordinary abilities). An “ectoburst” discharges from the field, targeting the source of the attack and dealing 4d6 points of damage of the chosen energy type. To be affected, a target must be within close range, you must have line of sight and line of effect to it, and you must be able to identify the source of the attack. The ectoburst is a ranged touch attack made using your base attack bonus plus your key ability modifier for your manifesting class.
 

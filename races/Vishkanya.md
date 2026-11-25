@@ -26,7 +26,7 @@ Perks:
 - Limber: +2 racial bonus on [[rangoric-srd/skills/Escape Artist|Escape Artist]] and [[rangoric-srd/skills/Stealth|Stealth]] checks.
 - Poison Resistance: A vishkanya has a racial bonus on saving throws against poison equal to its character level.
 - Poison Use: Vishkanyas have [[rangoric-srd/races/racial-traits/Poison Use|poison use]].
-- Toxic: A number of times per day equal to his Constitution modifier (minimum 1/day), a vishkanya can envenom a weapon that he wields with his toxic saliva or blood (using blood requires the vishkanya to be injured when he uses this ability). Applying venom in this way is a swift action. *Vishkanya Venom*: Injury; *save* Fort DC 10 + 1/2 the vishkanya's Hit Dice + the vishkanya's Constitution modifier; *frequency* 1/round for 6 rounds; *effect* 1d2 Dex; *cure* 1 save. How poisons work is under [[rangoric-srd/rules/Afflictions#Poison|poison]].
+- Toxic: A number of times per day equal to his Constitution modifier (minimum 1/day), a vishkanya can envenom a weapon that he wields with his toxic saliva or blood (using blood requires the vishkanya to be injured when he uses this ability). Applying venom in this way is a swift action. _Vishkanya Venom_: Injury; _save_ Fort DC 10 + 1/2 the vishkanya's Hit Dice + the vishkanya's Constitution modifier; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Dex; _cure_ 1 save. How poisons work is under [[rangoric-srd/rules/Afflictions#Poison|poison]].
 - Weapon Familiarity: Vishkanyas are always proficient with [[rangoric-srd/equipment/weapons/Blowgun|blowguns]], [[rangoric-srd/equipment/weapons/Kukri|kukri]], and [[rangoric-srd/equipment/weapons/Shuriken|shuriken]].
 
 Languages:
@@ -48,17 +48,17 @@ Bonus Languages:
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 15 years | +1d4 | +1d6 | +2d6 |
+| --------- | --------- | ----------- | ------- |
+| 15 years  | +1d4      | +1d6        | +2d6    |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 35 years | 53 years | 70 years | +2d20 years |
+| Middle Age | Old      | Venerable | Maximum Age |
+| ---------- | -------- | --------- | ----------- |
+| 35 years   | 53 years | 70 years  | +2d20 years |
 
 | Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Male | 5 ft. 3 in. | +2d8 | 85 lb. | × 5 lb. |
-| Female | 5 ft. 1 in. | +2d8 | 75 lb. | × 5 lb. |
+| ------ | ----------- | --------------- | ----------- | --------------- |
+| Male   | 5 ft. 3 in. | +2d8            | 85 lb.      | × 5 lb.         |
+| Female | 5 ft. 1 in. | +2d8            | 75 lb.      | × 5 lb.         |
 
 ### Description
 
@@ -68,9 +68,9 @@ Vishkanyas are a race of exotic humanoids with poisonous blood. Possessed of an 
 
 A vishkanya can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Sensual\|Sensual]] | Keen senses |
+| Trait                                                                     | Replaces         |
+| ------------------------------------------------------------------------- | ---------------- |
+| [[rangoric-srd/races/racial-traits/Sensual\|Sensual]]                     | Keen senses      |
 | [[rangoric-srd/races/racial-traits/Subtle Appearance\|Subtle Appearance]] | Low-light vision |
 
 ### Class Bonuses
@@ -83,6 +83,6 @@ A vishkanya gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonus
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
+| Archetype                                                                                      | Class                                 |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------- |
 | [[rangoric-srd/class-options/archetypes/rogue/Deadly Courtesan (Archetype)\|Deadly Courtesan]] | [[rangoric-srd/classes/Rogue\|Rogue]] |

@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/word-of-power]
 
 # Sense Magic
 
-*One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Detection Words|Detection group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]].*
+_One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Detection Words|Detection group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]]._
 
 **School** divination
 
@@ -29,4 +29,4 @@ tags: [rangoric, rangoric/word-of-power]
 
 **Target Restrictions** cone
 
-A wordspell with this effect word detects magic auras. By concentrating each round, the caster can determine the number and location of each aura in the target area. He can make an [[rangoric-srd/skills/Arcana|Arcana]] skill check to determine the school of each aura (one check per aura, the DC of this check is 15 + the spell level or 15 + 1/2 the caster level for a nonspell effect). If the aura radiates from a magic item, the caster can attempt to identify the item's properties as if using *[[rangoric-srd/spells/Detect Magic|detect magic]]* (see [[rangoric-srd/skills/Mysticism|Mysticism]]). If the aura emanates from a spell of 7th level or higher, or is a nonspell effect with a caster level of 12th or higher, the caster knows that the aura is strong, even if the Arcana check to identify the school is unsuccessful.
+A wordspell with this effect word detects magic auras. By concentrating each round, the caster can determine the number and location of each aura in the target area. He can make an [[rangoric-srd/skills/Arcana|Arcana]] skill check to determine the school of each aura (one check per aura, the DC of this check is 15 + the spell level or 15 + 1/2 the caster level for a nonspell effect). If the aura radiates from a magic item, the caster can attempt to identify the item's properties as if using _[[rangoric-srd/spells/Detect Magic|detect magic]]_ (see [[rangoric-srd/skills/Mysticism|Mysticism]]). If the aura emanates from a spell of 7th level or higher, or is a nonspell effect with a caster level of 12th or higher, the caster knows that the aura is strong, even if the Arcana check to identify the school is unsuccessful.

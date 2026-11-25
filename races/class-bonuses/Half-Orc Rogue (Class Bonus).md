@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Half-Orc Rogue
 
-*A [[rangoric-srd/races/Half-Orc|half-orc]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Rogue#^rogue-class-bonuses|rogue]] level.*
+_A [[rangoric-srd/races/Half-Orc|half-orc]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Rogue#^rogue-class-bonuses|rogue]] level._
 
 Add +1/3 on critical hit confirmation rolls made while using [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] (maximum bonus of +5). This bonus does not stack with [[rangoric-srd/feats/Critical Focus|Critical Focus]].

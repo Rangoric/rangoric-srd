@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Frog Domain
 
-*A druid domain, which a [[rangoric-srd/classes/Druid|druid]] can take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]; clerics can’t take it.*
+_A druid domain, which a [[rangoric-srd/classes/Druid|druid]] can take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]; clerics can’t take it._
 
 ## Granted Powers
 
@@ -26,14 +26,14 @@ You venerate the elder amphibians that first brought life to land.
 
 ## Domain Spells
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Jump (Spell)\|Jump]] (M) | Subject gets bonus on Athletics checks. |
-| 2nd | [[rangoric-srd/spells/Delay Poison\|Delay Poison]] | Stops poison from harming subject for 1 hour/level. |
-| 3rd | [[rangoric-srd/spells/Lily Pad Stride\|Lily Pad Stride]] (M) | Walk across water on moving lily pads. |
-| 4th | [[rangoric-srd/spells/Shout\|Shout]] | Deafens all within cone and deals 5d6 sonic damage. |
-| 5th | [[rangoric-srd/spells/Blessing of the Salamander\|Blessing of the Salamander]] | Subject gets fast healing 5, fire resistance 20, +2 CMD. |
-| 6th | [[rangoric-srd/spells/Confusion\|Confusion]] | Subjects behave oddly for 1 round/level. |
-| 7th | [[rangoric-srd/spells/Animal Shapes\|Animal Shapes]] (amphibians only) | One ally/level polymorphs into chosen animal. |
-| 8th | [[rangoric-srd/spells/Shout, Greater\|Greater Shout]] (F) | Devastating yell deals 10d6 sonic damage; stuns creatures, damages objects. |
-| 9th | [[rangoric-srd/spells/Summon Froghemoth\|Summon Froghemoth]] | Summon a froghemoth. |
+| Level | Spell                                                                          | Brief Description                                                           |
+| ----- | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Jump (Spell)\|Jump]] (M)                                 | Subject gets bonus on Athletics checks.                                     |
+| 2nd   | [[rangoric-srd/spells/Delay Poison\|Delay Poison]]                             | Stops poison from harming subject for 1 hour/level.                         |
+| 3rd   | [[rangoric-srd/spells/Lily Pad Stride\|Lily Pad Stride]] (M)                   | Walk across water on moving lily pads.                                      |
+| 4th   | [[rangoric-srd/spells/Shout\|Shout]]                                           | Deafens all within cone and deals 5d6 sonic damage.                         |
+| 5th   | [[rangoric-srd/spells/Blessing of the Salamander\|Blessing of the Salamander]] | Subject gets fast healing 5, fire resistance 20, +2 CMD.                    |
+| 6th   | [[rangoric-srd/spells/Confusion\|Confusion]]                                   | Subjects behave oddly for 1 round/level.                                    |
+| 7th   | [[rangoric-srd/spells/Animal Shapes\|Animal Shapes]] (amphibians only)         | One ally/level polymorphs into chosen animal.                               |
+| 8th   | [[rangoric-srd/spells/Shout, Greater\|Greater Shout]] (F)                      | Devastating yell deals 10d6 sonic damage; stuns creatures, damages objects. |
+| 9th   | [[rangoric-srd/spells/Summon Froghemoth\|Summon Froghemoth]]                   | Summon a froghemoth.                                                        |

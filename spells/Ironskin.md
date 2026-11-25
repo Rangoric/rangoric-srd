@@ -35,14 +35,14 @@ tags: [rangoric, rangoric/spell]
 
 # Ironskin
 
-*Transmutation \[Earth\]*
+_Transmutation \[Earth\]_
 
-  - **Level**: Alc 2, Apl 2, Blr 2, Clr 2, Drd 2, Hun 2, Pal 2, Psy 2, Rgr 2, Wit 2
-  - **Components**: V, S, DF/M (a pinch of forge soot)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 minute/level (D; see text)
+- **Level**: Alc 2, Apl 2, Blr 2, Clr 2, Drd 2, Hun 2, Pal 2, Psy 2, Rgr 2, Wit 2
+- **Components**: V, S, DF/M (a pinch of forge soot)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 minute/level (D; see text)
 
 Your skin hardens and takes on the color and texture of rough iron. You gain a +4 enhancement bonus to your existing natural armor bonus (if you do not have a natural armor bonus, you are considered to have an effective natural armor bonus of +0). This enhancement bonus increases by 1 for every 4 caster levels above 4th, to a maximum of +7 at 15th level.
 

@@ -18,14 +18,14 @@ tags: [rangoric, rangoric/class-option]
 
 # Thunderstorm Blast
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#^composite-blasts|composite blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#^composite-blasts|composite blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Air Element|air]]
-  - **Type**: composite blast (Sp)
-  - **Level**: —
-  - **Burn**: 2
-  - **Prerequisites**: [[rangoric-srd/classes/Kineticist#^kineticist-elemental-focus|primary element]] ([[rangoric-srd/class-options/elements/Air Element|air]]), [[rangoric-srd/classes/Kineticist#^kineticist-expanded-element|expanded element]] ([[rangoric-srd/class-options/elements/Air Element|air]])
-  - **Blast Type**: physical
-  - **Damage**: half bludgeoning, half electricity
+- **Element**: [[rangoric-srd/class-options/elements/Air Element|air]]
+- **Type**: composite blast (Sp)
+- **Level**: —
+- **Burn**: 2
+- **Prerequisites**: [[rangoric-srd/classes/Kineticist#^kineticist-elemental-focus|primary element]] ([[rangoric-srd/class-options/elements/Air Element|air]]), [[rangoric-srd/classes/Kineticist#^kineticist-expanded-element|expanded element]] ([[rangoric-srd/class-options/elements/Air Element|air]])
+- **Blast Type**: physical
+- **Damage**: half bludgeoning, half electricity
 
 You batter a single foe with a gust of air crackling with electricity.

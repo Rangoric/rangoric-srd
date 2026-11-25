@@ -20,12 +20,12 @@ The game master can also apply a penalty to future rolls in the complex check if
 
 **Table: Example Complex Skill Checks**
 
-| Successes Required | Complexity | Example (Skill)                                                                      |
-| ------------------ | ---------- | ------------------------------------------------------------------------------------ |
-| 2 or 3             | Slight     | Training a riding horse ([[rangoric-srd/skills/Animal Handling\|Animal Handling]])     |
+| Successes Required | Complexity | Example (Skill)                                                                    |
+| ------------------ | ---------- | ---------------------------------------------------------------------------------- |
+| 2 or 3             | Slight     | Training a riding horse ([[rangoric-srd/skills/Animal Handling\|Animal Handling]]) |
 | 4 to 6             | Ordinary   | Making a crossbow ([[rangoric-srd/skills/Craft\|Craft]] \[weaponsmithing\])        |
-| 7 to 9             | Good       | Bypassing a fiendish trap ([[rangoric-srd/skills/Engineering\|Engineering]]) |
-| 10 or more         | Amazing    | Pick an amazing lock (Sleight of Hand)                                                     |
+| 7 to 9             | Good       | Bypassing a fiendish trap ([[rangoric-srd/skills/Engineering\|Engineering]])       |
+| 10 or more         | Amazing    | Pick an amazing lock (Sleight of Hand)                                             |
 
 Each die roll is one portion of a complex skill check, and each die roll in the attempt represents at least 1 round of effort (it might represent more time, depending on the skill or task in question).
 
@@ -92,7 +92,7 @@ For example, someone has an [[rangoric-srd/skills/Engineering|Engineering]] modi
 
 To determine the likelihood of overall success on a given complex skill check, compare the number that the character must roll on a d20 (obtained by subtracting the character's skill modifier from the check's DC) to the number of successes on [[#^table-chance-for-success|Table: Chance for Success]]. By using this table to guide the choice of DC and number of successes, the game master can give two checks with an equal likelihood of success vastly different flavors.
 
- ^table-chance-for-success
+^table-chance-for-success
 
 ##### Complex Skill Use
 
@@ -108,15 +108,15 @@ Normal use of the [[rangoric-srd/skills/Acrobatics|Acrobatics]] skill does not l
 
 Complex skill checks work well with the extended training times that some uses of the [[rangoric-srd/skills/Animal Handling|Animal Handling]] skill require. When an animal is trained for a general purpose such as combat riding or hunting, it requires several weeks of work and one simple Animal Handling check under the normal rules. With the complex skill checks variant, this use of the skill always involves a complex skill check, with each die roll representing one week of training time. Rolling three failed results during the complex check means that the entire attempt fails and that training must begin again. **Table: Complex Animal Handling Checks**
 
-| General Purpose | Time    | DC | Successes |
-| --------------- | ------- | -- | --------- |
-| Combat riding   | 6 weeks | 20 | 6         |
-| Fighting        | 3 weeks | 20 | 3         |
-| Guarding        | 4 weeks | 20 | 4         |
-| Heavy labor     | 2 weeks | 15 | 2         |
-| Hunting         | 6 weeks | 20 | 6         |
-| Performance     | 4 weeks | 15 | 4         |
-| Riding          | 3 weeks | 15 | 3         |
+| General Purpose | Time    | DC  | Successes |
+| --------------- | ------- | --- | --------- |
+| Combat riding   | 6 weeks | 20  | 6         |
+| Fighting        | 3 weeks | 20  | 3         |
+| Guarding        | 4 weeks | 20  | 4         |
+| Heavy labor     | 2 weeks | 15  | 2         |
+| Hunting         | 6 weeks | 20  | 6         |
+| Performance     | 4 weeks | 15  | 4         |
+| Riding          | 3 weeks | 15  | 3         |
 
 Normal use of the [[rangoric-srd/skills/Animal Handling|Animal Handling]] skill does not lend itself to complex skill checks. A character performing a lengthy demonstration of difficult or trick riding, or competing in a race, might have to make a complex Animal Handling check to pull off the entire show or finish the race; one roll per round is probably appropriate.
 
@@ -134,11 +134,11 @@ Since one [[rangoric-srd/skills/Athletics|Athletics]] check represents one jump 
 
 The game master might rule that a complex [[rangoric-srd/skills/Athletics|Athletics]] check allows a character to successfully swim for a longer period of time than 1 round. The amount of time each successful complex skill check allows the character to swim, along with the required number of successes and the DC, is given in [[rangoric-srd/unearthed-arcana/Complex Skill Checks|Table: Complex Swim Checks]]. (The DC is slightly higher than for simple round-by-round checks to reflect the fact that the character is making many fewer checks.) **Table: Complex Athletics Checks**
 
-| Water Condition | Successes | Time       | DC |
-| --------------- | --------- | ---------- | -- |
-| Calm water      | 2         | 1 hour     | 12 |
-| Rough water     | 4         | 30 minutes | 18 |
-| Stormy water    | 8         | 10 minutes | 25 |
+| Water Condition | Successes | Time       | DC  |
+| --------------- | --------- | ---------- | --- |
+| Calm water      | 2         | 1 hour     | 12  |
+| Rough water     | 4         | 30 minutes | 18  |
+| Stormy water    | 8         | 10 minutes | 25  |
 
 ###### Concentration
 
@@ -180,12 +180,12 @@ A trap that requires a complex skill check may have a higher cost and Challenge 
 
 **Table: Complex Engineering Checks**
 
-| Feature             | Cost Modifier                   | CR Modifier                   |
-| ------------------- | ------------------------------- | ----------------------------- |
+| Feature             | Cost Modifier                  | CR Modifier                   |
+| ------------------- | ------------------------------ | ----------------------------- |
 | 3 or more successes | +250 gp per additional success | — (up to 6) or +1 (7 or more) |
 | 3 failures          | +0 gp                          | —                             |
-| 2 failures          | +500 gp                        | +1                           |
-| 1 failure           | +1,500 gp                      | +1                           |
+| 2 failures          | +500 gp                        | +1                            |
+| 1 failure           | +1,500 gp                      | +1                            |
 
 ###### Escape Artist
 
@@ -255,17 +255,17 @@ Although typical use of the [[rangoric-srd/skills/Sense Motive|Sense Motive]] sk
 
 Although normal locks require only one [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] check, the game master is free to include locks or a series of locks that requires a complex check to open. (He can also rule that each casting of a [[rangoric-srd/spells/Knock|knock]] spell counts as six successes toward opening a complex lock.) Particulars for complex locks are given in this table: **Table: Complex Open Locks Checks**
 
-| Lock Quality | DC | Successes | Price  |
-| ------------ | -- | --------- | ------ |
-| Very simple  | 20 | 2         | 25 gp  |
-| Very simple  | 20 | 3         | 30 gp  |
-| Average      | 25 | 4         | 50 gp  |
-| Average      | 25 | 5         | 60 gp  |
-| Average      | 25 | 6         | 70 gp  |
-| Good         | 30 | 7         | 100 gp |
-| Good         | 30 | 8         | 120 gp |
-| Good         | 30 | 9         | 140 gp |
-| Amazing      | 40 | 10        | 200 gp |
+| Lock Quality | DC  | Successes | Price  |
+| ------------ | --- | --------- | ------ |
+| Very simple  | 20  | 2         | 25 gp  |
+| Very simple  | 20  | 3         | 30 gp  |
+| Average      | 25  | 4         | 50 gp  |
+| Average      | 25  | 5         | 60 gp  |
+| Average      | 25  | 6         | 70 gp  |
+| Good         | 30  | 7         | 100 gp |
+| Good         | 30  | 8         | 120 gp |
+| Good         | 30  | 9         | 140 gp |
+| Amazing      | 40  | 10        | 200 gp |
 
 Normal use of the [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] skill does not lend itself to complex skill checks. A character performing a lengthy demonstration of legerdemain (such as a magic show relying on sleight of hand) might have to make a complex Sleight of Hand check to pull off the entire show, one roll per 15 minutes is probably appropriate.
 

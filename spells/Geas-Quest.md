@@ -29,12 +29,12 @@ tags: [rangoric, rangoric/spell]
 
 # Geas/Quest
 
-*Enchantment (Compulsion) \[Language-Dependent, Mind-Affecting\]*
+_Enchantment (Compulsion) \[Language-Dependent, Mind-Affecting\]_
 
-  - **Level**: Brd 6, Clr 6, Enchantment 7, Inq 5, Mes 6, Psy 6, Skd 6, Sor/Wiz 6, Wit 6
-  - **Casting Time**: 10 minutes
-  - **Target**: One living creature
-  - **Saving Throw**: None
+- **Level**: Brd 6, Clr 6, Enchantment 7, Inq 5, Mes 6, Psy 6, Skd 6, Sor/Wiz 6, Wit 6
+- **Casting Time**: 10 minutes
+- **Target**: One living creature
+- **Saving Throw**: None
 
 This spell functions similarly to [[rangoric-srd/spells/Geas, Lesser|lesser geas]], except that it affects a creature of any HD and allows no saving throw.
 

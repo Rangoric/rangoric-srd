@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Leggings of Speed +40
 
-These simple leather strips allow their wearer to move with unusual quickness. These leggings increase the wearer’s base speed by the speed indicated, and increase his Dexterity by an enhancement bonus of +2. These leggings do not stack with *[[rangoric-srd/magic-items/wondrous-items/Boots of Striding and Springing|boots of striding and springing]]* or other magical enhancements to a creature’s speed.
+These simple leather strips allow their wearer to move with unusual quickness. These leggings increase the wearer’s base speed by the speed indicated, and increase his Dexterity by an enhancement bonus of +2. These leggings do not stack with _[[rangoric-srd/magic-items/wondrous-items/Boots of Striding and Springing|boots of striding and springing]]_ or other magical enhancements to a creature’s speed.
 
-Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Haste|haste]]*, *[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]*, *[[rangoric-srd/spells/Jump (Spell)|jump]]*; Price 72,000 gp; Weight 1 lb.
+Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Haste|haste]]_, _[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]_, _[[rangoric-srd/spells/Jump (Spell)|jump]]_; Price 72,000 gp; Weight 1 lb.

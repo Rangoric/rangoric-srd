@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Huldra
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
-  - **Hit Dice**: 7d6+14 (38 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 17 (+3 Dex, +1 dodge, +3 natural), touch 14, flat-footed 13
-  - **Base Attack**: +3; **CMB**: +7; **CMD**: 21
-  - **Attack**: Slam +7 melee (1d6+4) or tail slap +12 melee (1d6+4 plus 1d4 Cha damage)
-  - **Full Attack**: Slam +7 melee (1d6+4) and tail slap +7 melee (1d6+4 plus 1d4 Cha damage)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Lashing Tail|Lashing tail]], [[rangoric-srd/monsters/abilities/Manipulate Luck|manipulate luck]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect snares and pits, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 3 (acid or fire), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to charm effects and compulsion effects, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10
-  - **Saves**: Fort +4, Ref +8, Will +7
-  - **Abilities**: Str 19, Dex 17, Con 14, Int 12, Wis 14, Cha 19
-  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Emulation|Emulation]] +14, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +13, [[rangoric-srd/skills/Imitation|Imitation]] +14, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +13
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
-  - **Environment**: Cold forests or mountains
-  - **Organization**: Solitary, pair, or family (3–9)
-  - **Challenge Rating**: 4
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
+- **Hit Dice**: 7d6+14 (38 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 17 (+3 Dex, +1 dodge, +3 natural), touch 14, flat-footed 13
+- **Base Attack**: +3; **CMB**: +7; **CMD**: 21
+- **Attack**: Slam +7 melee (1d6+4) or tail slap +12 melee (1d6+4 plus 1d4 Cha damage)
+- **Full Attack**: Slam +7 melee (1d6+4) and tail slap +7 melee (1d6+4 plus 1d4 Cha damage)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Lashing Tail|Lashing tail]], [[rangoric-srd/monsters/abilities/Manipulate Luck|manipulate luck]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect snares and pits, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 3 (acid or fire), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to charm effects and compulsion effects, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10
+- **Saves**: Fort +4, Ref +8, Will +7
+- **Abilities**: Str 19, Dex 17, Con 14, Int 12, Wis 14, Cha 19
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Emulation|Emulation]] +14, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +13, [[rangoric-srd/skills/Imitation|Imitation]] +14, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +13
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
+- **Environment**: Cold forests or mountains
+- **Organization**: Solitary, pair, or family (3–9)
+- **Challenge Rating**: 4
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Huldras are fey creatures that legend claims were originally created by troll witches to lure humans into their clutches. Every huldra is aware of this tale, finds it insulting, and denies it at length—yet the legend persists. There's no greater way to inflame a huldra to anger than to speak about this myth (especially while expressing distrust or contempt for the huldra), and the huldras' hatred of all things trollish is well known among scholars of the fey and those who regularly encounter the less common fey creatures.
 
@@ -69,7 +69,7 @@ Huldras sometimes become enamored of woodcutters or others who adventure outdoor
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +8): Constant—*[[rangoric-srd/spells/Detect Snares and Pits|detect snares and pits]]*, *[[rangoric-srd/spells/Endure Elements|endure elements]]*, *[[rangoric-srd/spells/Pass without Trace|pass without trace]]*; 3/day—*[[rangoric-srd/spells/Charm Person|charm person]]* (DC 15), *[[rangoric-srd/spells/Daze Monster|daze monster]]* (DC 16), *[[rangoric-srd/spells/Wood Shape|wood shape]]*; 1/day—*[[rangoric-srd/spells/Deep Slumber|deep slumber]]* (DC 17).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +8): Constant—_[[rangoric-srd/spells/Detect Snares and Pits|detect snares and pits]]_, _[[rangoric-srd/spells/Endure Elements|endure elements]]_, _[[rangoric-srd/spells/Pass without Trace|pass without trace]]_; 3/day—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 15), _[[rangoric-srd/spells/Daze Monster|daze monster]]_ (DC 16), _[[rangoric-srd/spells/Wood Shape|wood shape]]_; 1/day—_[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (DC 17).
 
 **[[rangoric-srd/monsters/abilities/Lashing Tail|Lashing Tail]] (Su)**: A huldra's tail slap is a primary attack. In addition, each time a huldra damages a creature with her tail slap, she deals 1d4 points of Charisma damage, causing her target to grow progressively more deformed and ugly with each strike. A successful DC 15 Fortitude save negates the Charisma damage. The save DC is Constitution-based.
 

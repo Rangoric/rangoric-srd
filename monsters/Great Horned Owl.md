@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Great Horned Owl
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 1d8+1 (5 hp)
-  - **Initiative**: +2
-  - **Speed**: 10 ft. (2 squares), fly 60 ft. (average)
-  - **Armor Class**: 15 (+2 Dex, +2 natural, +1 size), touch 13, flat-footed 13
-  - **Base Attack**: +0; **CMB**: –2; **CMD**: 10
-  - **Attack**: Claw +3 melee (1d4–1)
-  - **Full Attack**: 2 claws +3 melee (1d4–1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
-  - **Saves**: Fort +3, Ref +4, Will +2
-  - **Abilities**: Str 8, Dex 15, Con 13, Int 2, Wis 15, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary or pair
-  - **Challenge Rating**: 1/2
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 1d8+1 (5 hp)
+- **Initiative**: +2
+- **Speed**: 10 ft. (2 squares), fly 60 ft. (average)
+- **Armor Class**: 15 (+2 Dex, +2 natural, +1 size), touch 13, flat-footed 13
+- **Base Attack**: +0; **CMB**: –2; **CMD**: 10
+- **Attack**: Claw +3 melee (1d4–1)
+- **Full Attack**: 2 claws +3 melee (1d4–1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
+- **Saves**: Fort +3, Ref +4, Will +2
+- **Abilities**: Str 8, Dex 15, Con 13, Int 2, Wis 15, Cha 6
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Temperate forests
+- **Organization**: Solitary or pair
+- **Challenge Rating**: 1/2
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Though great horned owls seem large, most of their apparent bulk comes from their particularly fluffy feathers and rather large heads. Great horned owls have wingspans of up to 5 feet and weigh up to 4 pounds.
 

@@ -40,8 +40,8 @@ tags: [rangoric, rangoric/monster]
 
 # Maenad, Psionic
 
-Maenad, 1st-Level Warrior      
-Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Maenad, Psionic)      
+Maenad, 1st-Level Warrior     
+Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Maenad, Psionic)     
 **Hit Dice:** 1d10+1 (6 hp)     
 **Initiative:** +0     
 **Speed:** 30 ft. (6 squares)     
@@ -63,7 +63,7 @@ Full **Attack:** Longsword +3 melee (1d8+1/19-20) or longbow +1 ranged (1d8/x3)�
 Treasure: Standard     
 **Alignment:** Usually neutral     
 **Advancement:** By character class     
-**Level Adjustment:** +0     
+**Level Adjustment:** +0   
 
 This is the psionic maenad, a humanoid race; the [[rangoric-srd/monsters/Maenad|maenad]] is a different creature, a monstrous humanoid reveler.
 
@@ -81,16 +81,16 @@ Outburst (Ex): Once per day for up to 4 rounds a maenad can subjugate his mental
 
 Maenad characters possess the following racial traits.
 
-  - Medium size.
+- Medium size.
 
-  - Maenad base land speed is 30 feet.
+- Maenad base land speed is 30 feet.
 
-  - Naturally Psionic: Maenads gain 2 bonus power points at 1st level.
+- Naturally Psionic: Maenads gain 2 bonus power points at 1st level.
 
-  -  Special Attacks (see above): Psi-like abilities.
+-  Special Attacks (see above): Psi-like abilities.
 
-  - Special Qualities (see above): Outburst.
+- Special Qualities (see above): Outburst.
 
-  - Automatic Languages: Common, Maenad. Bonus Languages: Aquan, Draconic, Dwarven, Elven, Goblin.
+- Automatic Languages: Common, Maenad. Bonus Languages: Aquan, Draconic, Dwarven, Elven, Goblin.
 
-  - Level Adjustment: +0.
+- Level Adjustment: +0.

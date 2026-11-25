@@ -24,15 +24,15 @@ tags: [rangoric, rangoric/spell]
 
 # Plant Shape II
 
-*Transmutation (Polymorph)*
+_Transmutation (Polymorph)_
 
-  - **Level**: Alc 6, Sor/Wiz 6
-  - **Components**: V, S, M (a piece of the creature whose form you plan to assume)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 min./level (D)
+- **Level**: Alc 6, Sor/Wiz 6
+- **Components**: V, S, M (a piece of the creature whose form you plan to assume)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 min./level (D)
 
-This spell functions as *[[rangoric-srd/spells/Plant Shape I|plant shape I]]* except that it also allows you to assume the form of a Large creature of the plant type. If the creature has immunity or resistance to any elements, you gain resistance 20 to those elements. If the creature has vulnerability to an element, you gain that vulnerability.
+This spell functions as _[[rangoric-srd/spells/Plant Shape I|plant shape I]]_ except that it also allows you to assume the form of a Large creature of the plant type. If the creature has immunity or resistance to any elements, you gain resistance 20 to those elements. If the creature has vulnerability to an element, you gain that vulnerability.
 
-*Large plant*: If the form you take is that of a Large plant, you gain a +4 size bonus to your Strength, a +2 size bonus to your Constitution, and a +4 natural armor bonus.
+_Large plant_: If the form you take is that of a Large plant, you gain a +4 size bonus to your Strength, a +2 size bonus to your Constitution, and a +4 natural armor bonus.

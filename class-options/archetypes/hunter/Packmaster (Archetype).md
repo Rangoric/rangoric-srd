@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Packmaster
 
-*A [[rangoric-srd/classes/Hunter#^hunter-archetypes|hunter]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Hunter#^hunter-archetypes|hunter]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Some hunters form bonds with packs of well-trained creatures. Whether such a hunter is a northern berserker running with a pack of timber wolves or a savage warrior dashing through the jungle alongside her herd of dimetrodons, the packmaster revels in the thrill of the hunt and the glory of the kill. A packmaster is more comfortable in groups than alone, and although her animal companions may be weaker than a typical hunter's, what they lack in strength they make up for in numbers.
 

@@ -32,6 +32,6 @@ Psychoportation (Teleportation)
 **Duration:** 10 min./level (D)  
 **Saving Throw:** None  
 **Power Resistance:** Yes  
-**Power Points:** 17  
+**Power Points:** 17
 
 As the [[rangoric-srd/spells/Teleportation Circle|teleportation circle]] spell, except as noted here.

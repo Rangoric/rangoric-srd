@@ -28,7 +28,7 @@ Manifesting Time: 1 standard action
 Range: Personal  
 Target: You  
 Duration: 1 min./level (D)  
-Power Points: Psion/wilder 3, psychic warrior 1  
+Power Points: Psion/wilder 3, psychic warrior 1
 
 You can toughen your body against wounds, lessening their impact. During the duration of this power, you gain [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|damage reduction]] 2/-.
 

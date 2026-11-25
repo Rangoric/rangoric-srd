@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Disruptive
 
-*A [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]] (Ex).*
+_A [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]] (Ex)._
 
 The magus gains [[rangoric-srd/feats/Disruptive|Disruptive]] as a bonus feat. The magus must be at least 6th level before selecting this arcana.

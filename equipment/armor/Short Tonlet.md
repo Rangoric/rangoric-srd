@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/armor]
 
 # Short Tonlet
 
-*Armor extra.* Cost 75 gp; Armor Bonus +1; Maximum Dex Bonus –2; Armor Check Penalty –1; Arcane Spell Failure 5%; Weight 7 lb. ^stats
+_Armor extra._ Cost 75 gp; Armor Bonus +1; Maximum Dex Bonus –2; Armor Check Penalty –1; Arcane Spell Failure 5%; Weight 7 lb. ^stats
 
 Mounted soldiers sometimes wear lighter, shorter versions of the tonlet, but these pieces are rare, as the protection they offer becomes nearly negligible with the modifications made to them.
 

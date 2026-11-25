@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/word-of-power]
 
 # Far Casting
 
-*One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Language Words|Language group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]].*
+_One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Language Words|Language group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]]._
 
 **School** divination
 
@@ -31,4 +31,4 @@ tags: [rangoric, rangoric/word-of-power]
 
 The target of a wordspell with this effect word can reach out to another willing creature that the target knows of and that is on the same plane of existence as the target. As long as the wordcaster concentrates, the target can communicate verbally with the willing creature, and the willing creature can communicate back. The target and the willing creature do not need to share a language to communicate in this way.
 
-**Boost**: This word can use the *[[rangoric-srd/unearthed-arcana/Words of Power/Target Words/Selected|selected]]* target word. Boosting this effect word increases its level by 1.
+**Boost**: This word can use the _[[rangoric-srd/unearthed-arcana/Words of Power/Target Words/Selected|selected]]_ target word. Boosting this effect word increases its level by 1.

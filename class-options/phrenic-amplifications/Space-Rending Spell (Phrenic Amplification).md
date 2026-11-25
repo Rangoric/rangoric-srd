@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Space-Rending Spell
 
-*A psychic’s [[rangoric-srd/classes/Psychic (Class)#^psychic-major-amplifications|major amplification]] (Su).*
+_A psychic’s [[rangoric-srd/classes/Psychic (Class)#^psychic-major-amplifications|major amplification]] (Su)._
 
-The psychic can warp space with her mind, teleporting herself as she casts her linked spell. She teleports herself 10 feet per point she spends from her [[rangoric-srd/classes/Psychic (Class)#^psychic-phrenic-pool|phrenic pool]] (as *[[rangoric-srd/spells/Dimension Door|dimension door]]*). The maximum number of points she can spend in this way is equal to the linked spell’s level.
+The psychic can warp space with her mind, teleporting herself as she casts her linked spell. She teleports herself 10 feet per point she spends from her [[rangoric-srd/classes/Psychic (Class)#^psychic-phrenic-pool|phrenic pool]] (as _[[rangoric-srd/spells/Dimension Door|dimension door]]_). The maximum number of points she can spend in this way is equal to the linked spell’s level.

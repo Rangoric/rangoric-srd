@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Locathah
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Aquatic)
-  - **Hit Dice**: 2d8 (9 hp)
-  - **Initiative**: +1
-  - **Speed**: 10 ft. (2 squares), swim 60 ft.
-  - **Armor Class**: 13 (+1 Dex, +2 natural), touch 11, flat-footed 12
-  - **Base Attack**: +1; **CMB**: +1; **CMD**: 12
-  - **Attack**: [[rangoric-srd/equipment/weapons/Longspear|Longspear]] +2 melee (1d8/×3) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +2 ranged (1d8/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Longspear|Longspear]] +2 melee (1d8/×3); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +2 ranged (1d8/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
-  - **Saves**: Fort +3, Ref +1, Will +1
-  - **Abilities**: Str 10, Dex 12, Con 10, Int 13, Wis 13, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Craft|Craft]] (any one) +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +3
-  - **Feats**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longspear)
-  - **Environment**: Temperate or warm aquatic
-  - **Organization**: Solitary, band (2–10), tribe (11–30 plus 2 fighter sergeants of 1st–3rd level and 1 cleric leader of 3rd–6th level), company (2–4), or patrol (11–20 plus 2 3rd-level sergeants and 1 leader of 3rd–6th level)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: Standard (longspear, light crossbow and 10 bolts, other treasure)
-  - **Alignment**: Usually neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: +1
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Aquatic)
+- **Hit Dice**: 2d8 (9 hp)
+- **Initiative**: +1
+- **Speed**: 10 ft. (2 squares), swim 60 ft.
+- **Armor Class**: 13 (+1 Dex, +2 natural), touch 11, flat-footed 12
+- **Base Attack**: +1; **CMB**: +1; **CMD**: 12
+- **Attack**: [[rangoric-srd/equipment/weapons/Longspear|Longspear]] +2 melee (1d8/×3) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +2 ranged (1d8/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Longspear|Longspear]] +2 melee (1d8/×3); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +2 ranged (1d8/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
+- **Saves**: Fort +3, Ref +1, Will +1
+- **Abilities**: Str 10, Dex 12, Con 10, Int 13, Wis 13, Cha 11
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Craft|Craft]] (any one) +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +3
+- **Feats**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longspear)
+- **Environment**: Temperate or warm aquatic
+- **Organization**: Solitary, band (2–10), tribe (11–30 plus 2 fighter sergeants of 1st–3rd level and 1 cleric leader of 3rd–6th level), company (2–4), or patrol (11–20 plus 2 3rd-level sergeants and 1 leader of 3rd–6th level)
+- **Challenge Rating**: 1/2
+- **Treasure**: Standard (longspear, light crossbow and 10 bolts, other treasure)
+- **Alignment**: Usually neutral
+- **Advancement**: By character class
+- **Level Adjustment**: +1
 
 Simple aquatic creatures shunned by landwalkers and undersea folk alike, locathahs live in tight-knit communities scattered throughout the world's seas, lakes. and waterways. Locathahs possess scaly ochre skin tinged with green and yellow. Ridged, rust-colored skin covers their chests and stomachs, and a mottled wash of green, brown, and orange colors their fins like aging kelp. Locathahs exude a strong fishy odor when above water that, in addition to their already unnerving appearance, repulses most land-dwellers. Despite this animosity, locathahs go to great lengths to befriend surface folk, offering safe passage through the waters, pointing out dangerous reefs, and hinting at sunken treasures in return for durable ceramics and metal tools and weapons, as well as tubers, which they view as a delicacy.
 

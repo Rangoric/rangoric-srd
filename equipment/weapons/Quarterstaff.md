@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/double, weapon-group/monk]
 
 # Quarterstaff
 
-*Simple two-handed melee weapon (double).* Cost —; Dmg 1d4/1d4 (S), 1d6/1d6 (M); Critical x2; Weight 4 lb.; Type Bludgeoning. ^stats
+_Simple two-handed melee weapon (double)._ Cost —; Dmg 1d4/1d4 (S), 1d6/1d6 (M); Critical x2; Weight 4 lb.; Type Bludgeoning. ^stats
 
 A quarterstaff is a double weapon. You can fight with it as if fighting with two weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons, just as if you were using a one-handed weapon and a light weapon. A creature wielding a quarterstaff in one hand can’t use it as a double weapon—only one end of the weapon can be used in any given round.
 

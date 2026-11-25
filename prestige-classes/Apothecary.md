@@ -49,13 +49,13 @@ The apothecary’s class skills (and the key ability for each skill) are [[rango
 
 **Table: The Apothecary** ^table-the-apothecary
 
-| Level | Bonus Feat | 0 | 1st | 2nd |
-| --- | --- | --- | --- | --- |
-| 1st | [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Profession (apothecary)) | — | — | — |
-| 2nd | [[rangoric-srd/feats/Craft Herbal Restoratives\|Craft Herbal Restoratives]] | 2/1 | — | — |
-| 3rd | [[rangoric-srd/feats/Bodily Awareness\|Bodily Awareness]] | 3/1 | 1/1 | — |
-| 4th | [[rangoric-srd/feats/Diagnosis\|Diagnosis]] | 4/2 | 2/1 | 1/1 |
-| 5th | [[rangoric-srd/feats/Craft Toxins\|Craft Toxins]] | 5/3 | 3/2 | 2/1 |
+| Level | Bonus Feat                                                                  | 0   | 1st | 2nd |
+| ----- | --------------------------------------------------------------------------- | --- | --- | --- |
+| 1st   | [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Profession (apothecary))   | —   | —   | —   |
+| 2nd   | [[rangoric-srd/feats/Craft Herbal Restoratives\|Craft Herbal Restoratives]] | 2/1 | —   | —   |
+| 3rd   | [[rangoric-srd/feats/Bodily Awareness\|Bodily Awareness]]                   | 3/1 | 1/1 | —   |
+| 4th   | [[rangoric-srd/feats/Diagnosis\|Diagnosis]]                                 | 4/2 | 2/1 | 1/1 |
+| 5th   | [[rangoric-srd/feats/Craft Toxins\|Craft Toxins]]                           | 5/3 | 3/2 | 2/1 |
 
 Spells are given as spells known/spells per day.
 
@@ -71,9 +71,9 @@ The spells on the table are marked with two numbers divided by a slash. The firs
 
 The apothecary’s spell list is designed to be very restricted and linked to her knowledge and understanding of plants and herbs and healing, and very little else.
 
-- **0-level**: *[[rangoric-srd/spells/Create Water|create water]]*, *[[rangoric-srd/spells/Cure Minor Wounds|cure minor wounds]]*, *[[rangoric-srd/spells/Detect Poison|detect poison]]*, *[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]*, *[[rangoric-srd/spells/Virtue|virtue]]*.
-- **1st-level**: *[[rangoric-srd/spells/Calm Animals|calm animals]]*, *[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]*, *[[rangoric-srd/spells/Goodberry|goodberry]]*.
-- **2nd-level**: *[[rangoric-srd/spells/Delay Poison|delay poison]]*, *[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]*.
+- **0-level**: _[[rangoric-srd/spells/Create Water|create water]]_, _[[rangoric-srd/spells/Cure Minor Wounds|cure minor wounds]]_, _[[rangoric-srd/spells/Detect Poison|detect poison]]_, _[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]_, _[[rangoric-srd/spells/Virtue|virtue]]_.
+- **1st-level**: _[[rangoric-srd/spells/Calm Animals|calm animals]]_, _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Goodberry|goodberry]]_.
+- **2nd-level**: _[[rangoric-srd/spells/Delay Poison|delay poison]]_, _[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]_.
 
 These spells carry “Apo” levels.
 
@@ -81,6 +81,6 @@ If a character had a spellcasting class before she became an apothecary, she for
 
 **Bonus Feats**: At 1st level and at every level thereafter, apothecaries gain a bonus feat tied to their talents, taught in a specific order: 1st, [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Profession (apothecary)); 2nd, [[rangoric-srd/feats/Craft Herbal Restoratives|Craft Herbal Restoratives]]; 3rd, [[rangoric-srd/feats/Bodily Awareness|Bodily Awareness]]; 4th, [[rangoric-srd/feats/Diagnosis|Diagnosis]]; 5th, [[rangoric-srd/feats/Craft Toxins|Craft Toxins]]. An apothecary must still meet all feat prerequisites to use it. ^apothecary-bonus-feats
 
-*Important:* These feats are in addition to the feats a character of any class gets as she rises in level. The apothecary is not limited to the list given here when choosing those feats.
+_Important:_ These feats are in addition to the feats a character of any class gets as she rises in level. The apothecary is not limited to the list given here when choosing those feats.
 
 **Skill Restrictions**: Any skill points earned while learning this prestige class go first to [[rangoric-srd/skills/Profession|Profession]] (apothecary) and then to [[rangoric-srd/skills/Medicine|Medicine]]. Those two skills must be at the maximum allowed per level before skill points can be placed among other skills. ^apothecary-skill-restrictions

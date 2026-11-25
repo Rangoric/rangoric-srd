@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Cannibal
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 2d12+12 (25 hp)
-  - **Initiative**: +1
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 13 (+4 armor, +1 Dex, –2 rage), touch 9, flat-footed 12
-  - **Base Attack**: +2; **CMB**: +6 (+8 grapple); **CMD**: 15 (17 vs. grapple)
-  - **Attack**: [[rangoric-srd/equipment/weapons/Greatclub|Greatclub]] +6 melee (1d10+6) or [[rangoric-srd/equipment/weapons/Unarmed Strike|unarmed strike]] +6 melee (1d3+4) or bite +6 melee (1d4+4 plus +2 bonus on grapple) or [[rangoric-srd/equipment/weapons/Throwing Axe|throwing axe]] +3 ranged (1d6+4)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Greatclub|Greatclub]] +6 melee (1d10+6) and bite +1 melee (1d4+2); or [[rangoric-srd/equipment/weapons/Unarmed Strike|unarmed strike]] +6 melee (1d3+4) and bite +1 melee (1d4+2); or bite +6 melee (1d4+4 plus +2 bonus on grapple); or [[rangoric-srd/equipment/weapons/Throwing Axe|throwing axe]] +3 ranged (1d6+4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (9 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (animal fury)
-  - **Special Qualities**: [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|Uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]]
-  - **Saves**: Fort +8, Ref +1, Will +3
-  - **Abilities**: Str 19, Dex 13, Con 20, Int 10, Wis 12, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +6
-  - **Feats**: [[rangoric-srd/feats/Improved Grapple|Improved Grapple]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]]
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 1
-  - **Treasure**: NPC gear
-  - **Alignment**: Chaotic neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 2d12+12 (25 hp)
+- **Initiative**: +1
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 13 (+4 armor, +1 Dex, –2 rage), touch 9, flat-footed 12
+- **Base Attack**: +2; **CMB**: +6 (+8 grapple); **CMD**: 15 (17 vs. grapple)
+- **Attack**: [[rangoric-srd/equipment/weapons/Greatclub|Greatclub]] +6 melee (1d10+6) or [[rangoric-srd/equipment/weapons/Unarmed Strike|unarmed strike]] +6 melee (1d3+4) or bite +6 melee (1d4+4 plus +2 bonus on grapple) or [[rangoric-srd/equipment/weapons/Throwing Axe|throwing axe]] +3 ranged (1d6+4)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Greatclub|Greatclub]] +6 melee (1d10+6) and bite +1 melee (1d4+2); or [[rangoric-srd/equipment/weapons/Unarmed Strike|unarmed strike]] +6 melee (1d3+4) and bite +1 melee (1d4+2); or bite +6 melee (1d4+4 plus +2 bonus on grapple); or [[rangoric-srd/equipment/weapons/Throwing Axe|throwing axe]] +3 ranged (1d6+4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (9 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (animal fury)
+- **Special Qualities**: [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|Uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]]
+- **Saves**: Fort +8, Ref +1, Will +3
+- **Abilities**: Str 19, Dex 13, Con 20, Int 10, Wis 12, Cha 8
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +6
+- **Feats**: [[rangoric-srd/feats/Improved Grapple|Improved Grapple]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]]
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 1
+- **Treasure**: NPC gear
+- **Alignment**: Chaotic neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A cannibal is a [[rangoric-srd/monsters/human/Human|human]] with 2 levels of [[rangoric-srd/classes/Barbarian|barbarian]]. Cannibals are ferocious, savage humanoids, feral people with a taste for sentient flesh. In battle, they charge with savage war cries, often tossing their weapons aside to hurl themselves onto their foes with hunger and abandon, eager to taste the blood and flesh in the ecstatic heat of battle.
 

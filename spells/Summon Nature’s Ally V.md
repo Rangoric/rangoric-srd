@@ -20,18 +20,18 @@ tags: [rangoric, rangoric/spell]
 
 # Summon Nature’s Ally V
 
-*Conjuration (Summoning) \[see text\]*
+_Conjuration (Summoning) \[see text\]_
 
-  - **Level**: Drd 5, Hun 5, Tot 5
-  - **Effect**: One or more creatures, no two of which can be more than 30 ft. apart
+- **Level**: Drd 5, Hun 5, Tot 5
+- **Effect**: One or more creatures, no two of which can be more than 30 ft. apart
 
 This spell functions like [[rangoric-srd/spells/Summon Nature’s Ally I|summon nature’s ally I]], except that you can summon one 5th-level creature, 1d3 4th-level creatures of the same kind, or 1d4+1 lower-level creatures of the same kind.
 
 When you use a summoning spell to summon an air, chaotic, earth, evil, fire, good, lawful, or water creature, it is a spell of that type.
 
-| 5th Level                                                                                     |
-| --------------------------------------------------------------------------------------------- |
-| [[rangoric-srd/monsters/arrowhawk/Arrowhawk\|Arrowhawk, adult]]                                       |
+| 5th Level                                                                                   |
+| ------------------------------------------------------------------------------------------- |
+| [[rangoric-srd/monsters/arrowhawk/Arrowhawk\|Arrowhawk, adult]]                             |
 | [[rangoric-srd/monsters/Bear, Polar\|Bear, polar (animal)]]                                 |
 | [[rangoric-srd/monsters/dire-animal/Dire Lion\|Dire lion]]                                  |
 | [[rangoric-srd/monsters/Monsters Di to Do\|Elasmosaurus (1) (dinosaur)]]                    |
@@ -42,6 +42,6 @@ When you use a summoning spell to summon an air, chaotic, earth, evil, fire, goo
 | [[rangoric-srd/monsters/Satyr\|Satyr (CN; with pipes)]]                                     |
 | [[rangoric-srd/monsters/snake/Constrictor Snake, Giant\|Snake, giant constrictor (animal)]] |
 | [[rangoric-srd/monsters/sprite/Nixie\|Nixie (sprite)]]                                      |
-| [[rangoric-srd/monsters/tojanida/Tojanida\|Tojanida, adult (1)]]                                     |
+| [[rangoric-srd/monsters/tojanida/Tojanida\|Tojanida, adult (1)]]                            |
 | [[rangoric-srd/monsters/whale/Orca\|Whale, orca (1) (animal)]]                              |
-| 1 *May be summoned only into an aquatic or watery environment.*                               |
+| 1 _May be summoned only into an aquatic or watery environment._                             |

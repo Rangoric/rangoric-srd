@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic, wild]
 
 # Improved Elemental Wild Shape
 
-Prerequisites: Wis 25, ability to wild shape into an elemental.  
+Prerequisites: Wis 25, ability to wild shape into an elemental.
 
 Benefit: The character’s ability to wild shape into an elemental is expanded to include all elemental creatures (not just air, earth, fire, and water elementals) of any size that the character can take when using wild shape to become an animal. The character gains all extraordinary and supernatural abilities of the elemental whose form he or she takes.
 

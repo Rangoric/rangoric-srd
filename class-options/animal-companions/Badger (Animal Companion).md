@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Badger
 
-*An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature ([[rangoric-srd/monsters/Badger|badger]] or [[rangoric-srd/monsters/Wolverine|wolverine]]).*
+_An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature ([[rangoric-srd/monsters/Badger|badger]] or [[rangoric-srd/monsters/Wolverine|wolverine]])._
 
 - **Size**: Small
 - **Speed**: 30 ft., burrow 10 ft., climb 10 ft.

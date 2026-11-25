@@ -25,6 +25,6 @@ tags: [rangoric, rangoric/armor]
 
 # Four-Mirror Armor
 
-*Medium armor.* Cost 125 gp; Armor Bonus +6; Maximum Dex Bonus +2; Armor Check Penalty –5; Arcane Spell Failure 30%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 45 lb. ^stats
+_Medium armor._ Cost 125 gp; Armor Bonus +6; Maximum Dex Bonus +2; Armor Check Penalty –5; Arcane Spell Failure 30%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 45 lb. ^stats
 
 This armor consists of four plates harnessed together with leather shoulder straps. Two round plates protect your front and back, while two smaller rectangular plates cover the sides of the torso. Four-mirror armor is worn over chainmail to provide added protection, and comes with a spiked helmet with a chainmail hood.

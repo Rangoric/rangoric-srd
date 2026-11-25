@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Stormwalker
 
-*A [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]] (Su) of the [[rangoric-srd/class-options/spirits/Nature Spirit|nature spirit]].*
+_A [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]] (Su) of the [[rangoric-srd/class-options/spirits/Nature Spirit|nature spirit]]._
 
 The shaman can move through nonmagical fog, rain, mist, snow, and other environmental effects without penalty (see [[rangoric-srd/rules/Wilderness, Weather, and Environment#Weather|weather]]). She is never slowed by such effects, and she doesn't need to attempt [[rangoric-srd/skills/Acrobatics|Acrobatics]] checks to move across such surfaces. She can also move through magical environmental effects that she created. At 10th level, the shaman can see twice as far as normal through environmental effects, whether or not they are magical in nature.

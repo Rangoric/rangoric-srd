@@ -25,4 +25,4 @@ This small sheath attaches to the wrist with a leather strap. The sheath can acc
 
 Vanishing sheaths can be worn in pairs—one on each arm. A person wearing two vanishing sheaths can eject either or both weapons with a single swift action.
 
-Moderate conjuration; CL 6th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Secret Chest|secret chest]]*; Price 5,000 gp; Cost 2,500 gp; Weight 1 lb.
+Moderate conjuration; CL 6th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Secret Chest|secret chest]]_; Price 5,000 gp; Cost 2,500 gp; Weight 1 lb.

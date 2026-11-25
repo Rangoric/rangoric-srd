@@ -27,7 +27,7 @@ Psychometabolism
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 round/level  
-**Power Points:** 3  
+**Power Points:** 3
 
 Your natural weapons cause additional pain. Each successful attack you make with a natural weapon deals an extra 1d6 points of nonlethal damage to the target.
 

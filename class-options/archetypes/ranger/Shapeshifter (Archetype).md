@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Shapeshifter
 
-*A [[rangoric-srd/classes/Ranger#^ranger-archetypes|ranger]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Ranger#^ranger-archetypes|ranger]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Most rangers venture into the wilderness, but there are some who let the wilderness seep into them. Whether by curse, disease, ancient rite, a slight lycanthropic influence in the blood, or the corrupting influence of chaos, these rangers embrace the wild to transform themselves into something untamed and feral. Shapeshifters are often held in awe, but are even more often feared. A shapeshifter has the following class features.
 
@@ -47,14 +47,14 @@ At 8th level and again every five levels thereafter, the ranger may select an ad
 
 **Master Shifter (Su)**: At 20th level, the ranger's shifter's blessing forms improve, and he can take on true forms of beasts. The ranger can use dual form shifter with this ability, although he cannot use more than one polymorph effect at any one time. This ability replaces [[rangoric-srd/classes/Ranger#^ranger-master-hunter|master hunter]]. The ranger's forms from shifter's blessing improve to the following:
 
-**Form of the Bear**: The ranger's muscles enlarge and tighten, and his facial features become more ursine. While in this form, the ranger gains a +8 enhancement bonus to Strength and he does not suffer any reduction of speed. Alternatively, the ranger can polymorph into the form of a bear as if the caster of *[[rangoric-srd/spells/Beast Shape IV|beast shape IV]]*.
+**Form of the Bear**: The ranger's muscles enlarge and tighten, and his facial features become more ursine. While in this form, the ranger gains a +8 enhancement bonus to Strength and he does not suffer any reduction of speed. Alternatively, the ranger can polymorph into the form of a bear as if the caster of _[[rangoric-srd/spells/Beast Shape IV|beast shape IV]]_.
 
-**Form of the Cat**: The ranger's muscles become lean and defined, and his gait more deliberate and graceful. While in this form, the ranger increases his base speed by 20 feet and he gains a +10 bonus on Acrobatics checks and Athletics checks to climb. Alternatively, the ranger can polymorph into the form of a cat of any size as if the caster of *[[rangoric-srd/spells/Beast Shape IV|beast shape IV]]*.
+**Form of the Cat**: The ranger's muscles become lean and defined, and his gait more deliberate and graceful. While in this form, the ranger increases his base speed by 20 feet and he gains a +10 bonus on Acrobatics checks and Athletics checks to climb. Alternatively, the ranger can polymorph into the form of a cat of any size as if the caster of _[[rangoric-srd/spells/Beast Shape IV|beast shape IV]]_.
 
-**Form of the Dragon**: The ranger's skin becomes rough and scaly. While in this form, the ranger gains a +4 natural armor bonus to AC and a fly speed of 30 feet with average maneuverability. Alternately, the ranger can polymorph into the form of a dragon as if the caster of *[[rangoric-srd/spells/Form of the Dragon I|form of the dragon I]]*.
+**Form of the Dragon**: The ranger's skin becomes rough and scaly. While in this form, the ranger gains a +4 natural armor bonus to AC and a fly speed of 30 feet with average maneuverability. Alternately, the ranger can polymorph into the form of a dragon as if the caster of _[[rangoric-srd/spells/Form of the Dragon I|form of the dragon I]]_.
 
-**Form of the Eagle**: The ranger's skin stretches, his nose becomes hooked, and his eyes enlarge. While in this form, the ranger gains a +10 bonus on Perception checks and a fly speed of 40 feet with good maneuverability. Alternatively, the ranger can polymorph into the form of an eagle or similar raptor as if the caster of *[[rangoric-srd/spells/Beast Shape IV|beast shape IV]]*.
+**Form of the Eagle**: The ranger's skin stretches, his nose becomes hooked, and his eyes enlarge. While in this form, the ranger gains a +10 bonus on Perception checks and a fly speed of 40 feet with good maneuverability. Alternatively, the ranger can polymorph into the form of an eagle or similar raptor as if the caster of _[[rangoric-srd/spells/Beast Shape IV|beast shape IV]]_.
 
-**Form of the Jackal**: The ranger becomes thin and hyperactive, his movements taking on a nervous spryness. While in this form, the ranger does not provoke attacks of opportunity due to movement. Alternatively, the ranger can polymorph into the form of a jackal or other canine creature as if the caster of *[[rangoric-srd/spells/Beast Shape IV|beast shape IV]]*.
+**Form of the Jackal**: The ranger becomes thin and hyperactive, his movements taking on a nervous spryness. While in this form, the ranger does not provoke attacks of opportunity due to movement. Alternatively, the ranger can polymorph into the form of a jackal or other canine creature as if the caster of _[[rangoric-srd/spells/Beast Shape IV|beast shape IV]]_.
 
-**Form of the Otter**: The ranger's hands and feet grow webs, and his body grows an oily fur that is water resistant. While in this form, the ranger gains a swim speed of 60 feet and a +5 bonus on Athletics checks to swim. Alternatively, the ranger can polymorph into the form of an otter or similar river mammal as if the caster of *[[rangoric-srd/spells/Beast Shape IV|beast shape IV]]*.
+**Form of the Otter**: The ranger's hands and feet grow webs, and his body grows an oily fur that is water resistant. While in this form, the ranger gains a swim speed of 60 feet and a +5 bonus on Athletics checks to swim. Alternatively, the ranger can polymorph into the form of an otter or similar river mammal as if the caster of _[[rangoric-srd/spells/Beast Shape IV|beast shape IV]]_.

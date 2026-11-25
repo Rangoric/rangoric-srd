@@ -39,7 +39,7 @@ tags: [rangoric, rangoric/monster]
 
 # Dromite
 
-Dromite, 1st-Level Warrior      
+Dromite, 1st-Level Warrior     
 Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Psionic)     
 **Hit Dice:** 1d10+1 (6 hp)     
 **Initiative:** +0     
@@ -61,7 +61,7 @@ Full **Attack:** Longsword +3 melee (1d6/19-20) or light crossbow +2 ranged (1d6
 Treasure: Standard     
 **Alignment:** Usually neutral     
 **Advancement:** By character class     
-**Level Adjustment:** +1     
+**Level Adjustment:** +1   
 
 Dromites stand about 3 feet tall and usually weigh slightly more than 30 pounds. They have iridescent compound eyes. Dromites wear heavy boots and light clothing, and are sometimes content with just a sturdy harness.
 
@@ -79,24 +79,24 @@ The dromite warrior presented here had the following ability scores before racia
 
 Dromite characters possess the following racial traits.
 
-  - \+2 Charisma, -2 Strength, -2 Wisdom.
+- \+2 Charisma, -2 Strength, -2 Wisdom.
 
-  - Small size: +1 bonus to Armor Class, +1 bonus on attack rolls, +4 bonus on Stealth checks, -4 penalty on grapple checks, lifting and carrying limits 3/4 of those of Medium characters.
+- Small size: +1 bonus to Armor Class, +1 bonus on attack rolls, +4 bonus on Stealth checks, -4 penalty on grapple checks, lifting and carrying limits 3/4 of those of Medium characters.
 
-  - Dromite base land speed is 20 feet.
+- Dromite base land speed is 20 feet.
 
-  - \+3 natural armor bonus.
+- \+3 natural armor bonus.
 
-  - Naturally Psionic: Dromites gain 1 bonus power point at 1st level.
+- Naturally Psionic: Dromites gain 1 bonus power point at 1st level.
 
-  - Special Attacks (see above): Psi-like abilities.
+- Special Attacks (see above): Psi-like abilities.
 
-  - Special Qualities (see above): [[rangoric-srd/monsters/abilities/Resistance|Resistance to fire]] 5 (other dromites may have resistance to cold, electricity, or sonics instead of fire), scent.
+- Special Qualities (see above): [[rangoric-srd/monsters/abilities/Resistance|Resistance to fire]] 5 (other dromites may have resistance to cold, electricity, or sonics instead of fire), scent.
 
-  - Racial Skills: Dromites have sa +2 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks due to their compound eyes.
+- Racial Skills: Dromites have sa +2 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks due to their compound eyes.
 
-  - Racial Feats: Dromites gain [[rangoric-srd/feats/Blind-Fight|Blind-fight]] as a bonus feat.
+- Racial Feats: Dromites gain [[rangoric-srd/feats/Blind-Fight|Blind-fight]] as a bonus feat.
 
-  - Automatic Languages: Common. Bonus Languages: Dwarven, Gnome, Goblin, Terran.
+- Automatic Languages: Common. Bonus Languages: Dwarven, Gnome, Goblin, Terran.
 
-  - Level Adjustment: +1.
+- Level Adjustment: +1.

@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Einherji
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Extraplanar)
-  - **Hit Dice**: 13d10+52 (123 hp)
-  - **Initiative**: +7
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 24 (+7 armor, +3 Dex, +4 shield), touch 13, flat-footed 21
-  - **Base Attack**: +13; **CMB**: +17; **CMD**: 30
-  - **Attack**: +2 [[rangoric-srd/equipment/weapons/Battleaxe|battleaxe]] +19 melee (1d8+6/×3) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Throwing Axe|throwing axe]] +17 ranged (1d6+4)
-  - **Full Attack**: +2 [[rangoric-srd/equipment/weapons/Battleaxe|battleaxe]] +19/+14/+9 melee (1d8+6/×3); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Throwing Axe|throwing axe]] +17 ranged (1d6+4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Challenge of Single Combat|Challenge of single combat]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., deathwatch, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, freedom of movement, [[rangoric-srd/monsters/abilities/Battle-Trained|battle-trained]], [[rangoric-srd/monsters/abilities/Thirst for Battle|thirst for battle]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron and lawful, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, disease, fear and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21
-  - **Saves**: Fort +12, Ref +11, Will +8
-  - **Abilities**: Str 19, Dex 16, Con 19, Int 10, Wis 14, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +16, [[rangoric-srd/skills/Engineering|Engineering]] +16, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +18, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Theology|Theology]] +16
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Stand Still|Stand Still]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Strike Back|Strike Back]]
-  - **Environment**: Any
-  - **Organization**: Solitary, squad (3–6), or warband (7–16)
-  - **Challenge Rating**: 10
-  - **Treasure**: Triple (+2 scale mail, +2 heavy wooden shield, +2 battleaxe, masterwork throwing axe)
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Extraplanar)
+- **Hit Dice**: 13d10+52 (123 hp)
+- **Initiative**: +7
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 24 (+7 armor, +3 Dex, +4 shield), touch 13, flat-footed 21
+- **Base Attack**: +13; **CMB**: +17; **CMD**: 30
+- **Attack**: +2 [[rangoric-srd/equipment/weapons/Battleaxe|battleaxe]] +19 melee (1d8+6/×3) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Throwing Axe|throwing axe]] +17 ranged (1d6+4)
+- **Full Attack**: +2 [[rangoric-srd/equipment/weapons/Battleaxe|battleaxe]] +19/+14/+9 melee (1d8+6/×3); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Throwing Axe|throwing axe]] +17 ranged (1d6+4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Challenge of Single Combat|Challenge of single combat]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., deathwatch, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, freedom of movement, [[rangoric-srd/monsters/abilities/Battle-Trained|battle-trained]], [[rangoric-srd/monsters/abilities/Thirst for Battle|thirst for battle]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron and lawful, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, disease, fear and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21
+- **Saves**: Fort +12, Ref +11, Will +8
+- **Abilities**: Str 19, Dex 16, Con 19, Int 10, Wis 14, Cha 11
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +16, [[rangoric-srd/skills/Engineering|Engineering]] +16, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +18, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Theology|Theology]] +16
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Stand Still|Stand Still]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Strike Back|Strike Back]]
+- **Environment**: Any
+- **Organization**: Solitary, squad (3–6), or warband (7–16)
+- **Challenge Rating**: 10
+- **Treasure**: Triple (+2 scale mail, +2 heavy wooden shield, +2 battleaxe, masterwork throwing axe)
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Some [[rangoric-srd/classes/Warrior|warriors]] who die glorious deaths in battle find that there is a call for their skill and prowess even after death. Chosen by valkyries from among the slain on the battlefield, they become einherjar, outsiders who fight for the gods and other powerful extraplanar beings in battles across the multiverse.
 
@@ -72,7 +72,7 @@ Einherjis speak Celestial and Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +10): Constant—*[[rangoric-srd/spells/Deathwatch|deathwatch]]*, *[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]*; At will—*[[rangoric-srd/spells/Rage|rage]]*; 3/day—*[[rangoric-srd/spells/Divine Power|divine power]]*; 1/day—*[[rangoric-srd/spells/Heroes’ Feast|heroes' feast]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +10): Constant—_[[rangoric-srd/spells/Deathwatch|deathwatch]]_, _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_; At will—_[[rangoric-srd/spells/Rage|rage]]_; 3/day—_[[rangoric-srd/spells/Divine Power|divine power]]_; 1/day—_[[rangoric-srd/spells/Heroes’ Feast|heroes' feast]]_.
 
 **[[rangoric-srd/monsters/abilities/Battle-Trained|Battle-Trained]] (Ex)**: An einherji is proficient with all armor. Armor never impacts an einherji's speed, nor does an einherji take armor check penalties on Animal Handling checks.
 

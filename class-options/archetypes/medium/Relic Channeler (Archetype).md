@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Relic Channeler
 
-*A [[rangoric-srd/classes/Medium (Class)#^medium-archetypes|medium]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Medium (Class)#^medium-archetypes|medium]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A relic channeler carries relics of legend instead of seeking out her spirits, at the cost of how many different spirits she can channel.
 
@@ -28,6 +28,6 @@ A relic channeler carries relics of legend instead of seeking out her spirits, a
 
 **Object Reading (Su)**: At 3rd level, a relic channeler gains the [[rangoric-srd/classes/Occultist#^occultist-object-reading|occultist's object reading]] ability, substituting her medium level for her occultist level for this ability. This ability replaces [[rangoric-srd/classes/Medium (Class)#^medium-haunt-channeler|haunt channeler]].
 
-**Apport Relic (Su)**: At 5th level, a relic channeler can call one of her relics to her once per day as though she had cast *[[rangoric-srd/spells/Apport Object|apport object]]* on it and was mentally completing the spell. Furthermore, if the relic channeler gains the apport object spell, she can use it to receive her relics without casting it on them in advance in the same way. The range at which the relic channeler can apport her relics (both with this ability and the spell) increases by an additional 5 feet for every 2 levels she possesses beyond 5th. This ability replaces [[rangoric-srd/classes/Medium (Class)#^medium-location-channel|location channel]].
+**Apport Relic (Su)**: At 5th level, a relic channeler can call one of her relics to her once per day as though she had cast _[[rangoric-srd/spells/Apport Object|apport object]]_ on it and was mentally completing the spell. Furthermore, if the relic channeler gains the apport object spell, she can use it to receive her relics without casting it on them in advance in the same way. The range at which the relic channeler can apport her relics (both with this ability and the spell) increases by an additional 5 feet for every 2 levels she possesses beyond 5th. This ability replaces [[rangoric-srd/classes/Medium (Class)#^medium-location-channel|location channel]].
 
 **Connection Specialty (Sp)**: At 7th level, a relic channeler gains [[rangoric-srd/classes/Medium (Class)#^medium-connection-channel|connection channel]] and can use that ability as a normal medium, despite not possessing location channel. She requires familiarity to use this ability, even if she is in an appropriate location. This ability alters connection channel.

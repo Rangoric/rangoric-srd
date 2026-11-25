@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 These steel and brass pauldrons feature two brass lion heads, one on each shoulder. Twice a day as an immediate action when a creature successfully makes an [[rangoric-srd/skills/Acrobatics|Acrobatics]] check to move through the wearer's threatened area or its space without provoking an attack of opportunity, a shadowy lion can animate from one of the pauldrons and attack that creature. The attack uses the wearer's base attack bonus + Dexterity modifier and attacks the target's touch AC. On a hit, the lion deals 2d6 points of piercing damage (×2 critical).
 
-Faint necromancy; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Spectral Hand|spectral hand]]*; Price 10,800 gp; Cost 5,400 gp; Weight 3 lbs.
+Faint necromancy; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Spectral Hand|spectral hand]]_; Price 10,800 gp; Cost 5,400 gp; Weight 3 lbs.

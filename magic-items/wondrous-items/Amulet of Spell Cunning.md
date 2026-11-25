@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This silver locket only has power when used as a [[rangoric-srd/classes/Wizard|wizard]]'s [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|bonded object]]. It allows a wizard to prepare an additional 3 levels of spells per day.
 
-Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Mnemonic Enhancer|mnemonic enhancer]]*; Price 10,000 gp; Cost 5,000 gp; Weight 1 lb.
+Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Mnemonic Enhancer|mnemonic enhancer]]_; Price 10,000 gp; Cost 5,000 gp; Weight 1 lb.

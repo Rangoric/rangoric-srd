@@ -18,4 +18,4 @@ You can expend a large portion of your channeling power to reverse death itself.
 
 **Prerequisites**: [[rangoric-srd/combat/Combat Special Attacks#^channel-energy|Channel energy]] 6d6 (positive energy).
 
-**Benefit**: As a full-round action that provokes attacks of opportunity, you can expend three uses of your [[rangoric-srd/combat/Combat Special Attacks#^channel-energy|channel energy]] class feature to restore a dead creature to life as if you had cast the *[[rangoric-srd/spells/Breath of Life|breath of life]]* spell.
+**Benefit**: As a full-round action that provokes attacks of opportunity, you can expend three uses of your [[rangoric-srd/combat/Combat Special Attacks#^channel-energy|channel energy]] class feature to restore a dead creature to life as if you had cast the _[[rangoric-srd/spells/Breath of Life|breath of life]]_ spell.

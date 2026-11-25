@@ -29,13 +29,13 @@ Smite Evil (Su): Once per day a celestial creature can make a normal melee attac
 
 **Special Qualities**: A celestial creature retains all the special qualities of the base creature and also gains the following qualities.
 
-  - Darkvision out to 60 feet.
+- Darkvision out to 60 feet.
 
-  - [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] (see the table below).
+- [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] (see the table below).
 
-  - [[rangoric-srd/monsters/abilities/Resistance|Resistance to acid]], cold, and electricity (see the table below).
+- [[rangoric-srd/monsters/abilities/Resistance|Resistance to acid]], cold, and electricity (see the table below).
 
-  - [[rangoric-srd/monsters/abilities/Spell Resistance|Spell resistance]] equal to HD + 5 (maximum 25).
+- [[rangoric-srd/monsters/abilities/Spell Resistance|Spell resistance]] equal to HD + 5 (maximum 25).
 
 | Hit Dice   | Resistance to Acid, Cold, Electricity | Damage Reduction |
 | ---------- | ------------------------------------- | ---------------- |

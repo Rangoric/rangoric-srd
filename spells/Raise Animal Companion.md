@@ -29,15 +29,15 @@ tags: [rangoric, rangoric/spell]
 
 # Raise Animal Companion
 
-*Conjuration (Healing)*
+_Conjuration (Healing)_
 
-  - **Level**: Drd 5, Hun 4, Pal 4, Rgr 4
-  - **Components**: V, S, M (a diamond worth 1,000 gp)
-  - **Casting Time**: 1 minute
-  - **Range**: Touch
-  - **Target**: Dead animal companion or bonded mount
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None, see text
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Drd 5, Hun 4, Pal 4, Rgr 4
+- **Components**: V, S, M (a diamond worth 1,000 gp)
+- **Casting Time**: 1 minute
+- **Range**: Touch
+- **Target**: Dead animal companion or bonded mount
+- **Duration**: Instantaneous
+- **Saving Throw**: None, see text
+- **Spell Resistance**: Yes (harmless)
 
-This spell functions as *[[rangoric-srd/spells/Raise Dead|raise dead]]*, but it only affects an animal companion, familiar, or paladin's bonded mount.
+This spell functions as _[[rangoric-srd/spells/Raise Dead|raise dead]]_, but it only affects an animal companion, familiar, or paladin's bonded mount.

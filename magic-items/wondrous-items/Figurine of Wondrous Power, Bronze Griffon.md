@@ -23,6 +23,6 @@ Each of the several kinds of figurines of wondrous power appears to be a miniatu
 
 If a figurine of wondrous power is broken or destroyed in its statuette form, it is forever ruined. All magic is lost, its power departed. If slain in animal form, the figurine simply reverts to a statuette that can be used again at a later time.
 
-*Bronze Griffon*: When animated, a bronze griffon acts in all ways like a normal griffon under the command of its possessor. The item can be used twice per week for up to 6 hours per use. When 6 hours have passed or when the command word is spoken, the bronze griffon once again becomes a tiny statuette.
+_Bronze Griffon_: When animated, a bronze griffon acts in all ways like a normal griffon under the command of its possessor. The item can be used twice per week for up to 6 hours per use. When 6 hours have passed or when the command word is spoken, the bronze griffon once again becomes a tiny statuette.
 
 Moderate transmutation; CL 11th; Craft Wondrous Item, animate objects; Price 10,000 gp.

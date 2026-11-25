@@ -22,9 +22,9 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Dust of Dweomerbaring
 
-*Powder; Special*
+_Powder; Special_
 
-If this dust is sprinkled within an area affected by magic, it fizzles, burns away in a lilac-colored and scented flame, and leaves a glowing ash residue behind for up to 3 minutes. It can either be sprinkled minutely and in a controlled manner or thrown haphazardly to cover a 10-foot square area. If this is used as part of a *detect magic* casting, it allows the spellcaster to detect more information in less time—the dust automatically lights up any magical auras within the area of effect and allows the caster to start examining revealed magics as if it were the 3rd round (as per the spell description).
+If this dust is sprinkled within an area affected by magic, it fizzles, burns away in a lilac-colored and scented flame, and leaves a glowing ash residue behind for up to 3 minutes. It can either be sprinkled minutely and in a controlled manner or thrown haphazardly to cover a 10-foot square area. If this is used as part of a _detect magic_ casting, it allows the spellcaster to detect more information in less time—the dust automatically lights up any magical auras within the area of effect and allows the caster to start examining revealed magics as if it were the 3rd round (as per the spell description).
 
 This granular purple substance is almost rubbery in texture, and it comes in a red porcelain box shaped like a magic circle. If clients request otherwise, it can be packaged in a supplementary glass globe for throwing and shattering (grenade-like splash effects as usual), though few opt for such an uncontrolled method.
 

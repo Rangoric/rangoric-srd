@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Freshwater Merrow
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Aquatic, Giant)
-  - **Hit Dice**: 4d8+12 (30 hp)
-  - **Initiative**: +4
-  - **Speed**: 40 ft. (8 squares), swim 40 ft.
-  - **Armor Class**: 17 (+4 Dex, +4 natural, –1 size), touch 13, flat-footed 13
-  - **Base Attack**: +3; **CMB**: +8 (+12 grapple); **CMD**: 22
-  - **Attack**: Claw +6 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +6 ranged (1d8+4)
-  - **Full Attack**: 2 claws +6 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]]); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +6 ranged (1d8+4)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
-  - **Saves**: Fort +7, Ref +5, Will +3
-  - **Abilities**: Str 19, Dex 18, Con 17, Int 6, Wis 10, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +2 (+6 in water)
-  - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Temperate lakes or rivers
-  - **Organization**: Solitary, pair, gang (3–4), or family (5–16)
-  - **Challenge Rating**: 3
-  - **Treasure**: Standard (2 javelins, other treasure)
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Aquatic, Giant)
+- **Hit Dice**: 4d8+12 (30 hp)
+- **Initiative**: +4
+- **Speed**: 40 ft. (8 squares), swim 40 ft.
+- **Armor Class**: 17 (+4 Dex, +4 natural, –1 size), touch 13, flat-footed 13
+- **Base Attack**: +3; **CMB**: +8 (+12 grapple); **CMD**: 22
+- **Attack**: Claw +6 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +6 ranged (1d8+4)
+- **Full Attack**: 2 claws +6 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]]); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +6 ranged (1d8+4)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
+- **Saves**: Fort +7, Ref +5, Will +3
+- **Abilities**: Str 19, Dex 18, Con 17, Int 6, Wis 10, Cha 7
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +2 (+6 in water)
+- **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Temperate lakes or rivers
+- **Organization**: Solitary, pair, gang (3–4), or family (5–16)
+- **Challenge Rating**: 3
+- **Treasure**: Standard (2 javelins, other treasure)
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Freshwater merrows speak Giant.
 

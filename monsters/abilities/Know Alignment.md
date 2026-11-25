@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Know Alignment
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “know alignment”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “know alignment”, on the Special Qualities line.
 
 The creature automatically knows the alignment of any creature it can see. The [[rangoric-srd/monsters/Dragon Horse|dragon horse]] has it.

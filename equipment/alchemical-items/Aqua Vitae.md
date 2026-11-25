@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Aqua Vitae
 
-*Chymical; Special*
+_Chymical; Special_
 
 Aqua vitae is the chymical base from which most magical potions and alchemical ingestibles spring. Imbibing this aqua by itself has no more effect than drinking wine. One use of aqua vitae never intended by its alchemical creators (and initially realized in desperation and then passed on by word of mouth among adventurers) is this—if you pour a handful of powdered limestone into a flask of aqua vitae, it can be thrown within the next two rounds for the same effects and damage as a thunderstone (although it has the range of throwing an acid flask). If the flask is not thrown within two rounds, the bottle explodes for the same effect wherever it rests.
 

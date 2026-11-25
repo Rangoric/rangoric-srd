@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Order of the Warrior
 
-*A [[rangoric-srd/classes/Samurai#^samurai-order|samurai]] and [[rangoric-srd/classes/Cavalier#^cavalier-order|cavalier]] order.*
+_A [[rangoric-srd/classes/Samurai#^samurai-order|samurai]] and [[rangoric-srd/classes/Cavalier#^cavalier-order|cavalier]] order._
 
 Most samurai swear themselves to the code of the warrior, which emphasizes duty, honor, loyalty, and obedience. This code extends not only to the samurai's lord and master, but also to his comrades and family. Samurai who follow the order of the warrior are among the most trusted and feared warriors in the land.
 

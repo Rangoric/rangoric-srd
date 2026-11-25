@@ -17,26 +17,26 @@ tags: [rangoric, rangoric/overview]
 
 **Table: Special Attacks**
 
-| Special Attack                                   | Brief Description                                                  |
-| ------------------------------------------------ | ------------------------------------------------------------------ |
-| [[#Aid Another\|Aid another]]                    | Grant an ally a +2 bonus on attacks or AC                          |
-| [[rangoric-srd/combat/Combat Maneuvers#Bull Rush\|Bull rush]] | Push an opponent back 5 feet or more (combat maneuver) |
-| [[#Charge\|Charge]]                              | Move up to twice your speed and attack with +2 bonus               |
-| [[rangoric-srd/combat/Combat Maneuvers#Disarm\|Disarm]] | Make an opponent drop what it’s holding (combat maneuver) |
+| Special Attack                                                    | Brief Description                                                                      |
+| ----------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| [[#Aid Another\|Aid another]]                                     | Grant an ally a +2 bonus on attacks or AC                                              |
+| [[rangoric-srd/combat/Combat Maneuvers#Bull Rush\|Bull rush]]     | Push an opponent back 5 feet or more (combat maneuver)                                 |
+| [[#Charge\|Charge]]                                               | Move up to twice your speed and attack with +2 bonus                                   |
+| [[rangoric-srd/combat/Combat Maneuvers#Disarm\|Disarm]]           | Make an opponent drop what it’s holding (combat maneuver)                              |
 | [[rangoric-srd/combat/Combat Maneuvers#Dirty Trick\|Dirty trick]] | Blind, dazzle, deafen, entangle, shake or sicken an opponent briefly (combat maneuver) |
-| [[rangoric-srd/combat/Combat Maneuvers#Drag\|Drag]] | Pull an opponent along behind you (combat maneuver) |
-| [[#Feint\|Feint]]                                | Negate your opponent’s Dex bonus to AC                             |
-| [[rangoric-srd/combat/Combat Maneuvers#Grapple\|Grapple]] | Hold an opponent (combat maneuver) |
-| [[#Mounted Combat\|Mounted Combat]]              | Fight while riding a mount.                                        |
-| [[rangoric-srd/combat/Combat Maneuvers#Overrun\|Overrun]] | Move through an opponent’s space (combat maneuver) |
-| [[rangoric-srd/combat/Combat Maneuvers#Reposition\|Reposition]] | Move an opponent within your reach (combat maneuver) |
-| [[rangoric-srd/combat/Combat Maneuvers#Steal\|Steal]] | Take an item an opponent isn’t holding (combat maneuver) |
-| [[rangoric-srd/combat/Combat Maneuvers#Sunder\|Sunder]] | Damage an item an opponent holds or wears (combat maneuver) |
-| [[#Throw Splash Weapon\|Throw splash weapon]]    | Throw container of dangerous liquid at target                      |
-| [[rangoric-srd/combat/Combat Maneuvers#Trip\|Trip]] | Knock an opponent prone (combat maneuver) |
-| [[#Channel Energy\|Channel energy]] | Release positive (or negative) energy in a burst that heals or harms |
-| [[#Turn or Rebuke Undead\|Turn (rebuke) undead]] | Channel positive (or negative) energy to turn away (or awe) undead |
-| [[#Two-Weapon Fighting\|Two-weapon fighting]]    | Fight with a weapon in each hand                                   |
+| [[rangoric-srd/combat/Combat Maneuvers#Drag\|Drag]]               | Pull an opponent along behind you (combat maneuver)                                    |
+| [[#Feint\|Feint]]                                                 | Negate your opponent’s Dex bonus to AC                                                 |
+| [[rangoric-srd/combat/Combat Maneuvers#Grapple\|Grapple]]         | Hold an opponent (combat maneuver)                                                     |
+| [[#Mounted Combat\|Mounted Combat]]                               | Fight while riding a mount.                                                            |
+| [[rangoric-srd/combat/Combat Maneuvers#Overrun\|Overrun]]         | Move through an opponent’s space (combat maneuver)                                     |
+| [[rangoric-srd/combat/Combat Maneuvers#Reposition\|Reposition]]   | Move an opponent within your reach (combat maneuver)                                   |
+| [[rangoric-srd/combat/Combat Maneuvers#Steal\|Steal]]             | Take an item an opponent isn’t holding (combat maneuver)                               |
+| [[rangoric-srd/combat/Combat Maneuvers#Sunder\|Sunder]]           | Damage an item an opponent holds or wears (combat maneuver)                            |
+| [[#Throw Splash Weapon\|Throw splash weapon]]                     | Throw container of dangerous liquid at target                                          |
+| [[rangoric-srd/combat/Combat Maneuvers#Trip\|Trip]]               | Knock an opponent prone (combat maneuver)                                              |
+| [[#Channel Energy\|Channel energy]]                               | Release positive (or negative) energy in a burst that heals or harms                   |
+| [[#Turn or Rebuke Undead\|Turn (rebuke) undead]]                  | Channel positive (or negative) energy to turn away (or awe) undead                     |
+| [[#Two-Weapon Fighting\|Two-weapon fighting]]                     | Fight with a weapon in each hand                                                       |
 
 ##### Aid Another
 
@@ -210,11 +210,11 @@ Some clerics have the ability to turn creatures other than undead. The turning c
 
 If you wield a second weapon in your off hand, you can get one extra attack per round with that weapon. You suffer a –6 penalty with your regular attack or attacks with your primary hand and a –10 penalty to the attack with your off hand when you fight this way. You can reduce these penalties in two ways:
 
-  - If your off-hand weapon is light, the penalties are reduced by 2 each. (An unarmed strike is always considered light.)
+- If your off-hand weapon is light, the penalties are reduced by 2 each. (An unarmed strike is always considered light.)
 
-  - The Two-Weapon Fighting feat lessens the primary hand penalty by 2, and the off-hand penalty by 6.
+- The Two-Weapon Fighting feat lessens the primary hand penalty by 2, and the off-hand penalty by 6.
 
-    Table: Two-Weapon Fighting Penalties summarizes the interaction of all these factors.
+  Table: Two-Weapon Fighting Penalties summarizes the interaction of all these factors.
 
 **Table: Two-Weapon Fighting Penalties**
 

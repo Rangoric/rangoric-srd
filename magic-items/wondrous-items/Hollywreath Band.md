@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Hollywreath Band
 
-This headband is woven of magically preserved holly, its deep green leaves and bright red berries perpetually lustrous. The wearer may create *[[rangoric-srd/spells/Goodberry|goodberries]]* once per day as the spell, and any effect she creates that affects plants, including the domain powers of the [[rangoric-srd/class-options/domains/Plant Domain|Plant domain]], take effect at +1 caster level and gain a +1 bonus to the save DC.
+This headband is woven of magically preserved holly, its deep green leaves and bright red berries perpetually lustrous. The wearer may create _[[rangoric-srd/spells/Goodberry|goodberries]]_ once per day as the spell, and any effect she creates that affects plants, including the domain powers of the [[rangoric-srd/class-options/domains/Plant Domain|Plant domain]], take effect at +1 caster level and gain a +1 bonus to the save DC.
 
-Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Goodberry|goodberry]]*, *[[rangoric-srd/spells/Plant Growth|plant growth]]*; Price 5,700 gp; Cost 2,850 gp; Weight 1 lb.
+Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Goodberry|goodberry]]_, _[[rangoric-srd/spells/Plant Growth|plant growth]]_; Price 5,700 gp; Cost 2,850 gp; Weight 1 lb.

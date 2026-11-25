@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Merfolk
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Aquatic)
-  - **Hit Dice**: 1d10+2 (7 hp)
-  - **Initiative**: +1
-  - **Speed**: 5 ft. (1 square), swim 50 ft.
-  - **Armor Class**: 13 (+1 Dex, +2 natural), touch 11, flat-footed 12
-  - **Base Attack**: +1; **CMB**: +2; **CMD**: 13 (can't be tripped)
-  - **Attack**: [[rangoric-srd/equipment/weapons/Trident|Trident]] +2 melee (1d8+1) or [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +2 ranged (1d10/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Trident|Trident]] +2 melee (1d8+1); or [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +2 ranged (1d10/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
-  - **Saves**: Fort +4, Ref +1, Will –1
-  - **Abilities**: Str 13, Dex 13, Con 14, Int 10, Wis 9, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +3
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Temperate ocean
-  - **Organization**: Solitary, company (2–4), patrol (3–10 plus 2 lieutenants of 3rd level and 1 leader of 3rd–6th level), shoal (11–60 plus 1 sergeant of 3rd level per 20 adults, 5 lieutenants of 5th level, 3 captains of 7th level, and8–12 dolphins), or band (30–60 plus 1 3rd-level sergeant per 20 adults, 5 5th-level lieutenants, 3 7th-level captains, and 10 porpoises)
-  - **Challenge Rating**: 1/3
-  - **Treasure**: NPC gear (trident, heavy crossbow with 10 bolts, other treasure)
-  - **Alignment**: Usually neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: +1
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Aquatic)
+- **Hit Dice**: 1d10+2 (7 hp)
+- **Initiative**: +1
+- **Speed**: 5 ft. (1 square), swim 50 ft.
+- **Armor Class**: 13 (+1 Dex, +2 natural), touch 11, flat-footed 12
+- **Base Attack**: +1; **CMB**: +2; **CMD**: 13 (can't be tripped)
+- **Attack**: [[rangoric-srd/equipment/weapons/Trident|Trident]] +2 melee (1d8+1) or [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +2 ranged (1d10/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Trident|Trident]] +2 melee (1d8+1); or [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +2 ranged (1d10/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
+- **Saves**: Fort +4, Ref +1, Will –1
+- **Abilities**: Str 13, Dex 13, Con 14, Int 10, Wis 9, Cha 10
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +3
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Temperate ocean
+- **Organization**: Solitary, company (2–4), patrol (3–10 plus 2 lieutenants of 3rd level and 1 leader of 3rd–6th level), shoal (11–60 plus 1 sergeant of 3rd level per 20 adults, 5 lieutenants of 5th level, 3 captains of 7th level, and8–12 dolphins), or band (30–60 plus 1 3rd-level sergeant per 20 adults, 5 5th-level lieutenants, 3 7th-level captains, and 10 porpoises)
+- **Challenge Rating**: 1/3
+- **Treasure**: NPC gear (trident, heavy crossbow with 10 bolts, other treasure)
+- **Alignment**: Usually neutral
+- **Advancement**: By character class
+- **Level Adjustment**: +1
 
 From the waist up, merfolk bear the torsos of well-built humans and delicate features reminiscent of elves and other humanoids tied to the natural world. A merfolk's lower body consists of the fins and tail of a great fish. Depending on the region, the scales of merfolk vary in hue, including gleaming silver, pale green, or even blue with stripes of yellow and crimson. Merfolk typically measure 6 to 8 feet in length and weigh over 200 pounds, with females being slightly smaller than males. Although amphibious, merfolk move only with difficulty on land and rarely wander more than a mile from sea.
 

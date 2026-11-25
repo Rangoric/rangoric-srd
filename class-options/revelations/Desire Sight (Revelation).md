@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Desire Sight
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Sp) of the [[rangoric-srd/class-options/mysteries/Intrigue Mystery|intrigue]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Sp) of the [[rangoric-srd/class-options/mysteries/Intrigue Mystery|intrigue]] mystery._
 
 As a standard action, you can learn the desires of any creature you can see within 100 feet, as if you had concentrated until the third round of detect desires. As usual for detect desires, the target can attempt a Will save to negate the effect.
 

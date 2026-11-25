@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Throat Jab
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)\*.*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)\*._
 
 The vigilante’s [[rangoric-srd/classes/Vigilante#^vigilante-specialization|hidden strike]] jabs his opponent in the throat, preventing that opponent from speaking until the vigilante’s next turn. (If the vigilante uses this ability on the surprise round, it lasts until the end of his first full turn after the surprise round.) This prevents the target from calling out for help, using spells with verbal components, or doing anything else that requires speaking. The target cannot be affected by that vigilante’s throat jab again for 24 hours.
 

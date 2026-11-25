@@ -25,4 +25,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This belt has a large platinum buckle, usually depicting the image of a titan. The belt grants the wearer an enhancement bonus to all physical ability scores (Strength, Dexterity, and Constitution) of +2, +4, or +6. Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
 
-Strong transmutation; CL 16th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Bear’s Endurance|bear's endurance]]*, *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*, *[[rangoric-srd/spells/Cat’s Grace|cat's grace]]*; Price 16,000 gp; Cost 8,000 gp; Weight 1 lb.
+Strong transmutation; CL 16th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Bear’s Endurance|bear's endurance]]_, _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_; Price 16,000 gp; Cost 8,000 gp; Weight 1 lb.

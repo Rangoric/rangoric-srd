@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/racial-trait]
 
 **Race**: [[rangoric-srd/races/Fetchling|Fetchling]]. **Modifies**: spell-like abilities.
 
-Rather than taking on the forms of others, some fetchlings are adept at destroying the memories of other creatures. Instead of gaining *[[rangoric-srd/spells/Disguise Self|disguise self]]* as a spell-like ability, such fetchlings can use *[[rangoric-srd/spells/Memory Lapse|memory lapse]]* once per day as a spell-like ability (caster level equal to the fetchling's character level).
+Rather than taking on the forms of others, some fetchlings are adept at destroying the memories of other creatures. Instead of gaining _[[rangoric-srd/spells/Disguise Self|disguise self]]_ as a spell-like ability, such fetchlings can use _[[rangoric-srd/spells/Memory Lapse|memory lapse]]_ once per day as a spell-like ability (caster level equal to the fetchling's character level).

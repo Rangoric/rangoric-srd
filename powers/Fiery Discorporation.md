@@ -29,7 +29,7 @@ Psychokinesis \[Fire\]
 **Range:** Personal  
 **Target:** You  
 **Duration:** Instantaneous and up to one day; see text  
-**Power Points:** 9  
+**Power Points:** 9
 
 You use your mastery of energy to cheat death. If you are within 30 feet of an open flame, you can use this power. Any damage that would reduce you to 0 hit points or lower instead has a chance to discorporate you. You attempt a Will save (DC 5 + damage dealt); if it succeeds, you simply break apart into dozens of flitting tongues of flame and vanish, along with all your gear and anything you are holding or carrying.
 

@@ -56,7 +56,7 @@ A creature with no Constitution score, such as a [[rangoric-srd/monsters/Monster
 
 On the character’s next turn after being reduced to negative hit points (but not dead), and on all later turns, he must make a DC 10 Constitution check to become stable. He takes a penalty on this roll equal to his negative hit point total. A natural 20 on this check is an automatic success. A character who is stable doesn’t need to make this check. If he fails it, he loses 1 hit point. (A character who’s unconscious or dying can’t use any special action that changes the initiative count on which his action occurs.) ^stabilizing
 
-Characters taking continuous damage, such as from an *[[rangoric-srd/spells/Acid Arrow|acid arrow]]* or a [[rangoric-srd/rules/Special Abilities and Conditions#^bleed|bleed]] effect, automatically fail all Constitution checks made to stabilize. Such characters lose 1 hit point per round in addition to the continuous damage.
+Characters taking continuous damage, such as from an _[[rangoric-srd/spells/Acid Arrow|acid arrow]]_ or a [[rangoric-srd/rules/Special Abilities and Conditions#^bleed|bleed]] effect, automatically fail all Constitution checks made to stabilize. Such characters lose 1 hit point per round in addition to the continuous damage.
 
 You can keep a dying character from losing any more hit points and make him stable with the [[rangoric-srd/actions/Stabilize (Action)|Stabilize]] action, a [[rangoric-srd/actions/First Aid|First Aid]] action.
 
@@ -100,11 +100,11 @@ When temporary hit points are lost, they cannot be restored as real hit points c
 
 ##### Nonlethal Damage
 
-**Dealing Nonlethal Damage**: Certain attacks deal nonlethal damage. Other effects, such as heat or being exhausted, also deal nonlethal damage. When you take nonlethal damage, keep a running total of how much you’ve accumulated. *Do not deduct the nonlethal damage number from your current hit points*. It is not “real” damage. Instead, when your nonlethal damage equals your current hit points, you’re staggered, and when it exceeds your current hit points, you fall unconscious. It doesn’t matter whether the nonlethal damage equals or exceeds your current hit points because the nonlethal damage has gone up or because your current hit points have gone down.
+**Dealing Nonlethal Damage**: Certain attacks deal nonlethal damage. Other effects, such as heat or being exhausted, also deal nonlethal damage. When you take nonlethal damage, keep a running total of how much you’ve accumulated. _Do not deduct the nonlethal damage number from your current hit points_. It is not “real” damage. Instead, when your nonlethal damage equals your current hit points, you’re staggered, and when it exceeds your current hit points, you fall unconscious. It doesn’t matter whether the nonlethal damage equals or exceeds your current hit points because the nonlethal damage has gone up or because your current hit points have gone down.
 
-*Nonlethal Damage with a Weapon that Deals Lethal Damage*: You can use a melee weapon that deals lethal damage to deal nonlethal damage instead, but you take a –4 penalty on your attack roll.
+_Nonlethal Damage with a Weapon that Deals Lethal Damage_: You can use a melee weapon that deals lethal damage to deal nonlethal damage instead, but you take a –4 penalty on your attack roll.
 
-*Lethal Damage with a Weapon that Deals Nonlethal Damage*: You can use a weapon that deals nonlethal damage, including an unarmed strike, to deal lethal damage instead, but you take a –4 penalty on your attack roll.
+_Lethal Damage with a Weapon that Deals Nonlethal Damage_: You can use a weapon that deals nonlethal damage, including an unarmed strike, to deal lethal damage instead, but you take a –4 penalty on your attack roll.
 
 **Staggered and Unconscious**: When your nonlethal damage equals your current hit points, you’re staggered. You can only take a standard action or a move action in each round. You cease being staggered when your current hit points once again exceed your nonlethal damage.
 

@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/armor]
 
 # Buckskin Armor
 
-*Light armor.* Cost 15 gp; Armor Bonus +3; Maximum Dex Bonus +6; Armor Check Penalty 0; Arcane Spell Failure 10%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 15 lb. ^stats
+_Light armor._ Cost 15 gp; Armor Bonus +3; Maximum Dex Bonus +6; Armor Check Penalty 0; Arcane Spell Failure 10%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 15 lb. ^stats
 
 This armor is composed of reinforced buckskin.
 

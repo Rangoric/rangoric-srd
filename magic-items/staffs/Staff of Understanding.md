@@ -23,8 +23,8 @@ tags: [rangoric, rangoric/magic-item]
 
 This polished maple or oak staff is inlaid with ivory strips along its length, and runes of various languages also formed from inlaid ivory span the shaft. It allows use of the following spells:
 
-- *[[rangoric-srd/spells/Comprehend Languages|Comprehend languages]]* (1 charge)
-- *[[rangoric-srd/spells/Detect Thoughts|Detect thoughts]]* (2 charges)
-- *[[rangoric-srd/spells/Tongues|Tongues]]* (2 charges)
+- _[[rangoric-srd/spells/Comprehend Languages|Comprehend languages]]_ (1 charge)
+- _[[rangoric-srd/spells/Detect Thoughts|Detect thoughts]]_ (2 charges)
+- _[[rangoric-srd/spells/Tongues|Tongues]]_ (2 charges)
 
-Moderate divination; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]*, *[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]*, *[[rangoric-srd/spells/Tongues|tongues]]*; Price 14,400 gp; Cost 7,200 gp; Weight 5 lbs.
+Moderate divination; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_, _[[rangoric-srd/spells/Tongues|tongues]]_; Price 14,400 gp; Cost 7,200 gp; Weight 5 lbs.

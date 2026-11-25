@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Globster
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]] (Aquatic)
-  - **Hit Dice**: 6d8+30 (57 hp)
-  - **Initiative**: –5
-  - **Speed**: 20 ft. (4 squares), swim 40 ft.
-  - **Armor Class**: 16 (–5 Dex, +12 natural, –1 size), touch 4, flat-footed 16
-  - **Base Attack**: +4; **CMB**: +11 (+15 grapple); **CMD**: 16 (can't be tripped)
-  - **Attack**: Slam +9 melee (2d6+9 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and nausea)
-  - **Full Attack**: Slam +9 melee (2d6+9 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and nausea)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Create Spawn|Create spawn]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] (2d6+9)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Stench|Stench]] (DC 18, 10 rounds), [[rangoric-srd/monsters/abilities/Decompose|decompose]], [[rangoric-srd/monsters/abilities/Water Dependency|water dependency]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid and bludgeoning and piercing damage, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and electricity 10
-  - **Saves**: Fort +7, Ref –3, Will –3
-  - **Abilities**: Str 22, Dex 1, Con 20, Int —, Wis 1, Cha 1
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +14
-  - **Feats**: —
-  - **Environment**: Any oceans or coastlines
-  - **Organization**: Solitary, pair, or beaching (3–8)
-  - **Challenge Rating**: 5
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]] (Aquatic)
+- **Hit Dice**: 6d8+30 (57 hp)
+- **Initiative**: –5
+- **Speed**: 20 ft. (4 squares), swim 40 ft.
+- **Armor Class**: 16 (–5 Dex, +12 natural, –1 size), touch 4, flat-footed 16
+- **Base Attack**: +4; **CMB**: +11 (+15 grapple); **CMD**: 16 (can't be tripped)
+- **Attack**: Slam +9 melee (2d6+9 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and nausea)
+- **Full Attack**: Slam +9 melee (2d6+9 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and nausea)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Create Spawn|Create spawn]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] (2d6+9)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Stench|Stench]] (DC 18, 10 rounds), [[rangoric-srd/monsters/abilities/Decompose|decompose]], [[rangoric-srd/monsters/abilities/Water Dependency|water dependency]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid and bludgeoning and piercing damage, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and electricity 10
+- **Saves**: Fort +7, Ref –3, Will –3
+- **Abilities**: Str 22, Dex 1, Con 20, Int —, Wis 1, Cha 1
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +14
+- **Feats**: —
+- **Environment**: Any oceans or coastlines
+- **Organization**: Solitary, pair, or beaching (3–8)
+- **Challenge Rating**: 5
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A globster is a living collection of half-digested parts from large sea creatures such as whales and squid. Passersby usually discover it by smell long before they see it. Many unfortunate folk who happen upon a globster mistake it for the carcass of a beached sea animal, getting too close before discovering the seemingly dead creature is very much alive. For a time, sages believed globsters were undead—that they were simply undulating wads of rotting flesh animated with a drive to feed. However, globsters are actually living creatures.
 

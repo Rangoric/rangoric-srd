@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/flavor, flavor]
 
 # Queen Titania
 
-***AKA “High Queen of FaerieLand,” “The Faerie Queen,” “High Queen of the Fey,” “Lady of Twilight”***
+**_AKA “High Queen of FaerieLand,” “The Faerie Queen,” “High Queen of the Fey,” “Lady of Twilight”_**
 
 Queen Titania appears as a beautiful [[rangoric-srd/races/Feeorin|feeorin]] woman with dark gold hair, skin like dawn sunshine, piercing goldflecked hazel eyes, and an imposing presence. She favors light blue gowns often adorned with small precious gems and fine embroidery.
 

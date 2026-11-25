@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/armor]
 
 # Studded Leather
 
-*Light armor.* Cost 25 gp; Armor Bonus +3; Maximum Dex Bonus +5; Armor Check Penalty –1; Arcane Spell Failure 15%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 20 lb. ^stats
+_Light armor._ Cost 25 gp; Armor Bonus +3; Maximum Dex Bonus +5; Armor Check Penalty –1; Arcane Spell Failure 15%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 20 lb. ^stats

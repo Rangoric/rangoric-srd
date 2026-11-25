@@ -25,6 +25,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/firearms]
 
 # Musket
 
-*Exotic two-handed early firearm.* Cost 1,500 gp; Dmg 1d10 (S), 1d12 (M); Critical x4; Range Increment 40 ft.; Misfire 1–2 (5 ft.); Capacity 1; Weight 9 lb.; Type Bludgeoning and piercing. ^stats
+_Exotic two-handed early firearm._ Cost 1,500 gp; Dmg 1d10 (S), 1d12 (M); Critical x4; Range Increment 40 ft.; Misfire 1–2 (5 ft.); Capacity 1; Weight 9 lb.; Type Bludgeoning and piercing. ^stats
 
 This long-barreled firearm has a much greater range than a pistol. A musket uses either a bullet and a single dose of black powder or an alchemical cartridge as its ammunition.

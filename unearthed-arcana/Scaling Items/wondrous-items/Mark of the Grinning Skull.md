@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/scaling-item]
 
 # Mark of the Grinning Skull
 
-*A scaling item ([[rangoric-srd/unearthed-arcana/Scaling Items/Scaling Items#^value-of-scaling-items|bauble]]): its powers unlock as its wielder gains levels.*
+_A scaling item ([[rangoric-srd/unearthed-arcana/Scaling Items/Scaling Items#^value-of-scaling-items|bauble]]): its powers unlock as its wielder gains levels._
 
 An ebony skull adorns this tarnished silver band. When the wearer successfully demoralizes a creature with an [[rangoric-srd/skills/Intimidation|Intimidation]] check, the penalties for being shaken increase by 2 on checks and rolls involving the wearer. For example, attacks made against the wearer and saves against her spells would take a –4 penalty rather than a –2 penalty.
 
@@ -29,4 +29,4 @@ An ebony skull adorns this tarnished silver band. When the wearer successfully d
 
 **14th Level**: The wearer can attempt to demoralize opponents as a move action instead of as a standard action. If the wearer can already do so because of the intimidating glare barbarian power or a similar ability, she can instead demoralize opponents as a swift action.
 
-Moderate necromancy; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Cause Fear|cause fear]]*, *[[rangoric-srd/spells/Doom|doom]]*; Price 2,000 gp; Cost 4,625 gp; Weight 1 lb.
+Moderate necromancy; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Cause Fear|cause fear]]_, _[[rangoric-srd/spells/Doom|doom]]_; Price 2,000 gp; Cost 4,625 gp; Weight 1 lb.

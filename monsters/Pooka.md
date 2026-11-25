@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Pooka
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
-  - **Hit Dice**: 4d6+4 (18 hp)
-  - **Initiative**: +7
-  - **Speed**: 30 ft. (6 squares), fly 60 ft. (good)
-  - **Armor Class**: 16 (+3 Dex, +1 natural, +2 size), touch 15, flat-footed 13
-  - **Base Attack**: +2; **CMB**: +3; **CMD**: 13
-  - **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +7 melee (1d2/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +7 melee (1d2/19–20)
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] by touch only, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (2 of the following forms: cat, goat, rabbit \[use stats for raccoon\], or raven; polymorph), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron or silver, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 13
-  - **Saves**: Fort +2, Ref +7, Will +5
-  - **Abilities**: Str 10, Dex 16, Con 13, Int 11, Wis 12, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Emulation|Emulation]] +6, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +18
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, or ruse (3–9)
-  - **Challenge Rating**: 2
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
+- **Hit Dice**: 4d6+4 (18 hp)
+- **Initiative**: +7
+- **Speed**: 30 ft. (6 squares), fly 60 ft. (good)
+- **Armor Class**: 16 (+3 Dex, +1 natural, +2 size), touch 15, flat-footed 13
+- **Base Attack**: +2; **CMB**: +3; **CMD**: 13
+- **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +7 melee (1d2/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +7 melee (1d2/19–20)
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] by touch only, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (2 of the following forms: cat, goat, rabbit \[use stats for raccoon\], or raven; polymorph), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron or silver, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 13
+- **Saves**: Fort +2, Ref +7, Will +5
+- **Abilities**: Str 10, Dex 16, Con 13, Int 11, Wis 12, Cha 13
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Emulation|Emulation]] +6, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +18
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any
+- **Organization**: Solitary, pair, or ruse (3–9)
+- **Challenge Rating**: 2
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Capricious in nature, pookas are always in search of fun, though they don't often care who they inconvenience with their antics—they're just in it for the whimsy. Always chaotic in nature, some pookas are cruel, some are good-natured, and others are slightly unhinged. There's no way to tell which kind one is just by looking at it; only by interacting with a pooka does its nature become clear.
 
@@ -77,6 +77,6 @@ A non-lawful spellcaster of at least 7th level who takes the Improved Familiar f
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +7): At will—*[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Invisibility|invisibility]]* (self only); 3/day—*[[rangoric-srd/spells/Minor Image|minor image]]* (DC 13),*[[rangoric-srd/spells/Sleep|sleep]]* (DC 12); 1/day—*[[rangoric-srd/spells/Suggestion|suggestion]]* (DC 13).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +7): At will—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only); 3/day—_[[rangoric-srd/spells/Minor Image|minor image]]_ (DC 13),_[[rangoric-srd/spells/Sleep|sleep]]_ (DC 12); 1/day—_[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 13).
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Su)**: As a standard action, a pooka can blow across her palm and create a 5-foot-diameter cloud of intoxicating dust. The pooka decides when she uses this ability whether the dust acts as an inhaled poison or a mild intoxicant (equivalent to 1-2 glasses of beer). [[rangoric-srd/rules/afflictions/Pooka Dust|Pooka Dust]]: inhaled; *save* Fort DC 13; *frequency* 1/round for 6 rounds; *effect* 1d2 Wis and 1d2 Cha damage (or intoxication); *cure* 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Su)**: As a standard action, a pooka can blow across her palm and create a 5-foot-diameter cloud of intoxicating dust. The pooka decides when she uses this ability whether the dust acts as an inhaled poison or a mild intoxicant (equivalent to 1-2 glasses of beer). [[rangoric-srd/rules/afflictions/Pooka Dust|Pooka Dust]]: inhaled; _save_ Fort DC 13; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Wis and 1d2 Cha damage (or intoxication); _cure_ 2 consecutive saves.

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Elf Summoner
 
-*An [[rangoric-srd/races/Elf|elf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Summoner#^summoner-class-bonuses|summoner]] or [[rangoric-srd/classes/Unchained Summoner#^unchained-summoner-class-bonuses|unchained summoner]] level.*
+_An [[rangoric-srd/races/Elf|elf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Summoner#^summoner-class-bonuses|summoner]] or [[rangoric-srd/classes/Unchained Summoner#^unchained-summoner-class-bonuses|unchained summoner]] level._
 
 The amount of time the summoner must spend to summon his [[rangoric-srd/classes/Summoner#^summoner-eidolon|eidolon]] is reduced by 1 round, to a minimum of 1 round.

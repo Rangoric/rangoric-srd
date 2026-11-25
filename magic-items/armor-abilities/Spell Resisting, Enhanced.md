@@ -22,4 +22,4 @@ These items bolster the innate spell resistance of the wearer (or wielder) by +5
 
 This quality can be activated three times per day as a free action that lasts 1d4+1 minutes. The armor itself always possesses an SR equal to its caster level +10 (for spells and effects directly targeting it).
 
-Strong abjuration; CL 15th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Spell Resistance|spell resistance]]*; Price +3 bonus.
+Strong abjuration; CL 15th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Spell Resistance|spell resistance]]_; Price +3 bonus.

@@ -16,9 +16,9 @@ tags: [rangoric, rangoric/spell]
 
 # Forceful Antidivination
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Sor/Wiz 8
-  - **Saving Throw**: None
+- **Level**: Sor/Wiz 8
+- **Saving Throw**: None
 
-As *[[rangoric-srd/spells/Active Antidivination|active antidivination]]*, except that if a divination spell or ability is dispelled, or if a magic item is suppressed, the caster/controller of that effect is dealt one point of damage per level of the spell suppressed or dispelled. If a magic item was suppressed, its user suffers damage equal to the level of the effect being suppressed or, if no level is apparent, the level of the items creator.
+As _[[rangoric-srd/spells/Active Antidivination|active antidivination]]_, except that if a divination spell or ability is dispelled, or if a magic item is suppressed, the caster/controller of that effect is dealt one point of damage per level of the spell suppressed or dispelled. If a magic item was suppressed, its user suffers damage equal to the level of the effect being suppressed or, if no level is apparent, the level of the items creator.

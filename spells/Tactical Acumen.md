@@ -37,15 +37,15 @@ tags: [rangoric, rangoric/spell]
 
 # Tactical Acumen
 
-*Enchantment (Compulsion) \[Mind-affecting\]*
+_Enchantment (Compulsion) \[Mind-affecting\]_
 
-  - **Level**: Brd 2, Inq 2, Mag 2, Med 2, Occ 2, Pal 1, Psy 2, Skd 2, Sor/Wiz 2
-  - **Components**: V, S, M/DF (a small piece of a map)
-  - **Casting Time**: 1 standard action
-  - **Range**: 30 ft.
-  - **Area**: The caster and all allies within a 30-ft.-radius burst, centered on the caster
-  - **Duration**: 1 round/level (D)
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Brd 2, Inq 2, Mag 2, Med 2, Occ 2, Pal 1, Psy 2, Skd 2, Sor/Wiz 2
+- **Components**: V, S, M/DF (a small piece of a map)
+- **Casting Time**: 1 standard action
+- **Range**: 30 ft.
+- **Area**: The caster and all allies within a 30-ft.-radius burst, centered on the caster
+- **Duration**: 1 round/level (D)
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-*Tactical acumen* grants you and your allies a mastery of battlefield tactics. Whenever you would gain a bonus on attack rolls or to AC due to battlefield position, such as flanking, higher ground, or cover, you gain an additional +1 insight bonus. This bonus increases by +1 for every five caster levels above 5th you possess (maximum +4).
+_Tactical acumen_ grants you and your allies a mastery of battlefield tactics. Whenever you would gain a bonus on attack rolls or to AC due to battlefield position, such as flanking, higher ground, or cover, you gain an additional +1 insight bonus. This bonus increases by +1 for every five caster levels above 5th you possess (maximum +4).

@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Quick Clear
 
-*A [[rangoric-srd/classes/Gunslinger#^gunslinger-deeds|gunslinger deed]] (Ex), 1st level.*
+_A [[rangoric-srd/classes/Gunslinger#^gunslinger-deeds|gunslinger deed]] (Ex), 1st level._
 
 At 1st level, as a standard action, the gunslinger can remove the [[rangoric-srd/rules/conditions/Broken (Condition)|broken]] condition from a single firearm she is currently wielding, as long as that condition was gained by a firearm [[rangoric-srd/equipment/Firearms#Misfires|misfire]]. The gunslinger must have at least 1 grit point to perform this deed. Alternatively, if the gunslinger spends 1 grit point to perform this deed, she can perform quick clear as a move-equivalent action instead of a standard action.

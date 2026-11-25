@@ -23,10 +23,10 @@ tags: [rangoric, rangoric/spell]
 
 # Protection from Chaos, Communal
 
-*Abjuration \[Lawful\]*
+_Abjuration \[Lawful\]_
 
-  - **Level**: Clr 2, Inq 2, Pal 2, Sor/Wiz 2, Sum 2, SumU 2
-  - **Components**: 
-  - **Target**: Creatures touched
+- **Level**: Clr 2, Inq 2, Pal 2, Sor/Wiz 2, Sum 2, SumU 2
+- **Components**:
+- **Target**: Creatures touched
 
-This spell functions like *[[rangoric-srd/spells/Protection from Chaos|protection from chaos]]*, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-minute intervals among the creatures touched.
+This spell functions like _[[rangoric-srd/spells/Protection from Chaos|protection from chaos]]_, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-minute intervals among the creatures touched.

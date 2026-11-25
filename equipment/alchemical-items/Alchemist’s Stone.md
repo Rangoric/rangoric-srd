@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Alchemist’s Stone
 
-*Alchana, Greater; Special*
+_Alchana, Greater; Special_
 
 One of the Five Great Alchana Stones, the Alchemist’s Stone can be made or used by any alchemist as an aid to increase the chances of making other creations. Simply having the stone in contact with the bearer’s skin (such as worn as a pendant or held in the hand) adds a +10 competence bonus to any [[rangoric-srd/skills/Craft|Craft]] (alchemy) checks. It also has a primary power to replicate chymicals and alchemical substances—if placed in contact with any alchemical substance, it spontaneously duplicates the material in 10% of the normal creation time and without any additional costs or materials. It can only perform this duplication with chymicals, ingestibles, powders, and unguents, not lesser or greater alchana.
 

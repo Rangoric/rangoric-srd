@@ -53,18 +53,18 @@ The blood mage’s class skills (and the key ability for each skill) are [[rango
 
 **Table: The Blood Mage** ^table-the-blood-mage
 
-| Level | Special | Spells per Day |
-| --- | --- | --- |
-| 1st | Blood fuel I | +1 level of existing class |
-| 2nd | Ability fuel I | +1 level of existing class |
-| 3rd | Blood mixing, bonus blood feat | +1 level of existing class |
-| 4th | Blood mastery | +1 level of existing class |
-| 5th | Blood fuel II, Fortitude fuel | +1 level of existing class |
-| 6th | Ability fuel II | +1 level of existing class |
-| 7th | Bonus blood feat | +1 level of existing class |
-| 8th | Blood burn | +1 level of existing class |
-| 9th | Blood fuel III | +1 level of existing class |
-| 10th | Bonus blood feat | +1 level of existing class |
+| Level | Special                        | Spells per Day             |
+| ----- | ------------------------------ | -------------------------- |
+| 1st   | Blood fuel I                   | +1 level of existing class |
+| 2nd   | Ability fuel I                 | +1 level of existing class |
+| 3rd   | Blood mixing, bonus blood feat | +1 level of existing class |
+| 4th   | Blood mastery                  | +1 level of existing class |
+| 5th   | Blood fuel II, Fortitude fuel  | +1 level of existing class |
+| 6th   | Ability fuel II                | +1 level of existing class |
+| 7th   | Bonus blood feat               | +1 level of existing class |
+| 8th   | Blood burn                     | +1 level of existing class |
+| 9th   | Blood fuel III                 | +1 level of existing class |
+| 10th  | Bonus blood feat               | +1 level of existing class |
 
 ###### Class Features
 
@@ -78,7 +78,7 @@ All of the following are class features of the blood mage prestige class.
 
 A blood mage naturally heals 1 hit point less each day for every level of the blood fuel ability he possesses, and any spell that restores hit points to a character restores 1 hit point less per level of the blood fuel ability the character possesses. This reduction in the effectiveness of healing spells is cumulative with any other reduction caused by blood magic abilities or the Blood Power feat.
 
-*Example*: A wizard wishes to cast a *maximized* *[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]*, and he has taken [[rangoric-srd/feats/Maximize Spell|Maximize Spell]] as one of his bonus blood feats. He has a normal *lightning bolt* prepared as a 3rd-level spell instead of the 6th-level spell a *maximized lightning bolt* would normally be. To make up for the three missing levels, he decides to take 12 hit points of damage (he has blood fuel I, meaning 4 hit points of damage per spell level) to cast the *lightning bolt* as a maximized spell.
+_Example_: A wizard wishes to cast a _maximized_ _[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_, and he has taken [[rangoric-srd/feats/Maximize Spell|Maximize Spell]] as one of his bonus blood feats. He has a normal _lightning bolt_ prepared as a 3rd-level spell instead of the 6th-level spell a _maximized lightning bolt_ would normally be. To make up for the three missing levels, he decides to take 12 hit points of damage (he has blood fuel I, meaning 4 hit points of damage per spell level) to cast the _lightning bolt_ as a maximized spell.
 
 **Ability Fuel (Su)**: As a blood mage grows in power he learns not to just feed off the raw life force energy of his body, but also the other energies contained in the body. Blood mages with the ability fuel power can drain points from their ability scores to power spells. Ability fuel causes 2 points of temporary ability damage to the caster per level of the spell being fueled. Once the blood mage learns ability fuel II, he only suffers 1 point of temporary ability damage per level of the spell. These points return at the normal rate of 1 ability point per day. ^blood-mage-ability-fuel
 
@@ -92,6 +92,6 @@ Willing victims simply suffer the damage and the blood mage casts the spell. The
 
 **Fortitude Fuel (Su)**: At 5th level, the blood mage learns to use his resistance to physical threats as a fuel for his magic, gaining a penalty to his Fortitude save to cast more spells. For each level of spell cast using this ability, the blood mage gains a –1 penalty on all Fortitude saves. This penalty is reduced by 1 each day. If the penalty for this ability ever exceeds the blood mage’s base Fortitude save, the blood mage dies as per the Blood Power feat. ^blood-mage-fortitude-fuel
 
-**Blood Burn (Su)**: Once a blood mage reaches 8th level, he can permanently sacrifice part of his life force to gain temporary power. The blood mage may permanently sacrifice hit points to gain additional spell slots. These hit points are permanently lost and may only be regained through the use of a *[[rangoric-srd/spells/Wish|wish]]* spell. However, if a *wish* spell is used to restore the points, the additional spell slots gained by the sacrifice are lost. ^blood-mage-blood-burn
+**Blood Burn (Su)**: Once a blood mage reaches 8th level, he can permanently sacrifice part of his life force to gain temporary power. The blood mage may permanently sacrifice hit points to gain additional spell slots. These hit points are permanently lost and may only be regained through the use of a _[[rangoric-srd/spells/Wish|wish]]_ spell. However, if a _wish_ spell is used to restore the points, the additional spell slots gained by the sacrifice are lost. ^blood-mage-blood-burn
 
 The character gains an additional spell slot for use each day equal to the number of hit points sacrificed divided by three. No more than 9 hit points may be sacrificed for each spell slot, limiting the maximum spell level of the slot to 3rd level.

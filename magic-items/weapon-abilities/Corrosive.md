@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Corrosive
 
-Upon command, a *corrosive* weapon becomes slick with acid that deals an extra 1d6 points of acid damage on a successful hit. The acid does not harm the wielder. The effect remains until another command is given. This magical acid does not damage inanimate objects. Bows, crossbows, and slings so crafted bestow the acid upon their ammunition.
+Upon command, a _corrosive_ weapon becomes slick with acid that deals an extra 1d6 points of acid damage on a successful hit. The acid does not harm the wielder. The effect remains until another command is given. This magical acid does not damage inanimate objects. Bows, crossbows, and slings so crafted bestow the acid upon their ammunition.
 
-Moderate evocation; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Acid Arrow|acid arrow]]*; Price +1 bonus.
+Moderate evocation; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Acid Arrow|acid arrow]]_; Price +1 bonus.

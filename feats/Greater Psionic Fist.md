@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Greater Psionic Fist
 
-You can charge your unarmed strike or natural weapon with additional damage potential.  
+You can charge your unarmed strike or natural weapon with additional damage potential.
 
 Prerequisite: Str 13, [[rangoric-srd/feats/Psionic Fist (Feat)|Psionic Fist]], base attack bonus +5.
 

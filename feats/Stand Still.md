@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat]
 
 # Stand Still
 
-You can prevent foes from fleeing or closing.  
+You can prevent foes from fleeing or closing.
 
 Prerequisite: Str 13.
 

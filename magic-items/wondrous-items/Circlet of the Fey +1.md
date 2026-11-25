@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This thin band of interwoven flowers, grass, and silver thread provides the wearer with the resistances of the fey, namely a +1 resistance bonus on saving throws against enchantments and illusions. The finest and most powerful versions of these circlets (+5) are crafted for members of the fey courts, but other varying potencies are available (+2, +3, and +4) from fey craftsmen.
 
-CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Resistance|resistance]]*; Price 2,000 gp; Cost 1,000 gp + 80 XP; Weight 1 lb.
+CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Resistance|resistance]]_; Price 2,000 gp; Cost 1,000 gp + 80 XP; Weight 1 lb.

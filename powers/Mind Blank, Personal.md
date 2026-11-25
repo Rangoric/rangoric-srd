@@ -30,6 +30,6 @@ Telepathy \[Mind-Affecting\]
 **Range:** Personal  
 **Target:** You  
 **Duration:** One day  
-**Power Points:** Psion/wilder 13, psychic warrior 11  
+**Power Points:** Psion/wilder 13, psychic warrior 11
 
 As [[rangoric-srd/powers/Mind Blank, Psionic|psionic mind blank]] (see below), except as noted here.

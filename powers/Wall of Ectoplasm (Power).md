@@ -34,7 +34,7 @@ Metacreativity (Creation)
 **Duration:** 1 min./level (D)  
 **Saving Throw:** None  
 **Power Resistance:** No  
-**Power Points:** 7  
+**Power Points:** 7
 
 You fashion a roiling wall of ectoplasm, imbuing it with solidity. The wall cannot move once it is formed. It is 1 inch thick per four manifester levels and occupies up to one 10-foot square per level. Each 10-foot square of the wall has 10 hit points per inch of thickness and hardness 5. A section of the wall whose hit points drop to 0 is breached. If a creature tries to break through the wall, the DC for the Strength check is 15 + 2 per inch of thickness.
 

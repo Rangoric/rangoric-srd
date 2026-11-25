@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Cockatrice
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 5d10 (27 hp)
-  - **Initiative**: +3
-  - **Speed**: 20 ft. (4 squares), fly 60 ft. (poor)
-  - **Armor Class**: 15 (+3 Dex, +1 dodge, +1 size), touch 15, flat-footed 11
-  - **Base Attack**: +5; **CMB**: +2; **CMD**: 16
-  - **Attack**: Bite +9 melee (1d4–2 plus petrification)
-  - **Full Attack**: Bite +9 melee (1d4–2 plus petrification)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
-  - **Saves**: Fort +4, Ref +7, Will +2
-  - **Abilities**: Str 6, Dex 17, Con 11, Int 2, Wis 13, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Perception|Perception]] +10
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Temperate plains
-  - **Organization**: Solitary, pair, flight (3–5), or flock (6–12)
-  - **Challenge Rating**: 3
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: 6–8 HD (Small); 9–15 HD (Medium)
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 5d10 (27 hp)
+- **Initiative**: +3
+- **Speed**: 20 ft. (4 squares), fly 60 ft. (poor)
+- **Armor Class**: 15 (+3 Dex, +1 dodge, +1 size), touch 15, flat-footed 11
+- **Base Attack**: +5; **CMB**: +2; **CMD**: 16
+- **Attack**: Bite +9 melee (1d4–2 plus petrification)
+- **Full Attack**: Bite +9 melee (1d4–2 plus petrification)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
+- **Saves**: Fort +4, Ref +7, Will +2
+- **Abilities**: Str 6, Dex 17, Con 11, Int 2, Wis 13, Cha 8
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Perception|Perception]] +10
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Temperate plains
+- **Organization**: Solitary, pair, flight (3–5), or flock (6–12)
+- **Challenge Rating**: 3
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: 6–8 HD (Small); 9–15 HD (Medium)
+- **Level Adjustment**: —
 
 Stupid, vicious, and repulsive, cockatrices are avoided by other creatures due to their magical ability to turn flesh to stone. Legends say that the first cockatrice emerged from an egg laid by a cockerel and incubated by a toad. Whether or not the story is true, today's cockatrices breed true in terrifying and filthy dens haphazardly excavated by as many as a dozen of the squawking creatures. Males greatly outnumber females in these flocks, and are distinguished only by their wattles and combs. The typical cockatrice stands just over 2 feet high and weighs 5 pounds.
 

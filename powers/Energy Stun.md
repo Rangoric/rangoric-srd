@@ -33,7 +33,7 @@ Psychokinesis \[see text\]
 **Duration:** Instantaneous  
 **Saving Throw:** Reflex half or Fortitude half; see text  
 **Power Resistance:** Yes  
-**Power Points:** 3  
+**Power Points:** 3
 
 Upon manifesting this power, you choose cold, electricity, fire, or sonic. You release a powerful stroke of the chosen energy type that encircles all creatures in the area, dealing 1d6 points of damage to each of them. In addition, any creature that fails its save for half damage must succeed on a Will save or be stunned for 1 round.
 

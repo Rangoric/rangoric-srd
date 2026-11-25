@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Slaugrak
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Evil, Extraplanar, Native)
-  - **Hit Dice**: 8d10+24 (68 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 19 (+1 Dex, +9 natural, –1 size), touch 10, flat-footed 18
-  - **Base Attack**: +8; **CMB**: +14; **CMD**: 25
-  - **Attack**: Bite +13 melee (1d10+5/19–20 plus 1d6 acid and [[rangoric-srd/monsters/abilities/Corrupting Bite|corrupting bite]]) or claw +12 melee (1d6+5)
-  - **Full Attack**: Bite +13 melee (1d10+5/19–20 plus 1d6 acid and [[rangoric-srd/monsters/abilities/Corrupting Bite|corrupting bite]]) and 2 claws +12 melee (1d6+5)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Corrupting Bite|Corrupting bite]], [[rangoric-srd/monsters/abilities/Vicious Jaws|vicious jaws]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Stench|stench]] (30 ft., DC 17, 10 rounds), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron or good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Sunlight Powerlessness|sunlight powerlessness]]
-  - **Saves**: Fort +9, Ref +7, Will +5
-  - **Abilities**: Str 20, Dex 12, Con 17, Int 5, Wis 13, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +8 (+12 in rocky areas)
-  - **Feats**: [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
-  - **Environment**: Any underground
-  - **Organization**: Solitary
-  - **Challenge Rating**: 6
-  - **Treasure**: Incidental
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Evil, Extraplanar, Native)
+- **Hit Dice**: 8d10+24 (68 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 19 (+1 Dex, +9 natural, –1 size), touch 10, flat-footed 18
+- **Base Attack**: +8; **CMB**: +14; **CMD**: 25
+- **Attack**: Bite +13 melee (1d10+5/19–20 plus 1d6 acid and [[rangoric-srd/monsters/abilities/Corrupting Bite|corrupting bite]]) or claw +12 melee (1d6+5)
+- **Full Attack**: Bite +13 melee (1d10+5/19–20 plus 1d6 acid and [[rangoric-srd/monsters/abilities/Corrupting Bite|corrupting bite]]) and 2 claws +12 melee (1d6+5)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Corrupting Bite|Corrupting bite]], [[rangoric-srd/monsters/abilities/Vicious Jaws|vicious jaws]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Stench|stench]] (30 ft., DC 17, 10 rounds), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron or good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Sunlight Powerlessness|sunlight powerlessness]]
+- **Saves**: Fort +9, Ref +7, Will +5
+- **Abilities**: Str 20, Dex 12, Con 17, Int 5, Wis 13, Cha 14
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +8 (+12 in rocky areas)
+- **Feats**: [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
+- **Environment**: Any underground
+- **Organization**: Solitary
+- **Challenge Rating**: 6
+- **Treasure**: Incidental
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The taint of demonkind has long corrupted the troglodyte bloodline. Each generation a few mutant creatures marked with the taint of the [[rangoric-srd/rules/planes/The Abyss|Abyss]] are born, and fiendish deformities and stillbirths reeking of brimstone are all too common. The rapacious slaugrak is one of these fiendish mutants.
 
@@ -74,7 +74,7 @@ Slaugraks speak Abyssal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +10): 1/day—*[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]*, *[[rangoric-srd/spells/Slow|slow]]* (DC 15), *[[rangoric-srd/spells/Unholy Blight|unholy blight]]* (DC 16).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +10): 1/day—_[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_, _[[rangoric-srd/spells/Slow|slow]]_ (DC 15), _[[rangoric-srd/spells/Unholy Blight|unholy blight]]_ (DC 16).
 
 **[[rangoric-srd/monsters/abilities/Corrupting Bite|Corrupting Bite]] (Su)**: A slaugrak's caustic saliva is infused with the corrupting power of the [[rangoric-srd/rules/planes/The Abyss|Abyss]]. Any living creature that takes acid damage from a slaugrak's bite must succeed at a DC 17 Fortitude save or take 2 points of Constitution bleed damage as its blood boils and its internal organs liquefy. Creatures without a discernible anatomy (blood and internal organs) are immune to the Constitution bleed. The save DC is Constitution-based.
 

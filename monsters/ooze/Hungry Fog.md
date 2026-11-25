@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Hungry Fog
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]]
-  - **Hit Dice**: 7d8+28 (59 hp)
-  - **Initiative**: –3
-  - **Speed**: fly 15 ft. (perfect)
-  - **Armor Class**: 5 (–3 Dex, –2 size), touch 5, flat-footed 5
-  - **Base Attack**: +5; **CMB**: +5; **CMD**: 12 (can't be tripped)
-  - **Attack**: +5 touch (6d6 negative energy)
-  - **Full Attack**: +5 touch (6d6 negative energy)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Enveloping Mists|Enveloping mists]] (DC 17, 3d6 negative energy and staggered)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Bewitching Brume|bewitching brume]] (10 ft., DC 8), [[rangoric-srd/monsters/abilities/Gaseous|gaseous]], [[rangoric-srd/monsters/abilities/Negative Energy Affinity|negative energy affinity]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, electricity and sonic, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, [[rangoric-srd/monsters/abilities/Vulnerable to Wind|vulnerable to wind]]
-  - **Saves**: Fort +6, Ref –1, Will –3
-  - **Abilities**: Str —, Dex 4, Con 18, Int —, Wis 1, Cha 1
-  - **Skills**: —
-  - **Feats**: —
-  - **Environment**: Any temperate
-  - **Organization**: Solitary, pair, or bank (3–10)
-  - **Challenge Rating**: 6
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]]
+- **Hit Dice**: 7d8+28 (59 hp)
+- **Initiative**: –3
+- **Speed**: fly 15 ft. (perfect)
+- **Armor Class**: 5 (–3 Dex, –2 size), touch 5, flat-footed 5
+- **Base Attack**: +5; **CMB**: +5; **CMD**: 12 (can't be tripped)
+- **Attack**: +5 touch (6d6 negative energy)
+- **Full Attack**: +5 touch (6d6 negative energy)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Enveloping Mists|Enveloping mists]] (DC 17, 3d6 negative energy and staggered)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Bewitching Brume|bewitching brume]] (10 ft., DC 8), [[rangoric-srd/monsters/abilities/Gaseous|gaseous]], [[rangoric-srd/monsters/abilities/Negative Energy Affinity|negative energy affinity]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, electricity and sonic, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, [[rangoric-srd/monsters/abilities/Vulnerable to Wind|vulnerable to wind]]
+- **Saves**: Fort +6, Ref –1, Will –3
+- **Abilities**: Str —, Dex 4, Con 18, Int —, Wis 1, Cha 1
+- **Skills**: —
+- **Feats**: —
+- **Environment**: Any temperate
+- **Organization**: Solitary, pair, or bank (3–10)
+- **Challenge Rating**: 6
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 This eerie, vaporous ooze slips silently through the air, a roiling cloud of green fog within which dance the indistinct shapes of twisted, spooky ghosts. Despite its haunting appearance, and despite the fact that hungry fogs often dwell in old graveyards or hunt battlefields, a hungry fog is not an undead creature. Rather, it is a form of gaseous ooze infused with negative energy. Thus, while a hungry fog is not an undead creature, undead gain considerable boons by fighting within a hungry fog, for its mists heal them as surely as they drain vitality from the living creatures caught within.
 

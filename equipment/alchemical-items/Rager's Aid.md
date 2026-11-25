@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Rager's Aid
 
-*Remedy*
+_Remedy_
 
 This packet filled with spikey-edged leaves has a pungent scent almost strong enough to make your eyes water. While you chew the leaves, you ignore the effects of [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigue]]. The leaves last for 6 rounds, at which point only a wad of pulp remains. When the effect of rager's aid wears off, you are [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]] instead.
 

@@ -55,18 +55,18 @@ The arcane trickster's class skills (and the key ability for each skill) are [[r
 
 **Table: The Arcane Trickster**
 
-| Level | Special                      | Spells per Day              |
-| ----- | ---------------------------- | --------------------------- |
-| 1st   | Ranged legerdemain           | +1 level of existing class |
-| 2nd   | Sneak attack +1d6            | +1 level of existing class |
-| 3rd   | Impromptu sneak attack 1/day | +1 level of existing class |
-| 4th   | Sneak attack +2d6            | +1 level of existing class |
-| 5th   | Tricky spells 3/day          | +1 level of existing class |
-| 6th   | Sneak attack +3d6            | +1 level of existing class |
+| Level | Special                                           | Spells per Day             |
+| ----- | ------------------------------------------------- | -------------------------- |
+| 1st   | Ranged legerdemain                                | +1 level of existing class |
+| 2nd   | Sneak attack +1d6                                 | +1 level of existing class |
+| 3rd   | Impromptu sneak attack 1/day                      | +1 level of existing class |
+| 4th   | Sneak attack +2d6                                 | +1 level of existing class |
+| 5th   | Tricky spells 3/day                               | +1 level of existing class |
+| 6th   | Sneak attack +3d6                                 | +1 level of existing class |
 | 7th   | Impromptu sneak attack 2/day, tricky spells 4/day | +1 level of existing class |
-| 8th   | Sneak attack +4d6            | +1 level of existing class |
-| 9th   | Invisible thief, tricky spells 5/day | +1 level of existing class |
-| 10th  | Sneak attack +5d6, surprise spells | +1 level of existing class |
+| 8th   | Sneak attack +4d6                                 | +1 level of existing class |
+| 9th   | Invisible thief, tricky spells 5/day              | +1 level of existing class |
+| 10th  | Sneak attack +5d6, surprise spells                | +1 level of existing class |
 
 ###### Class Features
 

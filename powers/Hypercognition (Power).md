@@ -29,7 +29,7 @@ Clairsentience
 **Range:** Personal  
 **Target:** You  
 **Duration:** Instantaneous  
-**Power Points:** 15  
+**Power Points:** 15
 
 You make lightning-fast deductions based on only the slightest clue, pattern, or scrap of memory resident in your mind. You can make reasonable statements about a person, place, or object, seemingly from very little knowledge. However, your knowledge is in fact the result of a rigorously logical process that you force your mind to undertake, digging up and correlating every possible piece of knowledge bearing on the topic (possibly even extracting echoes of knowledge from the Astral Plane).
 

@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Residual Tracking
 
-*Divination*
+_Divination_
 
-  - **Level**: Hun 1, Occ 2, Rgr 1
-  - **Components**: V, S, M (a bit of plaster)
-  - **Casting Time**: 1 minute
-  - **Range**: Touch
-  - **Target**: Footprint touched
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Hun 1, Occ 2, Rgr 1
+- **Components**: V, S, M (a bit of plaster)
+- **Casting Time**: 1 minute
+- **Range**: Touch
+- **Target**: Footprint touched
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 By touching a footprint, you receive a clear mental image of the person or creature that made it. The image has the exact same appearance as the creature that made the footprint at the moment it made the imprint, including any telling features or expressions, any gear or equipment, or anything else the creature was carrying at the time. For example, the footprint of a horse would reveal both the horse and any creature riding it when it made the footprint.

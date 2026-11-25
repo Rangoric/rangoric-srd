@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/crossbows]
 
 # Heavy Crossbow
 
-*Simple ranged weapon.* Cost 50 gp; Dmg 1d8 (S), 1d10 (M); Critical 19–20/x2; Range Increment 120 ft.; Weight 8 lb.; Type Piercing. ^stats
+_Simple ranged weapon._ Cost 50 gp; Dmg 1d8 (S), 1d10 (M); Critical 19–20/x2; Range Increment 120 ft.; Weight 8 lb.; Type Piercing. ^stats
 
 You draw a heavy crossbow back by turning a small winch. Loading a heavy crossbow is a full-round action that provokes attacks of opportunity.
 

@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Shining Child
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Evil, Extraplanar)
-  - **Hit Dice**: 16d10+64 (152 hp)
-  - **Initiative**: +7
-  - **Speed**: 30 ft. (6 squares), fly 50 ft. (perfect)
-  - **Armor Class**: 28 (+7 deflection, +3 Dex, +1 dodge, +7 natural), touch 21, flat-footed 24
-  - **Base Attack**: +16; **CMB**: +16; **CMD**: 37
-  - **Attack**: Touches +19 melee (4d10 fire plus [[rangoric-srd/monsters/abilities/Burning Touch|burning touch]]) or searing ray +19 ranged touch (10d6 fire)
-  - **Full Attack**: 2 touches +19 melee (4d10 fire plus [[rangoric-srd/monsters/abilities/Burning Touch|burning touch]]); or searing ray +19 ranged touch (10d6 fire)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Blinding Light|blinding light]] (60 feet), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 120 ft., [[rangoric-srd/monsters/abilities/Radiant Armor|radiant armor]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to blindness, fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and sonic 10
-  - **Saves**: Fort +14, Ref +10, Will +10
-  - **Abilities**: Str 10, Dex 17, Con 18, Int 15, Wis 11, Cha 24
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +21, [[rangoric-srd/skills/Deception|Deception]] +26, [[rangoric-srd/skills/Emulation|Emulation]] +26, [[rangoric-srd/skills/Intimidation|Intimidation]] +26, [[rangoric-srd/skills/Mysticism|Mysticism]] +21, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Persuasion|Persuasion]] +23, [[rangoric-srd/skills/Theology|Theology]] +21
-  - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (blinding light), [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any land (extraplanar)
-  - **Organization**: Solitary, visitation (2–9), or incursion (11–20)
-  - **Challenge Rating**: 12
-  - **Treasure**: None
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Evil, Extraplanar)
+- **Hit Dice**: 16d10+64 (152 hp)
+- **Initiative**: +7
+- **Speed**: 30 ft. (6 squares), fly 50 ft. (perfect)
+- **Armor Class**: 28 (+7 deflection, +3 Dex, +1 dodge, +7 natural), touch 21, flat-footed 24
+- **Base Attack**: +16; **CMB**: +16; **CMD**: 37
+- **Attack**: Touches +19 melee (4d10 fire plus [[rangoric-srd/monsters/abilities/Burning Touch|burning touch]]) or searing ray +19 ranged touch (10d6 fire)
+- **Full Attack**: 2 touches +19 melee (4d10 fire plus [[rangoric-srd/monsters/abilities/Burning Touch|burning touch]]); or searing ray +19 ranged touch (10d6 fire)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Blinding Light|blinding light]] (60 feet), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 120 ft., [[rangoric-srd/monsters/abilities/Radiant Armor|radiant armor]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to blindness, fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and sonic 10
+- **Saves**: Fort +14, Ref +10, Will +10
+- **Abilities**: Str 10, Dex 17, Con 18, Int 15, Wis 11, Cha 24
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +21, [[rangoric-srd/skills/Deception|Deception]] +26, [[rangoric-srd/skills/Emulation|Emulation]] +26, [[rangoric-srd/skills/Intimidation|Intimidation]] +26, [[rangoric-srd/skills/Mysticism|Mysticism]] +21, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Persuasion|Persuasion]] +23, [[rangoric-srd/skills/Theology|Theology]] +21
+- **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (blinding light), [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any land (extraplanar)
+- **Organization**: Solitary, visitation (2–9), or incursion (11–20)
+- **Challenge Rating**: 12
+- **Treasure**: None
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Creatures of burning light and strange geometry, shining children are a terror to behold. Beyond the flares of energy that constantly burst from their forms (particularly in beam-like gouts from their eyes and mouths), the creatures are vaguely humanoid, with strange hands that each bear four fingers. Occasionally summoned by powerful [[rangoric-srd/classes/Wizard|wizards]] in search of rare arcane knowledge, the shining children (who disdain individual names) communicate via telepathy, a psychic roar like metal tearing that sometimes resolves into strained and raspy words.
 
@@ -70,7 +70,7 @@ Shining childs speak telepathy 120 ft.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +19): At will—*[[rangoric-srd/spells/Teleport, Greater|greater teleport]]* (self plus 50 lbs. of objects only), *[[rangoric-srd/spells/Light|light]]*, *[[rangoric-srd/spells/Major Image|major image]]* (DC 20); 3/day—*[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]*, *[[rangoric-srd/spells/Mirage Arcana|mirage arcana]]* (DC 20), *[[rangoric-srd/spells/Rainbow Pattern|rainbow pattern]]* (DC 22), *[[rangoric-srd/spells/Spell Turning|spell turning]]*, *[[rangoric-srd/spells/Sunbeam|sunbeam]]*, *[[rangoric-srd/spells/Wall of Force|wall of force]]*; 1/day—*[[rangoric-srd/spells/Scintillating Pattern|scintillating pattern]]* (DC 25), *[[rangoric-srd/spells/Screen|screen]]* (DC 25), *[[rangoric-srd/spells/Symbol of Insanity|symbol of insanity]]* (DC 25).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +19): At will—_[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Major Image|major image]]_ (DC 20); 3/day—_[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]_, _[[rangoric-srd/spells/Mirage Arcana|mirage arcana]]_ (DC 20), _[[rangoric-srd/spells/Rainbow Pattern|rainbow pattern]]_ (DC 22), _[[rangoric-srd/spells/Spell Turning|spell turning]]_, _[[rangoric-srd/spells/Sunbeam|sunbeam]]_, _[[rangoric-srd/spells/Wall of Force|wall of force]]_; 1/day—_[[rangoric-srd/spells/Scintillating Pattern|scintillating pattern]]_ (DC 25), _[[rangoric-srd/spells/Screen|screen]]_ (DC 25), _[[rangoric-srd/spells/Symbol of Insanity|symbol of insanity]]_ (DC 25).
 
 **[[rangoric-srd/monsters/abilities/Blinding Light|Blinding Light]] (Ex)**: A shining child can radiate a 60-foot-radius aura of blinding light as a free action. Creatures within the affected area must succeed on a DC 25 Fortitude save or be permanently [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]]. A creature that successfully saves cannot be affected again by the same shining child's aura for 24 hours. The save is Constitution-based.
 

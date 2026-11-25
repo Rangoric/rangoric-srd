@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Chymissile Ammunition
 
-*Alchana; Special*
+_Alchana; Special_
 
 Chymissiles are missile weapons containing alchemical substances. They come in a few limited varieties but a wide range of effects (for GMs to expand upon later). In short, these sling bullets and arrows unleash an alchemical substance—powders or liquids, usually—upon impact, instead of or in addition to their weapon damage. Given their broad range of effects and their variable forms, they are listed among Alchana instead of the other two categories. Chymissiles can be any of the following:
 

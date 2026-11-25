@@ -19,4 +19,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This armor gives the ability to utilize a shield bash twice per day with a shield made of magical energy that is affixed to the arm. The wearer can neither wield a weapon in that hand nor have a standard shield equipped when they call upon the power. While the shield is manifested the wearer receives a +2 to Armor Class and suffers any other effects just as if they were wielding a heavy shield.
 
-Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Bull’s Strength|bull’s strength]]*, *[[rangoric-srd/spells/Shield|shield]]*; Price 1,200 gp.
+Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Bull’s Strength|bull’s strength]]_, _[[rangoric-srd/spells/Shield|shield]]_; Price 1,200 gp.

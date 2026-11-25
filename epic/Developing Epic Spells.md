@@ -13,28 +13,28 @@ tags: [rangoric, rangoric/overview]
 
 ### Developing Epic Spells
 
-An epic spell is developed from smaller pieces called seeds and connecting pieces called factors. Every epic seed has a base Casting DC, and every factor has a Casting DC adjustment. When a desired spell is developed, the spellcaster spends resources and time to assemble the pieces that make up the epic spell. The base Casting DCs of each seed are added together; then the DC adjustments of the factors are added to that total. The sum equals the final Casting DC for the epic spell.  
+An epic spell is developed from smaller pieces called seeds and connecting pieces called factors. Every epic seed has a base Casting DC, and every factor has a Casting DC adjustment. When a desired spell is developed, the spellcaster spends resources and time to assemble the pieces that make up the epic spell. The base Casting DCs of each seed are added together; then the DC adjustments of the factors are added to that total. The sum equals the final Casting DC for the epic spell.
 
 The final Casting DC is the most significant gauge of the epic spell’s power. A spellcaster casts an epic spell by making a [[rangoric-srd/epic/Epic Spells#Epic Spellcasting|casting check]] against the epic spell’s Casting DC. Thus, a spellcaster knows immediately, based on his or her own bonus in that field, what epic spells are within his or her capability to cast, which are risky, and which are beyond him or her. Epic casters don’t commit time and money to develop epic spells until they are powerful enough to cast them.
 
 An epic spell developed by an arcane spellcaster is arcane, and an epic spell developed by a divine spellcaster is divine. A character who can cast both divine and arcane epic spells chooses whether a particular spell he or she develops will be arcane or divine. If that same caster uses the heal or life seed in an epic spell, that spell is always considered divine. All the epic spells described here can be developed independently by a character who spends the necessary time, money, and experience points. Alternatively, a character can use those spells as a starting point when creating customized versions of the spells.
 
 | Seed         | Base Casting DC | Seed      | Base Casting DC |
-| ------------ | ------------------ | --------- | ------------------ |
-| Afflict      | 14                 | Energy    | 19                 |
-| Animate      | 25                 | Foresee   | 17                 |
-| Animate dead | 23                 | Fortify   | 17                 |
-| Armor        | 14                 | Heal\*    | 25                 |
-| Banish       | 27                 | Life\*    | 27                 |
-| Compel       | 19                 | Reflect   | 27                 |
-| Conceal      | 17                 | Reveal    | 19                 |
-| Conjure      | 21                 | Slay      | 25                 |
-| Contact      | 23                 | Summon    | 14                 |
-| Delude       | 14                 | Transform | 21                 |
-| Destroy      | 29                 | Transport | 27                 |
-| Dispel       | 19                 | Ward      | 14                 |
+| ------------ | --------------- | --------- | --------------- |
+| Afflict      | 14              | Energy    | 19              |
+| Animate      | 25              | Foresee   | 17              |
+| Animate dead | 23              | Fortify   | 17              |
+| Armor        | 14              | Heal\*    | 25              |
+| Banish       | 27              | Life\*    | 27              |
+| Compel       | 19              | Reflect   | 27              |
+| Conceal      | 17              | Reveal    | 19              |
+| Conjure      | 21              | Slay      | 25              |
+| Contact      | 23              | Summon    | 14              |
+| Delude       | 14              | Transform | 21              |
+| Destroy      | 29              | Transport | 27              |
+| Dispel       | 19              | Ward      | 14              |
 
-\*Spellcasters without at least 21 ranks in Theology or Nature may not use heal or life spell seeds.  
+\*Spellcasters without at least 21 ranks in Theology or Nature may not use heal or life spell seeds.
 
 Resource Cost: The development of an epic spell uses up raw materials costing a number of gold pieces equal to 9,000 xthe final Casting DC of the epic spell being developed.
 
@@ -68,7 +68,7 @@ There are three kinds of factors:
 
 Development Is an Art: Many times developing a completely new epic spell requires some guesswork and rule stretching. As with making and pricing magic items, a sort of balancing act is required. Often the description of a seed will need to be stretched for a particular spell. If necessary, assess an “ad hoc” Casting DC adjustment for any effect that cannot be extrapolated from the seeds and factors presented here-the example spells use ad hoc factors frequently. In all cases, the GM determines the actual Casting DC of the new spell
 
-Approval: This is the final step, and it’s critically important. The epic spell development work and reasoning must be shown to the GM and receive his or her approval. If the GM doesn’t approve, then the epic spell cannot be developed. However, the GM should explain why the epic spell wasn’t approved and possibly offer suggestions on how to create an epic spell that will be acceptable.  
+Approval: This is the final step, and it’s critically important. The epic spell development work and reasoning must be shown to the GM and receive his or her approval. If the GM doesn’t approve, then the epic spell cannot be developed. However, the GM should explain why the epic spell wasn’t approved and possibly offer suggestions on how to create an epic spell that will be acceptable.
 
 ###### Epic Psionic Seeds
 
@@ -78,107 +78,107 @@ Psionic characters take the Epic Manifestation feat, which works just like the E
 
 Just as spellcasters use no spell slots to cast epic spells, psionic characters use no power points to manifest epic powers. Instead, they freely manifest their known epic powers a number of times per day equal to their Psionics skill divided by 10 (round down).
 
-Table: Psionic Seeds   
+Table: Psionic Seeds
 
-|                  |                  |                |                  |
-| ---------------- | ---------------- | -------------- | ---------------- |
+|                  |                 |                |                 |
+| ---------------- | --------------- | -------------- | --------------- |
 |                  | Base Casting DC |                | Base Casting DC |
-| Psychometabolism | 17               | Telepathy      |                  |
-| Fortify          | 25               | Compel         | 19               |
-| Slay             | 21               | Contact        | 23               |
-| Transform        | 50               | Delude         | 14               |
-| Heal             |                  | Psychokinesis  |                  |
-| Psychoportation  |                  | Dispel         | 19               |
-| Banish           | 27               | Energy         | 19               |
-| Summon           | 14               | Reflect        | 27               |
-| Transport        | 27               | Destroy        | 29               |
-| Clairsentience   |                  | Ward           | 14               |
-| Afflict          | 14               | Metacreativity |                  |
-| Foresee          | 17               | Armor          | 14               |
-| Reveal           | 19               | Conjure        | 21               |
-| Conceal          | 17               | Animate dead   | 23               |
-|                  |                  | Animate        | 25               |
-|                  |                  | Life           | 55               |
+| Psychometabolism | 17              | Telepathy      |                 |
+| Fortify          | 25              | Compel         | 19              |
+| Slay             | 21              | Contact        | 23              |
+| Transform        | 50              | Delude         | 14              |
+| Heal             |                 | Psychokinesis  |                 |
+| Psychoportation  |                 | Dispel         | 19              |
+| Banish           | 27              | Energy         | 19              |
+| Summon           | 14              | Reflect        | 27              |
+| Transport        | 27              | Destroy        | 29              |
+| Clairsentience   |                 | Ward           | 14              |
+| Afflict          | 14              | Metacreativity |                 |
+| Foresee          | 17              | Armor          | 14              |
+| Reveal           | 19              | Conjure        | 21              |
+| Conceal          | 17              | Animate dead   | 23              |
+|                  |                 | Animate        | 25              |
+|                  |                 | Life           | 55              |
 
-Table: Epic Spell Factors  
+Table: Epic Spell Factors
 
 |                                                                                                         | Casting DC Modifier |
-| ------------------------------------------------------------------------------------------------------- | ---------------------- |
-| Casting Time                                                                                            |                        |
-| Reduce casting time by 1 round (minimum 1 round)                                                        | +1                    |
-| 1-action casting time                                                                                   | +20                   |
-| Quickened spell (limit one quickened action/round)                                                      | +28                   |
-| Contingent on specific trigger (1)                                                                      | +25                   |
-| Components No verbal component                                                                          | +2                    |
-| No somatic component                                                                                    | +2                    |
-| Duration (2)                                                                                            |                        |
-| Increase duration by 100%                                                                               | +2                    |
-| Permanent duration (apply this factor after all other epic spell factors but before mitigating factors) | x5                     |
-| Dismissible by caster (if not already)                                                                  | +2                    |
-| Range Increase range by 100%                                                                            | +2                    |
-| Target (3)                                                                                              |                        |
-| Add extra target within 300 ft.                                                                         | +10                   |
-| Change from target to area (pick area option below)                                                     | +10                   |
-| Change from personal to Area (pick Area option below)                                                   | +15                   |
-| Change from target to touch or ray (300-ft. range)                                                      | +4                    |
-| Change from touch or ranged touch attack to target                                                      | +4                    |
-| Area (4)                                                                                                |                        |
-| Change area to bolt (5 ft. x300 ft. or 10 ft. x150 ft.)                                                 | +2                    |
-| Change area to cylinder (10-ft. radius,  30 ft. high)                                                   | +2                    |
-| Change area to 40-ft. cone                                                                              | +2                    |
-| Change area to four 10-ft. cubes                                                                        | +2                    |
-| Change area to 20-ft. radius                                                                            | +2                    |
-| Change area to target                                                                                   | +4                    |
-| Change area to touch or ray (close range)                                                               | +4                    |
-| Increase Area by 100%                                                                                   | +4                    |
-| Saving Throw                                                                                            |                        |
-| Increase spell’s saving throw DC by +1                                                                  | +2                    |
-| Spell Resistance                                                                                        |                        |
-| Gain +1 bonus on caster level check to overcome target’s spell resistance                               | +2                    |
-| Gain +1 on caster level check to beat foe’s dispel effect                                               | +2                    |
-| Other                                                                                                   |                        |
-| Recorded onto stone tablet (5)                                                                          | x2                     |
-| Increase damage die by one step (d20 maximum)                                                           | +10                   |
+| ------------------------------------------------------------------------------------------------------- | ------------------- |
+| Casting Time                                                                                            |                     |
+| Reduce casting time by 1 round (minimum 1 round)                                                        | +1                  |
+| 1-action casting time                                                                                   | +20                 |
+| Quickened spell (limit one quickened action/round)                                                      | +28                 |
+| Contingent on specific trigger (1)                                                                      | +25                 |
+| Components No verbal component                                                                          | +2                  |
+| No somatic component                                                                                    | +2                  |
+| Duration (2)                                                                                            |                     |
+| Increase duration by 100%                                                                               | +2                  |
+| Permanent duration (apply this factor after all other epic spell factors but before mitigating factors) | x5                  |
+| Dismissible by caster (if not already)                                                                  | +2                  |
+| Range Increase range by 100%                                                                            | +2                  |
+| Target (3)                                                                                              |                     |
+| Add extra target within 300 ft.                                                                         | +10                 |
+| Change from target to area (pick area option below)                                                     | +10                 |
+| Change from personal to Area (pick Area option below)                                                   | +15                 |
+| Change from target to touch or ray (300-ft. range)                                                      | +4                  |
+| Change from touch or ranged touch attack to target                                                      | +4                  |
+| Area (4)                                                                                                |                     |
+| Change area to bolt (5 ft. x300 ft. or 10 ft. x150 ft.)                                                 | +2                  |
+| Change area to cylinder (10-ft. radius,  30 ft. high)                                                   | +2                  |
+| Change area to 40-ft. cone                                                                              | +2                  |
+| Change area to four 10-ft. cubes                                                                        | +2                  |
+| Change area to 20-ft. radius                                                                            | +2                  |
+| Change area to target                                                                                   | +4                  |
+| Change area to touch or ray (close range)                                                               | +4                  |
+| Increase Area by 100%                                                                                   | +4                  |
+| Saving Throw                                                                                            |                     |
+| Increase spell’s saving throw DC by +1                                                                  | +2                  |
+| Spell Resistance                                                                                        |                     |
+| Gain +1 bonus on caster level check to overcome target’s spell resistance                               | +2                  |
+| Gain +1 on caster level check to beat foe’s dispel effect                                               | +2                  |
+| Other                                                                                                   |                     |
+| Recorded onto stone tablet (5)                                                                          | x2                  |
+| Increase damage die by one step (d20 maximum)                                                           | +10                 |
 
 Unless stated otherwise, the same factor can be applied more than once. 1 Each contingent spell in use counts as a slot used from the caster’s daily epic spell slots. 2 Seeds that already have an instantaneous or permanent duration cannot be increased. 3 When changing a targeted or area seed to a touch or ranged attack, the seed no longer requires a save if it deals damage, instead requiring a successful attack roll. Seeds with a nondamaging effect still allow the target a save. Area spells changed to touch or ranged attacks now affect only the creature successfully attacked. 4 When changing a touch or ranged attack seed to a targeted seed, the seed no longer requires an attack roll if it deals damage, instead requiring a saving throw from the target. On a failed saving throw, the target takes half damage. Area seeds changed to targeted seeds now only affect the target. The GM determines the most appropriate kind of saving throw for the epic spell. 5 Epic spells may only be inscribed on stone tablets or other substances of equal or greater hardness. Once a spell is so inscribed, another epic spellcaster can learn it without going through the process of development. Once an inscribed epic spell is learned by another epic spellcaster in this fashion, the tablet upon which it is inscribed is destroyed and cannot be mended.
 
-Table: Epic Spell Mitigating Factors  
+Table: Epic Spell Mitigating Factors
 
-|                                                             | Casting DC Modifier                        |
+|                                                             | Casting DC Modifier                           |
 | ----------------------------------------------------------- | --------------------------------------------- |
-| Backlash 1d6 points of damage (max d6 = caster’s HD x2) (1) | -1                                           |
-| Burn 100 XP during casting (max 20,000 XP)                  | -1                                           |
-| Increase casting time by 1 minute (max 10 minutes) (2)      | -2                                           |
-| Increase casting time by 1 day (max 100 days) (2)           | -2                                           |
-| Change from target, touch, or area to personal              | -2                                           |
+| Backlash 1d6 points of damage (max d6 = caster’s HD x2) (1) | -1                                            |
+| Burn 100 XP during casting (max 20,000 XP)                  | -1                                            |
+| Increase casting time by 1 minute (max 10 minutes) (2)      | -2                                            |
+| Increase casting time by 1 day (max 100 days) (2)           | -2                                            |
+| Change from target, touch, or area to personal              | -2                                            |
 | Additional participants (ritual)                            | see Table: Additional Participants in Rituals |
-| Decrease damage die by one step (d4 minimum)                | -5                                           |
+| Decrease damage die by one step (d4 minimum)                | -5                                            |
 
-Note: Mitigating factors are always applied after all epic spell factors (see above) are accounted for in the development of an epic spell. 1 The caster cannot somehow avoid or make him or her self immune to backlash damage. For spells with durations longer than instantaneous, the backlash damage is per round. If backlash damage kills a caster, no spell or method exists that will return life to the caster’s body without costing the caster a level-not even wish, true resurrection, miracle, or epic spells that return life to the deceased. Spells that normally penalize the recipient one level when they return him or her to life penalize a caster killed by backlash two levels. 2 When increasing the casting time of a spell in order to reduce the Casting DC, a character must first “use up” the maximum of 10 minutes (for a total DC modifier of -20). After that, a character can continue to add days to the casting time, with a further modifier of -2 per day, up to the maximum of 100 days.  
+Note: Mitigating factors are always applied after all epic spell factors (see above) are accounted for in the development of an epic spell. 1 The caster cannot somehow avoid or make him or her self immune to backlash damage. For spells with durations longer than instantaneous, the backlash damage is per round. If backlash damage kills a caster, no spell or method exists that will return life to the caster’s body without costing the caster a level-not even wish, true resurrection, miracle, or epic spells that return life to the deceased. Spells that normally penalize the recipient one level when they return him or her to life penalize a caster killed by backlash two levels. 2 When increasing the casting time of a spell in order to reduce the Casting DC, a character must first “use up” the maximum of 10 minutes (for a total DC modifier of -20). After that, a character can continue to add days to the casting time, with a further modifier of -2 per day, up to the maximum of 100 days.
 
-Table: Psionic Factors  
+Table: Psionic Factors
 
 |                                                                                           | Casting DC Modifier |
-| ----------------------------------------------------------------------------------------- | -------------------- |
-| Discipline                                                                                |                      |
+| ----------------------------------------------------------------------------------------- | ------------------- |
+| Discipline                                                                                |                     |
 | Seed within primary discipline                                                            | -5                  |
-| Display                                                                                   |                      |
+| Display                                                                                   |                     |
 | Hide visual display (epic psionic seeds substitute one Vi display for V and S components) | +4                  |
 
 Additional Participants: Epic spells can be developed that specifically require additional participants. These spells are called rituals. An epic spell developed as a ritual requires a specific number of additional participants, who each must use up one spell slot of a specified level for the day. During an epic spell’s development, the spell’s creator determines the number of additional participants and the level of the spell slots to be contributed. If the exact number of spellcasters does not partake in the casting, or if the casters do not each contribute the proper spell slot, the epic spell automatically fails. To participate, each participant readies an action to contribute his or her raw spell energy when the primary caster begins the epic spell. Additional participants in a ritual spell reduce the Casting DC, as shown on Table: Additional Participants in Rituals. Each additional participant may only contribute one spell slot. It doesn’t matter whether the additional participants are arcane or divine spellcasters; only the level of the spell slot contributed matters. A contributed spell slot is treated as if normally cast. A wizard may contribute either a prepared, uncast spell slot, or an open, unprepared slot. The Casting DC adjustments for each additional participant stack.
 
-Special: A ritual epic spell that takes longer than 1 standard action to cast requires all extra participants to stand as if casting for the same amount of time. If an extra participant is attacked while contributing a spell slot, the participant must make a Concentration check as if casting a spell of the same level as the slot contributed. If the attack disrupts the participant in the ritual, the epic spell is not necessarily ruined. However, the Casting DC reduction that would have been provided by that additional participant cannot be applied to the final Casting DC of the epic spell. Thus the ritual epic spell will be harder for the primary spellcaster to cast.  
+Special: A ritual epic spell that takes longer than 1 standard action to cast requires all extra participants to stand as if casting for the same amount of time. If an extra participant is attacked while contributing a spell slot, the participant must make a Concentration check as if casting a spell of the same level as the slot contributed. If the attack disrupts the participant in the ritual, the epic spell is not necessarily ruined. However, the Casting DC reduction that would have been provided by that additional participant cannot be applied to the final Casting DC of the epic spell. Thus the ritual epic spell will be harder for the primary spellcaster to cast.
 
 Table: Additional Participants in Rituals
 
-|                              |                         |                              |                         |
-| ---------------------------- | ----------------------- | ---------------------------- | ----------------------- |
+|                              |                      |                              |                      |
+| ---------------------------- | -------------------- | ---------------------------- | -------------------- |
 | Spell Slot Level Contributed | Casting DC Reduction | Spell Slot Level Contributed | Casting DC Reduction |
-| 1st                          | -1                     | 6th                          | -11                    |
-| 2nd                          | -3                     | 7th                          | -13                    |
-| 3rd                          | -5                     | 8th                          | -15                    |
-| 4th                          | -7                     | 9th                          | -17                    |
-| 5th                          | -9                     | Epic slot                    | -19                    |
+| 1st                          | -1                   | 6th                          | -11                  |
+| 2nd                          | -3                   | 7th                          | -13                  |
+| 3rd                          | -5                   | 8th                          | -15                  |
+| 4th                          | -7                   | 9th                          | -17                  |
+| 5th                          | -9                   | Epic slot                    | -19                  |
 
 ### Seed Descriptions
 
@@ -186,7 +186,7 @@ Each seed description hereafter follows the same format used for 0- to 9th-level
 
 ###### Seed:Afflict
 
-Enchantment (Compulsion) \[Fear, Mind-Affecting\]   
+Enchantment (Compulsion) \[Fear, Mind-Affecting\]  
 Casting DC: 14  
 Components: V, S  
 Casting Time: 1 standard action  
@@ -194,13 +194,13 @@ Range: 300 ft.
 Target: One living creature  
 Duration: 20 minutes  
 Saving Throw: Will negates  
-Spell Resistance: Yes  
+Spell Resistance: Yes
 
 Afflicts the target with a -2 morale penalty on attack rolls, checks, and saving throws. For each additional -1 penalty assessed on either the target’s attack rolls, checks, or saving throws, increase the Casting DC by +2. A character may also develop a spell with this seed that afflicts the target with a -1 penalty on caster level checks, a -1 penalty to an ability score, a -1 penalty to spell resistance, or a -1 penalty to some other aspect of the target. For each additional -1 penalty assessed in one of the above categories, increase the Casting DC by +4. This seed can afflict a character’s ability scores to the point where they reach 0, except for Constitution where 1 is the minimum. If a factor is applied to increase the duration of this seed, ability score penalties instead become temporary ability damage. If a factor is applied to make the duration permanent, any ability score penalties become permanent ability drain. Finally, by increasing the Casting DC by +2, one of the target’s senses can be afflicted: sight, smell, hearing, taste, touch, or a special sense the target possesses. If the target fails its saving throw, the sense selected doesn’t function for the spell’s duration, with all attendant penalties that apply for losing the specified sense.
 
 ###### Seed:Animate
 
-Transmutation   
+Transmutation  
 Casting DC: 25  
 Components: V, S  
 Casting Time: 1 minute  
@@ -208,13 +208,13 @@ Range: 300 ft.
 Target: Object or 20 cu. ft. of matter  
 Duration: 20 rounds  
 Saving Throw: None  
-Spell Resistance: No  
+Spell Resistance: No
 
 This seed can imbue inanimate objects with mobility and a semblance of life (not actual life). The animated object attacks whomever or whatever the caster initially designates. The animated object can be of any nonmagical material. The caster can also animate part of a larger mass of raw matter, such as a volume of water in the ocean, part of a stony wall, or the earth itself, as long as the volume of material does not exceed 20 cubic feet. For each additional 10 cubic feet of matter animated, increase the Casting DC by +1, up to 1,000 cubic feet. For each additional 100 cubic feet of matter animated after the first 1,000 cubic feet, increase the spellcraft DC by +1. For each additional Hit Die granted to an animated object of a given size, increase the Casting DC by +2. To animate attended objects (objects carried or worn by another creature), increase the Casting DC by +10.
 
 ###### Seed:Animate Dead
 
-Necromancy \[Evil\]   
+Necromancy \[Evil\]  
 Casting DC: 23  
 Components: V, S  
 Casting Time: 1 minute  
@@ -222,25 +222,25 @@ Range: Touch
 Target: One or more corpses touched  
 Duration: Instantaneous  
 Saving Throw: None  
-Spell Resistance: No  
+Spell Resistance: No
 
 The caster can turn the bones or bodies of dead creatures into undead that follow his or her spoken commands. The undead can follow the caster, or they can remain in an Area and attack any creature (or a specific type of creature) entering the place. The undead remain animated until they are destroyed. (A destroyed undead can’t be animated again.) Intelligent undead can follow more sophisticated commands. The animate dead seed allows a character to create 20 HD of undead. For each additional 1 HD of undead created, increase the Casting DC by +1. The undead created remain under the caster’s control indefinitely. A caster can naturally control 1 HD per caster level of undead creatures he or she has personally created, regardless of the method used. If the caster exceeds this number, newly created creatures fall under his or her control, and excess undead from previous castings become uncontrolled (the caster chooses which creatures are released). If the caster is a cleric, any undead he or she commands through his or her ability to command or rebuke undead do not count toward the limit. For each additional 2 HD of undead to be controlled, increase the Casting DC by +1. Only undead in excess of 20 HD created with this seed can be controlled using this DC adjustment. To both create and control more than 20 HD of undead, increase the Casting DC by +3 per additional 2 HD of undead.
 
-Type of Undead: All types of undead can be created with the animate dead seed, although creating more powerful undead increases the Casting DC of the epic spell, according to the table below. The GM must set the Casting DC for undead not included on the table, using similar undead as a basis for comparison.  
+Type of Undead: All types of undead can be created with the animate dead seed, although creating more powerful undead increases the Casting DC of the epic spell, according to the table below. The GM must set the Casting DC for undead not included on the table, using similar undead as a basis for comparison.
 
-|          |                        |         |                        |
-| -------- | ---------------------- | ------- | ---------------------- |
+|          |                     |         |                     |
+| -------- | ------------------- | ------- | ------------------- |
 | Undead   | Casting DC Modifier | Undead  | Casting DC Modifier |
-| Skeleton | -12                   | Wraith  | -2                    |
-| Zombie   | -12                   | Mummy   | +0                    |
-| Ghoul    | -10                   | Spectre | +2                    |
-| Shadow   | -8                    | Morhg   | +4                    |
-| Ghast    | -6                    | Vampire | +6                    |
-| Wight    | -4                    | Ghost   | +8                    |
+| Skeleton | -12                 | Wraith  | -2                  |
+| Zombie   | -12                 | Mummy   | +0                  |
+| Ghoul    | -10                 | Spectre | +2                  |
+| Shadow   | -8                  | Morhg   | +4                  |
+| Ghast    | -6                  | Vampire | +6                  |
+| Wight    | -4                  | Ghost   | +8                  |
 
 ###### Seed: Armor
 
-Conjuration (Creation) \[Force\]   
+Conjuration (Creation) \[Force\]  
 Casting DC: 14  
 Components: V, S  
 Casting Time: 1 minute  
@@ -248,13 +248,13 @@ Range: Touch
 Target: Creature touched  
 Duration: 24 hours (D)  
 Saving Throw: Will negates (harmless)  
-Spell Resistance: Yes (harmless)  
+Spell Resistance: Yes (harmless)
 
 This seed grants a creature additional armor, providing a +4 bonus to Armor Class. The bonus is either an armor bonus or a natural armor bonus, whichever the caster selects. Unlike mundane armor, the armor seed provides an intangible protection that entails no armor check penalty, arcane spell failure chance, or speed reduction. Incorporeal creatures can’t bypass the armor seed the way they can ignore normal armor. For each additional point of Armor Class bonus, increase the Casting DC by +2. The caster can also grant a creature a +1 bonus to Armor Class using a different bonus type, such as deflection, divine, or insight. For each additional point of bonus to Armor Class of one of these types, increase the Casting DC by +10.
 
 ###### Seed: Banish
 
-Abjuration   
+Abjuration  
 Casting DC: 27  
 Components: V, S  
 Casting Time: 1 minute  
@@ -262,13 +262,13 @@ Range: 75 ft.
 Target: One or more extraplanar creatures, no two of which can be more than 30 ft. apart  
 Duration: Instantaneous  
 Saving Throw: Will negates  
-Spell Resistance: Yes  
+Spell Resistance: Yes
 
 This seed forces extraplanar creatures out of the caster’s home plane. The caster can banish up to 14 HD of extraplanar creatures. For each additional 2 HD of extraplanar creatures banished, increase the Casting DC by +1. To specify a type or sub-type of creature other than outsider to be banished, increase the Casting DC by +20.
 
 ###### Seed: Compel
 
-Enchantment (Compulsion) \[Mind-Affecting\]   
+Enchantment (Compulsion) \[Mind-Affecting\]  
 Casting DC: 19  
 Components: V, M  
 Casting Time: 1 minute  
@@ -276,13 +276,13 @@ Range: 75 ft.
 Target: One living creature  
 Duration: 20 hours or until completed  
 Saving Throw: Will negates  
-Spell Resistance: Yes  
+Spell Resistance: Yes
 
 This seed compels a target to follow a course of activity. At the basic level of effect, a spell using the compel seed must be worded in such a manner as to make the activity sound reasonable. Asking the creature to do an obviously harmful act automatically negates the effect (unless the Casting DC has been increased to avoid this limitation; see below). To compel a creature to follow an outright unreasonable course of action, increase the Casting DC by +10. The compelled course of activity can continue for the entire duration. If the compelled activity can be completed in a shorter time, the spell ends when the subject finishes what he or she was asked to do. The caster can instead specify conditions that will trigger a special activity during the duration. If the condition is not met before the spell using this seed expires, the activity is not performed.
 
 ###### Seed: Conceal
 
-Illusion (Glamer)   
+Illusion (Glamer)  
 Casting DC: 17  
 Components: V, S  
 Casting Time: 1 minute  
@@ -290,13 +290,13 @@ Range: Personal or touch
 Target: You or a creature or object of up to 2,000 lb.  
 Duration: 200 minutes or until expended (D)  
 Saving Throw: None or Will negates (harmless, object)  
-Spell Resistance: No or Yes (harmless, object)  
+Spell Resistance: No or Yes (harmless, object)
 
 This seed can conceal a creature or object touched from sight, even from darkvision. If the subject is a creature carrying gear, the gear vanishes too, rendering the creature invisible. A spell using the conceal seed ends if the subject attacks any creature. Actions directed at unattended objects do not break the spell, and causing harm indirectly is not an attack. To create invisibility that lasts regardless of the actions of the subject, increase the Casting DC by +4. Alternatively, this seed can conceal the exact location of the subject so that it appears to be about 2 feet away from its true location; this increases the Casting DC by +2. The subject benefits from a 50% miss chance as if it had total concealment. However, unlike actual total concealment, this displacement effect does not prevent enemies from targeting him or her normally. The conceal seed can also be used to block divination spells, spell-like effects, and epic spells developed using the reveal seed; this increases the Casting DC by +6. In all cases where divination magic of any level, including epic level, is employed against the subject of a spell using the conceal seed for this purpose, an opposed caster level check determines which spell works.
 
 ###### Seed: Conjure
 
-Conjuration (Creation)   
+Conjuration (Creation)  
 Casting DC: 21  
 Components: V, S  
 Casting Time: 1 minute  
@@ -304,7 +304,7 @@ Range: 0 ft.
 Effect: Unattended, nonmagical object of nonliving matter up to 20 cu. ft.  
 Duration: 8 hours  
 Saving Throw: None  
-Spell Resistance: No  
+Spell Resistance: No
 
 This seed creates a nonmagical, unattended object of nonliving matter of up to 20 cubic feet in volume. The caster must succeed at an appropriate skill check to make a complex item. The seed can create matter ranging in hardness and rarity from vegetable matter all the way up to mithral and even adamantine. Simple objects have a natural duration of 24 hours. For each additional cubic foot of matter created, increase the Casting DC by +2. Attempting to use any created object as a material component or a resource during epic spell development causes the spell to fail and the object to disappear.
 
@@ -312,7 +312,7 @@ The conjure seed can be used in conjunction with the life and fortify seeds for 
 
 ###### Seed: Contact
 
-Divination   
+Divination  
 Casting DC: 23  
 Components: V, S  
 Casting Time: 1 minute  
@@ -320,7 +320,7 @@ Range: See text
 Target: One creature  
 Duration: 200 minutes  
 Saving Throw: None  
-Spell Resistance: No  
+Spell Resistance: No
 
 This seed forges a telepathic bond with a particular creature with which the caster is familiar (or one that the caster can currently see directly or through magical means) and can converse back and forth. The subject recognizes the caster if it knows him or her. It can answer in like manner immediately, though it does not have to. The caster can forge a communal bond among more than two creatures. For each additional creature contacted, increase the Casting DC by +1. The bond can be established only among willing subjects, which therefore receive no saving throw or spell resistance. For telepathic communication through the bond regardless of language, increase the Casting DC by +4. No special influence is established as a result of the bond, only the power to communicate at a distance.
 
@@ -328,7 +328,7 @@ At the base Casting DC of 20, a caster can also use the contact seed to imbue an
 
 ###### Seed: Delude
 
-Illusion (Figment)   
+Illusion (Figment)  
 Casting DC: 14  
 Components: V, S  
 Casting Time: 1 minute  
@@ -336,13 +336,13 @@ Range: 12,000 ft.
 Effect: Visual figment that can extend for up to twenty 30-ft. cubes (S)  
 Duration: Concentration plus 20 hours  
 Saving Throw: Will disbelief (if interacted with)  
-Spell Resistance: No  
+Spell Resistance: No
 
 A spell developed with the delude seed creates the visual illusion of an object, creature, or force, as visualized by the caster. The caster can move the image within the limits of the size of the effect by concentrating (the image is otherwise stationary). The image disappears when struck by an opponent unless the caster causes the illusion to react appropriately. For an illusion that includes audible, olfactory, tactile, taste, and thermal aspects, increase the Casting DC by +2 per extra aspect. Even realistic tactile and thermal illusions can’t deal damage, however. For each additional image to be created, increase the Casting DC by +1. For an illusion that follows a script determined by the caster, increase the Casting DC by +9. The figment follows the script without the caster having to concentrate on it. The illusion can include intelligible speech if desired. For an illusion that makes any Area appear to be something other than it is, increase the Casting DC by +4. Additional components, such as sounds, can be added as noted above. Concealing creatures requires additional spell development using this or other seeds.
 
 ###### Seed: Destroy
 
-Transmutation   
+Transmutation  
 Casting DC: 29  
 Components: V, S  
 Casting Time: 1 minute  
@@ -350,13 +350,13 @@ Range: 12,000 ft.
 Target: One creature, or up to a 10-foot cube of nonliving matter  
 Duration: Instantaneous  
 Saving Throw: Fortitude half  
-Spell Resistance: Yes  
+Spell Resistance: Yes
 
 This seed deals 20d6 points of damage to the target. The damage is of no particular type or energy. For each additional 1d6 points of damage dealt, increase the Casting DC by +2. If the damage [[rangoric-srd/combat/Injury and Death#^death|kills]] the target (or reduces a construct, object, or undead to 0 hit points), it is utterly destroyed as if disintegrated, leaving behind only a trace of fine dust. Up to a 10-foot cube of nonliving matter is affected, so a spell using the destroy seed destroys only part of any very large object or structure targeted. The destroy seed affects even magical matter, energy fields, and force effects that are normally only affected by the disintegrate spell. Such effects are automatically destroyed. Epic spells using the ward seed may also be destroyed, though the caster must succeed at an opposed caster level check against the other spellcaster to bring down a ward spell.
 
 ###### Seed: Dispel
 
-Abjuration   
+Abjuration  
 Casting DC: 19  
 Components: V, S  
 Casting Time: 1 minute  
@@ -364,13 +364,13 @@ Range: 300 ft.
 Target: One creature, object, or spell  
 Duration: Instantaneous  
 Saving Throw: None  
-Spell Resistance: No  
+Spell Resistance: No
 
 This seed can end ongoing spells that have been cast on a creature or object, temporarily suppress the magical abilities of a magic item, or end ongoing spells (or at least their effects) within an Area. A dispelled spell ends as if its duration had expired. The dispel seed can defeat all spells, even those not normally subject to dispel magic. The dispel seed can dispel (but not counter) the ongoing effects of supernatural abilities as well as spells, and it affects spell-like effects just as it affects spells. One creature, object, or spell is the target of the dispel seed. The caster makes a dispel check against the spell or against each ongoing spell currently in effect on the object or creature. A dispel check is 1d20 + 10 against a DC of 11 + the target spell’s caster level. For each additional +1 on the dispel check, increase the Casting DC by +1. If targeting an object or creature that is the effect of an ongoing spell, make a dispel check to end the spell that affects the object or creature. If the object targeted is a magic item, make a dispel check against the item’s caster level. If succeessful, all the item’s magical properties are suppressed for 1d4 rounds, after which the item recovers on its own. A suppressed item becomes nonmagical for the duration of the effect. An interdimensional interface is temporarily closed. A magic item’s physical properties are unchanged. Any creature, object, or spell is potentially subject to the dispel seed, even the spells of gods and the abilities of artifacts. A character automatically succeeds on the dispel check against any spell that he or she cast him or her self.
 
 ###### Seed: Energy
 
-Evocation \[Acid, Fire, Electricity, Cold, or Sonic\]   
+Evocation \[Acid, Fire, Electricity, Cold, or Sonic\]  
 Casting DC: 19  
 Components: V, S  
 Casting Time: 1 minute  
@@ -378,7 +378,7 @@ Range: 300 ft. or touched creature or object of 2,000 lb. or less
 Area: A bolt 5 ft. wide to 300 ft. long; or a 10-ft.-radius emanation; or a wall whose Area is up to one 200-ft. square; or a sphere or hemi-sphere with a radius of up to 20 ft.  
 Duration: Instantaneous or 20 hours (see text)  
 Saving Throw: Reflex half  
-Spell Resistance: Yes  
+Spell Resistance: Yes
 
 This seed uses whichever one of five energy types the caster chooses: acid, cold, electricity, fire, or sonic. The caster can cast the energy forth as a bolt, imbue an object with the energy, or create a freestanding manifestation of the energy. If the spell developed using the energy seed releases a bolt, that bolt instantaneously deals 10d6 points of damage of the appropriate energy type, and all in the bolt’s area must make a Reflex save for half damage. For each additional 1d6 points of damage dealt, increase the Casting DC by +2. The bolt begins at the caster’s fingertips. To imbue another creature with the ability to use an energy bolt as a spell-like ability at its option or when a particular condition is met, increase the Casting DC by +25. The caster can also cause a creature or object to emanate the specific energy type out to a radius of 10 feet for 20 hours. The emanated energy deals 2d6 points of energy damage per round against unprotected creatures (the target creature is susceptible if not separately warded or otherwise resistant to the energy). For each additional 1d6 points of damage emanated, increase the Casting DC by +2. The caster may also create a wall, half-circle, circle, dome, or sphere of the desired energy that emanates the energy for up to 20 hours. One side of the wall, selected by the caster, sends forth waves of energy, dealing 2d4 points of energy damage to creatures within 10 feet and 1d4 points of energy damage to those past 10 feet but within 20 feet. The wall deals this damage when it appears and in each round that a creature enters or remains in the area. In addition, the wall deals 2d6+20 points of energy damage to any creature passing through it. The wall deals double damage to undead creatures. For each additional 1d4 points of damage, increase the Casting DC by +2.
 
@@ -392,13 +392,13 @@ Components: V, S
 Casting Time: 1 minute  
 Range: Personal  
 Target: You  
-Duration: Instantaneous or concentration (see text)  
+Duration: Instantaneous or concentration (see text)
 
 The caster can foretell the immediate future, or gain information about specific questions. He or she is 90% likely to receive a meaningful reading of the future of the next 30 minutes. If successful, the caster knows if a particular action will bring good results, bad results, or no result. For each additional 30 minutes into the future, multiply the Casting DC by x2. For better results, the caster can pose up to ten specific questions (one per round while he or she concentrates) to unknown powers of other planes, but the base Casting DC for such an attempt is 23.  The answers return in a language the caster understands, but use only one-word replies: “yes,” “no,” “maybe,” “never,” “irrelevant,” or some other one-word answer. Unlike 0- to 9th-level spells of similar type, all questions answered are 90% likely to be answered truthfully. However, a specific spell using the foresee seed can only be cast once every five weeks. The foresee seed is also useful for epic spells requiring specific information before functioning, such as spells using the reveal and transport seeds. The foresee seed can also be used to gain one basic piece of information about a living target: level, class, alignment, or some special ability (or one of an object’s magical abilities, if any). For each additional piece of information revealed, increase the Casting DC by +2.
 
 ###### Seed: Fortify
 
-Transmutation   
+Transmutation  
 Casting DC: 17 (see text)  
 Components: V, S  
 Casting Time: 1 minute  
@@ -406,7 +406,7 @@ Range: Touch
 Target: Creature touched  
 Duration: 20 hours; permanent for age adjustment  
 Saving Throw: Will negates (harmless)  
-Spell Resistance: Yes (harmless)  
+Spell Resistance: Yes (harmless)
 
 Spells using the fortify seed grant a +1 enhancement bonus to whichever one of the following the caster chooses:
 
@@ -432,7 +432,7 @@ A special use of the fortify seed grants the target a permanent +1 year to its c
 
 ###### Seed: Heal
 
-Conjuration (Healing)   
+Conjuration (Healing)  
 Casting DC: 25  
 Components: V, S, DF  
 Casting Time: 1 minute  
@@ -440,7 +440,7 @@ Range: Touch
 Target: Creature touched  
 Duration: Instantaneous  
 Saving Throw: Yes (harmless; see text)  
-Spell Resistance: Yes (harmless)  
+Spell Resistance: Yes (harmless)
 
 Spells developed with the heal seed channel positive energy into a creature to wipe away disease and injury. Such a spell completely cures all diseases, blindness, deafness, hit point damage, and temporary ability damage. To restore permanently drained ability score points, increase the Casting DC by +6. The heal seed neutralizes poisons in the subject’s system so that no additional damage or effects are suffered. It offsets feeblemindedness and cures mental disorders caused by spells or injury to the brain. It dispels all magical effects penalizing the character’s abilities, including effects caused by spells, even epic spells developed with the afflict seed. Only a single application of the spell is needed to simultaneously achieve all these effects. To dispel all [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative levels]] afflicting the target, temporary and permanent, increase the Casting DC by +2.
 
@@ -450,7 +450,7 @@ An epic caster with 21 ranks in Arcana, Nature, or Theology can cast a spell dev
 
 ###### Seed: Life
 
-Conjuration (Healing)   
+Conjuration (Healing)  
 Casting DC: 27  
 Components: V, S, DF  
 Casting Time: 1 minute  
@@ -458,9 +458,9 @@ Range: Touch
 Target: Dead creature touched  
 Duration: Instantaneous  
 Saving Throw: None (see text)  
-Spell Resistance: Yes (harmless)  
+Spell Resistance: Yes (harmless)
 
-A spell developed with the life seed will restore life and complete vigor to any deceased creature. The condition of the remains is not a factor. So long as some small portion of the creature’s body still exists, it can be returned to life, but the portion receiving the spell must have been part of the creature’s body at the time of death. (The remains of a creature hit by a disintegrate spell count as a small portion of its body.) The creature can have been dead for no longer than two hundred years. For each additional ten years, increase the Casting DC by +1. The creature is immediately restored to full hit points, vigor, and health, with no loss of prepared spells. However, the subject gains one [[rangoric-srd/rules/Special Abilities and Conditions#^permanent-negative-levels|permanent negative level]], as with *[[rangoric-srd/spells/Resurrection|resurrection]]* (or loses 1 point of Constitution if the subject was 1st level). The life seed cannot revive someone who has died of old age.
+A spell developed with the life seed will restore life and complete vigor to any deceased creature. The condition of the remains is not a factor. So long as some small portion of the creature’s body still exists, it can be returned to life, but the portion receiving the spell must have been part of the creature’s body at the time of death. (The remains of a creature hit by a disintegrate spell count as a small portion of its body.) The creature can have been dead for no longer than two hundred years. For each additional ten years, increase the Casting DC by +1. The creature is immediately restored to full hit points, vigor, and health, with no loss of prepared spells. However, the subject gains one [[rangoric-srd/rules/Special Abilities and Conditions#^permanent-negative-levels|permanent negative level]], as with _[[rangoric-srd/spells/Resurrection|resurrection]]_ (or loses 1 point of Constitution if the subject was 1st level). The life seed cannot revive someone who has died of old age.
 
 An epic caster with 21 ranks in Arcana, Nature, or Theology can cast a spell developed with a special version of the life seed that gives actual life to normally inanimate objects. You can give inanimate plants and animals a soul, personality, and humanlike sentience. To succeed, you must make a Will save (DC 10 + the target’s Hit Dice, or the Hit Dice a plant will have once it comes to life).
 
@@ -468,13 +468,13 @@ The newly living object, intelligent animal, or sentient plant is friendly towar
 
 ###### Seed: Reflect
 
-Abjuration   
+Abjuration  
 Casting DC: 27  
 Components: V, S  
 Casting Time: 1 minute  
 Range: Personal  
 Target: You  
-Duration: Until expended or 12 hours  
+Duration: Until expended or 12 hours
 
 Attacks targeted against the caster rebound on the original attacker. Each use of the reflect seed in an epic spell is effective against one type of attack only: spells (and spell-like effects), ranged attacks, or melee attacks. To reflect an area spell, where the caster is not the target but are caught in the vicinity, increase the Casting DC by +20. A single successful use of reflect expends its protection. Spells developed with the reflect seed against spells and spell-like effects return all spell effects of up to 1st level. For each additional level of spells to be reflected, increase the Casting DC by +20. Epic spells are treated as 10th-level spells for this purpose.
 
@@ -484,7 +484,7 @@ If the reflect seed is used against a melee attack or ranged attack, five such a
 
 ###### Seed: Reveal
 
-Divination   
+Divination  
 Casting DC: 19 (see text)  
 Components: V, S  
 Casting Time: 1 minute  
@@ -492,7 +492,7 @@ Range: See text
 Effect: Magical sensor  
 Duration: 20 minutes (D)  
 Saving Throw: None  
-Spell Resistance: No  
+Spell Resistance: No
 
 The caster of this seed can see some distant location or hear the sounds at some distant location almost as if he or she was there. To both hear and see, increase the Casting DC by +2. Distance is not a factor, but the locale must be known-a place familiar to the caster or an obvious one. The spell creates an invisible sensor that can be dispelled. Lead sheeting or magical protection blocks the spell, and the caster senses that the spell is so blocked. If the caster prefers to create a mobile sensor (speed 30 feet) that he or she controls, increase the Casting DC by +2. To use the reveal seed to reach one specific different plane of existence, increase the Casting DC by +8. To allow magically enhanced senses to work through a spell built with the reveal seed, increase the Casting DC by +4. To cast any spell from the sensor whose range is touch or greater, increase the Casting DC by +6; however, the caster must maintain line of effect to the sensor at all times. If the line of effect is obstructed, the spell ends. To free the caster of the line of effect restriction for casting spells through the sensor, multiply the Casting DC by x10.
 
@@ -502,7 +502,7 @@ The reveal seed can also be used to develop spells that will do any one of the f
 
 ###### Seed: Slay
 
-Necromancy \[Death\]   
+Necromancy \[Death\]  
 Casting DC: 25  
 Components: V, S  
 Casting Time: 1 minute  
@@ -510,13 +510,13 @@ Range: 300 ft.
 Target: One living creature  
 Duration: Instantaneous  
 Saving Throw: Fortitude partial or half (see text)  
-Spell Resistance: Yes  
+Spell Resistance: Yes
 
 A spell developed using the slay seed snuffs out the life force of a living creature, killing it instantly. The slay seed kills a creature of up to 80 HD. The subject is entitled to a Fortitude saving throw to survive the attack. If the save is successful, it instead takes 3d6+20 points of damage. For each additional 80 HD affected (or each additional creature affected), increase the Casting DC by +8. Alternatively, a caster can use the slay seed in an epic spell to suppress the life force of the target by bestowing 2d4 negative levels on the target (or half as many negative levels on a successful Fortitude save). For each additional 1d4 negative levels bestowed, increase the Casting DC by +4. If the subject has at least as many negative levels as Hit Dice, it dies. If the subject survives and the negative levels persist for 24 hours or longer, the subject must make another Fortitude saving throw, or the negative levels become [[rangoric-srd/rules/Special Abilities and Conditions#^permanent-negative-levels|permanent]].
 
 ###### Seed: Summon
 
-Conjuration (Summoning)   
+Conjuration (Summoning)  
 Casting DC: 14  
 Components: V, S  
 Casting Time: 1 minute  
@@ -524,7 +524,7 @@ Range: 75 ft.
 Effect: One summoned creature  
 Duration: 20 rounds (D)  
 Saving Throw: Will negates (see text)  
-Spell Resistance: Yes (see text)  
+Spell Resistance: Yes (see text)
 
 This seed can summon an outsider. It appears where the caster designates and acts immediately, on his or her turn, if its spell resistance is overcome and it fails a Will saving throw. It attacks the caster’s opponents to the best of its ability. If the caster can communicate with the outsider, he or she can direct it not to attack, to attack particular enemies, or to perform other actions. The spell conjures an outsider the caster selects of CR 2 or less. For each +1 CR of the summoned outsider, increase the Casting DC by +2. For each additional outsider of the same Challenge Rating summoned, multiply the Casting DC by x2. When a caster develops a spell with the summon seed that summons an air, chaotic, earth, evil, fire, good, lawful, or water creature, the completed spell is also of that type.
 
@@ -534,7 +534,7 @@ Finally, by increasing the Casting DC by +60, the caster can summon a unique ind
 
 ###### Seed: Transform
 
-Transmutation   
+Transmutation  
 Casting DC: 21  
 Components: V, S  
 Casting Time: 1 minute  
@@ -542,7 +542,7 @@ Range: 300 ft.
 Target: One creature or inanimate, nonmagical object  
 Duration: Permanent  
 Saving Throw: Fortitude negates (see text)  
-Spell Resistance: Yes  
+Spell Resistance: Yes
 
 Spells using the transform seed change the subject into another form of creature or object. The new form can range in size from Diminutive to one size larger than the subject’s normal form. For each additional increment of size change, increase the Casting DC by +6. If the caster wants to transform a nonmagical, inanimate object into a creature of his or her type or transform a creature into a nonmagical, inanimate object, increase the Casting DC by +10. To change a creature of one type into another type increase the Casting DC by +5.
 
@@ -554,7 +554,7 @@ The transform seed can also change its target into someone specific. To transfor
 
 ###### Seed: Transport
 
-Conjuration\[Teleportation\]   
+Conjuration\[Teleportation\]  
 Casting DC: 27  
 Components: V, S  
 Casting Time: 1 minute  
@@ -562,7 +562,7 @@ Range: Touch
 Target: You and touched objects or other touched willing creatures weighing up to 1,000 lb.  
 Duration: Instantaneous, or 5 rounds for temporal transport  
 Saving Throw: None or Will negates (see text)  
-Spell Resistance: No or Yes (see text)  
+Spell Resistance: No or Yes (see text)
 
 Spells using the transport seed instantly take the caster to a designated destination, regardless of distance. For interplanar travel, increase the Casting DC by +4. For each additional 50 pounds in objects and willing creatures beyond the base 1,000 pounds, increase the Casting DC by +2. The base use of the transport seed provides instantaneous travel through the Astral Plane. To shift the transportation medium to another medium increase the Casting DC by +2. The caster does not need to make a saving throw, nor is spell resistance applicable to him or her. Only objects worn or carried (attended) by another person receive saving throws and spell resistance. For a spell intended to transport unwilling creatures, increase the Casting DC by +4. The caster must have at least a reliable description of the place to which he or she is transporting. If the caster attempts to use the transport seed with insufficient or misleading information, the character disappears and simply reappear in his or her original location.
 
@@ -570,7 +570,7 @@ As a special use of the transport seed, a caster can develop a spell that tempor
 
 ###### Seed: Ward
 
-Abjuration   
+Abjuration  
 Casting DC: 14  
 Components: V, S  
 Casting Time: 1 minute  
@@ -578,7 +578,7 @@ Range: Touch
 Target or Effect: Touched creature or object of 2,000 lb. or less; or 10-ft.-radius spherical emanation, centered on you  
 Duration: 24 hours  
 Saving Throw: None  
-Spell Resistance: Yes  
+Spell Resistance: Yes
 
 This seed can grant a creature protection from damage of a specified type. The caster can protect a creature from standard damage or from energy damage. The caster can protect a creature or area from magic. Alternatively, he or she can hedge out a type of creature from a specified area. A ward against standard damage protects a creature from whichever two the caster selects of the three damage types: bludgeoning, piercing, and slashing. For a ward against all three types, increase the Casting DC by +4. Each round, the spell created with the ward seed absorbs the first 5 points of damage the creature would otherwise take, regardless of whether the source of the damage is natural or magical. For each additional point of protection, increase the Casting DC by +2.
 

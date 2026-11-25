@@ -28,15 +28,15 @@ tags: [rangoric, rangoric/spell]
 
 # Blessing of the Mole
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Clr 3, Hun 3, Inq 3, Pal 3, Rgr 3
-  - **Components**: V, S
-  - **Casting Time**: 1 round
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Area**: 1 creature/level
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: None (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Clr 3, Hun 3, Inq 3, Pal 3, Rgr 3
+- **Components**: V, S
+- **Casting Time**: 1 round
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Area**: 1 creature/level
+- **Duration**: 1 minute/level
+- **Saving Throw**: None (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 The targets gain darkvision 30 feet and a +2 competence bonus on Stealth checks.

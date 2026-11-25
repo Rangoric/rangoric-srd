@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Grizzly Bear
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 5d8+20 (42 hp)
-  - **Initiative**: +1
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 16 (+1 Dex, +6 natural, –1 size), touch 10, flat-footed 15
-  - **Base Attack**: +3; **CMB**: +9 (+13 grapple); **CMD**: 20 (24 vs. trip)
-  - **Attack**: Claw +7 melee (1d6+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or bite +7 melee (1d6+5)
-  - **Full Attack**: 2 claws +7 melee (1d6+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and bite +7 melee (1d6+5)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +8, Ref +5, Will +2
-  - **Abilities**: Str 21, Dex 13, Con 19, Int 2, Wis 12, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Perception|Perception]] +6
-  - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft)
-  - **Environment**: Cold forests
-  - **Organization**: Solitary or pair
-  - **Challenge Rating**: 4
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 5d8+20 (42 hp)
+- **Initiative**: +1
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 16 (+1 Dex, +6 natural, –1 size), touch 10, flat-footed 15
+- **Base Attack**: +3; **CMB**: +9 (+13 grapple); **CMD**: 20 (24 vs. trip)
+- **Attack**: Claw +7 melee (1d6+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or bite +7 melee (1d6+5)
+- **Full Attack**: 2 claws +7 melee (1d6+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and bite +7 melee (1d6+5)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +8, Ref +5, Will +2
+- **Abilities**: Str 21, Dex 13, Con 19, Int 2, Wis 12, Cha 6
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Perception|Perception]] +6
+- **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft)
+- **Environment**: Cold forests
+- **Organization**: Solitary or pair
+- **Challenge Rating**: 4
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A large, powerful omnivore, the grizzly bear inhabits many of the world's forested hills. Equally happy consuming nuts, berries, fish, or small mammals, the grizzly is nonetheless fiercely territorial, and will chase off—or, failing that, kill and eat—any intruders it views as competition.
 

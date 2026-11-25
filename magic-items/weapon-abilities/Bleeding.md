@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Bleeding
 
-A *bleeding* weapon normally appears used and bloody no matter how often it is cleaned. The weapon has blood grooves carved into it that draw blood from its victims. On a successful hit the blade causes its victim to bleed 1 extra hit point per round for 5 rounds. Only slashing and piercing weapons can be *bleeding* weapons.
+A _bleeding_ weapon normally appears used and bloody no matter how often it is cleaned. The weapon has blood grooves carved into it that draw blood from its victims. On a successful hit the blade causes its victim to bleed 1 extra hit point per round for 5 rounds. Only slashing and piercing weapons can be _bleeding_ weapons.
 
-Faint necromancy; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Inflict Minor Wounds|inflict minor wounds]]*; Price +1 bonus.
+Faint necromancy; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Inflict Minor Wounds|inflict minor wounds]]_; Price +1 bonus.

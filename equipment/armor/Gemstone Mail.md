@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Gemstone Mail
 
-*Heavy armor.* Cost 700 gp; Armor Bonus +6; Maximum Dex Bonus 0; Armor Check Penalty –7; Arcane Spell Failure 37%; Speed 20 ft. (2) (30 ft.), 15 ft. (2) (20 ft.); Weight 45 lb. ^stats
+_Heavy armor._ Cost 700 gp; Armor Bonus +6; Maximum Dex Bonus 0; Armor Check Penalty –7; Arcane Spell Failure 37%; Speed 20 ft. (2) (30 ft.), 15 ft. (2) (20 ft.); Weight 45 lb. ^stats
 
 Gemstone mail is made of a remarkably strong gemlike stone. It is typically black in color, though other colors do exist. Though the suit looks rather large and difficult to manage, its design allows for full range of mobility. The additional fortification granted by this type of armor makes it highly prized among barbarians and fighters.

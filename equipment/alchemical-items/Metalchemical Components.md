@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Metalchemical Components
 
-*Chymicals; Special*
+_Chymicals; Special_
 
 Discovered by early alchemical experimenters, these materials are now the product of centuries of refinement and modification. They are the result of some of the finest alchemical minds testing the interaction between physical and arcane laws. In their greatest successes they have developed “recipes,” as more traditional spellcasters deride them, for increasing the power of arcane magic.
 

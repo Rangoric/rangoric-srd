@@ -18,6 +18,6 @@ You are deadly when you team up with allies against a single foe.
 
 **Prerequisites**: [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-bane|bane]] class feature.
 
-**Benefit**: You can use your bane class feature to imbue a melee weapon with the *[[rangoric-srd/magic-items/weapon-abilities/Menacing|menacing]]* special weapon ability instead of bane. You can spend a swift action to switch between the two special weapon abilities. Doing so otherwise works according to your bane class feature.
+**Benefit**: You can use your bane class feature to imbue a melee weapon with the _[[rangoric-srd/magic-items/weapon-abilities/Menacing|menacing]]_ special weapon ability instead of bane. You can spend a swift action to switch between the two special weapon abilities. Doing so otherwise works according to your bane class feature.
 
 **Special**: If you have the [[rangoric-srd/feats/Double Bane|Double Bane]] feat, you can imbue each weapon you wield with either bane or menacing. No single weapon can have both.

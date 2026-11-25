@@ -33,7 +33,7 @@ Target: One creature
 Duration: Instantaneous  
 Saving Throw: Will half; see text  
 Power Resistance: Yes  
-Power Points: 3  
+Power Points: 3
 
 Your rapid mental lashings assault the ego of your enemy, debilitating its confidence. The target takes 1d4 points of Charisma [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], or half that amount (minimum 1 point) on a successful save. A target that fails its save is also [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 1 round.
 

@@ -27,24 +27,24 @@ tags: [rangoric, rangoric/spell]
 
 # Gift of the Deep
 
-*Transmutation (Polymorph)*
+_Transmutation (Polymorph)_
 
-  - **Level**: Clr 4, Sor/Wiz 5
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One non-mutated sahuagin/level, no two of which can be more than 30 ft. apart
-  - **Duration**: 1 minute/level (D)
-  - **Saving Throw**: Fortitude negate (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Clr 4, Sor/Wiz 5
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One non-mutated sahuagin/level, no two of which can be more than 30 ft. apart
+- **Duration**: 1 minute/level (D)
+- **Saving Throw**: Fortitude negate (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-You give the targets the appearance and many of the abilities of sahuagin mutants, with effects as described below. Choose one benefit for all targets of this spell. This spell has no effect on sahuagin that are already mutants or already under the effects of *gift of the deep* .
+You give the targets the appearance and many of the abilities of sahuagin mutants, with effects as described below. Choose one benefit for all targets of this spell. This spell has no effect on sahuagin that are already mutants or already under the effects of _gift of the deep_ .
 
 **Four-Armed**: : The sahuagin sprouts an extra pair of arms—which can be used to make claw attacks (dealing 1d4 points of damage), or to wield weapons or hold items. It gains the benefits of the Multiattack and Multiweapon Fighting feats.
 
 **Malenti**: : The sahuagin's features shift to resemble those of an aquatic elf. It loses its light blindness as well as its claw and bite attacks. The sahuagin gains a +4 enhancement bonus to Dexterity and Charisma, and a +10 circumstance bonus on Imitation checks to appear to be an aquatic elf.
 
-**Prehistoric**: : The sahuagin grows in size, as *[[rangoric-srd/spells/Enlarge Person|enlarge person]]* . It also gains a +2 enhancement bonus to its natural armor.
+**Prehistoric**: : The sahuagin grows in size, as _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ . It also gains a +2 enhancement bonus to its natural armor.
 
 **Shark-Blooded**: : The sahuagin's tail elongates and melds with its legs. Its mouth enlarges, increasing its bite damage by one size category (to 1d6 for a typical sahuagin). Its swim speed increases by 20 feet, but its land speed is reduced to 5 feet. The sahuagin can't be tripped.
 

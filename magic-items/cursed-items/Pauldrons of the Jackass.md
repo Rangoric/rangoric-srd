@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Pauldrons of the Jackass
 
-These steel pauldrons seem to be emblazoned with stampeding horses until they are worn, and then the horses change shape to that of dumfounded donkeys. The wearer of these pauldrons takes a –4 penalty to Dexterity and reduces all speeds by 10 feet. A successful *[[rangoric-srd/spells/Remove Curse|remove curse]]* spell is required before this item can be removed.
+These steel pauldrons seem to be emblazoned with stampeding horses until they are worn, and then the horses change shape to that of dumfounded donkeys. The wearer of these pauldrons takes a –4 penalty to Dexterity and reduces all speeds by 10 feet. A successful _[[rangoric-srd/spells/Remove Curse|remove curse]]_ spell is required before this item can be removed.
 
 Moderate transmutation; CL 7th; Intended magic item: any pauldrons.

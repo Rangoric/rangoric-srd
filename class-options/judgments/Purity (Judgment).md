@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Purity
 
-*An [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-judgment|inquisitor’s judgment]].*
+_An [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-judgment|inquisitor’s judgment]]._
 
 The inquisitor is protected from the vile taint of her foes, gaining a +1 sacred bonus on all saving throws. This bonus increases by +1 for every five inquisitor levels she possesses. At 10th level, the bonus is doubled against curses, [[rangoric-srd/rules/Afflictions#Disease|diseases]], and [[rangoric-srd/rules/Afflictions#Poison|poisons]].

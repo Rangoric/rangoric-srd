@@ -40,7 +40,7 @@ tags: [rangoric, rangoric/monster]
 
 # Crysmal, Psionic
 
- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|Elemental]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^earth|Earth]], Psionic)      
+Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|Elemental]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^earth|Earth]], Psionic)     
 **Hit Dice:** 6d8+6 (33 hp)     
 **Initiative:** +2     
 **Speed:** 30 ft. (6 squares), burrow 20 ft.     
@@ -61,7 +61,7 @@ Full **Attack:** Sting +7 melee (1d3+3)   
 Treasure: Double goods (gems only)     
 **Alignment:** Any lawful     
 **Advancement:** 7-12 HD (Medium); 13-18 HD (Large)     
-**Level Adjustment:** -     
+**Level Adjustment:** -   
 
 A conglomerate of stone and crystal, a crysmal above all else seeks to perpetuate its kind.
 

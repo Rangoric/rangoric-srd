@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Undead Blood, Lesser
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su)._
 
 While raging, when the barbarian hits a creature with a charge attack, the creature she hit becomes [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for a number of rounds equal to 1/2 her barbarian level (minimum 1). This effect does not stack with other fear effects to cause a stronger condition.
 

@@ -32,14 +32,14 @@ tags: [rangoric, rangoric/spell]
 
 # Alter Self
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 2, Brd 2, Mag 2, Med 2, Mes 2, Psy 2, Sha 2, Skd 2, Sor/Wiz 2, Sum 2, SumU 2, Wit 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 10 min./level (D)
+- **Level**: Alc 2, Brd 2, Mag 2, Med 2, Mes 2, Psy 2, Sha 2, Skd 2, Sor/Wiz 2, Sum 2, SumU 2, Wit 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 10 min./level (D)
 
 You assume the form of a creature of the same type as your normal form. The new form must be within one size category of your normal size. The maximum HD of an assumed form is equal to your caster level, to a maximum of 5 HD at 5th level. You can change into a member of your own kind or even into yourself.
 

@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Studded Web
 
-*Light armor.* Cost 200 gp; Armor Bonus +3; Maximum Dex Bonus +7; Armor Check Penalty –1; Arcane Spell Failure 10%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 10 lb. ^stats
+_Light armor._ Cost 200 gp; Armor Bonus +3; Maximum Dex Bonus +7; Armor Check Penalty –1; Arcane Spell Failure 10%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 10 lb. ^stats
 
 Studded web armor is simply web armor that has been reinforced with studs, chitin or bone. Somewhat more restrictive than web armor, it offers superior protection.

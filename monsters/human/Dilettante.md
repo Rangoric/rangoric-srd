@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Dilettante
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 12d8 (57 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 18 (+4 armor, +1 deflection, +2 Dex, +1 dodge), touch 14, flat-footed 15
-  - **Base Attack**: +9; **CMB**: +8; **CMD**: 22
-  - **Attack**: +1 frost dagger +12 melee (1d4+3/19–20 plus 1d6 cold) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +11 ranged (1d4–1/19–20)
-  - **Full Attack**: +1 frost dagger +12/+7 melee (1d4+3/19–20 plus 1d6 cold); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +11 ranged (1d4–1/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +6d6, [[rangoric-srd/classes/Rogue#^rogue-debilitating-injury|debilitating injury]]
-  - **Special Qualities**: Improved evasion, [[rangoric-srd/classes/Rogue#^rogue-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +4, [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Improved Evasion (Rogue Talent)|improved evasion]], [[rangoric-srd/class-options/rogue-talents/Major Magic (Rogue Talent)|major magic]], [[rangoric-srd/class-options/rogue-talents/Minor Magic (Rogue Talent)|minor magic]], [[rangoric-srd/class-options/rogue-talents/Quick Disable (Rogue Talent)|quick disable]], [[rangoric-srd/class-options/rogue-talents/Slippery Mind (Rogue Talent)|slippery mind]], [[rangoric-srd/class-options/rogue-talents/Trap Spotter (Rogue Talent)|trap spotter]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +6, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (dagger), [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]] ([[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Imitation|Imitation]])
-  - **Saves**: Fort +6, Ref +12, Will +7
-  - **Abilities**: Str 8, Dex 14, Con 10, Int 18, Wis 12, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Deception|Deception]] +24, [[rangoric-srd/skills/Emulation|Emulation]] +18, [[rangoric-srd/skills/Engineering|Engineering]] +19, [[rangoric-srd/skills/Imitation|Imitation]] +18, [[rangoric-srd/skills/Perception|Perception]] +22, Perform (dance, sing) +18, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Society|Society]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +16
-  - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Greater Disarm|Greater Disarm]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Perception)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 11
-  - **Treasure**: NPC gear (combat gear: potions of glibness (2), scrolls of tongues (2), wand of mage armor (20 charges); other gear: +1 frost dagger, dagger, cloak of resistance +2, headband of alluring charisma +2, ring of protection +1, disguise kit, masterwork thieves' tools, jewelry (worth 200 gp), 696 gp)
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 12d8 (57 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 18 (+4 armor, +1 deflection, +2 Dex, +1 dodge), touch 14, flat-footed 15
+- **Base Attack**: +9; **CMB**: +8; **CMD**: 22
+- **Attack**: +1 frost dagger +12 melee (1d4+3/19–20 plus 1d6 cold) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +11 ranged (1d4–1/19–20)
+- **Full Attack**: +1 frost dagger +12/+7 melee (1d4+3/19–20 plus 1d6 cold); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +11 ranged (1d4–1/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +6d6, [[rangoric-srd/classes/Rogue#^rogue-debilitating-injury|debilitating injury]]
+- **Special Qualities**: Improved evasion, [[rangoric-srd/classes/Rogue#^rogue-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +4, [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Improved Evasion (Rogue Talent)|improved evasion]], [[rangoric-srd/class-options/rogue-talents/Major Magic (Rogue Talent)|major magic]], [[rangoric-srd/class-options/rogue-talents/Minor Magic (Rogue Talent)|minor magic]], [[rangoric-srd/class-options/rogue-talents/Quick Disable (Rogue Talent)|quick disable]], [[rangoric-srd/class-options/rogue-talents/Slippery Mind (Rogue Talent)|slippery mind]], [[rangoric-srd/class-options/rogue-talents/Trap Spotter (Rogue Talent)|trap spotter]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +6, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (dagger), [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]] ([[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Imitation|Imitation]])
+- **Saves**: Fort +6, Ref +12, Will +7
+- **Abilities**: Str 8, Dex 14, Con 10, Int 18, Wis 12, Cha 17
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Deception|Deception]] +24, [[rangoric-srd/skills/Emulation|Emulation]] +18, [[rangoric-srd/skills/Engineering|Engineering]] +19, [[rangoric-srd/skills/Imitation|Imitation]] +18, [[rangoric-srd/skills/Perception|Perception]] +22, Perform (dance, sing) +18, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Society|Society]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +16
+- **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Greater Disarm|Greater Disarm]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Perception)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 11
+- **Treasure**: NPC gear (combat gear: potions of glibness (2), scrolls of tongues (2), wand of mage armor (20 charges); other gear: +1 frost dagger, dagger, cloak of resistance +2, headband of alluring charisma +2, ring of protection +1, disguise kit, masterwork thieves' tools, jewelry (worth 200 gp), 696 gp)
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A dilettante is a [[rangoric-srd/monsters/human/Human|human]] with 12 levels of [[rangoric-srd/classes/Rogue|rogue]]. The dilettante developed magical abilities, but eventually decided to avoid both the arcane and divine paths.
 
@@ -75,4 +75,4 @@ A dilettante speaks Common, Dwarven, Elven, Gnome, and Halfling.
 
 **Base Statistics**: Without mage armor, the rogue's statistics are **AC** 14, touch 14, flat-footed 11.
 
-**Rogue Spell-Like Abilities** (CL 12th, concentration +16): 3/day—*[[rangoric-srd/spells/Message|message]]*; 2/day—*[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]*.
+**Rogue Spell-Like Abilities** (CL 12th, concentration +16): 3/day—_[[rangoric-srd/spells/Message|message]]_; 2/day—_[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_.

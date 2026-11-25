@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Poisoned
 
-*A [[rangoric-srd/classes/Antipaladin#^antipaladin-cruelty|cruelty]], available from 9th level.*
+_A [[rangoric-srd/classes/Antipaladin#^antipaladin-cruelty|cruelty]], available from 9th level._
 
-The target is poisoned, as if the antipaladin had cast *[[rangoric-srd/spells/Poison|poison]]*, using the antipaladin’s level as the caster level.
+The target is poisoned, as if the antipaladin had cast _[[rangoric-srd/spells/Poison|poison]]_, using the antipaladin’s level as the caster level.

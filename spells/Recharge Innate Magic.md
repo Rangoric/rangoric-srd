@@ -33,13 +33,13 @@ tags: [rangoric, rangoric/spell]
 
 # Recharge Innate Magic
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 1, Brd 1, Clr 1, Drd 1, Hun 1, Inq 1, Mag 1, Mes 1, Psy 1, Skd 1, Sor/Wiz 1, Wit 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: Instantaneous
+- **Level**: Alc 1, Brd 1, Clr 1, Drd 1, Hun 1, Inq 1, Mag 1, Mes 1, Psy 1, Skd 1, Sor/Wiz 1, Wit 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: Instantaneous
 
 You channel magic energy into your own aura, recharging your innate magic abilities. You regain one use of all 0-level and 1st-level spell-like abilities you can use as a result of a racial trait.

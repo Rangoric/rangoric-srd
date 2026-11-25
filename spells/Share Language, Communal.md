@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # Share Language, Communal
 
-*Divination*
+_Divination_
 
-  - **Level**: Brd 2, Clr 3, Drd 3, Hun 3, Mes 2, Occ 3, Psy 2, Skd 2, Sor/Wiz 3
-  - **Components**: V, S, M (a page from a dictionary)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Targets**: Creatures touched
-  - **Duration**: 24 hours
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Brd 2, Clr 3, Drd 3, Hun 3, Mes 2, Occ 3, Psy 2, Skd 2, Sor/Wiz 3
+- **Components**: V, S, M (a page from a dictionary)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Targets**: Creatures touched
+- **Duration**: 24 hours
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-This spell functions like *[[rangoric-srd/spells/Share Language|share language]]* , except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-hour increments among the creatures touched.
+This spell functions like _[[rangoric-srd/spells/Share Language|share language]]_ , except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-hour increments among the creatures touched.

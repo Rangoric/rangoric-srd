@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/feat]
 
 Teleportation does not faze you.
 
-**Prerequisites**: Ability to use the [[rangoric-srd/classes/Monk#^monk-abundant-step|abundant step]] class feature or cast *[[rangoric-srd/spells/Dimension Door|dimension door]]*.
+**Prerequisites**: Ability to use the [[rangoric-srd/classes/Monk#^monk-abundant-step|abundant step]] class feature or cast _[[rangoric-srd/spells/Dimension Door|dimension door]]_.
 
-**Benefit**: After using abundant step or casting *[[rangoric-srd/spells/Dimension Door|dimension door]]*, you can take any actions you still have remaining on your turn. You also gain a +4 bonus on [[rangoric-srd/rules/Concentration (Check)|concentration checks]] when casting teleportation spells.
+**Benefit**: After using abundant step or casting _[[rangoric-srd/spells/Dimension Door|dimension door]]_, you can take any actions you still have remaining on your turn. You also gain a +4 bonus on [[rangoric-srd/rules/Concentration (Check)|concentration checks]] when casting teleportation spells.

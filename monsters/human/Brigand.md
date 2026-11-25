@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Brigand
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 2d10+4 (15 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 13 (+2 armor, +1 Dex), touch 11, flat-footed 12
-  - **Base Attack**: +2; **CMB**: +3; **CMD**: 14
-  - **Attack**: [[rangoric-srd/equipment/weapons/Longsword|Longsword]] +3 melee (1d8+1/19–20) or [[rangoric-srd/equipment/weapons/Sap|sap]] +3 melee (1d6+1 nonlethal) or [[rangoric-srd/equipment/weapons/Longbow|longbow]] +3 ranged (1d8/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Longsword|Longsword]] +3 melee (1d8+1/19–20); or [[rangoric-srd/equipment/weapons/Sap|sap]] +3 melee (1d6+1 nonlethal); or [[rangoric-srd/equipment/weapons/Longbow|longbow]] +3 ranged (1d8/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: —
-  - **Saves**: Fort +4, Ref +1, Will +0
-  - **Abilities**: Str 13, Dex 13, Con 12, Int 9, Wis 10, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +6
-  - **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 1/2
-  - **Treasure**: NPC gear (combat gear: potion of cure light wounds, masterwork arrows (5), tanglefoot bags (2), thunderstone (2); other gear: leather armor, longbow with 20 arrows, longsword, sap, 48 gp)
-  - **Alignment**: Neutral evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 2d10+4 (15 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 13 (+2 armor, +1 Dex), touch 11, flat-footed 12
+- **Base Attack**: +2; **CMB**: +3; **CMD**: 14
+- **Attack**: [[rangoric-srd/equipment/weapons/Longsword|Longsword]] +3 melee (1d8+1/19–20) or [[rangoric-srd/equipment/weapons/Sap|sap]] +3 melee (1d6+1 nonlethal) or [[rangoric-srd/equipment/weapons/Longbow|longbow]] +3 ranged (1d8/×3)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Longsword|Longsword]] +3 melee (1d8+1/19–20); or [[rangoric-srd/equipment/weapons/Sap|sap]] +3 melee (1d6+1 nonlethal); or [[rangoric-srd/equipment/weapons/Longbow|longbow]] +3 ranged (1d8/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: —
+- **Saves**: Fort +4, Ref +1, Will +0
+- **Abilities**: Str 13, Dex 13, Con 12, Int 9, Wis 10, Cha 8
+- **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +6
+- **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 1/2
+- **Treasure**: NPC gear (combat gear: potion of cure light wounds, masterwork arrows (5), tanglefoot bags (2), thunderstone (2); other gear: leather armor, longbow with 20 arrows, longsword, sap, 48 gp)
+- **Alignment**: Neutral evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A brigand is a [[rangoric-srd/monsters/human/Human|human]] with 2 levels of [[rangoric-srd/classes/Warrior|warrior]]. A brigand has no sense of mercy, and is happy to kill for a handful of silver. Brigands waylay caravans, create illegal turnpikes on roads to collect tolls from travelers, attack noisy camps at night, and harass villages for protection money. They are easily routed but carry a grudge and remain a recurring problem until imprisoned or killed.
 

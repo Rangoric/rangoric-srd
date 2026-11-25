@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/armor]
 
 # Half-Plate
 
-*Heavy armor.* Cost 600 gp; Armor Bonus +7; Maximum Dex Bonus 0; Armor Check Penalty –7; Arcane Spell Failure 40%; Speed 20 ft. (2) (30 ft.), 15 ft. (2) (20 ft.); Weight 50 lb. ^stats
+_Heavy armor._ Cost 600 gp; Armor Bonus +7; Maximum Dex Bonus 0; Armor Check Penalty –7; Arcane Spell Failure 40%; Speed 20 ft. (2) (30 ft.), 15 ft. (2) (20 ft.); Weight 50 lb. ^stats
 
 The suit includes gauntlets.

@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Share Knowledge
 
-*A [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]] (Su) of the [[rangoric-srd/class-options/spirits/Lore Spirit|lore spirit]].*
+_A [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]] (Su) of the [[rangoric-srd/class-options/spirits/Lore Spirit|lore spirit]]._
 
 The shaman targets a single willing ally within 30 feet and shares her knowledge and experience with that target for a number of minutes equal to her Charisma modifier. During that time, the subject knows the languages that the shaman does and uses the shaman's skill modifier on all [[rangoric-srd/skills/Knowledge|Knowledge]] checks instead of its own. Once this duration ends, the creature cannot be the target of this hex again for 24 hours.

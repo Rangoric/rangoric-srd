@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Ningyo
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Aquatic)
-  - **Hit Dice**: 2d10+2 (13 hp)
-  - **Initiative**: +1
-  - **Speed**: 20 ft. (4 squares), swim 40 ft.
-  - **Armor Class**: 13 (+1 Dex, +1 natural, +1 size), touch 12, flat-footed 12
-  - **Base Attack**: +2; **CMB**: +2; **CMD**: 11 (can't be tripped)
-  - **Attack**: Claw +2 melee (1d3–1) or bite +2 melee (1d4–1)
-  - **Full Attack**: 2 claws +2 melee (1d3–1) and bite +2 melee (1d4–1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Group Grappler|Group grappler]], [[rangoric-srd/monsters/abilities/Startle|startle]], [[rangoric-srd/monsters/abilities/Swarming|swarming]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Poison Flesh|poison flesh]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Nocturnal Undeath|nocturnal undeath]]
-  - **Saves**: Fort +1, Ref +4, Will +5
-  - **Abilities**: Str 8, Dex 13, Con 12, Int 6, Wis 15, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Feats**: [[rangoric-srd/feats/Step Up|Step Up]]
-  - **Environment**: Warm oceans
-  - **Organization**: Solitary, pair, or shoal (3–22)
-  - **Challenge Rating**: 1
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Aquatic)
+- **Hit Dice**: 2d10+2 (13 hp)
+- **Initiative**: +1
+- **Speed**: 20 ft. (4 squares), swim 40 ft.
+- **Armor Class**: 13 (+1 Dex, +1 natural, +1 size), touch 12, flat-footed 12
+- **Base Attack**: +2; **CMB**: +2; **CMD**: 11 (can't be tripped)
+- **Attack**: Claw +2 melee (1d3–1) or bite +2 melee (1d4–1)
+- **Full Attack**: 2 claws +2 melee (1d3–1) and bite +2 melee (1d4–1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Group Grappler|Group grappler]], [[rangoric-srd/monsters/abilities/Startle|startle]], [[rangoric-srd/monsters/abilities/Swarming|swarming]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Poison Flesh|poison flesh]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Nocturnal Undeath|nocturnal undeath]]
+- **Saves**: Fort +1, Ref +4, Will +5
+- **Abilities**: Str 8, Dex 13, Con 12, Int 6, Wis 15, Cha 11
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Step Up|Step Up]]
+- **Environment**: Warm oceans
+- **Organization**: Solitary, pair, or shoal (3–22)
+- **Challenge Rating**: 1
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The bane of fishermen and divers, ningyos lurk in tropical waters, gorging themselves on fish and attacking anything they can sink their tiny fangs into. Primitive, miniature mer-monsters, ningyos are frightening bogeymen of the sea, often attacking seagoers, ships, and fishing tackle out of blind hunger. These terrors swarm by night and can easily drag opponents down to drown amid a swarm of claws and needling teeth.
 

@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Arcane Mark
 
-*Universal*
+_Universal_
 
-  - **Level**: Mag 0, Psy 0, Sha 0, Sor/Wiz 0, Sum 0, SumU 0, Wit 0
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: 0 ft.
-  - **Effect**: One personal rune or mark, all of which must fit within 1 sq. ft.
-  - **Duration**: Permanent
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Mag 0, Psy 0, Sha 0, Sor/Wiz 0, Sum 0, SumU 0, Wit 0
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: 0 ft.
+- **Effect**: One personal rune or mark, all of which must fit within 1 sq. ft.
+- **Duration**: Permanent
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 This spell allows you to inscribe your personal rune or mark, which can consist of no more than six characters. The writing can be visible or [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]]. An arcane mark spell enables you to etch the rune upon any substance without harm to the material upon which it is placed. If an invisible mark is made, a detect magic spell causes it to glow and be visible, though not necessarily understandable.
 

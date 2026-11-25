@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Tiny Hut
 
-*Evocation \[Force\]*
+_Evocation \[Force\]_
 
-  - **Level**: Brd 3, Occ 3, Skd 3, Sor/Wiz 3
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: 20 ft.
-  - **Effect**: 20-ft.-radius sphere centered on your location
-  - **Duration**: 2 hours/level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Brd 3, Occ 3, Skd 3, Sor/Wiz 3
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: 20 ft.
+- **Effect**: 20-ft.-radius sphere centered on your location
+- **Duration**: 2 hours/level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You create an unmoving, opaque sphere of force of any color you desire around yourself. Half the sphere projects above the ground, and the lower hemisphere passes through the ground. As many as nine other Medium creatures can fit into the field with you; they can freely pass into and out of the hut without harming it. However, if you remove yourself from the hut, the spell ends.
 
@@ -46,4 +46,4 @@ The temperature inside the hut is 70° F if the exterior temperature is between 
 
 The interior of the hut is a hemisphere. You can illuminate it dimly upon command or extinguish the light as desired. Although the force field is opaque from the outside, it is transparent from within. Missiles, weapons, and most spell effects can pass through the hut without affecting it, although the occupants cannot be seen from outside the hut (they have total concealment).
 
-*Material Component*: A small crystal bead that shatters when the spell duration expires or the hut is dispelled.
+_Material Component_: A small crystal bead that shatters when the spell duration expires or the hut is dispelled.

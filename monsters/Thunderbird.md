@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Thunderbird
 
-  - Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 14d10+70 (147 hp)
-  - **Initiative**: +7
-  - **Speed**: 30 ft. (6 squares), fly 120 ft. (good)
-  - **Armor Class**: 25 (+3 Dex, +1 dodge, +15 natural, –4 size), touch 10, flat-footed 21
-  - **Base Attack**: +14; **CMB**: +26 (+30 grapple); **CMD**: 40
-  - **Attack**: Claw +18 melee (2d6+8/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or bite +18 melee (2d8+8/19–20) or thunderbolt +13 ranged touch (6d6 electricity and 6d6 sonic)
-  - **Full Attack**: 2 claws +18 melee (2d6+8/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and bite +18 melee (2d8+8/19–20); or thunderbolt +13 ranged touch (6d6 electricity and 6d6 sonic)
-  - **Space/Reach**: 20 ft./20 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Stormsight|stormsight]], [[rangoric-srd/monsters/abilities/Storm Aura|storm aura]] (100 ft.), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and sonic
-  - **Saves**: Fort +14, Ref +12, Will +9
-  - **Abilities**: Str 26, Dex 17, Con 21, Int 12, Wis 16, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Perception|Perception]] +20, Perform (sing) +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10
-  - **Feats**: [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Any hills or mountains
-  - **Organization**: Solitary
-  - **Challenge Rating**: 11
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 14d10+70 (147 hp)
+- **Initiative**: +7
+- **Speed**: 30 ft. (6 squares), fly 120 ft. (good)
+- **Armor Class**: 25 (+3 Dex, +1 dodge, +15 natural, –4 size), touch 10, flat-footed 21
+- **Base Attack**: +14; **CMB**: +26 (+30 grapple); **CMD**: 40
+- **Attack**: Claw +18 melee (2d6+8/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or bite +18 melee (2d8+8/19–20) or thunderbolt +13 ranged touch (6d6 electricity and 6d6 sonic)
+- **Full Attack**: 2 claws +18 melee (2d6+8/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and bite +18 melee (2d8+8/19–20); or thunderbolt +13 ranged touch (6d6 electricity and 6d6 sonic)
+- **Space/Reach**: 20 ft./20 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Stormsight|stormsight]], [[rangoric-srd/monsters/abilities/Storm Aura|storm aura]] (100 ft.), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and sonic
+- **Saves**: Fort +14, Ref +12, Will +9
+- **Abilities**: Str 26, Dex 17, Con 21, Int 12, Wis 16, Cha 13
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Perception|Perception]] +20, Perform (sing) +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10
+- **Feats**: [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Any hills or mountains
+- **Organization**: Solitary
+- **Challenge Rating**: 11
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Thunderbirds bring the storm on their wings. In times of drought, they are welcomed with joy and celebration. In other times, they are placated with gifts in hopes that they might leave quickly before flooding begins. When angered, thunderbirds can call down hurricanes and lay waste to entire villages, so in regions where these birds dwell, many villages maintain extensive rituals designed to appease and honor the local thunderbirds.
 
@@ -69,7 +69,7 @@ Thunderbirds speak Auran.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 11th; concentration +12): At will—*[[rangoric-srd/spells/Control Weather|control weather]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 11th; concentration +12): At will—_[[rangoric-srd/spells/Control Weather|control weather]]_.
 
 **[[rangoric-srd/monsters/abilities/Thunderbolt (Thunderbird)|Thunderbolt]] (Su)**: A thunderbird can fire a ray of thunder and lightning from its outspread wings as a standard action. This attack has a range of 200 feet with no range increment, and requires a ranged touch attack to hit. A creature critically hit by a thunderbolt is [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] and [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafened]] for 1 round if it fails a DC 22 Fortitude save. The save DC is Constitution-based.
 

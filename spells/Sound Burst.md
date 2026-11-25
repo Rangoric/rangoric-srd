@@ -29,19 +29,19 @@ tags: [rangoric, rangoric/spell]
 
 # Sound Burst
 
-*Evocation \[Sonic\]*
+_Evocation \[Sonic\]_
 
-  - **Level**: Brd 2, Clr 2, Occ 2, Skd 2
-  - **Components**: V, S, F/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Area**: 10-ft.-radius spread
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Fortitude partial
-  - **Spell Resistance**: Yes
+- **Level**: Brd 2, Clr 2, Occ 2, Skd 2
+- **Components**: V, S, F/DF
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Area**: 10-ft.-radius spread
+- **Duration**: Instantaneous
+- **Saving Throw**: Fortitude partial
+- **Spell Resistance**: Yes
 
 You blast an area with a tremendous cacophony. Every creature in the area takes 1d8 points of sonic damage and must succeed on a Fortitude save to avoid being [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1 round.
 
 Creatures that cannot hear are not stunned but are still damaged.
 
-*Arcane Focus*: A musical instrument.
+_Arcane Focus_: A musical instrument.

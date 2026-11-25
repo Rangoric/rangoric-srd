@@ -64,7 +64,7 @@ Organization: Solitary, or in company of 1-10 elder fire elementals    
 Challenge Rating: 34      
 Treasure: Standard      
 Alignment: Always chaotic evil      
-Advancement: 63-80 HD (Gargantuan); 81-186 HD (Colossal)      
+Advancement: 63-80 HD (Gargantuan); 81-186 HD (Colossal)    
 
 A phaethon’s natural weapons are treated as epic and evil for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
@@ -78,11 +78,11 @@ Improved Grab (Ex): If the phaethon hits with a pseudopod, it deals normal damag
 
 Swallow Whole (Ex): The phaethon can absorb opponents it holds with a second successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check after a grab. The opponent must be Huge or smaller. Absorbed creatures take 20d6 points of fire damage and 10d6 points of bludgeoning damage each round they remain inside a phaethon. Victims must make a successful grapple check to “swim” free of the living magma of the phaethon.
 
-Spell-Like Abilities: Caster level 34th; save DC 24 + spell level.  
+Spell-Like Abilities: Caster level 34th; save DC 24 + spell level.
 
-At will - [[rangoric-srd/spells/Fireball|fireball]], [[rangoric-srd/spells/Fire Storm|fire storm]], [[rangoric-srd/spells/Delayed Blast Fireball|delayed blast fireball]], [[rangoric-srd/spells/Flame Strike|flame strike]], [[rangoric-srd/spells/Wall of Fire|wall of fire]];  
+At will - [[rangoric-srd/spells/Fireball|fireball]], [[rangoric-srd/spells/Fire Storm|fire storm]], [[rangoric-srd/spells/Delayed Blast Fireball|delayed blast fireball]], [[rangoric-srd/spells/Flame Strike|flame strike]], [[rangoric-srd/spells/Wall of Fire|wall of fire]];
 
-1/day - [[rangoric-srd/spells/Scrying|scrying]].   
+1/day - [[rangoric-srd/spells/Scrying|scrying]]. 
 
 Summon Elder Fire Elemental (Sp): Phaethons can summon up to ten [[rangoric-srd/monsters/elemental/Fire Elemental|elder fire elementals]] per day.
 

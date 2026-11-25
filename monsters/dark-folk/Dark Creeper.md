@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Dark Creeper
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dark-folk|Dark Folk]])
-  - **Hit Dice**: 3d8+6 (19 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 16 (+2 armor, +3 Dex, +1 size), touch 14, flat-footed 13
-  - **Base Attack**: +2; **CMB**: +1; **CMD**: 14
-  - **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +6 melee (1d3/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +6 melee (1d3/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Death throes, [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] (+1d6), [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/See in Darkness|See in darkness]], [[rangoric-srd/races/racial-traits/Poison Use|poison use]], rag armor, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
-  - **Saves**: Fort +3, Ref +6, Will +1
-  - **Abilities**: Str 11, Dex 17, Con 14, Int 9, Wis 10, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +12
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Sleight of Hand), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any underground
-  - **Organization**: Solitary, pair, gang (3–6), or clan (20–80 plus 1 dark stalker per 20 dark creepers)
-  - **Challenge Rating**: 2
-  - **Treasure**: Standard (dagger, black poison [3 doses], other gear)
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dark-folk|Dark Folk]])
+- **Hit Dice**: 3d8+6 (19 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 16 (+2 armor, +3 Dex, +1 size), touch 14, flat-footed 13
+- **Base Attack**: +2; **CMB**: +1; **CMD**: 14
+- **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +6 melee (1d3/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +6 melee (1d3/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Death throes, [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] (+1d6), [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/See in Darkness|See in darkness]], [[rangoric-srd/races/racial-traits/Poison Use|poison use]], rag armor, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
+- **Saves**: Fort +3, Ref +6, Will +1
+- **Abilities**: Str 11, Dex 17, Con 14, Int 9, Wis 10, Cha 8
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +12
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Sleight of Hand), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any underground
+- **Organization**: Solitary, pair, gang (3–6), or clan (20–80 plus 1 dark stalker per 20 dark creepers)
+- **Challenge Rating**: 2
+- **Treasure**: Standard (dagger, black poison [3 doses], other gear)
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Dark creepers lurk in the black places deep below the surface of the world, venturing forth at night or into neighboring societies when the urge to steal and cause mayhem grows too great to resist. Endless layers of filthy, moldering black cloth shroud these small creatures, leading some to believe that the creature inside is smaller still. Usually encountered in groups, dark creepers flee from bright light, but are quite brave in the dark.
 
@@ -73,11 +73,11 @@ Dark creepers speak Dark Folk.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd): At will—*[[rangoric-srd/spells/Darkness|darkness]], [[rangoric-srd/spells/Detect Magic|detect magic]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd): At will—_[[rangoric-srd/spells/Darkness|darkness]], [[rangoric-srd/spells/Detect Magic|detect magic]]_.
 
 **Death Throes (Su)**: When a dark creeper is slain, its body combusts in a flash of bright white light, leaving its gear in a heap on the ground. All creatures within a 10-foot burst must make a DC 13 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 1d6 rounds. Other dark creepers within 10 feet are automatically blinded for at least 1 round, due to their light blindness. The save is Constitution-based.
 
-**[[rangoric-srd/races/racial-traits/Poison Use|Poison Use]] (Ex)**: Dark creepers are skilled in the use of poison and never risk accidentally poisoning themselves. Dark creepers favor a foul-smelling black paste distilled from certain deep-underground fungi known as black smear. [[rangoric-srd/rules/afflictions/Black Smear|Black Smear]]: Weapon—injury; *save* Fort DC 15; *frequency* 1/round for 6 rounds; *effect* 1d2 Str; *cure* 1 save.
+**[[rangoric-srd/races/racial-traits/Poison Use|Poison Use]] (Ex)**: Dark creepers are skilled in the use of poison and never risk accidentally poisoning themselves. Dark creepers favor a foul-smelling black paste distilled from certain deep-underground fungi known as black smear. [[rangoric-srd/rules/afflictions/Black Smear|Black Smear]]: Weapon—injury; _save_ Fort DC 15; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Str; _cure_ 1 save.
 
 **Rag Armor (Ex)**: A dark creeper's multiple layers of filthy rags function as leather armor when worn by one of their kind.
 

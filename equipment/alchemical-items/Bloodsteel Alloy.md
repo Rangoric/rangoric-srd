@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Bloodsteel Alloy
 
-*Alchana; Special*
+_Alchana; Special_
 
 Bloodsteel is [[rangoric-srd/equipment/alchemical-items/Bloodiron Alloy|bloodiron]] reforged and refined alchemically a second and third time to remove ferrous impurities and add in additional chymicals. In all ways but those noted below (including randomly generating bloodsteel items on the [[rangoric-srd/equipment/alchemical-items/Bloodiron Alloy|bloodiron]] table), bloodsteel should be viewed the same as bloodiron.
 

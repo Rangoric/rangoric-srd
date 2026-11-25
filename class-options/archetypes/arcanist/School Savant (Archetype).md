@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # School Savant
 
-*An [[rangoric-srd/classes/Arcanist#^arcanist-archetypes|arcanist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_An [[rangoric-srd/classes/Arcanist#^arcanist-archetypes|arcanist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Some arcanists specialize in a school of magic and trade flexibility for focus. School savants are able to prepare more spells per day than typical arcanists, but their selection is more limited.
 

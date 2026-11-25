@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Denizen of Leng
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Evil, Extraplanar)
-  - **Hit Dice**: 10d10+40 (95 hp)
-  - **Initiative**: +4
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 21 (+4 Dex, +1 dodge, +6 natural), touch 15, flat-footed 16
-  - **Base Attack**: +10; **CMB**: +12; **CMD**: 27
-  - **Attack**: Bite +14 melee (1d6+2 plus 1d6 De×terity drain) or claw +14 melee (1d4+2)
-  - **Full Attack**: Bite +14 melee (1d6+2 plus 1d6 De×terity drain) and 2 claws +14 melee (1d4+2)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Sneak attack +5d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., planar [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/No Breath|no breath]], unusual anatomy, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 30 and electricity 30, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
-  - **Saves**: Fort +11, Ref +11, Will +6
-  - **Abilities**: Str 14, Dex 18, Con 19, Int 18, Wis 17, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +24, [[rangoric-srd/skills/Emulation|Emulation]] +18, [[rangoric-srd/skills/Engineering|Engineering]] +14, [[rangoric-srd/skills/Imitation|Imitation]] +10 (+16 as humanoid), [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Knowledge|Knowledge]] +17, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Profession|Profession]] (sailor) +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +17
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Persuasion)
-  - **Environment**: Any land
-  - **Organization**: Solitary, gang (2–5), or crew (6–15)
-  - **Challenge Rating**: 8
-  - **Treasure**: Double (500 to 2,000 gp in rubies, other treasure)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Evil, Extraplanar)
+- **Hit Dice**: 10d10+40 (95 hp)
+- **Initiative**: +4
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 21 (+4 Dex, +1 dodge, +6 natural), touch 15, flat-footed 16
+- **Base Attack**: +10; **CMB**: +12; **CMD**: 27
+- **Attack**: Bite +14 melee (1d6+2 plus 1d6 De×terity drain) or claw +14 melee (1d4+2)
+- **Full Attack**: Bite +14 melee (1d6+2 plus 1d6 De×terity drain) and 2 claws +14 melee (1d4+2)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Sneak attack +5d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., planar [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/No Breath|no breath]], unusual anatomy, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 30 and electricity 30, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
+- **Saves**: Fort +11, Ref +11, Will +6
+- **Abilities**: Str 14, Dex 18, Con 19, Int 18, Wis 17, Cha 21
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +24, [[rangoric-srd/skills/Emulation|Emulation]] +18, [[rangoric-srd/skills/Engineering|Engineering]] +14, [[rangoric-srd/skills/Imitation|Imitation]] +10 (+16 as humanoid), [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Knowledge|Knowledge]] +17, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Profession|Profession]] (sailor) +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +17
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Persuasion)
+- **Environment**: Any land
+- **Organization**: Solitary, gang (2–5), or crew (6–15)
+- **Challenge Rating**: 8
+- **Treasure**: Double (500 to 2,000 gp in rubies, other treasure)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 These eerie denizens travel the universe from their strange homeland of Leng, walking uncontested only when they disguise themselves as humans by wearing loose-fitting robes and wrappings about the head and face. Under these disguises, they have horned brows, clawed fingers, mouths full of tentacles, and crooked goatish legs with cloven hooves.
 
@@ -72,7 +72,7 @@ Denizen of lengs speak Aklo.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +15): Constant—*[[rangoric-srd/spells/Tongues|tongues]]*; 3/day—*[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]* (DC 17), *[[rangoric-srd/spells/Hypnotic Pattern|hypnotic pattern]]* (DC 17), *[[rangoric-srd/spells/Levitate|levitate]]*, *[[rangoric-srd/spells/Minor Image|minor image]]* (DC 17); 1/day—*[[rangoric-srd/spells/Locate Object|locate object]]*, *[[rangoric-srd/spells/Plane Shift|plane shift]]* (DC 20, self only).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +15): Constant—_[[rangoric-srd/spells/Tongues|tongues]]_; 3/day—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (DC 17), _[[rangoric-srd/spells/Hypnotic Pattern|hypnotic pattern]]_ (DC 17), _[[rangoric-srd/spells/Levitate|levitate]]_, _[[rangoric-srd/spells/Minor Image|minor image]]_ (DC 17); 1/day—_[[rangoric-srd/spells/Locate Object|locate object]]_, _[[rangoric-srd/spells/Plane Shift|plane shift]]_ (DC 20, self only).
 
 **Dexterity Drain (Su)**: The otherworldly teeth and tongues of a denizen of Leng deal 1d6 points of Dexterity drain with a bite. Constructs, elementals, and other creatures that do not possess flesh are immune to this effect. A successful DC 19 Fortitude save reduces the Dexterity drain to 1 point. The save DC is Constitution-based.
 

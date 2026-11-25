@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Ratfolk Elder
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Ratfolk)
-  - **Hit Dice**: 9d8+36 (80 hp)
-  - **Initiative**: +4
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 19 (+7 armor, +1 shield, +1 size), touch 11, flat-footed 19
-  - **Base Attack**: +6; **CMB**: +5; **CMD**: 15
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Light Mace|light mace]] +8 melee (1d4) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +7 ranged (1d6/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Light Mace|light mace]] +8/+3 melee (1d4); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +7 ranged (1d6/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel positive energy]] 7/day (DC 16, 5d6), [[rangoric-srd/monsters/abilities/Swarming|swarming]], [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Protection Domain|protective ward]] (1/day)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/class-options/domains/Travel Domain|agile feet]] (7/day), [[rangoric-srd/class-options/domains/Protection Domain|aura of protection]] (+1 deflection, energy [[rangoric-srd/monsters/abilities/Resistance|resistance]] 5, 9 rounds/day), +10 base speed from [[rangoric-srd/class-options/domains/Travel Domain|Travel domain]], [[rangoric-srd/class-options/domains/Travel Domain|freedom of movement]] (9 rounds/day)
-  - **Saves**: Fort +12, Ref +5, Will +12
-  - **Abilities**: Str 10, Dex 10, Con 14, Int 12, Wis 18, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +5, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +3, [[rangoric-srd/skills/Emulation|Emulation]] +4, [[rangoric-srd/skills/Medicine|Medicine]] +12, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Theology|Theology]] +9
-  - **Feats**: [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Selective Channeling|Selective Channeling]], [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Warm deserts or urban
-  - **Organization**: Solitary, or with other ratfolk (see [[rangoric-srd/monsters/ratfolk/Ratfolk|Ratfolk]])
-  - **Challenge Rating**: 8
-  - **Treasure**: NPC gear (combat gear: scroll of bear's endurance, scroll of invisibility purge, scroll of sending, wand of cure moderate wounds (15 charges); other gear: +1 chainmail, light steel shield, light crossbow with 10 bolts, masterwork light mace, cloak of resistance +1, headband of inspired wisdom +2, silver holy symbol, spell component pouch, sunrod, pair of platinum rings (worth 50 gp total), 768 gp)
-  - **Alignment**: Usually neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Ratfolk)
+- **Hit Dice**: 9d8+36 (80 hp)
+- **Initiative**: +4
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 19 (+7 armor, +1 shield, +1 size), touch 11, flat-footed 19
+- **Base Attack**: +6; **CMB**: +5; **CMD**: 15
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Light Mace|light mace]] +8 melee (1d4) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +7 ranged (1d6/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Light Mace|light mace]] +8/+3 melee (1d4); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +7 ranged (1d6/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel positive energy]] 7/day (DC 16, 5d6), [[rangoric-srd/monsters/abilities/Swarming|swarming]], [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Protection Domain|protective ward]] (1/day)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/class-options/domains/Travel Domain|agile feet]] (7/day), [[rangoric-srd/class-options/domains/Protection Domain|aura of protection]] (+1 deflection, energy [[rangoric-srd/monsters/abilities/Resistance|resistance]] 5, 9 rounds/day), +10 base speed from [[rangoric-srd/class-options/domains/Travel Domain|Travel domain]], [[rangoric-srd/class-options/domains/Travel Domain|freedom of movement]] (9 rounds/day)
+- **Saves**: Fort +12, Ref +5, Will +12
+- **Abilities**: Str 10, Dex 10, Con 14, Int 12, Wis 18, Cha 14
+- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +5, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +3, [[rangoric-srd/skills/Emulation|Emulation]] +4, [[rangoric-srd/skills/Medicine|Medicine]] +12, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Theology|Theology]] +9
+- **Feats**: [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Selective Channeling|Selective Channeling]], [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Warm deserts or urban
+- **Organization**: Solitary, or with other ratfolk (see [[rangoric-srd/monsters/ratfolk/Ratfolk|Ratfolk]])
+- **Challenge Rating**: 8
+- **Treasure**: NPC gear (combat gear: scroll of bear's endurance, scroll of invisibility purge, scroll of sending, wand of cure moderate wounds (15 charges); other gear: +1 chainmail, light steel shield, light crossbow with 10 bolts, masterwork light mace, cloak of resistance +1, headband of inspired wisdom +2, silver holy symbol, spell component pouch, sunrod, pair of platinum rings (worth 50 gp total), 768 gp)
+- **Alignment**: Usually neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A ratfolk elder is a [[rangoric-srd/monsters/ratfolk/Ratfolk|ratfolk]] with 9 levels of [[rangoric-srd/classes/Cleric|cleric]]. Since ratfolk have short lifespans, they heed the wisdom of those who attain old age. Many ratfolk aspire to become elders from a very young age, and try to get their hands on books and histories when they go into trade, intending to later study them. Often, aspiring leaders pursue the healing arts to keep the rest of the warren healthy—and to ensure they live long enough to pass on their knowledge.
 
@@ -77,4 +77,4 @@ A ratfolk elder speaks Celestial and Common.
 
 **Domain Spell-Like Abilities** (CL 9th; concentration +13): 7/day—[[rangoric-srd/class-options/domains/Protection Domain|resistant touch]] +2; At will—[[rangoric-srd/class-options/domains/Travel Domain|dimensional hop]] (90 feet/day).
 
-**Cleric spells prepared** (CL 9th; concentration +13): 5th—*[[rangoric-srd/spells/Teleport|teleport]]* <sup>D</sup>, *[[rangoric-srd/spells/Wall of Stone|wall of stone]]* (DC 19); 4th—*[[rangoric-srd/spells/Dimension Door|dimension door]]* <sup>D</sup>, *[[rangoric-srd/spells/Dismissal|dismissal]]* (DC 18), *[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]*, *[[rangoric-srd/spells/Summon Monster IV|summon monster IV]]*; 3rd—*[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, *[[rangoric-srd/spells/Magic Vestment|magic vestment]]*, *[[rangoric-srd/spells/Meld into Stone|meld into stone]]*, *[[rangoric-srd/spells/Protection from Energy|protection from energy]]* <sup>D</sup>, *[[rangoric-srd/spells/Stone Shape|stone shape]]*; 2nd—*[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*, *[[rangoric-srd/spells/Calm Emotions|calm emotions]]* (DC 16), *[[rangoric-srd/spells/Darkness|darkness]]*, *[[rangoric-srd/spells/Shield Other|shield other]]* <sup>D</sup>, *[[rangoric-srd/spells/Sound Burst|sound burst]]* (DC 16), *[[rangoric-srd/spells/Zone of Truth|zone of truth]]* (DC 16); 1st—*[[rangoric-srd/spells/Bless|bless]]*, *[[rangoric-srd/spells/Command|command]]* (DC 15), *[[rangoric-srd/spells/Endure Elements|endure elements]]*, *[[rangoric-srd/spells/Longstrider|longstrider]]* <sup>D</sup>, *[[rangoric-srd/spells/Sanctuary|sanctuary]]* (DC 15), *[[rangoric-srd/spells/Shield of Faith|shield of faith]]*; 0 (at will)—*[[rangoric-srd/spells/Create Water|create water]]*, *[[rangoric-srd/spells/Detect Poison|detect poison]]*, *[[rangoric-srd/spells/Guidance|guidance]]*, *[[rangoric-srd/spells/Mending|mending]]*; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Protection Domain|Protection]], [[rangoric-srd/class-options/domains/Travel Domain|Travel]].
+**Cleric spells prepared** (CL 9th; concentration +13): 5th—_[[rangoric-srd/spells/Teleport|teleport]]_ <sup>D</sup>, _[[rangoric-srd/spells/Wall of Stone|wall of stone]]_ (DC 19); 4th—_[[rangoric-srd/spells/Dimension Door|dimension door]]_ <sup>D</sup>, _[[rangoric-srd/spells/Dismissal|dismissal]]_ (DC 18), _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_, _[[rangoric-srd/spells/Summon Monster IV|summon monster IV]]_; 3rd—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Magic Vestment|magic vestment]]_, _[[rangoric-srd/spells/Meld into Stone|meld into stone]]_, _[[rangoric-srd/spells/Protection from Energy|protection from energy]]_ <sup>D</sup>, _[[rangoric-srd/spells/Stone Shape|stone shape]]_; 2nd—_[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Calm Emotions|calm emotions]]_ (DC 16), _[[rangoric-srd/spells/Darkness|darkness]]_, _[[rangoric-srd/spells/Shield Other|shield other]]_ <sup>D</sup>, _[[rangoric-srd/spells/Sound Burst|sound burst]]_ (DC 16), _[[rangoric-srd/spells/Zone of Truth|zone of truth]]_ (DC 16); 1st—_[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Command|command]]_ (DC 15), _[[rangoric-srd/spells/Endure Elements|endure elements]]_, _[[rangoric-srd/spells/Longstrider|longstrider]]_ <sup>D</sup>, _[[rangoric-srd/spells/Sanctuary|sanctuary]]_ (DC 15), _[[rangoric-srd/spells/Shield of Faith|shield of faith]]_; 0 (at will)—_[[rangoric-srd/spells/Create Water|create water]]_, _[[rangoric-srd/spells/Detect Poison|detect poison]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Mending|mending]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Protection Domain|Protection]], [[rangoric-srd/class-options/domains/Travel Domain|Travel]].

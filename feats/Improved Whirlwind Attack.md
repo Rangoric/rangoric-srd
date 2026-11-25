@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, fighter-bonus, epic]
 
 # Improved Whirlwind Attack
 
-Prerequisites: Int 13, Dex 23, [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Dodge|Dodge]],  [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Whirlwind Attack|Whirlwind Attack]].  
+Prerequisites: Int 13, Dex 23, [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Dodge|Dodge]],  [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Whirlwind Attack|Whirlwind Attack]].
 
 Benefit: As a standard action, the character can make one melee attack for every five points of his or her base attack bonus (including epic attack bonus, round fractions down).
 

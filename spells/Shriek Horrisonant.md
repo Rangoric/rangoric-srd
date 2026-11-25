@@ -25,16 +25,16 @@ tags: [rangoric, rangoric/spell]
 
 # Shriek Horrisonant
 
-*Necromancy \[Sonic\]*
+_Necromancy \[Sonic\]_
 
-  - **Level**: Clr 6
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Area**: Spread, 25 ft. + 5 ft./2 levels radius spread
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Clr 6
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Area**: Spread, 25 ft. + 5 ft./2 levels radius spread
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 Unless they make a Will save, living creatures within the area are dealt 1d3 negative levels and are frightened for one round per caster level.
 

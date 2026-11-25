@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Hekatonkheires Titan
 
-  - Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Evil, Extraplanar)
-  - **Hit Dice**: 24d10+384 (516 hp)
-  - **Initiative**: +6
-  - **Speed**: 60 ft. (12 squares); air walk
-  - **Armor Class**: 42 (+8 armor, +2 Dex, +30 natural, –8 size), touch 4, flat-footed 40
-  - **Base Attack**: +24; **CMB**: +51 (+53 bull rush); **CMD**: 63 (65 vs. bull rush)
-  - **Attack**: +3 weapon +38 melee (6d6+22 plus hundred–handed whirlwind) or slam +35 melee (4d8+28 plus stun) or rock +22 ranged (8d8+31/18–20)
-  - **Full Attack**: +3 weapon +38/+33/+28/+23 melee (6d6+22 plus hundred–handed whirlwind); or slam +35 melee (4d8+28 plus stun); or rock +22/+17/+12/+7 ranged (8d8+31/18–20)
-  - **Space/Reach**: 30 ft./30 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (200 ft.), [[rangoric-srd/monsters/abilities/Stunning Slam|stunning slam]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 120 ft., true seeing, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 10 (epic), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 300 ft., spell turning, [[rangoric-srd/monsters/abilities/Hands of War|hands of war]], [[rangoric-srd/monsters/abilities/Planar Leap|planar leap]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 20/epic and lawful, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to aging, death effects, disease and mind-affecting effects, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 35
-  - **Saves**: Fort +30, Ref +12, Will +18
-  - **Abilities**: Str 48, Dex 15, Con 43, Int 22, Wis 19, Cha 24
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +29, [[rangoric-srd/skills/Athletics|Athletics]] +46 (+58 jumping), [[rangoric-srd/skills/Craft|Craft]] (any) +33, [[rangoric-srd/skills/Deception|Deception]] +34, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +29, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +28, [[rangoric-srd/skills/Intimidation|Intimidation]] +34, [[rangoric-srd/skills/Investigation|Investigation]] +10, [[rangoric-srd/skills/Perception|Perception]] +37, [[rangoric-srd/skills/Persuasion|Persuasion]] +31, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +31, [[rangoric-srd/skills/Society|Society]] +30, [[rangoric-srd/skills/Theology|Theology]] +33
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Greater Vital Strike|Greater Vital Strike]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 24
-  - **Treasure**: Triple (50-100 various weapons, other treasure)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Evil, Extraplanar)
+- **Hit Dice**: 24d10+384 (516 hp)
+- **Initiative**: +6
+- **Speed**: 60 ft. (12 squares); air walk
+- **Armor Class**: 42 (+8 armor, +2 Dex, +30 natural, –8 size), touch 4, flat-footed 40
+- **Base Attack**: +24; **CMB**: +51 (+53 bull rush); **CMD**: 63 (65 vs. bull rush)
+- **Attack**: +3 weapon +38 melee (6d6+22 plus hundred–handed whirlwind) or slam +35 melee (4d8+28 plus stun) or rock +22 ranged (8d8+31/18–20)
+- **Full Attack**: +3 weapon +38/+33/+28/+23 melee (6d6+22 plus hundred–handed whirlwind); or slam +35 melee (4d8+28 plus stun); or rock +22/+17/+12/+7 ranged (8d8+31/18–20)
+- **Space/Reach**: 30 ft./30 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (200 ft.), [[rangoric-srd/monsters/abilities/Stunning Slam|stunning slam]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 120 ft., true seeing, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 10 (epic), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 300 ft., spell turning, [[rangoric-srd/monsters/abilities/Hands of War|hands of war]], [[rangoric-srd/monsters/abilities/Planar Leap|planar leap]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 20/epic and lawful, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to aging, death effects, disease and mind-affecting effects, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 35
+- **Saves**: Fort +30, Ref +12, Will +18
+- **Abilities**: Str 48, Dex 15, Con 43, Int 22, Wis 19, Cha 24
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +29, [[rangoric-srd/skills/Athletics|Athletics]] +46 (+58 jumping), [[rangoric-srd/skills/Craft|Craft]] (any) +33, [[rangoric-srd/skills/Deception|Deception]] +34, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +29, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +28, [[rangoric-srd/skills/Intimidation|Intimidation]] +34, [[rangoric-srd/skills/Investigation|Investigation]] +10, [[rangoric-srd/skills/Perception|Perception]] +37, [[rangoric-srd/skills/Persuasion|Persuasion]] +31, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +31, [[rangoric-srd/skills/Society|Society]] +30, [[rangoric-srd/skills/Theology|Theology]] +33
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Greater Vital Strike|Greater Vital Strike]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 24
+- **Treasure**: Triple (50-100 various weapons, other treasure)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Horrifying abominations shunned by the gods immediately upon their creation, the hekatonkheires are perhaps the most powerful and devastating race of titans in existence. When the titans—envious of the gods' divine strength—rebelled against the deities, the hekatonkheires were among the first to pick up arms, weary of the scorn their own creators felt for them. The betrayal of the Elysian titans led to the hekatonkheires' swift capture by the gods, who found the hekatonkheires' power to be so immense that they were not banished to the [[rangoric-srd/rules/planes/The Abyss|Abyss]] with their Thanatotic brethren. Instead, the gods cast the hekatonkheires into the furthest reaches of the multiverse they could find. There, the hekatonkheires drifted in expanses of nothingness for unknown eons, and the madness wrought upon them by isolation destroyed their memories. Yet from their madness these shattered monstrosities spawned progeny to replace them in their pursuit to destroy, and some of these monstrous offspring discovered ways to break through planar boundaries and wander the multiverse freely.
 
@@ -71,7 +71,7 @@ Those hekatonkheires who have emerged back into the multiverse have done so in d
 
 Though hekatonkheires are as intelligent as the rest of their titan relatives, they wander with such destructive and seemingly mindless intentions that they spare no time in communicating with other creatures, especially those that would beg for mercy. The hekatonkheires were created to destroy, and so that is all they desire to do; the crushing blows of their fists and the goring slashes of their weapons speak for themselves. They serve no master, and halt their otherwise endless rampage only if called by their true names, which few—if any—mortals know. Those that do know these names speak them only in whispers, for their mere utterance seems to carry with it immeasurable power.
 
-A hekatonkheires can only be called via mighty spells such as *[[rangoric-srd/spells/Gate|gate]]* if a conjurer knows the plane the titan is currently on, and only if the conjurer knows the true name of the hekatonkheires it is seeking to call. Only the mad or depraved would dare such a feat, however, as the might of one of these unique goliaths is so massive that the being cannot be controlled, and even if it is banished back to the realm from whence it came, it is never long before the hekatonkheires sets its sights on the world it visited so briefly, if only to sate its lust for destroying it.
+A hekatonkheires can only be called via mighty spells such as _[[rangoric-srd/spells/Gate|gate]]_ if a conjurer knows the plane the titan is currently on, and only if the conjurer knows the true name of the hekatonkheires it is seeking to call. Only the mad or depraved would dare such a feat, however, as the might of one of these unique goliaths is so massive that the being cannot be controlled, and even if it is banished back to the realm from whence it came, it is never long before the hekatonkheires sets its sights on the world it visited so briefly, if only to sate its lust for destroying it.
 
 Each hekatonkheires has 50 heads and 100 arms so that one is never caught off guard. The stones that it hurls with its 100 hands are as big as boulders, and those who have seen a hekatonkheires hurl such rocks and lived to tell the tale have said that it is as though an entire mountain is falling from the sky. In addition to their unworldly strength, hekatonkheires are known for their awesome control over the powers of lightning and thunder, and an individual hekatonkheires's arrival is often prefaced by an abrupt and tumultuous storm in the area. Like all titans, hekatonkheires are immortal, and do not die unless they are slain.
 
@@ -79,7 +79,7 @@ A hekatonkheires is 50 feet tall and weighs 25 tons.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th; concentration +27): Constant—*[[rangoric-srd/spells/Air Walk|air walk]]*, *[[rangoric-srd/spells/Spell Turning|spell turning]]*, *[[rangoric-srd/spells/True Seeing|true seeing]]*; At will—*[[rangoric-srd/spells/Bestow Curse|bestow curse]]* (DC 21), *[[rangoric-srd/spells/Break Enchantment|break enchantment]]*, *[[rangoric-srd/spells/Chain Lightning|chain lightning]]* (DC 23), *[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]*, *[[rangoric-srd/spells/Find the Path|find the path]]*, *[[rangoric-srd/spells/Sending|sending]]*; 3/day—*[[rangoric-srd/spells/Scrying, Greater|greater scrying]]* (DC 24), *[[rangoric-srd/spells/Heal (Spell)|heal]]*, *[[rangoric-srd/spells/Suggestion, Mass|mass suggestion]]* (DC 23); 1/day—*[[rangoric-srd/spells/Dominate Monster|dominate monster]]* (DC 26), *[[rangoric-srd/spells/Spell Immunity, Greater|greater spell immunity]]*, *[[rangoric-srd/spells/Imprisonment|imprisonment]]* (DC 26), *[[rangoric-srd/spells/Storm of Vengeance|storm of vengeance]]* (DC 26).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th; concentration +27): Constant—_[[rangoric-srd/spells/Air Walk|air walk]]_, _[[rangoric-srd/spells/Spell Turning|spell turning]]_, _[[rangoric-srd/spells/True Seeing|true seeing]]_; At will—_[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (DC 21), _[[rangoric-srd/spells/Break Enchantment|break enchantment]]_, _[[rangoric-srd/spells/Chain Lightning|chain lightning]]_ (DC 23), _[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]_, _[[rangoric-srd/spells/Find the Path|find the path]]_, _[[rangoric-srd/spells/Sending|sending]]_; 3/day—_[[rangoric-srd/spells/Scrying, Greater|greater scrying]]_ (DC 24), _[[rangoric-srd/spells/Heal (Spell)|heal]]_, _[[rangoric-srd/spells/Suggestion, Mass|mass suggestion]]_ (DC 23); 1/day—_[[rangoric-srd/spells/Dominate Monster|dominate monster]]_ (DC 26), _[[rangoric-srd/spells/Spell Immunity, Greater|greater spell immunity]]_, _[[rangoric-srd/spells/Imprisonment|imprisonment]]_ (DC 26), _[[rangoric-srd/spells/Storm of Vengeance|storm of vengeance]]_ (DC 26).
 
 **[[rangoric-srd/monsters/abilities/Hands of War|Hands of War]] (Su)**: Any weapon a hekatonkheires wields gains a +3 enhancement bonus while the titan holds it. A hekatonkheires's attacks are treated as epic and evil for the purposes of overcoming damage reduction. In addition, a hekatonkheires's multitude of arms allows it to effectively block attacks, granting it a +8 armor bonus to its AC.
 

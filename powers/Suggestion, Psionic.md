@@ -35,7 +35,7 @@ Telepathy (Compulsion) \[Mind-Affecting, Language-Dependent\]
 **Duration:** 1 hour/level or until completed  
 **Saving Throw:** Will negates  
 **Power Resistance:** Yes  
-**Power Points:** 3  
+**Power Points:** 3
 
 As the [[rangoric-srd/spells/Suggestion|suggestion]] spell, except as noted here.
 

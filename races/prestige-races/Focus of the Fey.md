@@ -15,12 +15,12 @@ One of the [[rangoric-srd/races/prestige-races/Prestige Races|prestige races]]; 
 
 Those who undertake the Focus of the Fey yearn to use their minds and fey gifts to the utmost of their ability. They desire to truly understand the depth and breadth of what it means to be fey. As a result, they sharpen their awareness of both the limitations and the benefits of appearances and the assumptions that come from them. Focus of the Fey shares evolutionary steps with three other Foci—Focus of the Mind, Focus of the Fae-Sight, and Focus of the Fair and Foul (not in this SRD). These steps do not count against the normal development of a person’s path unless the character advances to the second step in a different Focus, at which point standard XP penalties apply.
 
-| Step | Cost | Minimum Level | Prerequisite |
-| --- | --- | --- | --- |
-| [[#Centered Creature\|Centered Creature]] | 5,500 XP | 6th | None. |
-| [[#Fair Creature\|Fair Creature]] | 6,000 XP | 7th | Centered. |
-| [[#Discerning Creature\|Discerning Creature]] | 7,000 XP | 7th | Centered and Fair |
-| [[#Fey Creature\|Fey Creature]] | 10,000 XP | 10th | Discerning. |
+| Step                                          | Cost      | Minimum Level | Prerequisite      |
+| --------------------------------------------- | --------- | ------------- | ----------------- |
+| [[#Centered Creature\|Centered Creature]]     | 5,500 XP  | 6th           | None.             |
+| [[#Fair Creature\|Fair Creature]]             | 6,000 XP  | 7th           | Centered.         |
+| [[#Discerning Creature\|Discerning Creature]] | 7,000 XP  | 7th           | Centered and Fair |
+| [[#Fey Creature\|Fey Creature]]               | 10,000 XP | 10th          | Discerning.       |
 
 ### Centered Creature
 

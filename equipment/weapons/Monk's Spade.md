@@ -23,9 +23,9 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/double, weapon-group/mon
 
 # Monk's Spade
 
-*Exotic two-handed melee weapon (double, trip, disarm).* Cost 30 gp; Dmg 1d8/1d6 (S), 1d10/2d4 (M); Critical x2; Weight 11 lb.; Type Slashing. ^stats
+_Exotic two-handed melee weapon (double, trip, disarm)._ Cost 30 gp; Dmg 1d8/1d6 (S), 1d10/2d4 (M); Critical x2; Weight 11 lb.; Type Slashing. ^stats
 
-(*Yue Ya Chan*): The monk’s spade is a stout staff topped at one end with a flat, sharpened spade head, and at the other with a crescent-shaped blade. Frequently, steel rings hang from the shovel blade, jingling like bells as it strikes in battle. The monk spade makes a good weapon for taking on multiple opponents or going against those on horseback. Bracing the weapon against an immobile surface, the wielder gets a +4 circumstance bonus to Armor Class against charging or mounted attacks.
+(_Yue Ya Chan_): The monk’s spade is a stout staff topped at one end with a flat, sharpened spade head, and at the other with a crescent-shaped blade. Frequently, steel rings hang from the shovel blade, jingling like bells as it strikes in battle. The monk spade makes a good weapon for taking on multiple opponents or going against those on horseback. Bracing the weapon against an immobile surface, the wielder gets a +4 circumstance bonus to Armor Class against charging or mounted attacks.
 
 A monk’s spade is a double weapon. One can fight with it as if fighting with two weapons, incurring all of the normal attack penalties associated with fighting with two weapons (although the offhand weapon is considered light). A creature using a monk’s spade in one hand cannot use it as a double weapon. A monk using a monk’s spade fights with his unarmed base attack bonus and more favorable number of attacks per round, though she must take the Exotic Weapon Proficiency feat to do so.
 

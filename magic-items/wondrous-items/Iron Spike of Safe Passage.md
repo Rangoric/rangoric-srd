@@ -25,4 +25,4 @@ When hammered into place this 9-inch iron spike creates an illusion up to 15 fee
 
 Hammering the spike into place or removing it is a full-round action. The spike can be used any number of times and its effects last until removed.
 
-Faint illusion; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Silent Image|silent image]]*; Price 2,000 gp; Cost 1,000 gp; Weight 2 lbs.
+Faint illusion; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Silent Image|silent image]]_; Price 2,000 gp; Cost 1,000 gp; Weight 2 lbs.

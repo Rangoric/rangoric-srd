@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Disguise
 
-*A [[rangoric-srd/classes/Witch#^witch-hex|hex]] (Su).*
+_A [[rangoric-srd/classes/Witch#^witch-hex|hex]] (Su)._
 
-A witch can change her appearance for a number of hours equal to her class level, as if using *[[rangoric-srd/spells/Disguise Self|disguise self]]*. These hours do not need to be consecutive, but they must be spent in 1-hour increments.
+A witch can change her appearance for a number of hours equal to her class level, as if using _[[rangoric-srd/spells/Disguise Self|disguise self]]_. These hours do not need to be consecutive, but they must be spent in 1-hour increments.

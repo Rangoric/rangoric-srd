@@ -11,8 +11,8 @@ tags: [rangoric, rangoric/monster]
 
 # Dwarf
 
-  - [[rangoric-srd/monsters/dwarf/Dwarf, 1st-Level Warrior|Dwarf, 1st-Level Warrior]]
-  - [[rangoric-srd/monsters/duergar/Duergar, 1st-Level Warrior|Duergar, 1st-Level Warrior]]
+- [[rangoric-srd/monsters/dwarf/Dwarf, 1st-Level Warrior|Dwarf, 1st-Level Warrior]]
+- [[rangoric-srd/monsters/duergar/Duergar, 1st-Level Warrior|Duergar, 1st-Level Warrior]]
 
 Dwarves favor earth tones in their clothing and prefer simple and functional garb. The skin can be very dark, but it is always some shade of tan or brown. Hair color can be black, gray, or brown. Dwarves average 4 feet tall and weigh as much as adult humans.
 
@@ -66,23 +66,23 @@ Mountain dwarves are the [[rangoric-srd/races/Dwarf#Subtypes|dwarf race]]'s moun
 
 These dwarves with class levels are described on their own:
 
-  - Adepts: [[rangoric-srd/monsters/dwarf/Guru|Guru]] (CR 4)
-  - Assassins: [[rangoric-srd/monsters/dwarf/Fatal Axe|Fatal Axe]] (CR 19)
-  - Barbarians: [[rangoric-srd/monsters/dwarf/Dwarven Rager|Dwarven Rager]] (CR 1), [[rangoric-srd/monsters/dwarf/Sundering Axe|Sundering Axe]] (CR 6), [[rangoric-srd/monsters/dwarf/Giant Slayer|Giant Slayer]] (CR 11), [[rangoric-srd/monsters/dwarf/Scarred Wanderer|Scarred Wanderer]] (CR 19)
-  - Bards: [[rangoric-srd/monsters/dwarf/Gambler|Gambler]] (CR 6), [[rangoric-srd/monsters/dwarf/Tunnel Drummer|Tunnel Drummer]] (CR 13)
-  - Clerics: [[rangoric-srd/monsters/dwarf/War Priest|War Priest]] (CR 1)
-  - Commoners: [[rangoric-srd/monsters/dwarf/Miner|Miner]] (CR 1)
-  - Dragon disciples: [[rangoric-srd/monsters/dwarf/Storm Prophet|Storm Prophet]] (CR 8)
-  - Druids: [[rangoric-srd/monsters/dwarf/Initiate of Flame|Initiate of Flame]] (CR 1/2), [[rangoric-srd/monsters/dwarf/Earthfather|Earthfather]] (CR 19)
-  - Duelists: [[rangoric-srd/monsters/dwarf/Iron Duelist|Iron Duelist]] (CR 16)
-  - Experts: [[rangoric-srd/monsters/dwarf/Expert Blacksmith|Expert Blacksmith]] (CR 4)
-  - Fighters: [[rangoric-srd/monsters/dwarf/Spell Hunter|Spell Hunter]] (CR 6), [[rangoric-srd/monsters/dwarf/Shieldbreaker (Monster)|Shieldbreaker (Monster)]] (CR 11), [[rangoric-srd/monsters/dwarf/Dwarven Arbalester|Dwarven Arbalester]] (CR 15)
-  - Loremasters: [[rangoric-srd/monsters/dwarf/Master Historian|Master Historian]] (CR 16)
-  - Monks: [[rangoric-srd/monsters/dwarf/Steadfast Defender|Steadfast Defender]] (CR 8), [[rangoric-srd/monsters/dwarf/Improvised Hurler|Improvised Hurler]] (CR 14)
-  - Mystic theurges: [[rangoric-srd/monsters/dwarf/Holy Battle Mage|Holy Battle Mage]] (CR 19)
-  - Paladins: [[rangoric-srd/monsters/dwarf/Hammer of Justice|Hammer of Justice]] (CR 4), [[rangoric-srd/monsters/dwarf/Forge Rider|Forge Rider]] (CR 11), [[rangoric-srd/monsters/dwarf/Axe Lord|Axe Lord]] (CR 16)
-  - Rangers: [[rangoric-srd/monsters/dwarf/Mountaineer (Monster)|Mountaineer (Monster)]] (CR 6), [[rangoric-srd/monsters/dwarf/Golem-Breaker|Golem-Breaker]] (CR 17)
-  - Rogues: [[rangoric-srd/monsters/dwarf/Cave Stalker|Cave Stalker]] (CR 5), [[rangoric-srd/monsters/dwarf/Guildmaster|Guildmaster]] (CR 12)
-  - Sorcerers: [[rangoric-srd/monsters/dwarf/Gem Sorcerer|Gem Sorcerer]] (CR 1), [[rangoric-srd/monsters/dwarf/Fiery Dragonkin|Fiery Dragonkin]] (CR 16)
-  - Warriors: [[rangoric-srd/monsters/dwarf/Recruit|Recruit]] (CR 1/3)
-  - Wizards: [[rangoric-srd/monsters/dwarf/Cave Wizard|Cave Wizard]] (CR 8), [[rangoric-srd/monsters/dwarf/Deep Marshal|Deep Marshal]] (CR 15)
+- Adepts: [[rangoric-srd/monsters/dwarf/Guru|Guru]] (CR 4)
+- Assassins: [[rangoric-srd/monsters/dwarf/Fatal Axe|Fatal Axe]] (CR 19)
+- Barbarians: [[rangoric-srd/monsters/dwarf/Dwarven Rager|Dwarven Rager]] (CR 1), [[rangoric-srd/monsters/dwarf/Sundering Axe|Sundering Axe]] (CR 6), [[rangoric-srd/monsters/dwarf/Giant Slayer|Giant Slayer]] (CR 11), [[rangoric-srd/monsters/dwarf/Scarred Wanderer|Scarred Wanderer]] (CR 19)
+- Bards: [[rangoric-srd/monsters/dwarf/Gambler|Gambler]] (CR 6), [[rangoric-srd/monsters/dwarf/Tunnel Drummer|Tunnel Drummer]] (CR 13)
+- Clerics: [[rangoric-srd/monsters/dwarf/War Priest|War Priest]] (CR 1)
+- Commoners: [[rangoric-srd/monsters/dwarf/Miner|Miner]] (CR 1)
+- Dragon disciples: [[rangoric-srd/monsters/dwarf/Storm Prophet|Storm Prophet]] (CR 8)
+- Druids: [[rangoric-srd/monsters/dwarf/Initiate of Flame|Initiate of Flame]] (CR 1/2), [[rangoric-srd/monsters/dwarf/Earthfather|Earthfather]] (CR 19)
+- Duelists: [[rangoric-srd/monsters/dwarf/Iron Duelist|Iron Duelist]] (CR 16)
+- Experts: [[rangoric-srd/monsters/dwarf/Expert Blacksmith|Expert Blacksmith]] (CR 4)
+- Fighters: [[rangoric-srd/monsters/dwarf/Spell Hunter|Spell Hunter]] (CR 6), [[rangoric-srd/monsters/dwarf/Shieldbreaker (Monster)|Shieldbreaker (Monster)]] (CR 11), [[rangoric-srd/monsters/dwarf/Dwarven Arbalester|Dwarven Arbalester]] (CR 15)
+- Loremasters: [[rangoric-srd/monsters/dwarf/Master Historian|Master Historian]] (CR 16)
+- Monks: [[rangoric-srd/monsters/dwarf/Steadfast Defender|Steadfast Defender]] (CR 8), [[rangoric-srd/monsters/dwarf/Improvised Hurler|Improvised Hurler]] (CR 14)
+- Mystic theurges: [[rangoric-srd/monsters/dwarf/Holy Battle Mage|Holy Battle Mage]] (CR 19)
+- Paladins: [[rangoric-srd/monsters/dwarf/Hammer of Justice|Hammer of Justice]] (CR 4), [[rangoric-srd/monsters/dwarf/Forge Rider|Forge Rider]] (CR 11), [[rangoric-srd/monsters/dwarf/Axe Lord|Axe Lord]] (CR 16)
+- Rangers: [[rangoric-srd/monsters/dwarf/Mountaineer (Monster)|Mountaineer (Monster)]] (CR 6), [[rangoric-srd/monsters/dwarf/Golem-Breaker|Golem-Breaker]] (CR 17)
+- Rogues: [[rangoric-srd/monsters/dwarf/Cave Stalker|Cave Stalker]] (CR 5), [[rangoric-srd/monsters/dwarf/Guildmaster|Guildmaster]] (CR 12)
+- Sorcerers: [[rangoric-srd/monsters/dwarf/Gem Sorcerer|Gem Sorcerer]] (CR 1), [[rangoric-srd/monsters/dwarf/Fiery Dragonkin|Fiery Dragonkin]] (CR 16)
+- Warriors: [[rangoric-srd/monsters/dwarf/Recruit|Recruit]] (CR 1/3)
+- Wizards: [[rangoric-srd/monsters/dwarf/Cave Wizard|Cave Wizard]] (CR 8), [[rangoric-srd/monsters/dwarf/Deep Marshal|Deep Marshal]] (CR 15)

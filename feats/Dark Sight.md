@@ -17,4 +17,4 @@ With further modification, your eyes can pierce the gloom of even magical darkne
 
 **Prerequisites**: [[rangoric-srd/feats/Gloom Sight|Gloom Sight]], [[rangoric-srd/races/Fetchling|fetchling]].
 
-**Benefit**: You gain the ability to see up to 15 feet clearly in magical darkness, such as that created by the *[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]* spell.
+**Benefit**: You gain the ability to see up to 15 feet clearly in magical darkness, such as that created by the _[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_ spell.

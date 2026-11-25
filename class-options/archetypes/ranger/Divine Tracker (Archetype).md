@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Divine Tracker
 
-*A [[rangoric-srd/classes/Ranger#^ranger-archetypes|ranger]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Ranger#^ranger-archetypes|ranger]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Blessed by his deity, a divine tracker hunts down those he deems deserving of his retribution. His weapon is likely to find purchase in his [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]].
 

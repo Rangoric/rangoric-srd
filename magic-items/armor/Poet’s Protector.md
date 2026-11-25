@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Poet’s Protector
 
-This *+1* [[rangoric-srd/equipment/armor/Buckler|buckler]] is often outrageously adorned with bright colors and shining crystals. In the hands of a bard, the shield’s true abilities are evident. It becomes a *+3 buckler*, and a bard suffers no arcane spell failure as a result of using the shield. It counters all forms of [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafness]] and *[[rangoric-srd/spells/Silence|silence]]* effects and enables the bard to use *[[rangoric-srd/spells/Mirror Image|mirror image]]* (once per day as a standard action; 1d4+3 images).
+This _+1_ [[rangoric-srd/equipment/armor/Buckler|buckler]] is often outrageously adorned with bright colors and shining crystals. In the hands of a bard, the shield’s true abilities are evident. It becomes a _+3 buckler_, and a bard suffers no arcane spell failure as a result of using the shield. It counters all forms of [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafness]] and _[[rangoric-srd/spells/Silence|silence]]_ effects and enables the bard to use _[[rangoric-srd/spells/Mirror Image|mirror image]]_ (once per day as a standard action; 1d4+3 images).
 
-Moderate illusion and abjuration; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, *[[rangoric-srd/spells/Mirror Image|mirror image]]*; Price 30,055 gp; Cost 15,110 gp + 1,195 XP.
+Moderate illusion and abjuration; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Mirror Image|mirror image]]_; Price 30,055 gp; Cost 15,110 gp + 1,195 XP.

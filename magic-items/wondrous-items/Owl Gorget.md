@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Owl Gorget
 
-*Owl gorgets* come from the northlands and are characterized by the primitive runes and pictograms embossed on their outer surfaces. Once per day the runes bestow upon the *gorget’s* wearer the ability to *[[rangoric-srd/spells/Polymorph|polymorph]]* into an owl. When equipped, the wearer receives a +1 enhancement Armor Class bonus, a +2 enhancement bonus to her Wisdom, and the disturbing ability to turn her head completely around.
+_Owl gorgets_ come from the northlands and are characterized by the primitive runes and pictograms embossed on their outer surfaces. Once per day the runes bestow upon the _gorget’s_ wearer the ability to _[[rangoric-srd/spells/Polymorph|polymorph]]_ into an owl. When equipped, the wearer receives a +1 enhancement Armor Class bonus, a +2 enhancement bonus to her Wisdom, and the disturbing ability to turn her head completely around.
 
-Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Polymorph|polymorph]]*; Price 56,400 gp; Cost 28,200 gp + 2,256 XP; Weight 1 lb.
+Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Polymorph|polymorph]]_; Price 56,400 gp; Cost 28,200 gp + 2,256 XP; Weight 1 lb.

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Vulnerable to Supernatural Darkness
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “vulnerable to supernatural darkness”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “vulnerable to supernatural darkness”, on the Special Qualities line.
 
 In areas of supernatural darkness (such as those created by deeper darkness, but not by darkness), a mandragora is slowed, as the slow spell. The [[rangoric-srd/monsters/Mandragora|mandragora]] has it.

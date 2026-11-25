@@ -26,15 +26,15 @@ tags: [rangoric, rangoric/spell]
 
 # Enemy Scourge
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Hun 3, Rgr 3
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: Caster
-  - **Duration**: 1 round/ 2 levels
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Hun 3, Rgr 3
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: Caster
+- **Duration**: 1 round/ 2 levels
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 This spell converts every successful attack a ranger makes against one of his chosen enemies into a critical hit. If the attack is made with a ranged weapon, the weapon’s critical modifier is increased by 1 (x2 becomes x3, x3 becomes x4, etc.)

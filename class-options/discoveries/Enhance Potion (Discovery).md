@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Enhance Potion
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]].*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]]._
 
 A number of times per day equal to his Intelligence modifier, the alchemist can cause any potion he drinks to function at a caster level equal to his class level.

@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/hammers]
 
 # Battle Staff
 
-*Martial two-handed melee weapon.* Cost 10 gp; Dmg 1d6/1d6 (S), 1d8/1d8 (M); Critical x2; Weight 15 lb.; Type Bludgeoning. ^stats
+_Martial two-handed melee weapon._ Cost 10 gp; Dmg 1d6/1d6 (S), 1d8/1d8 (M); Critical x2; Weight 15 lb.; Type Bludgeoning. ^stats
 
 Often wielded by fighter/wizards and sorcerers, the battle staff is a heavily constructed staff reinforced along its length with steel. Battle staff heads are often studded to increase damage.

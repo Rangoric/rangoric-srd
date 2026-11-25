@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Legendary Leaper
 
-Prerequisite: [[rangoric-srd/skills/Athletics|Athletics]] 21 ranks.  
+Prerequisite: [[rangoric-srd/skills/Athletics|Athletics]] 21 ranks.
 
 Benefit: The character need only move 5 feet in a straight line to make a running jump.
 

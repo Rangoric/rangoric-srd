@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/word-of-power]
 
 # Unfetter
 
-*One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Gravity Words|Gravity group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]].*
+_One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Gravity Words|Gravity group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]]._
 
 **School** transmutation
 

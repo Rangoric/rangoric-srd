@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Polish of Mending
 
-*Alchana; Special*
+_Alchana; Special_
 
 Polish of mending is a thick white chymical paste that quickly darkens to purple, then blue, then black as it interacts with any metals upon which it is placed. Assuming an item has not lost more than half of its total hit points, the polish can restore up to 3 material hit points by alchemically restoring and rebonding the metals. By spreading it onto the metal and leaving it undisturbed, the polish transforms any lost hit points (and damage by microfractures and imperfections in the weapon or armor) into nonlethal damage and slowly repairs the weapon at the rate of one an hour.
 

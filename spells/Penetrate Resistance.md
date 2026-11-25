@@ -20,12 +20,12 @@ tags: [rangoric, rangoric/spell]
 
 # Penetrate Resistance
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Sor/Wiz 5
-  - **Components**: V
-  - **Casting Time**: See text
-  - **Range**: Personal
-  - **Duration**: See text
+- **Level**: Sor/Wiz 5
+- **Components**: V
+- **Casting Time**: See text
+- **Range**: Personal
+- **Duration**: See text
 
-Casting this spell is a free action, like casting a *[[rangoric-srd/feats/Quicken Spell|quickened]]* spell, and it counts toward the normal limit of one *[[rangoric-srd/feats/Quicken Spell|quickened]]* spell per round. If the caster casts another spell in the same round, the caster gains a +4 bonus to caster level checks to penetrate Spell Resistance with that spell. The bonus is increased to +5 at 14th level and +6 at 18th level.
+Casting this spell is a free action, like casting a _[[rangoric-srd/feats/Quicken Spell|quickened]]_ spell, and it counts toward the normal limit of one _[[rangoric-srd/feats/Quicken Spell|quickened]]_ spell per round. If the caster casts another spell in the same round, the caster gains a +4 bonus to caster level checks to penetrate Spell Resistance with that spell. The bonus is increased to +5 at 14th level and +6 at 18th level.

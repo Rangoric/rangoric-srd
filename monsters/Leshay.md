@@ -60,15 +60,15 @@ Organization: Solitary    
 Challenge Rating: 28      
 Treasure: Standard      
 Alignment: Any      
-Advancement: None      
+Advancement: None    
 
 A leshay’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 #### Combat
 
-Spell-Like Abilities: Caster level 28th; save DC 28 + spell level. The DCs are Charisma-based.  
+Spell-Like Abilities: Caster level 28th; save DC 28 + spell level. The DCs are Charisma-based.
 
-At will - [[rangoric-srd/spells/Alter Self|alter self]], [[rangoric-srd/spells/Detect Thoughts|detect thoughts]], [[rangoric-srd/spells/Displacement|displacement]], [[rangoric-srd/spells/Freedom|freedom]], [[rangoric-srd/spells/Spells F to G|greater dispel magic]], [[rangoric-srd/spells/Heal (Spell)|heal]], [[rangoric-srd/spells/Invisibility, Greater|greater invisibility]], [[rangoric-srd/spells/Knock|knock]], [[rangoric-srd/spells/Speak with Plants|speak with plants]], [[rangoric-srd/spells/Spell Turning|spell turning]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]], [[rangoric-srd/spells/Water Breathing|water breathing]].  
+At will - [[rangoric-srd/spells/Alter Self|alter self]], [[rangoric-srd/spells/Detect Thoughts|detect thoughts]], [[rangoric-srd/spells/Displacement|displacement]], [[rangoric-srd/spells/Freedom|freedom]], [[rangoric-srd/spells/Spells F to G|greater dispel magic]], [[rangoric-srd/spells/Heal (Spell)|heal]], [[rangoric-srd/spells/Invisibility, Greater|greater invisibility]], [[rangoric-srd/spells/Knock|knock]], [[rangoric-srd/spells/Speak with Plants|speak with plants]], [[rangoric-srd/spells/Spell Turning|spell turning]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]], [[rangoric-srd/spells/Water Breathing|water breathing]].
 
 LeShay Weapons (Su): Each leShay carries two personal melee weapons that he or she manifests from his or her own life essence. The weapon can change form as he or she shifts from class to class, typically appearing as a bastard sword (one in each hand). When not in combat, the weapons simply do not exist, but leShay can “draw” their weapons from nowhere as a free action. LeShay weapons are considered light weapons for a leShay, regardless of their size.
 

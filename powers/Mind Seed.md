@@ -35,7 +35,7 @@ Telepathy (Compulsion) \[Evil, Mind-Affecting\]
 **Duration:** Instantaneous; see text  
 **Saving Throw:** Will negates  
 **Power Resistance:** Yes  
-**Power Points:** 15, XP  
+**Power Points:** 15, XP
 
 You impress the totality of your psyche into a subject’s subconscious. If successfully implanted, the seed of your mind “germinates” over the period of one week. During this time, the subject begins to unconsciously take on your mannerisms.
 

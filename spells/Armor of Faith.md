@@ -16,8 +16,8 @@ tags: [rangoric, rangoric/spell]
 
 # Armor of Faith
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Clr 6, Pal 4
+- **Level**: Clr 6, Pal 4
 
-As *[[rangoric-srd/spells/Armor of Deflection|armor of deflection]],* except the subject of this spell gains [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|damage reduction]] 4/— and a +4 deflection bonus to AC. The targeted creature must be of the same faith as the caster.
+As _[[rangoric-srd/spells/Armor of Deflection|armor of deflection]],_ except the subject of this spell gains [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|damage reduction]] 4/— and a +4 deflection bonus to AC. The targeted creature must be of the same faith as the caster.

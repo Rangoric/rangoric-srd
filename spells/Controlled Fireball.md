@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Controlled Fireball
 
-*Evocation \[Fire, Ruse\]*
+_Evocation \[Fire, Ruse\]_
 
-  - **Level**: Blr 4, Mag 4, Occ 4, Sor/Wiz 4
-  - **Components**: V, S, M (a ball of bat guano and sulfur)
-  - **Casting Time**: 1 standard action
-  - **Range**: Long (400 ft. + 40 ft./level)
-  - **Area**: 20-foot-radius spread
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Reflex half
-  - **Spell Resistance**: Yes
+- **Level**: Blr 4, Mag 4, Occ 4, Sor/Wiz 4
+- **Components**: V, S, M (a ball of bat guano and sulfur)
+- **Casting Time**: 1 standard action
+- **Range**: Long (400 ft. + 40 ft./level)
+- **Area**: 20-foot-radius spread
+- **Duration**: Instantaneous
+- **Saving Throw**: Reflex half
+- **Spell Resistance**: Yes
 
-This spell functions as [[rangoric-srd/spells/Fireball|fireball]] except you can cause the bead of fire to originate from anywhere you can see within range. You can choose a number of squares within the area up to your Intelligence bonus (for [[rangoric-srd/classes/Magus|magi]], [[rangoric-srd/classes/Occultist|occultists]], or wizards) or Charisma bonus (for bloodragers or sorcerers) to be struck by weaker flames; the controlled *[[rangoric-srd/spells/Fireball|fireball]]* deals minimum damage in those squares. Attempts to identify controlled *[[rangoric-srd/spells/Fireball|fireball]]* with a skill check incorrectly identify it as *[[rangoric-srd/spells/Fireball|fireball]]*.
+This spell functions as [[rangoric-srd/spells/Fireball|fireball]] except you can cause the bead of fire to originate from anywhere you can see within range. You can choose a number of squares within the area up to your Intelligence bonus (for [[rangoric-srd/classes/Magus|magi]], [[rangoric-srd/classes/Occultist|occultists]], or wizards) or Charisma bonus (for bloodragers or sorcerers) to be struck by weaker flames; the controlled _[[rangoric-srd/spells/Fireball|fireball]]_ deals minimum damage in those squares. Attempts to identify controlled _[[rangoric-srd/spells/Fireball|fireball]]_ with a skill check incorrectly identify it as _[[rangoric-srd/spells/Fireball|fireball]]_.

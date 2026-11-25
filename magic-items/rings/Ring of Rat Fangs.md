@@ -21,4 +21,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This bone ring is the shape of an elongated rat biting its own tail. The wearer gains a bite attack as a primary natural attack. This attack deals 1d4 points of piercing damage for a Medium wearer or 1d3 points of damage for a Small wearer. After about a week of wearing the ring, the wearer's appearance becomes more ratlike, though she still looks like a member of her original race (for example, a human might gain prominent teeth).
 
-Faint transmutation; CL 3rd; [[rangoric-srd/feats/Forge Ring|Forge Ring]], *[[rangoric-srd/spells/Magic Fang|magic fang]]*, *[[rangoric-srd/spells/Polymorph|polymorph]]*; Price 5,000 gp; Cost 2,500 gp.
+Faint transmutation; CL 3rd; [[rangoric-srd/feats/Forge Ring|Forge Ring]], _[[rangoric-srd/spells/Magic Fang|magic fang]]_, _[[rangoric-srd/spells/Polymorph|polymorph]]_; Price 5,000 gp; Cost 2,500 gp.

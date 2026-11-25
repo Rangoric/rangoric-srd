@@ -27,7 +27,7 @@ Psychoportation
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 round  
-**Power Points:** 17  
+**Power Points:** 17
 
 Your body ignores all harmful (and helpful) effects, beginning when you finish manifesting this power and ending at the end of your next turn. While timeless body is in effect, you are invulnerable to all attacks and powers.
 

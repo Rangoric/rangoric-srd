@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Clockwork Servant
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]] (Clockwork)
-  - **Hit Dice**: 2d10+20 (31 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 16 (+2 Dex, +2 dodge, +2 natural), touch 14, flat-footed 12
-  - **Base Attack**: +2; **CMB**: +6; **CMD**: 20 (22 trip)
-  - **Attack**: Slam +6 melee (1d4+6) or net +4
-  - **Full Attack**: Slam +6 melee (1d4+6); or net +4
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Repair Clockwork|repair clockwork]], swift reactions, winding, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], vulnerable to electricity
-  - **Saves**: Fort +0, Ref +4, Will +0
-  - **Abilities**: Str 19, Dex 14, Con —, Int —, Wis 11, Cha 1
-  - **Skills**: —
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
-  - **Environment**: Any
-  - **Organization**: Solitary, team (2–4), or squadron (5–10)
-  - **Challenge Rating**: 2
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]] (Clockwork)
+- **Hit Dice**: 2d10+20 (31 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 16 (+2 Dex, +2 dodge, +2 natural), touch 14, flat-footed 12
+- **Base Attack**: +2; **CMB**: +6; **CMD**: 20 (22 trip)
+- **Attack**: Slam +6 melee (1d4+6) or net +4
+- **Full Attack**: Slam +6 melee (1d4+6); or net +4
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Repair Clockwork|repair clockwork]], swift reactions, winding, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], vulnerable to electricity
+- **Saves**: Fort +0, Ref +4, Will +0
+- **Abilities**: Str 19, Dex 14, Con —, Int —, Wis 11, Cha 1
+- **Skills**: —
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
+- **Environment**: Any
+- **Organization**: Solitary, team (2–4), or squadron (5–10)
+- **Challenge Rating**: 2
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Since clockwork engineers can't always be present to make sure their devices are working at full capacity, the clockwork servant was invented to serve that role. Clockwork servants excel at repairing themselves and other clockworks on the battlefield, proving useful for skirmishes and campaigns alike.
 
@@ -77,4 +77,4 @@ Clockwork servants are about 5 feet tall and weigh over 400 pounds.
 
 ### Construction
 
-CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Geas-Quest|geas/quest]]* and *[[rangoric-srd/spells/Make Whole|make whole]]*, creator must be at least caster level 12th; Skill [[rangoric-srd/skills/Craft|Craft]] (clockwork) DC 20; Price 7,500 gp (13,500 gp for an intelligent servant); Cost 4,000 gp (7,000 gp for an intelligent clockwork servant).
+CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_ and _[[rangoric-srd/spells/Make Whole|make whole]]_, creator must be at least caster level 12th; Skill [[rangoric-srd/skills/Craft|Craft]] (clockwork) DC 20; Price 7,500 gp (13,500 gp for an intelligent servant); Cost 4,000 gp (7,000 gp for an intelligent clockwork servant).

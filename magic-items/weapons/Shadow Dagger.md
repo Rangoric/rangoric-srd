@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Shadow Dagger
 
-This *+1 dagger* is crafted from the essence of the Plane of Shadow. It is perfectly invisible in natural darkness and shadows, and can be placed and retrieved in the wielder’s shadow, just as if the shadow was a sheath. An assassin’s [[rangoric-srd/rules/Special Abilities and Conditions#Death Attacks|death attack]] performed with a *shadow dagger* adds +2 to the target’s DC to resist the death effect.
+This _+1 dagger_ is crafted from the essence of the Plane of Shadow. It is perfectly invisible in natural darkness and shadows, and can be placed and retrieved in the wielder’s shadow, just as if the shadow was a sheath. An assassin’s [[rangoric-srd/rules/Special Abilities and Conditions#Death Attacks|death attack]] performed with a _shadow dagger_ adds +2 to the target’s DC to resist the death effect.
 
-Moderate illusion [shadow]; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Shadow Conjuration|shadow conjuration]]*; Price 16,302 gp; Cost 8,151 gp + 652 XP.
+Moderate illusion [shadow]; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Shadow Conjuration|shadow conjuration]]_; Price 16,302 gp; Cost 8,151 gp + 652 XP.

@@ -18,10 +18,10 @@ tags: [rangoric, rangoric/magic-item]
 
 # Spirit-Hunting
 
-A *spirit-hunting* weapon excels against enemies with either the [[rangoric-srd/classes/Oracle#^oracle-mystery|mystery]] or [[rangoric-srd/classes/Shaman#^shaman-spirit|spirit]] class feature (but has no effect against a shaman who has a temporary bond to the appropriate spirit by way of the [[rangoric-srd/classes/Shaman#^shaman-wandering-spirit|wandering spirit]] class feature or similar effect). Against a designated foe, the weapon's enhancement bonus is 2 better than its actual bonus. It also deals 2d6 additional points of damage against such foes. When combined with abilities like *[[rangoric-srd/magic-items/weapon-abilities/Bane (Weapon Special Ability)|bane]]* or *[[rangoric-srd/magic-items/weapon-abilities/Blood-Hunting|blood-hunting]]*, the enhancement bonus increases granted by these abilities do not stack, but an additional 1d6 points of damage are added to the additional damage for each special ability beyond the first. (For example, a *bane spirit-hunting* weapon would deal 3d6 additional points of damage, and a *bane blood-hunting spirit-hunting* weapon would deal 4d6 additional points of damage.) To randomly determine a weapon's designated foe, roll on the following table. Other designated foes are possible, but most of these weapons are tuned against creatures with the following mysteries or spirits.
+A _spirit-hunting_ weapon excels against enemies with either the [[rangoric-srd/classes/Oracle#^oracle-mystery|mystery]] or [[rangoric-srd/classes/Shaman#^shaman-spirit|spirit]] class feature (but has no effect against a shaman who has a temporary bond to the appropriate spirit by way of the [[rangoric-srd/classes/Shaman#^shaman-wandering-spirit|wandering spirit]] class feature or similar effect). Against a designated foe, the weapon's enhancement bonus is 2 better than its actual bonus. It also deals 2d6 additional points of damage against such foes. When combined with abilities like _[[rangoric-srd/magic-items/weapon-abilities/Bane (Weapon Special Ability)|bane]]_ or _[[rangoric-srd/magic-items/weapon-abilities/Blood-Hunting|blood-hunting]]_, the enhancement bonus increases granted by these abilities do not stack, but an additional 1d6 points of damage are added to the additional damage for each special ability beyond the first. (For example, a _bane spirit-hunting_ weapon would deal 3d6 additional points of damage, and a _bane blood-hunting spirit-hunting_ weapon would deal 4d6 additional points of damage.) To randomly determine a weapon's designated foe, roll on the following table. Other designated foes are possible, but most of these weapons are tuned against creatures with the following mysteries or spirits.
 
 | d%    | Designated Foe |
-|-------|----------------|
+| ----- | -------------- |
 | 01–10 | Battle         |
 | 11–20 | Bones          |
 | 21–30 | Flame          |
@@ -33,4 +33,4 @@ A *spirit-hunting* weapon excels against enemies with either the [[rangoric-srd/
 | 81–90 | Waves          |
 | 91–00 | Wind           |
 
-Moderate conjuration; CL 8th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature's ally I]]*; Price +1 bonus.
+Moderate conjuration; CL 8th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature's ally I]]_; Price +1 bonus.

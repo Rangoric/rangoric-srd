@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Scarecrow
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
-  - **Hit Dice**: 5d10+20 (47 hp)
-  - **Initiative**: +0
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 16 (+6 natural), touch 10, flat-footed 16
-  - **Base Attack**: +5; **CMB**: +8; **CMD**: 18
-  - **Attack**: Slam +8 melee (1d8+3 plus [[rangoric-srd/monsters/abilities/Fear|fear]])
-  - **Full Attack**: 2 slams +8 melee (1d8+3 plus [[rangoric-srd/monsters/abilities/Fear|fear]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Fascinating Gaze|Fascinating gaze]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Freeze|freeze]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], vulnerability to fire
-  - **Saves**: Fort +1, Ref +1, Will +1
-  - **Abilities**: Str 16, Dex 10, Con —, Int —, Wis 11, Cha 14
-  - **Skills**: —
-  - **Feats**: —
-  - **Environment**: Any land
-  - **Organization**: Solitary, pair, or gang (3–6)
-  - **Challenge Rating**: 4
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
+- **Hit Dice**: 5d10+20 (47 hp)
+- **Initiative**: +0
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 16 (+6 natural), touch 10, flat-footed 16
+- **Base Attack**: +5; **CMB**: +8; **CMD**: 18
+- **Attack**: Slam +8 melee (1d8+3 plus [[rangoric-srd/monsters/abilities/Fear|fear]])
+- **Full Attack**: 2 slams +8 melee (1d8+3 plus [[rangoric-srd/monsters/abilities/Fear|fear]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Fascinating Gaze|Fascinating gaze]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Freeze|freeze]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], vulnerability to fire
+- **Saves**: Fort +1, Ref +1, Will +1
+- **Abilities**: Str 16, Dex 10, Con —, Int —, Wis 11, Cha 14
+- **Skills**: —
+- **Feats**: —
+- **Environment**: Any land
+- **Organization**: Solitary, pair, or gang (3–6)
+- **Challenge Rating**: 4
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Animated scarecrows look just like mundane scarecrows until they come to life, at which point their eyes and mouths glow with fiery light. Scarecrows are usually created as guardians to warn away trespassers. Each scarecrow is unique, but most stand 5 to 6 feet tall and are made of wood, cloth, and rope. Their stuffing of dried grass or straw makes them vulnerable to fire.
 
@@ -77,4 +77,4 @@ In combat, a scarecrow uses its fascinating gaze, then chooses the largest foe t
 
 Scarecrows are constructed of a variety of materials, but usually include a frame of wood bound by rope or twine, covered in cloth or ragged garments, then stuffed with grass or straw. Some have simple heads made from bags stuffed with straw, with two holes cut for eyes, while others have more elaborate pumpkin or gourd heads carved with grotesque faces. Once the basic body has been constructed, unguents and special powders worth 500 gp are also required.
 
-CL 6th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Command|command]]*, *[[rangoric-srd/spells/Fear|fear]]*, *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, *[[rangoric-srd/spells/Hypnotic Pattern|hypnotic pattern]]*, creator must be caster level 6th; Skill [[rangoric-srd/skills/Craft|Craft]] (carpentry), [[rangoric-srd/skills/Craft|Craft]] (sculptures), or [[rangoric-srd/skills/Profession|Profession]] (farmer) DC 12; Price 15,500 gp; Cost 8,000 gp.
+CL 6th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Command|command]]_, _[[rangoric-srd/spells/Fear|fear]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Hypnotic Pattern|hypnotic pattern]]_, creator must be caster level 6th; Skill [[rangoric-srd/skills/Craft|Craft]] (carpentry), [[rangoric-srd/skills/Craft|Craft]] (sculptures), or [[rangoric-srd/skills/Profession|Profession]] (farmer) DC 12; Price 15,500 gp; Cost 8,000 gp.

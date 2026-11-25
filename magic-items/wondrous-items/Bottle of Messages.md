@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This green glass bottle has a tiny winding key on its elongated stem that, if turned, causes a shadowy cork to slowly become substantial over a 1-round period. Anything the owner of the bottle speaks into the bottle during this time (up to 25 words) gets trapped inside it once the cork fully manifests. As soon as the cork is removed or the bottle is smashed, this message is released exactly as if the owner had spoken the words at that moment. Once the bottle releases its message, it shatters.
 
-Faint illusion; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Magic Mouth|magic mouth]]*; Price 300 gp; Cost 150 gp; Weight 1 lb.
+Faint illusion; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Magic Mouth|magic mouth]]_; Price 300 gp; Cost 150 gp; Weight 1 lb.

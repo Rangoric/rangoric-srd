@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Major Healing
 
-*A [[rangoric-srd/classes/Witch#^witch-major-hex|major hex]] (Su).*
+_A [[rangoric-srd/classes/Witch#^witch-major-hex|major hex]] (Su)._
 
-By calling upon eerie powers, the witch's touch can mend even the most terrible wounds of those she touches. This acts as *[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]*, using the witch's caster level. Once a creature has benefited from the major healing hex, it cannot benefit from it again for 24 hours. At 15th level, this hex acts like *[[rangoric-srd/spells/Cure Critical Wounds|cure critical wounds]]*.
+By calling upon eerie powers, the witch's touch can mend even the most terrible wounds of those she touches. This acts as _[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]_, using the witch's caster level. Once a creature has benefited from the major healing hex, it cannot benefit from it again for 24 hours. At 15th level, this hex acts like _[[rangoric-srd/spells/Cure Critical Wounds|cure critical wounds]]_.

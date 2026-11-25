@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Cleaner
 
-*A [[rangoric-srd/classes/Slayer#^slayer-archetypes|slayer]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Slayer#^slayer-archetypes|slayer]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A cleaner is responsible for destroying or removing incriminating evidence from a crime scene, disposing of corpses and eliminating witnesses to make a crime look like an accident or a mere disappearance.
 
@@ -26,7 +26,7 @@ A cleaner is responsible for destroying or removing incriminating evidence from 
 
 **Without a Trace (Ex)**: At 4th level, a cleaner is able to study a location, conceal evidence, and hide in or extricate himself quickly from that location. Studying a location takes 1 minute for each 10-foot square. Once he has studied an area, the cleaner can attempt an [[rangoric-srd/skills/Imitation|Imitation]] check to alter evidence or a [[rangoric-srd/skills/Stealth|Stealth]] check to conceal evidence (by doing things such as cleaning up bloodstains, obscuring footprints, moving a dead body, and so on). Altering an area takes 1d3 × 10 minutes of work per 10-foot square. Anyone attempting to determine what actually happened in that area must succeed at an opposed [[rangoric-srd/skills/Investigation|Investigation]] check against the result of the cleaner's Imitation or Stealth check (cleaner's choice) or accept the altered scene as truth. The cleaner gains a +4 bonus on this check, on [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] checks to hide objects from that location on his person, and on Stealth checks to hide within or escape from that location. This lasts as long as the scene remains unaltered (except by the cleaner). This ability replaces the [[rangoric-srd/classes/Slayer#^slayer-talents|slayer talent]] gained at 4th level.
 
-**Mislead (Sp)**: At 7th level, a cleaner can cast *[[rangoric-srd/spells/Misdirection|misdirection]]* on himself at will. This lasts until the cleaner uses the ability again or ends the effect as a standard action. This ability replaces [[rangoric-srd/classes/Slayer#^slayer-stalker|stalker]].
+**Mislead (Sp)**: At 7th level, a cleaner can cast _[[rangoric-srd/spells/Misdirection|misdirection]]_ on himself at will. This lasts until the cleaner uses the ability again or ends the effect as a standard action. This ability replaces [[rangoric-srd/classes/Slayer#^slayer-stalker|stalker]].
 
 **Slayer Talents**: The following [[rangoric-srd/classes/Slayer#^slayer-talents|slayer talents]] (and [[rangoric-srd/class-options/slayer-talents/Rogue Talent (Slayer Talent)|rogue talents]]) complement the cleaner archetype: [[rangoric-srd/class-options/rogue-talents/Camouflage (Rogue Talent)|camouflage]], [[rangoric-srd/class-options/rogue-talents/Fast Stealth (Rogue Talent)|fast stealth]], [[rangoric-srd/class-options/slayer-talents/Foil Scrutiny (Slayer Talent)|foil scrutiny]], [[rangoric-srd/class-options/rogue-talents/Rogue Crawl (Rogue Talent)|rogue crawl]], [[rangoric-srd/class-options/rogue-talents/Surprise Attack (Rogue Talent)|surprise attack]], and [[rangoric-srd/class-options/rogue-talents/Terrain Mastery (Rogue Talent)|terrain mastery]].
 

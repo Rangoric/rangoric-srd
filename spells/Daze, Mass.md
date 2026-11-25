@@ -37,15 +37,15 @@ tags: [rangoric, rangoric/spell]
 
 # Daze, Mass
 
-*Enchantment (Compulsion) \[Mind-affecting\]*
+_Enchantment (Compulsion) \[Mind-affecting\]_
 
-  - **Level**: Brd 4, Inq 4, Med 3, Mes 4, Occ 4, Psy 3, Skd 4, Sor/Wiz 4, Sum 4, SumU 4, Wit 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Targets**: One or more humanoid creatures, no two of which may be more than 30 ft. apart
-  - **Duration**: 1 round
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 4, Inq 4, Med 3, Mes 4, Occ 4, Psy 3, Skd 4, Sor/Wiz 4, Sum 4, SumU 4, Wit 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Targets**: One or more humanoid creatures, no two of which may be more than 30 ft. apart
+- **Duration**: 1 round
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
-This spell functions as *[[rangoric-srd/spells/Daze|daze]]*, except as noted above.
+This spell functions as _[[rangoric-srd/spells/Daze|daze]]_, except as noted above.

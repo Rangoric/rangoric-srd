@@ -18,10 +18,10 @@ tags: [rangoric, rangoric/spell]
 
 # Energy Drain
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Clr 9, Sha 9, Sor/Wiz 9
-  - **Saving Throw**: Fortitude partial; see text for enervation
+- **Level**: Clr 9, Sha 9, Sor/Wiz 9
+- **Saving Throw**: Fortitude partial; see text for enervation
 
 This spell functions like [[rangoric-srd/spells/Enervation|enervation]], except that the creature struck gains 2d4 [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|negative levels]], and the negative levels last longer.
 

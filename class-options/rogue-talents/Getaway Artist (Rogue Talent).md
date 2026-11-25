@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Getaway Artist
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex).*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex)._
 
 A character with this talent adds Acrobatics, Animal Handling, and Animal Handling to her list of class skills, and gains a +2 bonus on all driving checks.

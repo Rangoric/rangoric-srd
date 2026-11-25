@@ -16,10 +16,10 @@ tags: [rangoric, rangoric/magic-item]
 
 # Nagley
 
-*Nagley* (the creatures are detailed in *Complete Minions*) armors appear as garishly colorful and utterly ridiculous looking suits that, once donned, always seem to be either just a bit too small or just a tad too large. Rumors abound that these armors are the creations of nagley sorcerers with too much time on their hands. Whatever their origins, these suits of armor allow their wearers to make use of the nagley’s innate distraction attack once per day as well as the tiny fey’s supernatural dummy ability.
+_Nagley_ (the creatures are detailed in _Complete Minions_) armors appear as garishly colorful and utterly ridiculous looking suits that, once donned, always seem to be either just a bit too small or just a tad too large. Rumors abound that these armors are the creations of nagley sorcerers with too much time on their hands. Whatever their origins, these suits of armor allow their wearers to make use of the nagley’s innate distraction attack once per day as well as the tiny fey’s supernatural dummy ability.
 
 The distraction ability must be used on an opponent’s turn. The wearer of the armor must yell something embarrassing to distract his opponent, forcing him to succeed at a Will save (DC 16) or automatically fail his next die roll. This distracting statement must be made in a language the target understands.
 
-The dummy ability allows the wearer to turn *invisible* and create an illusionary duplicate of themselves, complete with sound and voice, up to 20 feet away. This ability can be turned on and off at will, but cannot remain active for more than 10 minutes per day. It otherwise behaves as the spell *[[rangoric-srd/spells/Persistent Image|persistent image]]*.
+The dummy ability allows the wearer to turn _invisible_ and create an illusionary duplicate of themselves, complete with sound and voice, up to 20 feet away. This ability can be turned on and off at will, but cannot remain active for more than 10 minutes per day. It otherwise behaves as the spell _[[rangoric-srd/spells/Persistent Image|persistent image]]_.
 
-Moderate illusion; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Displacement|displacement]]*, *[[rangoric-srd/spells/Persistent Image|persistent image]]*, a drop of nagley blood; Price +3 bonus.
+Moderate illusion; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Displacement|displacement]]_, _[[rangoric-srd/spells/Persistent Image|persistent image]]_, a drop of nagley blood; Price +3 bonus.

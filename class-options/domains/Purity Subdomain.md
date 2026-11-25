@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Purity Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Protection Domain|Protection]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Protection Domain|Protection]] domain._
 
 ## Replacement Power
 
@@ -27,8 +27,8 @@ This power replaces the [[rangoric-srd/class-options/domains/Protection Domain#G
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | one of [[rangoric-srd/spells/Protection from Chaos\|Protection from Chaos]], [[rangoric-srd/spells/Protection from Evil\|Protection from Evil]], [[rangoric-srd/spells/Protection from Good\|Protection from Good]], or [[rangoric-srd/spells/Protection from Law\|Protection from Law]] | +2 to AC and saves, counter mind control, hedge out elementals and outsiders. |
-| 3rd | [[rangoric-srd/spells/Remove Blindness-Deafness\|Remove Blindness-Deafness]] | Cures normal or magical blindness or deafness. |
-| 5th | [[rangoric-srd/spells/Atonement\|Atonement]] (M, F, XP) | Removes burden of misdeeds from subject. |
+| Level | Spell                                                                                                                                                                                                                                                                                    | Brief Description                                                             |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 1st   | one of [[rangoric-srd/spells/Protection from Chaos\|Protection from Chaos]], [[rangoric-srd/spells/Protection from Evil\|Protection from Evil]], [[rangoric-srd/spells/Protection from Good\|Protection from Good]], or [[rangoric-srd/spells/Protection from Law\|Protection from Law]] | +2 to AC and saves, counter mind control, hedge out elementals and outsiders. |
+| 3rd   | [[rangoric-srd/spells/Remove Blindness-Deafness\|Remove Blindness-Deafness]]                                                                                                                                                                                                             | Cures normal or magical blindness or deafness.                                |
+| 5th   | [[rangoric-srd/spells/Atonement\|Atonement]] (M, F, XP)                                                                                                                                                                                                                                  | Removes burden of misdeeds from subject.                                      |

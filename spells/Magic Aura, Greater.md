@@ -31,21 +31,21 @@ tags: [rangoric, rangoric/spell]
 
 # Magic Aura, Greater
 
-*Illusion (Glamer)*
+_Illusion (Glamer)_
 
-  - **Level**: Brd 3, Mes 3, Occ 3, Psy 4, Skd 3, Sor/Wiz 4
-  - **Components**: V, S, F
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature, or one object weighing up to 20 lbs./level
-  - **Duration**: Caster level day(s)
-  - **Saving Throw**: None (see text)
-  - **Spell Resistance**: No
+- **Level**: Brd 3, Mes 3, Occ 3, Psy 4, Skd 3, Sor/Wiz 4
+- **Components**: V, S, F
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature, or one object weighing up to 20 lbs./level
+- **Duration**: Caster level day(s)
+- **Saving Throw**: None (see text)
+- **Spell Resistance**: No
 
-If cast on an object, this spell functions as [[rangoric-srd/spells/Magic Aura|Magic Aura]], except that if you have identified the unique spellcasting signatures of a specific individual with [[rangoric-srd/spells/Detect Magic, Greater|Greater Detect Magic]] or a similar spell, you can make the *[[rangoric-srd/spells/Magic Aura|magic aura]]* appear to have been created by that individual.
+If cast on an object, this spell functions as [[rangoric-srd/spells/Magic Aura|Magic Aura]], except that if you have identified the unique spellcasting signatures of a specific individual with [[rangoric-srd/spells/Detect Magic, Greater|Greater Detect Magic]] or a similar spell, you can make the _[[rangoric-srd/spells/Magic Aura|magic aura]]_ appear to have been created by that individual.
 
-Alternatively, you can simply obscure all identifiers, making it more difficult to determine who cast the spell. In either case, if the object is the subject of a *greater *detect* magic* spell, any Arcana check made to identify the unique spellcasting identifiers of the aura automatically produce the result you chose unless the observer disbelieves the spell with a successful Will save (as with *[[rangoric-srd/spells/Magic Aura|magic aura]]*, however, *detect* spells don't grant a save to disbelieve).
+Alternatively, you can simply obscure all identifiers, making it more difficult to determine who cast the spell. In either case, if the object is the subject of a *greater *detect* magic* spell, any Arcana check made to identify the unique spellcasting identifiers of the aura automatically produce the result you chose unless the observer disbelieves the spell with a successful Will save (as with _[[rangoric-srd/spells/Magic Aura|magic aura]]_, however, _detect_ spells don't grant a save to disbelieve).
 
-If cast on a creature, you can make that creature register to *detect* spells (and spells with similar capabilities) as though it were the subject of any number of spells that you specify, when the spell is cast. Alternatively, you can make the creature register as nonmagical, hiding all spell effects that he is currently affected by from such scrutiny. If you choose to make the creature register as being the subject of one or more spells, you can also alter the unique spellcasting identifiers of those spell auras, in the same fashion as described for objects.
+If cast on a creature, you can make that creature register to _detect_ spells (and spells with similar capabilities) as though it were the subject of any number of spells that you specify, when the spell is cast. Alternatively, you can make the creature register as nonmagical, hiding all spell effects that he is currently affected by from such scrutiny. If you choose to make the creature register as being the subject of one or more spells, you can also alter the unique spellcasting identifiers of those spell auras, in the same fashion as described for objects.
 
 If the target is a creature, you can also alter how the creature registers to [[rangoric-srd/spells/Arcane Sight|Arcane Sight]], making the creature appear to have or not have spellcasting or spell-like abilities, whether those abilities are arcane, divine, or psychic in nature, and the strength of the most powerful spell or spell-like ability they currently have available for use. Similarly, you can alter the way the target appears when viewed with *greater *detect* magic*, causing the last spell that he cast to seem to be any spell of your choice.

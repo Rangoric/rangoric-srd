@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Mountain Domain
 
-*A druid domain, which a [[rangoric-srd/classes/Druid|druid]] can take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]; clerics can’t take it.*
+_A druid domain, which a [[rangoric-srd/classes/Druid|druid]] can take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]; clerics can’t take it._
 
 ## Granted Powers
 
@@ -26,14 +26,14 @@ You have mastered the mighty powers of the great mountains that pierce the sky a
 
 ## Domain Spells
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Stone Fist\|Stone Fist]] (M) | Your unarmed strikes are lethal. |
-| 2nd | [[rangoric-srd/spells/Stone Call\|Stone Call]] | 2d6 damage to all creatures in area. |
-| 3rd | [[rangoric-srd/spells/Cloak of Winds\|Cloak of Winds]] | Creates a screen of wind around you. |
-| 4th | [[rangoric-srd/spells/Stoneskin\|Stoneskin]] (M) | Ignore 10 points of damage per attack. |
-| 5th | [[rangoric-srd/spells/Geyser\|Geyser]] (M) | Creates a geyser of boiling water. |
-| 6th | [[rangoric-srd/spells/Suffocation\|Suffocation]] (M) | Target quickly suffocates to death. |
-| 7th | [[rangoric-srd/spells/Flesh to Stone\|Flesh to Stone]] (M) | Turns subject creature into statue. |
-| 8th | [[rangoric-srd/spells/Reverse Gravity\|Reverse Gravity]] | Objects and creatures fall upward. |
-| 9th | [[rangoric-srd/spells/Clashing Rocks\|Clashing Rocks]] | 20d6 damage to target creature. |
+| Level | Spell                                                      | Brief Description                      |
+| ----- | ---------------------------------------------------------- | -------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Stone Fist\|Stone Fist]] (M)         | Your unarmed strikes are lethal.       |
+| 2nd   | [[rangoric-srd/spells/Stone Call\|Stone Call]]             | 2d6 damage to all creatures in area.   |
+| 3rd   | [[rangoric-srd/spells/Cloak of Winds\|Cloak of Winds]]     | Creates a screen of wind around you.   |
+| 4th   | [[rangoric-srd/spells/Stoneskin\|Stoneskin]] (M)           | Ignore 10 points of damage per attack. |
+| 5th   | [[rangoric-srd/spells/Geyser\|Geyser]] (M)                 | Creates a geyser of boiling water.     |
+| 6th   | [[rangoric-srd/spells/Suffocation\|Suffocation]] (M)       | Target quickly suffocates to death.    |
+| 7th   | [[rangoric-srd/spells/Flesh to Stone\|Flesh to Stone]] (M) | Turns subject creature into statue.    |
+| 8th   | [[rangoric-srd/spells/Reverse Gravity\|Reverse Gravity]]   | Objects and creatures fall upward.     |
+| 9th   | [[rangoric-srd/spells/Clashing Rocks\|Clashing Rocks]]     | 20d6 damage to target creature.        |

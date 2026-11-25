@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Teamwork
 
-*A [[rangoric-srd/prestige-classes/Battle Herald#^battle-herald-inspiring-command|battle herald inspiring command]] (Ex).*
+_A [[rangoric-srd/prestige-classes/Battle Herald#^battle-herald-inspiring-command|battle herald inspiring command]] (Ex)._
 
 Allies add the battle herald's inspiring command bonus on skill checks or attack rolls made when using the [[rangoric-srd/combat/Combat Special Attacks#Aid Another|aid another]] action, and if successful, the assisted ally increases the aid another bonus by an amount equal to the battle herald's inspiring command bonus.

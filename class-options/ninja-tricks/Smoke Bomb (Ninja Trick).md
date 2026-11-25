@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Smoke Bomb
 
-*A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Ex).*
+_A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Ex)._
 
 This ability allows a ninja to throw a smoke bomb that creates a cloud of smoke with a 15-foot radius. This acts like the smoke from a [[rangoric-srd/equipment/gear/Smokestick|smokestick]]. The ninja can center this smoke on herself, or throw the bomb as a ranged touch attack with a range of 20 feet. Using this ability is a standard action. Each use of this ability uses up 1 ki point.

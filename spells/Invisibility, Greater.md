@@ -35,12 +35,12 @@ tags: [rangoric, rangoric/spell]
 
 # Invisibility, Greater
 
-*Illusion (Glamer)*
+_Illusion (Glamer)_
 
-  - **Level**: Alc 4, Apl 4, Brd 4, Illusion 4, Inq 4, Mag 4, Med 3, Mes 4, Occ 4, Psy 4, Skd 4, Sor/Wiz 4, Spi 4, Sum 3, SumU 4
-  - **Components**: V, S
-  - **Target**: You or creature touched
-  - **Duration**: 1 round/level (D)
-  - **Saving Throw**: Will negates (harmless)
+- **Level**: Alc 4, Apl 4, Brd 4, Illusion 4, Inq 4, Mag 4, Med 3, Mes 4, Occ 4, Psy 4, Skd 4, Sor/Wiz 4, Spi 4, Sum 3, SumU 4
+- **Components**: V, S
+- **Target**: You or creature touched
+- **Duration**: 1 round/level (D)
+- **Saving Throw**: Will negates (harmless)
 
 This spell functions like [[rangoric-srd/spells/Invisibility|invisibility]], except that it doesn’t end if the subject attacks.

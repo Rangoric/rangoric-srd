@@ -21,10 +21,10 @@ tags: [rangoric, rangoric/spell]
 
 # Deeper Darkness
 
-*Evocation \[Darkness\]*
+_Evocation \[Darkness\]_
 
-  - **Level**: Apl 3, Clr 3, Inq 3, Occ 3, Sha 3
-  - **Duration**: One day/level (D)
+- **Level**: Apl 3, Clr 3, Inq 3, Occ 3, Sha 3
+- **Duration**: One day/level (D)
 
 This spell functions like [[rangoric-srd/spells/Darkness|darkness]], except that the object radiates shadowy illumination in a 60-foot radius and the darkness lasts longer.
 

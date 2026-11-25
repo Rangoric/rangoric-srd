@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Simulacrum, Lesser
 
-*Illusion (Shadow)*
+_Illusion (Shadow)_
 
-  - **Level**: Psy 4, Sor/Wiz 4
-  - **Components**: V, S, M (an ice sculpture of the target plus powdered rubies worth 50 gp per HD of the simulacrum)
-  - **Casting Time**: 1 hour
-  - **Range**: 0 ft.
-  - **Effect**: One duplicate creature
-  - **Duration**: 1 hour/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Psy 4, Sor/Wiz 4
+- **Components**: V, S, M (an ice sculpture of the target plus powdered rubies worth 50 gp per HD of the simulacrum)
+- **Casting Time**: 1 hour
+- **Range**: 0 ft.
+- **Effect**: One duplicate creature
+- **Duration**: 1 hour/level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-This spell functions as *[[rangoric-srd/spells/Simulacrum|simulacrum]]*, except you can't create a simulacrum of a creature whose HD or levels exceed your caster level, and it has no magical abilities. The creature is not under your control, though it recognizes you are its creator.
+This spell functions as _[[rangoric-srd/spells/Simulacrum|simulacrum]]_, except you can't create a simulacrum of a creature whose HD or levels exceed your caster level, and it has no magical abilities. The creature is not under your control, though it recognizes you are its creator.

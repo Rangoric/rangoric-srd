@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Heir Apparent
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 4d8+4 (22 hp)
-  - **Initiative**: +1
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 17 (+6 armor, +1 Dex), touch 11, flat-footed 16
-  - **Base Attack**: +3; **CMB**: +3; **CMD**: 14
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +4 melee (1d8/19–20) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +4 ranged (1d4/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +4 melee (1d8/19–20); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +4 ranged (1d4/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: —
-  - **Saves**: Fort +1, Ref +2, Will +3
-  - **Abilities**: Str 10, Dex 12, Con 10, Int 11, Wis 8, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Engineering|Engineering]] +4, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Linguistics|Linguistics]] +4, [[rangoric-srd/skills/Perception|Perception]] +3, Perform (dance) +5, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Society|Society]] +7, [[rangoric-srd/skills/Theology|Theology]] +4
-  - **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion), [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 2
-  - **Treasure**: NPC gear (combat gear: oil of bless weapon, potion of cure moderate wounds, potion of spider climb; other gear: masterwork breastplate, dagger, masterwork longsword, noble's outfit, signet ring, 253 gp)
-  - **Alignment**: Lawful good
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 4d8+4 (22 hp)
+- **Initiative**: +1
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 17 (+6 armor, +1 Dex), touch 11, flat-footed 16
+- **Base Attack**: +3; **CMB**: +3; **CMD**: 14
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +4 melee (1d8/19–20) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +4 ranged (1d4/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +4 melee (1d8/19–20); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +4 ranged (1d4/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: —
+- **Saves**: Fort +1, Ref +2, Will +3
+- **Abilities**: Str 10, Dex 12, Con 10, Int 11, Wis 8, Cha 13
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Engineering|Engineering]] +4, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Linguistics|Linguistics]] +4, [[rangoric-srd/skills/Perception|Perception]] +3, Perform (dance) +5, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Society|Society]] +7, [[rangoric-srd/skills/Theology|Theology]] +4
+- **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion), [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 2
+- **Treasure**: NPC gear (combat gear: oil of bless weapon, potion of cure moderate wounds, potion of spider climb; other gear: masterwork breastplate, dagger, masterwork longsword, noble's outfit, signet ring, 253 gp)
+- **Alignment**: Lawful good
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A heir apparent is a [[rangoric-srd/monsters/human/Human|human]] with 4 levels of [[rangoric-srd/classes/Aristocrat|aristocrat]]. The heir apparent has been groomed to rule since birth, yet aspires to an even greater destiny. She welcomes the obligations of a ruling queen, and hopes to accomplish deeds of great heroism, justice, and mercy during her time on the throne. She is normally accompanied by guards (warriors 3) or officers (aristocrats 6).
 

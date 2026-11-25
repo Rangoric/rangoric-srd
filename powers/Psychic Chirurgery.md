@@ -33,7 +33,7 @@ Telepathy \[Mind-Affecting\]
 **Duration:** Instantaneous  
 **Saving Throw:** Will negates  
 **Power Resistance:** Yes  
-**Power Points:** 17, XP; see text  
+**Power Points:** 17, XP; see text
 
 You can repair psychic damage or grant another creature knowledge of powers you know, depending on the version of this power you manifest.
 

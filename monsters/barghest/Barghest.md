@@ -37,34 +37,35 @@ change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---
+
 # Barghest
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Evil, Extraplanar, Lawful, Shapechanger)
-  - **Hit Dice**: 6d10+12 (45 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 17 (+2 Dex, +5 natural), touch 12, flat-footed 15
-  - **Base Attack**: +6; **CMB**: +10; **CMD**: 22 (24 vs. trip)
-  - **Attack**: Bite +10 melee (1d6+4) or claw +10 melee (1d4+4)
-  - **Full Attack**: Bite +10 melee (1d6+4) and 2 claws +10 melee (1d4+4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Feed, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (goblin or wolf, polymorph), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic
-  - **Saves**: Fort +6, Ref +7, Will +7
-  - **Abilities**: Str 19, Dex 15, Con 15, Int 14, Wis 14, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +11
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]]
-  - **Environment**: Any
-  - **Organization**: Solitary, cult (1 plus goblin tribe), or pack (3–6)
-  - **Challenge Rating**: 4
-  - **Treasure**: Standard
-  - **Alignment**: Always lawful evil
-  - **Advancement**: Special (see below)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Evil, Extraplanar, Lawful, Shapechanger)
+- **Hit Dice**: 6d10+12 (45 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 17 (+2 Dex, +5 natural), touch 12, flat-footed 15
+- **Base Attack**: +6; **CMB**: +10; **CMD**: 22 (24 vs. trip)
+- **Attack**: Bite +10 melee (1d6+4) or claw +10 melee (1d4+4)
+- **Full Attack**: Bite +10 melee (1d6+4) and 2 claws +10 melee (1d4+4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Feed, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (goblin or wolf, polymorph), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic
+- **Saves**: Fort +6, Ref +7, Will +7
+- **Abilities**: Str 19, Dex 15, Con 15, Int 14, Wis 14, Cha 14
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +11
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]]
+- **Environment**: Any
+- **Organization**: Solitary, cult (1 plus goblin tribe), or pack (3–6)
+- **Challenge Rating**: 4
+- **Treasure**: Standard
+- **Alignment**: Always lawful evil
+- **Advancement**: Special (see below)
+- **Level Adjustment**: —
 
 **Also in this entry:**
 
-  - [[rangoric-srd/monsters/barghest/Greater Barghest|Greater Barghest]]
+- [[rangoric-srd/monsters/barghest/Greater Barghest|Greater Barghest]]
 
 Said to be fiendish relations of all goblinoid races, the hateful barghests come to the Material Plane to feed. As they consume the bodies of innocents, they grow increasingly powerful. A barghest eventually sheds its skin to transform into a greater barghest, at which point it often seeks out a tribe of goblins or other creatures to rule.
 
@@ -78,7 +79,7 @@ Barghests can claw and bite, no matter what their form, and usually disdain weap
 
 Its natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th): At will—*[[rangoric-srd/spells/Blink|blink]]*, *[[rangoric-srd/spells/Levitate|levitate]]*, *[[rangoric-srd/spells/Misdirection|misdirection]]*; 1/day—*[[rangoric-srd/spells/Charm Monster|charm monster]]* (DC 16), *[[rangoric-srd/spells/Crushing Despair|crushing despair]]* (DC 16), *[[rangoric-srd/spells/Dimension Door|dimension door]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th): At will—_[[rangoric-srd/spells/Blink|blink]]_, _[[rangoric-srd/spells/Levitate|levitate]]_, _[[rangoric-srd/spells/Misdirection|misdirection]]_; 1/day—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 16), _[[rangoric-srd/spells/Crushing Despair|crushing despair]]_ (DC 16), _[[rangoric-srd/spells/Dimension Door|dimension door]]_.
 
 **Feed (Su)**: Once per month, a barghest can devour a nonevil humanoid's corpse as a full-round action to gain a growth point. It gains a bonus equal to its growth point total on attack rolls, CMB rolls, saving throws, and skill checks. Its maximum hit points increase by 5 for each growth point it gains. For every 2 growth points, a barghest's caster level for its spell-like abilities and its CR increase by +1. When a barghest reaches 4 growth points, it sheds its skin and becomes a greater barghest, losing all of its growth points (and bonuses) but gaining the stats presented on this page for a greater barghest.
 

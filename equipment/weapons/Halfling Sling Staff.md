@@ -26,7 +26,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/thrown]
 
 # Halfling Sling Staff
 
-*Exotic ranged weapon.* Cost 20 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Range Increment 80 ft.; Weight 3 lb.; Type Bludgeoning. ^stats
+_Exotic ranged weapon._ Cost 20 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Range Increment 80 ft.; Weight 3 lb.; Type Bludgeoning. ^stats
 
 Made from a specially designed sling attached to a short [[rangoric-srd/equipment/weapons/Club|club]], a halfling sling staff can be used by a proficient wielder to devastating effect. Your Strength modifier applies to damage rolls when you use a halfling sling staff, just as it does for thrown weapons. You can fire, but not load, a halfling sling staff with one hand. Loading a halfling sling staff is a move action that requires two hands and provokes attacks of opportunity.
 

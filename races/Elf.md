@@ -55,17 +55,17 @@ Paragon Class: [[rangoric-srd/classes/Elf Paragon|Elf Paragon]]
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 110 years | +4d6 | +6d6 | +10d6 |
+| --------- | --------- | ----------- | ------- |
+| 110 years | +4d6      | +6d6        | +10d6   |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 175 years | 263 years | 350 years | +4d% years |
+| Middle Age | Old       | Venerable | Maximum Age |
+| ---------- | --------- | --------- | ----------- |
+| 175 years  | 263 years | 350 years | +4d% years  |
 
 | Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Male | 5 ft. 4 in. | +2d8 | 100 lb. | × (1d6) lb. |
-| Female | 5 ft. 4 in. | +2d6 | 90 lb. | × (1d6) lb. |
+| ------ | ----------- | --------------- | ----------- | --------------- |
+| Male   | 5 ft. 4 in. | +2d8            | 100 lb.     | × (1d6) lb.     |
+| Female | 5 ft. 4 in. | +2d6            | 90 lb.      | × (1d6) lb.     |
 
 ### Description
 
@@ -119,21 +119,21 @@ Elves generally eschew melee because of their relative frailty, preferring inste
 
 An elf can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]). The picture of elves as wardens of the forest is accurate but incomplete: elves adapt readily to many environments, from the harshest desert to the deepest sea, and some tap into magic outside what their kindred usually embrace. Such elves may have other racial traits.
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Arcane Focus\|Arcane Focus]] | Weapon familiarity |
-| [[rangoric-srd/races/racial-traits/Darkvision (Racial Trait)\|Darkvision]] | Low-light vision |
-| [[rangoric-srd/races/racial-traits/Desert Runner\|Desert Runner]] | Elven magic |
-| [[rangoric-srd/races/racial-traits/Dreamspeaker\|Dreamspeaker]] | Elven immunities |
-| [[rangoric-srd/races/racial-traits/Elemental Resistance\|Elemental Resistance]] | Elven immunities |
-| [[rangoric-srd/races/racial-traits/Envoy\|Envoy]] | Elven magic |
-| [[rangoric-srd/races/racial-traits/Eternal Grudge\|Eternal Grudge]] | Elven magic |
-| [[rangoric-srd/races/racial-traits/Fleet-Footed\|Fleet-Footed]] | Keen senses and weapon familiarity |
-| [[rangoric-srd/races/racial-traits/Lightbringer\|Lightbringer]] | Elven immunities and elven magic |
-| [[rangoric-srd/races/racial-traits/Silent Hunter\|Silent Hunter]] | Elven magic |
+| Trait                                                                           | Replaces                           |
+| ------------------------------------------------------------------------------- | ---------------------------------- |
+| [[rangoric-srd/races/racial-traits/Arcane Focus\|Arcane Focus]]                 | Weapon familiarity                 |
+| [[rangoric-srd/races/racial-traits/Darkvision (Racial Trait)\|Darkvision]]      | Low-light vision                   |
+| [[rangoric-srd/races/racial-traits/Desert Runner\|Desert Runner]]               | Elven magic                        |
+| [[rangoric-srd/races/racial-traits/Dreamspeaker\|Dreamspeaker]]                 | Elven immunities                   |
+| [[rangoric-srd/races/racial-traits/Elemental Resistance\|Elemental Resistance]] | Elven immunities                   |
+| [[rangoric-srd/races/racial-traits/Envoy\|Envoy]]                               | Elven magic                        |
+| [[rangoric-srd/races/racial-traits/Eternal Grudge\|Eternal Grudge]]             | Elven magic                        |
+| [[rangoric-srd/races/racial-traits/Fleet-Footed\|Fleet-Footed]]                 | Keen senses and weapon familiarity |
+| [[rangoric-srd/races/racial-traits/Lightbringer\|Lightbringer]]                 | Elven immunities and elven magic   |
+| [[rangoric-srd/races/racial-traits/Silent Hunter\|Silent Hunter]]               | Elven magic                        |
 | [[rangoric-srd/races/racial-traits/Spirit of the Waters\|Spirit of the Waters]] | Elven magic and weapon familiarity |
-| [[rangoric-srd/races/racial-traits/Urbanite\|Urbanite]] | Keen senses |
-| [[rangoric-srd/races/racial-traits/Woodcraft\|Woodcraft]] | Elven magic |
+| [[rangoric-srd/races/racial-traits/Urbanite\|Urbanite]]                         | Keen senses                        |
+| [[rangoric-srd/races/racial-traits/Woodcraft\|Woodcraft]]                       | Elven magic                        |
 
 ### Race Traits
 
@@ -172,9 +172,9 @@ An elf gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] 
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
-| [[rangoric-srd/class-options/archetypes/wizard/Spellbinder (Archetype)\|Spellbinder]] | [[rangoric-srd/classes/Wizard\|Wizard]] |
-| [[rangoric-srd/class-options/archetypes/magus/Spell Dancer (Archetype)\|Spell Dancer]] | [[rangoric-srd/classes/Magus\|Magus]] |
+| Archetype                                                                                           | Class                                   |
+| --------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| [[rangoric-srd/class-options/archetypes/wizard/Spellbinder (Archetype)\|Spellbinder]]               | [[rangoric-srd/classes/Wizard\|Wizard]] |
+| [[rangoric-srd/class-options/archetypes/magus/Spell Dancer (Archetype)\|Spell Dancer]]              | [[rangoric-srd/classes/Magus\|Magus]]   |
 | [[rangoric-srd/class-options/archetypes/oracle/Ancient Lorekeeper (Archetype)\|Ancient Lorekeeper]] | [[rangoric-srd/classes/Oracle\|Oracle]] |
-| [[rangoric-srd/class-options/archetypes/druid/Treesinger (Archetype)\|Treesinger]] | [[rangoric-srd/classes/Druid\|Druid]] |
+| [[rangoric-srd/class-options/archetypes/druid/Treesinger (Archetype)\|Treesinger]]                  | [[rangoric-srd/classes/Druid\|Druid]]   |

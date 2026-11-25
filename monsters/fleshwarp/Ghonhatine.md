@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Ghonhatine
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 12d8+108 (162 hp)
-  - **Initiative**: –2
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 24 (–2 Dex, +17 natural, –1 size), touch 7, flat-footed 24
-  - **Base Attack**: +9; **CMB**: +18 (+20 bull rush); **CMD**: 26 (28 vs. bull rush)
-  - **Attack**: Claw +16 melee (1d6+8) or bite +16 melee (2d6+8) or tail slap +19 melee (1d8+4) or regurgitate +6 ranged (2d6 acid plus [[rangoric-srd/rules/afflictions/Filth Fever|filth fever]])
-  - **Full Attack**: 2 claws +16 melee (1d6+8) and bite +16 melee (2d6+8) and tail slap +14 melee (1d8+4); or regurgitate +6 ranged (2d6 acid plus [[rangoric-srd/rules/afflictions/Filth Fever|filth fever]])
-  - **Space/Reach**: 10 ft./10 ft. (15 ft. with tail)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Feed|Feed]], [[rangoric-srd/rules/afflictions/Filth Fever|filth fever]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Powerful Stench|powerful stench]] (10 ft., DC 24, 1d4 rounds), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, critical hits, disease and poison
-  - **Saves**: Fort +13, Ref +2, Will +6
-  - **Abilities**: Str 27, Dex 7, Con 28, Int 4, Wis 7, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +0 (+4 when underground)
-  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
-  - **Environment**: Any underground
-  - **Organization**: Solitary or squad (2–8)
-  - **Challenge Rating**: 10
-  - **Treasure**: None
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 12d8+108 (162 hp)
+- **Initiative**: –2
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 24 (–2 Dex, +17 natural, –1 size), touch 7, flat-footed 24
+- **Base Attack**: +9; **CMB**: +18 (+20 bull rush); **CMD**: 26 (28 vs. bull rush)
+- **Attack**: Claw +16 melee (1d6+8) or bite +16 melee (2d6+8) or tail slap +19 melee (1d8+4) or regurgitate +6 ranged (2d6 acid plus [[rangoric-srd/rules/afflictions/Filth Fever|filth fever]])
+- **Full Attack**: 2 claws +16 melee (1d6+8) and bite +16 melee (2d6+8) and tail slap +14 melee (1d8+4); or regurgitate +6 ranged (2d6 acid plus [[rangoric-srd/rules/afflictions/Filth Fever|filth fever]])
+- **Space/Reach**: 10 ft./10 ft. (15 ft. with tail)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Feed|Feed]], [[rangoric-srd/rules/afflictions/Filth Fever|filth fever]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Powerful Stench|powerful stench]] (10 ft., DC 24, 1d4 rounds), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, critical hits, disease and poison
+- **Saves**: Fort +13, Ref +2, Will +6
+- **Abilities**: Str 27, Dex 7, Con 28, Int 4, Wis 7, Cha 8
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +0 (+4 when underground)
+- **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
+- **Environment**: Any underground
+- **Organization**: Solitary or squad (2–8)
+- **Challenge Rating**: 10
+- **Treasure**: None
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Troglodytes forced to undergo fleshwarping by the drow, ghonhatines harken to what troglodytes might have been in savage prehistory. They stand over 10 feet tall (hunched to about 8 feet) and weigh upward of 5,000 pounds.
 

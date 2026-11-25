@@ -23,11 +23,11 @@ tags: [rangoric, rangoric/magic-item]
 
 A clear crystal orb is affixed to the top of this length of brass and scaled skin, and a smaller, crimson orb is set into a spherical ornament near the base of the shaft. The staff allows use of the following spells:
 
-- *[[rangoric-srd/spells/Arcane Eye|arcane eye]]* (1 charge)
-- *[[rangoric-srd/spells/Arcane Sight|arcane sight]]* (1 charge)
-- *[[rangoric-srd/spells/See Invisibility|see invisibility]]* (1 charge)
-- *[[rangoric-srd/spells/Prying Eyes|prying eyes]]* (2 charges)
-- *[[rangoric-srd/spells/Scrying|scrying]]* (2 charges)
-- *[[rangoric-srd/spells/True Seeing|true seeing]]* (3 charges)
+- _[[rangoric-srd/spells/Arcane Eye|arcane eye]]_ (1 charge)
+- _[[rangoric-srd/spells/Arcane Sight|arcane sight]]_ (1 charge)
+- _[[rangoric-srd/spells/See Invisibility|see invisibility]]_ (1 charge)
+- _[[rangoric-srd/spells/Prying Eyes|prying eyes]]_ (2 charges)
+- _[[rangoric-srd/spells/Scrying|scrying]]_ (2 charges)
+- _[[rangoric-srd/spells/True Seeing|true seeing]]_ (3 charges)
 
-Moderate divination; CL 11th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Arcane Eye|arcane eye]]*, *[[rangoric-srd/spells/Arcane Sight|arcane sight]]*, *[[rangoric-srd/spells/Prying Eyes|prying eyes]]*, *[[rangoric-srd/spells/See Invisibility|see invisibility]]*, *[[rangoric-srd/spells/Scrying|scrying]]*, *[[rangoric-srd/spells/True Seeing|true seeing]]*; Price 86,666 gp; Cost 43,333 gp; Weight 5 lbs.
+Moderate divination; CL 11th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Arcane Eye|arcane eye]]_, _[[rangoric-srd/spells/Arcane Sight|arcane sight]]_, _[[rangoric-srd/spells/Prying Eyes|prying eyes]]_, _[[rangoric-srd/spells/See Invisibility|see invisibility]]_, _[[rangoric-srd/spells/Scrying|scrying]]_, _[[rangoric-srd/spells/True Seeing|true seeing]]_; Price 86,666 gp; Cost 43,333 gp; Weight 5 lbs.

@@ -29,17 +29,17 @@ tags: [rangoric, rangoric/spell]
 
 # Hallucinatory Terrain
 
-*Illusion (Glamer)*
+_Illusion (Glamer)_
 
-  - **Level**: Brd 4, Mes 4, Psy 4, Skd 4, Sor/Wiz 4
-  - **Components**: V, S, M
-  - **Casting Time**: 10 minutes
-  - **Range**: Long (400 ft. + 40 ft./level)
-  - **Area**: One 30-ft. cube/level (S)
-  - **Duration**: 2 hours/level (D)
-  - **Saving Throw**: Will disbelief (if interacted with)
-  - **Spell Resistance**: No
+- **Level**: Brd 4, Mes 4, Psy 4, Skd 4, Sor/Wiz 4
+- **Components**: V, S, M
+- **Casting Time**: 10 minutes
+- **Range**: Long (400 ft. + 40 ft./level)
+- **Area**: One 30-ft. cube/level (S)
+- **Duration**: 2 hours/level (D)
+- **Saving Throw**: Will disbelief (if interacted with)
+- **Spell Resistance**: No
 
 You make natural terrain look, sound, and smell like some other sort of natural terrain. Structures, equipment, and creatures within the area are not hidden or changed in appearance.
 
-*Material Component*: A stone, a twig, and a bit of green plant.
+_Material Component_: A stone, a twig, and a bit of green plant.

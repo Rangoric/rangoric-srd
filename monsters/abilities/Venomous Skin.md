@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Venomous Skin
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “venomous skin”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “venomous skin”, on the Special Qualities line.
 
 The creature's skin secretes a noxious, waxy substance. This venomous sheen poisons any creature that touches it, either by making a successful attack with an unarmed strike or natural weapon or with a touch attack. A creature that grapples it is also exposed to the creature's venomous skin. The poison is given in its entry. The [[rangoric-srd/monsters/Death Worm|death worm]] has it.

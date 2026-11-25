@@ -21,13 +21,13 @@ tags: [rangoric, rangoric/magic-item]
 
 # Scabbard of Vigor
 
-Once per day, as part of the action of drawing forth the weapon held by a *scabbard of vigor*, the wearer can order it to endow the weapon with an enhancement bonus on attack and damage rolls. The duration of the effect depends on the desired enhancement bonus for the weapon.
+Once per day, as part of the action of drawing forth the weapon held by a _scabbard of vigor_, the wearer can order it to endow the weapon with an enhancement bonus on attack and damage rolls. The duration of the effect depends on the desired enhancement bonus for the weapon.
 
-| Bonus | Duration |
-| --- | --- |
-| +4 | 1 round |
-| +3 | 3 rounds |
-| +2 | 5 rounds |
-| +1 | 10 rounds |
+| Bonus | Duration  |
+| ----- | --------- |
+| +4    | 1 round   |
+| +3    | 3 rounds  |
+| +2    | 5 rounds  |
+| +1    | 10 rounds |
 
-Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Magic Weapon, Greater|greater magic weapon]]*; Price 1,800 gp; Cost 900 gp; Weight 3 lbs.
+Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Magic Weapon, Greater|greater magic weapon]]_; Price 1,800 gp; Cost 900 gp; Weight 3 lbs.

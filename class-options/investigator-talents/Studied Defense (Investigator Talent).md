@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Studied Defense
 
-*An [[rangoric-srd/classes/Investigator#^investigator-investigator-talent|investigator talent]] (Ex).*
+_An [[rangoric-srd/classes/Investigator#^investigator-investigator-talent|investigator talent]] (Ex)._
 
 When an investigator with this talent uses his [[rangoric-srd/classes/Investigator#^investigator-studied-combat|studied combat]] ability, he can chose to apply that ability’s insight bonus to his AC against attacks made by the target of his studied combat instead of to attack rolls against the target of his studied combat. (The insight bonus on damage rolls remains.) He must choose which type of bonus he gains when using studied combat, and it cannot be changed until he uses studied combat again. An investigator must be at least 9th level to select this talent.

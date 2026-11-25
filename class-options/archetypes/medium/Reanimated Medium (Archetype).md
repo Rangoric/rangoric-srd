@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Reanimated Medium
 
-*A [[rangoric-srd/classes/Medium (Class)#^medium-archetypes|medium]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Medium (Class)#^medium-archetypes|medium]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A reanimated medium is the departed soul of a would-be legend, possessing his own revived body.
 
@@ -31,9 +31,9 @@ A character who selects the reanimated medium archetype after 1st level can do s
 
 **Nothing Is Taboo (Ex)**: A reanimated medium doesn't gain the [[rangoric-srd/classes/Medium (Class)#^medium-taboo|taboo]] class feature.
 
-**Ease Passage (Su)**: At 3rd level, as long as a reanimated medium's body is intact, it's easy for him to return to it. He takes only 1 negative level instead of 2 from *[[rangoric-srd/spells/Raise Dead|raise dead]]*. This ability replaces [[rangoric-srd/classes/Medium (Class)#^medium-haunt-channeler|haunt channeler]].
+**Ease Passage (Su)**: At 3rd level, as long as a reanimated medium's body is intact, it's easy for him to return to it. He takes only 1 negative level instead of 2 from _[[rangoric-srd/spells/Raise Dead|raise dead]]_. This ability replaces [[rangoric-srd/classes/Medium (Class)#^medium-haunt-channeler|haunt channeler]].
 
-**Lingering Spirit (Su)**: At 5th level, a reanimated medium's spirit lingers for up to 1 round after death before departing if the medium spends 1 point of influence. If the reanimated medium died of hit point damage, healing works on his body during the intervening round and can bring him back to life. Once the spirit departs, the *[[rangoric-srd/spells/Breath of Life|breath of life]]* spell continues to work for 1 additional round, even though the reanimated medium has been dead for more than 1 round. This ability replaces [[rangoric-srd/classes/Medium (Class)#^medium-location-channel|location channel]].
+**Lingering Spirit (Su)**: At 5th level, a reanimated medium's spirit lingers for up to 1 round after death before departing if the medium spends 1 point of influence. If the reanimated medium died of hit point damage, healing works on his body during the intervening round and can bring him back to life. Once the spirit departs, the _[[rangoric-srd/spells/Breath of Life|breath of life]]_ spell continues to work for 1 additional round, even though the reanimated medium has been dead for more than 1 round. This ability replaces [[rangoric-srd/classes/Medium (Class)#^medium-location-channel|location channel]].
 
 **Spirit Warding (Su)**: At 7th level, the reanimated medium can ward himself from other spirits and the grave's call. He gains a +4 bonus on saving throws against [[rangoric-srd/rules/Possession (Rules)|possession]], death effects, and negative energy. This stacks with the bonus to resist possession that mediums gain from having high influence. At 18th level, he becomes immune to possession, death effects, and negative energy. This ability replaces [[rangoric-srd/classes/Medium (Class)#^medium-connection-channel|connection channel]] and [[rangoric-srd/classes/Medium (Class)#^medium-spacious-soul|spacious soul]].
 

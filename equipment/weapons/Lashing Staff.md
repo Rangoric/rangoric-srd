@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/hammers]
 
 # Lashing Staff
 
-*Simple two-handed melee weapon.* Cost 3 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Weight 5 lb.; Type Bludgeoning. ^stats
+_Simple two-handed melee weapon._ Cost 3 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Weight 5 lb.; Type Bludgeoning. ^stats
 
-(*Chang Xiao Bang*): A staff with a single nunchaku-like flail head, the lashing staff resembles an agricultural flail.
+(_Chang Xiao Bang_): A staff with a single nunchaku-like flail head, the lashing staff resembles an agricultural flail.

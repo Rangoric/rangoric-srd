@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Shoes of the Firewalker
 
-These low-cut shoes of polished red leather feature golden eyelets and stitching in a fiery pattern. They grant the wearer [[rangoric-srd/rules/Special Abilities and Conditions#Resistance to Energy|fire resistance]] 10 and allow the wearer to walk atop lava and magma as if subject to the *[[rangoric-srd/spells/Water Walk|water walk]]* spell.
+These low-cut shoes of polished red leather feature golden eyelets and stitching in a fiery pattern. They grant the wearer [[rangoric-srd/rules/Special Abilities and Conditions#Resistance to Energy|fire resistance]] 10 and allow the wearer to walk atop lava and magma as if subject to the _[[rangoric-srd/spells/Water Walk|water walk]]_ spell.
 
-Moderate evocation; CL 6th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Resist Energy|resist energy]]*, *[[rangoric-srd/spells/Water Walk|water walk]]*; Price 21,000 gp; Cost 10,500 gp; Weight 1 lb.
+Moderate evocation; CL 6th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Resist Energy|resist energy]]_, _[[rangoric-srd/spells/Water Walk|water walk]]_; Price 21,000 gp; Cost 10,500 gp; Weight 1 lb.

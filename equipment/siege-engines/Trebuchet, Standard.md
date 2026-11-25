@@ -29,7 +29,7 @@ tags: [rangoric, rangoric/siege-engine]
 
 # Trebuchet, Standard
 
-*Huge [[rangoric-srd/rules/Siege Engines#Indirect-Fire Ranged Siege Engines|indirect-fire siege engine]].* Price 1,000 gp; Dmg 6d6; Critical ×2; Range 300 ft. (150 ft. min.); Type Bludgeoning; Crew 4; Aim 2; Load 3; Speed 0 ft.; Targeting DC 20; Hardness 5; Hit Points 100; Ammunition 30 gp, 110 lb. per use. ^stats
+_Huge [[rangoric-srd/rules/Siege Engines#Indirect-Fire Ranged Siege Engines|indirect-fire siege engine]]._ Price 1,000 gp; Dmg 6d6; Critical ×2; Range 300 ft. (150 ft. min.); Type Bludgeoning; Crew 4; Aim 2; Load 3; Speed 0 ft.; Targeting DC 20; Hardness 5; Hit Points 100; Ammunition 30 gp, 110 lb. per use. ^stats
 
 Trebuchets are similar in form to catapults, with the payload placed into a basket, cup, or sling at the end of a long lever, and a counterweight (often with crew or animals pulling attached ropes) close to the fulcrum. The leverage imparted by a trebuchet allows it to hurl massive missiles that scatter to a number of squares around the target square based on the size of the trebuchet. Trebuchets are too bulky to move on wheels or vehicles and must be assembled on the battlefield. Trebuchets have a minimum range of 150 feet.
 

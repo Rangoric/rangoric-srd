@@ -31,18 +31,18 @@ tags: [rangoric, rangoric/spell]
 
 # Chain of Perdition
 
-*Evocation \[Force\]*
+_Evocation \[Force\]_
 
-  - **Level**: Blr 3, Clr 3, Psy 3, Sor/Wiz 3
-  - **Components**: V, S, M/DF (chain link)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: 10-ft. chain
-  - **Duration**: 1 round/level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Blr 3, Clr 3, Psy 3, Sor/Wiz 3
+- **Components**: V, S, M/DF (chain link)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: 10-ft. chain
+- **Duration**: 1 round/level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
-A floating chain of force with hooks at each end appears within an unoccupied space of your choosing within range. This chain is a Medium object that has a 10-foot reach. Physical attacks cannot hit or harm the *chain of perdition*, but *[[rangoric-srd/spells/Dispel Magic|dispel magic]]*,*[[rangoric-srd/spells/Disintegrate|disintegrate]]*, a *[[rangoric-srd/magic-items/artifacts/Sphere of Annihilation|sphere of annihilation]]*, or a *[[rangoric-srd/magic-items/rods/Rod of Cancellation|rod of cancellation]]* affects it normally. The chain's AC against touch attacks is 10 + your Charisma modifier (sorcerer), Intelligence modifier (wizard), or Wisdom modifier (cleric).
+A floating chain of force with hooks at each end appears within an unoccupied space of your choosing within range. This chain is a Medium object that has a 10-foot reach. Physical attacks cannot hit or harm the _chain of perdition_, but _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_,_[[rangoric-srd/spells/Disintegrate|disintegrate]]_, a _[[rangoric-srd/magic-items/artifacts/Sphere of Annihilation|sphere of annihilation]]_, or a _[[rangoric-srd/magic-items/rods/Rod of Cancellation|rod of cancellation]]_ affects it normally. The chain's AC against touch attacks is 10 + your Charisma modifier (sorcerer), Intelligence modifier (wizard), or Wisdom modifier (cleric).
 
 The chain can perform the dirty trick (blind or entangle), drag, reposition, and trip combat maneuvers, using your caster level in place of your Combat Maneuver Bonus, and your Charisma modifier (sorcerer), Intelligence modifier (wizard), or Wisdom modifier (cleric) in place of your Strength or Dexterity modifier. The chain does not provoke attacks of opportunity for making combat maneuvers. It suffers no penalty or miss chance due to darkness, invisibility, or other forms of concealment.
 

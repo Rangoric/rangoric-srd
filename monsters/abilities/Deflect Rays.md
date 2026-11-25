@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Deflect Rays
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “deflect rays”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “deflect rays”, on the Special Qualities line.
 
 Once per round as an immediate action, a sepid can use its Deflect Arrows feat to deflect a ray or a spell that uses a ranged touch attack. The [[rangoric-srd/monsters/divs/Sepid|sepid]] has it.

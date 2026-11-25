@@ -41,43 +41,43 @@ tags: [rangoric, rangoric/monster]
 
 # Troll
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
-  - **Hit Dice**: 6d8+36 (63 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 16 (+2 Dex, +5 natural, –1 size), touch 11, flat-footed 14
-  - **Base Attack**: +4; **CMB**: +10; **CMD**: 22
-  - **Attack**: Bite +8 melee (1d8+5) or claw +8 melee (1d6+5)
-  - **Full Attack**: Bite +8 melee (1d8+5) and 2 claws +8 melee (1d6+5)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws, 1d6+7)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or fire)
-  - **Saves**: Fort +11, Ref +4, Will +3
-  - **Abilities**: Str 21, Dex 14, Con 23, Int 6, Wis 9, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +8
-  - **Feats**: [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Cold mountains; cold mountains (Scrag: Cold aquatic)
-  - **Organization**: Solitary or gang (2–4)
-  - **Challenge Rating**: 5
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: +5
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
+- **Hit Dice**: 6d8+36 (63 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 16 (+2 Dex, +5 natural, –1 size), touch 11, flat-footed 14
+- **Base Attack**: +4; **CMB**: +10; **CMD**: 22
+- **Attack**: Bite +8 melee (1d8+5) or claw +8 melee (1d6+5)
+- **Full Attack**: Bite +8 melee (1d8+5) and 2 claws +8 melee (1d6+5)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws, 1d6+7)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or fire)
+- **Saves**: Fort +11, Ref +4, Will +3
+- **Abilities**: Str 21, Dex 14, Con 23, Int 6, Wis 9, Cha 6
+- **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +8
+- **Feats**: [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Cold mountains; cold mountains (Scrag: Cold aquatic)
+- **Organization**: Solitary or gang (2–4)
+- **Challenge Rating**: 5
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: +5
 
 **Also in this entry:**
 
-  - [[rangoric-srd/monsters/troll/Troll Hunter, 6th-Level Ranger|Troll Hunter, 6th-Level Ranger]]
-  - Troll Defenders: [[rangoric-srd/monsters/troll/Troll Acolyte|Troll Acolyte]] (CR 6), [[rangoric-srd/monsters/troll/Troll Warden|Troll Warden]] (CR 6)
-  - Troll Ragers: [[rangoric-srd/monsters/troll/Troll Brute|Troll Brute]] (CR 7), [[rangoric-srd/monsters/troll/Troll Berserker|Troll Berserker]] (CR 9)
-  - Troll Fighters: [[rangoric-srd/monsters/troll/Troll Ripper|Troll Ripper]] (CR 8), [[rangoric-srd/monsters/troll/Troll Render|Troll Render]] (CR 10)
-  - Troll Fury: [[rangoric-srd/monsters/troll/Troll Fury|Troll Fury]] (CR 8)
-  - Troll Elder Matron: [[rangoric-srd/monsters/troll/Troll Elder Matron|Troll Elder Matron]] (CR 10)
-  - Troll Monarch: [[rangoric-srd/monsters/troll/Troll Monarch|Troll Monarch]] (CR 15)
-  - [[rangoric-srd/monsters/troll/Ice Troll|Ice Troll]] (CR 4)
-  - [[rangoric-srd/monsters/troll/Jotund Troll|Jotund Troll]] (CR 15)
-  - [[rangoric-srd/monsters/troll/Moss Troll|Moss Troll]] (CR 3)
-  - [[rangoric-srd/monsters/troll/Rock Troll|Rock Troll]] (CR 6)
-  - [[rangoric-srd/monsters/troll/Sewer Troll|Sewer Troll]] (CR 2)
+- [[rangoric-srd/monsters/troll/Troll Hunter, 6th-Level Ranger|Troll Hunter, 6th-Level Ranger]]
+- Troll Defenders: [[rangoric-srd/monsters/troll/Troll Acolyte|Troll Acolyte]] (CR 6), [[rangoric-srd/monsters/troll/Troll Warden|Troll Warden]] (CR 6)
+- Troll Ragers: [[rangoric-srd/monsters/troll/Troll Brute|Troll Brute]] (CR 7), [[rangoric-srd/monsters/troll/Troll Berserker|Troll Berserker]] (CR 9)
+- Troll Fighters: [[rangoric-srd/monsters/troll/Troll Ripper|Troll Ripper]] (CR 8), [[rangoric-srd/monsters/troll/Troll Render|Troll Render]] (CR 10)
+- Troll Fury: [[rangoric-srd/monsters/troll/Troll Fury|Troll Fury]] (CR 8)
+- Troll Elder Matron: [[rangoric-srd/monsters/troll/Troll Elder Matron|Troll Elder Matron]] (CR 10)
+- Troll Monarch: [[rangoric-srd/monsters/troll/Troll Monarch|Troll Monarch]] (CR 15)
+- [[rangoric-srd/monsters/troll/Ice Troll|Ice Troll]] (CR 4)
+- [[rangoric-srd/monsters/troll/Jotund Troll|Jotund Troll]] (CR 15)
+- [[rangoric-srd/monsters/troll/Moss Troll|Moss Troll]] (CR 3)
+- [[rangoric-srd/monsters/troll/Rock Troll|Rock Troll]] (CR 6)
+- [[rangoric-srd/monsters/troll/Sewer Troll|Sewer Troll]] (CR 2)
 
 Trolls possess incredibly sharp claws and amazing regenerative powers, allowing them to recover from nearly any wound. They are stooped, fantastically ugly, and astonishingly strong—combined with their claws, their strength allows them to literally tear apart flesh to feed their voracious appetites. Trolls stand about 14 feet tall, but their hunched postures often make them appear shorter. An adult troll weighs around 1,000 pounds.
 
@@ -134,30 +134,30 @@ Typical [[rangoric-srd/spells/Ranger Spell List|Ranger Spells]] Prepared (2; sav
 
 Troll characters possess the following racial traits.
 
-  - \+12 Strength, +4 Dexterity, +12 Constitution, –4 Intelligence (minimum 3), –2 Wisdom, –4 Charisma.
+- \+12 Strength, +4 Dexterity, +12 Constitution, –4 Intelligence (minimum 3), –2 Wisdom, –4 Charisma.
 
-  - Large size. –1 penalty to Armor Class, –1 penalty on attack rolls, –4 penalty on [[rangoric-srd/skills/Stealth|Stealth]] checks, +4 bonus on [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks, lifting and carrying limits double those of Medium characters.
+- Large size. –1 penalty to Armor Class, –1 penalty on attack rolls, –4 penalty on [[rangoric-srd/skills/Stealth|Stealth]] checks, +4 bonus on [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks, lifting and carrying limits double those of Medium characters.
 
-  - Space/Reach: 10 feet/10 feet.
+- Space/Reach: 10 feet/10 feet.
 
-  - A troll’s base land speed is 30 feet.
+- A troll’s base land speed is 30 feet.
 
-  - Darkvision out to 60 feet and low-light vision.
+- Darkvision out to 60 feet and low-light vision.
 
-  - Racial Hit Dice: A troll begins with six levels of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^giant|giant]], which provide 6d8 Hit Dice, a base attack bonus of +4, and base saving throw bonuses of Fort +5, Ref +2, and Will +2.
+- Racial Hit Dice: A troll begins with six levels of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^giant|giant]], which provide 6d8 Hit Dice, a base attack bonus of +4, and base saving throw bonuses of Fort +5, Ref +2, and Will +2.
 
-  - Racial Skills: A troll’s giant levels give it skill points equal to 6 x (2 + Int modifier, minimum 1). Its class skills are [[rangoric-srd/skills/Perception|Perception]].
+- Racial Skills: A troll’s giant levels give it skill points equal to 6 x (2 + Int modifier, minimum 1). Its class skills are [[rangoric-srd/skills/Perception|Perception]].
 
-  - Racial Feats: A troll’s giant levels give it three feats.
+- Racial Feats: A troll’s giant levels give it three feats.
 
-  -  +5 natural armor bonus.
+-  +5 natural armor bonus.
 
-  - Natural Weapons: Claw (1d6) and bite (1d6).
+- Natural Weapons: Claw (1d6) and bite (1d6).
 
-  - Special Attacks (see above): Rend, damage 2d6 + 1-1/2 times Str modifier.
+- Special Attacks (see above): Rend, damage 2d6 + 1-1/2 times Str modifier.
 
-  - Special Qualities: [[rangoric-srd/monsters/abilities/Regeneration|Regeneration]] 5, [[rangoric-srd/monsters/abilities/Scent|scent]].
+- Special Qualities: [[rangoric-srd/monsters/abilities/Regeneration|Regeneration]] 5, [[rangoric-srd/monsters/abilities/Scent|scent]].
 
-  - Automatic Languages: Giant. Bonus Languages: Common, Orc.
+- Automatic Languages: Giant. Bonus Languages: Common, Orc.
 
-  - Level adjustment +5.
+- Level adjustment +5.

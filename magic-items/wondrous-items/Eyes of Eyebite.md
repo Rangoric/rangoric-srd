@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Eyes of Eyebite
 
-These glasses look like golden teeth holding a pair of green-tinted lenses. The wearer may use *[[rangoric-srd/spells/Eyebite|eyebite]]* 11 times per day on command, affecting one target for each use of the spell. The wearer does not need to use these rounds consecutively, but each activation is a standard action (unlike the spell, in which targeting a new foe is a swift action). If the wearer removes the glasses, the *[[rangoric-srd/spells/Eyebite|eyebite]]* effects immediately end.
+These glasses look like golden teeth holding a pair of green-tinted lenses. The wearer may use _[[rangoric-srd/spells/Eyebite|eyebite]]_ 11 times per day on command, affecting one target for each use of the spell. The wearer does not need to use these rounds consecutively, but each activation is a standard action (unlike the spell, in which targeting a new foe is a swift action). If the wearer removes the glasses, the _[[rangoric-srd/spells/Eyebite|eyebite]]_ effects immediately end.
 
-Moderate necromancy; CL 11th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Eyebite|eyebite]]*; Price 30,000 gp; Cost 15,000 gp.
+Moderate necromancy; CL 11th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Eyebite|eyebite]]_; Price 30,000 gp; Cost 15,000 gp.

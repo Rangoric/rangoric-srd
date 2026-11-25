@@ -17,9 +17,9 @@ tags: [rangoric, rangoric/spell]
 
 # Spellcrash, Greater
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Clr 8, Sor/Wiz 8, Wit 8
-  - **Components**: 
+- **Level**: Clr 8, Sor/Wiz 8, Wit 8
+- **Components**:
 
-This spell functions as *[[rangoric-srd/spells/Spellcrash, Lesser|lesser spellcrash]]*, except that it affects a 7th-level or lower prepared spell or spell slot.
+This spell functions as _[[rangoric-srd/spells/Spellcrash, Lesser|lesser spellcrash]]_, except that it affects a 7th-level or lower prepared spell or spell slot.

@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This solid red brick changes its shape to match its bearer's holy symbol. If the bearer has the [[rangoric-srd/combat/Combat Special Attacks#Channel Energy|channel energy]] class feature, she can focus her power on the brick, allowing her to repair damaged constructs and objects as if they were living creatures. The item works whether the bearer channels positive or negative energy. If the bearer has the [[rangoric-srd/class-options/domains/Artifice Domain|Artifice domain]], she adds +2d6 points of damage to her [[rangoric-srd/class-options/domains/Artifice Domain|artificer’s touch]] domain power when repairing constructs and objects.
 
-Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Make Whole|make whole]]*; Price 10,000 gp; Cost 5,000 gp; Weight 1 lb.
+Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Make Whole|make whole]]_; Price 10,000 gp; Cost 5,000 gp; Weight 1 lb.

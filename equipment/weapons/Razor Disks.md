@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/weapon]
 
 # Razor Disks
 
-*Ammunition (5).* Cost 5 gp; Weight 1 lb. ^stats
+_Ammunition (5)._ Cost 5 gp; Weight 1 lb. ^stats

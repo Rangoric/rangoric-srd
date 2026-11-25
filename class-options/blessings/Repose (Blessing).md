@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Repose Blessing
 
-*A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Repose Domain|Repose domain]].*
+_A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Repose Domain|Repose domain]]._
 
 **Gentle Rest (minor)**: At 1st level, you can fill a living creature with lethargy by hitting it with a melee touch attack, causing it to become staggered for 1 round. If the target is already staggered, it falls asleep for 1 round instead. An undead creature that’s touched is staggered for a number of rounds equal to your Wisdom modifier (minimum 1).
 

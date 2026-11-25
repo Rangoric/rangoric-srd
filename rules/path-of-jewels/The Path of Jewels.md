@@ -36,65 +36,65 @@ Each gem is naturally linked to schools of magic and spell descriptors. Values a
 
 The gems used for [[rangoric-srd/prestige-classes/Jewel Mage#^jewel-mage-create-attunement-jewel|attunement jewels]] and [[rangoric-srd/prestige-classes/Jewel Mage#^jewel-mage-create-greater-attunement-jewel|greater attunement jewels]], by school.
 
-| Gem | School |
-| --- | --- |
-| Amber | Conjuration |
-| Amethyst | Enchantment |
-| Cat’s Eye Chrysoberyl | Divination |
-| Garnet | Transmutation |
-| Jade | Abjuration |
-| Jet | Necromancy |
-| Pearl | Illusion |
-| Spinel | Evocation |
+| Gem                   | School        |
+| --------------------- | ------------- |
+| Amber                 | Conjuration   |
+| Amethyst              | Enchantment   |
+| Cat’s Eye Chrysoberyl | Divination    |
+| Garnet                | Transmutation |
+| Jade                  | Abjuration    |
+| Jet                   | Necromancy    |
+| Pearl                 | Illusion      |
+| Spinel                | Evocation     |
 
 **Table: Gem Attunements** ^table-gem-attunements
 
 The schools and spell descriptors each gem is attuned to, for [[rangoric-srd/prestige-classes/Jewel Mage#^jewel-mage-create-encoded-jewel|encoded jewels]].
 
-| Gem | School | Descriptors |
-| --- | --- | --- |
-| Alexandrite | — | chaotic |
-| Amber | Conjuration | electricity |
-| Amethyst | Enchantment | sonic |
-| Aquamarine | — | cold, lawful |
-| Bloodstone (Hematite) | — | fear |
-| Carnelian | — | fire |
-| Chalcedony | — | lawful |
-| Chrysoberyl | — | teleportation |
-| Chrysoberyl, Cat’s Eye | Divination | — |
-| Citrine | — | acid |
-| Coral | — | sonic |
-| Corundum | — | light |
-| Diamond | — | force |
-| Emerald | — | acid |
-| Garnet | Transmutation | acid, fire |
-| Iolite | — | cold |
-| Jacinth | — | light |
-| Jade | Abjuration | good |
-| Jet | Necromancy | darkness, death, evil |
-| Moonstone | — | light |
-| Onyx | — | darkness, evil, fear |
-| Opal | — | chaotic |
-| Pearl | Illusion | mind-affecting |
-| Peridot | — | language-dependent |
-| Ruby | — | fire |
-| Sapphire | — | lawful |
-| Sard | — | death |
-| Spinel | Evocation | electricity, force |
-| Topaz | — | good, light |
-| Tourmaline | — | mind-affecting |
-| Zircon | — | teleportation |
+| Gem                    | School        | Descriptors           |
+| ---------------------- | ------------- | --------------------- |
+| Alexandrite            | —             | chaotic               |
+| Amber                  | Conjuration   | electricity           |
+| Amethyst               | Enchantment   | sonic                 |
+| Aquamarine             | —             | cold, lawful          |
+| Bloodstone (Hematite)  | —             | fear                  |
+| Carnelian              | —             | fire                  |
+| Chalcedony             | —             | lawful                |
+| Chrysoberyl            | —             | teleportation         |
+| Chrysoberyl, Cat’s Eye | Divination    | —                     |
+| Citrine                | —             | acid                  |
+| Coral                  | —             | sonic                 |
+| Corundum               | —             | light                 |
+| Diamond                | —             | force                 |
+| Emerald                | —             | acid                  |
+| Garnet                 | Transmutation | acid, fire            |
+| Iolite                 | —             | cold                  |
+| Jacinth                | —             | light                 |
+| Jade                   | Abjuration    | good                  |
+| Jet                    | Necromancy    | darkness, death, evil |
+| Moonstone              | —             | light                 |
+| Onyx                   | —             | darkness, evil, fear  |
+| Opal                   | —             | chaotic               |
+| Pearl                  | Illusion      | mind-affecting        |
+| Peridot                | —             | language-dependent    |
+| Ruby                   | —             | fire                  |
+| Sapphire               | —             | lawful                |
+| Sard                   | —             | death                 |
+| Spinel                 | Evocation     | electricity, force    |
+| Topaz                  | —             | good, light           |
+| Tourmaline             | —             | mind-affecting        |
+| Zircon                 | —             | teleportation         |
 
 **Table: Binding Jewel Types** ^table-binding-jewel-types
 
 The gems used for [[rangoric-srd/prestige-classes/Jewel Mage#^jewel-mage-create-binding-jewel|binding jewels]], by the type of creature they bind.
 
-| Gem | Creature Types |
-| --- | --- |
-| Corundum | Animal, Magical Beast, Plant, Vermin |
-| Emerald | Dragon |
-| Opal | Aberration, Ooze, Shapechanger |
-| Ruby | Outsider |
+| Gem      | Creature Types                           |
+| -------- | ---------------------------------------- |
+| Corundum | Animal, Magical Beast, Plant, Vermin     |
+| Emerald  | Dragon                                   |
+| Opal     | Aberration, Ooze, Shapechanger           |
+| Ruby     | Outsider                                 |
 | Sapphire | Fey, Giant, Humanoid, Monstrous Humanoid |
 
 ## Jeweled Items
@@ -125,5 +125,5 @@ Other options could include using the sorcerer’s spellcasting abilities as the
 - **Prestige class**: the [[rangoric-srd/prestige-classes/Soul Gem Guardian|Soul Gem Guardian]], who protects a soul-gemmed jewel mage and carries its soul gem.
 - **Template**: the [[rangoric-srd/monsters/Crystalline Creature|crystalline creature]], which jewelbound creatures take on.
 - **Item**: the [[rangoric-srd/magic-items/wondrous-items/Jewelstaff|jewelstaff]], a jeweled item.
-- **Spells**: *[[rangoric-srd/spells/Gemguard|gemguard]]* and *[[rangoric-srd/spells/Locate Jewels|locate jewels]]*.
+- **Spells**: _[[rangoric-srd/spells/Gemguard|gemguard]]_ and _[[rangoric-srd/spells/Locate Jewels|locate jewels]]_.
 - **Gems**: [[rangoric-srd/rules/Gems|Gems]], their one home.

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Docile
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “docile”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “docile”, on the Special Qualities line.
 
 Unless specifically trained for combat (see [[rangoric-srd/skills/Animal Handling|Animal Handling]]), a docile creature’s hooves are treated as [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^natural-weapons|secondary attacks]].

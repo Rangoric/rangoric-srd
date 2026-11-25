@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Bestial Armor
 
-This *+2* [[rangoric-srd/equipment/armor/Half-Plate|half-plate]] armor bears the design of some sort of Tiny, naturally occurring animal. The design is the curse. In a circumstance when the armor is within 30 feet of a creature bearing a resemblance to the design on the armor, the wearer is polymorphed into a similar creature, as per the *[[rangoric-srd/spells/Baleful Polymorph|baleful polymorph]]* spell. Note that the armor does not polymorph with the wearer.
+This _+2_ [[rangoric-srd/equipment/armor/Half-Plate|half-plate]] armor bears the design of some sort of Tiny, naturally occurring animal. The design is the curse. In a circumstance when the armor is within 30 feet of a creature bearing a resemblance to the design on the armor, the wearer is polymorphed into a similar creature, as per the _[[rangoric-srd/spells/Baleful Polymorph|baleful polymorph]]_ spell. Note that the armor does not polymorph with the wearer.
 
-Moderate transmutation; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Baleful Polymorph|baleful polymorph]]*; Price 9,000 gp.
+Moderate transmutation; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Baleful Polymorph|baleful polymorph]]_; Price 9,000 gp.

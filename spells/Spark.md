@@ -34,15 +34,15 @@ tags: [rangoric, rangoric/spell]
 
 # Spark
 
-*Evocation \[Fire\]*
+_Evocation \[Fire\]_
 
-  - **Level**: Brd 0, Clr 0, Drd 0, Hun 0, Mag 0, Occ 0, Skd 0, Sor/Wiz 0, Wit 0
-  - **Components**: V or S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One Fine object
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Fortitude negates (object)
-  - **Spell Resistance**: Yes (object)
+- **Level**: Brd 0, Clr 0, Drd 0, Hun 0, Mag 0, Occ 0, Skd 0, Sor/Wiz 0, Wit 0
+- **Components**: V or S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One Fine object
+- **Duration**: Instantaneous
+- **Saving Throw**: Fortitude negates (object)
+- **Spell Resistance**: Yes (object)
 
-You can make an unattended Fine flammable object catch on fire. This works as if you were using flint and steel except that you can use *spark* in any sort of weather and it takes much less time to actually ignite an object.
+You can make an unattended Fine flammable object catch on fire. This works as if you were using flint and steel except that you can use _spark_ in any sort of weather and it takes much less time to actually ignite an object.

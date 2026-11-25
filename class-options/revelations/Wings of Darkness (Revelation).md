@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Wings of Darkness
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Outer Dark Mystery|outer dark]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Outer Dark Mystery|outer dark]] mystery._
 
-As a swift action, you can manifest a set of translucent, inky wings that grant you a fly speed of 60 feet with good maneuverability. You can use these wings for 1 minute per day per oracle level. This duration does not need to be consecutive, but it must be spent in 1-minute increments. At 11th level, you can use these wings to fly as if with *[[rangoric-srd/spells/Overland Flight|overland flight]]* once per day. Used in this way, the ability lasts for up to 1 hour per level, and counts as your total use of this ability for the day. You must be at least 7th level to select this revelation.
+As a swift action, you can manifest a set of translucent, inky wings that grant you a fly speed of 60 feet with good maneuverability. You can use these wings for 1 minute per day per oracle level. This duration does not need to be consecutive, but it must be spent in 1-minute increments. At 11th level, you can use these wings to fly as if with _[[rangoric-srd/spells/Overland Flight|overland flight]]_ once per day. Used in this way, the ability lasts for up to 1 hour per level, and counts as your total use of this ability for the day. You must be at least 7th level to select this revelation.

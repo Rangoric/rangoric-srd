@@ -49,11 +49,11 @@ With a ranged weapon, your attack bonus is:
 
 | Size       | Size Modifier | Size       | Size Modifier |
 | ---------- | ------------- | ---------- | ------------- |
-| Colossal   | –8            | Small      | +1           |
-| Gargantuan | –4            | Tiny       | +2           |
-| Huge       | –2            | Diminutive | +4           |
-| Large      | –1            | Fine       | +8           |
-| Medium     | +0           |            |               |
+| Colossal   | –8            | Small      | +1            |
+| Gargantuan | –4            | Tiny       | +2            |
+| Huge       | –2            | Diminutive | +4            |
+| Large      | –1            | Fine       | +8            |
+| Medium     | +0            |            |               |
 
 ##### Combat Maneuver Bonus and Defense
 
@@ -69,13 +69,13 @@ Damage reduces a target’s current hit points.
 
 **Strength Bonus**: When you hit with a melee or thrown weapon, including a sling, add your Strength modifier to the damage result. A Strength penalty, but not a bonus, applies on attacks made with a bow that is not a composite bow.
 
-*Off-Hand Weapon*: When you deal damage with a weapon in your off hand, you add only 1/2 your Strength bonus.
+_Off-Hand Weapon_: When you deal damage with a weapon in your off hand, you add only 1/2 your Strength bonus.
 
-*Wielding a Weapon Two-Handed*: When you deal damage with a weapon that you are wielding two-handed, you add 1-1/2 times your Strength bonus. However, you don’t get this higher Strength bonus when using a light weapon with two hands.
+_Wielding a Weapon Two-Handed_: When you deal damage with a weapon that you are wielding two-handed, you add 1-1/2 times your Strength bonus. However, you don’t get this higher Strength bonus when using a light weapon with two hands.
 
 **Multiplying Damage**: Sometimes you multiply damage by some factor, such as on a critical hit. Roll the damage (with all modifiers) multiple times and total the results. Note: When you multiply damage more than once, each multiplier works off the original, unmultiplied damage.
 
-*Exception*: Extra damage dice over and above a weapon’s normal damage are never multiplied.
+_Exception_: Extra damage dice over and above a weapon’s normal damage are never multiplied.
 
 **Ability Damage**: Certain creatures and magical effects can cause temporary ability damage (a reduction to an ability score).
 
@@ -93,11 +93,11 @@ Sometimes you can’t use your Dexterity bonus (if you have one). If you can’t
 
 **Enhancement Bonuses**: Enhancement effects make your armor better.
 
-*Deflection Bonus*: Magical deflection effects ward off attacks and improve your AC.
+_Deflection Bonus_: Magical deflection effects ward off attacks and improve your AC.
 
-*Natural Armor*: Natural armor improves your AC.
+_Natural Armor_: Natural armor improves your AC.
 
-*Dodge Bonuses*: Some other AC bonuses represent actively avoiding blows. These bonuses are called dodge bonuses. Any situation that denies you your Dexterity bonus also denies you dodge bonuses. (Wearing armor, however, does not limit these bonuses the way it limits a Dexterity bonus to AC.) Unlike most sorts of bonuses, dodge bonuses stack with each other.
+_Dodge Bonuses_: Some other AC bonuses represent actively avoiding blows. These bonuses are called dodge bonuses. Any situation that denies you your Dexterity bonus also denies you dodge bonuses. (Wearing armor, however, does not limit these bonuses the way it limits a Dexterity bonus to AC.) Unlike most sorts of bonuses, dodge bonuses stack with each other.
 
 **Touch Attacks**: Some attacks disregard armor, including shields and natural armor. In these cases, the attacker makes a touch attack roll (either ranged or melee). When you are the target of a touch attack, your AC doesn’t include any armor bonus, shield bonus, or natural armor bonus. All other modifiers, such as your size modifier, Dexterity modifier, and deflection bonus (if any) apply normally.
 
@@ -123,11 +123,11 @@ Generally, when you are subject to an unusual or magical attack, you get a savin
 
 **Saving Throw Types**: The three different kinds of saving throws are Fortitude, Reflex, and Will:
 
-*Fortitude*: These saves measure your ability to stand up to physical punishment or attacks against your vitality and health. Apply your Constitution modifier to your Fortitude saving throws.
+_Fortitude_: These saves measure your ability to stand up to physical punishment or attacks against your vitality and health. Apply your Constitution modifier to your Fortitude saving throws.
 
-*Reflex*: These saves test your ability to dodge area attacks. Apply your Dexterity modifier to your Reflex saving throws.
+_Reflex_: These saves test your ability to dodge area attacks. Apply your Dexterity modifier to your Reflex saving throws.
 
-*Will*: These saves reflect your resistance to mental influence as well as many magical effects. Apply your Wisdom modifier to your Will saving throws.
+_Will_: These saves reflect your resistance to mental influence as well as many magical effects. Apply your Wisdom modifier to your Will saving throws.
 
 **Saving Throw Difficulty Class**: The DC for a save is determined by the attack itself.
 

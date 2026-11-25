@@ -24,22 +24,22 @@ Ordinary creatures and monsters that have the dubious fortune of being born in t
 
 **AC**: Natural armor improves by +1.
 
-**Special Attacks**: A shadow-born creature retains all of the base creature’s extraordinary, supernatural, and spell-like abilities, and also gains the ability to use *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]* at will as the spell. Shadow-born with an Intelligence or Wisdom score of 8 or higher possess the following spell-like abilities, using their level as the caster level, as specified in the table below. Unless otherwise indicated, the ability is usable once per day.
+**Special Attacks**: A shadow-born creature retains all of the base creature’s extraordinary, supernatural, and spell-like abilities, and also gains the ability to use _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_ at will as the spell. Shadow-born with an Intelligence or Wisdom score of 8 or higher possess the following spell-like abilities, using their level as the caster level, as specified in the table below. Unless otherwise indicated, the ability is usable once per day.
 
 **Table: Shadow-born Spell-Like Abilities** ^table-shadow-born-spell-like-abilities
 
-| Level | Abilities |
-| --- | --- |
-| 1–2 | *[[rangoric-srd/spells/Bad Luck\|bad luck]]* |
-| 3–4 | *[[rangoric-srd/spells/Disrobe\|disrobe]]* |
-| 5–6 | *[[rangoric-srd/spells/Fitful Sleep\|fitful sleep]]* |
-| 7–8 | *[[rangoric-srd/spells/Antilife Filter\|anti-life filter]]* |
-| 9–10 | *[[rangoric-srd/spells/Sleepless Curse\|sleepless curse]]* |
-| 11–12 | *[[rangoric-srd/spells/Recurring Nightmare\|recurring nightmare]]* |
-| 13–14 | *[[rangoric-srd/spells/Fey Decree\|fey decree]]* |
-| 15–16 | *[[rangoric-srd/spells/Fey Curtain\|fey curtain]]* |
-| 17–18 | *[[rangoric-srd/spells/Summon Fey IX\|summon fey IX]]* |
-| 19+ | *[[rangoric-srd/spells/Create Doorway and Sideroad\|create doorway and sideroad]]* |
+| Level | Abilities                                                                          |
+| ----- | ---------------------------------------------------------------------------------- |
+| 1–2   | _[[rangoric-srd/spells/Bad Luck\|bad luck]]_                                       |
+| 3–4   | _[[rangoric-srd/spells/Disrobe\|disrobe]]_                                         |
+| 5–6   | _[[rangoric-srd/spells/Fitful Sleep\|fitful sleep]]_                               |
+| 7–8   | _[[rangoric-srd/spells/Antilife Filter\|anti-life filter]]_                        |
+| 9–10  | _[[rangoric-srd/spells/Sleepless Curse\|sleepless curse]]_                         |
+| 11–12 | _[[rangoric-srd/spells/Recurring Nightmare\|recurring nightmare]]_                 |
+| 13–14 | _[[rangoric-srd/spells/Fey Decree\|fey decree]]_                                   |
+| 15–16 | _[[rangoric-srd/spells/Fey Curtain\|fey curtain]]_                                 |
+| 17–18 | _[[rangoric-srd/spells/Summon Fey IX\|summon fey IX]]_                             |
+| 19+   | _[[rangoric-srd/spells/Create Doorway and Sideroad\|create doorway and sideroad]]_ |
 
 **Special Qualities**: A shadow-born creature retains all of the base creature’s extraordinary, supernatural, and spell-like abilities, plus darkvision. Shadow-born creatures gain fey traits granting them resistance to illusion and enchantment spells. This imparts them with a +1 racial bonus to resist spells and spell-like abilities of this nature, increasing by +1 for every four levels the creature attains.
 
@@ -73,27 +73,27 @@ This example uses a gnarl as the base creature.
 
 **Shadow-born Gnarl**
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
-  - **Hit Dice**: 10d8+50 (95 hp)
-  - **Initiative**: +10 (+6 Dex, +4 Improved Initiative)
-  - **Speed**: 40 ft. (8 squares), climb 20 ft.
-  - **Armor Class**: 26 (–1 size, +6 Dex, +11 natural), touch 15, flat-footed 20
-  - **Base Attack**: +7; **CMB**: +16; **CMD**: 32
-  - **Attack**: Claw +18 melee (1d6+8)
-  - **Full Attack**: 2 claws +18 melee (1d6+8) and bite +16 melee (2d6+4)
-  - **Space/Reach**: 10 ft./15 ft.
-  - **Special Attacks**: Improved grab, spell-like abilities
-  - **Special Qualities**: Darkvision 60 ft., fey traits
-  - **Saves**: Fort +9, Ref +12, Will +8
-  - **Abilities**: Str 26, Dex 22, Con 22, Int 12, Wis 15, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +22*, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +21*
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Multiattack|Multiattack]]
-  - **Environment**: Any hills or mountains
-  - **Organization**: Solitary or hunting party (2–5)
-  - **Challenge Rating**: 9
-  - **Treasure**: Standard
-  - **Alignment**: Chaotic evil
-  - **Advancement**: 11–15 HD (Large); 16–20 HD (Huge)
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
+- **Hit Dice**: 10d8+50 (95 hp)
+- **Initiative**: +10 (+6 Dex, +4 Improved Initiative)
+- **Speed**: 40 ft. (8 squares), climb 20 ft.
+- **Armor Class**: 26 (–1 size, +6 Dex, +11 natural), touch 15, flat-footed 20
+- **Base Attack**: +7; **CMB**: +16; **CMD**: 32
+- **Attack**: Claw +18 melee (1d6+8)
+- **Full Attack**: 2 claws +18 melee (1d6+8) and bite +16 melee (2d6+4)
+- **Space/Reach**: 10 ft./15 ft.
+- **Special Attacks**: Improved grab, spell-like abilities
+- **Special Qualities**: Darkvision 60 ft., fey traits
+- **Saves**: Fort +9, Ref +12, Will +8
+- **Abilities**: Str 26, Dex 22, Con 22, Int 12, Wis 15, Cha 10
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +22*, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +21*
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Multiattack|Multiattack]]
+- **Environment**: Any hills or mountains
+- **Organization**: Solitary or hunting party (2–5)
+- **Challenge Rating**: 9
+- **Treasure**: Standard
+- **Alignment**: Chaotic evil
+- **Advancement**: 11–15 HD (Large); 16–20 HD (Huge)
 
 A shadow-born gnarl is a more fearsome opponent than its more mundane relatives. The creature takes advantage of its superior skills and abilities whenever possible, setting up subtle trap and ambush situations where it can use surprise its prey.
 
@@ -105,6 +105,6 @@ A shadow-born gnarl is quite familiar with the innate abilities it has gained fr
 
 **Improved Grab (Ex)**: If a gnarl hits an opponent with a claw attack, it can attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it gets a hold, the gnarl typically lifts victims into the air.
 
-**Skills**: Gnarls receive a +8 terrain bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks to climb and on [[rangoric-srd/skills/Stealth|Stealth]] checks while in mountains or hills (included in the stat block, marked *).
+**Skills**: Gnarls receive a +8 terrain bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks to climb and on [[rangoric-srd/skills/Stealth|Stealth]] checks while in mountains or hills (included in the stat block, marked \*).
 
-**Spell-Like Abilities (Sp)**: At will—*[[rangoric-srd/spells/Prestidigitation|prestidigitation]]*; 1/day—*[[rangoric-srd/spells/Bad Luck|bad luck]]*, *[[rangoric-srd/spells/Disrobe|disrobe]]*, *[[rangoric-srd/spells/Fitful Sleep|fitful sleep]]*, *[[rangoric-srd/spells/Antilife Filter|anti-life filter]]*, *sleepless curse*. These abilities are as the spells cast by a 10th level sorcerer (save DC 10 + spell level).
+**Spell-Like Abilities (Sp)**: At will—_[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_; 1/day—_[[rangoric-srd/spells/Bad Luck|bad luck]]_, _[[rangoric-srd/spells/Disrobe|disrobe]]_, _[[rangoric-srd/spells/Fitful Sleep|fitful sleep]]_, _[[rangoric-srd/spells/Antilife Filter|anti-life filter]]_, _sleepless curse_. These abilities are as the spells cast by a 10th level sorcerer (save DC 10 + spell level).

@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Xanthos
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 17d10+102 (195 hp)
-  - **Initiative**: +6
-  - **Speed**: 60 ft. (12 squares)
-  - **Armor Class**: 31 (+2 Dex, +1 dodge, +20 natural, –2 size), touch 11, flat-footed 28
-  - **Base Attack**: +17; **CMB**: +27; **CMD**: 40 (44 vs. trip)
-  - **Attack**: Bite +23 melee (2d6+8) or hoof +26 melee (1d8+4) or tail slap +26 melee (2d6+4)
-  - **Full Attack**: Bite +23 melee (2d6+8) and 2 hooves +21 melee (1d8+4) and tail slap +21 melee (2d6+4)
-  - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 5 ft., [[rangoric-srd/monsters/abilities/Exploit Stellar Conjunction|exploit stellar conjunction]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 30 and fire 30, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25
-  - **Saves**: Fort +15, Ref +12, Will +10
-  - **Abilities**: Str 26, Dex 15, Con 21, Int 12, Wis 16, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Knowledge|Knowledge]] +10, [[rangoric-srd/skills/Perception|Perception]] +23
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Wind Stance|Wind Stance]]
-  - **Environment**: Any land
-  - **Organization**: Solitary or gang (2–5)
-  - **Challenge Rating**: 14
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 17d10+102 (195 hp)
+- **Initiative**: +6
+- **Speed**: 60 ft. (12 squares)
+- **Armor Class**: 31 (+2 Dex, +1 dodge, +20 natural, –2 size), touch 11, flat-footed 28
+- **Base Attack**: +17; **CMB**: +27; **CMD**: 40 (44 vs. trip)
+- **Attack**: Bite +23 melee (2d6+8) or hoof +26 melee (1d8+4) or tail slap +26 melee (2d6+4)
+- **Full Attack**: Bite +23 melee (2d6+8) and 2 hooves +21 melee (1d8+4) and tail slap +21 melee (2d6+4)
+- **Space/Reach**: 15 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 5 ft., [[rangoric-srd/monsters/abilities/Exploit Stellar Conjunction|exploit stellar conjunction]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 30 and fire 30, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25
+- **Saves**: Fort +15, Ref +12, Will +10
+- **Abilities**: Str 26, Dex 15, Con 21, Int 12, Wis 16, Cha 13
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Knowledge|Knowledge]] +10, [[rangoric-srd/skills/Perception|Perception]] +23
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Wind Stance|Wind Stance]]
+- **Environment**: Any land
+- **Organization**: Solitary or gang (2–5)
+- **Challenge Rating**: 14
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A xanthos is a strange creature, part equine, part reptile. Bred as mounts by a long-dead race of alien plane-jumping explorers, xanthoi have a remarkable intelligence and the ability to teleport themselves and their riders over long distances. The race that created xanthoi has since died off or left for remote destinations, and the remaining xanthoi have lost many of their former powers, but they still have a driving need to explore worlds and planes. Xanthoi are omnivores but can survive on vegetable matter.
 
@@ -73,6 +73,6 @@ Xanthos speak Aklo.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 15th; concentration +16): 5/day—*[[rangoric-srd/spells/Know Direction|know direction]]*, *[[rangoric-srd/spells/Locate Creature|locate creature]]*, *[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]*, *[[rangoric-srd/spells/Teleport|teleport]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 15th; concentration +16): 5/day—_[[rangoric-srd/spells/Know Direction|know direction]]_, _[[rangoric-srd/spells/Locate Creature|locate creature]]_, _[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]_, _[[rangoric-srd/spells/Teleport|teleport]]_.
 
 **[[rangoric-srd/monsters/abilities/Exploit Stellar Conjunction|Exploit Stellar Conjunction]] (Su)**: A xanthos can sense the alignment of stellar objects (planets, comets, asteroids, and so on) and when they form conjunctions that allow it to use its magic for interplanetary travel. During these conjunctions, the xanthos can use its teleport spell-like ability as interplanetary teleport to reach any other world in its current solar system, or as plane shift to reach any known plane. A conjunction remains viable for only 10d10 hours, after which it could be days, weeks, or even months before another conjunction occurs that would once again allow travel between those two locations.

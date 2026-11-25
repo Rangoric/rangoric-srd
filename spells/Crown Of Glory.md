@@ -33,7 +33,7 @@ Range: Personal
 Area: 120-ft.-radius emanation centered on you  
 Duration: 1 minute/level  
 Saving Throw: Will negates  
-Spell Resistance: Yes  
+Spell Resistance: Yes
 
 The caster is imbued with an aura of celestial authority, inspiring awe in all lesser creatures.
 

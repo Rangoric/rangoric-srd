@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Fist of the Avenger
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
 The vigilante gains [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]] as a bonus feat, if he doesn’t have this feat already. In addition, whenever he successfully attacks with his fist or a gauntlet, he gains a bonus on damage rolls equal to half his vigilante level (minimum +1, maximum of +5).
 

@@ -31,19 +31,17 @@ tags: [rangoric, rangoric/spell]
 
 # Apport Object
 
-*Conjuration (Teleportation)*
+_Conjuration (Teleportation)_
 
-  - **Level**: Brd 2, Med 2, Mes 2, Occ 2, Psy 2, Skd 2, Sor/Wiz 2, Wit 2
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: One touched object of up to 1 lb. and 1 cu. ft.
-  - **Duration**: Instantaneous or 1 hour/level
-  - **Saving Throw**: Will negates (object)
-  - **Spell Resistance**: Yes
+- **Level**: Brd 2, Med 2, Mes 2, Occ 2, Psy 2, Skd 2, Sor/Wiz 2, Wit 2
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: One touched object of up to 1 lb. and 1 cu. ft.
+- **Duration**: Instantaneous or 1 hour/level
+- **Saving Throw**: Will negates (object)
+- **Spell Resistance**: Yes
 
 This spell allows you to instantaneously transport a small nonliving object from one location to another. There are two ways to use the spell: sending allows you to immediately send an object held in your hands to a nearby location, while receiving permits you to cast the spell ahead of time on an object and summon it to your location at a later time.
-
-
 
 You can’t send or receive an object into a space that is protected by an antimagic field, globe of invulnerability, or similar effect that keeps magical effects out; if you attempt to do so, the spell is lost.

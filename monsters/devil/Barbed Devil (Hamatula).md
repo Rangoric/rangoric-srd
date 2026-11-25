@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Barbed Devil (Hamatula)
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Devil, Evil, Extraplanar, Lawful)
-  - **Hit Dice**: 12d10+72 (138 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 26 (+6 Dex, +10 natural), touch 16, flat-footed 20
-  - **Base Attack**: +12; **CMB**: +18 (+22 grapple); **CMD**: 34
-  - **Attack**: Claw +18 melee (2d8+6/19–20 plus [[rangoric-srd/monsters/abilities/Fear|fear]] and [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: 2 claws +18 melee (2d8+6/19–20 plus [[rangoric-srd/monsters/abilities/Fear|fear]] and [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Fear|Fear]], impale 3d8+9, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., barbed defense, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and cold 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 22
-  - **Saves**: Fort +14, Ref +14, Will +8
-  - **Abilities**: Str 23, Dex 23, Con 22, Int 12, Wis 15, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Persuasion|Persuasion]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +13, [[rangoric-srd/skills/Theology|Theology]] +16
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claws), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: A lawful evil-aligned plane
-  - **Organization**: Solitary, pair, team (3–5), or squad (6–11)
-  - **Challenge Rating**: 11
-  - **Treasure**: Standard
-  - **Alignment**: Always lawful evil
-  - **Advancement**: 13–24 HD (Medium); 25–36 HD (Large)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Devil, Evil, Extraplanar, Lawful)
+- **Hit Dice**: 12d10+72 (138 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 26 (+6 Dex, +10 natural), touch 16, flat-footed 20
+- **Base Attack**: +12; **CMB**: +18 (+22 grapple); **CMD**: 34
+- **Attack**: Claw +18 melee (2d8+6/19–20 plus [[rangoric-srd/monsters/abilities/Fear|fear]] and [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: 2 claws +18 melee (2d8+6/19–20 plus [[rangoric-srd/monsters/abilities/Fear|fear]] and [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Fear|Fear]], impale 3d8+9, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., barbed defense, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and cold 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 22
+- **Saves**: Fort +14, Ref +14, Will +8
+- **Abilities**: Str 23, Dex 23, Con 22, Int 12, Wis 15, Cha 18
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Persuasion|Persuasion]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +13, [[rangoric-srd/skills/Theology|Theology]] +16
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claws), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: A lawful evil-aligned plane
+- **Organization**: Solitary, pair, team (3–5), or squad (6–11)
+- **Challenge Rating**: 11
+- **Treasure**: Standard
+- **Alignment**: Always lawful evil
+- **Advancement**: 13–24 HD (Medium); 25–36 HD (Large)
+- **Level Adjustment**: —
 
 Sentinels of the infernal vaults, jailers of the darkest souls, and living weapons of the infernal forges, barbed devils—known as hamatulas to diabolists—enforce the strictures of the damned and safeguard the nefarious works of greater devils. A hamatula enjoys the feel of warm blood on its spines, and prefers to leap into melee when presented with an opportunity for battle.
 
@@ -74,7 +74,7 @@ Barbed devils speak Celestial, Common, Draconic and Infernal.
 
 Barbed devils eagerly fight with their claws, trying to impale their opponents. They use [[rangoric-srd/spells/Hold Person|hold person]] to immobilize those who avoid their hug attacks.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th): At will—*[[rangoric-srd/spells/Teleport, Greater|greater teleport]]* (self plus 50 lbs. of objects only), *[[rangoric-srd/spells/Hold Person|hold person]]* (DC 17), *[[rangoric-srd/spells/Major Image|major image]]* (DC 17), *[[rangoric-srd/spells/Produce Flame|produce flame]], [[rangoric-srd/spells/Pyrotechnics|pyrotechnics]]* (DC 16), *[[rangoric-srd/spells/Scorching Ray|scorching ray]]* (2 rays only); 1/day—*[[rangoric-srd/spells/Order’s Wrath|order's wrath]]* (DC 18), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 4, 1 [[rangoric-srd/monsters/devil/Barbed Devil (Hamatula)|barbed devil]] 35%), *[[rangoric-srd/spells/Unholy Blight|unholy blight]]* (DC 18).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th): At will—_[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Hold Person|hold person]]_ (DC 17), _[[rangoric-srd/spells/Major Image|major image]]_ (DC 17), _[[rangoric-srd/spells/Produce Flame|produce flame]], [[rangoric-srd/spells/Pyrotechnics|pyrotechnics]]_ (DC 16), _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_ (2 rays only); 1/day—_[[rangoric-srd/spells/Order’s Wrath|order's wrath]]_ (DC 18), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 4, 1 [[rangoric-srd/monsters/devil/Barbed Devil (Hamatula)|barbed devil]] 35%), _[[rangoric-srd/spells/Unholy Blight|unholy blight]]_ (DC 18).
 
 **Barbed Defense (Su)**: A creature that strikes a hamatula with a melee weapon, an unarmed strike, or a natural weapon takes 1d8+6 points of piercing damage from the devil's barbs. Melee weapons with reach do not endanger a user in this way.
 

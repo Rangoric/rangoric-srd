@@ -27,14 +27,14 @@ tags: [rangoric, rangoric/spell]
 
 # Divine Vessel
 
-*Transmutation \[Chaotic, Evil, Good, Lawful\]*
+_Transmutation \[Chaotic, Evil, Good, Lawful\]_
 
-  - **Level**: Ora 8
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level (D)
+- **Level**: Ora 8
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level (D)
 
 You accept otherworldly energies into your body and transform. Your size increases by one category, your height doubles, and your weight increases by a factor of eight. Your features shift into those of a cold and alien being of logic, a creature of primal chaos, an angelic presence, or a fiendish monster, as chosen by you. You gain a +6 size bonus to Strength and Constitution, a +3 natural armor bonus, darkvision 60 ft., and SR of 12 + your caster level. These modifiers replace the normal modifiers for increasing your size. The size modifier for AC, attacks, CMB, and CMD changes as appropriate for your new size category. This spell doesn't change your base speed. Determine space and reach as appropriate for your new size.
 

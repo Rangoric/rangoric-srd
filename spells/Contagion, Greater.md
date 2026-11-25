@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Contagion, Greater
 
-*Necromancy \[Disease, Evil\]*
+_Necromancy \[Disease, Evil\]_
 
-  - **Level**: Clr 5, Drd 5, Hun 5, Sor/Wiz 6, Wit 5
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One living creature
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Clr 5, Drd 5, Hun 5, Sor/Wiz 6, Wit 5
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One living creature
+- **Duration**: Instantaneous
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
-This spell functions as *[[rangoric-srd/spells/Contagion|contagion]]*, except the victim cannot overcome the disease without magic—making the required number of saves does not cure it. The DC to remove the disease with magic is equal to the save DC + 5.
+This spell functions as _[[rangoric-srd/spells/Contagion|contagion]]_, except the victim cannot overcome the disease without magic—making the required number of saves does not cure it. The DC to remove the disease with magic is equal to the save DC + 5.

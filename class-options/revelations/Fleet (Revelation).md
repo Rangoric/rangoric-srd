@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Fleet
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Ascetic Mystery|ascetic]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Ascetic Mystery|ascetic]] mystery._
 
 You gain a +10-foot enhancement bonus to your base land speed. You lose this extra speed if you wear any armor or carry a medium or heavy load.
 

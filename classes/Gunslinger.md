@@ -43,28 +43,28 @@ The gunslinger’s class skills (and the key ability for each skill) are [[rango
 
 **Table: The Gunslinger** ^table-the-gunslinger
 
-| Level | Special |
-| --- | --- |
-| 1st | deeds, grit, gunsmith |
-| 2nd | nimble +1 |
-| 3rd | deeds |
-| 4th | bonus feat |
-| 5th | gun training 1 |
-| 6th | nimble +2 |
-| 7th | deeds |
-| 8th | bonus feat |
-| 9th | gun training 2 |
-| 10th | nimble +3 |
-| 11th | deeds |
-| 12th | bonus feat |
-| 13th | gun training 3 |
-| 14th | nimble +4 |
-| 15th | deeds |
-| 16th | bonus feat |
-| 17th | gun training 4 |
-| 18th | nimble +5 |
-| 19th | deeds |
-| 20th | bonus feat, true grit |
+| Level | Special               |
+| ----- | --------------------- |
+| 1st   | deeds, grit, gunsmith |
+| 2nd   | nimble +1             |
+| 3rd   | deeds                 |
+| 4th   | bonus feat            |
+| 5th   | gun training 1        |
+| 6th   | nimble +2             |
+| 7th   | deeds                 |
+| 8th   | bonus feat            |
+| 9th   | gun training 2        |
+| 10th  | nimble +3             |
+| 11th  | deeds                 |
+| 12th  | bonus feat            |
+| 13th  | gun training 3        |
+| 14th  | nimble +4             |
+| 15th  | deeds                 |
+| 16th  | bonus feat            |
+| 17th  | gun training 4        |
+| 18th  | nimble +5             |
+| 19th  | deeds                 |
+| 20th  | bonus feat, true grit |
 
 ###### Class Features
 

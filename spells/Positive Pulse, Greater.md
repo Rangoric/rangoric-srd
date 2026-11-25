@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Positive Pulse, Greater
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Clr 4, Inq 4, Pal 3, Sor/Wiz 4, Spi 4, Sum 3, SumU 3, Wit 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Area**: 15-ft.-radius burst
-  - **Duration**: Instantaneous plus 1 round (see text)
-  - **Saving Throw**: Will negates; see text
-  - **Spell Resistance**: Yes
+- **Level**: Clr 4, Inq 4, Pal 3, Sor/Wiz 4, Spi 4, Sum 3, SumU 3, Wit 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Area**: 15-ft.-radius burst
+- **Duration**: Instantaneous plus 1 round (see text)
+- **Saving Throw**: Will negates; see text
+- **Spell Resistance**: Yes
 
 This spell functions like [[rangoric-srd/spells/Positive Pulse|positive pulse]], except that the damage dealt increases to 3d6 plus your caster level, and the bonus on saving throws increases to +8.

@@ -28,10 +28,10 @@ Adherents to the Aspect of the Dawn find the rising sun symbolizes the opportuni
 
 How these effects work is in [[rangoric-srd/races/aspects-of-nature/Aspects of Nature#Aspect of Nature Effects|Aspect of Nature Effects]].
 
-| Facet | Bonus | Penalty |
-| --- | --- | --- |
-| The Brilliant Sky | +1 to Will saving throws | -1 to Fortitude saving throws |
-| The Emerging Rays | +1 to Attack rolls 3x/day | -1 Damage rolls 3x/day |
-| Resplendent Beams | +1 AC 3x/day | -1 AC 3x/day |
-| The Rising Sun | capable spellcasting (fire) | crude spellcasting (cold) |
-| The Twilight | +1 to Reflex saving throws | -1 to Fortitude saving throws |
+| Facet             | Bonus                       | Penalty                       |
+| ----------------- | --------------------------- | ----------------------------- |
+| The Brilliant Sky | +1 to Will saving throws    | -1 to Fortitude saving throws |
+| The Emerging Rays | +1 to Attack rolls 3x/day   | -1 Damage rolls 3x/day        |
+| Resplendent Beams | +1 AC 3x/day                | -1 AC 3x/day                  |
+| The Rising Sun    | capable spellcasting (fire) | crude spellcasting (cold)     |
+| The Twilight      | +1 to Reflex saving throws  | -1 to Fortitude saving throws |

@@ -11,6 +11,6 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Great Charisma
 
-Benefit: The character’s Charisma increases by 1 point.  
+Benefit: The character’s Charisma increases by 1 point.
 
 Special: A character can gain this feat multiple times. Its effects stack.

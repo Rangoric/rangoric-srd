@@ -26,15 +26,15 @@ tags: [rangoric, rangoric/spell]
 
 # Fester, Mass
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Inq 6, [[rangoric-srd/class-options/domains/Swamp Domain|Swamp]] 6, Wit 6
-  - **Components**: V, S, M (rotted meat)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature/level, no two of which can be more than 30 ft. apart
-  - **Duration**: 1 round/level or 1 round; see text
-  - **Saving Throw**: Fortitude partial
-  - **Spell Resistance**: Yes
+- **Level**: Inq 6, [[rangoric-srd/class-options/domains/Swamp Domain|Swamp]] 6, Wit 6
+- **Components**: V, S, M (rotted meat)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature/level, no two of which can be more than 30 ft. apart
+- **Duration**: 1 round/level or 1 round; see text
+- **Saving Throw**: Fortitude partial
+- **Spell Resistance**: Yes
 
-This spell functions as *[[rangoric-srd/spells/Fester|fester]]*, except that it affects multiple foes.
+This spell functions as _[[rangoric-srd/spells/Fester|fester]]_, except that it affects multiple foes.

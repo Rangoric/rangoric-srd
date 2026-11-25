@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Noble Scion
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 4d8+2 (20 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 17 (+4 armor, +1 Dex, +2 shield), touch 11, flat-footed 16
-  - **Base Attack**: +3; **CMB**: +3; **CMD**: 14
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +5 melee (1d8+1/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Lance|lance]] +5 melee (1d8+1/×3) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +4 melee (1d4+1/19–20) or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +4 ranged (1d6/×3) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +4 ranged (1d4+1/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +5 melee (1d8+1/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Lance|lance]] +5 melee (1d8+1/×3); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +4 melee (1d4+1/19–20); or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +4 ranged (1d6/×3); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +4 ranged (1d4+1/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: —
-  - **Saves**: Fort +1, Ref +2, Will +3
-  - **Abilities**: Str 12, Dex 12, Con 11, Int 10, Wis 8, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Deception|Deception]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Perception|Perception]] +3, Perform (dance) +5, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +3, [[rangoric-srd/skills/Society|Society]] +5
-  - **Feats**: [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Trample|Trample]]
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 2
-  - **Treasure**: NPC gear (combat gear: potion of invisibility; other gear: masterwork chain shirt, masterwork heavy steel shield, masterwork lance, masterwork longsword, dagger, shortbow with 20 arrows, noble outfit, light horse (combat trained) with military saddle and studded leather barding, 32 gp)
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 4d8+2 (20 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 17 (+4 armor, +1 Dex, +2 shield), touch 11, flat-footed 16
+- **Base Attack**: +3; **CMB**: +3; **CMD**: 14
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +5 melee (1d8+1/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Lance|lance]] +5 melee (1d8+1/×3) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +4 melee (1d4+1/19–20) or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +4 ranged (1d6/×3) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +4 ranged (1d4+1/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +5 melee (1d8+1/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Lance|lance]] +5 melee (1d8+1/×3); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +4 melee (1d4+1/19–20); or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +4 ranged (1d6/×3); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +4 ranged (1d4+1/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: —
+- **Saves**: Fort +1, Ref +2, Will +3
+- **Abilities**: Str 12, Dex 12, Con 11, Int 10, Wis 8, Cha 13
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Deception|Deception]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Perception|Perception]] +3, Perform (dance) +5, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +3, [[rangoric-srd/skills/Society|Society]] +5
+- **Feats**: [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Trample|Trample]]
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 2
+- **Treasure**: NPC gear (combat gear: potion of invisibility; other gear: masterwork chain shirt, masterwork heavy steel shield, masterwork lance, masterwork longsword, dagger, shortbow with 20 arrows, noble outfit, light horse (combat trained) with military saddle and studded leather barding, 32 gp)
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A noble scion is a [[rangoric-srd/monsters/human/Human|human]] with 4 levels of [[rangoric-srd/classes/Aristocrat|aristocrat]]. Noble scions are the haughty and proud offspring of aristocratic sires, full of the fresh vigor of youth and all the hauteur of those born in a manor. They have received fine education and know a modicum of social graces, but typically practice them only when other highborn are present. Noble scions are scornful of commoners and vagabonds, who return the sentiment toward these peacocks strutting in their finery.
 

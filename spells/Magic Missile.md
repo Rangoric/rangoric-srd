@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Magic Missile
 
-*Evocation \[Force\]*
+_Evocation \[Force\]_
 
-  - **Level**: Blr 1, Mag 1, Psy 1, Sor/Wiz 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Targets**: Up to five creatures, no two of which can be more than 15 ft. apart
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Blr 1, Mag 1, Psy 1, Sor/Wiz 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Targets**: Up to five creatures, no two of which can be more than 15 ft. apart
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 A missile of magical energy darts forth from your fingertip and strikes its target, dealing 1d4+1 points of force damage.
 

@@ -18,13 +18,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Electric Blast
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#^simple-blasts|simple blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#^simple-blasts|simple blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Air Element|air]]
-  - **Type**: simple blast (Sp)
-  - **Level**: —
-  - **Burn**: 0
-  - **Blast Type**: energy
-  - **Damage**: electricity
+- **Element**: [[rangoric-srd/class-options/elements/Air Element|air]]
+- **Type**: simple blast (Sp)
+- **Level**: —
+- **Burn**: 0
+- **Blast Type**: energy
+- **Damage**: electricity
 
 You shoot an arc of electricity to shock a single foe.

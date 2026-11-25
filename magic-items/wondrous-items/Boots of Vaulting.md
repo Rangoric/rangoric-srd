@@ -25,4 +25,4 @@ The wearer of these suede boots ignores an additional 10 feet of falling distanc
 
 Using the boots in this fashion strains the lower body. If the wearer attempts a second such jump before at least 1 minute has passed, she must succeed at a Fortitude save with a DC equal to the DC of her second jump attempt or injure her legs. This injury reduces her speed by half for 24 hours, or until she is successfully treated with a DC 15 [[rangoric-srd/skills/Medicine|Medicine]] check or at least 1 point of magical healing. The DC of the Fortitude save increases by 5 for each additional jump attempted until at least 1 minute passes between jumps.
 
-Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Cat’s Grace|cat's grace]]*, *[[rangoric-srd/spells/Jump (Spell)|jump]]*; Price 3,500 gp; Cost 1,750 gp; Weight 1 lb.
+Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_, _[[rangoric-srd/spells/Jump (Spell)|jump]]_; Price 3,500 gp; Cost 1,750 gp; Weight 1 lb.

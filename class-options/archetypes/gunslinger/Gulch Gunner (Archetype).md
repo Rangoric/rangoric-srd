@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Gulch Gunner
 
-*A [[rangoric-srd/classes/Gunslinger#^gunslinger-archetypes|gunslinger]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Ratfolk|ratfolk]].*
+_A [[rangoric-srd/classes/Gunslinger#^gunslinger-archetypes|gunslinger]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Ratfolk|ratfolk]]._
 
 Ratfolk warfare often occurs in cramped, claustrophobic spaces such as the ratfolk's own underground warrens and heavily trapped gulch fortresses, or the subterranean tunnels of goblins and similar foes. Since these battlegrounds often have tight corners and few areas with long lines of sight, those ratfolk who seek to master the use of firearms almost inevitably become experts in close-quarters combat. These gulch gunners often specialize in proficiency with a single pistol (easily handled in tight spaces) and wander from warren to warren selling their tunnel-shooting skills to the highest bidder. A gulch gunner has the following class features.
 

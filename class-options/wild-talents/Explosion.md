@@ -18,14 +18,14 @@ tags: [rangoric, rangoric/class-option]
 
 # Explosion
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|form infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|form infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Fire Element|fire]]
-  - **Type**: form infusion
-  - **Level**: 7
-  - **Burn**: 4
-  - **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Extended Range|extended range]]
-  - **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Blue Flame Blast|blue flame]], [[rangoric-srd/class-options/wild-talents/Fire Blast|fire]]
-  - **Saving Throw**: Reflex half
+- **Element**: [[rangoric-srd/class-options/elements/Fire Element|fire]]
+- **Type**: form infusion
+- **Level**: 7
+- **Burn**: 4
+- **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Extended Range|extended range]]
+- **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Blue Flame Blast|blue flame]], [[rangoric-srd/class-options/wild-talents/Fire Blast|fire]]
+- **Saving Throw**: Reflex half
 
 You focus your energy on a point in space and create a controlled explosion. You can center the explosion anywhere within 120 feet of you, and you can choose the radius of the spread to be 5, 10, 15, or 20 feet. All creatures and objects within the explosion take your blast’s damage. The saving throw DC is Dexterity-based.

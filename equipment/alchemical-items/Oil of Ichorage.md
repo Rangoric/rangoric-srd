@@ -28,7 +28,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Oil of Ichorage
 
-*Unguent/Toxin; Special*
+_Unguent/Toxin; Special_
 
 This oddly named oil is utterly harmless if touched, eaten, or sprayed onto items. If it is exposed to blood (whether by contact or injury), the oil becomes highly acidic and causes immense burning in blood and in connected muscles and skin. Its initial activation creates a lot of heat and can permanently damage muscles, so the first Fort save (DC 18) must be successful to prevent the permanent loss of 1 point of Strength. The “ichorage” also induces 1d8 points of damage per round for 1d4 rounds, unless the character makes a successful Fort save (DC 18) each round for the duration. Unless magically healed, oil of ichorage leaves angry red welts as permanent scars at its wound points.
 

@@ -16,8 +16,8 @@ tags: [rangoric, rangoric/class-option]
 
 # Fey Blood, Greater
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su)._
 
-While raging, as long as the barbarian moves at least 10 feet, she gains the effects of *[[rangoric-srd/spells/Blur|blur]]* for 1 round.
+While raging, as long as the barbarian moves at least 10 feet, she gains the effects of _[[rangoric-srd/spells/Blur|blur]]_ for 1 round.
 
 A barbarian must have the [[rangoric-srd/class-options/rage-powers/Fey Blood (Rage Power)|fey blood]] rage power and be at least 10th level before selecting this rage power.

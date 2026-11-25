@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Stench of Prey
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Drd 3, Hun 3, Rgr 3, Sha 3
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Target**: One creature (see text)
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: Fortitude negates (see text)
-  - **Spell Resistance**: Yes
+- **Level**: Drd 3, Hun 3, Rgr 3, Sha 3
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Target**: One creature (see text)
+- **Duration**: 1 minute/level
+- **Saving Throw**: Fortitude negates (see text)
+- **Spell Resistance**: Yes
 
 The target exudes a strong odor that most predators recognize as the scent of helpless prey. The closest 1d4+1 predatory creatures within 30 feet must succeed at a Will save or start attacking the target (animals with the scent ability are affected if within 60 feet). If the predator is an animal, it can be called away from the target by a handler using the "down" trick or any effect that suspends or dispels emotion or rage effects.
 

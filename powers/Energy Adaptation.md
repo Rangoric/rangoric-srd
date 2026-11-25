@@ -30,7 +30,7 @@ Psychometabolism \[see text\]
 **Range:** Personal  
 **Target:** You  
 **Duration:** 10 min./level  
-**Power Points:** 7  
+**Power Points:** 7
 
 Your body assimilates some of the effect of an energy attack and converts it to harmless light. You gain [[rangoric-srd/monsters/abilities/Resistance|resistance]] 10 against any attack that deals acid, cold, electricity, fire, or sonic damage.
 

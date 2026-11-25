@@ -19,4 +19,4 @@ tags: [rangoric, rangoric/kingdom-building]
 - **Special**: Can share lot with Castle, Cathedral, Market, Monument, Park, or Town Hall
 - **Resource limit**: Settlement must have a building that can create medium magic items
 
-A fountain built around several *decanters of endless water* that provides an inexhaustible supply of fresh water.
+A fountain built around several _decanters of endless water_ that provides an inexhaustible supply of fresh water.

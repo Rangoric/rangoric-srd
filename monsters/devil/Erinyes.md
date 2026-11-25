@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Erinyes
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Devil, Evil, Extraplanar, Lawful)
-  - **Hit Dice**: 9d10+45 (94 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares), fly 50 ft. (good)
-  - **Armor Class**: 23 (+6 Dex, +1 dodge, +6 natural), touch 17, flat-footed 16
-  - **Base Attack**: +9; **CMB**: +14; **CMD**: 31
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +15 melee (1d8+8/19–20) or +1 flaming composite longbow +14 ranged (1d8+6/×3 plus 1d6 fire) or rope +15 ranged touch (entangle)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +15/+10 melee (1d8+8/19–20); or +1 flaming composite longbow +14/+14/+9 ranged (1d8+6/×3 plus 1d6 fire); or rope +15 ranged touch (entangle)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], *[[rangoric-srd/spells/True Seeing|true seeing]]*, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and cold 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
-  - **Saves**: Fort +11, Ref +12, Will +7
-  - **Abilities**: Str 20, Dex 23, Con 21, Int 14, Wis 18, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +8
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Shot on the Run|Shot on the Run]]
-  - **Environment**: A lawful evil-aligned plane
-  - **Organization**: Solitary or trio
-  - **Challenge Rating**: 8
-  - **Treasure**: Triple (+1 longsword, +1 flaming composite longbow [+5 Str bonus], rope)
-  - **Alignment**: Always lawful evil
-  - **Advancement**: 10–18 HD (Medium)
-  - **Level Adjustment**: +7
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Devil, Evil, Extraplanar, Lawful)
+- **Hit Dice**: 9d10+45 (94 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares), fly 50 ft. (good)
+- **Armor Class**: 23 (+6 Dex, +1 dodge, +6 natural), touch 17, flat-footed 16
+- **Base Attack**: +9; **CMB**: +14; **CMD**: 31
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +15 melee (1d8+8/19–20) or +1 flaming composite longbow +14 ranged (1d8+6/×3 plus 1d6 fire) or rope +15 ranged touch (entangle)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +15/+10 melee (1d8+8/19–20); or +1 flaming composite longbow +14/+14/+9 ranged (1d8+6/×3 plus 1d6 fire); or rope +15 ranged touch (entangle)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], _[[rangoric-srd/spells/True Seeing|true seeing]]_, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and cold 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
+- **Saves**: Fort +11, Ref +12, Will +7
+- **Abilities**: Str 20, Dex 23, Con 21, Int 14, Wis 18, Cha 21
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +8
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Shot on the Run|Shot on the Run]]
+- **Environment**: A lawful evil-aligned plane
+- **Organization**: Solitary or trio
+- **Challenge Rating**: 8
+- **Treasure**: Triple (+1 longsword, +1 flaming composite longbow [+5 Str bonus], rope)
+- **Alignment**: Always lawful evil
+- **Advancement**: 10–18 HD (Medium)
+- **Level Adjustment**: +7
 
 Known by many names—the Fallen, the Ash Wings, and the Furies—the devils called erinyes mock the form of the angelic hosts in their exaction of vengeance and bloody justice. Executioners, not judges, erinyes alight upon the bladed eaves of infernal cities, ever attentive for chances to soar into battle, whether in defense of their plane, on the whims of diabolical masters, or at the impassioned summons of jilted mortal summoners. All erinyes weave deadly living ropes from their own hair, which they use in battle to lift their foes into the air, mocking and condemning their victims for their transgressions before dropping them from great heights.
 
@@ -76,6 +76,6 @@ Erinyes speak Celestial, Common, Draconic and Infernal.
 
 Erinyes prefer to engage in combat from a distance. They use [[rangoric-srd/spells/Charm Monster|charm monster]] to distract or disorganize their opponents, then rain down fiery arrows from above.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th): Constant—*[[rangoric-srd/spells/True Seeing|true seeing]]*; At will—*[[rangoric-srd/spells/Fear|fear]]* (single target, DC 19), *[[rangoric-srd/spells/Teleport, Greater|greater teleport]]* (self plus 50 lbs. of objects only), *[[rangoric-srd/spells/Minor Image|minor image]]* (DC 17), *[[rangoric-srd/spells/Unholy Blight|unholy blight]]* (DC 19); 1/day—[[rangoric-srd/monsters/abilities/Summon|summon]] (level 3, 2 [[rangoric-srd/monsters/devil/Bearded Devil (Barbazu)|bearded devils]], 50%).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th): Constant—_[[rangoric-srd/spells/True Seeing|true seeing]]_; At will—_[[rangoric-srd/spells/Fear|fear]]_ (single target, DC 19), _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Minor Image|minor image]]_ (DC 17), _[[rangoric-srd/spells/Unholy Blight|unholy blight]]_ (DC 19); 1/day—[[rangoric-srd/monsters/abilities/Summon|summon]] (level 3, 2 [[rangoric-srd/monsters/devil/Bearded Devil (Barbazu)|bearded devils]], 50%).
 
-**Entangle (Su)**: Each erinyes carries a 50-foot-long rope that entangles opponents of any size as an *[[rangoric-srd/spells/Animate Rope|animate rope]]* spell (CL 16th, DC 20). An erinyes can hurl its rope 30 feet with no range penalty. An erinyes's rope functions only for the erinyes who made it and no other. The save DC is Dexterity-based.
+**Entangle (Su)**: Each erinyes carries a 50-foot-long rope that entangles opponents of any size as an _[[rangoric-srd/spells/Animate Rope|animate rope]]_ spell (CL 16th, DC 20). An erinyes can hurl its rope 30 feet with no range penalty. An erinyes's rope functions only for the erinyes who made it and no other. The save DC is Dexterity-based.

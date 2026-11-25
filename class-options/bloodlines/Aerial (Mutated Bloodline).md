@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Aerial
 
-*A [[rangoric-srd/class-options/bloodlines/Bloodlines#Mutated Bloodlines|mutated bloodline]] of the [[rangoric-srd/class-options/bloodlines/Stormborn Bloodline|stormborn bloodline]], for a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] [[rangoric-srd/classes/Sorcerer|sorcerer]].*
+_A [[rangoric-srd/class-options/bloodlines/Bloodlines#Mutated Bloodlines|mutated bloodline]] of the [[rangoric-srd/class-options/bloodlines/Stormborn Bloodline|stormborn bloodline]], for a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] [[rangoric-srd/classes/Sorcerer|sorcerer]]._
 
 Your magic is more focused on the power of air and rain than on lightning and thunder.
 
@@ -25,4 +25,4 @@ Your magic is more focused on the power of air and rain than on lightning and th
 
 **Bloodline Powers**: The greatest storms bring ruin through wind, not electricity.
 
-**Windcaller (Sp)**: At 9th level, you can call the winds to obey your commands for 1 minute per level. This functions like *[[rangoric-srd/spells/Control Winds|control winds]]*, except that you may choose to be immune to any increased wind effects you create. The ability's duration does not need to be consecutive, but it must be used in 1-minute increments. This bloodline power replaces [[rangoric-srd/class-options/bloodlines/Stormborn Bloodline|thunderbolt]].
+**Windcaller (Sp)**: At 9th level, you can call the winds to obey your commands for 1 minute per level. This functions like _[[rangoric-srd/spells/Control Winds|control winds]]_, except that you may choose to be immune to any increased wind effects you create. The ability's duration does not need to be consecutive, but it must be used in 1-minute increments. This bloodline power replaces [[rangoric-srd/class-options/bloodlines/Stormborn Bloodline|thunderbolt]].

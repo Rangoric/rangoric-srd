@@ -37,23 +37,23 @@ Skill Points at Each Level: 2 + Int modifier.
 
 Table: The High Proselytizer
 
-|       |                                  |                                        |
-| ----- | -------------------------------- | -------------------------------------- |
-| Level | Special                          | Spells per Day                         |
-| 1st   | Proselytize 1/day                |                                        |
+|       |                                  |                                       |
+| ----- | -------------------------------- | ------------------------------------- |
+| Level | Special                          | Spells per Day                        |
+| 1st   | Proselytize 1/day                |                                       |
 | 2nd   | Heal 1/day                       | +1 level of divine spellcasting class |
-| 3rd   | Proselytize (deific touch) 1/day |                                        |
+| 3rd   | Proselytize (deific touch) 1/day |                                       |
 | 4th   | Bonus feat                       | +1 level of divine spellcasting class |
-| 5th   | Proselytize (deific word) 1/day  |                                        |
+| 5th   | Proselytize (deific word) 1/day  |                                       |
 | 6th   | Heal 2/day                       | +1 level of divine spellcasting class |
-| 7th   | Proselytize (deific face) 1/day  |                                        |
+| 7th   | Proselytize (deific face) 1/day  |                                       |
 | 8th   | Bonus feat                       | +1 level of divine spellcasting class |
-| 9th   | Proselytize (deific aura) 1/day  |                                        |
+| 9th   | Proselytize (deific aura) 1/day  |                                       |
 | 10th  | Heal 3/day                       | +1 level of divine spellcasting class |
 
 ###### Class Features
 
-The following are class features of the high proselytizer prestige class.  
+The following are class features of the high proselytizer prestige class.
 
 Weapon and Armor Proficiency: High proselytizers are proficient with all simple weapons, all armor, and all shields.
 
@@ -61,7 +61,7 @@ Spells per Day: At every other high proselytizer level, the character gains new 
 
 Proselytize (Sp): At 1st level, the high proselytizer gains the ability to preach the word of his or her deity to large crowds with great effect. He or she may speak in such a manner once per day, plus one additional time per day per ten class levels thereafter.
 
-Proselytize has three effects. First, any time the high proselytizer is speaking in this manner, he or she is treated as though affected by a sanctuary spell. Second, his or her voice can be heard clearly by anyone within a radius of 100 feet plus 50 feet per class level, regardless of background noise, and his or her speech can be understood as though the audience were affected by a comprehend languages spell. Finally, everyone in the range of the high proselytizer’s voice immediately has a chance of becoming enraptured:  
+Proselytize has three effects. First, any time the high proselytizer is speaking in this manner, he or she is treated as though affected by a sanctuary spell. Second, his or her voice can be heard clearly by anyone within a radius of 100 feet plus 50 feet per class level, regardless of background noise, and his or her speech can be understood as though the audience were affected by a comprehend languages spell. Finally, everyone in the range of the high proselytizer’s voice immediately has a chance of becoming enraptured:
 
 | Type of Listener             | Effect                                                                                                        |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------- |

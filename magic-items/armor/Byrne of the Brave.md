@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Byrne of the Brave
 
-This *+2* [[rangoric-srd/equipment/armor/Chain Shirt|chain shirt]] instills its wearer with a sense of fearlessness, providing a +4 bonus to Will saves against fear or fear-like effects.
+This _+2_ [[rangoric-srd/equipment/armor/Chain Shirt|chain shirt]] instills its wearer with a sense of fearlessness, providing a +4 bonus to Will saves against fear or fear-like effects.
 
-Faint abjuration; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Remove Fear|remove fear]]*; Price 9,250 gp; Weight 25 lb.
+Faint abjuration; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Remove Fear|remove fear]]_; Price 9,250 gp; Weight 25 lb.

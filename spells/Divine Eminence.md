@@ -24,15 +24,15 @@ tags: [rangoric, rangoric/spell]
 
 # Divine Eminence
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Clr 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Clr 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 The caster chooses one ability score. The subject’s score for that ability is changed to 18, plus one per three caster levels (30 maximum). If the subject’s current ability score is already higher than this amount, the spell has no effect.

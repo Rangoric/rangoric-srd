@@ -28,15 +28,15 @@ tags: [rangoric, rangoric/spell]
 
 # Cold Ice Strike
 
-*Evocation \[Cold\]*
+_Evocation \[Cold\]_
 
-  - **Level**: Clr 6, Occ 6, Sor/Wiz 6
-  - **Components**: V, S
-  - **Casting Time**: 1 swift action
-  - **Range**: 30 ft.
-  - **Area**: 30-ft. line
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Reflex half
-  - **Spell Resistance**: Yes
+- **Level**: Clr 6, Occ 6, Sor/Wiz 6
+- **Components**: V, S
+- **Casting Time**: 1 swift action
+- **Range**: 30 ft.
+- **Area**: 30-ft. line
+- **Duration**: Instantaneous
+- **Saving Throw**: Reflex half
+- **Spell Resistance**: Yes
 
 You create a shredding flurry of ice slivers, which blast from your hand in a line. The line deals 1d6 points of cold damage per caster level (maximum 15d6).

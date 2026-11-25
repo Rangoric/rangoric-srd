@@ -26,12 +26,12 @@ The standard coin weighs about a third of an ounce (fifty to the pound).
 
 **Table: Coins**
 
-|                     |    | Exchange Value: CP | Exchange Value: SP | Exchange Value: GP | Exchange Value: PP |
-| ------------------- | -- | ------------------ | ------------------ | ------------------ | ------------------ |
-| Copper piece (cp)   | \= | 1                  | 1/10               | 1/100              | 1/1,000            |
-| Silver piece (sp)   | \= | 10                 | 1                  | 1/10               | 1/100              |
-| Gold piece (gp)     | \= | 100                | 10                 | 1                  | 1/10               |
-| Platinum piece (pp) | \= | 1,000              | 100                | 10                 | 1                  |
+|                     |     | Exchange Value: CP | Exchange Value: SP | Exchange Value: GP | Exchange Value: PP |
+| ------------------- | --- | ------------------ | ------------------ | ------------------ | ------------------ |
+| Copper piece (cp)   | \=  | 1                  | 1/10               | 1/100              | 1/1,000            |
+| Silver piece (sp)   | \=  | 10                 | 1                  | 1/10               | 1/100              |
+| Gold piece (gp)     | \=  | 100                | 10                 | 1                  | 1/10               |
+| Platinum piece (pp) | \=  | 1,000              | 100                | 10                 | 1                  |
 
 ##### Wealth Other than Coins
 
@@ -39,37 +39,37 @@ Merchants commonly exchange trade goods without using currency. As a means of co
 
 **Table: Trade Goods**
 
-| Cost   | Item                                        |
-| ------ | ------------------------------------------- |
-| 1 cp   | One pound of wheat                          |
-| 2 cp   | One pound of flour, or one chicken          |
-| 1 sp   | One pound of iron                           |
-| 5 sp   | One pound of tobacco or copper              |
-| 1 gp   | One pound of cinnamon, or one goat          |
-| 2 gp   | One pound of ginger or pepper, or one sheep |
-| 3 gp   | One pig                                     |
-| 4 gp   | One square yard of linen                    |
-| 5 gp   | One pound of salt or silver                 |
-| 10 gp  | One square yard of silk, or one cow         |
-| 15 gp  | One pound of saffron or cloves, or one ox   |
-| 50 gp  | One pound of gold                           |
-| 500 gp | One pound of platinum                       |
-| 1 cp | One guinea pig or rat |
-| 2 cp | One pound of beans, cheese, potatoes, or turnips |
-| 3 cp | One pound of citrus or nuts; 20 pounds of charcoal or peat |
-| 5 cp | One pound of coffee beans, masonry stone, or sugar; 20 pounds of coal |
-| 5 sp | One pound of garlic, mint, mustard, or oregano; one square yard of thin leather |
-| 1 gp | One pound of allspice, basil, dill, glass, honey, maple syrup, nutmeg, or rosemary |
-| 2 gp | One pound of chilies, cardamom, cumin, fennel, or vanilla; one beaver pelt |
-| 3 gp | One square yard of thick leather; one fox pelt or mink pelt |
-| 4 gp | One ermine pelt |
-| 5 gp | One pound of marble; one seal pelt |
-| 6 gp | One pound or square yard of wool |
-| 8 gp | One pound or square yard of cotton |
-| 10 gp | One pound of chocolate or darkwood |
-| 50 gp | One pound of cold iron |
-| 300 gp | One pound of adamantine |
-| 500 gp | One pound of mithral |
+| Cost   | Item                                                                               |
+| ------ | ---------------------------------------------------------------------------------- |
+| 1 cp   | One pound of wheat                                                                 |
+| 2 cp   | One pound of flour, or one chicken                                                 |
+| 1 sp   | One pound of iron                                                                  |
+| 5 sp   | One pound of tobacco or copper                                                     |
+| 1 gp   | One pound of cinnamon, or one goat                                                 |
+| 2 gp   | One pound of ginger or pepper, or one sheep                                        |
+| 3 gp   | One pig                                                                            |
+| 4 gp   | One square yard of linen                                                           |
+| 5 gp   | One pound of salt or silver                                                        |
+| 10 gp  | One square yard of silk, or one cow                                                |
+| 15 gp  | One pound of saffron or cloves, or one ox                                          |
+| 50 gp  | One pound of gold                                                                  |
+| 500 gp | One pound of platinum                                                              |
+| 1 cp   | One guinea pig or rat                                                              |
+| 2 cp   | One pound of beans, cheese, potatoes, or turnips                                   |
+| 3 cp   | One pound of citrus or nuts; 20 pounds of charcoal or peat                         |
+| 5 cp   | One pound of coffee beans, masonry stone, or sugar; 20 pounds of coal              |
+| 5 sp   | One pound of garlic, mint, mustard, or oregano; one square yard of thin leather    |
+| 1 gp   | One pound of allspice, basil, dill, glass, honey, maple syrup, nutmeg, or rosemary |
+| 2 gp   | One pound of chilies, cardamom, cumin, fennel, or vanilla; one beaver pelt         |
+| 3 gp   | One square yard of thick leather; one fox pelt or mink pelt                        |
+| 4 gp   | One ermine pelt                                                                    |
+| 5 gp   | One pound of marble; one seal pelt                                                 |
+| 6 gp   | One pound or square yard of wool                                                   |
+| 8 gp   | One pound or square yard of cotton                                                 |
+| 10 gp  | One pound of chocolate or darkwood                                                 |
+| 50 gp  | One pound of cold iron                                                             |
+| 300 gp | One pound of adamantine                                                            |
+| 500 gp | One pound of mithral                                                               |
 
 ###### Trade Goods
 

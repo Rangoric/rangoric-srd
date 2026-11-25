@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/spears]
 
 # Lance
 
-*Martial two-handed melee weapon (reach).* Cost 10 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 10 lb.; Type Piercing. ^stats
+_Martial two-handed melee weapon (reach)._ Cost 10 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 10 lb.; Type Piercing. ^stats
 
 A lance deals double damage when used from the back of a charging mount. It has reach, so you can strike opponents 10 feet away with it, but you can’t use it against an adjacent foe.
 

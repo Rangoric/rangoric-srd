@@ -41,16 +41,16 @@ tags: [rangoric, rangoric/spell]
 
 # Cure Light Wounds
 
-*Conjuration (Healing)*
+_Conjuration (Healing)_
 
-  - **Level**: Alc 1, Apo 1, Brd 1, Clr 1, Drd 1, Fhn 1, Healing 1, Hun 1, Inq 1, Msl 1, Occ 1, Pal 1, Rgr 2, Sha 1, Skd 1, Spi 1, Tot 1, Wit 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will half (harmless); see text
-  - **Spell Resistance**: Yes (harmless); see text
+- **Level**: Alc 1, Apo 1, Brd 1, Clr 1, Drd 1, Fhn 1, Healing 1, Hun 1, Inq 1, Msl 1, Occ 1, Pal 1, Rgr 2, Sha 1, Skd 1, Spi 1, Tot 1, Wit 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: Instantaneous
+- **Saving Throw**: Will half (harmless); see text
+- **Spell Resistance**: Yes (harmless); see text
 
 When laying your hand upon a living creature, you channel positive energy that cures 1d8 points of damage +1 point per caster level (maximum +5).
 

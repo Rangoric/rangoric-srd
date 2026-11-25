@@ -61,20 +61,20 @@ If the crowd is helpful toward one side of the combat and a member of that side 
 Whenever a combatant has a chance to affect the crowd's attitude, she makes a performance combat check. The check is a Charisma ability check modified by the base attack bonus of the character plus any ranks the character has in [[rangoric-srd/skills/Performance|Performance]] (act), Performance (comedy), or Performance (dance), whichever is highest, as the two tables below give. Making a performance combat check is usually a swift action, triggered when a combatant performs a trigger action (see [[#Affecting the Crowd's Attitude]]). ^performance-combat-check
 
 | Base Attack Bonus | Bonus on Performance Combat Check |
-| --- | --- |
-| 0 | +0 |
-| 1–5 | +1 |
-| 6–10 | +2 |
-| 11–15 | +3 |
-| 16+ | +4 |
+| ----------------- | --------------------------------- |
+| 0                 | +0                                |
+| 1–5               | +1                                |
+| 6–10              | +2                                |
+| 11–15             | +3                                |
+| 16+               | +4                                |
 
 | Highest Performance Ranks | Bonus on Performance Combat Check |
-| --- | --- |
-| 0 | +0 |
-| 1–5 | +1 |
-| 6–10 | +2 |
-| 11–15 | +3 |
-| 16+ | +4 |
+| ------------------------- | --------------------------------- |
+| 0                         | +0                                |
+| 1–5                       | +1                                |
+| 6–10                      | +2                                |
+| 11–15                     | +3                                |
+| 16+                       | +4                                |
 
 Using a [[rangoric-srd/equipment/Performance (Quality)|performance weapon]] grants a combatant a +2 bonus on performance combat checks. Some feats, spells, or other circumstances may grant a combatant a bonus on performance combat checks.
 
@@ -84,13 +84,13 @@ Succeeding at a performance combat check improves the attitude of the crowd by o
 
 The performance combat check's DC is based on a number of factors, including the starting or current attitude of the crowd, the size of the crowd, and the number of creatures participating in the performance combat. The base DC of the performance combat check is determined by the current attitude of the crowd toward the side of combat.
 
-| Starting or Current Attitude | Base DC to Improve Attitude |
-| --- | --- |
-| Hostile | 20 |
-| Unfriendly | 15 |
-| Indifferent | 10 |
-| Friendly | 15 |
-| Helpful | 20 (the DC to gain a victory point) |
+| Starting or Current Attitude | Base DC to Improve Attitude         |
+| ---------------------------- | ----------------------------------- |
+| Hostile                      | 20                                  |
+| Unfriendly                   | 15                                  |
+| Indifferent                  | 10                                  |
+| Friendly                     | 15                                  |
+| Helpful                      | 20 (the DC to gain a victory point) |
 
 The base DC is modified by the size of the crowd, the number of participants on each side, and a number of other circumstances.
 
@@ -122,12 +122,12 @@ Other circumstances that always affect the DC to improve the attitude of the cro
 
 **Cheating**: If one side visibly cheats or breaks the rules, the DC for that side of the performance combat to improve the attitude of the crowd increases by 2 for the remainder of the performance combat. This increase can occur multiple times in a battle. For the purpose of spotting cheating, determine the base [[rangoric-srd/skills/Perception|Perception]] and [[rangoric-srd/skills/Sense Motive|Sense Motive]] for the average member of a crowd (usually +0 if you assume an average human) and apply the following modifiers based on crowd size. The DC is based on whatever action the combatant is using to hide any cheating (usually [[rangoric-srd/skills/Deception|Deception]] or [[rangoric-srd/skills/Stealth|Stealth]]).
 
-| Crowd Size | Bonus on Perception and Sense Motive Checks to Spot Cheating |
-| --- | --- |
-| Small crowd | +8 |
-| Medium crowd | +12 |
-| Large crowd | +16 |
-| Massive mob | +20 |
+| Crowd Size   | Bonus on Perception and Sense Motive Checks to Spot Cheating |
+| ------------ | ------------------------------------------------------------ |
+| Small crowd  | +8                                                           |
+| Medium crowd | +12                                                          |
+| Large crowd  | +16                                                          |
+| Massive mob  | +20                                                          |
 
 **Outnumbered**: If one side of the battle outnumbers the others by less than a 2:1 ratio, the DC for that side to improve the attitude of the crowd or to gain victory points increases by 2. If one side outnumbers all others by a ratio of 2:1 or more, the DC for that side to improve the attitude of the crowd increases by 6. These increases to the DC end or are reduced to the appropriate level if the numbers become even or if the 2:1 ratio of combatants is ever brought down to outnumbering the other sides by less than a 2:1 ratio.
 
@@ -135,12 +135,12 @@ Other circumstances that always affect the DC to improve the attitude of the cro
 
 **Bribery or Coercion**: Crowds can be bribed or coerced. Typically a successful bribe or attempt at coercion involves paying some amount of gold based on the crowd size, and succeeding at a [[rangoric-srd/skills/Persuasion|Persuasion]] check with a DC based on the size of the crowd. If the gold is paid and the Persuasion check fails, the side gains a penalty for cheating instead, though the gold is still spent. If the check succeeds, the DC to improve crowd reaction and gain victory points decreases by 2. For every 5 points over the DC by which the combatants make the check, the DC to improve the crowd's attitude or to gain a victory point decreases by 1.
 
-| Crowd Size | Persuasion DC | Gold Paid |
-| --- | --- | --- |
-| Small crowd | DC 15 | 25 gp |
-| Medium crowd | DC 20 | 250 gp |
-| Large crowd | DC 25 | 750 gp |
-| Massive mob | DC 30 | 2,000 gp |
+| Crowd Size   | Persuasion DC | Gold Paid |
+| ------------ | ------------- | --------- |
+| Small crowd  | DC 15         | 25 gp     |
+| Medium crowd | DC 20         | 250 gp    |
+| Large crowd  | DC 25         | 750 gp    |
+| Massive mob  | DC 30         | 2,000 gp  |
 
 ### Affecting the Crowd's Attitude
 
@@ -162,7 +162,7 @@ The following triggers allow a character participating in a performance combat t
 
 **Dealing Maximum Damage**: Whenever a combatant deals maximum damage with a damage roll (weapon or spell, but not including sneak attack or other variable precision damage), she can make a performance combat check as a swift action. She gains a penalty or bonus on this check based on the type of weapon or spell she uses. Light weapons take a –4 penalty on the check, one-handed weapons grant neither a bonus or a penalty, and two-handed or exotic weapons grant a +2 circumstance bonus on the check. Spells grant a bonus on the performance combat check equal to half their spell level.
 
-**Energy Spells and Effects**: Crowds tend to respond to flashy spells and effects. If a combatant casts a spell or produces an effect that deals acid, cold, fire, electricity, force, or sonic damage in a visible way (including weapons with special abilities like *[[rangoric-srd/magic-items/weapon-abilities/Flaming Burst|flaming burst]]* or *[[rangoric-srd/magic-items/weapon-abilities/Shocking Burst|shocking burst]]* that deal bursts of energy damage on critical hits), she can make a performance combat check as a swift action.
+**Energy Spells and Effects**: Crowds tend to respond to flashy spells and effects. If a combatant casts a spell or produces an effect that deals acid, cold, fire, electricity, force, or sonic damage in a visible way (including weapons with special abilities like _[[rangoric-srd/magic-items/weapon-abilities/Flaming Burst|flaming burst]]_ or _[[rangoric-srd/magic-items/weapon-abilities/Shocking Burst|shocking burst]]_ that deal bursts of energy damage on critical hits), she can make a performance combat check as a swift action.
 
 **Feint**: If a combatant successfully [[rangoric-srd/combat/Combat Special Attacks#Feint|feints]] against an enemy, she can make a performance combat check as a swift action.
 
@@ -186,7 +186,7 @@ The following triggers allow a combatant to make a performance combat check as a
 
 The following performance combat checks must be attempted whenever possible. These checks don't improve a crowd's attitude, and the combatant gains no benefit from performance feats with these checks. Failing them typically has a detrimental effect on a crowd's attitude. If the crowd cannot see the action that triggered these checks, the combatant who performed it does not need to make the check. Making a performance check for one of these triggers is not an action.
 
-**Magical Healing**: Crowds tend to dislike the use of magical healing; some crowds even see it as cheating. On a turn when a combatant casts a healing spell or other healing effect, or uses a healing spell trigger, spell completion, or use-activated item (including forcing a *potion of cure light wounds* or similar potion down the throat of an opponent) she must make a performance combat check. Success yields no change to the attitude of the crowd, but any failure reduces the crowd's attitude by one step.
+**Magical Healing**: Crowds tend to dislike the use of magical healing; some crowds even see it as cheating. On a turn when a combatant casts a healing spell or other healing effect, or uses a healing spell trigger, spell completion, or use-activated item (including forcing a _potion of cure light wounds_ or similar potion down the throat of an opponent) she must make a performance combat check. Success yields no change to the attitude of the crowd, but any failure reduces the crowd's attitude by one step.
 
 **Rolling a Natural 1**: When a combatant rolls a natural 1 on an attack roll or a saving throw, she must make a performance combat check. A success does not affect the crowd in any way, but any failure reduces the crowd's attitude by one step.
 
@@ -218,10 +218,10 @@ If a side of the performance combat starts with at least 1 victory point per mem
 
 ### Performance Feats
 
-[[rangoric-srd/feats/Feats Overview#^performance-feats|Performance feats]] grant a special action when you make a performance combat check. Every feat with the tag *performance*, from the [[rangoric-srd/feats/Feats Index.base|Feats Index]]:
+[[rangoric-srd/feats/Feats Overview#^performance-feats|Performance feats]] grant a special action when you make a performance combat check. Every feat with the tag _performance_, from the [[rangoric-srd/feats/Feats Index.base|Feats Index]]:
 
 ![[rangoric-srd/feats/Feats Index.base#performance]]
 
-Every feat for performance combat, the performance feats among them, carries the tag *performance-combat*:
+Every feat for performance combat, the performance feats among them, carries the tag _performance-combat_:
 
 ![[rangoric-srd/feats/Feats Index.base#performance-combat]]

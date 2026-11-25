@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Dread Howl
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “dread howl”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “dread howl”, on the Special Attacks line.
 
 Once per day, a baykok can unleash a blood-curdling howl. Any living creature within a 30-foot-radius burst becomes [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] with fear for 1 round unless it resists with a DC 19 Will save. Any creature that makes this saving throw is instead [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round. This is a fear effect. The DC is Charisma-based. The [[rangoric-srd/monsters/Baykok|baykok]] has it.

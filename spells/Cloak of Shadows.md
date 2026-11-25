@@ -31,14 +31,14 @@ tags: [rangoric, rangoric/spell]
 
 # Cloak of Shadows
 
-*Illusion (Shadow) \[Evil, Shadow\]*
+_Illusion (Shadow) \[Evil, Shadow\]_
 
-  - **Level**: Apl 4, Brd 5, Skd 5, Sor/Wiz 5, Spi 5
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: Caster level minute(s)
-  - **Spell Resistance**: No
+- **Level**: Apl 4, Brd 5, Skd 5, Sor/Wiz 5, Spi 5
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: Caster level minute(s)
+- **Spell Resistance**: No
 
 You wrap yourself in a protective mantle of semi-real shadow. This grants a number of advantages: you gain concealment (20% miss chance), a +5 competence bonus on Stealth checks, and DR 5/good. This shroud of shadows also protects you from direct sunlight, negating sunlight vulnerability, sunlight powerlessness, and similar effects. When you are in dim light or darkness, the first two benefits increase against foes that don't have darkvision or the see in darkness ability. Such creatures suffer a 50% miss chance (though you don't gain total concealment) and your competence bonus on Stealth checks increases to +10 with respect to such creatures.

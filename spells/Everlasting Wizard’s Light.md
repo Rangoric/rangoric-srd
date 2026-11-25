@@ -22,10 +22,10 @@ tags: [rangoric, rangoric/spell]
 
 # Everlasting Wizard’s Light
 
-*Divination*
+_Divination_
 
-  - **Level**: Sor/Wiz 3
-  - **Components**: V, S, M, F, XP
-  - **Duration**: Permanent
+- **Level**: Sor/Wiz 3
+- **Components**: V, S, M, F, XP
+- **Duration**: Permanent
 
-As *[[rangoric-srd/spells/Wizard’s Light|wizard’s light]]* except that the effect is permanent. An additional material component is a 250 gp sapphire, which is powdered and sprinkled over the object touched. XP Cost: 50 XP
+As _[[rangoric-srd/spells/Wizard’s Light|wizard’s light]]_ except that the effect is permanent. An additional material component is a 250 gp sapphire, which is powdered and sprinkled over the object touched. XP Cost: 50 XP

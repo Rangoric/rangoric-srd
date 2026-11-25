@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Saving Finale
 
-*Evocation \[Mind-affecting\]*
+_Evocation \[Mind-affecting\]_
 
-  - **Level**: Brd 1, Skd 1
-  - **Components**: V, S
-  - **Casting Time**: 1 immediate action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One living creature
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Brd 1, Skd 1
+- **Components**: V, S
+- **Casting Time**: 1 immediate action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One living creature
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 You must have a bardic performance in effect to cast this spell. With a flourish, you can immediately end your bardic performance when a creature within range affected by your bardic performance fails a saving throw, allowing the subject to immediately reroll the failed saving throw.

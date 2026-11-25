@@ -32,7 +32,7 @@ Psychometabolism
 **Duration:** Instantaneous  
 **Saving Throw:** Fortitude negates  
 **Power Resistance:** Yes  
-**Power Points:** 7  
+**Power Points:** 7
 
 This power shrouds your hand or a natural weapon you possess with darkness that you can use to drain an opponent’s power.
 

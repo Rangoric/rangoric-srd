@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 These gloves are made of goatskin reinforced with heavy iron strips. They provide a sure, strengthened grip on large or awkwardly shaped items. When the wearer wields an [[rangoric-srd/equipment/Equipment Weapons#^improvised-weapons|improvised melee weapon]] or inappropriately sized weapon, reduce the penalty for doing so by 2 (minimum 0). The gloves don't change the number of hands required to wield such a weapon.
 
-Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*, *[[rangoric-srd/spells/Enlarge Person|enlarge person]]*; Price 4,000 gp; Cost 2,000 gp; Weight 2 lbs.
+Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_; Price 4,000 gp; Cost 2,000 gp; Weight 2 lbs.

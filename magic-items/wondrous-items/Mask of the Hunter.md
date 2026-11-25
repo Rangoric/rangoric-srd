@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Mask of the Hunter
 
-This wooden mask is carved to resemble a face made up of curling leaves, with a pair of deer antlers sprouting from its forehead. While worn, the *mask of the hunter* grants a +5 enhancement bonus on all [[rangoric-srd/skills/Stealth|Stealth]] and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks while outdoors in a natural setting.
+This wooden mask is carved to resemble a face made up of curling leaves, with a pair of deer antlers sprouting from its forehead. While worn, the _mask of the hunter_ grants a +5 enhancement bonus on all [[rangoric-srd/skills/Stealth|Stealth]] and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks while outdoors in a natural setting.
 
 Faint illusion; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], spellcaster level 5th+; Price 4,000 gp; Cost 2,000 gp + 160 XP.

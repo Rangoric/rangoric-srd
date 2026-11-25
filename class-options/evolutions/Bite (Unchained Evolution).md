@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Bite
 
-*A 1-point evolution (Ex) for an [[rangoric-srd/classes/Unchained Summoner|unchained summoner]]’s eidolon.*
+_A 1-point evolution (Ex) for an [[rangoric-srd/classes/Unchained Summoner|unchained summoner]]’s eidolon._
 
-The eidolon’s maw is full of razor-sharp teeth, giving it a bite attack. This attack is a primary attack. The bite deals 1d6 points of damage (1d8 if Large, 2d6 if Huge). If the eidolon already has a bite attack, this evolution allows it to deal 1-1/2 times its Strength modifier on damage rolls made with its bite. *Requirements*: Agathion, daemon, demon, devil, div, elemental, protean, or psychopomp subtype.
+The eidolon’s maw is full of razor-sharp teeth, giving it a bite attack. This attack is a primary attack. The bite deals 1d6 points of damage (1d8 if Large, 2d6 if Huge). If the eidolon already has a bite attack, this evolution allows it to deal 1-1/2 times its Strength modifier on damage rolls made with its bite. _Requirements_: Agathion, daemon, demon, devil, div, elemental, protean, or psychopomp subtype.

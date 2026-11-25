@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Psionic Weapon
 
-You can charge your melee weapon with additional damage potential.  
+You can charge your melee weapon with additional damage potential.
 
 Prerequisite: Str 13.
 

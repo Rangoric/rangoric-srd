@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Coax Information
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex).*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex)._
 
 A rogue with this talent can use Deception or Persuasion in place of Intimidation to force an opponent to act friendly toward her. When the duration of the attitude shift ends, that opponents' attitude toward the rogue returns to its previous level, rather than dropping one level.

@@ -35,15 +35,15 @@ tags: [rangoric, rangoric/spell]
 
 # Returning Weapon, Communal
 
-*Conjuration (Teleportation)*
+_Conjuration (Teleportation)_
 
-  - **Level**: Brd 3, Clr 3, Hun 2, Inq 2, Mag 2, Occ 2, Psy 3, Rgr 2, Skd 3, Sor/Wiz 3, Wit 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: Weapons that can be thrown
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: Will negates (harmless, object)
-  - **Spell Resistance**: Yes (harmless, object)
+- **Level**: Brd 3, Clr 3, Hun 2, Inq 2, Mag 2, Occ 2, Psy 3, Rgr 2, Skd 3, Sor/Wiz 3, Wit 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: Weapons that can be thrown
+- **Duration**: 1 minute/level
+- **Saving Throw**: Will negates (harmless, object)
+- **Spell Resistance**: Yes (harmless, object)
 
-This spell functions like *[[rangoric-srd/spells/Returning Weapon|returning weapon]]*, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-minute intervals among the targeted weapons.
+This spell functions like _[[rangoric-srd/spells/Returning Weapon|returning weapon]]_, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-minute intervals among the targeted weapons.

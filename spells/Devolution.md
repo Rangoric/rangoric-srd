@@ -28,15 +28,15 @@ tags: [rangoric, rangoric/spell]
 
 # Devolution
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Psy 3, Sor/Wiz 3, Sum 3, SumU 3
-  - **Components**: V, S, M (a chameleon scale)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One eidolon
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Psy 3, Sor/Wiz 3, Sum 3, SumU 3
+- **Components**: V, S, M (a chameleon scale)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One eidolon
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 This spell causes an [[rangoric-srd/classes/Summoner#^summoner-eidolon|eidolon]] to lose one [[rangoric-srd/class-options/evolutions/Evolutions|evolution]] plus one additional evolution for every five caster levels. Evolutions with the highest total cost are lost first. If there is a tie, randomly determine which is lost. If this spell causes an eidolon to fail to meet the prerequisites for other evolutions or abilities, those evolutions or abilities are lost as long as this spell persists.

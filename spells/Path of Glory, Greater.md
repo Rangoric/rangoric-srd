@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Path of Glory, Greater
 
-*Conjuration (Healing)*
+_Conjuration (Healing)_
 
-  - **Level**: Brd 4, Clr 4, Skd 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch (see text)
-  - **Area**: Four 5-ft. squares/level (see text)
-  - **Duration**: 1 round/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Brd 4, Clr 4, Skd 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch (see text)
+- **Area**: Four 5-ft. squares/level (see text)
+- **Duration**: 1 round/level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-This spell functions as *[[rangoric-srd/spells/Path of Glory|path of glory]]*, except as noted above, and a square provides 5 points of healing instead of 1.
+This spell functions as _[[rangoric-srd/spells/Path of Glory|path of glory]]_, except as noted above, and a square provides 5 points of healing instead of 1.

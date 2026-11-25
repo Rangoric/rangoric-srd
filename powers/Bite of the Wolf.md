@@ -27,7 +27,7 @@ Manifesting Time: 1 standard action
 Range: Personal  
 Target: You  
 Duration: 1 min./level  
-Power Points: 1  
+Power Points: 1
 
 Your posture becomes stooped forward, and you grow a muzzle complete with fangs. You gain one bite attack each round, instead of or in addition to any other attacks you have, that deals 1d8 points of damage (assuming you are a Medium creature) when it hits.
 

@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/armor]
 
 # Bone Armor Spikes
 
-*Armor extra.* Cost +50 gp; Weight +7 lb. ^stats
+_Armor extra._ Cost +50 gp; Weight +7 lb. ^stats
 
 The barbarians make their own variant on armor spikes, utilizing the bones of the animals they hunt for food. They have found that these bone spikes can be useful in combat, not only as protection, but also as a good self-defense mechanism.

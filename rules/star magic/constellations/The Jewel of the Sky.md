@@ -26,17 +26,17 @@ tags: [rangoric, rangoric/constellation]
 
 # The Jewel of the Sky
 
-*[[rangoric-srd/rules/star magic/Star Magic|Constellation]]*
+_[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 
-  - **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Frost|Frost]], [[rangoric-srd/rules/star magic/stars/Star of Light|Light]], [[rangoric-srd/rules/star magic/stars/Star of Peril|Peril]]
-  - **Call Level**: 5th ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Long (400 ft. + 40 ft./level)
-  - **Area**: 100-ft.-radius emanation
-  - **Duration**: 10 min./level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Frost|Frost]], [[rangoric-srd/rules/star magic/stars/Star of Light|Light]], [[rangoric-srd/rules/star magic/stars/Star of Peril|Peril]]
+- **Call Level**: 5th ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Long (400 ft. + 40 ft./level)
+- **Area**: 100-ft.-radius emanation
+- **Duration**: 10 min./level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 Pure white light fills the area. An [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] creature in it shows as a faint shimmer in the air: everyone in the area knows exactly where it is, though it keeps its concealment and miss chance.
 

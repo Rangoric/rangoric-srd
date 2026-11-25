@@ -23,9 +23,9 @@ tags: [rangoric, rangoric/magic-item]
 
 This sturdy-looking hickory staff is capped with a figurine of an angel or other benevolent spirit, wings and arms outstretched as if in welcome. This staff allows use of the following spells:
 
-- *[[rangoric-srd/spells/Bless|Bless]]* (1 charge)
-- *[[rangoric-srd/spells/Remove Fear|Remove fear]]* (1 charge)
-- *[[rangoric-srd/spells/Prayer|Prayer]]* (2 charges)
-- *[[rangoric-srd/spells/Remove Paralysis|Remove paralysis]]* (2 charges)
+- _[[rangoric-srd/spells/Bless|Bless]]_ (1 charge)
+- _[[rangoric-srd/spells/Remove Fear|Remove fear]]_ (1 charge)
+- _[[rangoric-srd/spells/Prayer|Prayer]]_ (2 charges)
+- _[[rangoric-srd/spells/Remove Paralysis|Remove paralysis]]_ (2 charges)
 
-Moderate enchantment; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Bless|bless]]*, *[[rangoric-srd/spells/Prayer|prayer]]*, *[[rangoric-srd/spells/Remove Fear|remove fear]]*, *[[rangoric-srd/spells/Remove Paralysis|remove paralysis]]*; Price 20,800 gp; Cost 10,400 gp; Weight 5 lbs.
+Moderate enchantment; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Prayer|prayer]]_, _[[rangoric-srd/spells/Remove Fear|remove fear]]_, _[[rangoric-srd/spells/Remove Paralysis|remove paralysis]]_; Price 20,800 gp; Cost 10,400 gp; Weight 5 lbs.

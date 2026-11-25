@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Poison Use
 
-*A [[rangoric-srd/classes/Slayer#^slayer-talents|slayer talent]] (Ex).*
+_A [[rangoric-srd/classes/Slayer#^slayer-talents|slayer talent]] (Ex)._
 
 The slayer has [[rangoric-srd/rules/Afflictions#^poison-use|poison use]].

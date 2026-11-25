@@ -31,16 +31,16 @@ tags: [rangoric, rangoric/spell]
 
 # Call Animal
 
-*Enchantment (Compulsion) \[Mind-affecting\]*
+_Enchantment (Compulsion) \[Mind-affecting\]_
 
-  - **Level**: Drd 1, Hun 1, Mes 1, Rgr 1
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: See description
-  - **Effect**: One animal whose CR is equal or less than your caster level
-  - **Duration**: 1 hour/level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: None
+- **Level**: Drd 1, Hun 1, Mes 1, Rgr 1
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: See description
+- **Effect**: One animal whose CR is equal or less than your caster level
+- **Duration**: 1 hour/level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: None
 
 This spell calls the nearest wild animal of a particular type you designate (provided the animal's CR is equal to or less than your caster level) to seek you out. The animal moves toward you under its own power, so the time it takes to arrive depends on how close an animal of the desired type is when you cast the spell. If there is no animal of that type capable of reaching you within the spell's duration, you are aware of this fact, but the spell is wasted. Knowledge of the local fauna makes this spell more effective, and the GM may permit a Nature skill check (DC 15) to know what animals can be found in an area.
 
@@ -48,4 +48,4 @@ When the called animal arrives, it approaches to within 5 feet of you and remain
 
 Once the spell's duration expires, the animal acts in accordance with its attitude. Most animals will likely wander off, but a hostile predatory animal may attack, especially if it is hungry or provoked.
 
-Domesticated animals or animals trained by someone else, including such creatures as familiars or animal companions, are unaffected by *call animals*.
+Domesticated animals or animals trained by someone else, including such creatures as familiars or animal companions, are unaffected by _call animals_.

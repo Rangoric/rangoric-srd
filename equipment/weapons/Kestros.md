@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/thrown]
 
 # Kestros
 
-*Exotic ranged weapon.* Cost 1 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Range Increment 50 ft.; Weight 1 lb.; Type Piercing. ^stats
+_Exotic ranged weapon._ Cost 1 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Range Increment 50 ft.; Weight 1 lb.; Type Piercing. ^stats
 
 The kestros is an oddly shaped sling used for launching [[rangoric-srd/equipment/weapons/Kestros Dart|darts]]. Your Strength modifier applies on damage rolls when you use a kestros, just as it does for thrown weapons. You can fire—but not load—a kestros with one hand. Loading a kestros is a move action that requires two hands and provokes attacks of opportunity. [[rangoric-srd/races/Halfling|Halflings]] treat the kestros as a martial weapon.

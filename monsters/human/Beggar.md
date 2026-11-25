@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Beggar
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 1d8+1d6+5 (13 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 13 (+3 Dex), touch 13, flat-footed 10
-  - **Base Attack**: +0; **CMB**: +1; **CMD**: 14
-  - **Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +1 melee (1d6+1) or [[rangoric-srd/equipment/weapons/Club|club]] +3 ranged (1d6+1)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +1 melee (1d6+1); or [[rangoric-srd/equipment/weapons/Club|club]] +3 ranged (1d6+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6
-  - **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-trapfinding|Trapfinding]] +1, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]]
-  - **Saves**: Fort +2, Ref +5, Will +1
-  - **Abilities**: Str 13, Dex 17, Con 14, Int 10, Wis 12, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +8, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +8
-  - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 1
-  - **Treasure**: NPC gear
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 1d8+1d6+5 (13 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 13 (+3 Dex), touch 13, flat-footed 10
+- **Base Attack**: +0; **CMB**: +1; **CMD**: 14
+- **Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +1 melee (1d6+1) or [[rangoric-srd/equipment/weapons/Club|club]] +3 ranged (1d6+1)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +1 melee (1d6+1); or [[rangoric-srd/equipment/weapons/Club|club]] +3 ranged (1d6+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6
+- **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-trapfinding|Trapfinding]] +1, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]]
+- **Saves**: Fort +2, Ref +5, Will +1
+- **Abilities**: Str 13, Dex 17, Con 14, Int 10, Wis 12, Cha 8
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +8, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +8
+- **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 1
+- **Treasure**: NPC gear
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A beggar is a [[rangoric-srd/monsters/human/Human|human]] with 1 level of [[rangoric-srd/classes/Commoner|commoner]] and 1 level of [[rangoric-srd/classes/Rogue|rogue]]. Beggars are the homeless and hopeless wretches that eke out a meager existence at the fringes of society in cities and towns. Some are once farmers, craftsmen, or other working folk stricken blind or lame, while others are orphans from birth, subsisting on alms and charity so long they have known nothing else.
 

@@ -40,25 +40,25 @@ tags: [rangoric, rangoric/monster]
 
 # Twelve-Headed Hydra
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 12d10+60 (126 hp)
-  - **Initiative**: +1
-  - **Speed**: 20 ft. (4 squares), swim 20 ft.
-  - **Armor Class**: 22 (+1 Dex, +13 natural, –2 size), touch 9, flat-footed 21
-  - **Base Attack**: +12; **CMB**: +18; **CMD**: 29 (can't be tripped)
-  - **Attack**: Bite +15 melee (2d6+4)
-  - **Full Attack**: 12 bites +15 melee (2d6+4)
-  - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 12, [[rangoric-srd/monsters/abilities/Hydra Traits|hydra traits]], [[rangoric-srd/monsters/abilities/Regenerate Head|regenerate head]]
-  - **Saves**: Fort +12, Ref +11, Will +6
-  - **Abilities**: Str 18, Dex 12, Con 18, Int 2, Wis 11, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Perception|Perception]] +17
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]] (bite), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
-  - **Environment**: Temperate marshes (pyrohydra: warm marshes, deserts or volcanic mountains; cryohydra: cold marshes or glaciers)
-  - **Organization**: Solitary
-  - **Challenge Rating**: 11 (normal); 13 (pyro- or cryo-)
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 12d10+60 (126 hp)
+- **Initiative**: +1
+- **Speed**: 20 ft. (4 squares), swim 20 ft.
+- **Armor Class**: 22 (+1 Dex, +13 natural, –2 size), touch 9, flat-footed 21
+- **Base Attack**: +12; **CMB**: +18; **CMD**: 29 (can't be tripped)
+- **Attack**: Bite +15 melee (2d6+4)
+- **Full Attack**: 12 bites +15 melee (2d6+4)
+- **Space/Reach**: 15 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 12, [[rangoric-srd/monsters/abilities/Hydra Traits|hydra traits]], [[rangoric-srd/monsters/abilities/Regenerate Head|regenerate head]]
+- **Saves**: Fort +12, Ref +11, Will +6
+- **Abilities**: Str 18, Dex 12, Con 18, Int 2, Wis 11, Cha 9
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Perception|Perception]] +17
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]] (bite), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
+- **Environment**: Temperate marshes (pyrohydra: warm marshes, deserts or volcanic mountains; cryohydra: cold marshes or glaciers)
+- **Organization**: Solitary
+- **Challenge Rating**: 11 (normal); 13 (pyro- or cryo-)
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —

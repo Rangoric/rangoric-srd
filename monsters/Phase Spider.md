@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Phase Spider
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 6d10+18 (51 hp)
-  - **Initiative**: +7
-  - **Speed**: 40 ft. (8 squares), climb 20 ft.
-  - **Armor Class**: 17 (+3 Dex, +5 natural, –1 size), touch 12, flat-footed 14
-  - **Base Attack**: +6; **CMB**: +12 (+16 grapple); **CMD**: 25 (37 vs. trip)
-  - **Attack**: Bite +10 melee (2d6+7 plus [[rangoric-srd/monsters/abilities/Poison|poison]] and [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +10 melee (2d6+7 plus [[rangoric-srd/monsters/abilities/Poison|poison]] and [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: Ethereal ambush, [[rangoric-srd/monsters/abilities/Poison|poison]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], ethereal jaunt
-  - **Saves**: Fort +8, Ref +8, Will +3
-  - **Abilities**: Str 20, Dex 17, Con 16, Int 7, Wis 13, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +7
-  - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (poison), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
-  - **Environment**: Warm hills
-  - **Organization**: Solitary, pair, or cluster (3–6)
-  - **Challenge Rating**: 5
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: 6–8 HD (Large); 9–15 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 6d10+18 (51 hp)
+- **Initiative**: +7
+- **Speed**: 40 ft. (8 squares), climb 20 ft.
+- **Armor Class**: 17 (+3 Dex, +5 natural, –1 size), touch 12, flat-footed 14
+- **Base Attack**: +6; **CMB**: +12 (+16 grapple); **CMD**: 25 (37 vs. trip)
+- **Attack**: Bite +10 melee (2d6+7 plus [[rangoric-srd/monsters/abilities/Poison|poison]] and [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +10 melee (2d6+7 plus [[rangoric-srd/monsters/abilities/Poison|poison]] and [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: Ethereal ambush, [[rangoric-srd/monsters/abilities/Poison|poison]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], ethereal jaunt
+- **Saves**: Fort +8, Ref +8, Will +3
+- **Abilities**: Str 20, Dex 17, Con 16, Int 7, Wis 13, Cha 10
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +7
+- **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (poison), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
+- **Environment**: Warm hills
+- **Organization**: Solitary, pair, or cluster (3–6)
+- **Challenge Rating**: 5
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: 6–8 HD (Large); 9–15 HD (Huge)
+- **Level Adjustment**: —
 
 Phase spiders are voracious predators from the Ethereal Plane who hunt on the Material Plane. When prey is located, the spider shifts to the Ethereal Plane to prepare an ambush. Against a lone victim, the spider shifts to the Material Plane, bites the victim, then retreats back to the Ethereal Plane to wait for the poison to take effect. Against multiple foes, a phase spider follows these same tactics, and on each round a foe remains in reach at the start of its turn, it repeats this gambit. If no foes are in reach, it moves while ethereal to prepare an attack on an available target, but unless it feels safe in spending an entire round on the Material, it won't phase back to attack unless it can do so while saving a move action for an escape.
 
@@ -80,4 +80,4 @@ Phase spiders dwell and hunt on the Material Plane. Once a spider locates prey, 
 
 **Ethereal Jaunt (Su)**: A phase spider can shift from the Ethereal Plane to the Material Plane as a free action, and shift back again as a move action (or as part of a move action). The ability is otherwise identical to ethereal jaunt (CL 15th).
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Phase Spider Venom|Phase Spider Venom]]: Bite—injury; *save* Fort DC 18; *frequency* 1/round for 8 rounds; *effect* 1d2 Con damage; *cure* 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Phase Spider Venom|Phase Spider Venom]]: Bite—injury; _save_ Fort DC 18; _frequency_ 1/round for 8 rounds; _effect_ 1d2 Con damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.

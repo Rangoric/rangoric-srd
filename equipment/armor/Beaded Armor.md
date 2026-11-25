@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/armor]
 
 # Beaded Armor
 
-*Light armor.* Cost 25 gp; Armor Bonus +2; Maximum Dex Bonus +6; Armor Check Penalty –1; Arcane Spell Failure 15%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 15 lb. ^stats
+_Light armor._ Cost 25 gp; Armor Bonus +2; Maximum Dex Bonus +6; Armor Check Penalty –1; Arcane Spell Failure 15%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 15 lb. ^stats
 
 This armor is made from beads and woven leather cord. This makes the armor highly decorative, yet still provides some degree of protection to the wearer. It is most common among nobility and the priesthood.
 

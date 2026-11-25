@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Defense Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Protection Domain|Protection]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Protection Domain|Protection]] domain._
 
 ## Replacement Power
 
@@ -27,8 +27,8 @@ This power replaces the [[rangoric-srd/class-options/domains/Protection Domain#G
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Shield\|Shield]] | Invisible disc gives +4 to AC, blocks magic missiles. |
-| 2nd | [[rangoric-srd/spells/Barkskin\|Barkskin]] | Grants +2 (or higher) enhancement to natural armor. |
-| 7th | [[rangoric-srd/spells/Deflection\|Deflection]] (M) | Attacks that miss are redirected back to the source of the attack. |
+| Level | Spell                                              | Brief Description                                                  |
+| ----- | -------------------------------------------------- | ------------------------------------------------------------------ |
+| 1st   | [[rangoric-srd/spells/Shield\|Shield]]             | Invisible disc gives +4 to AC, blocks magic missiles.              |
+| 2nd   | [[rangoric-srd/spells/Barkskin\|Barkskin]]         | Grants +2 (or higher) enhancement to natural armor.                |
+| 7th   | [[rangoric-srd/spells/Deflection\|Deflection]] (M) | Attacks that miss are redirected back to the source of the attack. |

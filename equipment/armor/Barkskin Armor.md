@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Barkskin Armor
 
-*Light armor.* Cost 20 gp; Armor Bonus +2; Maximum Dex Bonus +6; Armor Check Penalty –1; Arcane Spell Failure 12%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 15 lb. ^stats
+_Light armor._ Cost 20 gp; Armor Bonus +2; Maximum Dex Bonus +6; Armor Check Penalty –1; Arcane Spell Failure 12%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 15 lb. ^stats
 
 This strangely thin, yet durable armor is typically made from the bark of an oak or yew tree, though armor made from other trees is not uncommon.

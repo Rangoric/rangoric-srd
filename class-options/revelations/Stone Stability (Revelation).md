@@ -16,8 +16,8 @@ tags: [rangoric, rangoric/class-option]
 
 # Stone Stability
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Stone Mystery|stone]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Stone Mystery|stone]] mystery._
 
 You receive a +4 bonus to your Combat Maneuver Defense when resisting a bull rush or trip attempt while standing on the ground. At 5th level, you gain [[rangoric-srd/feats/Improved Trip|Improved Trip]] as a bonus feat. At 10th level, you gain [[rangoric-srd/feats/Greater Trip|Greater Trip]] as a bonus feat. You do not need to meet the prerequisites to gain these feats.
 
-*The shaman has a hex of the same name: [[rangoric-srd/class-options/hexes/Stone Stability (Hex)|stone stability]].*
+_The shaman has a hex of the same name: [[rangoric-srd/class-options/hexes/Stone Stability (Hex)|stone stability]]._

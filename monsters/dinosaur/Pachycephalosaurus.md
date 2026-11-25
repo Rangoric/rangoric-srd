@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Pachycephalosaurus
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 5d8+15 (37 hp)
-  - **Initiative**: +2
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 17 (+2 Dex, +6 natural, –1 size), touch 11, flat-footed 15
-  - **Base Attack**: +3; **CMB**: +10 (+12 bull rush); **CMD**: 22 (24 bull rush)
-  - **Attack**: Slam +8 melee (2d6+9)
-  - **Full Attack**: Slam +8 melee (2d6+9)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: Clobbering charge
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +7, Ref +6, Will +2
-  - **Abilities**: Str 22, Dex 15, Con 17, Int 2, Wis 12, Cha 5
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +2
-  - **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Run|Run]]
-  - **Environment**: Warm or temperate plains
-  - **Organization**: Solitary or pair
-  - **Challenge Rating**: 4
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 5d8+15 (37 hp)
+- **Initiative**: +2
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 17 (+2 Dex, +6 natural, –1 size), touch 11, flat-footed 15
+- **Base Attack**: +3; **CMB**: +10 (+12 bull rush); **CMD**: 22 (24 bull rush)
+- **Attack**: Slam +8 melee (2d6+9)
+- **Full Attack**: Slam +8 melee (2d6+9)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: Clobbering charge
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +7, Ref +6, Will +2
+- **Abilities**: Str 22, Dex 15, Con 17, Int 2, Wis 12, Cha 5
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +2
+- **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Run|Run]]
+- **Environment**: Warm or temperate plains
+- **Organization**: Solitary or pair
+- **Challenge Rating**: 4
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A pachycephalosaurus is a normally peaceful dinosaur that grows irate and violent during mating season or when its herd is intruded upon by potential predators. The dinosaur's skull has a distinctive dome-shaped crown surrounded by numerous bony horns—this, combined with the dinosaur's powerful, compact neck, allows it to make battering-ram-like charges capable of inflicting great damage.
 

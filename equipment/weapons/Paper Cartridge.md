@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/weapon]
 
 # Paper Cartridge
 
-*Ammunition for firearms.* Cost 12 gp; Weight —. ^stats
+_Ammunition for firearms._ Cost 12 gp; Weight —. ^stats
 
 This simple mix of black powder and either pellets or a bullet increases the misfire value by 1.

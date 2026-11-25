@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Bat Swarm
 
-  - Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]] (Swarm)
-  - **Hit Dice**: 3d8 (13 hp)
-  - **Initiative**: +2
-  - **Speed**: 5 ft. (1 square), fly 40 ft. (good)
-  - **Armor Class**: 16 (+2 Dex, +4 size), touch 16, flat-footed 14
-  - **Base Attack**: +2; **CMB**: —; **CMD**: —
-  - **Attack**: Swarm (1d6)
-  - **Full Attack**: Swarm (1d6)
-  - **Space/Reach**: 10 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (DC 11), wounding
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 20 ft, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to weapon damage
-  - **Saves**: Fort +3, Ref +7, Will +3
-  - **Abilities**: Str 3, Dex 15, Con 11, Int 2, Wis 14, Cha 4
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Perception|Perception]] +15
-  - **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any temperate or tropical
-  - **Organization**: Solitary, pair, flight (3–6 swarms), or colony (11–20 swarms)
-  - **Challenge Rating**: 2
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: None
-  - **Level Adjustment**: —
+- Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]] (Swarm)
+- **Hit Dice**: 3d8 (13 hp)
+- **Initiative**: +2
+- **Speed**: 5 ft. (1 square), fly 40 ft. (good)
+- **Armor Class**: 16 (+2 Dex, +4 size), touch 16, flat-footed 14
+- **Base Attack**: +2; **CMB**: —; **CMD**: —
+- **Attack**: Swarm (1d6)
+- **Full Attack**: Swarm (1d6)
+- **Space/Reach**: 10 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (DC 11), wounding
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 20 ft, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to weapon damage
+- **Saves**: Fort +3, Ref +7, Will +3
+- **Abilities**: Str 3, Dex 15, Con 11, Int 2, Wis 14, Cha 4
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Perception|Perception]] +15
+- **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any temperate or tropical
+- **Organization**: Solitary, pair, flight (3–6 swarms), or colony (11–20 swarms)
+- **Challenge Rating**: 2
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: None
+- **Level Adjustment**: —
 
 Bat swarms dwell in large caves, ruins, or even city sewers—anywhere they can find darkness to hide in during the day and a supply of food to feast upon at night. They are only encountered outside in a group at dawn or dusk, or when they have been startled and forced to flee their lairs.
 

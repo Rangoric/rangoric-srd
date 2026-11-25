@@ -22,10 +22,10 @@ This is the most common form of scrying device, a crystal sphere about 6 inches 
 
 Certain crystal balls have additional powers that can be used through the crystal ball on the target viewed.
 
-| Crystal Ball Type                                      | Market Price |
-| ------------------------------------------------------ | ------------ |
-| Crystal ball with telepathy (\*)                       | 70,000 gp    |
+| Crystal Ball Type                | Market Price |
+| -------------------------------- | ------------ |
+| Crystal ball with telepathy (\*) | 70,000 gp    |
 
-\* *The viewer is able to send and receive silent mental messages with the person appearing in the crystal ball. Once per day the character may attempt to implant a suggestion (as the spell, Will DC 14 negates) as well.*
+\* _The viewer is able to send and receive silent mental messages with the person appearing in the crystal ball. Once per day the character may attempt to implant a suggestion (as the spell, Will DC 14 negates) as well._
 
 Moderate divination; CL 10th; Craft Wondrous Item, scrying (plus any additional spells put into item); Price 70,000 gp; Weight 7 lb.

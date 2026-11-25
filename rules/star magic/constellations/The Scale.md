@@ -28,17 +28,17 @@ tags: [rangoric, rangoric/constellation]
 
 # The Scale
 
-*[[rangoric-srd/rules/star magic/Star Magic|Constellation]]*
+_[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 
-  - **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Frost|Frost]], [[rangoric-srd/rules/star magic/stars/Star of Justice|Justice]], [[rangoric-srd/rules/star magic/stars/Star of Life|Life]], [[rangoric-srd/rules/star magic/stars/Star of Silence|Silence]], [[rangoric-srd/rules/star magic/stars/Star of Water|Water]]
-  - **Call Level**: 9th ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Target**: Two creatures
-  - **Duration**: Instantaneous (bonuses: 1 hour/level)
-  - **Saving Throw**: Fortitude negates (see text)
-  - **Spell Resistance**: Yes
+- **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Frost|Frost]], [[rangoric-srd/rules/star magic/stars/Star of Justice|Justice]], [[rangoric-srd/rules/star magic/stars/Star of Life|Life]], [[rangoric-srd/rules/star magic/stars/Star of Silence|Silence]], [[rangoric-srd/rules/star magic/stars/Star of Water|Water]]
+- **Call Level**: 9th ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Target**: Two creatures
+- **Duration**: Instantaneous (bonuses: 1 hour/level)
+- **Saving Throw**: Fortitude negates (see text)
+- **Spell Resistance**: Yes
 
 You take life force from one target and give it to the other. The first gains 1d4 [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative levels]] (Fortitude negates); the save to remove them a day later uses this constellation's DC.
 

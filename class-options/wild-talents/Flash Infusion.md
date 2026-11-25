@@ -18,13 +18,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Flash Infusion
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|substance infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|substance infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Fire Element|fire]]
-  - **Type**: substance infusion
-  - **Level**: 4
-  - **Burn**: 3
-  - **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Blue Flame Blast|blue flame]], [[rangoric-srd/class-options/wild-talents/Fire Blast|fire]], [[rangoric-srd/class-options/wild-talents/Plasma Blast|plasma]]
-  - **Saving Throw**: Will negates
+- **Element**: [[rangoric-srd/class-options/elements/Fire Element|fire]]
+- **Type**: substance infusion
+- **Level**: 4
+- **Burn**: 3
+- **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Blue Flame Blast|blue flame]], [[rangoric-srd/class-options/wild-talents/Fire Blast|fire]], [[rangoric-srd/class-options/wild-talents/Plasma Blast|plasma]]
+- **Saving Throw**: Will negates
 
 Your kinetic blast is so bright that it blinds your foes. Whenever an infused blast hits a foe and penetrates its [[rangoric-srd/rules/Special Abilities and Conditions#Spell Resistance|spell resistance]], that foe must succeed at a Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 1 round, regardless of whether it takes damage from the blast. You can reduce the blast’s damage by half to increase the DC of this save by 2.

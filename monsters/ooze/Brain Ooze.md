@@ -39,32 +39,32 @@ tags: [rangoric, rangoric/monster]
 
 # Brain Ooze
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]]
-  - **Hit Dice**: 10d8+30 (75 hp)
-  - **Initiative**: +6
-  - **Speed**: 5 ft. (1 square), fly 60 ft. (good)
-  - **Armor Class**: 23 (+4 armor, +4 Dex, +1 dodge, +2 insight, +2 size), touch 19, flat-footed 18
-  - **Base Attack**: +7; **CMB**: +9; **CMD**: 22 (can't be tripped)
-  - **Attack**: Tentacle +13 melee touch (1d6 electricity plus neural pulse)
-  - **Full Attack**: 2 tentacles +13 melee touch (1d6 electricity plus neural pulse)
-  - **Space/Reach**: 2-1/2 feet/0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Psychic Noise|psychic noise]] (10 ft., DC 19), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., evasion, [[rangoric-srd/monsters/abilities/Prescience (Brain Ooze)|prescience]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]]
-  - **Saves**: Fort +6, Ref +9, Will +6
-  - **Abilities**: Str 4, Dex 19, Con 16, Int 15, Wis 12, Cha 19
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +25, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +15
-  - **Feats**: [[rangoric-srd/feats/Defensive Combat Training|Defensive Combat Training]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any ruins or underground
-  - **Organization**: Solitary, pair, flight (3–6), or colony (7–12)
-  - **Challenge Rating**: 7
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]]
+- **Hit Dice**: 10d8+30 (75 hp)
+- **Initiative**: +6
+- **Speed**: 5 ft. (1 square), fly 60 ft. (good)
+- **Armor Class**: 23 (+4 armor, +4 Dex, +1 dodge, +2 insight, +2 size), touch 19, flat-footed 18
+- **Base Attack**: +7; **CMB**: +9; **CMD**: 22 (can't be tripped)
+- **Attack**: Tentacle +13 melee touch (1d6 electricity plus neural pulse)
+- **Full Attack**: 2 tentacles +13 melee touch (1d6 electricity plus neural pulse)
+- **Space/Reach**: 2-1/2 feet/0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Psychic Noise|psychic noise]] (10 ft., DC 19), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., evasion, [[rangoric-srd/monsters/abilities/Prescience (Brain Ooze)|prescience]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]]
+- **Saves**: Fort +6, Ref +9, Will +6
+- **Abilities**: Str 4, Dex 19, Con 16, Int 15, Wis 12, Cha 19
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +25, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +15
+- **Feats**: [[rangoric-srd/feats/Defensive Combat Training|Defensive Combat Training]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any ruins or underground
+- **Organization**: Solitary, pair, flight (3–6), or colony (7–12)
+- **Challenge Rating**: 7
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A brain ooze (sometimes known as a “killer brain”) resembles almost precisely the raw brain of a human, save for the eldritch energy surrounding it and the twin tentacles extending from its sides. The creature's thought patterns are unusually powerful, and cause painful mental feedback in the minds of other conscious beings.
 
-Other intelligent beings are nothing more than cattle and playthings to brain oozes—victims to be tormented, thought patterns to be consumed. Brain oozes prefer to manipulate their prey from the shadows. Rather than assaulting openly, they provoke fights and conflict within groups, or lure one or two victims away for the kill. Brain oozes derive particular satisfaction from forcing an individual to commit terrible acts, then wiping away all knowledge of the crimes from the victim's memory. They torment such hapless puppets again and again, forcing them to commit ever greater atrocities. Once weary of their sport they return the modified memories with *[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, and feast upon the delicious misery of the victim's final despair.
+Other intelligent beings are nothing more than cattle and playthings to brain oozes—victims to be tormented, thought patterns to be consumed. Brain oozes prefer to manipulate their prey from the shadows. Rather than assaulting openly, they provoke fights and conflict within groups, or lure one or two victims away for the kill. Brain oozes derive particular satisfaction from forcing an individual to commit terrible acts, then wiping away all knowledge of the crimes from the victim's memory. They torment such hapless puppets again and again, forcing them to commit ever greater atrocities. Once weary of their sport they return the modified memories with _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, and feast upon the delicious misery of the victim's final despair.
 
 Brain oozes feed through their tentacles by extracting the thoughts of living creatures. Animals and less intelligent creatures provide little nourishment, but they prize fey, outsiders, and spellcasters as delicacies. After several feedings, a brain ooze divides into two nearly identical brains, each retaining only a portion of the knowledge and experiences of the parent.
 
@@ -74,7 +74,7 @@ Brain oozes understand Aklo but can't speak.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +14): Constant—*[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]*, *[[rangoric-srd/spells/Mage Armor|mage armor]]*; At will—*[[rangoric-srd/spells/Charm Monster|charm monster]]* (DC 18), *[[rangoric-srd/spells/Dominate Animal|dominate animal]]* (DC 17), *[[rangoric-srd/spells/Dominate Person|dominate person]]* (DC 19); 3/day—*[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, *[[rangoric-srd/spells/Modify Memory|modify memory]]* (DC 18).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +14): Constant—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_, _[[rangoric-srd/spells/Mage Armor|mage armor]]_; At will—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 18), _[[rangoric-srd/spells/Dominate Animal|dominate animal]]_ (DC 17), _[[rangoric-srd/spells/Dominate Person|dominate person]]_ (DC 19); 3/day—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Modify Memory|modify memory]]_ (DC 18).
 
 **Neural Pulse (Su)**: Creatures hit by a brain ooze's tentacle must succeed at a DC 18 Fortitude save or take 1d6 points of Intelligence damage and be [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1d4 rounds. Each time a brain ooze causes Intelligence damage, it gains 5 temporary hit points. The save DC is Constitution-based.
 

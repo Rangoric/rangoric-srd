@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Friend to the Animals
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Nature Mystery|nature]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Nature Mystery|nature]] mystery._
 
-Add all *[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature's ally]]* spells to your spell list. You must still select these spells using your allotment of spells known. Animals within 30 feet of you receive a bonus on all saving throws equal to your Charisma modifier.
+Add all _[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature's ally]]_ spells to your spell list. You must still select these spells using your allotment of spells known. Animals within 30 feet of you receive a bonus on all saving throws equal to your Charisma modifier.

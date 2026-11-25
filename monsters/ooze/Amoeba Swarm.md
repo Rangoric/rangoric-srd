@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Amoeba Swarm
 
-  - Fine [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]] (Swarm)
-  - **Hit Dice**: 2d8 (9 hp)
-  - **Initiative**: –5
-  - **Speed**: 10 ft. (2 squares), climb 10 ft., swim 20 ft.
-  - **Armor Class**: 13 (–5 Dex, +8 size), touch 13, flat-footed 13
-  - **Base Attack**: +1; **CMB**: —; **CMD**: —
-  - **Attack**: Swarm (1d6 acid plus [[rangoric-srd/monsters/abilities/Distraction|distraction]])
-  - **Full Attack**: Swarm (1d6 acid plus [[rangoric-srd/monsters/abilities/Distraction|distraction]])
-  - **Space/Reach**: 10 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (DC 11)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze]] and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to weapon damage
-  - **Saves**: Fort +0, Ref –5, Will –5
-  - **Abilities**: Str 1, Dex 1, Con 10, Int —, Wis 1, Cha 1
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +3
-  - **Feats**: —
-  - **Environment**: Any land or underground
-  - **Organization**: Solitary or colony (2–5)
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Fine [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]] (Swarm)
+- **Hit Dice**: 2d8 (9 hp)
+- **Initiative**: –5
+- **Speed**: 10 ft. (2 squares), climb 10 ft., swim 20 ft.
+- **Armor Class**: 13 (–5 Dex, +8 size), touch 13, flat-footed 13
+- **Base Attack**: +1; **CMB**: —; **CMD**: —
+- **Attack**: Swarm (1d6 acid plus [[rangoric-srd/monsters/abilities/Distraction|distraction]])
+- **Full Attack**: Swarm (1d6 acid plus [[rangoric-srd/monsters/abilities/Distraction|distraction]])
+- **Space/Reach**: 10 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (DC 11)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze]] and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to weapon damage
+- **Saves**: Fort +0, Ref –5, Will –5
+- **Abilities**: Str 1, Dex 1, Con 10, Int —, Wis 1, Cha 1
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +3
+- **Feats**: —
+- **Environment**: Any land or underground
+- **Organization**: Solitary or colony (2–5)
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 An amoeba swarm is a mobile group of amoebas, each about the size of a coin. Giant amoebas may cleave off tiny portions of their substance, which can then become amoeba swarms. At other times, a giant amoeba can spontaneously transform into a swarm, usually if the giant amoeba is starving or in an area with a high concentration of magic. Likewise, a well-fed amoeba swarm may fuse into a single giant amoeba.
 

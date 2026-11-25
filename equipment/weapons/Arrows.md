@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/weapon]
 
 # Arrows
 
-*Ammunition (20).* Cost 1 gp; Weight 3 lb. ^stats
+_Ammunition (20)._ Cost 1 gp; Weight 3 lb. ^stats
 
 An arrow used as a melee weapon is treated as a light improvised weapon (–4 penalty on attack rolls) and deals damage as a dagger of its size (critical multiplier x2). Arrows come in a leather quiver that holds 20 arrows. An arrow that hits its target is destroyed; one that misses has a 50% chance of being destroyed or lost.

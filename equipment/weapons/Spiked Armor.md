@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/close]
 
 # Spiked Armor
 
-*Martial light melee weapon.* Cost special; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight special; Type Piercing. ^stats
+_Martial light melee weapon._ Cost special; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight special; Type Piercing. ^stats
 
 You can outfit your armor with spikes, which can deal damage in a grapple or as a separate attack. See Armor for details.

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Halfling Magus
 
-*A [[rangoric-srd/races/Halfling|halfling]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Magus#^magus-class-bonuses|magus]] level.*
+_A [[rangoric-srd/races/Halfling|halfling]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Magus#^magus-class-bonuses|magus]] level._
 
 The magus gains 1/6 of a new [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]].

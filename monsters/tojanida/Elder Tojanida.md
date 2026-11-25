@@ -41,25 +41,25 @@ tags: [rangoric, rangoric/monster]
 
 # Elder Tojanida
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^water|Water]])
-  - **Hit Dice**: 15d8+60 (127 hp)
-  - **Initiative**: +1
-  - **Speed**: 10 ft. (2 squares), swim 90 ft.
-  - **Armor Class**: 24 (–1 size, +1 Dex, +14 natural), touch 10, flat-footed 23
-  - **Base Attack**: +15; **CMB**: +22 (+26 grapple, +24 sunder); **CMD**: 34 (36 vs. sunder, 38 vs. trip)
-  - **Attack**: Bite +20 melee (4d6+6)
-  - **Full Attack**: Bite +20 melee (4d6+6) and 2 claws +15 melee (1d8+3)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Improved grab]], ink cloud
-  - **Special Qualities**: All-around vision, darkvision 60 ft.,  immunity to acid and cold, [[rangoric-srd/monsters/abilities/Resistance|resistance to electricity]] 10 and fire 10
-  - **Saves**: Fort +13, Ref +10, Will +10
-  - **Abilities**: Str 22, Dex 13, Con 19, Int 10, Wis 12, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +24 (+32 swimming), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +19, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +1 (+3 other planes and following tracks, +3 with bindings), [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Investigation|Investigation]] +22, [[rangoric-srd/skills/Perception|Perception]] +29, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +18
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Elemental Plane of Water
-  - **Organization**: Solitary or clutch (2–4)
-  - **Challenge Rating**: 9
-  - **Treasure**: Standard
-  - **Alignment**: Always neutral
-  - **Advancement**: 16–24 HD (Large); 25–45 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^water|Water]])
+- **Hit Dice**: 15d8+60 (127 hp)
+- **Initiative**: +1
+- **Speed**: 10 ft. (2 squares), swim 90 ft.
+- **Armor Class**: 24 (–1 size, +1 Dex, +14 natural), touch 10, flat-footed 23
+- **Base Attack**: +15; **CMB**: +22 (+26 grapple, +24 sunder); **CMD**: 34 (36 vs. sunder, 38 vs. trip)
+- **Attack**: Bite +20 melee (4d6+6)
+- **Full Attack**: Bite +20 melee (4d6+6) and 2 claws +15 melee (1d8+3)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Improved grab]], ink cloud
+- **Special Qualities**: All-around vision, darkvision 60 ft.,  immunity to acid and cold, [[rangoric-srd/monsters/abilities/Resistance|resistance to electricity]] 10 and fire 10
+- **Saves**: Fort +13, Ref +10, Will +10
+- **Abilities**: Str 22, Dex 13, Con 19, Int 10, Wis 12, Cha 9
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +24 (+32 swimming), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +19, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +1 (+3 other planes and following tracks, +3 with bindings), [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Investigation|Investigation]] +22, [[rangoric-srd/skills/Perception|Perception]] +29, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +18
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Elemental Plane of Water
+- **Organization**: Solitary or clutch (2–4)
+- **Challenge Rating**: 9
+- **Treasure**: Standard
+- **Alignment**: Always neutral
+- **Advancement**: 16–24 HD (Large); 25–45 HD (Huge)
+- **Level Adjustment**: —

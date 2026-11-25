@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Falconer
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 5d8–5 (17 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 15 (+4 armor, +1 Dex), touch 11, flat-footed 14
-  - **Base Attack**: +3; **CMB**: +3; **CMD**: 14
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +4 melee (1d6/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +5 ranged (1d8/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +4 melee (1d6/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +5 ranged (1d8/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: —
-  - **Saves**: Fort +0, Ref +4, Will +3
-  - **Abilities**: Str 10, Dex 12, Con 9, Int 11, Wis 8, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Profession|Profession]] (falconer) +7, [[rangoric-srd/skills/Society|Society]] +7
-  - **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling, Perception)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 3
-  - **Treasure**: NPC gear (combat gear: potion of cure light wounds, tanglefoot bag; other gear: mithral chain shirt, masterwork light crossbow with 20 bolts, masterwork short sword, signal whistle, silver holy symbol, trained hawk (worth 40 gp), bit and bridle, light horse (combat trained), riding saddle, saddlebags, 360 gp)
-  - **Alignment**: Chaotic good
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 5d8–5 (17 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 15 (+4 armor, +1 Dex), touch 11, flat-footed 14
+- **Base Attack**: +3; **CMB**: +3; **CMD**: 14
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +4 melee (1d6/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +5 ranged (1d8/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +4 melee (1d6/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +5 ranged (1d8/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: —
+- **Saves**: Fort +0, Ref +4, Will +3
+- **Abilities**: Str 10, Dex 12, Con 9, Int 11, Wis 8, Cha 14
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Profession|Profession]] (falconer) +7, [[rangoric-srd/skills/Society|Society]] +7
+- **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling, Perception)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 3
+- **Treasure**: NPC gear (combat gear: potion of cure light wounds, tanglefoot bag; other gear: mithral chain shirt, masterwork light crossbow with 20 bolts, masterwork short sword, signal whistle, silver holy symbol, trained hawk (worth 40 gp), bit and bridle, light horse (combat trained), riding saddle, saddlebags, 360 gp)
+- **Alignment**: Chaotic good
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A falconer is a [[rangoric-srd/monsters/human/Human|human]] with 5 levels of [[rangoric-srd/classes/Aristocrat|aristocrat]]. The falconer has dedicated his life to training birds of prey—his raptors are his dearest friends. He cares little about courtly life and prefers the company of his noble birds.
 

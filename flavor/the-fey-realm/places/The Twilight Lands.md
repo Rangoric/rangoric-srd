@@ -24,6 +24,6 @@ Within the darkened border realm of Shadow is the home of most fey—the Twiligh
 
 **Seasons:** All seasons feature prominently in the Twilight Lands, and in fact there are lands where each season never wanes.
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Refer to the specific region for more information.*
+_Refer to the specific region for more information._

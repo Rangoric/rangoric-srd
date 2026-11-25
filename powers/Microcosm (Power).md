@@ -35,7 +35,7 @@ Target or Area: One creature; or one or more creatures within a 15-ft.-radius sp
 **Duration:** Instantaneous  
 **Saving Throw:** None  
 **Power Resistance:** Yes  
-**Power Points:** 17  
+**Power Points:** 17
 
 This power enables you to warp the consciousness and senses of one or more creatures, sending the victim into a catatonic state. When microcosm is manifested, you can target either a single creature within range or a group of creatures all located within the power’s area.
 

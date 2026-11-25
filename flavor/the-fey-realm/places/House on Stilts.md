@@ -21,12 +21,12 @@ The name of this regional seat belies its true beauty, as the House on Stilts is
 
 **Personalities:** The queen of the Eerie Swamps
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* The original pier is still in use by the servants and local merchants.
+_Common:_ The original pier is still in use by the servants and local merchants.
 
-*Uncommon:* The stone columns supporting the pier and house rest upon an ancient stone foundation beneath the water, a foundation with air-filled rooms underneath!
+_Uncommon:_ The stone columns supporting the pier and house rest upon an ancient stone foundation beneath the water, a foundation with air-filled rooms underneath!
 
-*Rare:* The “foundation dungeon” is easiest to access under the House on Stilts, but sprawls beneath most of the Eerie Swamps.
+_Rare:_ The “foundation dungeon” is easiest to access under the House on Stilts, but sprawls beneath most of the Eerie Swamps.
 
-*Obscure:* -
+_Obscure:_ -

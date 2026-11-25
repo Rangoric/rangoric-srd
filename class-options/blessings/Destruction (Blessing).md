@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Destruction Blessing
 
-*A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Destruction Domain|Destruction domain]].*
+_A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Destruction Domain|Destruction domain]]._
 
 **Destructive Attacks (minor)**: At 1st level, you can touch an ally and bless it with the power of destruction. For 1 minute, the ally gains a morale bonus on weapon damage rolls equal to half your level (minimum 1).
 

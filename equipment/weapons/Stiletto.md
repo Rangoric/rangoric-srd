@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades]
 
 # Stiletto
 
-*Simple light melee weapon.* Cost 4 gp; Dmg 1d3 (S), 1d4 (M); Critical 19-20/x2; Weight 1 lb.; Type Piercing. ^stats
+_Simple light melee weapon._ Cost 4 gp; Dmg 1d3 (S), 1d4 (M); Critical 19-20/x2; Weight 1 lb.; Type Piercing. ^stats
 
 This is a dagger with an exceptionally long and thin blade designed to penetrate the joints and seams of armor. Stilettos gain a +2 bonus to attack rolls when used against Medium or Heavy armor. The stiletto is not balanced and cannot be thrown.

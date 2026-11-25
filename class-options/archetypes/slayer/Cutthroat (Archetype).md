@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Cutthroat
 
-*A [[rangoric-srd/classes/Slayer#^slayer-archetypes|slayer]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Slayer#^slayer-archetypes|slayer]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Street-smart and extremely resourceful, cutthroats stalk city streets and alleyways, preying on those unfortunate enough to catch their eye. More opportunists than careful planners, they don't care who they rob or kill, and take advantage of whatever circumstances put them near a suitable target.
 

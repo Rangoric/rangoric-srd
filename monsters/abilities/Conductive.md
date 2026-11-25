@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Conductive
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “conductive”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “conductive”, on the Special Qualities line.
 
 Anytime a tophet is affected by an effect that deals fire damage, determine how much damage the construct would have taken if it were not immune to fire. Creatures currently swallowed whole by the construct take fire damage equal to half of this amount. The [[rangoric-srd/monsters/Tophet|tophet]] has it.

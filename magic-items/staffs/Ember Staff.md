@@ -23,10 +23,10 @@ tags: [rangoric, rangoric/magic-item]
 
 The reddish brown bark of this charred manzanita branch shows only in patches. The staff is a mere 3 feet long and balanced for use as a masterwork club.
 
-When casting *[[rangoric-srd/spells/Produce Flame|produce flame]]* from the staff, its wielder can choose to set the end of the staff alight instead of producing the flame in her hand. This does not damage the staff, and the spell's damage is added to any melee attacks made with the staff.
+When casting _[[rangoric-srd/spells/Produce Flame|produce flame]]_ from the staff, its wielder can choose to set the end of the staff alight instead of producing the flame in her hand. This does not damage the staff, and the spell's damage is added to any melee attacks made with the staff.
 
-- *[[rangoric-srd/spells/Produce Flame|Produce flame]]* (1 charge)
-- *[[rangoric-srd/spells/Scorching Ray|Scorching ray]]* (2 charges)
-- *[[rangoric-srd/spells/Fireball|Fireball]]* (4 charges)
+- _[[rangoric-srd/spells/Produce Flame|Produce flame]]_ (1 charge)
+- _[[rangoric-srd/spells/Scorching Ray|Scorching ray]]_ (2 charges)
+- _[[rangoric-srd/spells/Fireball|Fireball]]_ (4 charges)
 
-Moderate evocation; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Fireball|fireball]]*, *[[rangoric-srd/spells/Produce Flame|produce flame]]*, *[[rangoric-srd/spells/Scorching Ray|scorching ray]]*; Price 13,100 gp; Cost 6,700 gp; Weight 3 lbs.
+Moderate evocation; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Fireball|fireball]]_, _[[rangoric-srd/spells/Produce Flame|produce flame]]_, _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_; Price 13,100 gp; Cost 6,700 gp; Weight 3 lbs.

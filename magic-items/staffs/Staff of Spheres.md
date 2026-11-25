@@ -17,10 +17,10 @@ tags: [rangoric, rangoric/magic-item, epic]
 
 # Staff of Spheres
 
-This staff allows use of the following spells.  
+This staff allows use of the following spells.
 
-  - Freezing sphere (1 charge, DC 19)
-  - Resilient sphere (1 charge, DC 16)
-  - Telekinetic sphere (1 charge, DC 22)  
+- Freezing sphere (1 charge, DC 19)
+- Resilient sphere (1 charge, DC 16)
+- Telekinetic sphere (1 charge, DC 22)
 
 Caster Level: 21st; Prerequisites: Craft Staff, Craft Epic Staff, freezing sphere, resilient sphere, telekinetic sphere; Market Price: 228,375 gp.

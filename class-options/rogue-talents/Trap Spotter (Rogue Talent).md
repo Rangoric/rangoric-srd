@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Trap Spotter
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex).*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex)._
 
 Whenever a rogue with this talent comes within 10 feet of a trap, she receives an immediate [[rangoric-srd/skills/Investigation|Investigation]] check to notice the trap. This check should be made in secret by the GM.

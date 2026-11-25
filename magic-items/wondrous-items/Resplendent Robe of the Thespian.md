@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Resplendent Robe of the Thespian
 
-These magnificent vestments disguise the presence of armor as normal clothing (as the *[[rangoric-srd/magic-items/armor-abilities/Glamered|glamered]]* armor property). When worn by a [[rangoric-srd/classes/Bard|bard]], the robe grants the wearer the following powers:
+These magnificent vestments disguise the presence of armor as normal clothing (as the _[[rangoric-srd/magic-items/armor-abilities/Glamered|glamered]]_ armor property). When worn by a [[rangoric-srd/classes/Bard|bard]], the robe grants the wearer the following powers:
 
 - Spell resistance 18
 - +4 resistance bonus on all saving throws
@@ -29,4 +29,4 @@ These magnificent vestments disguise the presence of armor as normal clothing (a
 
 Bards and those who fancy themselves actors or performers commission versions of these robes using only the finest fabric.
 
-Strong varied; CL 16th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Antimagic Field|antimagic field]]*, *[[rangoric-srd/spells/Break Enchantment|break enchantment]]*, *[[rangoric-srd/spells/Heroism, Greater|greater heroism]]*, *[[rangoric-srd/spells/Veil|veil]]*; Price 75,000 gp; Cost 37,500 gp; Weight 1 lb.
+Strong varied; CL 16th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Antimagic Field|antimagic field]]_, _[[rangoric-srd/spells/Break Enchantment|break enchantment]]_, _[[rangoric-srd/spells/Heroism, Greater|greater heroism]]_, _[[rangoric-srd/spells/Veil|veil]]_; Price 75,000 gp; Cost 37,500 gp; Weight 1 lb.

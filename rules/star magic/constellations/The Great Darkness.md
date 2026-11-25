@@ -28,17 +28,17 @@ tags: [rangoric, rangoric/constellation]
 
 # The Great Darkness
 
-*[[rangoric-srd/rules/star magic/Star Magic|Constellation]]*
+_[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 
-  - **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Darkness|Darkness]], [[rangoric-srd/rules/star magic/stars/Star of Death|Death]], [[rangoric-srd/rules/star magic/stars/Star of Decay|Decay]], [[rangoric-srd/rules/star magic/stars/Star of Destruction|Destruction]], [[rangoric-srd/rules/star magic/stars/Star of Shadow|Shadow]]
-  - **Call Level**: 9th ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Long (400 ft. + 40 ft./level)
-  - **Area**: 30-ft.-radius burst
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Reflex half (see text)
-  - **Spell Resistance**: Yes
+- **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Darkness|Darkness]], [[rangoric-srd/rules/star magic/stars/Star of Death|Death]], [[rangoric-srd/rules/star magic/stars/Star of Decay|Decay]], [[rangoric-srd/rules/star magic/stars/Star of Destruction|Destruction]], [[rangoric-srd/rules/star magic/stars/Star of Shadow|Shadow]]
+- **Call Level**: 9th ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Long (400 ft. + 40 ft./level)
+- **Area**: 30-ft.-radius burst
+- **Duration**: Instantaneous
+- **Saving Throw**: Reflex half (see text)
+- **Spell Resistance**: Yes
 
 Freezing darkness swallows the area. Every unattended object in it is destroyed. Every creature in it takes 10d6 points of cold damage and 10d6 points of damage; a successful save cuts each to 5d6.
 

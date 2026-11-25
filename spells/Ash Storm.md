@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Ash Storm
 
-*Conjuration (Creation) \[Fire\]*
+_Conjuration (Creation) \[Fire\]_
 
-  - **Level**: Drd 3, Hun 3, Sor/Wiz 3, Wit 3
-  - **Components**: V, S, M/DF (a pinch of ash)
-  - **Casting Time**: 1 standard action
-  - **Range**: Long (400 ft. + 40 ft./level)
-  - **Area**: Cylinder (40-ft. radius, 20 ft. high)
-  - **Duration**: 1 round/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Drd 3, Hun 3, Sor/Wiz 3, Wit 3
+- **Components**: V, S, M/DF (a pinch of ash)
+- **Casting Time**: 1 standard action
+- **Range**: Long (400 ft. + 40 ft./level)
+- **Area**: Cylinder (40-ft. radius, 20 ft. high)
+- **Duration**: 1 round/level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 Driving ash blocks all sight (even darkvision) within the spell's area of effect, and falling cinders cause the ground in the area to become difficult terrain.

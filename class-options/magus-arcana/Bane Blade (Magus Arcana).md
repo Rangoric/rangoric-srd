@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Bane Blade
 
-*A [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]] (Su).*
+_A [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]] (Su)._
 
-Whenever the magus enhances his weapon using his arcane pool, he may spend 1 additional point from his arcane pool to add the *[[rangoric-srd/magic-items/weapon-abilities/Bane (Weapon Special Ability)|bane]]* special ability to the weapon. The magus must be at least 15th level before selecting this arcana.
+Whenever the magus enhances his weapon using his arcane pool, he may spend 1 additional point from his arcane pool to add the _[[rangoric-srd/magic-items/weapon-abilities/Bane (Weapon Special Ability)|bane]]_ special ability to the weapon. The magus must be at least 15th level before selecting this arcana.

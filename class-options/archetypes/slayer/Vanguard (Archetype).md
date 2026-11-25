@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Vanguard
 
-*A [[rangoric-srd/classes/Slayer#^slayer-archetypes|slayer]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Slayer#^slayer-archetypes|slayer]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Vanguards are battlefield commanders who focus on the brutality of combat and lead their allies to bloody victory. Quick to react to danger, a vanguard is a valuable scout, capable officer, and skilled tactician.
 

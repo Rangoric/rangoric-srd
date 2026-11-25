@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Invisible Blade
 
-*A [[rangoric-srd/classes/Ninja#^ninja-master-tricks|master trick]] (Su).*
+_A [[rangoric-srd/classes/Ninja#^ninja-master-tricks|master trick]] (Su)._
 
-Whenever a ninja uses the vanishing trick ninja trick, she is treated as if she were under the effects of *[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]*. The ninja must have the vanishing trick ninja trick before selecting this ninja trick.
+Whenever a ninja uses the vanishing trick ninja trick, she is treated as if she were under the effects of _[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]_. The ninja must have the vanishing trick ninja trick before selecting this ninja trick.

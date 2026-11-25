@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Cave Salamander
 
-*An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature (a cave salamander).*
+_An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature (a cave salamander)._
 
 - **Size**: Medium
 - **Speed**: 40 ft.

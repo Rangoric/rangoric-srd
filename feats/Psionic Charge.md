@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Psionic Charge
 
-You can charge in a crooked line.  
+You can charge in a crooked line.
 
 Prerequisite: Dex 13, [[rangoric-srd/feats/Speed of Thought|Speed of Thought]].
 

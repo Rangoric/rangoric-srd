@@ -23,7 +23,7 @@ Perks:
 - -2 Strength
 - Swim Speed: Undines have a swim speed of 30 feet, which works as described under [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^movement-modes|movement modes]], and [[rangoric-srd/skills/Athletics|Athletics]] is always a class skill for them.
 - Darkvision: Undines can see in the dark up to 60 feet; see [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] for how it works.
-- Spell-Like Ability: *[[rangoric-srd/spells/Hydraulic Push|Hydraulic push]]* 1/day (caster level equal to the undine's character level).
+- Spell-Like Ability: _[[rangoric-srd/spells/Hydraulic Push|Hydraulic push]]_ 1/day (caster level equal to the undine's character level).
 - Energy Resistance: Undines have cold resistance 5 (see [[rangoric-srd/rules/Special Abilities and Conditions#Resistance to Energy|resistance to energy]]).
 - Water Affinity: Undine [[rangoric-srd/classes/Sorcerer|sorcerers]] with the [[rangoric-srd/class-options/bloodlines/Elemental Bloodline|elemental (water) bloodline]] treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Undine spellcasters with the [[rangoric-srd/class-options/domains/Water Domain|Water domain]] use their domain powers and spells at +1 caster level.
 
@@ -47,17 +47,17 @@ Bonus Languages:
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 60 years | +4d6 | +6d6 | +8d6 |
+| --------- | --------- | ----------- | ------- |
+| 60 years  | +4d6      | +6d6        | +8d6    |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 150 years | 200 years | 250 years | +6d% years |
+| Middle Age | Old       | Venerable | Maximum Age |
+| ---------- | --------- | --------- | ----------- |
+| 150 years  | 200 years | 250 years | +6d% years  |
 
-| Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Male | 4 ft. 10 in. | +2d10 | 120 lb. | × 5 lb. |
-| Female | 4 ft. 5 in. | +2d10 | 85 lb. | × 5 lb. |
+| Gender | Base Height  | Height Modifier | Base Weight | Weight Modifier |
+| ------ | ------------ | --------------- | ----------- | --------------- |
+| Male   | 4 ft. 10 in. | +2d10           | 120 lb.     | × 5 lb.         |
+| Female | 4 ft. 5 in.  | +2d10           | 85 lb.      | × 5 lb.         |
 
 ### Description
 
@@ -85,17 +85,17 @@ Undines get along quite well with elves and gnomes. Often these races share prot
 
 An undine can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Acid Breath\|Acid Breath]] | Spell-like ability |
-| [[rangoric-srd/races/racial-traits/Amphibious\|Amphibious]] | Spell-like ability |
-| [[rangoric-srd/races/racial-traits/Deepsight (Racial Trait)\|Deepsight]] | Darkvision |
-| [[rangoric-srd/races/racial-traits/Flesh Chameleon\|Flesh Chameleon]] | Energy resistance |
-| [[rangoric-srd/races/racial-traits/Hydrated Vitality\|Hydrated Vitality]] | Water affinity |
+| Trait                                                                       | Replaces           |
+| --------------------------------------------------------------------------- | ------------------ |
+| [[rangoric-srd/races/racial-traits/Acid Breath\|Acid Breath]]               | Spell-like ability |
+| [[rangoric-srd/races/racial-traits/Amphibious\|Amphibious]]                 | Spell-like ability |
+| [[rangoric-srd/races/racial-traits/Deepsight (Racial Trait)\|Deepsight]]    | Darkvision         |
+| [[rangoric-srd/races/racial-traits/Flesh Chameleon\|Flesh Chameleon]]       | Energy resistance  |
+| [[rangoric-srd/races/racial-traits/Hydrated Vitality\|Hydrated Vitality]]   | Water affinity     |
 | [[rangoric-srd/races/racial-traits/Nereid Fascination\|Nereid Fascination]] | Spell-like ability |
-| [[rangoric-srd/races/racial-traits/Ooze Breath\|Ooze Breath]] | Spell-like ability |
-| [[rangoric-srd/races/racial-traits/Terrain Chameleon\|Terrain Chameleon]] | Energy resistance |
-| [[rangoric-srd/races/racial-traits/Water Sense\|Water Sense]] | Energy resistance |
+| [[rangoric-srd/races/racial-traits/Ooze Breath\|Ooze Breath]]               | Spell-like ability |
+| [[rangoric-srd/races/racial-traits/Terrain Chameleon\|Terrain Chameleon]]   | Energy resistance  |
+| [[rangoric-srd/races/racial-traits/Water Sense\|Water Sense]]               | Energy resistance  |
 
 ### Class Bonuses
 
@@ -107,7 +107,7 @@ An undine gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
-| [[rangoric-srd/class-options/archetypes/bard/Watersinger (Archetype)\|Watersinger]] | [[rangoric-srd/classes/Bard\|Bard]] |
+| Archetype                                                                              | Class                                 |
+| -------------------------------------------------------------------------------------- | ------------------------------------- |
+| [[rangoric-srd/class-options/archetypes/bard/Watersinger (Archetype)\|Watersinger]]    | [[rangoric-srd/classes/Bard\|Bard]]   |
 | [[rangoric-srd/class-options/archetypes/druid/Undine Adept (Archetype)\|Undine Adept]] | [[rangoric-srd/classes/Druid\|Druid]] |

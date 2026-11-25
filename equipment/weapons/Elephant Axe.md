@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/axes]
 
 # Elephant Axe
 
-*Exotic two-handed melee weapon (reach).* Cost 40 gp; Dmg — (S), 1d12 (M); Critical x4; Weight 25 lb.; Type Slashing. ^stats
+_Exotic two-handed melee weapon (reach)._ Cost 40 gp; Dmg — (S), 1d12 (M); Critical x4; Weight 25 lb.; Type Slashing. ^stats
 
 This is a huge axe with a crescent-moon shaped blade, and is specifically designed for hamstringing elephants, though it is capable of delivering devastating wounds against any sort of foe. The weapon is quite intimidating, and is often decorated to make it look even more menacing. It is not uncommon to find elephant axes adorned with tassels, the skulls of small animals, and horrific engravings.
 

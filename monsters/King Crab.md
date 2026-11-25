@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # King Crab
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]] (Aquatic)
-  - **Hit Dice**: 1d8+1 (5 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares), swim 20 ft.
-  - **Armor Class**: 18 (+2 Dex, +4 natural, +2 size), touch 14, flat-footed 16
-  - **Base Attack**: +0; **CMB**: +0 (+4 grapple); **CMD**: 8 (20 vs. trip)
-  - **Attack**: Claw +0 melee (1d2–2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: 2 claws +0 melee (1d2–2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d2–2)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Water Dependency|water dependency]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-  - **Saves**: Fort +3, Ref +2, Will +0
-  - **Abilities**: Str 7, Dex 15, Con 12, Int —, Wis 10, Cha 2
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +4
-  - **Feats**: —
-  - **Environment**: Any aquatic
-  - **Organization**: Solitary or cast (2–12)
-  - **Challenge Rating**: 1/4
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]] (Aquatic)
+- **Hit Dice**: 1d8+1 (5 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares), swim 20 ft.
+- **Armor Class**: 18 (+2 Dex, +4 natural, +2 size), touch 14, flat-footed 16
+- **Base Attack**: +0; **CMB**: +0 (+4 grapple); **CMD**: 8 (20 vs. trip)
+- **Attack**: Claw +0 melee (1d2–2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: 2 claws +0 melee (1d2–2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d2–2)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Water Dependency|water dependency]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
+- **Saves**: Fort +3, Ref +2, Will +0
+- **Abilities**: Str 7, Dex 15, Con 12, Int —, Wis 10, Cha 2
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +4
+- **Feats**: —
+- **Environment**: Any aquatic
+- **Organization**: Solitary or cast (2–12)
+- **Challenge Rating**: 1/4
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 King crabs are small crustaceans with eight legs and two pincers or claws. Aquatic scavengers, crabs can also survive on land for some time, but must return to the water or suffocate.
 

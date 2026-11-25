@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Fleshdreg
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 2d8+4 (13 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 14 (+1 Dex, +2 natural, +1 size), touch 12, flat-footed 13
-  - **Base Attack**: +1; **CMB**: +1; **CMD**: 12
-  - **Attack**: Bite +3 melee (1d6+1 plus sinful bite)
-  - **Full Attack**: Bite +3 melee (1d6+1 plus sinful bite)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Sin-Scent|sin-scent]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 12
-  - **Saves**: Fort +2, Ref +3, Will +3
-  - **Abilities**: Str 12, Dex 13, Con 15, Int 6, Wis 11, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +9
-  - **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
-  - **Environment**: Any ruins
-  - **Organization**: Solitary, pair, or batch (3–8)
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 2d8+4 (13 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 14 (+1 Dex, +2 natural, +1 size), touch 12, flat-footed 13
+- **Base Attack**: +1; **CMB**: +1; **CMD**: 12
+- **Attack**: Bite +3 melee (1d6+1 plus sinful bite)
+- **Full Attack**: Bite +3 melee (1d6+1 plus sinful bite)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Sin-Scent|sin-scent]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 12
+- **Saves**: Fort +2, Ref +3, Will +3
+- **Abilities**: Str 12, Dex 13, Con 15, Int 6, Wis 11, Cha 12
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
+- **Environment**: Any ruins
+- **Organization**: Solitary, pair, or batch (3–8)
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Fleshdregs are misshapen lumps of tissue, appendages, and biting mouths. These incomplete sinspawn are practically immortal, require little food to sustain their unnatural physiology, and don't seem to mature past the point of creation. Fleshdregs follow [[rangoric-srd/monsters/Sinspawn|true sinspawn]] around like pets or curious children. Sinspawn use these weaker creatures as slaves, troops, and hunting companions. Despite this treatment, fleshdregs still seek out the company of their larger, more advanced cousins.
 

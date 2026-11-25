@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 Three times per day, the wearer of this dark jacket can create a vial containing one dose of any [[rangoric-srd/rules/Afflictions#Poison|poison]] that costs 300 gp or less. The jacket's poison always looks like a murky amber fluid. This poison becomes inert after 1 hour.
 
-Faint conjuration and necromancy; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Minor Creation|minor creation]]*, *[[rangoric-srd/spells/Poison|poison]]*; Price 12,000 gp; Cost 6,000 gp; Weight 3 lbs.
+Faint conjuration and necromancy; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Minor Creation|minor creation]]_, _[[rangoric-srd/spells/Poison|poison]]_; Price 12,000 gp; Cost 6,000 gp; Weight 3 lbs.

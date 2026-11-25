@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Sacred Fist
 
-*A [[rangoric-srd/classes/Warpriest#^warpriest-archetypes|warpriest]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Warpriest#^warpriest-archetypes|warpriest]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Unlike many warpriests, sacred fists leave behind armor and shield and instead rely on their fists and whatever protection their deity bestows on them.
 

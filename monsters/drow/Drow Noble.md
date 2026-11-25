@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Drow Noble
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf)
-  - **Hit Dice**: 3d8+3 (16 hp)
-  - **Initiative**: +3
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 21 (+6 armor, +3 Dex, +2 shield), touch 13, flat-footed 18
-  - **Base Attack**: +2; **CMB**: +3; **CMD**: 16
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Rapier|rapier]] +4 melee (1d6+1/18–20) or [[rangoric-srd/equipment/weapons/Hand Crossbow|hand crossbow]] +5 ranged (1d4/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Rapier|rapier]] +4 melee (1d6+1/18–20); or [[rangoric-srd/equipment/weapons/Hand Crossbow|hand crossbow]] +5 ranged (1d4/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/class-options/domains/Death Domain|Bleeding touch]] (6/day), [[rangoric-srd/classes/Cleric#^cleric-channel-energy|channel negative energy]] (4/day, 2d6, DC 12), [[rangoric-srd/class-options/domains/Death Domain|death touch]] (3d6, 1/day), [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]], [[rangoric-srd/class-options/domains/Chaos Domain|touch of chaos]] (6/day)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/races/racial-traits/Poison Use|poison use]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 14, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
-  - **Saves**: Fort +4, Ref +4, Will +6
-  - **Abilities**: Str 12, Dex 17, Con 12, Int 10, Wis 17, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Theology|Theology]] +6
-  - **Feats**: [[rangoric-srd/feats/Channel Smite|Channel Smite]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: 
-  - **Organization**: 
-  - **Challenge Rating**: 3
-  - **Treasure**: NPC gear (masterwork breastplate, heavy steel shield, masterwork rapier, drow poison [4], potion of invisibility, scroll of dispel magic, wand of cure light wounds [CL 1st, 20 charges], 400 gp)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf)
+- **Hit Dice**: 3d8+3 (16 hp)
+- **Initiative**: +3
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 21 (+6 armor, +3 Dex, +2 shield), touch 13, flat-footed 18
+- **Base Attack**: +2; **CMB**: +3; **CMD**: 16
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Rapier|rapier]] +4 melee (1d6+1/18–20) or [[rangoric-srd/equipment/weapons/Hand Crossbow|hand crossbow]] +5 ranged (1d4/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Rapier|rapier]] +4 melee (1d6+1/18–20); or [[rangoric-srd/equipment/weapons/Hand Crossbow|hand crossbow]] +5 ranged (1d4/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/class-options/domains/Death Domain|Bleeding touch]] (6/day), [[rangoric-srd/classes/Cleric#^cleric-channel-energy|channel negative energy]] (4/day, 2d6, DC 12), [[rangoric-srd/class-options/domains/Death Domain|death touch]] (3d6, 1/day), [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]], [[rangoric-srd/class-options/domains/Chaos Domain|touch of chaos]] (6/day)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/races/racial-traits/Poison Use|poison use]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 14, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
+- **Saves**: Fort +4, Ref +4, Will +6
+- **Abilities**: Str 12, Dex 17, Con 12, Int 10, Wis 17, Cha 12
+- **Skills**: [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Theology|Theology]] +6
+- **Feats**: [[rangoric-srd/feats/Channel Smite|Channel Smite]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**:
+- **Organization**:
+- **Challenge Rating**: 3
+- **Treasure**: NPC gear (masterwork breastplate, heavy steel shield, masterwork rapier, drow poison [4], potion of invisibility, scroll of dispel magic, wand of cure light wounds [CL 1st, 20 charges], 400 gp)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A drow noble is a [[rangoric-srd/races/Drow|drow]] with 3 levels of [[rangoric-srd/classes/Cleric|cleric]].
 
@@ -72,12 +72,12 @@ Drow nobles are defined by their class levels—they do not possess racial Hit D
 
 **Spell Resistance**: Drow nobles have spell resistance equal to 11 + their character level.
 
-**Spell-Like Abilities**: Drow nobles can cast *[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]*, *[[rangoric-srd/spells/Faerie Fire|faerie fire]]*, *[[rangoric-srd/spells/Feather Fall|feather fall]]*, and *[[rangoric-srd/spells/Levitate|levitate]]* each at will, and have *[[rangoric-srd/spells/Detect Magic|detect magic]]* as a constant spell-like ability. A drow noble can also cast *[[rangoric-srd/spells/Divine Favor|divine favor]]*, *[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, and *[[rangoric-srd/spells/Suggestion|suggestion]]* once per day each. In some cases, a drow noble's spell-like abilities might vary, although the level of a particular spell-like ability does not. A drow noble's caster level for her spell-like abilities is equal to her character level.
+**Spell-Like Abilities**: Drow nobles can cast _[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_, _[[rangoric-srd/spells/Faerie Fire|faerie fire]]_, _[[rangoric-srd/spells/Feather Fall|feather fall]]_, and _[[rangoric-srd/spells/Levitate|levitate]]_ each at will, and have _[[rangoric-srd/spells/Detect Magic|detect magic]]_ as a constant spell-like ability. A drow noble can also cast _[[rangoric-srd/spells/Divine Favor|divine favor]]_, _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, and _[[rangoric-srd/spells/Suggestion|suggestion]]_ once per day each. In some cases, a drow noble's spell-like abilities might vary, although the level of a particular spell-like ability does not. A drow noble's caster level for her spell-like abilities is equal to her character level.
 
 Drow nobles speak Elven and Undercommon.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd): Constant—*[[rangoric-srd/spells/Detect Magic|detect magic]]*; At will—*[[rangoric-srd/spells/Dancing Lights|dancing lights]], [[rangoric-srd/spells/Deeper Darkness|deeper darkness]], [[rangoric-srd/spells/Faerie Fire|faerie fire]], [[rangoric-srd/spells/Feather Fall|feather fall]], [[rangoric-srd/spells/Levitate|levitate]]*; 1/day—*[[rangoric-srd/spells/Divine Favor|divine favor]], [[rangoric-srd/spells/Dispel Magic|dispel magic]], [[rangoric-srd/spells/Suggestion|suggestion]]* (DC 14).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd): Constant—_[[rangoric-srd/spells/Detect Magic|detect magic]]_; At will—_[[rangoric-srd/spells/Dancing Lights|dancing lights]], [[rangoric-srd/spells/Deeper Darkness|deeper darkness]], [[rangoric-srd/spells/Faerie Fire|faerie fire]], [[rangoric-srd/spells/Feather Fall|feather fall]], [[rangoric-srd/spells/Levitate|levitate]]_; 1/day—_[[rangoric-srd/spells/Divine Favor|divine favor]], [[rangoric-srd/spells/Dispel Magic|dispel magic]], [[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 14).
 
-**Cleric spells prepared** (CL 3rd): 2nd—*[[rangoric-srd/spells/Death Knell|death knell]]*<sup>D</sup> (DC 15), *[[rangoric-srd/spells/Hold Person|hold person]]* (DC 15), *[[rangoric-srd/spells/Silence|silence]]* (DC 15); 1st—*[[rangoric-srd/spells/Bless|bless]]*, *[[rangoric-srd/spells/Cause Fear|cause fear]]* (DC 14), *[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]*, *[[rangoric-srd/spells/Protection from Law|protection from law]]*<sup>D</sup>; 0—*[[rangoric-srd/spells/Bleed|bleed]]* (DC 13), *[[rangoric-srd/spells/Detect Poison|detect poison]], [[rangoric-srd/spells/Read Magic|read magic]], [[rangoric-srd/spells/Resistance|resistance]]*; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Chaos Domain|Chaos]], [[rangoric-srd/class-options/domains/Death Domain|Death]].
+**Cleric spells prepared** (CL 3rd): 2nd—_[[rangoric-srd/spells/Death Knell|death knell]]_<sup>D</sup> (DC 15), _[[rangoric-srd/spells/Hold Person|hold person]]_ (DC 15), _[[rangoric-srd/spells/Silence|silence]]_ (DC 15); 1st—_[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Cause Fear|cause fear]]_ (DC 14), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Protection from Law|protection from law]]_<sup>D</sup>; 0—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 13), _[[rangoric-srd/spells/Detect Poison|detect poison]], [[rangoric-srd/spells/Read Magic|read magic]], [[rangoric-srd/spells/Resistance|resistance]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Chaos Domain|Chaos]], [[rangoric-srd/class-options/domains/Death Domain|Death]].

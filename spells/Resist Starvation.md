@@ -26,15 +26,15 @@ tags: [rangoric, rangoric/spell]
 
 # Resist Starvation
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Apl 1, Clr 1
-  - **Components**: V, S, M (crumb of food)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: One living creature touched
-  - **Duration**: Caster level day(s)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Apl 1, Clr 1
+- **Components**: V, S, M (crumb of food)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: One living creature touched
+- **Duration**: Caster level day(s)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 If the target doesn't eat on the day this spell is cast on it, the DC to avoid taking nonlethal damage from starvation on the following day doesn't increase by 1. This spell fails if the target hasn't already attempted at least one Constitution check to avoid starvation.

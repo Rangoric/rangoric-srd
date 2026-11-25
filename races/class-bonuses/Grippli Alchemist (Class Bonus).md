@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Grippli Alchemist
 
-*A [[rangoric-srd/races/Grippli|grippli]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Alchemist#^alchemist-class-bonuses|alchemist]] level.*
+_A [[rangoric-srd/races/Grippli|grippli]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Alchemist#^alchemist-class-bonuses|alchemist]] level._
 
 Add +1/4 to the number of [[rangoric-srd/races/racial-traits/Toxic Skin|toxic skin]] uses per day.

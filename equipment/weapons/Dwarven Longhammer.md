@@ -25,6 +25,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/hammers]
 
 # Dwarven Longhammer
 
-*Exotic two-handed melee weapon (reach).* Cost 70 gp; Dmg 1d10 (S), 2d6 (M); Critical x3; Weight 20 lb.; Type Bludgeoning. ^stats
+_Exotic two-handed melee weapon (reach)._ Cost 70 gp; Dmg 1d10 (S), 2d6 (M); Critical x3; Weight 20 lb.; Type Bludgeoning. ^stats
 
 These heavy-headed bludgeons are often carved or cast with monstrous faces or drilled with tiny holes to create a menacing whistling as they are swung through the air.

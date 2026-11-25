@@ -23,11 +23,11 @@ First, select the class in which you'll gain your next level. You must meet all 
 
 **Universal Abilities**: Universal abilities include your selected class's base attack bonus, hit points (hp), and saving throw bonuses. At the 25%, 50%, and 75% XP tiers, you can select one of the following options.
 
-*Base Attack Bonus*: Increase your selected class's base attack bonus (if applicable).
+_Base Attack Bonus_: Increase your selected class's base attack bonus (if applicable).
 
-*Hit Points*: Determine the number of hit points you would gain for advancing to the next level in your class and add 50% of those hit points (rounding down) to your hit point maximum. When you advance fully to the next level of your selected class, add the remaining hit points.
+_Hit Points_: Determine the number of hit points you would gain for advancing to the next level in your class and add 50% of those hit points (rounding down) to your hit point maximum. When you advance fully to the next level of your selected class, add the remaining hit points.
 
-*Saving Throw Bonuses*: Increase your class's saving throw bonuses (if applicable).
+_Saving Throw Bonuses_: Increase your class's saving throw bonuses (if applicable).
 
 Each of the above options can only be selected once per level. Additionally, the base attack bonuses and saving throw bonuses of some classes don't increase each time they advance in level. If only one universal ability is applicable, incorporate it at the 75% tier. If two are applicable, incorporate one at the 50% tier and the other at the 75% tier (your choice).
 

@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/overview]
 
 ### Psionic Fist
 
-Hit Die: d6.  
+Hit Die: d6.
 
 **[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
 
@@ -27,7 +27,7 @@ Hit Die: d6.
 
 ###### Requirements
 
-To qualify to become a Psionic Fist, a character must fulfill all the following criteria.  
+To qualify to become a Psionic Fist, a character must fulfill all the following criteria.
 
 Base Attack Bonus: +4.
 
@@ -39,29 +39,29 @@ Special: Still mind class feature.
 
 ###### Class Skills
 
-The Psionic Fist’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]](Str), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Meditation|Meditation]] (Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Psionics (Skill)|Psionics]] (Int), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), [[rangoric-srd/skills/Stealth|Stealth]] (Dex), and [[rangoric-srd/skills/Theology|Theology]] (Int).  
+The Psionic Fist’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]](Str), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Meditation|Meditation]] (Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Psionics (Skill)|Psionics]] (Int), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), [[rangoric-srd/skills/Stealth|Stealth]] (Dex), and [[rangoric-srd/skills/Theology|Theology]] (Int).
 
 Skill Points at Each Level: 4 + Int modifier.
 
-Table: The Psionic Fist  
+Table: The Psionic Fist
 
 |       |                    |            |              |             |
 | ----- | ------------------ | ---------- | ------------ | ----------- |
 | Level | Special            | Points/Day | Powers Known | Level Known |
 | 1st   | Monk abilities     | 1          | 1            | 1st         |
-| 2nd   | -                 | 3          | 2            | 1st         |
-| 3rd   | -                 | 6          | 3            | 2nd         |
-| 4th   | -                 | 10         | 4            | 2nd         |
+| 2nd   | -                  | 3          | 2            | 1st         |
+| 3rd   | -                  | 6          | 3            | 2nd         |
+| 4th   | -                  | 10         | 4            | 2nd         |
 | 5th   | Bonus psionic feat | 15         | 5            | 3rd         |
-| 6th   | -                 | 23         | 6            | 3rd         |
-| 7th   | -                 | 31         | 7            | 4th         |
-| 8th   | -                 | 43         | 8            | 4th         |
-| 9th   | -                 | 55         | 9            | 5th         |
+| 6th   | -                  | 23         | 6            | 3rd         |
+| 7th   | -                  | 31         | 7            | 4th         |
+| 8th   | -                  | 43         | 8            | 4th         |
+| 9th   | -                  | 55         | 9            | 5th         |
 | 10th  | Bonus psionic feat | 71         | 10           | 5th         |
 
 ###### Class Features
 
-All the following are class features of the Psionic Fist prestige class.  
+All the following are class features of the Psionic Fist prestige class.
 
 Weapon and Armor Proficiency: Psionic Fists gain no proficiency with any weapon or armor.
 

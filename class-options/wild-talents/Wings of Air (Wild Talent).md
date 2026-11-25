@@ -18,12 +18,12 @@ tags: [rangoric, rangoric/class-option]
 
 # Wings of Air
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Air Element|air]]
-  - **Type**: utility (Sp)
-  - **Level**: 3
-  - **Burn**: 0
-  - **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Air Cushion|air cushion]] or [[rangoric-srd/class-options/wild-talents/Air's Leap|air’s leap]]
+- **Element**: [[rangoric-srd/class-options/elements/Air Element|air]]
+- **Type**: utility (Sp)
+- **Level**: 3
+- **Burn**: 0
+- **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Air Cushion|air cushion]] or [[rangoric-srd/class-options/wild-talents/Air's Leap|air’s leap]]
 
-The air bends to your will, allowing you to soar to great heights. You are constantly under the effects of *[[rangoric-srd/spells/Fly|fly]]*. If this effect is dispelled, you can call it forth again as a standard action.
+The air bends to your will, allowing you to soar to great heights. You are constantly under the effects of _[[rangoric-srd/spells/Fly|fly]]_. If this effect is dispelled, you can call it forth again as a standard action.

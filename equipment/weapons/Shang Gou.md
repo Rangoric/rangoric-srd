@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/monk, eastern]
 
 # Shang Gou
 
-*Martial light melee weapon (disarm, trip, monk).* Cost 6 gp; Dmg 1d3 (S), 1d4 (M); Critical x2; Weight 1 lb.; Type Slashing. ^stats
+_Martial light melee weapon (disarm, trip, monk)._ Cost 6 gp; Dmg 1d3 (S), 1d4 (M); Critical x2; Weight 1 lb.; Type Slashing. ^stats
 
 Forged in pairs, these solid metal blades end in curved hooks, while the hand guards are hammered into outward-facing spiked crescents. Both the crescent and the tip of the hilt are sharpened for combat. They can be wielded as single weapons or with two-weapon fighting styles. A single shang gou is a [[rangoric-srd/equipment/Equipment Weapons#^weapon-disarm|disarm]] weapon. A pair of shang gou can also be formed into a single one-handed weapon, which can be used to make [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] attacks; if you are tripped during your own trip attempt, you can drop it to avoid being tripped.
 

@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Inflict Light Wounds, Mass
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Clr 5, Destruction 5, Inq 5, Occ 5, Sha 5, Wit 6
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature/level, no two of which can be more than 30 ft. apart
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will half
-  - **Spell Resistance**: Yes
+- **Level**: Clr 5, Destruction 5, Inq 5, Occ 5, Sha 5, Wit 6
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature/level, no two of which can be more than 30 ft. apart
+- **Duration**: Instantaneous
+- **Saving Throw**: Will half
+- **Spell Resistance**: Yes
 
 Negative energy spreads out in all directions from the point of origin, dealing 1d8 points of damage +1 point per caster level (maximum +25) to nearby living enemies.
 

@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/magic-item]
 
 These Large gauntlets are bulky, and the palms and fingers are studded with wickedly serrated spikes. The wearer gains a +2 bonus on damage rolls with its claw attacks; the wearer adds this bonus damage once for each claw attack used in a [[rangoric-srd/monsters/abilities/Rend|rend]]. The crude construction and thick metal used in the gauntlets make it difficult for the wearer to perform fine manipulation. Consequently, the wearer takes a –4 penalty on all Dexterity-based checks involving her hands.
 
-Faint evocation; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Magic Weapon|magic weapon]]*; Price 8,000 gp; Cost 4,000 gp; Weight 4 lb.
+Faint evocation; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Magic Weapon|magic weapon]]_; Price 8,000 gp; Cost 4,000 gp; Weight 4 lb.

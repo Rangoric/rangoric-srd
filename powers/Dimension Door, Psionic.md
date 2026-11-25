@@ -32,7 +32,7 @@ Target or Targets: You and touched objects or other touched willing creatures
 Duration: Instantaneous  
 Saving Throw: None and Will negates (object)  
 Power Resistance: No and Yes (object)  
-Power Points: 7  
+Power Points: 7
 
 As the [[rangoric-srd/spells/Dimension Door|dimension door]] spell, except as noted here.
 

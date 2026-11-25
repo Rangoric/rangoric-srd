@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Language Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Rune Domain|Rune]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Rune Domain|Rune]] domain._
 
 ## Replacement Power
 
@@ -27,9 +27,9 @@ This power replaces the [[rangoric-srd/class-options/domains/Rune Domain#Granted
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Comprehend Languages\|Comprehend Languages]] | You understand all spoken and written languages. |
-| 2nd | [[rangoric-srd/spells/Share Language\|Share Language]] (M) | Subject understands chosen language. |
-| 3rd | [[rangoric-srd/spells/Tongues\|Tongues]] | Speak any language. |
-| 5th | [[rangoric-srd/spells/Telepathic Bond\|Telepathic Bond]] (M) | Link lets allies communicate. |
+| Level | Spell                                                              | Brief Description                                |
+| ----- | ------------------------------------------------------------------ | ------------------------------------------------ |
+| 1st   | [[rangoric-srd/spells/Comprehend Languages\|Comprehend Languages]] | You understand all spoken and written languages. |
+| 2nd   | [[rangoric-srd/spells/Share Language\|Share Language]] (M)         | Subject understands chosen language.             |
+| 3rd   | [[rangoric-srd/spells/Tongues\|Tongues]]                           | Speak any language.                              |
+| 5th   | [[rangoric-srd/spells/Telepathic Bond\|Telepathic Bond]] (M)       | Link lets allies communicate.                    |

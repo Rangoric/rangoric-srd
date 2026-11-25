@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Philter of the Pack
 
-*Ingestible; Special*
+_Ingestible; Special_
 
 This philter of herbs, chymicals, and animal pheromones produces an effect identical to the Wild Empathy ability of a druid. Wild and domesticated animals recognize the imbiber as one of their own rather than as potential prey or a threat, and the imbiber is considered a 10th level druid for Wild Empathy checks if he doesn’t have any levels of druid. If he does, the philter adds +10 to the roll. The effects of this philter last for 1d12 hours.
 

@@ -25,7 +25,7 @@ tags: [rangoric, rangoric/armor]
 
 # Lamellar, Leather
 
-*Light armor.* Cost 60 gp; Armor Bonus +4; Maximum Dex Bonus +3; Armor Check Penalty –2; Arcane Spell Failure 20%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 25 lb. ^stats
+_Light armor._ Cost 60 gp; Armor Bonus +4; Maximum Dex Bonus +3; Armor Check Penalty –2; Arcane Spell Failure 20%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 25 lb. ^stats
 
 Lamellar is a type of armor in which small plates of various types of materials are strung together in parallel rows using fine cord. Lamellar plates can be constructed from lacquered leather, horn, or even stone, though suits of iron and steel are the most common. Lamellar armor can be crafted into various shapes, including partial pieces such as breastplates, greaves, or even entire coats, and it comes with a set of gauntlets. The properties of specific suits and pieces of lamellar armor are determined by their material.
 

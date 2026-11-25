@@ -11,9 +11,9 @@ tags: [rangoric, rangoric/monster]
 
 # Giant Ant
 
-  - [[rangoric-srd/monsters/giant-ant/Giant Ant, Worker|Giant Ant, Worker]]
-  - [[rangoric-srd/monsters/giant-ant/Giant Ant, Soldier|Giant Ant, Soldier]]
-  - [[rangoric-srd/monsters/giant-ant/Giant Ant, Queen|Giant Ant, Queen]]
+- [[rangoric-srd/monsters/giant-ant/Giant Ant, Worker|Giant Ant, Worker]]
+- [[rangoric-srd/monsters/giant-ant/Giant Ant, Soldier|Giant Ant, Soldier]]
+- [[rangoric-srd/monsters/giant-ant/Giant Ant, Queen|Giant Ant, Queen]]
 
 Giant ants are among the hardiest and most adaptable vermin. Soldiers and workers are about 6 feet long, while queens can grow to a length of 9 feet.
 

@@ -25,7 +25,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Sandman
 
-*A [[rangoric-srd/classes/Bard#^bard-archetypes|bard]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Bard#^bard-archetypes|bard]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Combining performance with stealth, trickery, and guile, the sandman uses cleverness to keep others off-balance.
 
@@ -33,7 +33,7 @@ Combining performance with stealth, trickery, and guile, the sandman uses clever
 
 **Stealspell (Su)**: A sandman can use performance to steal spells from his foes and add them to his list of spells known. Once the performance is started, the bard can steal a prepared spell or a spell known from another creature with a touch attack as a standard action. The target receives a Will save (DC 10 + 1/2 the bard's level + the bard's Cha bonus) to negate the effect. The sandman may choose a spell to steal, but if the target does not possess the spell, the bardic performance immediately ends. Otherwise the spell stolen is random, but it is always of the highest level that the bard can cast, if possible. The target loses the prepared spell or spell known and the sandman adds it to his list of spells known for as long as the performance continues, after which it reverts to the original recipient. While stolen, the bard can cast the spell using his available spell slots. This use does not consume the stolen spell. If the bard steals another spell while a spell is stolen, the previous spell immediately reverts to its original owner. This ability requires visual components. This performance replaces [[rangoric-srd/classes/Bard#^inspire-courage|inspire courage]].
 
-**Slumber Song (Sp)**: At 6th level, a sandman can use his performance to cause a creature he has already [[rangoric-srd/classes/Bard#^bard-fascinate|fascinated]] to fall asleep (as *[[rangoric-srd/spells/Deep Slumber|deep slumber]]*, but with no HD limit). Otherwise, this ability functions like [[rangoric-srd/classes/Bard#^bard-suggestion|suggestion]]. This performance replaces [[rangoric-srd/classes/Bard#^bard-suggestion|suggestion]].
+**Slumber Song (Sp)**: At 6th level, a sandman can use his performance to cause a creature he has already [[rangoric-srd/classes/Bard#^bard-fascinate|fascinated]] to fall asleep (as _[[rangoric-srd/spells/Deep Slumber|deep slumber]]_, but with no HD limit). Otherwise, this ability functions like [[rangoric-srd/classes/Bard#^bard-suggestion|suggestion]]. This performance replaces [[rangoric-srd/classes/Bard#^bard-suggestion|suggestion]].
 
 **Dramatic Subtext (Su)**: At 9th level, a sandman can use bardic performance to cast spells without obvious visual or audible components while retaining the spell's normal effects. Observers must succeed at a [[rangoric-srd/skills/Perception|Perception]] check opposed by a sandman's [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] check to notice that the sandman is the source of the spellcasting (though spellcasting still provokes [[rangoric-srd/combat/Combat Initiative and Attacks of Opportunity#Attacks of Opportunity|attacks of opportunity]]). The bard must use this performance for at least 2 rounds before casting a spell; otherwise he is automatically detected and the performance ends. This ability replaces [[rangoric-srd/classes/Bard#^inspire-greatness|inspire greatness]].
 

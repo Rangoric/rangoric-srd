@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Sasquatch
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Sasquatch)
-  - **Hit Dice**: 3d8+9 (22 hp)
-  - **Initiative**: +2
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 14 (+2 Dex, +2 natural), touch 12, flat-footed 12
-  - **Base Attack**: +2; **CMB**: +8; **CMD**: 20
-  - **Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +8 melee (1d6+9) or slam +8 melee (1d4+9) or rock +5 ranged (1d4+9)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +8 melee (1d6+9); or slam +8 melee (1d4+9); or rock +5 ranged (1d4+9)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (120 ft.)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Pungency|pungency]], [[rangoric-srd/monsters/abilities/Woodland Stride|woodland stride]]
-  - **Saves**: Fort +4, Ref +5, Will +1
-  - **Abilities**: Str 22, Dex 15, Con 16, Int 9, Wis 10, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11, [[rangoric-srd/skills/Medicine|Medicine]] +0, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +10 (+14 in forested areas)
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft, Stealth)
-  - **Environment**: Temperate or cold forests
-  - **Organization**: Solitary, pair, or family (3–7)
-  - **Challenge Rating**: 2
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Sasquatch)
+- **Hit Dice**: 3d8+9 (22 hp)
+- **Initiative**: +2
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 14 (+2 Dex, +2 natural), touch 12, flat-footed 12
+- **Base Attack**: +2; **CMB**: +8; **CMD**: 20
+- **Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +8 melee (1d6+9) or slam +8 melee (1d4+9) or rock +5 ranged (1d4+9)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +8 melee (1d6+9); or slam +8 melee (1d4+9); or rock +5 ranged (1d4+9)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (120 ft.)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Pungency|pungency]], [[rangoric-srd/monsters/abilities/Woodland Stride|woodland stride]]
+- **Saves**: Fort +4, Ref +5, Will +1
+- **Abilities**: Str 22, Dex 15, Con 16, Int 9, Wis 10, Cha 11
+- **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11, [[rangoric-srd/skills/Medicine|Medicine]] +0, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +10 (+14 in forested areas)
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft, Stealth)
+- **Environment**: Temperate or cold forests
+- **Organization**: Solitary, pair, or family (3–7)
+- **Challenge Rating**: 2
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The elusive sasquatches earn their mysterious reputation rightly; they live in unpopulated forests and avoid confrontations with humanoids, only becoming violent when they feel threatened, when their territory is encroached upon, or when they feel they must protect their young. Left to their own devices, sasquatch families are perfectly content to live their lives in the deep woods, leaving behind little to no trace of their passing save for the periodic big footprint in the ground.
 

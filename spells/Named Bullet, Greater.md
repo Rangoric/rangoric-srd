@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Named Bullet, Greater
 
-*Divination*
+_Divination_
 
-  - **Level**: Hun 4, Inq 6, Psy 6, Rgr 4, Sor/Wiz 6, Wit 6
-  - **Components**: V, S, M/DF (an item from the selected creature or creature type)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: One piece of ammunition or one thrown weapon
-  - **Duration**: 10 minutes/level or until discharged
-  - **Saving Throw**: Will negates (harmless, object)
-  - **Spell Resistance**: Yes (harmless, object)
+- **Level**: Hun 4, Inq 6, Psy 6, Rgr 4, Sor/Wiz 6, Wit 6
+- **Components**: V, S, M/DF (an item from the selected creature or creature type)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: One piece of ammunition or one thrown weapon
+- **Duration**: 10 minutes/level or until discharged
+- **Saving Throw**: Will negates (harmless, object)
+- **Spell Resistance**: Yes (harmless, object)
 
-This spell functions like *[[rangoric-srd/spells/Named Bullet|named bullet]]*, except it deals 2 extra points of damage per caster level (maximum 40).
+This spell functions like _[[rangoric-srd/spells/Named Bullet|named bullet]]_, except it deals 2 extra points of damage per caster level (maximum 40).

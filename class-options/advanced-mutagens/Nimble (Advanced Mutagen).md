@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Nimble
 
-*A [[rangoric-srd/prestige-classes/Master Chymist#^master-chymist-advanced-mutagen|master chymist’s advanced mutagen]] (Ex).*
+_A [[rangoric-srd/prestige-classes/Master Chymist#^master-chymist-advanced-mutagen|master chymist’s advanced mutagen]] (Ex)._
 
 The master chymist’s lithe physical frame gives her an alchemical bonus on all Dexterity checks, Dexterity skill checks, and [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]], and a natural armor bonus to her Armor Class. The bonus is equal to half the master chymist’s class level.

@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Exemplar
 
-*A [[rangoric-srd/classes/Brawler#^brawler-archetypes|brawler]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Brawler#^brawler-archetypes|brawler]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A versatile soldier who inspires her companions with her fighting prowess, an exemplar is at home on the front lines of battles anywhere.
 

@@ -22,13 +22,13 @@ tags: [rangoric, rangoric/spell]
 
 # Grace
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Clr 2, Pal 1
-  - **Components**: V
-  - **Casting Time**: 1 swift action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: See text
+- **Level**: Clr 2, Pal 1
+- **Components**: V
+- **Casting Time**: 1 swift action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: See text
 
 Until the end of your turn, your movement does not provoke attacks of opportunity.

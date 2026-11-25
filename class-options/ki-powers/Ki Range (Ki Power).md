@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Ki Range
 
-*A [[rangoric-srd/classes/Unchained Monk#^unchained-monk-ki-powers|ki power]] (Su).*
+_A [[rangoric-srd/classes/Unchained Monk#^unchained-monk-ki-powers|ki power]] (Su)._
 
 A monk with this ability can spend 1 ki point as a swift action to increase the range increment of any thrown monk weapon by 20 feet. Apply this benefit before doubling the range increment with the Far Shot feat.

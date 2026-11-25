@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Heavy Training
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
 The vigilante gains [[rangoric-srd/feats/Armor Proficiency (Heavy)|Armor Proficiency (Heavy)]] as a bonus feat, if he does not have that feat already. The [[rangoric-srd/class-options/vigilante-talents/Armor Skin (Vigilante Talent)|armor skin]] vigilante talent also applies to heavy armor.
 

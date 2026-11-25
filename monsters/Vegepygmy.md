@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Vegepygmy
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
-  - **Hit Dice**: 1d8+1 (5 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 16 (+2 Dex, +3 natural, +1 size), touch 13, flat-footed 14
-  - **Base Attack**: +0; **CMB**: –1; **CMD**: 11
-  - **Attack**: Claw +1 melee (1d4) or [[rangoric-srd/equipment/weapons/Longspear|longspear]] +1 melee (1d6)
-  - **Full Attack**: 2 claws +1 melee (1d4); or [[rangoric-srd/equipment/weapons/Longspear|longspear]] +1 melee (1d6)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/slashing or bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-  - **Saves**: Fort +3, Ref +2, Will +0
-  - **Abilities**: Str 11, Dex 14, Con 12, Int 8, Wis 11, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +10 (+18 in vegetation)
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any underground
-  - **Organization**: Solitary, gang (2–6), or tribe (7–30 plus 1 chieftain)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: Standard (longspear, other treasure)
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
+- **Hit Dice**: 1d8+1 (5 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 16 (+2 Dex, +3 natural, +1 size), touch 13, flat-footed 14
+- **Base Attack**: +0; **CMB**: –1; **CMD**: 11
+- **Attack**: Claw +1 melee (1d4) or [[rangoric-srd/equipment/weapons/Longspear|longspear]] +1 melee (1d6)
+- **Full Attack**: 2 claws +1 melee (1d4); or [[rangoric-srd/equipment/weapons/Longspear|longspear]] +1 melee (1d6)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/slashing or bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
+- **Saves**: Fort +3, Ref +2, Will +0
+- **Abilities**: Str 11, Dex 14, Con 12, Int 8, Wis 11, Cha 11
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +10 (+18 in vegetation)
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any underground
+- **Organization**: Solitary, gang (2–6), or tribe (7–30 plus 1 chieftain)
+- **Challenge Rating**: 1/2
+- **Treasure**: Standard (longspear, other treasure)
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Vegepygmys are created by a dangerous fungus known as [[rangoric-srd/monsters/Russet Mold|russet mold]]—creatures slain by russet mold serve as incubators for the mold's spores, and a day later, the dead body bursts to release 1d6 fully grown vegepygmys. A vegepygmy has no real relation to the body from which it emerges, but the creature may yet retain a strange sort of reverence for its “birth corpse” and carry with it a grisly memento from the body, typically a few bones or teeth. Often, a vegepygmy uses such bones to craft a crude spear or some other weapon.
 

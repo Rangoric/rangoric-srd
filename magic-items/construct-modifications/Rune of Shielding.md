@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 A rune-carved [[rangoric-srd/magic-items/construct-modifications/Construct Modifications|construct modification]].
 
-This rune is triggered the first time the modified construct is attacked with a melee attack, ranged attack, or *[[rangoric-srd/spells/Magic Missile|magic missile]]*. The construct gains a +4 shield bonus to its Armor Class for 3 minutes. This is a force effect and applies against [[rangoric-srd/rules/Special Abilities and Conditions#^incorporeal|incorporeal]] touch attacks.
+This rune is triggered the first time the modified construct is attacked with a melee attack, ranged attack, or _[[rangoric-srd/spells/Magic Missile|magic missile]]_. The construct gains a +4 shield bonus to its Armor Class for 3 minutes. This is a force effect and applies against [[rangoric-srd/rules/Special Abilities and Conditions#^incorporeal|incorporeal]] touch attacks.
 
-Faint abjuration; CL 3rd; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Shield|shield]]*; Cost 1,200 gp.
+Faint abjuration; CL 3rd; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Shield|shield]]_; Cost 1,200 gp.

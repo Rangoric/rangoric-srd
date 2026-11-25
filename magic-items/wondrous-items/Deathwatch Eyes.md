@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Deathwatch Eyes
 
-These blood red crystal lenses fit snugly over the wearer's eyes. The wearer gains the constant effects of the *[[rangoric-srd/spells/Deathwatch|deathwatch]]* spell.
+These blood red crystal lenses fit snugly over the wearer's eyes. The wearer gains the constant effects of the _[[rangoric-srd/spells/Deathwatch|deathwatch]]_ spell.
 
-Faint necromancy; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Deathwatch|deathwatch]]*; Price 2,000 gp; Cost 1,000 gp.
+Faint necromancy; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Deathwatch|deathwatch]]_; Price 2,000 gp; Cost 1,000 gp.

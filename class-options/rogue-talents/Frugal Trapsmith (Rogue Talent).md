@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Frugal Trapsmith
 
-*An [[rangoric-srd/classes/Rogue#^rogue-advanced-talents|advanced talent]] (Ex).*
+_An [[rangoric-srd/classes/Rogue#^rogue-advanced-talents|advanced talent]] (Ex)._
 
 When a character with this talent constructs a mechanical trap, she only pays 75% of the normal cost.

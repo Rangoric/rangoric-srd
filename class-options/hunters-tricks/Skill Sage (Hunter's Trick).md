@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Skill Sage
 
-*A [[rangoric-srd/class-options/hunters-tricks/Hunter's Tricks|hunter’s trick]] (Ex), which a [[rangoric-srd/class-options/archetypes/ranger/Skirmisher (Archetype)|skirmisher]] ranger learns.*
+_A [[rangoric-srd/class-options/hunters-tricks/Hunter's Tricks|hunter’s trick]] (Ex), which a [[rangoric-srd/class-options/archetypes/ranger/Skirmisher (Archetype)|skirmisher]] ranger learns._
 
 As a free action, the ranger can roll twice on any one skill check and take the better result. He must have at least 1 rank in that skill to use this ability.

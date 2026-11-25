@@ -18,22 +18,22 @@ All Orbs of Dragonkind can be used to communicate verbally and visually with the
 
 Each Orb also has an individual power that can be invoked once per round at 10th caster level.
 
-  - *Black Dragon Orb*: Fly (Will DC 17 negates).
+- _Black Dragon Orb_: Fly (Will DC 17 negates).
 
-  - *Blue Dragon Orb*: Haste (Fortitude DC 17 negates).
+- _Blue Dragon Orb_: Haste (Fortitude DC 17 negates).
 
-  - *Brass Dragon Orb*: Teleport (Will DC 19 negates).
+- _Brass Dragon Orb_: Teleport (Will DC 19 negates).
 
-  - *Bronze Dragon Orb*: Scrying (Will DC 18 negates).
+- _Bronze Dragon Orb_: Scrying (Will DC 18 negates).
 
-  - *Copper Dragon Orb*: Suggestion (Will DC 17 negates).
+- _Copper Dragon Orb_: Suggestion (Will DC 17 negates).
 
-  - *Gold Dragon Orb*: The owner of the gold Orb can call upon any power possessed by one of the other Orbs—including the dominate and breath weapon abilities but not AC, save bonuses, or breath weapon immunity—but can only use an individual power once per day. She can use dominate on any other possessor of an Orb within 1 mile (Will DC 23 negates).
+- _Gold Dragon Orb_: The owner of the gold Orb can call upon any power possessed by one of the other Orbs—including the dominate and breath weapon abilities but not AC, save bonuses, or breath weapon immunity—but can only use an individual power once per day. She can use dominate on any other possessor of an Orb within 1 mile (Will DC 23 negates).
 
-  - *Green Dragon Orb*: Spectral hand.
+- _Green Dragon Orb_: Spectral hand.
 
-  - *Red Dragon Orb*: Wall of fire.
+- _Red Dragon Orb_: Wall of fire.
 
-  - *Silver Dragon Orb*: Cure critical wounds (Will DC 18 half ).
+- _Silver Dragon Orb_: Cure critical wounds (Will DC 18 half ).
 
-  - *White Dragon Orb*: Protection from energy (cold) (Fortitude DC 17 negates).
+- _White Dragon Orb_: Protection from energy (cold) (Fortitude DC 17 negates).

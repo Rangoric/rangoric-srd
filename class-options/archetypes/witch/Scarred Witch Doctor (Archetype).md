@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Scarred Witch Doctor
 
-*A [[rangoric-srd/classes/Witch#^witch-archetypes|witch]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Orc|orcs]].*
+_A [[rangoric-srd/classes/Witch#^witch-archetypes|witch]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Orc|orcs]]._
 
 The scarred witch doctor draws power from her ability to endure pain and suffering. She mutilates her own flesh, inflicting horrific scars, in order to attract the attention of her patron. Rather than call forth a familiar, she creates a repulsive fetish mask that she uses as a repository for her power. A scarred witch doctor has the following class features.
 

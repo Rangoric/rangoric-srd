@@ -18,8 +18,8 @@ tags: [rangoric, rangoric/magic-item]
 
 # Rusting
 
-*Rusting* weapons are always badly pitted and corroded, and the weapon with this special ability confers a -1 circumstance penalty on attacks made by its wielder due to its poor condition. Some sages have speculated that the rusting ability is not purposely added to a weapon, but is instead the result of an earlier ensorcelment that has faded. When used in combat they have the effect of the *[[rangoric-srd/spells/Rusting Grasp|rusting grasp]]* spell cast by a 7th-level druid.
+_Rusting_ weapons are always badly pitted and corroded, and the weapon with this special ability confers a -1 circumstance penalty on attacks made by its wielder due to its poor condition. Some sages have speculated that the rusting ability is not purposely added to a weapon, but is instead the result of an earlier ensorcelment that has faded. When used in combat they have the effect of the _[[rangoric-srd/spells/Rusting Grasp|rusting grasp]]_ spell cast by a 7th-level druid.
 
-Only melee weapons with a significant portion of metal (such as a longsword, but not a longspear or greatclub) may have this ability. *Rusting* weapons never shed light when drawn.
+Only melee weapons with a significant portion of metal (such as a longsword, but not a longspear or greatclub) may have this ability. _Rusting_ weapons never shed light when drawn.
 
-Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Rusting Grasp|rusting grasp]]*; Price +5 bonus.
+Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Rusting Grasp|rusting grasp]]_; Price +5 bonus.

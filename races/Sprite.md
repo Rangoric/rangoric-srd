@@ -25,7 +25,7 @@ Perks:
 - Low-Light Vision: Sprites have [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]].
 - Magic Item Affinity: Sprites are magical creatures by nature, and have an uncanny supernatural ability to operate magic items: [[rangoric-srd/skills/Emulation|Emulation]] is always a class skill for them.
 - Faerie Traits: At 3rd level, a sprite may pick one ECL point’s worth of [[rangoric-srd/races/Faerie#Faerie Traits|faerie traits]] (including spell-like abilities). Every three levels after that, a sprite can select another half ECL point’s worth of traits, or save them to buy more expensive traits later.
-- Spell-Like Abilities: 3/day—*[[rangoric-srd/spells/Good Luck|good luck]]* or *[[rangoric-srd/spells/Bad Luck|bad luck]]* (its choice each time), *[[rangoric-srd/spells/Invisibility|invisibility]]*; 1/day—*[[rangoric-srd/spells/Charm Person|charm person]]* (caster level equal to the sprite’s character level).
+- Spell-Like Abilities: 3/day—_[[rangoric-srd/spells/Good Luck|good luck]]_ or _[[rangoric-srd/spells/Bad Luck|bad luck]]_ (its choice each time), _[[rangoric-srd/spells/Invisibility|invisibility]]_; 1/day—_[[rangoric-srd/spells/Charm Person|charm person]]_ (caster level equal to the sprite’s character level).
 
 Languages:
 

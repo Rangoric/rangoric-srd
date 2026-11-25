@@ -15,9 +15,9 @@ tags: [rangoric, rangoric/spell]
 
 # Inflict Minor Wounds
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Clr 0
-  - **Saving Throw**: Will negates
+- **Level**: Clr 0
+- **Saving Throw**: Will negates
 
 This spell functions like [[rangoric-srd/spells/Inflict Light Wounds|inflict light wounds]], except that you deal 1 point of damage and a Will save negates the damage instead of halving it.

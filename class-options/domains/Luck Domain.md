@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Luck Domain
 
-*A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
+_A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]]._
 
 **Subdomains**: [[rangoric-srd/class-options/domains/Curse Subdomain|Curse]], [[rangoric-srd/class-options/domains/Fate Subdomain|Fate]].
 
@@ -33,15 +33,15 @@ You are infused with luck, and your mere presence can spread good fortune.
 
 Where a level has two spells, the cleric prepares [[rangoric-srd/class-options/domains/Domains#^domains-two-spells|either one]] in the domain spell slot.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Entropic Shield\|Entropic Shield]] | Ranged attacks against you have 20% miss chance. |
-| 1st | [[rangoric-srd/spells/True Strike\|True Strike]] (F) | +20 on your next attack roll. |
-| 2nd | [[rangoric-srd/spells/Aid\|Aid]] | +1 on attack rolls, +1 against fear, 1d8 temporary hp +1/level (max +10). |
-| 3rd | [[rangoric-srd/spells/Protection from Energy\|Protection from Energy]] | Absorb 12 points/level of damage from one kind of energy. |
-| 4th | [[rangoric-srd/spells/Freedom of Movement\|Freedom of Movement]] | Subject moves normally despite impediments. |
-| 5th | [[rangoric-srd/spells/Break Enchantment\|Break Enchantment]] | Frees subjects from enchantments, alterations, curses, and petrification. |
-| 6th | [[rangoric-srd/spells/Mislead\|Mislead]] | Turns you invisible and creates illusory double. |
-| 7th | [[rangoric-srd/spells/Spell Turning\|Spell Turning]] | Reflect 1d4+6 spell levels back at caster. |
-| 8th | [[rangoric-srd/spells/Moment of Prescience\|Moment of Prescience]] | You gain insight bonus on single attack roll, check, or save. |
-| 9th | [[rangoric-srd/spells/Miracle\|Miracle]] | Requests a deity’s intercession. |
+| Level | Spell                                                                  | Brief Description                                                         |
+| ----- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Entropic Shield\|Entropic Shield]]               | Ranged attacks against you have 20% miss chance.                          |
+| 1st   | [[rangoric-srd/spells/True Strike\|True Strike]] (F)                   | +20 on your next attack roll.                                             |
+| 2nd   | [[rangoric-srd/spells/Aid\|Aid]]                                       | +1 on attack rolls, +1 against fear, 1d8 temporary hp +1/level (max +10). |
+| 3rd   | [[rangoric-srd/spells/Protection from Energy\|Protection from Energy]] | Absorb 12 points/level of damage from one kind of energy.                 |
+| 4th   | [[rangoric-srd/spells/Freedom of Movement\|Freedom of Movement]]       | Subject moves normally despite impediments.                               |
+| 5th   | [[rangoric-srd/spells/Break Enchantment\|Break Enchantment]]           | Frees subjects from enchantments, alterations, curses, and petrification. |
+| 6th   | [[rangoric-srd/spells/Mislead\|Mislead]]                               | Turns you invisible and creates illusory double.                          |
+| 7th   | [[rangoric-srd/spells/Spell Turning\|Spell Turning]]                   | Reflect 1d4+6 spell levels back at caster.                                |
+| 8th   | [[rangoric-srd/spells/Moment of Prescience\|Moment of Prescience]]     | You gain insight bonus on single attack roll, check, or save.             |
+| 9th   | [[rangoric-srd/spells/Miracle\|Miracle]]                               | Requests a deity’s intercession.                                          |

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Leap
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “leap”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “leap”, on the Special Qualities line.
 
 The creature can take 10 on [[rangoric-srd/skills/Athletics|Athletics]] checks to jump even if distracted or in danger. The [[rangoric-srd/monsters/Giant Locust|giant locust]] has it.

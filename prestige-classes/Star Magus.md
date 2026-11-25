@@ -47,13 +47,13 @@ The star magus’s class skills (and the key ability for each skill) are [[rango
 
 **Table: The Star Magus** ^table-the-star-magus
 
-| Level | Special | Spells per Day |
-| --- | --- | --- |
-| 1st | Superior spell focus +2 | +1 level of existing arcane spellcasting class |
-| 2nd | Focused spell penetration +2 | +1 level of existing arcane spellcasting class |
-| 3rd | Superior spell focus +4, bonus feat | +1 level of existing arcane spellcasting class |
-| 4th | Focused spell penetration +4 | +1 level of existing arcane spellcasting class |
-| 5th | Superior spell focus +6 | +1 level of existing arcane spellcasting class |
+| Level | Special                             | Spells per Day                                 |
+| ----- | ----------------------------------- | ---------------------------------------------- |
+| 1st   | Superior spell focus +2             | +1 level of existing arcane spellcasting class |
+| 2nd   | Focused spell penetration +2        | +1 level of existing arcane spellcasting class |
+| 3rd   | Superior spell focus +4, bonus feat | +1 level of existing arcane spellcasting class |
+| 4th   | Focused spell penetration +4        | +1 level of existing arcane spellcasting class |
+| 5th   | Superior spell focus +6             | +1 level of existing arcane spellcasting class |
 
 ###### Class Features
 

@@ -18,4 +18,4 @@ tags: [rangoric, rangoric/magic-item]
 
 Only flexible melee weapons (those made with chain, rope, leather, etc.) can have the elongating ability. As a free action, the wielder can will the weapon to stretch up to twice its normal length, thus doubling the weapon’s range. The weapon automatically recoils to its normal length after it has disengaged the target, such as after an attack, disarm or a trip attempt.
 
-Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Animate Rope|animate rope]]*; Price +1 bonus.
+Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Animate Rope|animate rope]]_; Price +1 bonus.

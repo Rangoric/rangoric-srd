@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Slat Armor
 
-*Medium armor.* Cost 30 gp; Armor Bonus +3; Maximum Dex Bonus +4; Armor Check Penalty –3; Arcane Spell Failure 25%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 25 lb. ^stats
+_Medium armor._ Cost 30 gp; Armor Bonus +3; Maximum Dex Bonus +4; Armor Check Penalty –3; Arcane Spell Failure 25%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 25 lb. ^stats
 
 Slat armor is very bulky, and not very maneuverable armor made from rods and slats of wood, braided with sinew and covered by thick hide. It is most useful against slashing and bludgeoning weapons, although piercing weapons may be completely blocked if they happen to strike a slat directly.

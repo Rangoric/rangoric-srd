@@ -16,11 +16,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Metal Mystery
 
-*An [[rangoric-srd/classes/Oracle#^oracle-mystery|oracle mystery]].*
+_An [[rangoric-srd/classes/Oracle#^oracle-mystery|oracle mystery]]._
 
 **Class Skills**: An oracle with the metal mystery adds [[rangoric-srd/skills/Appraise|Appraise]], [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Engineering|Engineering]], [[rangoric-srd/skills/Intimidation|Intimidation]], and [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] to her list of class skills.
 
-**Bonus Spells**: *[[rangoric-srd/spells/Lead Blades|lead blades]]* (2nd), *[[rangoric-srd/spells/Heat Metal|heat metal]]* (4th), *[[rangoric-srd/spells/Keen Edge|keen edge]]* (6th), *[[rangoric-srd/spells/Versatile Weapon|versatile weapon]]* (8th), *[[rangoric-srd/spells/Major Creation|major creation]]* (metal items only) (10th), *[[rangoric-srd/spells/Wall of Iron|wall of iron]]* (12th), *[[rangoric-srd/spells/Statue|statue]]* (metal statue instead of iron) (14th), *[[rangoric-srd/spells/Repel Metal or Stone|repel metal or stone]]* (16th), *[[rangoric-srd/spells/Iron Body|iron body]]* (18th).
+**Bonus Spells**: _[[rangoric-srd/spells/Lead Blades|lead blades]]_ (2nd), _[[rangoric-srd/spells/Heat Metal|heat metal]]_ (4th), _[[rangoric-srd/spells/Keen Edge|keen edge]]_ (6th), _[[rangoric-srd/spells/Versatile Weapon|versatile weapon]]_ (8th), _[[rangoric-srd/spells/Major Creation|major creation]]_ (metal items only) (10th), _[[rangoric-srd/spells/Wall of Iron|wall of iron]]_ (12th), _[[rangoric-srd/spells/Statue|statue]]_ (metal statue instead of iron) (14th), _[[rangoric-srd/spells/Repel Metal or Stone|repel metal or stone]]_ (16th), _[[rangoric-srd/spells/Iron Body|iron body]]_ (18th).
 
 ## Revelations
 
@@ -48,4 +48,4 @@ An oracle with the metal mystery can choose from any of the following [[rangoric
 
 ## Final Revelation
 
-Upon reaching 20th level, you become a master of iron and steel. You gain the benefits of Weapon Focus, Greater Weapon Focus, and Improved Critical with any one metal weapon that you are proficient with. Your armor is like a second skin to you—while wearing metal armor you are proficient with, the armor's maximum Dexterity bonus increases by +5 and you take no armor check penalty. In addition, any metal you create with your magic (such as *[[rangoric-srd/spells/Wall of Iron|wall of iron]]*) has its hardness increased by +10. ^metal-final-revelation
+Upon reaching 20th level, you become a master of iron and steel. You gain the benefits of Weapon Focus, Greater Weapon Focus, and Improved Critical with any one metal weapon that you are proficient with. Your armor is like a second skin to you—while wearing metal armor you are proficient with, the armor's maximum Dexterity bonus increases by +5 and you take no armor check penalty. In addition, any metal you create with your magic (such as _[[rangoric-srd/spells/Wall of Iron|wall of iron]]_) has its hardness increased by +10. ^metal-final-revelation

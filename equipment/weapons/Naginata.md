@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/pole-arms, eastern]
 
 # Naginata
 
-*Martial two-handed melee weapon (reach).* Cost 35 gp; Dmg 1d6 (S), 1d8 (M); Critical x4; Weight 9 lb.; Type Slashing. ^stats
+_Martial two-handed melee weapon (reach)._ Cost 35 gp; Dmg 1d6 (S), 1d8 (M); Critical x4; Weight 9 lb.; Type Slashing. ^stats
 
 The naginata consists of a 6-foot staff affixed to a 2-foot-long, swordlike slightly curved blade. The shaft is designed to keep the wielder out of reach from swords and shorter weapons. A naginata has reach. You can strike opponents 10 feet away with it, but you can’t use it against an adjacent foe.
