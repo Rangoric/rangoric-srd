@@ -9,7 +9,69 @@ tags: [rangoric, rangoric/note-rules]
 
 # Monsters Note Rules
 
-What the notes in `monsters` look like. No folder rules yet: the whole-SRD rules in the [README](../README.md#note-rules) apply.
+What the notes in `monsters` look like. The whole-SRD rules are in the [README](../README.md#note-rules); Sweep and the "Check notes" workflow check both.
+
+## monster
+
+| Key                 | Required | Values         |
+| ------------------- | -------- | -------------- |
+| `srd-type`          | yes      | `monster`      |
+| `section`           | yes      | `Monsters`     |
+| `creature-type`     | no       | `text`         |
+| `organization`      | no       | `text`         |
+| `advancement`       | no       | `text`         |
+| `challenge-rating`  | no       |                |
+| `environment`       | no       | `text`         |
+| `size`              | no       | `text`         |
+| `armor-class`       | no       | `text`         |
+| `hit-dice`          | no       | `text`         |
+| `initiative`        | no       | `text`         |
+| `speed`             | no       | `text`         |
+| `space-reach`       | no       | `text`         |
+| `special-attacks`   | no       | `text`         |
+| `special-qualities` | no       | `text`         |
+| `saves`             | no       | `text`         |
+| `abilities`         | no       | `text`         |
+| `skills`            | no       | `text`         |
+| `attack`            | no       | `text`         |
+| `full-attack`       | no       | `text`         |
+| `base-attack`       | no       | `text`         |
+| `cmb`               | no       | `text`         |
+| `cmd`               | no       | `text`         |
+| `treasure`          | no       | `text`         |
+| `skill-ranks`       | no       | `text`         |
+| `feats`             | no       | `text`         |
+| `alignment`         | no       | `text`         |
+| `level-adjustment`  | no       | `text`         |
+| `book`              | no       |                |
+| `group`             | no       | `text`         |
+| `subtypes`          | no       | list of `text` |
+
+Headings, in order:
+
+1. `# (name)`
+
+## monster-ability
+
+| Key            | Required | Values            |
+| -------------- | -------- | ----------------- |
+| `srd-type`     | yes      | `monster-ability` |
+| `section`      | yes      | `Monsters`        |
+| `ability-type` | yes      | list of `text`    |
+| `kind`         | yes      | list of `text`    |
+| `book`         | no       | `text`            |
+
+Headings, in order:
+
+1. `# (name)`
+
+## overview
+
+| Key        | Required | Values     |
+| ---------- | -------- | ---------- |
+| `srd-type` | yes      | `overview` |
+| `section`  | yes      | `Monsters` |
+| `book`     | no       | `text`     |
 
 ## Failing notes
 
